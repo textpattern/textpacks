@@ -59,7 +59,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                 unset($missing[$data['name']]);
             }
 
-            $this->assertEquals(count($missing), 0, $file->getBasename().' is missing '.count($missing).' strings: '.implode(', ', $missing));
+            $this->assertEquals(0, count($missing), $file->getBasename().' is missing '.count($missing).' strings: '.implode(', ', $missing));
         }
     }
 
