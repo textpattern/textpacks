@@ -119,7 +119,7 @@ class Parser
 			}
 
 			// Translation.
-			if (preg_match('/^(\w+)\s*=>\s*(.+)?$/', $line, $m))
+			if (preg_match('/^([\w\-]+)\s*=>\s*(.+)?$/', $line, $m))
 			{
 				if (!empty($m[1]))
 				{
