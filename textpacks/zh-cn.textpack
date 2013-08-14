@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => 新增作者
 and_mailed_to => 同时邮寄到
@@ -381,7 +381,6 @@ no_temp_dir => 没有定义临时目录
 old_files => 一些 Textpattern 文件已过期
 old_placeholder => 旧的占位文件是妨碍的
 os_version => 服务器操作系统
-path_not_doc_root => 
 path_to_site_inacc => $path_to_site 是无效的
 php_extensions => PHP 扩展
 php_sapi_mode => PHP Server API

@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Adauga un autor nou
 and_mailed_to => si a fost trimis mail lui
@@ -360,7 +360,7 @@ detail => Detalii
 dev_version_live => Rulezi fisiere dev pe un server de productie
 diagnostic_info => Rezultatele diagnosticului
 dir_not_writable => {dirtype} nu se poate scrie
-dns_lookup_fails =>  DNS lookup-ul pentru domeniul web a esuat
+dns_lookup_fails => DNS lookup-ul pentru domeniul web a esuat
 document_root => Radacina documentului
 file_uploads_disabled => Upload-ul fisierelor a fost dezactivat
 gd_info => {version}; formate suportate: {supported}
@@ -381,7 +381,6 @@ no_temp_dir => Director temporar nedefinit
 old_files => Anumite fisiere ale Textpattern-ului sunt expirate
 old_placeholder => Loctiitorul vechi al fisierului sta in cale
 os_version => Sistem operare server
-path_not_doc_root => 
 path_to_site_inacc => Calea catre site (path_to_site) nu este accesibil
 php_extensions => Extensii PHP
 php_sapi_mode => PHP Server API
@@ -512,7 +511,7 @@ invalid_width_or_height => Latime sau inaltime invalide
 keep_square_pixels => Crop-uieste
 not_saved => <strong>not</strong> salvat!
 no_images_recorded => Nici o imagine salvata.
-only_graphic_files_allowed =>  .jpg, .gif, .png sau .swf fisiere grafice permise
+only_graphic_files_allowed => .jpg, .gif, .png sau .swf fisiere grafice permise
 replace_image => Inlocuieste imaginea
 save_these_settings_as_default => Salveaza setarile ca default
 thumbnail_deleted => Thumbnail sters.

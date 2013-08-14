@@ -1,4 +1,4 @@
-#@version 4.5.4;1362563567
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Dodaj novog autora
 and_mailed_to => i poslano
@@ -381,7 +381,6 @@ no_temp_dir =>
 old_files => Some Textpattern files are out of date
 old_placeholder => Old placeholder file is in the way
 os_version => Server OS
-path_not_doc_root => 
 path_to_site_inacc => $path_to_site is inaccessible.
 php_extensions => PHP extensions
 php_sapi_mode => PHP Server API
@@ -512,7 +511,7 @@ invalid_width_or_height => Nedopuštena širina ili visina
 keep_square_pixels => Kidanje
 not_saved => <strong>nije</strong> spremljeno!
 no_images_recorded => Nema snimljenih slika.
-only_graphic_files_allowed =>  .jpg, .gif, .png or .swf graphic files allowed
+only_graphic_files_allowed => .jpg, .gif, .png or .swf graphic files allowed
 replace_image => Zamijeni sliku
 save_these_settings_as_default => Spremi postavke kao default
 thumbnail_deleted => 
@@ -836,7 +835,7 @@ edit => Uredi
 email => E-mail
 email_address => E-mail adresa
 emphasis => naglasak
-enter_comment_here => <strong>Unesite Vaš komentar.</strong> Polja označena sa <b class="required" title="Obavezno">*</b> su obavezna. Prije konačnog podnošenja morate pregledati svoj komentar.  
+enter_comment_here => <strong>Unesite Vaš komentar.</strong> Polja označena sa <b class="required" title="Obavezno">*</b> su obavezna. Prije konačnog podnošenja morate pregledati svoj komentar.
 error_article_context => Tagovi članka ne mogu biti upotrebljavani izvan konteksta članka
 error_category_context => 
 error_comment_context => 

@@ -1,10 +1,11 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => ایک نۓ مصنف کو شامل کریں
 and_mailed_to => اور یہاں ای میل بھیجو
 assign_assets_to => صارف کے اشیا یہاں تفویض کریں
-author_deleted =>مصنف <strong>{name}</strong> کو حذف کیا گیا => 
-author_updated =>مصنف <strong>{name}</strong> کا تازہ کاری کیا گ => 
+author_already_exists => 
+author_deleted => مصنف <strong>{name}</strong> کو حذف کیا گیا =>
+author_updated => مصنف <strong>{name}</strong> کا تازہ کاری کیا گ =>
 a_message_will_be_sent_with_login => لاگان معلومات ای میل بذریعہ بھیجے جائنگے
 a_new_password_will_be_mailed => ایک نیا  ‏پاس ورڈ‏ ای مل بذریعہ بھیجا جایگا
 cannot_assign_assets_to_deletee => 
@@ -16,7 +17,7 @@ could_not_mail => ای میل بھیجنے میں ناکامی
 could_not_update_author => مصنف کے معلومات تازہ کرنے میں ناکامی
 designer => ڈیزائنر
 edit_author => مصنف کے معلومات تدوین کریں
-email_changed =>ای میل کا پتہ {email} کو بدلہ گیا => 
+email_changed => ای میل کا پتہ {email} کو بدلہ گیا =>
 error_adding_new_author => نۓ مصنف کو شامل کرنے میں نقص !
 freelancer => مصنف آزاد
 last_login => پچھلا لاگ ان
@@ -31,8 +32,8 @@ password_changed => ‏پاس ورڈ‏ تبدیل کیا
 password_changed_mailed => ‏پاس ورڈ‏ تبدیل کیا گیا اور ای میل بذریعہ {email} کو بھیجا گیا
 password_forgotten => کیا آپ اپنا ‏پاس ورڈ‏ بھول گئے ؟
 password_required => بارہ کرم، ایک نیا  ‏پاس ورڈ‏ داخل کریں
-password_reset =>  ‏پاس ورڈ‏ پھر سیٹ کریں
-password_reset_button =>  ‏پاس ورڈ پھر سیٹ کریں
+password_reset => ‏پاس ورڈ‏ پھر سیٹ کریں
+password_reset_button => ‏پاس ورڈ پھر سیٹ کریں
 password_reset_confirmation => کسی نے (شاید آپ نے) اپنے پاس ورڈ پھر سیٹ کروانے کی درخواست کی. بارہ مہربانی، نیچے ربط پر کلک کریں اور اس درخواست کی آپ تصدیق کریں
 password_reset_confirmation_request => بارہ مہربانی، آپ کے پاس ورڈ پھر سیٹ کروانے کی درخواست کو تصدیق کریں
 password_reset_confirmation_request_sent => آپ کو ایک تصدیق کردہ ای میل بھیجا گیا، بارہ مہربانی اس ای میل در ہدایتوں  کو اپنائیں،
@@ -41,7 +42,7 @@ privileges => استہقاق
 privs_none => 
 publisher => ناشر
 real_name => اصلی نام
-resetpassword =>  ‏پاس ورڈ‏ پھر سیٹ کریں
+resetpassword => ‏پاس ورڈ‏ پھر سیٹ کریں
 reset_author_password => مصنف کا ‏پاس ورڈ‏ پھر سیٹ کریں
 site_administration => صارفین
 staff_writer => اندرونی مصنف
@@ -153,7 +154,7 @@ bad_cookie => اس نشست کی مدّت ختم ہوی، بارہ کرم دو �
 bg-bg => Български
 body => بیان
 ca-es => Català
-cannot_instantiate_theme =>  خیالیہ <strong>{name}</strong> ({class}) صحیح طرح سے {path} سے لوڈ نہیں ہوا، اس لیے اب Classic خیلیہ استمعال کیا جاۓ گا
+cannot_instantiate_theme => خیالیہ <strong>{name}</strong> ({class}) صحیح طرح سے {path} سے لوڈ نہیں ہوا، اس لیے اب Classic خیلیہ استمعال کیا جاۓ گا
 category => زمرہ
 changeauthor => مصنف تبدیل کریں
 changecategory => زمرہ تبدیل کریں
@@ -169,7 +170,7 @@ comments_expired =>
 confirm_delete_popup => واقعی حذف کریں ؟
 cookies_must_be_enabled => Textpattern استمعال کرنے کے لیے، براؤزر کی کوکی اہل بنانا لازمی ہے
 could_not_log_in => اس نام یا پاسورڈ سے لاگ ان نہیں ہو سکا
-cs-cz => Čeština
+cs-cz => &#268;e&#353;tina
 da-dk => Dansk
 date_added => 
 de-de => Deutsch
@@ -180,10 +181,10 @@ description => تفصیل
 detail_toggle => ‏تفصیل کے ساتھ دیکھیں
 draft => نا ہموار
 duplicate => 
-el-gr => Ελληνικά
+el-gr => &#917;&#955;&#955;&#951;&#957;&#953;&#954;ά
 en-gb => English (Great Britain)
 en-us => English (United States)
-es-es => Español
+es-es => Espa&#241;ol
 et-ee => Eesti
 excerpt => اختصار
 expired => زائدالمدت
@@ -192,7 +193,7 @@ fi-fi => Suomi
 form_not_found => فارم (Form) نہیں ملا
 form_not_specified => کوئی فارم (Form) تخصیص نہیں کیا
 form_submission_error => 
-fr-fr => Français
+fr-fr => Fran&#231;ais
 gd_unavailable => دستیاب نہیں
 general_error => 
 get_off_my_lawn => 
@@ -225,7 +226,7 @@ navigation =>
 nl-nl => Nederlands
 no-no => Norsk
 no_results_found => کچھ نہیں ملا
-password =>  ‏پاس ورڈ‏
+password => ‏پاس ورڈ‏
 per_page => ایک صفہ پر
 pl-pl => Polski
 pt-br => Português (Brasil)
@@ -238,7 +239,7 @@ ru-ru => Русский
 save_new => محفوظ کریں بطور
 showing_search_results => ‏{total} میں سے نمائش کردہ {from} سے {to}
 site_slogan => سائٹ کا نعرہ
-sk-sk => Slovenčina
+sk-sk => Sloven&#269;ina
 sort_value => چھانٹ متبادل (اختیاری)
 spam => spam
 stay_logged_in => اس براؤزر میں بقیہ وقت داخل رہیں
@@ -298,7 +299,6 @@ upload_err_cant_write => ڈسک پر فائل محفوظ کرنے میں ناک�
 upload_err_extension => فائل کا اپ لوڈ ایک PHP سے روکا گیا اضافی
 upload_err_form_size => فائل کی سائز Textpattern کے ترجیحات میں تخصیص کردہ سائز کو تجاوز کرتی ہے
 upload_err_ini_size => فائل کی سائز php.ini میں upload_max_filesize کی ہدایت کو تجاوز کرتی ہے
-
 upload_err_no_file => کوئی فائل ‏تخصیص نہیں کیا
 upload_err_partial => فائل کا اپ لوڈ ادھورا رہ گیا
 upload_err_tmp_dir => ایک عارضی پوشہ موجود نہیں، اس پوشہ میں PHP اپ لوڈ کردہ فائل ذخیرہ کرتا ہے، بارہ کرم آپ کے ویب-میزبان سے مشورہ کریں
@@ -338,7 +338,7 @@ delete_this_declaration => یہ ڈکلریشن حذف کریں
 edit_css => سٹائل
 edit_css_file => CSS فائل تدوین کریں
 edit_css_in_form => CSS تدوین خانہ میں تدوین کریں
-edit_raw_css =>  خام CSS تدوین کریں
+edit_raw_css => خام CSS تدوین کریں
 name_for_this_style => سٹائل کا نام
 property => پراپرٹی
 save_css_as => سٹائل کو بطور محفوظ کریں:
@@ -381,7 +381,6 @@ no_temp_dir =>
 old_files => کئی Textpattern کے فائل متروک ہے
 old_placeholder => پرانی جگہ دار فائل اب بھی موجود ہے
 os_version => سرور کا نظام عمل
-path_not_doc_root => 
 path_to_site_inacc => $path_to_site نا پذیری ہے
 php_extensions => PHP اضافی
 php_sapi_mode => PHP سرور API موڈ
@@ -481,15 +480,15 @@ create_new_form => ایک نیا فارم بناۓ
 delete_form_confirmation => فارم (form) کو حذف کرنے کی تصدیق کریں
 edit_forms => فارم ٹیمپلیٹ
 forms_deleted => فارم حذف کیا: <strong>{list}</strong>
-form_already_exists =>  فارم <strong>{name}</strong> پہلے سے موجود ہے
+form_already_exists => فارم <strong>{name}</strong> پہلے سے موجود ہے
 form_code => 
-form_created =>  فارم <strong>{name}</strong> بنا ہوا
+form_created => فارم <strong>{name}</strong> بنا ہوا
 form_name => نام (‏لازمی‏)
 form_name_invalid => فارم نام ناجائز
 form_save_failed => 
 form_type => قسم (‏لازمی‏)
 form_type_missing => فارم کی قسم خالی نہیں رہ سٹکی
-form_updated =>  فارم <strong>{name}</strong> تازہ کیا
+form_updated => فارم <strong>{name}</strong> تازہ کیا
 list_forms => list forms
 you_are_editing_form => آپ یہ فارم تدوین کر رہے ہیں
 #@image
@@ -581,7 +580,7 @@ page_code =>
 page_created => صفہ <strong>{name}</strong> بنا ہوا
 page_deleted => صفہ <strong>{name}</strong> حذف کیا
 page_misc_hed => Miscellaneous
-page_name =>  صفہ نام
+page_name => صفہ نام
 page_name_invalid => صفہ نام ناجائز
 page_nav_hed => Site Navigation
 page_save_failed => 
@@ -686,7 +685,7 @@ id_title => /id/title
 img_dir => تصاویر کا پوشہ
 include_email_atom => کیا آٹوم فیڈ میں مصنف کا ای میل پتہ شامل کریں ؟
 install_from_textpack => 
-install_langfile =>  نئے زبان آپ {url} سے ڈاونلوڈ کر سکتے ہیں ور پھر  /textpattern/lang/ پوشہ میں دستیاب کریں
+install_langfile => نئے زبان آپ {url} سے ڈاونلوڈ کر سکتے ہیں ور پھر  /textpattern/lang/ پوشہ میں دستیاب کریں
 install_language => زبان تنصیب کریں
 install_textpack => Install textpack
 is_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> اہل بنا ہے ؟
@@ -758,20 +757,19 @@ updated_branch_version_available => There is an update for this Textpattern vers
 update_languages => زبان کی فائل تازہ کریں
 urls_to_ping => اشاعت کرتے یہ URLs کو بھی اطلاعت کریں (comma-separated)
 url_mode => URL موڈ
-use_comments =>  کیا تبصرہ کرنے کی اجازت ہے ؟
+use_comments => کیا تبصرہ کرنے کی اجازت ہے ؟
 use_dns => سرگمی کے لیے DNS کا نظر کریں ؟
 use_mail_on_feeds_id => کیا فیڈ ID بنانے کے لیے ای میل پتہ استمعال کریں ؟ (‏خودکار طور پر‏ سائٹ کا URL استمعال کیا جاتا ہے)
 use_plugins => کیا پلگ ان استمعال کریں ؟
 year_month_day_title => /year/month/day/title
 #@public
 403_forbidden => 
-404_not_found => نقص ٤٠٤: یہ صفہ یا مضمون کھویا ہوا ہے 
+404_not_found => نقص ٤٠٤: یہ صفہ یا مضمون کھویا ہوا ہے
 410_gone => نقص ٤١٠: یہ صفہ یا مضمون اب دستیاب نہیں ہے
 500_internal_server_error => 
 ago => پہلے
 all => تمام
 already_exists => پہلے سے موجود ہے
-ar-dz => جزائري عربي
 articles => مضامین
 articles_found => مضامین ملے
 article_context => 
@@ -782,12 +780,10 @@ author => مصنف
 authors => مصنفین
 a_few_seconds => چند سیکنڈ
 back_to_top => 
-bg-bg => Български
 blockquote => اقتباس
 browse => براؤز کریں
 bs-ba => Bosanski (Bosna i Hercegovina)
 bulleted_list => نقطہ وار فہرست
-ca-es => Català
 caption => تصویر کی تفصیل
 categories => زمرے
 categorize => زمرہ بندی
@@ -819,14 +815,11 @@ copy => نقل کریں
 create => بنائیں
 created => بنا ہوا
 create_new => نیا بنائیں
-cs-cz => &#268;e&#353;tina
-da-dk => Dansk
 date => تاریخ
 dateformat => وضع تاریخ
 date_case => تاریخ کا حرفی شکل
 day => دن
 days => دنوں
-de-de => Deutsch
 default => طے شدہ
 definition_list => 
 delete => حذف کریں
@@ -839,59 +832,44 @@ deprecated_function_with => function {name} is deprecated: use {with} instead
 deprecated_tag => tag is deprecated
 download_count => 
 edit => تدوین کریں
-el-gr => &#917;&#955;&#955;&#951;&#957;&#953;&#954;ά
 email => ای میل
 email_address => ای میل پتہ
 emphasis => زور اصرار
-en-gb => English (Great Britain)
-en-us => English (United States)
 enter_comment_here => 
 error_article_context => Article tags cannot be used outside an article context
 error_category_context => 
 error_comment_context => Comment tags cannot be used outside a comment context
 error_file_context => File tags cannot be used outside a file context
+error_image_context => 
 error_link_context => Link tags cannot be used outside a link context
 error_section_context => 
-es-es => Espa&#241;ol
-et-ee => Eesti
 extensions => Extensions
 fa-ir => Persian (پارسی)
-fi-fi => Suomi
 file_context => 
 file_size => 
 foo_bar => Testing for underscores issue
 forget => میرے معلومات بھول جاؤ
 form => فارم Form
 forms => فارم Forms
-fr-fr => Fran&#231;ais
-gl-gz => Galego
 go => جائیں
 go_content => Go to content
 go_nav => Go to navigation
 go_search => Go to search
 go_to => یہاں جایں
 go_txp_com => 
-he-il => עברית
 header => سرخی
 home => سرورق
 host => سرور
 hour => گھنٹہ
 hours => گھنتیں
 hr => افقی لکیر
-hr-hr => Hrvatski
-hu-hu => Magyar
 hyperlink => بالا ربط
-id-id => Bahasa Indonesia
 image => تصویر
 imageurl => تصویر کا URL
 image_context => 
 inserted_text => داخل کردہ متن
 invalid_attribute_value => {name} is not a valid attribute value
-is-is => Íslenska
-it-it => Italiano
-ja-jp => 日本語
 keywords => کلیدی الفاظ
-ko-kr => 한국말 (대한민국)
 label => لیبل
 last_modification => پچھلا ترمیم
 linebreak => نئی لائیں
@@ -903,7 +881,6 @@ list_links => روابط کی فہرست
 live => نشریہ
 lowercase => چھوٹے حروف
 lt-lt => Lietuvių
-lv-lv => Latviešu
 main_content => 
 manual => دستی
 matching_search_request => 
@@ -921,9 +898,7 @@ name => نام
 never => کبھی نہیں
 newer => اور نیا
 next => اگلا
-nl-nl => Nederlands
 no => ناں
-no-no => Norsk
 none => کوچہ نہیں
 nopopup => فعال دریچہ میں
 no_comments => 
@@ -938,7 +913,6 @@ pages => صفحات
 paragraph => پیرا‏
 permanent_link => اس مضمون لا ‏مستقل‏ ربط
 permlink => مستقل‏ ربط
-pl-pl => Polski
 plugin_load_error => پلگ ان نصب کرنے میں نقص
 plugin_load_error_above => اپر نقائص کا سبب یہ پلگ ان ہے:
 popup => برخیزہ میں
@@ -948,8 +922,6 @@ posted_by => شائع کردہ
 press_preview_then_submit => 
 prev => پچھلا
 preview => پیش منظر
-pt-br => Português (Brasil)
-pt-pt => Português (Portugal)
 publish => اشاعت
 published_at => کب شائع کیا
 raw_php_deprecated => Raw PHP tags are deprecated
@@ -959,9 +931,7 @@ recent_posts => حالیہ مسودے
 remember => میرے معلومات یاد رکھو
 required => 
 revert => ‏پچھلی حالت پر واپس لائیں
-ro-ro => Română
 rss_feed_title => اسس فیڈ
-ru-ru => Русский
 save => محفوظ کریں
 saved => محفوظ کردہ
 save_button => محفوظ کریں
@@ -972,7 +942,6 @@ selected => منتخب شدہ
 site => سائٹ
 sitename => سائٹ کا نام
 siteurl => سائٹ کا URL
-sk-sk => Sloven&#269;ina
 skip_to_main_content => 
 sp-rs => Srpski
 sr-rs => Српски
@@ -981,13 +950,11 @@ strong => جلی
 submit => بھیجیں
 subscript => ذیلی تحریر
 superscript => بالائی تحریر
-sv-se => Svenska
 tag_error => Tag error:
 textile_help => Textile مدد
 textile_lite_help => Textile Lite مدد
 text_conversion => Text conversion
 text_handling => Text handling
-th-th => ไทย
 time => وقت
 time_ago => {time} پہلے
 title => ‏عنوان‏
@@ -995,7 +962,6 @@ tooltip => ربط کا ٹوٹکا
 too_common_search_term => 
 tr-tr => Türkçe
 type => قسم
-uk-ua => Українська
 undefined => غیر واضع
 unknown_attribute => Unknown tag attribute: {att}
 unknown_callback_function => 
@@ -1010,7 +976,6 @@ ur-in => اردو (بھارت)
 url => URL
 value => ویلو
 version => ورژن
-vi-vn => Tiếng Việt (Việt Nam)
 view => دیکھیں
 website => ویب سائٹ
 week => ہفتہ
@@ -1021,8 +986,6 @@ your_branch_is_updated => اس شاخ میں آپ کا Textpattern ورژن سب
 your_ip_is_blacklisted_by => تمہارا  IPپتہ اس ‏'Blacklist' میں شامل ہے
 you_have_been_banned => تبصرہ کرنے سے تم پر بندش لگائی گئی
 yyyy-mm => yyyy-mm
-zh-cn => 中文(简体)
-zh-tw => 中文(繁體)
 #@section
 article_count => 
 create_section => 
@@ -1042,7 +1005,7 @@ section_longtitle => صیغہ کا عنوان
 section_name => صیغہ کا نام
 section_name_already_exists => صیغہ <strong><a href="#section-{name}">{name}</a></strong> پہلے سے موجود ہے
 section_save_failed => 
-section_updated =>  صیغہ <strong><a href="#section-{name}">{name}</a></strong> تازہ کیا
+section_updated => صیغہ <strong><a href="#section-{name}">{name}</a></strong> تازہ کیا
 section_used_by_article => صیغہ <strong>{name}</strong> حذف کرنا ناممکن; {count} مضمون اسے استمعال کر رہے ہیں
 selected_by_default => خود کار طور پر منتخب شدہ
 style => سٹائل
@@ -1053,7 +1016,7 @@ uses_style => یہ سٹائل استمعال کریں
 about_to_create => اب ڈیٹابیس کے جدول بھریں جاینگے
 add_config_file => 
 admin_theme => 
-already_installed =>  Textpattern لگتا ہے کی <br />کو نصب کرنا چاہتے ہیں تو Textpattern اگر آپ پھر تازہ <br />پوشہ سے حذف کرے <code>Textpattern</code> فائل کو <code>config.php</code><br />اور پھر کوشس کریں
+already_installed => Textpattern لگتا ہے کی <br />کو نصب کرنا چاہتے ہیں تو Textpattern اگر آپ پھر تازہ <br />پوشہ سے حذف کرے <code>Textpattern</code> فائل کو <code>config.php</code><br />اور پھر کوشس کریں
 back => 
 before_you_proceed => آگے جانے سے پہلے <br />
 checking_database => ڈیٹابیس مع ربط کر رہا ہے
@@ -1061,7 +1024,7 @@ choose_password => ایک پاسورڈ انتخاب کریں
 config_php_does_not_match_input => 
 config_php_not_found => 
 core_theme => 
-create_config => نام کی ایک فائل بناۓ اور اس میں مندرجہ ذیل کوڈ داخل کریں <code>config.php</code> پوشہ میں <code>/textpattern/</code> اب 
+create_config => نام کی ایک فائل بناۓ اور اس میں مندرجہ ذیل کوڈ داخل کریں <code>config.php</code> پوشہ میں <code>/textpattern/</code> اب
 creating_config => 
 creating_db_tables => 
 db_cant_connect => ڈیٹابیس مع ربط نہیں ہو سکا
@@ -1087,7 +1050,7 @@ pass_required =>
 please_enter_url => بارہ کرم آپ کی سائٹ کا ویب پہنچنا پتہ داخل کریں
 please_go_back => 
 populate_db => 
-prefix_bad_characters =>  میں کئی حروف ہیں جس کی اجازت نہیں {dbprefix} جدول سابقہ <br /> کے ساتھ مشابہ ہونا چاہئے <b>a-zA-Z_</b> کے ساتھ مشابہ ہونا چاہئے اور بقیہ حروف کسی بھی <strong>a-zA
+prefix_bad_characters => میں کئی حروف ہیں جس کی اجازت نہیں {dbprefix} جدول سابقہ <br /> کے ساتھ مشابہ ہونا چاہئے <b>a-zA-Z_</b> کے ساتھ مشابہ ہونا چاہئے اور بقیہ حروف کسی بھی <strong>a-zA
 prefix_warning => (نصب کرنا چاہتے ہے Textpattern تب استمعال کریں جب ایک ہی ڈیٹابیس میں ایک سے زیادہ <strong>صرف</strong>)
 progress_steps => 
 setup_comment_invite => تبصرہ

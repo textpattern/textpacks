@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Nový autor
 and_mailed_to => a odeslán na
@@ -381,7 +381,6 @@ no_temp_dir => Nebyl definován dočasný (temp) adresář
 old_files => Některé soubory Textpattern nejsou aktuální.
 old_placeholder => Stále jsou přítomny staré soubory pro rubriky
 os_version => Verze operačního systému
-path_not_doc_root => Hodnota path_to_site neodpovídá hodnotě document_root
 path_to_site_inacc => Cesta path_to_site není přístupná
 php_extensions => Rozšíření PHP
 php_sapi_mode => API pro PHP na serveru
@@ -688,7 +687,7 @@ include_email_atom => Přidávat emailovou adresu do Atomů?
 install_from_textpack => Instalovat z Textpack
 install_langfile => Chceš-li instalovat jazyk ze souboru, stáhni jej z {url} a ulož do adresáře ./textpattern/lang/.
 install_language => Nahrát překlad
-install_textpack => Nahrát textovou sadu 
+install_textpack => Nahrát textovou sadu
 is_dst => Platí nyní letní čas?
 language => Jazyk
 lastmod_keepalive => Opravit chybu v mod_deflate při trvalém spojení?
@@ -782,6 +781,7 @@ authors => Autoři
 a_few_seconds => pár vteřin
 back_to_top => ↑ Zpět nahoru
 blockquote => Citát do bloku
+browse => 
 bs-ba => Bosanski (Bosna i Hercegovina)
 bulleted_list => Bodový seznam
 caption => Záhlaví

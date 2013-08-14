@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => افزودن نویسنده جدید
 and_mailed_to => و فرستاده شد به
@@ -57,6 +57,12 @@ you_have_been_registered => شما به عنوان مشارکت‌کننده د�
 advanced_options => تنظیمات پیشرفته
 article_day => روز
 article_expires_before_postdate => خطا: نوشته <strong>پیش از</strong> تاریخ ارسال منقضی می‌شود.
+article_exp_day => 
+article_exp_hour => 
+article_exp_minute => 
+article_exp_month => 
+article_exp_second => 
+article_exp_year => 
 article_hour => ساعت
 article_image => تصویر نوشته
 article_markup => در کد نوشته
@@ -375,7 +381,6 @@ no_temp_dir => هیچ پوشه‌ای برای فایل‌های موقت تعر
 old_files => برخی از فایل‌های Textpattern قدیمی‌اند
 old_placeholder => 
 os_version => سیستم‌عامل سرور
-path_not_doc_root => 
 path_to_site_inacc => <code>$path_to_site</code> دسترس‌پذیر نیست.
 php_extensions => افزونه‌های PHP
 php_sapi_mode => 
@@ -422,6 +427,7 @@ ips_banned => این IPها از نظردهی منع شده‌اند: <strong>{l
 ip_already_banned => نشانی IP <strong>{ip}</strong> از پیش منع شده است.
 ip_banned => نشانی IP <strong>{ip}</strong> منع شد.
 ip_ban_removed => ممنوعیت <strong>{ip}</strong> برداشته شد.
+just_spam_results_found => 
 list_banned_ips => لیست IPهای ممنوعه
 list_discussions => نظرات
 name_used => نام استفاده شده
@@ -644,15 +650,15 @@ convert_linebreaks => تبدیل شکست خطوط
 css => استایل
 custom => فیلدهای دلخواه
 custom_10_set => نام فیلد دلخواه ۱۰
-custom_1_set =>  نام فیلد دلخواه ۱
-custom_2_set =>  نام فیلد دلخواه ۲
-custom_3_set =>  نام فیلد دلخواه ۳
-custom_4_set =>  نام فیلد دلخواه ۴
-custom_5_set =>  نام فیلد دلخواه ۵
-custom_6_set =>  نام فیلد دلخواه ۶
-custom_7_set =>  نام فیلد دلخواه ۷
-custom_8_set =>  نام فیلد دلخواه ۸
-custom_9_set =>  نام فیلد دلخواه ۹
+custom_1_set => نام فیلد دلخواه ۱
+custom_2_set => نام فیلد دلخواه ۲
+custom_3_set => نام فیلد دلخواه ۳
+custom_4_set => نام فیلد دلخواه ۴
+custom_5_set => نام فیلد دلخواه ۵
+custom_6_set => نام فیلد دلخواه ۶
+custom_7_set => نام فیلد دلخواه ۷
+custom_8_set => نام فیلد دلخواه ۸
+custom_9_set => نام فیلد دلخواه ۹
 czech => Čeština
 danish => Dansk
 default_event => تب پیش‌فرض نمایش برای مدیر
@@ -764,9 +770,9 @@ year_month_day_title =>
 ago => پیش
 all => همه
 already_exists => از پیش موجود است
-ar-dz => جزائري عربي
 articles => نوشته‌ها
 articles_found => نوشته یافت شد
+article_context => 
 article_found => نوشته یافت شد
 atom_feed_title => فید اتم
 attribute_values_must_be_quoted => مقادیر صفت باید در ”” قرار بگیرند.
@@ -774,12 +780,10 @@ author => نویسنده
 authors => نویسندگان
 a_few_seconds => چند لحظه پیش
 back_to_top => ↑ بازگشت به بالا
-bg-bg => Български
 blockquote => 
 browse => مرور
 bs-ba => Bosanski (Bosna i Hercegovina)
 bulleted_list => لیست گلوله‌ای
-ca-es => Català
 caption => عنوان
 categories => رده‌ها
 categorize => رده‌ها
@@ -811,14 +815,11 @@ copy => کپی
 create => ساختن
 created => ساخته شده
 create_new => ساختن
-cs-cz => &#268;e&#353;tina
-da-dk => Dansk
 date => تاریخ
 dateformat => فرمت تاریخ
 date_case => 
 day => روز
 days => روز
-de-de => Deutsch
 default => پیش‌فرض
 definition_list => 
 delete => پاک کن
@@ -831,12 +832,9 @@ deprecated_function_with => تابع {name} نامناسب است : به جای 
 deprecated_tag => تگ نامناسب است
 download_count => 
 edit => ویرایش
-el-gr => &#917;&#955;&#955;&#951;&#957;&#953;&#954;ά
 email => ایمیل
 email_address => ایمیل
 emphasis => تأکید
-en-gb => English (Great Britain)
-en-us => English (United States)
 enter_comment_here => 
 error_article_context => تگ‌های مربوط به نوشته در خارج از محدوده مربوط به نوشته قابل استفاده نیستند
 error_category_context => 
@@ -845,50 +843,37 @@ error_file_context => تگ‌های مربوط به فایل‌ها در خار�
 error_image_context => تگ‌های مربوط به تصاویر در خارج از محدوده مربوط به تصاویر قابل استفاده نیستند
 error_link_context => تگ‌های مربوط به لینک‌ها در خارج از محدوده مربوط به لینک‌ها قابل استفاده نیستند
 error_section_context => 
-es-es => Espa&#241;ol
-et-ee => Eesti
 extensions => افزونه‌ها
 fa-ir => Persian (پارسی)
-fi-fi => Suomi
-file_ctype => فایل
+file_context => 
 file_size => حجم فایل
 foo_bar => 
 forget => 
 form => فرم
 forms => فرم‌ها
-fr-fr => Fran&#231;ais
-gl-gz => Galego
 go => برو
 go_content => برو به محتوا
 go_nav => برو به پیمایشگر
 go_search => برو به جستجو
 go_to => برو به
 go_txp_com => 
-he-il => עברית
 header => سرآیند
 home => خانه
 host => میزبان
 hour => ساعت
 hours => ساعت
 hr => خط افقی
-hr-hr => Hrvatski
-hu-hu => Magyar
 hyperlink => لینک
-id-id => Bahasa Indonesia
 image => تصویر
 imageurl => نشانی تصویر
-image_ctype => تصویر
+image_context => 
 inserted_text => متن درج‌شده
 invalid_attribute_value => مقدار {name} برای صفت مناسب نیست
-is-is => Íslenska
-it-it => Italiano
-ja-jp => 日本語
 keywords => کلیدواژه‌ها
-ko-kr => 한국말 (대한민국)
 label => برچسب
 last_modification => آخرین تغییر
 linebreak => شکست خط
-link_ctype => لینک
+link_context => 
 list => لیست
 list_articles => لیست نوشته‌ها
 list_categories => لیست رده‌ها
@@ -896,7 +881,6 @@ list_links => لیست لینک‌ها
 live => زنده
 lowercase => حروف کوچک
 lt-lt => Lietuvių
-lv-lv => Latviešu
 main_content => 
 manual => 
 matching_search_request => 
@@ -914,9 +898,7 @@ name => نام
 never => هرگز
 newer => جدیدتر
 next => بعدی
-nl-nl => Nederlands
 no => خیر
-no-no => Norsk
 none => هیچ
 nopopup => 
 no_comments => 
@@ -931,18 +913,15 @@ pages => صفحات
 paragraph => پاراگراف
 permanent_link => لینک دائمی به این نوشته
 permlink => لینک دائمی
-pl-pl => Polski
 plugin_load_error => هنگام بارگذاری پلاگین مشکلی رخ داده است:
 plugin_load_error_above => این اشکالات توسط پلاگین به وجود آمده است
 popup => 
 post => ارسال
-posted =>  ارسال شده در
+posted => ارسال شده در
 posted_by => ارسال شده توسط
 press_preview_then_submit => 
 prev => 
 preview => پیش‌نمایش
-pt-br => Português (Brasil)
-pt-pt => Português (Portugal)
 publish => انتشار
 published_at => منتشر شده در
 raw_php_deprecated => 
@@ -952,9 +931,7 @@ recent_posts => آخرین ارسال‌ها
 remember => 
 required => ضروری
 revert => 
-ro-ro => Română
 rss_feed_title => فید RSS
-ru-ru => Русский
 save => ذخیره
 saved => ذخیره شد
 save_button => ذخیره
@@ -965,7 +942,6 @@ selected => انتخاب شده
 site => سایت
 sitename => نام سایت
 siteurl => نشانی سایت
-sk-sk => Sloven&#269;ina
 skip_to_main_content => 
 sp-rs => Srpski
 sr-rs => Српски
@@ -974,13 +950,11 @@ strong => پررنگ
 submit => بفرست
 subscript => زیرنویس
 superscript => بالانویس
-sv-se => Svenska
 tag_error => اشکال در تگ:
 textile_help => راهنمای Textile
 textile_lite_help => راهنمای Textile Lite
 text_conversion => تبدیل متن
 text_handling => 
-th-th => ไทย
 time => زمان
 time_ago => {time} پیش
 title => عنوان
@@ -988,7 +962,6 @@ tooltip =>
 too_common_search_term => 
 tr-tr => Türkçe
 type => نوع
-uk-ua => Українська
 undefined => تعریف‌نشده
 unknown_attribute => صفت ناشناخته {att}:
 unknown_callback_function => 
@@ -1003,7 +976,6 @@ ur-in => اردو (بھارت
 url => URL
 value => ارزش
 version => نسخه
-vi-vn => Tiếng Việt (Việt Nam)
 view => نمایش
 website => وب‌سایت
 week => هفته
@@ -1014,8 +986,6 @@ your_branch_is_updated =>
 your_ip_is_blacklisted_by => نشانی IP شما در لیست سیاه قرار گرفته است توسط
 you_have_been_banned => شما از نظردهی منع شده‌اید.
 yyyy-mm => yyyy-mm
-zh-cn => 中文(简体)
-zh-tw => 中文(繁體)
 #@section
 article_count => {num} نوشته در این بخش موجود است. برای لیست کردن آن‌ها کلیک کنید
 create_section => ساخت بخش
@@ -1046,7 +1016,7 @@ uses_style => استفاده از استایل
 about_to_create => شما در حال ایجاد جدول‌های پایگاه داده هستید.
 add_config_file => افزودن فایل پیکربندی
 admin_theme => 
-already_installed => به نظر می‌رسد که Textpattern پیش از این هم نصب شده است. اگر می‌خواهید یک نصب مجدد و نو داشته باشد لطفاً فایل <code>config.php</code> را از پوشه <code>/textpattern/</code> 
+already_installed => به نظر می‌رسد که Textpattern پیش از این هم نصب شده است. اگر می‌خواهید یک نصب مجدد و نو داشته باشد لطفاً فایل <code>config.php</code> را از پوشه <code>/textpattern/</code>
 back => 
 before_you_proceed => پیش از آنکه ادامه دهید
 checking_database => در حال تست ارتباط با پایگاه داده
@@ -1119,12 +1089,12 @@ comment_form => فرم نظردهی
 comment_name_link => به نشانی ایمیل یا وب‌سایت نظردهنده لینک شود؟
 decimals => 
 default_title => متنی که برای لینک بخش پیش‌فرض استفاده می‌شود
-escape  => 
-exclude  => 
+escape => 
+exclude => 
 filename => نام
 file_download_tags => دانلود فایل
-flavor  => 
-flavour  => 
+flavor => 
+flavour => 
 format => قالب
 gmt => فرمت بر طبق زمان گرینویچ باشد؟
 has_excerpt => دارای منتخب
@@ -1153,7 +1123,7 @@ no_categories_available => هیچ رده‌ای موجود نیست.
 no_forms_available => هیچ فرمی موجود نیست.
 no_sections_available => هیچ بخشی موجود نیست.
 offset => ردکن
-pageby  => 
+pageby => 
 page_file_hed => دانلود فایل
 pgonly => نوشته‌ها را بشمار اما چیزی نشان نده
 random => تصادفی
@@ -1178,7 +1148,7 @@ tag_article_image => تصویر نوشته
 tag_author => نویسنده
 tag_body => بدنه
 tag_body_excerpt => منتخب بدنه
-tag_breadcrumb  => 
+tag_breadcrumb => 
 tag_category => رده
 tag_category1 => رده ۱
 tag_category2 => رده ۲
@@ -1218,13 +1188,13 @@ tag_file_download_modified => زمان تغییر در فایل
 tag_file_download_name => نام فایل
 tag_file_download_size => حجم فایل
 tag_home => خانه
-tag_if_category  => 
-tag_if_section  => 
+tag_if_category => 
+tag_if_section => 
 tag_image => تصویر
-tag_inline_  => 
+tag_inline_ => 
 tag_lang => زبان
 tag_link => لینک
-tag_linkdesctitle  => 
+tag_linkdesctitle => 
 tag_linklist => لیست لینک‌ها
 tag_link_category => رده لینک
 tag_link_date => تاریخ لینک
@@ -1246,7 +1216,7 @@ tag_page_title => عنوان صفحه
 tag_paging_link => لینک صفحه بعدی
 tag_password_protect => محافظت با گذرواژه
 tag_permlink => لینک دائم
-tag_popup  => 
+tag_popup => 
 tag_posted => ارسال شده
 tag_prev_article => نوشته قبلی
 tag_prev_title => عنوان نوشته قبلی
@@ -1264,7 +1234,7 @@ tag_sitename => نام سایت
 tag_site_name => نام سایت
 tag_site_slogan => شعار سایت
 tag_title => عنوان
-tag__inline  => 
+tag__inline => 
 textonly => فقط متن؟
 text_or_tag => * متن یا تگ در اینجا قرار گیرد *
 this_section => به بخش فعلی لینک شود؟
@@ -1272,7 +1242,7 @@ time_any => هر وقت
 time_format => رشته فرمت زمان
 time_future => آینده
 time_past => گذشته
-title_separator  => 
+title_separator => 
 useful_tags => تگ‌های مفید
 use_thumbnail => استفاده از تصاویر کوچک؟
-wraptag  => 
+wraptag => 

@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Pridėti naują autorių
 and_mailed_to => ir pasiųstas paštu
@@ -381,7 +381,6 @@ no_temp_dir => Nenurodytas katalogas laikiniems duomenims
 old_files => Kai kurios Textpattern rinkmenos yra pasenusios
 old_placeholder => Sena rezervuota rinkmena yra kelyje
 os_version => Serverio OS
-path_not_doc_root => 
 path_to_site_inacc => $path_to_site yra nepasiekiamas.
 php_extensions => PHP plėtiniai
 php_sapi_mode => PHP serverio API sąsaja
@@ -662,6 +661,7 @@ custom_8_set => Pritaikyto lauko 8 vardas
 custom_9_set => Pritaikyto lauko 9 vardas
 czech => Čeština
 danish => Dansk
+default_event => 
 doctype => Dokumento tipas
 dutch => Nederlands
 edit_preferences => Nuostatos
@@ -702,7 +702,7 @@ max_url_len => Maksimalus URL ilgis (simboliais)
 mentions => Paminėjimai
 messy => ?=netvarkingas
 never_display_email => Slėpti el. pašto adresą?
-new_textpattern_version_available => 	 Yra visiškai nauja Textpattern versiją. Ar norėtumėte pabandyti?
+new_textpattern_version_available => Yra visiškai nauja Textpattern versiją. Ar norėtumėte pabandyti?
 norwegian => Norwegian
 no_popup => veikiamasis langas
 override_emailcharset => Ar naudoti ISO-8859-1 kodavimą išsiunčiamuose el. laiškuose (numatytas yra UTF-8)?

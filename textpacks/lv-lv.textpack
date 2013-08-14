@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Pievienot jaunu autoru
 and_mailed_to => un nosūtīta uz
@@ -381,7 +381,6 @@ no_temp_dir => Nav norādīta temp direktorija
 old_files => Daži Textpattern faili ir novecojuši
 old_placeholder => Traucē vecie paraugu faili
 os_version => Servera OS
-path_not_doc_root => 
 path_to_site_inacc => $path_to_site konstante nav pieejama
 php_extensions => PHP paplašinājumi
 php_sapi_mode => PHP servera API

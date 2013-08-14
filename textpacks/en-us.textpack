@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790504
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Add new author
 and_mailed_to => and emailed to
@@ -218,7 +218,6 @@ login => Login
 login_to_textpattern => Login to Textpattern
 logout => Logout
 log_in_button => Login
-lt-lt => Lietuvių
 lv-lv => Latviešu
 method => Method
 misc => Miscellaneous

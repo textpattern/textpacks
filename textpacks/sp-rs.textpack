@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Dodaj novog autora
 and_mailed_to => i poslato
@@ -381,7 +381,6 @@ no_temp_dir =>
 old_files => Neki Textpattern fajlovi su zastareli
 old_placeholder => Old placeholder file is in the way
 os_version => Server OS
-path_not_doc_root => path_not_doc_root
 path_to_site_inacc => $path_to_site is inaccessible.
 php_extensions => PHP ekstenzije
 php_sapi_mode => PHP Server API
@@ -512,7 +511,7 @@ invalid_width_or_height => Nedopuštena širina ili visina
 keep_square_pixels => Sečenje
 not_saved => <strong>nije</strong> sačuvano!
 no_images_recorded => Nema snimljenih slika.
-only_graphic_files_allowed =>  Samo .jpg, .gif, .png ili .swf format slike je dozvoljen.
+only_graphic_files_allowed => Samo .jpg, .gif, .png ili .swf format slike je dozvoljen.
 replace_image => Zameni sliku
 save_these_settings_as_default => Snimi podešavanja kao default
 thumbnail_deleted => Thumbnail izbrisan.
@@ -951,7 +950,7 @@ strong => jako
 submit => OK
 subscript => subscript
 superscript => superscript
-tag_error => Tag error: 
+tag_error => Tag error:
 textile_help => Textile pomoć
 textile_lite_help => Textile Lite pomoć
 text_conversion => Tekst konverzija

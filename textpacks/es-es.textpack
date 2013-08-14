@@ -1,7 +1,7 @@
-#@version 4.5.4;1361790657
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Añadir nuevo autor
-and_mailed_to =>  y enviado a
+and_mailed_to => y enviado a
 assign_assets_to => Asignar contenido del usuario a
 author_already_exists => El autor <strong>{name}</strong> ya existe.
 author_deleted => Autor <strong>{name}</strong> borrado
@@ -297,7 +297,6 @@ units_z => ZB
 unmoderated => No moderado
 upload_err_cant_write => No se ha podido grabar el archivo en el disco
 upload_err_extension => Una extensión PHP ha interrumpido la subida del archivo
-
 upload_err_form_size => El archivo excede el tamaño máximo especificado en las preferencias de Textpattern
 upload_err_ini_size => El archivo excede la directiva upload_max_filesize en php.ini
 upload_err_no_file => No se ha especificado ningún archivo
@@ -382,7 +381,6 @@ no_temp_dir => No se ha definido un directorio temporal
 old_files => Algunos archivos de Textpattern están obsoletos
 old_placeholder => Todavía existe un archivo contenedor de sección
 os_version => Sistema operativo del servidor
-path_not_doc_root => path_to_site no coincide con document_root
 path_to_site_inacc => path_to_site es inaccesible
 php_extensions => Extensiones de PHP
 php_sapi_mode => PHP Server API
@@ -986,7 +984,6 @@ while_parsing_page_form => mientras se analizaba el bloque “{form}” en la p�
 yes => Sí
 your_branch_is_updated => Tienes la versión más reciente de esta rama de Textpattern
 your_ip_is_blacklisted_by => Tu dirección IP ha sido incluida en una lista negra por
-
 you_have_been_banned => Has sido bloqueado para escribir comentarios.
 yyyy-mm => yyyy-mm
 #@section
@@ -1055,7 +1052,7 @@ please_go_back => Por favor, vuelve atrás, rectifica cualquier dato incorrecto 
 populate_db => Llenar base de datos
 prefix_bad_characters => El prefijo de la tabla {dbprefix} contiene caracteres que no están permitidos. <br />El primer carácter debe estar entre <strong>a-zA-Z_</strong> y los siguientes entre <strong>a-zA-Z0-9_</strong>
 prefix_warning => (Úsalo <strong>sólo</strong> si vas a hacer múltiples instalaciones en una misma base de datos)
-progress_steps => Este proceso de instalación tiene 4 pasos: 
+progress_steps => Este proceso de instalación tiene 4 pasos:
 setup_comment_invite => Comentarios
 setup_login => Elige un nombre de registro (sólo caracteres básicos y espacios, sin acentos ni eñes)
 set_db_details => Especifica las características de la base de datos

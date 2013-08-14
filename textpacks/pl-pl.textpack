@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790842
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Dodaj nowego użytkownika
 and_mailed_to => i wysłane do
@@ -37,7 +37,6 @@ password_reset_button => Wygeneruj
 password_reset_confirmation => Ktoś (prawdopodobnie Ty) wystąpił z zapytaniem o wygenerowanie nowego hasła do konta. Aby dokończyć procedurę generowania nowego hasła kliknij w poniższy odsyłacz.
 password_reset_confirmation_request => Potwierdź prośbę o wygenerowanie nowego hasła
 password_reset_confirmation_request_sent => Potwierdzenie zostało wysłane na twój adres e-mail.<br />
-Odbierz pocztę i postępuj zgodnie z instrukcjami zawartymi w wiadomości.
 password_sent_to => Hasło wysłane do
 privileges => Uprawnienia
 privs_none => 
@@ -382,7 +381,6 @@ no_temp_dir =>
 old_files => Niektóre pliki są zdezaktualizowane
 old_placeholder => Przeszkadza stary plik emulujący sekcję.
 os_version => System operacyjny serwera
-path_not_doc_root => 
 path_to_site_inacc => Zmienna $path_to_site jest niedostępna
 php_extensions => Rozszerzenia PHP
 php_sapi_mode => API Serwera PHP
@@ -680,7 +678,6 @@ finnish => Suomi
 french => Français
 from_file => Zainstaluj z pliku
 from_server => Zainstaluj ze zdalnego serwera
-german => Deutsch
 gmtoffset => Strefa czasowa
 ham => 
 hours_days_ago => godzin/dni temu
@@ -692,7 +689,6 @@ install_langfile => Aby zainstalować nowe języki z pliku, pobierz je ze strony
 install_language => Zainstaluj język
 install_textpack => 
 is_dst => Automatycznie zmieniać czas z letniego na zimowy?
-italian => Italiano
 language => Język
 lastmod_keepalive => Compensate for persistent connections mod_deflate bug?
 leave_text_untouched => Pozostaw tekst nietknięty
@@ -761,12 +757,10 @@ updated_branch_version_available => Dostępna jest nowa wersja Textpattern
 update_languages => Zaktualizuj języki
 urls_to_ping => Adresy, do których ma być wysyłany ping (oddzielone przecinkami)
 url_mode => Tryb URL
-use_categories => ???Używaj kategorii
 use_comments => Akceptować komentarze?
 use_dns => Zamieniać adresy IP na DNS w logach odwiedzin?
 use_mail_on_feeds_id => Używać adresów e-mail w kanałach XML?
 use_plugins => Używać pluginów?
-use_sections => Używać sekcji?
 year_month_day_title => /rok/miesiąc/dzień/tytuł
 #@public
 403_forbidden => 

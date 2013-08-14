@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => הוסף כותב חדש
 and_mailed_to => ונשלח אל
@@ -95,7 +95,7 @@ url_title => כותרת-הכתובת
 url_title_is_blank => (כותרת-הכתובת הושארה ריקה)
 url_title_is_multiple => (באותה כותרת-הכתובת נעשה שימוש ב-{count} מאמרים שונים)
 view_html => צפה ב-HTML
-view_preview => תצוגה מקדימה של המאמר 
+view_preview => תצוגה מקדימה של המאמר
 view_text => ערוך את טקסט המאמר
 write => כתוב
 #@category
@@ -155,7 +155,6 @@ bg-bg => Български
 body => גוף
 ca-es => Català
 cannot_instantiate_theme => העיצוב <strong>{name}</strong> ({class}) נכשל להעלות מהקובץ {path}. ייעשה שימוש בעיצוב הקלאסי כברירת מחדל.
-
 category => קטגורייה
 changeauthor => שנה כותב
 changecategory => צור קטגורייה
@@ -382,7 +381,6 @@ no_temp_dir => לא הוגדרה ספריית קבציפ זמניים(temp)
 old_files => מספר קבצי Textpattern אינם מעודכנים
 old_placeholder => קובץ שומר מקום ישן מפריע
 os_version => גירסת מערכת ההפעלה
-path_not_doc_root => 
 path_to_site_inacc => המסלול לאתר איננה נגישה
 php_extensions => רכיבי PHP
 php_sapi_mode => PHP Server API
@@ -513,7 +511,7 @@ invalid_width_or_height => רוחב או גובה לא תקינים
 keep_square_pixels => חתוך
 not_saved => <strong>לא</strong> נשמרה!
 no_images_recorded => לא נשמרו תמונות
-only_graphic_files_allowed =>  קבצי הגרפיקה המותרים .jpg, .gif, .png או .swf
+only_graphic_files_allowed => קבצי הגרפיקה המותרים .jpg, .gif, .png או .swf
 replace_image => שנה תמונה
 save_these_settings_as_default => שמור הגדרות כברירת מחדל
 thumbnail_deleted => התמונה המוקטנת נמחקה.
@@ -827,7 +825,7 @@ definition_list => רשימת הגדרות
 delete => מחק
 deleted => נמחק
 deleted_text => טקסט שנמחק
-deprecated_attribute => התכונה {name} 
+deprecated_attribute => התכונה {name}
 deprecated_configuration => 
 deprecated_function => הפונקציה {name} מועמדת לביטול
 deprecated_function_with => הפונקציה {name} מועמדת לביטול: התשמש בפונקציה {with} במקומה

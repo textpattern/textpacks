@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462759
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Einen neuen Autor hinzufügen
 and_mailed_to => und gesendet an
@@ -381,7 +381,6 @@ no_temp_dir => Kein Temporärverzeichnis definiert
 old_files => Einige Textpattern-Dateien sind nicht aktuell
 old_placeholder => Alte Platzhalterdatei steht im Weg
 os_version => Betriebssystem des Servers
-path_not_doc_root => path_to_site stimmt nicht mit document_root überein
 path_to_site_inacc => path_to_site ist nicht erreichbar
 php_extensions => PHP-Erweiterungen
 php_sapi_mode => PHP Server API

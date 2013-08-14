@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Lägg till skribent
 and_mailed_to => och e-postas till
@@ -37,7 +37,6 @@ password_reset_button => Nollställ lösenord
 password_reset_confirmation => Någon (troligtvis du själv) vill nollställa ditt lösenord. Var god bekräfta detta genom att klicka på länken nedan
 password_reset_confirmation_request => Var god bekräfta att du vill nollställa ditt lösenord
 password_reset_confirmation_request_sent => Ett bekräftelsemail skickades till din e-postadress.
-<br />Var god kolla din e-post och följ instruktionerna i mailet som strax kommer där.
 password_sent_to => Lösenord skickat till
 privileges => Rättigheter
 privs_none => Inget
@@ -382,7 +381,6 @@ no_temp_dir => Ingen tempär-katalog angiven
 old_files => Vissa Textpattern-filer är gamla
 old_placeholder => Gammal platshållarfil ligger i vägen
 os_version => Serverns operativsystem
-path_not_doc_root => path_to_site matchar inte document_root
 path_to_site_inacc => $path_to_site är otillgänglig.
 php_extensions => PHP-tillägg
 php_sapi_mode => Server-API för PHP

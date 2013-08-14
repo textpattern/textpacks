@@ -1,4 +1,4 @@
-#@version 4.5.4;1355462570
+#@version 4.5.4;1361790486
 #@admin
 add_new_author => Lisää uusi käyttäjä
 and_mailed_to => ja lähetetty
@@ -381,7 +381,6 @@ no_temp_dir =>
 old_files => Jotkin Textpatternin tiedotoista ovat vanhentuneita
 old_placeholder => Vanha placeholder-tiedosto on esteenä
 os_version => Palvelimen käyttöjärjestelmä
-path_not_doc_root => 
 path_to_site_inacc => path_to_site ei löydy
 php_extensions => PHP:n laajennukset
 php_sapi_mode => PHP palvelimen API
@@ -557,6 +556,9 @@ link_save_failed =>
 link_text => Linkkiteksti
 link_updated => Linkki {name} muutettu.
 no_links_recorded => Ei tallennettuja linkkejä.
+#@list
+article_modified => 
+manage => 
 #@log
 logs => Loki
 logs_deleted => Poistetut lokit: {list}.
@@ -676,7 +678,6 @@ finnish => Suomi
 french => Français
 from_file => Asenna tiedostosta
 from_server => Asenna etäpalvelimelta
-german => Deutsch
 gmtoffset => Aikavyöhyke
 ham => 
 hours_days_ago => tuntia/päivää sitten
@@ -688,7 +689,6 @@ install_langfile => Asentaessasi kieltä tiedostosta voit ladata sen täältä: 
 install_language => Asenna kieli
 install_textpack => 
 is_dst => Kesä- ja normaaliaika
-italian => Italiano
 language => Kieli
 lastmod_keepalive => Huomioi jatkuvan yhteyden mod_deflate bugi?
 leave_text_untouched => Jätä teksti koskemattomaksi
@@ -757,12 +757,10 @@ updated_branch_version_available => Tästä Textpatternin asennuksesta on saatav
 update_languages => Kieliversioiden päivitys
 urls_to_ping => Pingattavat URLit (pilkuin eroteltuna)
 url_mode => URLin muoto
-use_categories => Käytä kategorioita
 use_comments => Salli kommentointi
 use_dns => Käytä DNS:ää?
 use_mail_on_feeds_id => Käytä mailia syötteiden tunnuksena?
 use_plugins => Käytä liitännäisiä?
-use_sections => Käytä osioita
 year_month_day_title => /vuosi/kuukausi/päivä/otsikko
 #@public
 403_forbidden => 
@@ -849,6 +847,7 @@ extensions => Liitännäiset
 fa-ir => Persian (پارسی)
 file_context => 
 file_size => 
+foo_bar => 
 forget => Unohda
 form => Lomake
 forms => Lomakkeet
