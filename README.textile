@@ -1,3 +1,13 @@
 h1. Textpattern CMS language files
 
 This repository contains Textpacks for "Textpattern CMS":http://textpattern.com. Textpacks are the translation file format Textpattern uses.
+
+h2. Testing
+
+The project uses "PHPunit":http://phpunit.de for running its unit tests. Before running the tests, make sure you've installed dev-requirements using "Composer":http://getcomposer.org:
+
+bc. $ composer install --dev
+
+To run a test:
+
+bc. $ ./vendor/bin/phpunit

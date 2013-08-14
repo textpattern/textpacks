@@ -1,0 +1,26 @@
+{
+    "name": "textpattern/textpacks",
+    "description": "Textpattern CMS language files",
+    "keywords": ["textpattern", "L10n", "i18n", "textpack", "language", "translation", "locale"],
+    "homepage": "https://github.com/textpattern/textpacks",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Team Textpattern",
+            "homepage": "http://textpattern.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/textpattern/textpacks/issues",
+        "source": "https://github.com/textpattern/textpacks"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "4.6-dev"
+        }
+    }
+}
