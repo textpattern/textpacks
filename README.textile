@@ -1,0 +1,3 @@
+h1. Textpattern CMS language files
+
+This repository contains Textpacks for "Textpattern CMS":http://textpattern.com. Textpacks are the translation file format Textpattern uses.
