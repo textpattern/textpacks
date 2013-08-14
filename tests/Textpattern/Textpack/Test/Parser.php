@@ -119,14 +119,14 @@ class Parser
 			}
 
 			// Translation.
-			if (preg_match('/^(\w+)\s*=>\s*(.+)$/', $line, $m))
+			if (preg_match('/^(\w+)\s*=>\s*(.+)?$/', $line, $m))
 			{
 				if (!empty($m[1]))
 				{
                     $out[] = array(
 						'name'    => $m[1],
 						'lang'    => $language,
-						'data'    => $m[2],
+						'data'    => isset($m[2]) ? $m[2] : '',
 						'event'   => $event,
 						'owner'   => $owner,
 						'version' => $version,
