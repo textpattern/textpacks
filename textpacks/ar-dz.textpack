@@ -4,11 +4,11 @@ add_new_author => إضافة مؤلف
 and_mailed_to => ويرسل إلى
 assign_assets_to => تحويل ملكية محتوى المستخدم إلى
 author_already_exists => المؤلف <strong>{name}</strong> موجود مسبقا
-author_deleted => 
-author_updated => 
+author_deleted =>
+author_updated =>
 a_message_will_be_sent_with_login => سوف تبعث رسالة حاملة لمعلومات خاصة بالاتصال
 a_new_password_will_be_mailed => سترسل كلمة سر جديدة عبر البريد الإلكتروني
-cannot_assign_assets_to_deletee => 
+cannot_assign_assets_to_deletee =>
 changeprivilege => تغيير الإمتيازات
 change_email_address => غير عنوان بريدك الإلكتروني
 change_password => غير كلمة السر
@@ -17,7 +17,7 @@ could_not_mail => لا يتيسر إرسال البريد الإلكتروني
 could_not_update_author => يتعذر ضبط المؤلف
 designer => مصمم
 edit_author => تعديل مؤلف
-email_changed => 
+email_changed =>
 error_adding_new_author => حدث خطأ عند إضافة مؤلف جديد
 freelancer => محرر عادي
 last_login => آخر إتصال
@@ -29,9 +29,9 @@ must_reassign_assets => الرجاء إعادة تحويل ملكية محتوى
 new_email => عنوان  جديد للبريد  الإكتروني
 new_password => كلمة سر جديدة
 password_changed => تم ضبط كلمة السر
-password_changed_mailed => 
+password_changed_mailed =>
 password_forgotten => كلمة سر مفقودة
-password_required => 
+password_required =>
 password_reset => إعادة تعيين كلمة السر
 password_reset_button => إعادة تعيين كلمة السر
 password_reset_confirmation => شخص ما (ربما أنت) طلبت إعادة تعيين كلمة السر. يرجى تأكيد طلب إعادة التعيين من خلال النقر على الرابط أدناه
@@ -39,7 +39,7 @@ password_reset_confirmation_request => يرجى تأكيد طلب إعادة ا�
 password_reset_confirmation_request_sent => تم إرسال رسالة تأكيد إلى عنوان البريد الإلكتروني الخاص بك. <br/> يرجى التحقق من البريد الإلكتروني الخاص بك واتبع التعليمات.
 password_sent_to => تم إرسال كلمة السر إلى
 privileges => امتيازات
-privs_none => 
+privs_none =>
 publisher => مسير
 real_name => الاسم الحقيقي
 resetpassword => إعادة كتابة كلمة السر
@@ -56,7 +56,7 @@ you_have_been_registered => تم تسجيلكم كمساهم في الموقع
 #@article
 advanced_options => تشكيل متقدم
 article_day => يوم
-article_expires_before_postdate => 
+article_expires_before_postdate =>
 article_exp_day => يوم
 article_exp_hour => ساعة
 article_exp_minute => دقيقة
@@ -65,7 +65,7 @@ article_exp_second => ثانية
 article_exp_year => عام
 article_hour => ساعة
 article_image => صورة مرفقة للمقال
-article_markup => 
+article_markup =>
 article_minute => دقيقة
 article_month => شهر
 article_posted => مقال منشور
@@ -73,130 +73,130 @@ article_saved => مقال مسجل
 article_saved_draft => مقال مسجل كمسودة
 article_saved_hidden => مقال مسجل ومستتر
 article_saved_pending => مقال مسجل ينتظر الإثبات
-article_save_failed => 
+article_save_failed =>
 article_second => ثانية
 article_year => عام
-comment_settings => 
-concurrent_edit_by => 
-date_settings => 
-excerpt_markup => 
+comment_settings =>
+concurrent_edit_by =>
+date_settings =>
+excerpt_markup =>
 expires => تنتهي
 meta => Meta
-no_articles_recorded => 
+no_articles_recorded =>
 or_publish_at => أو ينشر تلقائيا يوم
 override_default_form => تجاوز الشكل الحالي
 pending => ينتظر الإثبات
 reset_time => ضبط الساعة حسب التوقيت الحالي
 set_to_now => ضبط التاريخ والساعة حسب التوقيت الحالي
-sort_display => 
-textfilter_help => 
-timestamp => 
+sort_display =>
+textfilter_help =>
+timestamp =>
 url_title => النص الخاص بعنوان الموقع
 url_title_is_blank => نص عنوان الموقع غير موجود
 url_title_is_multiple => نص عنوان الموقع موجود
-view_html => 
-view_preview => 
-view_text => 
-write => 
+view_html =>
+view_preview =>
+view_text =>
+write =>
 #@category
-article_categories_deleted => 
+article_categories_deleted =>
 article_category => فئة المقال
-article_category_already_exists => 
-article_category_created => 
-article_category_invalid => 
+article_category_already_exists =>
+article_category_created =>
+article_category_invalid =>
 article_category_name => اسم فئة المقال
 article_category_title => عنوان فئة المقال
-article_category_updated => 
+article_category_updated =>
 article_head => فئات المقالات
-categories_set_parent => 
-category_not_found => 
-category_save_failed => 
-edit_category => 
-file_categories_deleted => 
-file_category_already_exists => 
-file_category_created => 
-file_category_invalid => 
+categories_set_parent =>
+category_not_found =>
+category_save_failed =>
+edit_category =>
+file_categories_deleted =>
+file_category_already_exists =>
+file_category_created =>
+file_category_invalid =>
 file_category_name => اسم فئة الملف
 file_category_title => عنوان فئة الملف
-file_category_updated => 
+file_category_updated =>
 file_head => فئات الملفات
-image_categories_deleted => 
-image_category_already_exists => 
-image_category_created => 
-image_category_invalid => 
+image_categories_deleted =>
+image_category_already_exists =>
+image_category_created =>
+image_category_invalid =>
 image_category_name => اسم فئة الصور
 image_category_title => عنوان فئة الصور
-image_category_updated => 
+image_category_updated =>
 image_head => فئات الصور
-link_categories_deleted => 
-link_category_already_exists => 
-link_category_created => 
-link_category_invalid => 
+link_categories_deleted =>
+link_category_already_exists =>
+link_category_created =>
+link_category_invalid =>
 link_category_name => اسم فئة الروابط
 link_category_title => عنوان فئة الروابط
-link_category_updated => 
+link_category_updated =>
 link_head => فئات الروابط
-no_categories_exist => 
-no_other_categories_exist => 
+no_categories_exist =>
+no_other_categories_exist =>
 parent => الوالد
 #@common
 active => نشيط
 add => إضافة
 admin => إدارة
-ar-ar => 
+ar-ar =>
 ar-dz => عربي
 are_you_sure => هل أنت متأكد؟
 article => مقال
 ascending => ترتيب تصاعدي
 auth_required => رخصة مطلوبة
-back_to_login => 
+back_to_login =>
 bad_cookie => الكوكي غير صحيح
 bg-bg => Български
 body => النص الأساسي
 ca-es => Català
-cannot_instantiate_theme => 
+cannot_instantiate_theme =>
 category => فئة
-changeauthor => 
+changeauthor =>
 changecategory => تغيير التصنيف
-changecategory1 => 
-changecategory2 => 
-changecomments => 
-changeparent => 
+changecategory1 =>
+changecategory2 =>
+changecomments =>
+changeparent =>
 changesection => تغيير القسم
 changestatus => تغيير الوضع
-close => 
+close =>
 comment => تعليق
-comments_expired => 
+comments_expired =>
 confirm_delete_popup => تريدون فعلا حذفه؟
 cookies_must_be_enabled => الكوكي يجب أن يكون مسموح
 could_not_log_in => لا يمكن تحقيق الربط بهذا الاسم و/أو كلمة السر هذه
 cs-cz => Čeština
 da-dk => Dansk
-date_added => 
+date_added =>
 de-de => Deutsch
-deleteforce => 
+deleteforce =>
 delete_selected => حذف التعيين
 descending => ترتيب تنازلي
 description => وصف
-detail_toggle => 
+detail_toggle =>
 draft => مسودة
-duplicate => 
+duplicate =>
 el-gr => Ελληνικά
 en-gb => English (Great Britain)
 en-us => English (United States)
 es-es => Español
 et-ee => Eesti
 excerpt => ملخص
-expired => 
-external_links => 
+expired =>
+external_links =>
 fi-fi => Suomi
-form_not_found => 
-form_not_specified => 
-form_submission_error => 
+form_not_found =>
+form_not_specified =>
+form_submission_error =>
 fr-fr => Français
-gd_unavailable => 
-general_error => 
-get_off_my_lawn => 
+gd_unavailable =>
+general_error =>
+get_off_my_lawn =>
 gl-gz => Galego
 greeting => عزيز
 he-il => עברית
@@ -205,43 +205,43 @@ hr-hr => Hrvatski
 hu-hu => Magyar
 id-id => Bahasa Indonesia
 image_category => فئة الصور
-internal_error => 
+internal_error =>
 is-is => Íslenska
 it-it => Italiano
 ja-jp => 日本語
 ko-kr => 한국말 (대한민국)
 lang_dir => rtl
-last_modified => 
+last_modified =>
 link_category => فئة الرابط
 logged_in_as => متصل كـ
-login => 
+login =>
 login_to_textpattern => الاتصال إلى txp
 logout => إلغاء الاتصال
 log_in_button => اتصل
 lv-lv => Latviešu
-method => 
-misc => 
+method =>
+misc =>
 modified => معدل
-navigation => 
+navigation =>
 nl-nl => Nederlands
 no-no => Norsk
-no_results_found => 
+no_results_found =>
 password => كلمة السر
 per_page => بالصفحة
 pl-pl => Polski
 pt-br => Português (Brasil)
 pt-pt => Português (Portugal)
-published_with => 
+published_with =>
 range => تعيين
 restricted_area => منطقة محظورة
 ro-ro => Română
 ru-ru => Русский
 save_new => تسجيل الجديد
-showing_search_results => 
+showing_search_results =>
 site_slogan => شعار الموقع
 sk-sk => Slovenčina
 sort_value => قيمة الترتيب
-spam => 
+spam =>
 stay_logged_in => إبق متصل دوما
 sticky => ثابت
 structure => بنية
@@ -255,7 +255,7 @@ tab_file => ملفات
 tab_forms => أشكال
 tab_image => صور
 tab_import => واردات
-tab_languages => 
+tab_languages =>
 tab_link => روابط
 tab_list => مقالات
 tab_logs => نشاط
@@ -266,24 +266,24 @@ tab_preferences => تفضيلات
 tab_presentation => عرض
 tab_sections => أقسام
 tab_site_admin => مؤلفون
-tab_start => 
+tab_start =>
 tab_style => أساليب
 tab_view_site => رؤية الموقع
 tab_write => تحرير
 th-th => ไทย
 thumbnail => صورة مصغرة
 title_body => عنوان النص والنص
-title_body_excerpt => 
-toggle_all_selected => 
-txpnl2br => 
-txprawxhtml => 
-txpstriptags => 
-txptextile => 
-txptextilelite => 
-txt_quote_double_close => 
-txt_quote_double_open => 
-txt_quote_single_close => 
-txt_quote_single_open => 
+title_body_excerpt =>
+toggle_all_selected =>
+txpnl2br =>
+txprawxhtml =>
+txpstriptags =>
+txptextile =>
+txptextilelite =>
+txt_quote_double_close =>
+txt_quote_double_open =>
+txt_quote_single_close =>
+txt_quote_single_open =>
 uk-ua => Українська
 units_b => B
 units_e => EB
@@ -294,22 +294,22 @@ units_p => PB
 units_t => TB
 units_y => YB
 units_z => ZB
-unmoderated => 
+unmoderated =>
 upload_err_cant_write => فشلت كتاب الملف في القرص
 upload_err_extension => خطأ في التحميل بسبب نوع الملف
 upload_err_form_size => الملف يتجاوز الحجم المرخص من قبل المسير
 upload_err_ini_size => الملف يتجاوز الحجم المسموح به من المستضيف
 upload_err_no_file => لم يتم تعيين أي ملف
 upload_err_partial => لم يرسل الملف إلا جزئيا
-upload_err_tmp_dir => 
+upload_err_tmp_dir =>
 upload_file => إرسال ملف
 use_textile => استعمال Textile
 vi-vn => Tiếng Việt (Việt Nam)
 viewsite => الإطلاع على الموقع
-view_per_page => 
+view_per_page =>
 visible => ظاهر
 with_selected => مع التعيين
-with_selected_option => 
+with_selected_option =>
 zh-cn => 中文(简体)
 zh-tw => 中文(繁體)
 #@css
@@ -320,17 +320,17 @@ bulkload_existing_css => إظافة أو إدماج نمط جديد
 cannot_delete_default_css => لا يمكن حذف النمط
 copy_css_as => نسخ CSS  ك
 create_new_css => خلق نمط جديد
-css_already_exists => 
-css_code => 
-css_created => 
-css_deleted => 
+css_already_exists =>
+css_code =>
+css_created =>
+css_deleted =>
 css_mode => CSS طريقة تغيير
-css_name => 
-css_name_required => 
+css_name =>
+css_name_required =>
 css_property_value => خصوصية : قيمة
-css_save_failed => 
+css_save_failed =>
 css_selector => معين
-css_updated => 
+css_updated =>
 css_used_by_section => النمط مستعمل في قسم
 delete_declaration => إلغاء هذا الإعلان
 delete_entire_selector => إلغاء هذا المعين الكلي
@@ -349,55 +349,55 @@ style_sheet => ورقة النمط
 style_sheet_saved => ورقة النمط مسجلة
 you_are_editing_css => إنك تغير النمط
 #@diag
-active_plugins => 
+active_plugins =>
 all_checks_passed => كل التصحيحات موثوقة
 apache_modules => Apache ؟؟؟
 apache_version => Apache صيغة
 cleanurl_only_apache => لا تتقبل إلا عن طريق  استخدامها سيكون فيه مجازفة
-clean_url_data_failed => 
-clean_url_test_failed => 
+clean_url_data_failed =>
+clean_url_test_failed =>
 detail => تفاصيل
-dev_version_live => 
+dev_version_live =>
 diagnostic_info => معلومات عن التشخيص
 dir_not_writable => {dirtype}  الموزع  لا يمكنه الكتابة في
 dns_lookup_fails => لاسم الميدان  DNS  فشل الأثر عن طريق
 document_root => الملف الأصلي
 file_uploads_disabled => تحميل الملفلت في الموزع لا يعمل
-gd_info => 
-gd_library => 
+gd_info =>
+gd_library =>
 high => أقصى حد
 htaccess_contents => .htaccess محتوى الملف
 htaccess_missing => غير موجود .htaccess  الملف
 img_dir_read_only => فهرست الصور غير قابل للكتابة
 is_inaccessible => يتعذر الدخول
-last_update => 
+last_update =>
 low => أدنى حد
 magic_quotes => Magic quotes PHP
 missing_files => ملفات ناقصة
-modified_files => 
+modified_files =>
 mod_rewrite_missing => mod_rewrite is missing???
-mysql_table_errors => 
-no_temp_dir => 
-old_files => 
+mysql_table_errors =>
+no_temp_dir =>
+old_files =>
 old_placeholder => ???
-os_version => 
+os_version =>
 path_to_site_inacc => path_to_site تعذر الوصول إلى
 php_extensions => PHP إمتدادات
-php_sapi_mode => 
+php_sapi_mode =>
 php_version => PHP صيغة
-php_version_required => 
+php_version_required =>
 preflight_check => مراجعات
 register_globals => Register globals PHP ؟؟؟
-rfc2616_headers => 
-rfc_2616_headers => 
+rfc2616_headers =>
+rfc_2616_headers =>
 server => موزع
-server_time => 
+server_time =>
 site_trailing_slash => <code>/</code> عنوان الموفع له نظام
-site_url_mismatch => 
-some_php_functions_disabled => 
+site_url_mismatch =>
+some_php_functions_disabled =>
 still_exists => لا يزال موجودا
-textpattern_update_available => 
-tmp_plugin_paths_match => 
+textpattern_update_available =>
+tmp_plugin_paths_match =>
 txp_path => Textpattern مفاتيح الدخول إلى
 txp_version => Textpattern ضيغة
 warn_register_globals_or_update => <code>register_globals</code> لديكم معرضة لأخطار الحماية.الرجاء إبطال تفعيل  PHP  صيغة
@@ -405,123 +405,123 @@ web_domain => عنوان الموقع
 #@discuss
 article_deleted => مقال محذوف
 ban => نفي
-banned_for => 
-banned_ips => 
-ban_author => 
+banned_for =>
+banned_ips =>
+ban_author =>
 cant_ban_blank_ip => (IP) لا يمكن نفي عنوان فارغ
-comments_deleted => 
-comments_marked_spam => 
-comments_marked_unmoderated => 
-comments_marked_visible => 
+comments_deleted =>
+comments_marked_spam =>
+comments_marked_unmoderated =>
+comments_marked_visible =>
 comment_not_found => التعليق غير موجود ، قد يكون تم حذفه.
-comment_save_failed => 
-comment_updated => 
+comment_save_failed =>
+comment_updated =>
 confirm_comment_deletion => إثبات إلغاء التعليق
-date_banned => 
+date_banned =>
 displayed_comments => تعليقات معروضة
 edit_comment => تغيير التعليق
 hide_comment => إخفاء التعليق
-hide_spam => 
-hide_unmoderated => 
-ips_banned => 
-ip_already_banned => 
-ip_banned => 
-ip_ban_removed => 
-just_spam_results_found => 
+hide_spam =>
+hide_unmoderated =>
+ips_banned =>
+ip_already_banned =>
+ip_banned =>
+ip_ban_removed =>
+just_spam_results_found =>
 list_banned_ips => (IP) استعراض الـ المنفية
 list_discussions => عرض التعليقات
-name_used => 
+name_used =>
 no_comments_recorded => لم يسجل تعليق بعد
 no_ips_banned => (IP) لم  ينف أي عنوان
-show => 
-show_spam => 
+show =>
+show_spam =>
 unban => إلغاء النفي
 #@file
 condition => شرط
 download => حمل
 downloads => تحميلات
-edit_file => 
+edit_file =>
 existing_file => الملفات الموجودة
 file => ملف
 file_already_exists => موجود
-file_cannot_rename => 
+file_cannot_rename =>
 file_category => فئة
-file_deleted => 
+file_deleted =>
 file_delete_failed => لا يمكن محو الملف
 file_dir_not_writeable => <br />  المصنف الخاص للنظام  <code>{filedir}</code>  حذار:الموزع لا يستطيع الكتابة في
 file_download_count => عدد التحميلات
 file_name => اسم الملف
 file_not_found => الملف غير موجود
-file_not_updated => 
+file_not_updated =>
 file_relink => إرسال/تعيين ملف
 file_status => وضع الملف
 file_status_missing => ناقص
 file_status_ok => Ok
-file_unsynchronized => 
-file_updated => 
-file_uploaded => 
+file_unsynchronized =>
+file_updated =>
+file_uploaded =>
 file_upload_failed => لم يتيسر إرسال الملف
 invalid_filename => اسم الملف غير صحيح
 invalid_id => ID غير صحيح
 linked_to_file => التسجيل المتعلقب بالملف
-no_files_recorded => 
+no_files_recorded =>
 permissions => ترخيصات
 private => خاص
 public => عام
 replace_file => استبدال ملف
 reset => العودة إلى الأصل
-reset_download_count => 
+reset_download_count =>
 reset_file_count_failure => لا يمكن العودة إلى الصفر في حساب عدد التحميلات
 reset_file_count_success => العودة إلى الصفر في حساب عدد التحميلات
 #@form
 all_forms => ؟؟؟
-changetype => 
+changetype =>
 create_new_form => ؟؟؟
 delete_form_confirmation => إثبات إلغاء ؟؟؟
 edit_forms => تغيير ؟؟؟
-forms_deleted => 
-form_already_exists => 
-form_code => 
-form_created => 
+forms_deleted =>
+form_already_exists =>
+form_code =>
+form_created =>
 form_name => اسم ؟؟؟ (مطلوب)
-form_name_invalid => 
-form_save_failed => 
+form_name_invalid =>
+form_save_failed =>
 form_type => مطلوب)   ???  صنف)
-form_type_missing => 
-form_updated => 
+form_type_missing =>
+form_updated =>
 list_forms => عرض جميع ؟؟؟
 you_are_editing_form => : يتم نشر الاستمارة
 #@image
-add_magnify_icon => 
+add_magnify_icon =>
 alt_text => نص تتابعي
 cannot_write_directory => لا يمكن الكتابة داخل الملف
 choose_either_width_height_or_both => ذكر العرض أو الطول أو الإثنين معا
 create_thumbnail => إنشاء مصغرة
-edit_image => 
-images => 
-image_deleted => 
-image_delete_failed => 
+edit_image =>
+images =>
+image_deleted =>
+image_delete_failed =>
 image_name => اسم الصورة
 image_save_error => حدث خطا عند تسجيل الصورة
-image_save_failed => 
-image_updated => 
-image_uploaded => 
+image_save_failed =>
+image_updated =>
+image_uploaded =>
 img_dir_not_writeable => حذار: لا يمكن تسجيل الصورة داخل الملف <cite>{imgdir}</cite>. <br />الرجاء الاتصال بالمضيف لمعرفة الحقوق المنايبة للاستعمال
 invalid_width_or_height => أحجام غير صحيحة
 keep_square_pixels => تقليص
 not_saved => لم يتم حفظه
-no_images_recorded => 
+no_images_recorded =>
 only_graphic_files_allowed => .jpg, .gif, .png , .swf الملفات المقبولة هي فقط
 replace_image => استبدال الصورة
 save_these_settings_as_default => تسجيل هذه المقاييس بصفة أساسية
-thumbnail_deleted => 
-thumbnail_not_saved => 
-thumbnail_saved => 
+thumbnail_deleted =>
+thumbnail_not_saved =>
+thumbnail_saved =>
 thumb_height => ارتفاع المصغرة بـ
 thumb_width => عرض المصغرة بـ
 upload_category => تصنيف
-upload_dir_perms => 
-upload_image => 
+upload_dir_perms =>
+upload_image =>
 upload_thumbnail => إرسال مصغرة
 #@import
 continue => الاستمرار
@@ -535,84 +535,84 @@ import_login => MySQL اسم المستخدم
 import_password => MySQL كلمة السر
 import_section => القسم الذي يتم فيه وضع المقالات المستوردة
 import_status => وضع المقالات المستوردة بعد نقلها
-import_wpdbcharset => 
+import_wpdbcharset =>
 import_wpprefix => SQL (optionnel) ؟؟؟
 select_tool => برامج الكمبيوتر التي يتم من خلالها الاستيراد
 txp_import => استيراد محتوى عن طريق أداة أخرى للنشر
 #@link
-add_new_link => 
-edit_link => 
+add_new_link =>
+edit_link =>
 edit_links => تغيير الروابط
 linkcategory => صنف الرابط
 links => الروابط
-links_deleted => 
+links_deleted =>
 linktext => نص الرابط
-link_created => 
-link_deleted => 
-link_empty => 
+link_created =>
+link_deleted =>
+link_empty =>
 link_name => اسم الرابط
 link_saved => الرابط المسجل
-link_save_failed => 
+link_save_failed =>
 link_text => معلومات عن الرابط
-link_updated => 
-no_links_recorded => 
+link_updated =>
+no_links_recorded =>
 #@list
-article_modified => 
-manage => 
+article_modified =>
+manage =>
 #@log
 logs => صحيفة النشاطات
-logs_deleted => 
+logs_deleted =>
 no_refers_recorded => لم يسجل أي مصدر بعد
 referrer => الموقع المصدر
 visitor_logs => صحيفة نشاطات الزوار
 #@page
 all_pages => Tous les gabarits ؟؟؟
 copy_page_as => Enregistrer le gabarit sous le nom : ؟؟؟
-create_new_page => 
+create_new_page =>
 delete_page_confirmation => confirmer la suppression du gabarit ؟؟؟
 edit_page => Modifier le gabarit ؟؟؟
 edit_pages => Modifier les gabarits ؟؟؟
-name_for_this_page => 
-page_already_exists => 
+name_for_this_page =>
+page_already_exists =>
 page_article_hed => عرض المقال
-page_article_nav_hed => 
-page_code => 
-page_created => 
-page_deleted => 
+page_article_nav_hed =>
+page_code =>
+page_created =>
+page_deleted =>
 page_misc_hed => منوعات
-page_name => 
-page_name_invalid => 
+page_name =>
+page_name_invalid =>
 page_nav_hed => Navigation du site ؟؟؟
-page_save_failed => 
-page_updated => 
-page_used_by_section => 
+page_save_failed =>
+page_updated =>
+page_used_by_section =>
 page_xml_hed => XML تدفق
 you_are_editing_div => div يتم نشر
 you_are_editing_page => Édition du gabarit en cours : ؟؟؟
 #@plugin
 bad_plugin_code => النظام الأصلي  لـلبلوغين غير صحيح أو غائب
 broken_plugin => متعطل
-changeorder => 
-edit_plugin => 
+changeorder =>
+edit_plugin =>
 edit_plugins => تغيير
-help => 
+help =>
 install => تنزيل
 install_plugin => تنزيل البلوغين
 old_plugin => منزل البلوغين القديمة
-order => 
+order =>
 plugin => Plugin
 plugins => Plugins
-plugin_compression_unsupported => 
-plugin_deleted => 
+plugin_compression_unsupported =>
+plugin_deleted =>
 plugin_help => plugin مسعاد
-plugin_installed => 
-plugin_install_failed => 
-plugin_modified => 
-plugin_prefs => 
-plugin_saved => 
-plugin_updated => 
+plugin_installed =>
+plugin_install_failed =>
+plugin_modified =>
+plugin_prefs =>
+plugin_saved =>
+plugin_updated =>
 previewing_plugin => plugin : عرض
-verify_plugin => 
+verify_plugin =>
 #@prefs
 active_language => اللغة المستخدمة حاليا
 admin_side_plugins => استخدام مجموعة البلوغين الإدارية؟
@@ -620,14 +620,14 @@ advanced_preferences => خيارات متقدمة
 allow_article_php_scripting => (PHP) ترخيص نظام .. في المقالات؟
 allow_form_override => (Form) ترخيص استعمال ؟ في المقال الواحد؟
 allow_page_php_scripting => (PHP) ترخيص نظام .. في ؟؟؟
-allow_raw_php_scripting => 
+allow_raw_php_scripting =>
 all_hits => جميع الطلبات
 archive_dateformat => حجم تاريخ الأرشيف
 archive_date_case => Casse de la date des archives؟؟؟
 archive_dir => مصنف الأرشيف
 articles_use_excerpts => تستعمل المقالات ملخص؟
 attach_titles_to_permalinks => ربط العنوان بعناوين المواقع الثابتة؟
-auto_dst => 
+auto_dst =>
 category_subcategory => فئة رئيسية/فئة فرعية
 check_for_txp_updates => Textpattern التحقق من وجود ضوابط لـ
 clean => نقية
@@ -643,7 +643,7 @@ comments_on_default => تفيل مباشر؟
 comments_require_email => التعليقات تستلزم بريدا غلكترونيا
 comments_require_name => التعليقات تستلزم اسم المستخدم
 comments_sendmail => إرسال التعليقات للمؤلف عبر البريد الإلكتروني
-comments_use_fat_textile => 
+comments_use_fat_textile =>
 comment_means_site_updated => تعليقات جديدة تفيد بان الموقع أعيد ضبطه؟
 comment_nofollow => <code>nofollow</code> إضافة خاصية .. على روابط التعليقات النصية؟
 convert_linebreaks => تبديا العودة إلى السطر
@@ -661,17 +661,17 @@ custom_8_set => 8 حقل مشخص
 custom_9_set => 9 حقل مشخص
 czech => Čeština
 danish => Dansk
-default_event => 
-doctype => 
+default_event =>
+doctype =>
 dutch => Nederlands
 edit_preferences => تغيير الخيارات
 edit_raw_css_by_default => CSS ? ؟؟؟
-enable_xmlrpc_server => 
+enable_xmlrpc_server =>
 english_gb => English (GB)
 english_us => English (US)
 experts_only => للخبراء
 expire_logs_after => صحف النشاطات تبطل صلاحيتها بعد
-feeds => 
+feeds =>
 file_base_path => مصنف الملفات المحمملة
 file_max_upload_size => أكبر حجم للملف المرسل في الموزع
 finnish => Finnois
@@ -679,25 +679,25 @@ french => Français
 from_file => تنزيل عن طريق ملف
 from_server => تنزيل عن طريق موزع
 gmtoffset => GMT توقيت
-ham => 
-hours_days_ago => 
+ham =>
+hours_days_ago =>
 id_title => /id/title
 img_dir => مصنف الصور
 include_email_atom => Atom إدخال عنوان البريد الغلكتروني ضمن تدفق آتوم؟
-install_from_textpack => 
+install_from_textpack =>
 install_langfile => {url} ./textpattern/lang/ لتنزيل لغات جدسدسة يمكنكم أيضا تحميلها من خلال عنوان الموقع ووضعها في المصنف.
 install_language => تنزيل اللغة
-install_textpack => 
+install_textpack =>
 is_dst => ضبط التوقيت الصيفي المستخدم
 language => لغة
-lastmod_keepalive => 
+lastmod_keepalive =>
 leave_text_untouched => ترك النص كما هو
-link => 
+link =>
 locale => محلية
 logging => التسجيل بصحيقفة النشاطات
 logs_expire => (log) تبطل صلاحية صحيفة النشاط بعد
 manage_languages => تسيير الغات
-markup_default => 
+markup_default =>
 max_url_len => الحجم الأكبر لعنوان الموقع
 mentions => Mentions ؟؟؟
 messy => brutes (?=paramètres)؟؟؟
@@ -709,11 +709,11 @@ override_emailcharset => Latin 1 (ISO-8859-1) تحويل رسا~ل البريد 
 page_mode => Type de gabarit ؟؟؟
 path_from_root => ملف فرعي إن كان متوفرا
 path_to_site_missing => $path_to_site غير موجود، اضبط
-permalink_title_format => 
+permalink_title_format =>
 permlink_mode => حجم عناوين المواقع
 ping_textpattern_com => textpattern.com أعلم تلقائيت
 ping_weblogsdotcom => pingomatic.com إعلام
-plugin_cache_dir => 
+plugin_cache_dir =>
 polish => Polonais
 portuguese => Portugais
 preferences_saved => تفضيلات مسجلة
@@ -723,11 +723,11 @@ production_debug => في ضبط
 production_live => en exploitation ؟؟؟
 production_status => Statut de production ؟؟؟
 production_test => تحت التجربة
-publisher_email => 
-publish_expired_articles => 
+publisher_email =>
+publish_expired_articles =>
 record_mentions => Enregistrer les mentions ؟؟؟
 referrers_only => Uniquement les référents ؟؟؟
-remove_lang => 
+remove_lang =>
 rpc_connect_error => يتعذر الاتصال عبر الموزع لببعيد لتثبيت اللغات, شكرا على محاولتك بعد حين
 rss_how_many => XML (RSS) كم من المقالات تمر عبر تدفق
 russian => Russe
@@ -738,7 +738,7 @@ send_lastmod => إرسال عنوان التغيير الأخير
 show_article_category_count => عرض عدد المقالات مصنفة في فئات
 show_comment_count_in_feed => (XML) عرض عدد التعليقات عبر تدفق
 site_prefs => تفضيلات الموقع
-smtp_from => 
+smtp_from =>
 spam_blacklists => anti spam  القائمة السوداء المضادة لـ  {متقطعة بفاصلة}
 spanish => Español
 swedish => Suédois
@@ -746,11 +746,11 @@ syndicate_body_or_excerpt => XML ?عرض الملخص مكان المقال في
 tagalog => Tagalog
 tempdir => مصنف مؤقت
 textile_links => وصف الروابط تكستيل أساسا؟
-textpack_strings_installed => 
+textpack_strings_installed =>
 thai => Thaïlandais
-theme_name => 
+theme_name =>
 timeoffset => الفارق الزمني
-title_no_widow => 
+title_no_widow =>
 title_only => عنوان/
 updated => مضبوط
 updated_branch_version_available => يوجد ضبط جديد  للفرع
@@ -763,25 +763,25 @@ use_mail_on_feeds_id => XML ?أستخدام البريد للتعرف على ا�
 use_plugins => استخدام البلوغين
 year_month_day_title => السنة/الشهر/اليوم/العنوان
 #@public
-403_forbidden => 
+403_forbidden =>
 404_not_found => (error 404).لم يتيسر العثور على الصفحة المطلوبة
-410_gone => 
-500_internal_server_error => 
+410_gone =>
+500_internal_server_error =>
 ago => من قبل
 all => كل
 already_exists => موجود مسبقا
 articles => مقالات
 articles_found => مقالات عثر عليها
-article_context => 
+article_context =>
 article_found => مقال عثر عليه
-atom_feed_title => 
-attribute_values_must_be_quoted => 
+atom_feed_title =>
+attribute_values_must_be_quoted =>
 author => مؤلف
 authors => مؤلفون
 a_few_seconds => بضعة ثواني
-back_to_top => 
+back_to_top =>
 blockquote => لوحة الاقتباس
-browse => 
+browse =>
 bs-ba => Bosanski (Bosna i Hercegovina)
 bulleted_list => قائمة غير مرتبة
 caption => Légende
@@ -791,7 +791,7 @@ category1 => فئة 1
 category2 => فئة 2
 change => تغيير
 check_html => HTML مراجعة
-choose => 
+choose =>
 citation => مرجع
 comments => تعليقات
 comments_closed => مجال التعليق على هذ ا المقال مغلق
@@ -801,7 +801,7 @@ comment_comment => التعليق
 comment_email => البريد الإلكتروني
 comment_email_required => الرجاء إدخال عنوان لبريد إلكتروني صحيح
 comment_invitation => دعوة
-comment_message => 
+comment_message =>
 comment_moderated => تعليقك ينتظر الإثبات.سيظهر بعد أن تتم مراجعته
 comment_name => صاحب التعليق
 comment_name_required => الرجاء إدخال الاسم الخاص
@@ -821,44 +821,44 @@ date_case => Casse de la date
 day => يوم
 days => أيام
 default => Défaut
-definition_list => 
+definition_list =>
 delete => إلغاء
 deleted => ملغى
 deleted_text => نص ملغى
-deprecated_attribute => 
-deprecated_configuration => 
-deprecated_function => 
-deprecated_function_with => 
-deprecated_tag => 
-download_count => 
+deprecated_attribute =>
+deprecated_configuration =>
+deprecated_function =>
+deprecated_function_with =>
+deprecated_tag =>
+download_count =>
 edit => تغيير
 email => عنوان البريد
 email_address => عنوان البريد
 emphasis => emphase مغالاة
-enter_comment_here => 
-error_article_context => 
-error_category_context => 
-error_comment_context => 
-error_file_context => 
-error_image_context => 
-error_link_context => 
-error_section_context => 
+enter_comment_here =>
+error_article_context =>
+error_category_context =>
+error_comment_context =>
+error_file_context =>
+error_image_context =>
+error_link_context =>
+error_section_context =>
 extensions => امتدادات
 fa-ir => Persian (پارسی)
-file_context => 
-file_size => 
-foo_bar => 
+file_context =>
+file_size =>
+foo_bar =>
 forget => محو المعلومات المحفوظة
 form => جزء من نظام
 forms => أجزاء من نظام
 go => إثبات
-go_content => 
-go_nav => 
-go_search => 
-go_to => 
-go_txp_com => 
+go_content =>
+go_nav =>
+go_search =>
+go_to =>
+go_txp_com =>
 header => العناوين الفرعية
-home => 
+home =>
 host => host
 hour => الساعة
 hours => الساعات
@@ -866,14 +866,14 @@ hr => خط حاجز أفقي
 hyperlink => رابط
 image => صورة
 imageurl => عنوان موقع الصورة
-image_context => 
+image_context =>
 inserted_text => نص مدرج
-invalid_attribute_value => 
+invalid_attribute_value =>
 keywords => الكلمات المفاتييح
 label => Label
 last_modification => التغيير الاخير
 linebreak => عودة إلى السطر
-link_context => 
+link_context =>
 list => قائمة
 list_articles => عرض المقالات
 list_categories => عرض الفئات
@@ -881,16 +881,16 @@ list_links => عرض الروابط
 live => منشور
 lowercase => minuscules
 lt-lt => Lietuvių
-main_content => 
+main_content =>
 manual => موجز
-matching_search_request => 
+matching_search_request =>
 message => رسالة
 message_deleted => رسالة  ممحوة
 message_preview => إعادة استعراض اللاسالة
 message_saved => رسالة مسجلة
 minute => دقيقة
 minutes => دقائق
-missing_article_tag => 
+missing_article_tag =>
 modified_by => آخر تغيير عن طريق
 month => شهر
 more => المزيد
@@ -901,8 +901,8 @@ next => الموالي
 no => لا
 none => لا شيء
 nopopup => popup بدون
-no_comments => 
-no_search_matches => 
+no_comments =>
+no_search_matches =>
 numeric_list => قائمة مرتبة
 off => مبطل التفعيل
 older => plus ancient ؟؟؟
@@ -911,7 +911,7 @@ only_articles_can_be_previewed => يمكن استعراض أجزاء فقط  م�
 page => صفحة
 pages => Gabarits ؟؟؟
 paragraph => فقرة
-permanent_link => 
+permanent_link =>
 permlink => URI permanente (permalien)؟؟؟
 plugin_load_error => حدث خطأ خلال التحميل لـ البلوغين
 plugin_load_error_above => error loadin plugin
@@ -919,19 +919,19 @@ popup => popup ؟؟؟
 post => إرسال
 posted => منشور
 posted_by => مرسل من طرف
-press_preview_then_submit => 
+press_preview_then_submit =>
 prev => السابق
 preview => اطلاع مسبق
 publish => نشر
 published_at => نشر يوم
-raw_php_deprecated => 
+raw_php_deprecated =>
 recently => مؤخرا
 recent_articles => مقالات منشورة مؤخرا
 recent_posts => نشر مؤخرا
 remember => حفظ المعلومات المستلمة
-required => 
+required =>
 revert => العودة إلى الوراء
-rss_feed_title => 
+rss_feed_title =>
 save => حفظ
 saved => تسجيل
 save_button => حفظ
@@ -942,7 +942,7 @@ selected => مختار
 site => موقع
 sitename => اسم الموقع
 siteurl => عنوان الموقع
-skip_to_main_content => 
+skip_to_main_content =>
 sp-rs => Srpski
 sr-rs => Српски
 status => وضع
@@ -950,26 +950,26 @@ strong => مغالاة كبيرة
 submit => إرسال
 subscript => إشارة
 superscript => exposant ؟؟؟
-tag_error => 
+tag_error =>
 textile_help => Textile مساعد
-textile_lite_help => 
+textile_lite_help =>
 text_conversion => تحويل النص
 text_handling => تسيير النص
 time => متى؟
-time_ago => 
+time_ago =>
 title => عنوان
 tooltip => إضافة عنوان للرابط
-too_common_search_term => 
+too_common_search_term =>
 tr-tr => Türkçe
 type => صنف
 undefined => اسم معين
-unknown_attribute => 
-unknown_callback_function => 
-unknown_image => 
+unknown_attribute =>
+unknown_callback_function =>
+unknown_image =>
 unknown_section => قسم مجهول
-unknown_tag => 
+unknown_tag =>
 untitled => بدون عنوان
-update => 
+update =>
 upload => إرسال
 uploaded => مرسل
 ur-in => اردو (بھارت
@@ -980,33 +980,33 @@ view => رِؤية
 website => موقع
 week => أسبوع
 weeks => أسابيع
-while_parsing_page_form => 
+while_parsing_page_form =>
 yes => نعم
 your_branch_is_updated => فرعك مثبت
 your_ip_is_blacklisted_by => تم إلغاؤكم من طرف
 you_have_been_banned => لم يعد مسموح لكم بالتعليق
 yyyy-mm => aaaa-mm
 #@section
-article_count => 
-create_section => 
-default_write_section => 
+article_count =>
+create_section =>
+default_write_section =>
 delete_section_confirmation => إثبات إلغاء القسم
-edit_default_section => 
-edit_section => 
+edit_default_section =>
+edit_section =>
 edit_sections => تغيير الأقسام
 include_in_search => تدرج مع نتائج البحث
 on_front_page => على الصفحة الرئيسية
 section => قسم
 sections => أقسام
-section_created => 
-section_deleted => 
+section_created =>
+section_deleted =>
 section_head => أقسام الموقع
 section_longtitle => عنوان القسم
 section_name => إسم القسم
 section_name_already_exists => اسم هذا القسم موجود سابقا
-section_save_failed => 
-section_updated => 
-section_used_by_article => 
+section_save_failed =>
+section_updated =>
+section_used_by_article =>
 selected_by_default => معين أساسا
 style => أصناف
 syndicate => Syndicate (XML)
@@ -1014,133 +1014,133 @@ uses_page => Utilise le gabarit ؟؟؟
 uses_style => style استعمال ال
 #@setup
 about_to_create => أنتم على وشك إنشاء وماء طاولات بنك المعلومات
-add_config_file => 
-admin_theme => 
-already_installed => 
-back => 
+add_config_file =>
+admin_theme =>
+already_installed =>
+back =>
 before_you_proceed => قبل أن تبدأ
 checking_database => التيقن من أن الإتصال ببنك المعلومات قائم
 choose_password => الرجاء اختيار كلمة السر لم تستعمله في مكان إخر ولا يمكن تخمينه
-config_php_does_not_match_input => 
-config_php_not_found => 
-core_theme => 
-create_config => 
-creating_config => 
-creating_db_tables => 
+config_php_does_not_match_input =>
+config_php_not_found =>
+core_theme =>
+create_config =>
+creating_config =>
+creating_db_tables =>
 db_cant_connect => لا يمكن الإتصال ببنك المعلومات بالقيم المشار إليها
 db_connected => في اتصال
-db_doesnt_exist => 
+db_doesnt_exist =>
 db_must_exist => الرجاء الإعلام بوجود بنك المعلةمات المشار إليه،تكست باتلرن لا يقوم هو بإنشائه لك
 did_it => قد تم
-email_required => 
+email_required =>
 errors_during_install => {num} Textpattern. لقد حدث خطأ للأسف خلال عملية التركيب. يمكنكم الاستعانة بمنتديات تكست بترن
-get_started => 
-go_to_login => 
-installation_postamble => 
+get_started =>
+go_to_login =>
+installation_postamble =>
 mysql_database => MySQL بنك المعلومات
 mysql_login => (login) MySQL اسم المستخدم لوقين
 mysql_password => MySQL كلمة السر
 mysql_server => MySQL الموزع
 my_site => موقعي
 my_slogan => شعاري الصغير
-name_required => 
+name_required =>
 need_details => نحتاج لبعض التفاصيل
-next_step => 
-pass_required => 
+next_step =>
+pass_required =>
 please_enter_url => شكرا على الإخبار بـ الذي بيتم الدخول به إلى الموقع
-please_go_back => 
-populate_db => 
-prefix_bad_characters => 
+please_go_back =>
+populate_db =>
+prefix_bad_characters =>
 prefix_warning => (MySQL) لا يستعمل إلا في حالة استعمال عدة تركيبات متلاقية ضمن نفس البنك للمعلومات
-progress_steps => 
+progress_steps =>
 setup_comment_invite => تعليق
-setup_login => 
-set_db_details => 
-set_temp_dir_prefs => 
-site_config => 
-site_url => 
-tables_exist => 
-table_prefix => 
+setup_login =>
+set_db_details =>
+set_temp_dir_prefs =>
+site_config =>
+site_url =>
+tables_exist =>
+table_prefix =>
 thanks_for_interest => Textpattern. شكرا على الاهتمام الذي تولونه لتكست بترن
 that_went_well => كل شيء على ما يرام. طاولات قد تم أنشاؤها وملؤها
 using_db => <code>{dbname}</code>في مرحلة الاستعمال
-warn_mail_unavailable => 
+warn_mail_unavailable =>
 welcome_to_textpattern => Textpattern مرحبا بك في
 your_email => عنوانك البريدي
 your_full_name => اسمك الحقيقي بالكامل
 you_can_access => بإمكانكم من الآن على الأرجح الدخول إلى صفحة التسيير عن طريق اسم الاتصال وكلمة السر المختارين
 #@tag
-active_class => 
-align => 
-allowoverride => 
+active_class =>
+align =>
+allowoverride =>
 article_divider => فاصل المقالات
-breadcrumb_linked => 
+breadcrumb_linked =>
 breadcrumb_separator => فاصل جذر التشجر
 break => فاصل
-breakclass => 
+breakclass =>
 build => إقامة المعلم
 button_text => نص الزر
-category_list_section => 
-category_tags => 
-class => 
+category_list_section =>
+category_tags =>
+class =>
 comments_form => Module
-comment_details => 
+comment_details =>
 comment_form => Module de commentaires
-comment_name_link => 
-decimals => 
-default_title => 
-escape => 
-exclude => 
-filename => 
+comment_name_link =>
+decimals =>
+default_title =>
+escape =>
+exclude =>
+filename =>
 file_download_tags => تحميل الملفات
-flavor => 
+flavor =>
 flavour => Saveur
-format => 
-gmt => 
+format =>
+gmt =>
 has_excerpt => لديه ملخص
-hilight => 
-hilight_limit => 
-html_id => 
-id => 
-include_default => 
-inline_style => 
+hilight =>
+hilight_limit =>
+html_id =>
+id =>
+include_default =>
+inline_style =>
 input_size => Taille du masque de saisie
-isize => 
+isize =>
 labeltag => Balise HTML du label
 limit => حد
-linkclass => 
+linkclass =>
 link_to_this_author => ربط يؤدي ألى قائمة مقالات أخرى للمؤلف
 link_to_this_category => رابط يؤدي إلى قائمة مقالات أخرى في هذه الفئة
 link_to_this_section => رابط يؤدي إلى قائمة مقالات أخرى في هذا القسم
 listform => Module de liste
-match => 
-media => 
-msgcols => 
-msgrows => 
-n => 
+match =>
+media =>
+msgcols =>
+msgrows =>
+n =>
 next_page_link => رابط يؤدي إلى الصفحة الموالية
-no_categories_available => 
-no_forms_available => 
-no_sections_available => 
-offset => 
-pageby => 
+no_categories_available =>
+no_forms_available =>
+no_sections_available =>
+offset =>
+pageby =>
 page_file_hed => تحميل الملفات
-pgonly => 
-random => 
-rel => 
-searchall => 
-searchsticky => 
+pgonly =>
+random =>
+rel =>
+searchall =>
+searchsticky =>
 search_input_form => كتابة موضوع البحث
 search_results_form => نتائج البحث
-section_tags => 
-showalways => 
-showcount => 
-size_format => 
-sort => 
+section_tags =>
+showalways =>
+showcount =>
+size_format =>
+sort =>
 sort_by => مختار من طرف
 sort_direction => ترتيب الاختيار
 tag => معلم
-tagbuilder => 
+tagbuilder =>
 tags => معالم
 tag_article => مقالات{واحد أو قائمة كاملة
 tag_article_custom => مقالات -قائمة مشخصة
@@ -1148,20 +1148,20 @@ tag_article_image => صورة مرافقة للمقال
 tag_author => مؤلف
 tag_body => لنص
 tag_body_excerpt => مقطع من النص
-tag_breadcrumb => 
-tag_category => 
+tag_breadcrumb =>
+tag_category =>
 tag_category1 => فئة 1
 tag_category2 => فئة 2
 tag_category_list => قائمة الفئات
-tag_comments => 
-tag_comments_form => 
+tag_comments =>
+tag_comments_form =>
 tag_comments_invite => الداعي للتعليق
-tag_comments_preview => 
-tag_comment_anchor => 
-tag_comment_email => 
+tag_comments_preview =>
+tag_comment_anchor =>
+tag_comment_email =>
 tag_comment_email_input => كتابة البريد الإلكتروني
-tag_comment_id => 
-tag_comment_message => 
+tag_comment_id =>
+tag_comment_message =>
 tag_comment_message_input => كتابة الرسالة
 tag_comment_name => اسم التعليق
 tag_comment_name_input => كتابة الاسم
@@ -1170,16 +1170,16 @@ tag_comment_preview => زر العرض
 tag_comment_remember => "خانة للإشارة"تذكر التفاصيل
 tag_comment_submit => زر التسجيل
 tag_comment_time => الساعة
-tag_comment_web => 
+tag_comment_web =>
 tag_comment_web_input => كتابة عنوان الموقع
 tag_css => CSS [رابط [المقدمة
-tag_email => 
+tag_email =>
 tag_excerpt => ملخص
 tag_feed_link => تدفق المقالات
 tag_file_download => Module ؟ تحميل الملفات
 tag_file_download_category => فئة
 tag_file_download_created => تاريخ وساعة الإنشاء
-tag_file_download_description => 
+tag_file_download_description =>
 tag_file_download_downloads => عدد التحميلات
 tag_file_download_id => ID
 tag_file_download_link => رابط
@@ -1188,19 +1188,19 @@ tag_file_download_modified => تاريخ وساعة التغيير
 tag_file_download_name => الاسم
 tag_file_download_size => الحجم
 tag_home => الاستقبال
-tag_if_category => 
-tag_if_section => 
-tag_image => 
+tag_if_category =>
+tag_if_section =>
+tag_image =>
 tag_inline_ => خطي
 tag_lang => اللغة
 tag_link => الرابط فقط
 tag_linkdesctitle => إعطاء عنوان للرابط
 tag_linklist => قائمة الروابط
-tag_link_category => 
-tag_link_date => 
+tag_link_category =>
+tag_link_date =>
 tag_link_description => وصف فقط
 tag_link_feed_link => تدفق الروابط
-tag_link_name => 
+tag_link_name =>
 tag_link_text => نص الرابط  فقط
 tag_link_to_home => ابط نصي نحو الصفحة الرئيسية
 tag_link_to_next => رابط نصي نحو المقال الموالي
@@ -1229,20 +1229,20 @@ tag_search_result_excerpt => ملخص النتيجة
 tag_search_result_title => عنوان النتيجة
 tag_search_result_url => عنوان موقع النتيجة
 tag_section => قسم
-tag_section_list => 
+tag_section_list =>
 tag_sitename => اسم الموقع
-tag_site_name => 
+tag_site_name =>
 tag_site_slogan => شعار الموقع
 tag_title => عنوان
 tag__inline => خطي أولا
-textonly => 
+textonly =>
 text_or_tag => نص أو معلم هنا
-this_section => 
-time_any => 
-time_format => 
-time_future => 
-time_past => 
+this_section =>
+time_any =>
+time_format =>
+time_future =>
+time_past =>
 title_separator => فاصل أحادي للمقال
 useful_tags => معالم مفيدة
-use_thumbnail => 
+use_thumbnail =>
 wraptag => معلم محيط

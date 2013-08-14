@@ -57,12 +57,12 @@ you_have_been_registered => شما به عنوان مشارکت‌کننده د�
 advanced_options => تنظیمات پیشرفته
 article_day => روز
 article_expires_before_postdate => خطا: نوشته <strong>پیش از</strong> تاریخ ارسال منقضی می‌شود.
-article_exp_day => 
-article_exp_hour => 
-article_exp_minute => 
-article_exp_month => 
-article_exp_second => 
-article_exp_year => 
+article_exp_day =>
+article_exp_hour =>
+article_exp_minute =>
+article_exp_month =>
+article_exp_second =>
+article_exp_year =>
 article_hour => ساعت
 article_image => تصویر نوشته
 article_markup => در کد نوشته
@@ -89,7 +89,7 @@ pending => منتظر برای ارسال
 reset_time => تغییر زمان به حال
 set_to_now => زمان و تاریخ رو به اکنون تغییر بده
 sort_display => مرتب‌سازی و نمایش
-textfilter_help => 
+textfilter_help =>
 timestamp => الگوی زمان و تاریخ
 url_title => عنوان مختص نشانی نوشته
 url_title_is_blank => فیلد عنوان مختص نشانی خالی گذاشته شد.
@@ -108,7 +108,7 @@ article_category_name => نام رده نوشته
 article_category_title => عنوان رده نوشته
 article_category_updated => رده‌نوشته <strong>{name}</strong> بهنگام شد.
 article_head => رده‌های مربوط به نوشته‌ها
-categories_set_parent => 
+categories_set_parent =>
 category_not_found => رده یافت نشد
 category_save_failed => رده به دلیل بروز خطا ذخیره نشد. لطفا دوباره تلاش کنید.
 edit_category => ویرایش رده
@@ -164,7 +164,7 @@ changecomments => تغییر نظرات
 changeparent => تغییر والد
 changesection => تغییر بخش
 changestatus => تغییر وضعیت
-close => 
+close =>
 comment => نظر
 comments_expired => امکان نظردهی برای این نوشته وجود ندارد.
 confirm_delete_popup => پاک شود؟
@@ -180,7 +180,7 @@ descending => نزولی
 description => توضیحات
 detail_toggle => نمایش جزئیات
 draft => پیش‌نویس
-duplicate => 
+duplicate =>
 el-gr => &#917;&#955;&#955;&#951;&#957;&#953;&#954;ά
 en-gb => English (Great Britain)
 en-us => English (United States)
@@ -196,7 +196,7 @@ form_submission_error => متاسفانه ارسال فرم امکان‌پذی�
 fr-fr => Fran&#231;ais
 gd_unavailable => دسترس ناپذیر
 general_error => خطای عمومی
-get_off_my_lawn => 
+get_off_my_lawn =>
 gl-gz => Galego
 greeting => عزیز
 he-il => עברית
@@ -231,7 +231,7 @@ per_page => در صفحه
 pl-pl => Polski
 pt-br => Português (Brasil)
 pt-pt => Português (Portugal)
-published_with => 
+published_with =>
 range => محدوده
 restricted_area => منطقه ممنوعه
 ro-ro => Română
@@ -274,10 +274,10 @@ th-th => ไทย
 thumbnail => تصویر کوچک
 title_body => عنوان و بدنه
 title_body_excerpt => عنوان، بدنه و منتخب
-toggle_all_selected => 
+toggle_all_selected =>
 txpnl2br => تنها شکست خط
 txprawxhtml => کد خام XHTML
-txpstriptags => 
+txpstriptags =>
 txptextile => Textile
 txptextilelite => Textile Lite
 txt_quote_double_close => «
@@ -321,11 +321,11 @@ cannot_delete_default_css => استایل <strong>پیش‌فرض</strong> نم�
 copy_css_as => &#8230; و یا استایل کپی شود در
 create_new_css => ساخت استایل جدید
 css_already_exists => شیوه‌نامه <strong>{name}</strong> از پیش موجود است.
-css_code => 
+css_code =>
 css_created => استایل <strong>{name}</strong> ساخته شد.
 css_deleted => استایل <strong>{name}</strong> پاک شد.
 css_mode => حالت CSS
-css_name => 
+css_name =>
 css_name_required => لطفاً برای استایل خود یک نام وارد کنید.
 css_property_value => Property : Value
 css_save_failed => شیوه‌نامه به دلیل بروز خطا ذخیره نشد. لطفا دوباره تلاش کنید.
@@ -360,11 +360,11 @@ detail => جزئیات
 dev_version_live => شما از فایل‌های همچنان در حال توسعه بر روی یک سرور در حال کار استفاده می‌کنید
 diagnostic_info => اطلاعات عیب‌یابی
 dir_not_writable => {dirtype} قابل نوشتن نیست
-dns_lookup_fails => 
+dns_lookup_fails =>
 document_root => ریشه اصلی اسناد
 file_uploads_disabled => امکان آپلود فایل غیرفعال شد.
-gd_info => 
-gd_library => 
+gd_info =>
+gd_library =>
 high => زیاد
 htaccess_contents => محتویات فایل .htaaccess
 htaccess_missing => فایل .htaccess موجود نیست
@@ -372,28 +372,28 @@ img_dir_read_only => پوشه تصاویر تنها قابل خواندن است
 is_inaccessible => دسترس‌پذیر نیست
 last_update => آخرین بهنگام‌سازی
 low => کم
-magic_quotes => 
-missing_files => 
+magic_quotes =>
+missing_files =>
 modified_files => برخی از فایل‌های Textpattern نغییر یافته‌اند
 mod_rewrite_missing => ماژول mod_rewrite بر روی آپاچی نصب نیست
 mysql_table_errors => این اشکالات در جدول‌های MySQL شما یافت شد
 no_temp_dir => هیچ پوشه‌ای برای فایل‌های موقت تعریف نشده است
 old_files => برخی از فایل‌های Textpattern قدیمی‌اند
-old_placeholder => 
+old_placeholder =>
 os_version => سیستم‌عامل سرور
 path_to_site_inacc => <code>$path_to_site</code> دسترس‌پذیر نیست.
 php_extensions => افزونه‌های PHP
-php_sapi_mode => 
+php_sapi_mode =>
 php_version => نسخه PHP
 php_version_required => سیستم مدیریت محتوای Textpattern برای نصب روی سرور شما به نسخه‌ی PHP {version} به بالا نیازمند است.
 preflight_check => آزمون
-register_globals => 
+register_globals =>
 rfc2616_headers => سرآیندهای RFC 2616
 rfc_2616_headers => CGI Header Mode
 server => سرور
 server_time => زمان محلی سرور
-site_trailing_slash => 
-site_url_mismatch => 
+site_trailing_slash =>
+site_url_mismatch =>
 some_php_functions_disabled => این توابع PHP (که برای راه‌اندازی Textpattern ضروری‌اند) بر روی سرور شما غیر فعال‌اند.
 still_exists => همچنان وجود دارد
 textpattern_update_available => نسخه‌ی جدید سیستم مدیریت محتوای Textpattern  {version} <a href="http://textpattern.com/download" rel="external" title="رفتن به بخش دانلود">برای دریافت آماده است</a>
@@ -427,7 +427,7 @@ ips_banned => این IPها از نظردهی منع شده‌اند: <strong>{l
 ip_already_banned => نشانی IP <strong>{ip}</strong> از پیش منع شده است.
 ip_banned => نشانی IP <strong>{ip}</strong> منع شد.
 ip_ban_removed => ممنوعیت <strong>{ip}</strong> برداشته شد.
-just_spam_results_found => 
+just_spam_results_found =>
 list_banned_ips => لیست IPهای ممنوعه
 list_discussions => نظرات
 name_used => نام استفاده شده
@@ -455,15 +455,15 @@ file_not_found => فایل یافت نشد
 file_not_updated => فایل <strong>{name}</strong> بهنگام <em>نشد</em>!
 file_relink => آپلود یا انتصاب فایل
 file_status => وضعیت فایل
-file_status_missing => 
+file_status_missing =>
 file_status_ok => درست
-file_unsynchronized => 
+file_unsynchronized =>
 file_updated => فایل <strong>{name}</strong> بهنگام شد.
 file_uploaded => فایل <strong>{name}</strong> آپلود شد.
 file_upload_failed => ناتوانی در آپلود فایل
 invalid_filename => نام فایل نامعتبر است
 invalid_id => شناسه نامعتبر
-linked_to_file => 
+linked_to_file =>
 no_files_recorded => هیچ فایلی ثبت نشده است.
 permissions => اجازه‌ها
 private => خصوصی
@@ -481,7 +481,7 @@ delete_form_confirmation => تأیید حذف فرم
 edit_forms => قالب‌های فرم
 forms_deleted => این فرم‌ها پاک شدند : <strong>{list}</strong>
 form_already_exists => فرم <strong>{name}</strong> از پیش موجود است.
-form_code => 
+form_code =>
 form_created => فرم <strong>{name}</strong> ساخته شد.
 form_name => نام (لازم است)
 form_name_invalid => نام فرم نامعتبر است.
@@ -576,7 +576,7 @@ name_for_this_page => نام این صفحه
 page_already_exists => صفحه <strong>{name}</strong> از پیش موجود است.
 page_article_hed => خروجی نوشته
 page_article_nav_hed => پیمایش‌گر نوشته‌ها
-page_code => 
+page_code =>
 page_created => صفحه <strong>{name}</strong> ساخته شد.
 page_deleted => صفحه <strong>{name}</strong> حذف شد.
 page_misc_hed => گوناگون
@@ -602,7 +602,7 @@ old_plugin => نصاب پلاگین قدیمی (مبتنی بر متن)
 order => اولویت
 plugin => پلاگین
 plugins => پلاگین‌ها
-plugin_compression_unsupported => 
+plugin_compression_unsupported =>
 plugin_deleted => پلاگین <strong>{name}</strong> پاک شد.
 plugin_help => راهنمای پلاگین
 plugin_installed => پلاگین <strong>{name}</strong> نصب شد.
@@ -623,20 +623,20 @@ allow_page_php_scripting => استفاده از PHP در صفحات مجاز ب�
 allow_raw_php_scripting => کدهای خام PHP مجاز باشد؟
 all_hits => همه بازدیدها
 archive_dateformat => فرمت تاریخ بایگانی
-archive_date_case => 
+archive_date_case =>
 archive_dir => پوشه بایگانی
 articles_use_excerpts => نوشته‌ها دارای بخش منتخب هستند؟
 attach_titles_to_permalinks => به لینک دائمی، عنوان هم افزوده گردد؟
 auto_dst => تنظیم خودکار تغییر زمان <abbr title="Daylight Saving Time">DST</abbr>؟
-category_subcategory => 
-check_for_txp_updates => 
-clean => 
+category_subcategory =>
+check_for_txp_updates =>
+clean =>
 comments_are_ol => نمایش نظرات در قالب لیست شماره‌ای؟
 comments_auto_append => نظرات به طور خودکار به انتهای نوشته افزوده گردند؟
 comments_dateformat => فرمت تاریخ نظرات
 comments_default_invite => متن پیش‌فرض دعوت به نظردهی
 comments_disabled_after => پس از چندوقت غیرفعال شود؟
-comments_disallow_images => 
+comments_disallow_images =>
 comments_mode => حالت نظردهی
 comments_moderate => نظرات مدیریت شوند؟
 comments_on_default => نظردهی به‌طور پیش‌فرض فعال باشد؟
@@ -681,16 +681,16 @@ from_server => نصب از طریق سرور
 gmtoffset => منطقه زمانی
 ham => همه به جزء اسپم
 hours_days_ago => ساعت/روز پیش
-id_title => 
+id_title =>
 img_dir => پوشه تصاویر
 include_email_atom => قراردادن ایمیل در فید اتم
-install_from_textpack => 
+install_from_textpack =>
 install_langfile => برای نصب زبان جدید از روی فایل می‌توانید آن‌ها را از {url} دانلود کرده و در مسیر /textpattern/lang/. قرار دهید.
 install_language => نصب زبان
 install_textpack => نصب textpack
-is_dst => 
+is_dst =>
 language => زبان
-lastmod_keepalive => 
+lastmod_keepalive =>
 leave_text_untouched => متن را دستکاری نکن
 link => لینک‌ها
 locale => منطقه
@@ -699,15 +699,15 @@ logs_expire => گزارش‌ها پس از چند روز منقضی گردند؟
 manage_languages => زبان
 markup_default => کد پیش‌فرض
 max_url_len => حداکثر طول نشانی (به کاراکتر)
-mentions => 
-messy => 
+mentions =>
+messy =>
 never_display_email => مخفی‌کردن نشانی ایمیل؟
 new_textpattern_version_available => نسخه کاملاً جدیدی از Textpattern موجود است. می‌خواهید امتحان کنید؟
 norwegian => Norwegian
 no_popup => پنجره فعلی
 override_emailcharset => در ایمیل‌های ارسالی از رمزگذاری ISO-8859-1 استفاده شود (پیش‌فرض UTF-8 است)؟
 page_mode => حالت صفحه
-path_from_root => 
+path_from_root =>
 path_to_site_missing => متغیر path_to_site$ تنظیم نشده است (فایل index.php را بهنگام کنید)
 permalink_title_format => لینک دائمی مثل‌ـ‌این‌ـ‌باشد (به جای اینکه مثل‌این‌باشد)؟
 permlink_mode => حالت لینک دائم
@@ -717,53 +717,53 @@ plugin_cache_dir => مسیر پوشه کش پلاگین‌ها
 polish => Polish
 portuguese => Portuguese
 preferences_saved => تنظیمات ذخیره شد
-prefs => 
+prefs =>
 problem_connecting_rpc_server => مشکلی در اتصال به سرور RPC رخ داده است. لطفاً پس از مدتی مجدداً تلاش کنید.
 production_debug => رفع اشکال
 production_live => فعال
 production_status => وضعیت سایت
 production_test => تست کردن
-publisher_email => 
+publisher_email =>
 publish_expired_articles => انتشار نوشته‌های منقضی؟
-record_mentions => 
+record_mentions =>
 referrers_only => تنها ارجاع‌دهندگان
-remove_lang => 
-rpc_connect_error => 
+remove_lang =>
+rpc_connect_error =>
 rss_how_many => چه تعداد نوشته در فید باشد؟
 russian => Russian
 scots => Scots
-section_id_title => 
-section_title => 
+section_id_title =>
+section_title =>
 send_lastmod => سرایند “Last-Modified” ارسال شود؟
 show_article_category_count => نمایش تعداد نوشته‌ها در تب رده‌ها؟
 show_comment_count_in_feed => نمایش تعداد نظرها در فید؟
 site_prefs => پایه
-smtp_from => 
+smtp_from =>
 spam_blacklists => لیست سیاه اسپم‌ها (با کاما جدا کنید)
 spanish => Español
 swedish => Swedish
 syndicate_body_or_excerpt => <strong>تنها</strong> منتخب نوشته‌ها در فیدها قرار گیرد؟
 tagalog => Tagalog
 tempdir => مسیر پوشه موقت
-textile_links => 
-textpack_strings_installed => 
+textile_links =>
+textpack_strings_installed =>
 thai => Thai
 theme_name => قالب بخش مدیریتی
-timeoffset => 
-title_no_widow => 
-title_only => 
+timeoffset =>
+title_no_widow =>
+title_only =>
 updated => بهنگام شده
-updated_branch_version_available => 
+updated_branch_version_available =>
 update_languages => بهنگام‌سازی زبان‌ها
 urls_to_ping => نشانی جاهایی که باید به آن‌ها پینگ شود (با کاما جدا کنید)
-url_mode => 
+url_mode =>
 use_comments => پذیرش نظرات؟
 use_dns => استفاده از مراجعه به DNS در گزارش بازدیدکنندگان؟
 use_mail_on_feeds_id => از نشانی ایمیل به عنوان شناسه فیدها استفاده شود (پیش‌فرض نشانی سایت است)؟
 use_plugins => استفاده از پلاگین‌ها؟
-year_month_day_title => 
+year_month_day_title =>
 #@public
-403_forbidden => 
+403_forbidden =>
 404_not_found => نشانی درخواستی شما یافت نشد.
 410_gone => منبع درخواستی شما دیگر در دسترس نیست.
 500_internal_server_error => خطای داخلی سرور
@@ -772,7 +772,7 @@ all => همه
 already_exists => از پیش موجود است
 articles => نوشته‌ها
 articles_found => نوشته یافت شد
-article_context => 
+article_context =>
 article_found => نوشته یافت شد
 atom_feed_title => فید اتم
 attribute_values_must_be_quoted => مقادیر صفت باید در ”” قرار بگیرند.
@@ -780,7 +780,7 @@ author => نویسنده
 authors => نویسندگان
 a_few_seconds => چند لحظه پیش
 back_to_top => ↑ بازگشت به بالا
-blockquote => 
+blockquote =>
 browse => مرور
 bs-ba => Bosanski (Bosna i Hercegovina)
 bulleted_list => لیست گلوله‌ای
@@ -795,7 +795,7 @@ choose => انتخاب...
 citation => نقل قول
 comments => نظرات
 comments_closed => امکان نظردهی برای این نوشته وجود ندارد.
-comments_on => 
+comments_on =>
 comments_permlink => لینک دائمی
 comment_comment => نظر
 comment_email => ایمیل
@@ -806,7 +806,7 @@ comment_moderated => نظر شما پس از تأیید مدیر سایت نما
 comment_name => نام
 comment_name_required => لطفاً نام خود را وارد کنید.
 comment_posted => از نظردهی شما متشکریم.
-comment_received => 
+comment_received =>
 comment_recorded => نظری برای نوشته "{title}" ثبت شده است.
 comment_required => لطفاً نظرتان را بنویسید.
 comment_web => وب‌سایت
@@ -817,38 +817,38 @@ created => ساخته شده
 create_new => ساختن
 date => تاریخ
 dateformat => فرمت تاریخ
-date_case => 
+date_case =>
 day => روز
 days => روز
 default => پیش‌فرض
-definition_list => 
+definition_list =>
 delete => پاک کن
 deleted => پاک شده
 deleted_text => متن پاک شده
 deprecated_attribute => صفت {name} نامناسب است
-deprecated_configuration => 
+deprecated_configuration =>
 deprecated_function => تابع {name} نامناسب است
 deprecated_function_with => تابع {name} نامناسب است : به جای آن از {with} استفاده کنید
 deprecated_tag => تگ نامناسب است
-download_count => 
+download_count =>
 edit => ویرایش
 email => ایمیل
 email_address => ایمیل
 emphasis => تأکید
-enter_comment_here => 
+enter_comment_here =>
 error_article_context => تگ‌های مربوط به نوشته در خارج از محدوده مربوط به نوشته قابل استفاده نیستند
-error_category_context => 
+error_category_context =>
 error_comment_context => تگ‌های مربوط به نظرات در خارج از محدوده مربوط به نظرات قابل استفاده نیستند
 error_file_context => تگ‌های مربوط به فایل‌ها در خارج از محدوده مربوط به فایل‌ها قابل استفاده نیستند
 error_image_context => تگ‌های مربوط به تصاویر در خارج از محدوده مربوط به تصاویر قابل استفاده نیستند
 error_link_context => تگ‌های مربوط به لینک‌ها در خارج از محدوده مربوط به لینک‌ها قابل استفاده نیستند
-error_section_context => 
+error_section_context =>
 extensions => افزونه‌ها
 fa-ir => Persian (پارسی)
-file_context => 
+file_context =>
 file_size => حجم فایل
-foo_bar => 
-forget => 
+foo_bar =>
+forget =>
 form => فرم
 forms => فرم‌ها
 go => برو
@@ -856,7 +856,7 @@ go_content => برو به محتوا
 go_nav => برو به پیمایشگر
 go_search => برو به جستجو
 go_to => برو به
-go_txp_com => 
+go_txp_com =>
 header => سرآیند
 home => خانه
 host => میزبان
@@ -866,14 +866,14 @@ hr => خط افقی
 hyperlink => لینک
 image => تصویر
 imageurl => نشانی تصویر
-image_context => 
+image_context =>
 inserted_text => متن درج‌شده
 invalid_attribute_value => مقدار {name} برای صفت مناسب نیست
 keywords => کلیدواژه‌ها
 label => برچسب
 last_modification => آخرین تغییر
 linebreak => شکست خط
-link_context => 
+link_context =>
 list => لیست
 list_articles => لیست نوشته‌ها
 list_categories => لیست رده‌ها
@@ -881,9 +881,9 @@ list_links => لیست لینک‌ها
 live => زنده
 lowercase => حروف کوچک
 lt-lt => Lietuvių
-main_content => 
-manual => 
-matching_search_request => 
+main_content =>
+manual =>
+matching_search_request =>
 message => پیام
 message_deleted => پیام پاک شد
 message_preview => پیش‌نمایش پیام
@@ -900,9 +900,9 @@ newer => جدیدتر
 next => بعدی
 no => خیر
 none => هیچ
-nopopup => 
-no_comments => 
-no_search_matches => 
+nopopup =>
+no_comments =>
+no_search_matches =>
 numeric_list => لیست عددی
 off => خاموش
 older => قدیمی‌تر
@@ -915,22 +915,22 @@ permanent_link => لینک دائمی به این نوشته
 permlink => لینک دائمی
 plugin_load_error => هنگام بارگذاری پلاگین مشکلی رخ داده است:
 plugin_load_error_above => این اشکالات توسط پلاگین به وجود آمده است
-popup => 
+popup =>
 post => ارسال
 posted => ارسال شده در
 posted_by => ارسال شده توسط
-press_preview_then_submit => 
-prev => 
+press_preview_then_submit =>
+prev =>
 preview => پیش‌نمایش
 publish => انتشار
 published_at => منتشر شده در
-raw_php_deprecated => 
+raw_php_deprecated =>
 recently => اخیراً
 recent_articles => آخرین نوشته‌ها
 recent_posts => آخرین ارسال‌ها
-remember => 
+remember =>
 required => ضروری
-revert => 
+revert =>
 rss_feed_title => فید RSS
 save => ذخیره
 saved => ذخیره شد
@@ -942,7 +942,7 @@ selected => انتخاب شده
 site => سایت
 sitename => نام سایت
 siteurl => نشانی سایت
-skip_to_main_content => 
+skip_to_main_content =>
 sp-rs => Srpski
 sr-rs => Српски
 status => وضعیت
@@ -954,24 +954,24 @@ tag_error => اشکال در تگ:
 textile_help => راهنمای Textile
 textile_lite_help => راهنمای Textile Lite
 text_conversion => تبدیل متن
-text_handling => 
+text_handling =>
 time => زمان
 time_ago => {time} پیش
 title => عنوان
-tooltip => 
-too_common_search_term => 
+tooltip =>
+too_common_search_term =>
 tr-tr => Türkçe
 type => نوع
 undefined => تعریف‌نشده
 unknown_attribute => صفت ناشناخته {att}:
-unknown_callback_function => 
+unknown_callback_function =>
 unknown_image => تصویر نامعلوم
 unknown_section => بخش نامعلوم
 unknown_tag => تگ موجود نیست
 untitled => بدون عنوان
 update => بهنگام‌سازی
 upload => آپلود
-uploaded => 
+uploaded =>
 ur-in => اردو (بھارت
 url => URL
 value => ارزش
@@ -980,9 +980,9 @@ view => نمایش
 website => وب‌سایت
 week => هفته
 weeks => هفته
-while_parsing_page_form => 
+while_parsing_page_form =>
 yes => بله
-your_branch_is_updated => 
+your_branch_is_updated =>
 your_ip_is_blacklisted_by => نشانی IP شما در لیست سیاه قرار گرفته است توسط
 you_have_been_banned => شما از نظردهی منع شده‌اید.
 yyyy-mm => yyyy-mm
@@ -1009,21 +1009,21 @@ section_updated => بخش <strong><a href="#section-{name}">{name}</a></strong> 
 section_used_by_article => بخش <strong>{name}</strong> پاک نشد چرا که {count} نوشته در این بخش هستند.
 selected_by_default => انتخاب پیش‌فرض
 style => استایل
-syndicate => 
+syndicate =>
 uses_page => استفاده از صفحه
 uses_style => استفاده از استایل
 #@setup
 about_to_create => شما در حال ایجاد جدول‌های پایگاه داده هستید.
 add_config_file => افزودن فایل پیکربندی
-admin_theme => 
+admin_theme =>
 already_installed => به نظر می‌رسد که Textpattern پیش از این هم نصب شده است. اگر می‌خواهید یک نصب مجدد و نو داشته باشد لطفاً فایل <code>config.php</code> را از پوشه <code>/textpattern/</code>
-back => 
+back =>
 before_you_proceed => پیش از آنکه ادامه دهید
 checking_database => در حال تست ارتباط با پایگاه داده
 choose_password => یک گذرواژه انتخاب کنید
-config_php_does_not_match_input => 
-config_php_not_found => 
-core_theme => 
+config_php_does_not_match_input =>
+config_php_not_found =>
+core_theme =>
 create_config => فایلی به نام <code>config.php</code> در مسیر <code>/textpattern/</code> درست کرده و محتویات زیر را در آن کپی کنید:
 creating_config => ساخت فایل config.php
 creating_db_tables => ساخت جدول‌های پایگاه داده
@@ -1036,7 +1036,7 @@ email_required => لطفاً یک ایمیل معتبر وارد کنید
 errors_during_install => در حین نصب {num} عدد اشکال پیش آمد. می‌توانید در تالار گفتمان Textpattern برای کمک اقدام کنید.
 get_started => برو!
 go_to_login => وارد شوید
-installation_postamble => 
+installation_postamble =>
 mysql_database => پایگاه داده MySQL
 mysql_login => نام کاربری MySQL
 mysql_password => گذرواژه MySQL
@@ -1045,21 +1045,21 @@ my_site => سایت من
 my_slogan => My pithy slogan
 name_required => لطفا یک نام کاربری معتبر وارد کنید.
 need_details => به ناچار باید جزئیات بیشتری بدانیم
-next_step => 
+next_step =>
 pass_required => لطفا یک گذرواژه قوی‌تر انتخاب کنید.
 please_enter_url => لطفاً یک نشانی قابل دستیابی از طریق وب را برای سایت خود وارد کنید.
-please_go_back => 
-populate_db => 
+please_go_back =>
+populate_db =>
 prefix_bad_characters => پیش‌وند جدول {dbprefix} دارای کاراکترهای غیرمجاز است.<br /> نخستین کاراکتر باید یکی از گزینه‌های <b>a-zA-Z_</b> و مابقی می‌توانند از کاراکترهای محدوده <
 prefix_warning => (تنها هنگامی استفاده کنید که می‌خواهید چندین نصب مختلف روی یک پایگاه داده داشته باشید).
-progress_steps => 
+progress_steps =>
 setup_comment_invite => نظر بدهید
 setup_login => یک نام کاربری انتخاب کنید (لطفاً صرفاً از کارکترهای اصلی و خط فاصله استفاده کنید)
 set_db_details => تنظیم جزئیات پایگاه داده
 set_temp_dir_prefs => متأسفانه هیچ پوشه قابل نوشتنی برای فایل‌های موقت پیدا نکردیم.<br /> لطفاً در بخش &#8220;تنظیمات پیشرفته&#8221; گزینه &#8220;مسیر پوشه موقت&#8221; را متناس
 site_config => پیکربندی سایت
 site_url => نشانی سایت
-tables_exist => 
+tables_exist =>
 table_prefix => پیش‌وند جدول
 thanks_for_interest => از توجهتان به Textpattern سپاسگزاریم.
 that_went_well => به خوبی انجام شد. جدول‌های پایگاه داده ساخته و پرداخته شدند.
@@ -1074,10 +1074,10 @@ active_class => کلاس CSS برای آیتم فعال
 align => تراز
 allowoverride => فرم را بتوان تحریف کرد؟
 article_divider => جداساز نوشته‌ها
-breadcrumb_linked => 
-breadcrumb_separator => 
-break => 
-breakclass => 
+breadcrumb_linked =>
+breadcrumb_separator =>
+break =>
+breakclass =>
 build => تگ را بساز
 button_text => متن دکمه
 category_list_section => لینک به یک بخش مشخص؟
@@ -1087,14 +1087,14 @@ comments_form => فرم نظرات
 comment_details => جزئیات نظر
 comment_form => فرم نظردهی
 comment_name_link => به نشانی ایمیل یا وب‌سایت نظردهنده لینک شود؟
-decimals => 
+decimals =>
 default_title => متنی که برای لینک بخش پیش‌فرض استفاده می‌شود
-escape => 
-exclude => 
+escape =>
+exclude =>
 filename => نام
 file_download_tags => دانلود فایل
-flavor => 
-flavour => 
+flavor =>
+flavour =>
 format => قالب
 gmt => فرمت بر طبق زمان گرینویچ باشد؟
 has_excerpt => دارای منتخب
@@ -1123,7 +1123,7 @@ no_categories_available => هیچ رده‌ای موجود نیست.
 no_forms_available => هیچ فرمی موجود نیست.
 no_sections_available => هیچ بخشی موجود نیست.
 offset => ردکن
-pageby => 
+pageby =>
 page_file_hed => دانلود فایل
 pgonly => نوشته‌ها را بشمار اما چیزی نشان نده
 random => تصادفی
@@ -1148,7 +1148,7 @@ tag_article_image => تصویر نوشته
 tag_author => نویسنده
 tag_body => بدنه
 tag_body_excerpt => منتخب بدنه
-tag_breadcrumb => 
+tag_breadcrumb =>
 tag_category => رده
 tag_category1 => رده ۱
 tag_category2 => رده ۲
@@ -1188,13 +1188,13 @@ tag_file_download_modified => زمان تغییر در فایل
 tag_file_download_name => نام فایل
 tag_file_download_size => حجم فایل
 tag_home => خانه
-tag_if_category => 
-tag_if_section => 
+tag_if_category =>
+tag_if_section =>
 tag_image => تصویر
-tag_inline_ => 
+tag_inline_ =>
 tag_lang => زبان
 tag_link => لینک
-tag_linkdesctitle => 
+tag_linkdesctitle =>
 tag_linklist => لیست لینک‌ها
 tag_link_category => رده لینک
 tag_link_date => تاریخ لینک
@@ -1216,7 +1216,7 @@ tag_page_title => عنوان صفحه
 tag_paging_link => لینک صفحه بعدی
 tag_password_protect => محافظت با گذرواژه
 tag_permlink => لینک دائم
-tag_popup => 
+tag_popup =>
 tag_posted => ارسال شده
 tag_prev_article => نوشته قبلی
 tag_prev_title => عنوان نوشته قبلی
@@ -1234,7 +1234,7 @@ tag_sitename => نام سایت
 tag_site_name => نام سایت
 tag_site_slogan => شعار سایت
 tag_title => عنوان
-tag__inline => 
+tag__inline =>
 textonly => فقط متن؟
 text_or_tag => * متن یا تگ در اینجا قرار گیرد *
 this_section => به بخش فعلی لینک شود؟
@@ -1242,7 +1242,7 @@ time_any => هر وقت
 time_format => رشته فرمت زمان
 time_future => آینده
 time_past => گذشته
-title_separator => 
+title_separator =>
 useful_tags => تگ‌های مفید
 use_thumbnail => استفاده از تصاویر کوچک؟
-wraptag => 
+wraptag =>
