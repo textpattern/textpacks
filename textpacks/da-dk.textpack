@@ -95,8 +95,11 @@ url_title => URL-specifik titel
 url_title_is_blank => URL-specifik titel var tom.
 url_title_is_multiple => Den samme URL-specifikke titel bliver brugt af {count} forskellige artikler.
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => Skriv
 #@category
 article_categories_deleted => Artikel kategorier slettet: <strong>{list}</strong>.

@@ -95,8 +95,11 @@ url_title => Títol només per URL
 url_title_is_blank => El camp url_title és buit
 url_title_is_multiple => (El mateix títol URL s'utilitza per {count} articles diferents)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => Escriu
 #@category
 article_categories_deleted => Categories d'article esborrades: {list}.

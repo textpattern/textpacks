@@ -95,8 +95,11 @@ url_title => عنوان مختص نشانی نوشته
 url_title_is_blank => فیلد عنوان مختص نشانی خالی گذاشته شد.
 url_title_is_multiple => یک نشانی مختص نوشته برای {count} نوشته دیگر نیز استفاده شده است.
 view_html => نمایش کدهای HTML
+view_html_short =>
 view_preview => پیش‌نمایش نوشته
+view_preview_short =>
 view_text => ویرایش محتوای نوشته
+view_text_short =>
 write => نوشتن
 #@category
 article_categories_deleted => این رده‌نوشته‌ها پاک شدند : <strong>{list}</strong>.

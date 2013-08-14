@@ -95,8 +95,11 @@ url_title => النص الخاص بعنوان الموقع
 url_title_is_blank => نص عنوان الموقع غير موجود
 url_title_is_multiple => نص عنوان الموقع موجود
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write =>
 #@category
 article_categories_deleted =>

@@ -95,8 +95,11 @@ url_title => Tiêu đề dạng URL
 url_title_is_blank => (tiêu đề dạng URL bị bỏ trống)
 url_title_is_multiple => (Tiêu đề dạng URL này đã bị sử dụng cho {count} bài viết khác nhau)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => Soạn thảo
 #@category
 article_categories_deleted => Đã xóa thể loại bài viết: <strong>{list}</strong>.

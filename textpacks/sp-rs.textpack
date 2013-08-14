@@ -95,8 +95,11 @@ url_title => Naslov samo za URL adresu
 url_title_is_blank => (Naslov samo za URL adresu je ostavljen prazan)
 url_title_is_multiple => (Isti Naslov samo za URL adresu je korišćen kod {count} drugih unosa)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => Napiši
 #@category
 article_categories_deleted => Kategorija unosa izbrisana: <strong>{list}</strong>.

@@ -95,8 +95,11 @@ url_title => URL-otsikko
 url_title_is_blank => (URL-otsikko oli jätetty tyhjäksi)
 url_title_is_multiple => (sama URL-otsikko on käytössä {count} artikkelissa)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => Kirjoita
 #@category
 article_categories_deleted => Poistetut artikkelikategoriat: <strong>{list}</strong>.

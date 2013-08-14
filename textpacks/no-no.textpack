@@ -95,8 +95,11 @@ url_title => Tittel brukt i URL
 url_title_is_blank => (URL-tittelen ble ikke skrevet inn)
 url_title_is_multiple => (Den samme URL-tittelen er brukt av {count} artikler)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => Skriv
 #@category
 article_categories_deleted => Kategorier som ble slettet: {list}

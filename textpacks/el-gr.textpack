@@ -95,8 +95,11 @@ url_title => τίτλος URL
 url_title_is_blank => (ο τίτλος URL αφέθηκε κενός)
 url_title_is_multiple => (ο ίδιος τίτλος URL χρησιμοποιείται από {count} διαφορετικά άρθρα)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => Συγγραφή
 #@category
 article_categories_deleted => Διαγραφείσες κατηγορίες άρθρων: <strong>{list}</strong>

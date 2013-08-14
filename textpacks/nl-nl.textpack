@@ -95,8 +95,11 @@ url_title => Eigen titel voor URL
 url_title_is_blank => (Er is geen URL-titel ingevuld)
 url_title_is_multiple => Deze URL-titel wordt gebruikt door {count} verschillende artikelen.
 view_html => HTML-opmaak bekijken
+view_html_short =>
 view_preview => Voorbeeld bekijken
+view_preview_short =>
 view_text => Artikeltekst bewerken
+view_text_short =>
 write => schrijven
 #@category
 article_categories_deleted => Artikel categorieën: <strong>{list}</strong> verwijderd

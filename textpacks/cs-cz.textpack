@@ -95,8 +95,11 @@ url_title => Název do odkazů
 url_title_is_blank => Chybí název do odkazů
 url_title_is_multiple => Takový název do odkazů již existuje
 view_html => Zdroj HTML
+view_html_short =>
 view_preview => Náhled článku
+view_preview_short =>
 view_text => Úprava textu
+view_text_short =>
 write => Psaní
 #@category
 article_categories_deleted => Odstraněny kategorie: <strong>{list}</strong>.

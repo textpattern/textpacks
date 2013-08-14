@@ -95,8 +95,11 @@ url_title => Заголовок для URL
 url_title_is_blank => Заголовок для URL був залишений незаповненим
 url_title_is_multiple => Однаковий заголовок для URL використовується в {count} різних Статтях
 view_html => Перегляд HTML розмітки
+view_html_short =>
 view_preview => Попередній перегляд статті
+view_preview_short =>
 view_text => Редагувати текст статті
+view_text_short =>
 write => Написати
 #@category
 article_categories_deleted => Видалено категорії статей: <strong>{list}</strong>.

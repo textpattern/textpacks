@@ -95,8 +95,11 @@ url_title => ชื่อใน URL
 url_title_is_blank => (ไม่ได้ตั้งชื่อใน URL)
 url_title_is_multiple => (ชื่อใน URL ซ้ำกับชื่อของ {count} บทความ)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => เขียน
 #@category
 article_categories_deleted => หมวดหมู่บทความที่ถูกลบทิ้ง: <strong>{list}</strong>

@@ -95,8 +95,11 @@ url_title => Заглавие състоящо се само от URL
 url_title_is_blank => (URL-only името не е попълнено)
 url_title_is_multiple => (URL името се използва от {count} различни статии)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => Пиши
 #@category
 article_categories_deleted => Изтрити категории статии: <strong>{list}</strong>.

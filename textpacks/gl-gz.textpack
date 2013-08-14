@@ -95,8 +95,11 @@ url_title => Título da URL
 url_title_is_blank => O campo url_title está baleiro
 url_title_is_multiple => O campo url_title contén máis dun valor
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write =>
 #@category
 article_categories_deleted =>

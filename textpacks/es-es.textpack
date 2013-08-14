@@ -95,8 +95,11 @@ url_title => Título URL
 url_title_is_blank => El campo Título URL está vacío
 url_title_is_multiple => El mismo campo Título URL es usado por {count} artículos diferentes.
 view_html => Ver marcado HTML
+view_html_short =>
 view_preview => Previsualizar el artículo
+view_preview_short =>
 view_text => Editar el texto del artículo
+view_text_short =>
 write => Escribir
 #@category
 article_categories_deleted => Categorías de artículo borradas: <strong>{list}</strong>.

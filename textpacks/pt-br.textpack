@@ -95,8 +95,11 @@ url_title => Texto da URL
 url_title_is_blank => (O texto da URL foi deixado em branco)
 url_title_is_multiple => (O mesmo texto da URL foi usado por {count} artigos diferentes)
 view_html => Visualizar marcações HTML
+view_html_short =>
 view_preview => Visualizar artigo
+view_preview_short =>
 view_text => Editar texto do artigo
+view_text_short =>
 write => escrever
 #@category
 article_categories_deleted => Categorias do artigo excluídas: <strong>{list}</strong>.

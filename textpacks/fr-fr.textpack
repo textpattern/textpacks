@@ -95,8 +95,11 @@ url_title => Texte de l’URL
 url_title_is_blank => Le texte de l’URL est vide.
 url_title_is_multiple => Le texte de l’URL est déjà utilisé par {count} articles différents.
 view_html => Vue HTML
+view_html_short =>
 view_preview => Aperçu
+view_preview_short =>
 view_text => Mode saisie
+view_text_short =>
 write => Rédiger
 #@category
 article_categories_deleted => Catégories d’articles supprimées : <strong>{list}</strong>.

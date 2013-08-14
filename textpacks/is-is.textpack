@@ -95,8 +95,11 @@ url_title => Slóðar titill
 url_title_is_blank => (Slóðar titill var skilinn eftir auður)
 url_title_is_multiple => (Sami slóðar titill er notaður af {count} mismunandi greinum)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write =>
 #@category
 article_categories_deleted =>

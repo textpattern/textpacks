@@ -95,8 +95,11 @@ url_title => Text odkazu
 url_title_is_blank => (URL titulok je prázdny. Pri "URL-only" musí byť vyplnený.)
 url_title_is_multiple => (Rovnaký titulok je použitý v rôznych článkoch (počet: {count}))
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => Napísať
 #@category
 article_categories_deleted =>

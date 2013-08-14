@@ -95,8 +95,11 @@ url_title => URL virsraksts
 url_title_is_blank => (URL virsraksts ir atstāts tukšs)
 url_title_is_multiple => (Identisks URL virsraksts ir izmantots {count} citos ierakstos)
 view_html => Apskatīt HTML atzīmes
+view_html_short =>
 view_preview => Apskatīt rakstu
+view_preview_short =>
 view_text => Labot raksta tekstu
+view_text_short =>
 write => Rakstīt
 #@category
 article_categories_deleted => Ierakstu kategorijas dzēstas: <strong>{list}</strong>.

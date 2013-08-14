@@ -95,8 +95,11 @@ url_title => URL-‏انوکھا‏ عنوان
 url_title_is_blank => URL-انوکھا عنوان خانہ خالی تھا
 url_title_is_multiple => یکسن URL-انوکھا عنوان {count} اور مضامین سے استمعال کیا جا رہا ہے
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => لکھیں
 #@category
 article_categories_deleted => مضمون زمرہ حذف کیا : <strong>{list}</strong>

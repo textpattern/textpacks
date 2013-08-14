@@ -95,8 +95,11 @@ url_title => 網址名稱
 url_title_is_blank => (網址名稱為空)
 url_title_is_multiple => ({count} 篇不同的文章已使用相同的網址名稱)
 view_html =>
+view_html_short =>
 view_preview =>
+view_preview_short =>
 view_text =>
+view_text_short =>
 write => 發表
 #@category
 article_categories_deleted => 已刪除文章分類: <strong>{list}</strong>.

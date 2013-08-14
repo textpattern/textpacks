@@ -95,8 +95,11 @@ url_title => Rubrik i URLar
 url_title_is_blank => (Fältet Rubrik i URLar lämnades tomt)
 url_title_is_multiple => (Samma URL-rubrik används av {count} andra artiklar)
 view_html => Visa HTML-kod
+view_html_short =>
 view_preview => Förhandsvisa artikel
+view_preview_short =>
 view_text => Redigera artikeltext
+view_text_short =>
 write => Skriv
 #@category
 article_categories_deleted => Dessa artikelkategorier raderades: <strong>{list}</strong>.

@@ -95,8 +95,11 @@ url_title => Titolo dell'URL
 url_title_is_blank => Il titolo dell'URL è vuoto
 url_title_is_multiple => Il titolo dell'URL scelto è già usato da {count} altri articoli.
 view_html => Visualizza codice HTML
+view_html_short =>
 view_preview => Anteprima articolo
+view_preview_short =>
 view_text => Modifica testo articolo
+view_text_short =>
 write => Scrivi
 #@category
 article_categories_deleted => Categorie articoli eliminate: <strong>{list}</strong>.

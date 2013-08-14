@@ -95,8 +95,11 @@ url_title => URL pavadinimas
 url_title_is_blank => URL pavadinimas yra tuščias.
 url_title_is_multiple => Tas pats URL pavadinimas yra naudojamas {count} skirtinguose straipsniuose.
 view_html => Rodyti HTML kodą
+view_html_short =>
 view_preview => Straispnio peržiūra
+view_preview_short =>
 view_text => Redaguoti straipsnio tekstą
+view_text_short =>
 write => Rašyti
 #@category
 article_categories_deleted => Straipsnių kategorijos pašalintos: <strong>{list}</strong>.
