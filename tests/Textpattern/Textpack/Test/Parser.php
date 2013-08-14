@@ -121,7 +121,7 @@ class Parser
 			// Translation.
 			if (preg_match('/^(\w+)\s*=>\s*(.+)$/', $line, $m))
 			{
-				if (!empty($m[1]) && !empty($m[2]))
+				if (!empty($m[1]))
 				{
                     $out[] = array(
 						'name'    => $m[1],
