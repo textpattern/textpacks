@@ -580,7 +580,7 @@ plugin_prefs => Opzioni
 plugin_saved => Plug-in <strong>{name}</strong> aggiornato.
 plugin_updated => Plug-in <strong>{name}</strong> aggiornato.
 previewing_plugin => Anteprima plug-in:
-verify_plugin => Verifica plug-inactive_language =&gt; Lingua attualmente in uso
+verify_plugin => Verifica plug-inactive_language → Lingua attualmente in uso
 #@prefs
 active_language => Lingue attivate
 admin_side_plugins => Consenti plug-in per la parte di amministrazione?
