@@ -18,7 +18,7 @@ h3. Creating new translation
 
 When creating entirely new translations, always use the @en-gb.textpack@ as your template and reference point - this file is always up to date.
 
-h3. Creating an empty template
+h3. Creating new empty template
 
 Start by creating a new empty Textpack file:
 
@@ -28,7 +28,7 @@ Then run the Textpack sync tool:
 
 bc. $ ./textpack
 
-This will populate your empty @xx-xx.textpack@ file with an empty Textpack template with all the strings and no of the translations.
+This will populate your empty @xx-xx.textpack@ file with an empty Textpack template.
 
 h3. Testing
 
