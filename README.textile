@@ -2,7 +2,23 @@ h1. Textpattern CMS language files
 
 This repository contains Textpacks for "Textpattern CMS":http://textpattern.com. Textpacks are the translation file format Textpattern uses.
 
-h2. Testing
+h2. Contributing
+
+To make corrections to existing translations or to add new ones, "fork the repository":https://help.github.com/articles/fork-a-repo, and once you are done, send in "a pull request":https://help.github.com/articles/using-pull-requests. To boost workflow the repository contains a synchronization scripts and automated tests.
+
+h3. Adding and removing strings
+
+Adding and removing strings happens through the main translation file, @en-gb.textpack@. Open up the file, and add or remove strings as needed. Remember to place new strings where they belong. Once you're done, run the sync tool:
+
+bc. $ ./textpack
+
+The Textpack tool will sync your alterations to all other Textpack files. It creates new empty strings and removes anything that is no longer present in the root translation.
+
+h3. Creating new translation
+
+When creating entirely new translations, use the @en-gb.textpack@ as your template.
+
+h3. Testing
 
 The project uses "PHPunit":http://phpunit.de for running its unit tests. Before running the tests, make sure you've installed dev-requirements using "Composer":http://getcomposer.org:
 
