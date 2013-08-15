@@ -368,7 +368,7 @@ textpattern_update_available => Nieuwe textpattern versie {version} <a href="htt
 tmp_plugin_paths_match => Het pad naar de tijdelijke bestanden map en de map voor de plugin cache mogen <strong>niet</strong> identiek zijn.
 txp_path => Pad naar textpattern
 txp_version => Textpattern versie
-warn_register_globals_or_update => De PHP versie die je gebruikt kan een veiligheids risico veroorzaken. Zet register_globals uit of gebruik een nieuwere versie van PHP.
+warn_register_globals_or_update => De PHP versie die je gebruikt kan een veiligheids risico veroorzaken. Zet <code>register_globals</code> uit of gebruik een nieuwere versie van PHP.
 web_domain => Site URL
 #@discuss
 article_deleted => Artikel verwijderd!
@@ -676,7 +676,7 @@ no_popup => huidig window
 override_emailcharset => ISO-8859-1 gebruiken voor e-mail? (standaard is utf-8)?
 page_mode => Paginamodus
 path_from_root => Submap (indien van toepassing)
-path_to_site_missing => $path_to_site is niet goed aangegeven (vernieuw index.php)
+path_to_site_missing => <code>$path_to_site</code> is niet goed aangegeven (vernieuw index.php)
 permalink_title_format => Permalink titel-zoals-dit (standaard is TitelZoalsDit)
 permlink_mode => Permanente link modus
 ping_textpattern_com => Ping textpattern.com?
@@ -986,7 +986,7 @@ config_php_does_not_match_input => De inhoud van <code>config.php</code> komt ni
 config_php_not_found => Het configuratiebestand kon niet worden gevonden op de verwachte lokatie <strong>{file}</strong>. Controleer nogmaals of het bestaat.
 core_theme => Basisvormgeving: {theme}
 create_config => Maak een bestand aan met de naam <code>config.php</code> in de <code>/textpattern/</code> map en kopieer het volgende in het bestand:
-creating_config => Het config.php bestand wordt aangemaakt
+creating_config => Het <code>config.php</code> bestand wordt aangemaakt
 creating_db_tables => De database tabellen worden aangemaakt
 db_cant_connect => Er kan geen database verbinding worden gemaakt.
 db_connected => Database verbinding gelukt
