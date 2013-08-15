@@ -599,7 +599,7 @@ auto_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> سیٹنگ خو
 category_subcategory => /category/subcategory
 check_for_txp_updates => تجدید ورژن کی جانچ کریں
 clean => /clean/
-comments_are_ol => کیا تبصرے عدد وار فہرست <ol> میں پیش کیا جاۓ ؟
+comments_are_ol => کیا تبصرے عدد وار فہرست &lt;ol&gt; میں پیش کیا جاۓ ؟
 comments_auto_append => کیا تبصرے کو خود کار طور پر مضامین کے ساتھ جوڑے ؟
 comments_dateformat => تاریخ تبصرہ کی وضع
 comments_default_invite => تبصرہ کرنے کی ‏طمع

@@ -884,7 +884,7 @@ popup => popup
 post => Publiceren
 posted => Publicatiedatum
 posted_by => Gepubliceerd door
-press_preview_then_submit => Hieronder zie je een voorbeeld van je reactie. Vergeet niet naar beneden te scrollen en op de <strong><a href=#txpCommentSubmit" title="naar de verzendknop">verzenden</a></strong> knop te klikken
+press_preview_then_submit => Hieronder zie je een voorbeeld van je reactie. Vergeet niet naar beneden te scrollen en op de <strong><a href="#txpCommentSubmit" title="naar de verzendknop">verzenden</a></strong> knop te klikken
 prev => ← vorige
 preview => Voorbeeld
 publish => Publiceren
