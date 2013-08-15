@@ -54,20 +54,15 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         $this->assertEmpty($duplicate, 'duplicate strings: '.implode(', ', $duplicate));
     }
 
-    public function testUTF8Encoding()
-    {
-        foreach (self::$translations as $file)
-        {
-            $this->assertTrue(mb_check_encoding(file_get_contents($file->getPathname()), 'UTF-8'), $file->getBasename());
-        }
-    }
-
-    public function testTrailingWhitespace()
+    public function testShallowLooks()
     {
         foreach (self::$translations as $file)
         {
             $contents = file_get_contents($file->getPathname());
-            $this->assertTrue(trim($contents) === $contents, $file->getBasename());
+
+            $this->assertTrue(trim($contents) === $contents, $file->getBasename().' has trailing whitespace');
+            $this->assertTrue(mb_check_encoding($contents, 'UTF-8'), $file->getBasename().' is not UTF8');
+            $this->assertTrue(strpos($contents, "\r") === false, $file->getBasename().' does not use single LF');
         }
     }
 
