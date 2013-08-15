@@ -102,7 +102,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         }
     }
 
-    public function testStringOrder()
+    public function testStrings()
     {
         foreach (self::$translations as $file)
         {
@@ -117,6 +117,15 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                     self::$defaultTextpack[$key]['owner'] === $data['owner'],
                     'Index '.$key.' in '.$file->getBasename().' does not match en-gb: '.$data['name'].' vs. '.self::$defaultTextpack[$key]['name']
                 );
+
+                if ($data['name'] === 'lang_dir')
+                {
+                    $this->assertTrue($data['data'] === 'ltr' || $data['data'] === 'rtl', 'lang_dir in '.$file->getBasename());
+                }
+                else if ($data['name'] === 'lang_code')
+                {
+                    $this->assertEquals($file->getBasename('.textpack'), $data['data'], 'lang_code in '.$file->getBasename());
+                }
             }
         }
     }
