@@ -29,6 +29,25 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         $this->assertGreaterThan(1, count($this->defaultTextpack));
     }
 
+    public function testDuplicates()
+    {
+        $duplicate = $used = array();
+
+        foreach ($this->defaultTextpack as $data)
+        {
+            if (in_array($data['name'], $used))
+            {
+                $duplicate[] = $used;
+            }
+            else
+            {
+                $used[] = $data['name'];
+            }
+        }
+
+        $this->assertEmpty($duplicate, 'duplicate strings: '.implode(', ', $duplicate));
+    }
+
     public function testUTF8Encoding()
     {
         foreach ($this->translations as $file)
