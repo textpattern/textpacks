@@ -997,7 +997,7 @@ email_required => Inserisci un indirizzo e-mail valido.
 errors_during_install => Si sono verificati {num} errori durante l'installazione. Per assistenza puoi chiedere aiuto nel <a href="http://forum.textpattern.com/" rel="external">Textpattern CMS Support Forum</a>..
 get_started => Vai!
 go_to_login => Accedi ora
-installation_postamble => Per sicurezza, devi ora eliminare la cartella <code>setup</code> dal tuo sito Textpattern. Controlla di tanto in tanto il pannello Amministrazione → Diagnostica  per annunci sugli aggiornamenti o suggerimenti di risoluzione dei problemi.
+installation_postamble => Per sicurezza, devi ora eliminare la cartella <code>setup</code> dal tuo sito Textpattern. Controlla di tanto in tanto il pannello Amministrazione → Diagnostica per annunci sugli aggiornamenti o suggerimenti di risoluzione dei problemi.
 mysql_database => Database MySQL
 mysql_login => Login MySQL
 mysql_password => Password MySQL

@@ -11,7 +11,7 @@ author_already_exists =>
 author_deleted => مصنف <strong>{name}</strong> کو حذف کیا گیا =>
 author_updated => مصنف <strong>{name}</strong> کا تازہ کاری کیا گ =>
 a_message_will_be_sent_with_login => لاگان معلومات ای میل بذریعہ بھیجے جائنگے
-a_new_password_will_be_mailed => ایک نیا  ‏پاس ورڈ‏ ای مل بذریعہ بھیجا جایگا
+a_new_password_will_be_mailed => ایک نیا ‏پاس ورڈ‏ ای مل بذریعہ بھیجا جایگا
 cannot_assign_assets_to_deletee =>
 changeprivilege => استہقاق تبدیل کریں
 change_email_address => آپ کا ای میل کا پتا تبدیل کریں
@@ -31,16 +31,16 @@ mail_it => ای میل بذریعہ بھیجیں
 managing_editor => تدوین کار
 must_reassign_assets => بارہ کرم، صارف کے اشیا کو دوبارہ تفویض کریں
 new_email => نیا ای میل
-new_password => نیا  ‏پاس ورڈ‏
+new_password => نیا ‏پاس ورڈ‏
 password_changed => ‏پاس ورڈ‏ تبدیل کیا
 password_changed_mailed => ‏پاس ورڈ‏ تبدیل کیا گیا اور ای میل بذریعہ {email} کو بھیجا گیا
 password_forgotten => کیا آپ اپنا ‏پاس ورڈ‏ بھول گئے ؟
-password_required => بارہ کرم، ایک نیا  ‏پاس ورڈ‏ داخل کریں
+password_required => بارہ کرم، ایک نیا ‏پاس ورڈ‏ داخل کریں
 password_reset => ‏پاس ورڈ‏ پھر سیٹ کریں
 password_reset_button => ‏پاس ورڈ پھر سیٹ کریں
 password_reset_confirmation => کسی نے (شاید آپ نے) اپنے پاس ورڈ پھر سیٹ کروانے کی درخواست کی. بارہ مہربانی، نیچے ربط پر کلک کریں اور اس درخواست کی آپ تصدیق کریں
 password_reset_confirmation_request => بارہ مہربانی، آپ کے پاس ورڈ پھر سیٹ کروانے کی درخواست کو تصدیق کریں
-password_reset_confirmation_request_sent => آپ کو ایک تصدیق کردہ ای میل بھیجا گیا، بارہ مہربانی اس ای میل در ہدایتوں  کو اپنائیں،
+password_reset_confirmation_request_sent => آپ کو ایک تصدیق کردہ ای میل بھیجا گیا، بارہ مہربانی اس ای میل در ہدایتوں کو اپنائیں،
 password_sent_to => پاس ورڈ یہاں بھیجا گیا
 privileges => استہقاق
 privs_none =>
@@ -81,7 +81,7 @@ article_save_failed =>
 article_second => سیکنڈ
 article_year => سال
 comment_settings =>
-concurrent_edit_by => مضمون محفوظ نہیں کیا، {author} مضمون کو ترمیم کر رہے تھے جب آپ بھی اس پر تدوین کر رہے تھے، اگر آپ  ‏بلاشبہ‏ ہے تو اور ایک بار 'محفوظ کریں
+concurrent_edit_by => مضمون محفوظ نہیں کیا، {author} مضمون کو ترمیم کر رہے تھے جب آپ بھی اس پر تدوین کر رہے تھے، اگر آپ ‏بلاشبہ‏ ہے تو اور ایک بار 'محفوظ کریں
 date_settings =>
 excerpt_markup => اختصار وضع
 expires => خاتمہ مدت
@@ -323,7 +323,7 @@ apache_modules => Apache ماڈیول
 apache_version => Apache ورژن
 cleanurl_only_apache => صفاکار URLs کو صرف Apache معاونت کرتا ہے، اپنے تقدیر سے استمعال کریں
 clean_url_data_failed =>
-clean_url_test_failed => سافکار URL کے جانچ کرنے میں  میں ناکامی
+clean_url_test_failed => سافکار URL کے جانچ کرنے میں میں ناکامی
 detail => تفصیل
 dev_version_live => آپ اس نشریہ سرور پر تکمیل کردہ فائل استمعال کر رہے ہیں
 diagnostic_info => فن تشخیص معلومات
@@ -362,7 +362,7 @@ server => سرور
 server_time => سرور کا مقامی وقت
 site_trailing_slash => سائٹ کے URL میں پشت بندی سلیش '/' ہے
 site_url_mismatch => سائٹ کے URL کی اختیارات شاید غیر صحیح ہے
-some_php_functions_disabled => مندرجہ ذیل PHP functions (جو شاید Textpattern کا چلت کریں میں اہم ہونگے) اس سرور پر نا اہل  ہے
+some_php_functions_disabled => مندرجہ ذیل PHP functions (جو شاید Textpattern کا چلت کریں میں اہم ہونگے) اس سرور پر نا اہل ہے
 still_exists => اب بھی موجود ہے
 textpattern_update_available =>
 tmp_plugin_paths_match => عارضی پوشہ کی راہ اور پلگ ان کے پوشہ کی راہ مشابہ <strong>نہیں</strong> ہونا چاہئے
@@ -417,7 +417,7 @@ file_category => زمرہ
 file_deleted => فائل <strong>{name}</strong> کو حذف کیا
 file_delete_failed => فائل کو حذف کرنے میں ناکام
 file_dir_not_writeable => تنبیہ: یہ پوشا قابل تحریر نہیں <br />{filedir}
-file_download_count => ڈاؤن لوڈ  ‏گنتی
+file_download_count => ڈاؤن لوڈ ‏گنتی
 file_name => نام
 file_not_found => فائل(یں) ملا نہیں
 file_not_updated => فائل <strong>{name}</strong> کو تازہ کرنے میں ناکام
@@ -574,7 +574,7 @@ plugin_compression_unsupported => Plugin decompression is not supported by your 
 plugin_deleted => پلگ ان <strong>{name}</strong> حذف کیا
 plugin_help => پلگ ان مدد
 plugin_installed => پلگ ان <strong>{name}</strong> نصب کیا
-plugin_install_failed => پلگ ان  <strong>{name}</strong> نصب <em>نہیں ہوا</em>!
+plugin_install_failed => پلگ ان <strong>{name}</strong> نصب <em>نہیں ہوا</em>!
 plugin_modified => ترمیم کیا ؟
 plugin_prefs => اختیارات
 plugin_saved => پلگ ان <strong>{name}</strong> محفوظ کیا
@@ -634,7 +634,7 @@ doctype =>
 dutch => Nederlands
 edit_preferences => ترجیحات
 edit_raw_css_by_default => کیا سٹائل تبدیل کرنے کے لیے ہمیشہ خام CSS تدوین کریں ؟
-enable_xmlrpc_server => کیا  XML-RPC server کا استمعال کریں ؟
+enable_xmlrpc_server => کیا XML-RPC server کا استمعال کریں ؟
 english_gb => English (GB)
 english_us => English (US)
 experts_only => صرف ماہر صارف
@@ -653,7 +653,7 @@ id_title => /id/title
 img_dir => تصاویر کا پوشہ
 include_email_atom => کیا آٹوم فیڈ میں مصنف کا ای میل پتہ شامل کریں ؟
 install_from_textpack =>
-install_langfile => نئے زبان آپ {url} سے ڈاونلوڈ کر سکتے ہیں ور پھر  /textpattern/lang/ پوشہ میں دستیاب کریں
+install_langfile => نئے زبان آپ {url} سے ڈاونلوڈ کر سکتے ہیں ور پھر /textpattern/lang/ پوشہ میں دستیاب کریں
 install_language => زبان تنصیب کریں
 install_textpack => Install textpack
 is_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> اہل بنا ہے ؟
@@ -673,7 +673,7 @@ never_display_email => کیا تبصرہ نگار کا‏ ای میل پتہ پ�
 new_textpattern_version_available => There is a completely new Textpattern version available. Do you want to try it?
 norwegian => Norsk
 no_popup => فعال دریچہ میں
-override_emailcharset => کیا مرسلہ ای میل میں ISO-8859-1 ضابطہ بندی استمعال کریں ؟ (خودکار طور پر  UTF-8 استمعال کیا جاۓ گا)
+override_emailcharset => کیا مرسلہ ای میل میں ISO-8859-1 ضابطہ بندی استمعال کریں ؟ (خودکار طور پر UTF-8 استمعال کیا جاۓ گا)
 page_mode => صفہ کا موڈ
 path_from_root => Sub-directory (if any)
 path_to_site_missing => $path_to_site is not set (update index.php)
@@ -710,7 +710,7 @@ smtp_from => SMTP بزریے ای میل بھیجنے کے لیے مرسل کا 
 spam_blacklists => بیکار تبصرے (spam) کے فہرست (comma-separated)
 spanish => Español
 swedish => Svenska
-syndicate_body_or_excerpt => کیا  <strong>صرف</strong> اختصار سندیکت کریں ؟
+syndicate_body_or_excerpt => کیا <strong>صرف</strong> اختصار سندیکت کریں ؟
 tagalog => Tagalog
 tempdir => عارضی پوشہ کی راہ
 textile_links => Textile link descriptions by default?
@@ -774,7 +774,7 @@ comment_name => نام
 comment_name_required => بارہ مہربانی ، آپ کا نام داخل کریں
 comment_posted => آپ کا تبصرہ عنایات کرنے پر آپ کا بہت شکریہ
 comment_received => [{site}] موصولہ تبصرہ: {title}
-comment_recorded => آپ کا مضمون  "{title}" پر ایک تبصرہ شامل کیا گیا
+comment_recorded => آپ کا مضمون "{title}" پر ایک تبصرہ شامل کیا گیا
 comment_required => بارہ مہربانی، تبصرہ تو لکھے
 comment_web => ویب سائٹ
 contact => رابطہ
@@ -944,7 +944,7 @@ weeks => ہفتے
 while_parsing_page_form =>
 yes => ہاں
 your_branch_is_updated => اس شاخ میں آپ کا Textpattern ورژن سب سے جدید ہے
-your_ip_is_blacklisted_by => تمہارا  IPپتہ اس ‏'Blacklist' میں شامل ہے
+your_ip_is_blacklisted_by => تمہارا IPپتہ اس ‏'Blacklist' میں شامل ہے
 you_have_been_banned => تبصرہ کرنے سے تم پر بندش لگائی گئی
 yyyy-mm => yyyy-mm
 #@section
@@ -1011,7 +1011,7 @@ pass_required =>
 please_enter_url => بارہ کرم آپ کی سائٹ کا ویب پہنچنا پتہ داخل کریں
 please_go_back =>
 populate_db =>
-prefix_bad_characters => میں کئی حروف ہیں جس کی اجازت نہیں {dbprefix} جدول سابقہ <br /> کے ساتھ مشابہ ہونا چاہئے <b>a-zA-Z_</b> کے ساتھ مشابہ ہونا چاہئے اور بقیہ حروف کسی بھی <strong>a-zA
+prefix_bad_characters => میں کئی حروف ہیں جس کی اجازت نہیں {dbprefix} جدول سابقہ <br /> کے ساتھ مشابہ ہونا چاہئے <strong>a-zA-Z_</strong> کے ساتھ مشابہ ہونا چاہئے اور بقیہ حروف کسی بھی <strong>a-zA
 prefix_warning => (نصب کرنا چاہتے ہے Textpattern تب استمعال کریں جب ایک ہی ڈیٹابیس میں ایک سے زیادہ <strong>صرف</strong>)
 progress_steps =>
 setup_comment_invite => تبصرہ
