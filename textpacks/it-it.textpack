@@ -6,7 +6,7 @@ lang_dir => ltr
 #@admin
 add_new_author => Aggiungi un nuovo autore
 and_mailed_to => e invia una e-mail a
-assign_assets_to => Assegna i contenuti dell'utente a:
+assign_assets_to => Assegna i contenuti dell’utente a:
 author_already_exists => Autore <strong>{name}</strong> già esistente.
 author_deleted => Autore <strong>{name}</strong> eliminato.
 author_updated => Autore <strong>{name}</strong> aggiornato.
@@ -18,7 +18,7 @@ change_email_address => Modifica il tuo indirizzo email
 change_password => Cambia password
 copy_editor => Redattore
 could_not_mail => Impossibile spedire e-mail
-could_not_update_author => Impossibile aggiornare l'autore
+could_not_update_author => Impossibile aggiornare l’autore
 designer => Designer
 edit_author => Modifica autore
 email_changed => Indirizzo e-mail modificato in {email}
