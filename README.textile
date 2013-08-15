@@ -4,11 +4,11 @@ This repository contains Textpacks for "Textpattern CMS":http://textpattern.com.
 
 h2. Contributing
 
-To make corrections to existing translations or to add new ones, "fork the repository":https://help.github.com/articles/fork-a-repo, and once you are done, send in "a pull request":https://help.github.com/articles/using-pull-requests. To boost workflow the repository contains a synchronization scripts and automated tests.
+To make corrections to existing translations, or to add new ones, "fork the repository":https://help.github.com/articles/fork-a-repo. Once you are done, send in "a pull request":https://help.github.com/articles/using-pull-requests. To boost workflow the repository contains synchronisation scripts and automated tests.
 
 h3. Adding and removing strings
 
-Adding and removing strings happens through the main translation file, @en-gb.textpack@. Open up the file, and add or remove strings as needed. Remember to place new strings where they belong. Once you're done, run the sync tool:
+Adding and removing strings happens through the main translation file, @en-gb.textpack@. Open up the file and add or remove strings as needed (remember to place new strings where they belong). Once you are done, run the sync tool:
 
 bc. $ ./textpack
 
@@ -16,7 +16,7 @@ The Textpack tool will sync your alterations to all other Textpack files. It cre
 
 h3. Creating new translation
 
-When creating entirely new translations, always use the @en-gb.textpack@ as your template and reference point. Its the file that is always up to date. Start by creating a new empty Textpack file:
+When creating entirely new translations, always use the @en-gb.textpack@ as your template and reference point - this file is always up to date. Start by creating a new empty Textpack file:
 
 bc. $ touch textpacks/xx-xx.textpack
 
@@ -24,15 +24,15 @@ Then open up @en-gb.textpack@ and add your language's code and name pair to it.
 
 bc. xx-xx => Localized language name
 
-After done, sync the language name to other translations:
+After that is done, sync the language name to other translations:
 
 bc. $ ./textpack
 
-This will also populate your @xx-xx.textpack@ file with empty textpack template.
+This will also populate your @xx-xx.textpack@ file with an empty Textpack template.
 
 h3. Testing
 
-The project uses "PHPunit":http://phpunit.de for running its unit tests. Before running the tests, make sure you've installed dev-requirements using "Composer":http://getcomposer.org:
+The project uses "PHPunit":http://phpunit.de for running its unit tests. Before running the tests, make sure you have installed dev-requirements using "Composer":http://getcomposer.org:
 
 bc. $ composer install --dev
 
