@@ -1057,7 +1057,7 @@ file_download_tags => Μεταφορτώσεις αρχείων
 flavor => Μορφή ανταλλαγής περιεχομένου
 flavour => Γεύση
 format =>
-gmt => Εμφάνηση σύμφωνα με μορφή εμφ. χρόνου GMT ?
+gmt => Εμφάνηση σύμφωνα με μορφή εμφ. χρόνου <abbr title="Greenwich Mean Time">GMT</abbr> ?
 has_excerpt => Έχει απόσπασμα
 hilight => Τονισμός ετικέτας
 hilight_limit => Πόσα αντικείμενα vα τονίζονται ?

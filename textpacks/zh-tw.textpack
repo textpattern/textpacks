@@ -1057,7 +1057,7 @@ file_download_tags => 檔案下載
 flavor => Feed 類型
 flavour => Flavour
 format => 格式
-gmt => 使用 GMT 時間？
+gmt => 使用 <abbr title="Greenwich Mean Time">GMT</abbr> 時間？
 has_excerpt => 顯示摘要
 hilight => 強調顯示
 hilight_limit => 強調顯示個數

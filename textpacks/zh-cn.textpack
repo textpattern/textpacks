@@ -1057,7 +1057,7 @@ file_download_tags => 文件下载
 flavor => 聚合格式
 flavour => 聚合格式
 format => 格式
-gmt => 根据 GMT 时间格式？
+gmt => 根据 <abbr title="Greenwich Mean Time">GMT</abbr> 时间格式？
 has_excerpt => 有摘要
 hilight => 高亮标签
 hilight_limit => 高亮数目

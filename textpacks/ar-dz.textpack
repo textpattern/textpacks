@@ -646,7 +646,7 @@ finnish => Suomi
 french => Français
 from_file => تنزيل عن طريق ملف
 from_server => تنزيل عن طريق موزع
-gmtoffset => GMT توقيت
+gmtoffset => <abbr title="Greenwich Mean Time">GMT</abbr> توقيت
 ham =>
 hours_days_ago =>
 id_title => /id/title

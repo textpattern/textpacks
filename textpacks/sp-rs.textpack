@@ -1057,7 +1057,7 @@ file_download_tags => Download-i fajlova
 flavor => Sindikacija format
 flavour => Sindikacija format
 format => Format
-gmt => Izmeni po GMT vremenu?
+gmt => Izmeni po <abbr title="Greenwich Mean Time">GMT</abbr> vremenu?
 has_excerpt => Ima uvodnu reč
 hilight => Highlight tag
 hilight_limit => Highlight how many instances?

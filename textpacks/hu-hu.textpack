@@ -1057,7 +1057,7 @@ file_download_tags => Állomány letöltések
 flavor => Egyéniség
 flavour => Egyéniség
 format => Formátum
-gmt => A GMT-nek megfelelően formázza a dátumot?
+gmt => A <abbr title="Greenwich Mean Time">GMT</abbr>-nek megfelelően formázza a dátumot?
 has_excerpt => Van kivonat
 hilight => Kiemelés elem
 hilight_limit => Hány előfordulást emeljünk ki?

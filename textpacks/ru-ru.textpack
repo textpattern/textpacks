@@ -1057,7 +1057,7 @@ file_download_tags => Загрузка файлов
 flavor => Формат синдикации
 flavour => Формат потока
 format => Формат
-gmt => Форматировать по GMT?
+gmt => Форматировать по <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Имеет выдержку
 hilight => Тег выделения
 hilight_limit => Сколько вхождений подсвечивать?

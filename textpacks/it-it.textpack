@@ -1057,7 +1057,7 @@ file_download_tags => Download
 flavor => Tipo di condivisione del feed
 flavour => Tipo di condivisione del feed
 format => Formato
-gmt => Formato in base all'ora <abbr title="Greenwich Mean Time">GMT</a>?
+gmt => Formato in base all'ora <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Con sommario
 hilight => Evidenzia tag
 hilight_limit => Quante istanze evidenziare?

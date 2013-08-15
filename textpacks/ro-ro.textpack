@@ -1057,7 +1057,7 @@ file_download_tags => Descarcare fisiere
 flavor => Format-ul sindicatului
 flavour => Format-ul sindicatului
 format => Format
-gmt => Formateaza in functie de GMT?
+gmt => Formateaza in functie de <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Include rezumat
 hilight => Scoate in evidenta tag-ul
 hilight_limit => Cata instante vrei sa scoti in evidenta?

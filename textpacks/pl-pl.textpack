@@ -1057,7 +1057,7 @@ file_download_tags => Pobieranie plików
 flavor => Format kanałów XML
 flavour => Typ
 format => Format
-gmt => Format daty zgodny z GMT?
+gmt => Format daty zgodny z <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Ma zajawkę
 hilight => Podświetlać znaczniki
 hilight_limit => Highlight how many instances?

@@ -1057,7 +1057,7 @@ file_download_tags => Downloads
 flavor => Soort feed
 flavour => Soort
 format => Linktype
-gmt => Als GMT tijd weergeven?
+gmt => Als <abbr title="Greenwich Mean Time">GMT</abbr> tijd weergeven?
 has_excerpt => Heeft samenvatting
 hilight => Tag om resultaten met nadruk te tonen
 hilight_limit => Hoeveel resultaten benadrukken?

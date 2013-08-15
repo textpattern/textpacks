@@ -1057,7 +1057,7 @@ file_download_tags => Preuzimanje datoteka
 flavor => Format sindikacije (udruživanja)
 flavour => Format sindikacije (udruživanja)
 format => Format
-gmt => Formatirati spram GMT vremena?
+gmt => Formatirati spram <abbr title="Greenwich Mean Time">GMT</abbr> vremena?
 has_excerpt => Ima odsječak
 hilight => Naznači oznaku
 hilight_limit => Naznači koliko instanci?

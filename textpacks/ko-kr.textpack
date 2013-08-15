@@ -1057,7 +1057,7 @@ file_download_tags => 파일 내려받기
 flavor => 구독 형식
 flavour => 구독 형식
 format => 형식
-gmt => GMT 시간에 따른 형식
+gmt => <abbr title="Greenwich Mean Time">GMT</abbr> 시간에 따른 형식
 has_excerpt => 요약
 hilight => 하이라이트 태그
 hilight_limit => 몇개의 인스턴스를 하이라이트할지

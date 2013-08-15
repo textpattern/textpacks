@@ -1057,7 +1057,7 @@ file_download_tags => Soubory
 flavor => Typ
 flavour => Typ
 format => Formát
-gmt => Čas podle GMT
+gmt => Čas podle <abbr title="Greenwich Mean Time">GMT</abbr>
 has_excerpt => Musí mít anotaci
 hilight => Zvýraznit
 hilight_limit => Počet zvýraznězných prvků

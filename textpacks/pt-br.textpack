@@ -1057,7 +1057,7 @@ file_download_tags => Descarregar arquivos
 flavor => Tipo
 flavour => Tipo
 format => Formatar
-gmt => Formato de acordo com o horário GMT?
+gmt => Formato de acordo com o horário <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Contém resumo
 hilight => Destacar tag
 hilight_limit => Destacar quantos exemplos?

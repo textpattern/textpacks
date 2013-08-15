@@ -1057,7 +1057,7 @@ file_download_tags => Dateidownloads
 flavor => Newsfeed-Format
 flavour => Newsfeed-Format
 format => Format
-gmt => Als GMT formatieren?
+gmt => Als <abbr title="Greenwich Mean Time">GMT</abbr> formatieren?
 has_excerpt => Beinhaltet ein Exzerpt
 hilight => Tag hervorheben
 hilight_limit => Zeige die Anzahl der Ebenen

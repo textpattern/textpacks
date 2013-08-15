@@ -1057,7 +1057,7 @@ file_download_tags => Filnedladdningar
 flavor => Syndikerings-format
 flavour => Syndikerings-format
 format => Format
-gmt => Formattera enligt <abbr title="Greenwich Mean Time">GMT</a>-tid?
+gmt => Formattera enligt <abbr title="Greenwich Mean Time">GMT</abbr>-tid?
 has_excerpt => Har ingress
 hilight => Framhäv tagg
 hilight_limit => Framhäv hur många förekomster?

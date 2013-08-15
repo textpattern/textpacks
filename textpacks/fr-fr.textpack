@@ -646,7 +646,7 @@ finnish => Suomi
 french => Français
 from_file => Installation depuis un fichier
 from_server => Installation depuis un serveur
-gmtoffset => Fuseau horaire GMT
+gmtoffset => Fuseau horaire <abbr title="Greenwich Mean Time">GMT</abbr>
 ham => Non spam
 hours_days_ago => heures / jours auparavant
 id_title => /id/titre

@@ -1057,7 +1057,7 @@ file_download_tags => File Downloads
 flavor => Syndication format
 flavour => Syndication format
 format => Format
-gmt => Format according to GMT time?
+gmt => Format according to <abbr title="Greenwich Mean Time">GMT</abbr> time?
 has_excerpt => Has excerpt
 hilight => Highlight tag
 hilight_limit => Highlight how many instances?

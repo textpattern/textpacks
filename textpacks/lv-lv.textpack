@@ -1057,7 +1057,7 @@ file_download_tags => Failu lejuplāde
 flavor => Sindikācijas formāts
 flavour => Sindikācijas formāts
 format => Formāts
-gmt => Formatēt pēc GMT laika?
+gmt => Formatēt pēc <abbr title="Greenwich Mean Time">GMT</abbr> laika?
 has_excerpt => Satur ievadtekstu
 hilight => Iekrāsošanas iezīme
 hilight_limit => Iekrāsot cik instances?

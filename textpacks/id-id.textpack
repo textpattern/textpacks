@@ -1057,7 +1057,7 @@ file_download_tags => Download Berkas
 flavor => Format sindikasi
 flavour => Format sindikasi
 format => Format
-gmt => Format berdasarkan waktu GMT?
+gmt => Format berdasarkan waktu <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Punya kutipan
 hilight => Sorot tag
 hilight_limit => Sorot berapa banyak hal?

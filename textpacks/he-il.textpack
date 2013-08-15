@@ -1057,7 +1057,7 @@ file_download_tags => הורדות קבצים
 flavor => מבנה העדכון
 flavour => מבנה העדכון
 format => סגנן
-gmt => מבנה לפי זמן GMT?
+gmt => מבנה לפי זמן <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => בעל פתיח
 hilight => תג הארה
 hilight_limit => כמה מופעים להאיר

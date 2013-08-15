@@ -1057,7 +1057,7 @@ file_download_tags => ファイルダウンロード
 flavor => Syndication format
 flavour => Syndication format
 format => フォーマット
-gmt => GMT 時間に合わせたフォーマットにしますか？
+gmt => <abbr title="Greenwich Mean Time">GMT</abbr> 時間に合わせたフォーマットにしますか？
 has_excerpt => Has excerpt
 hilight => タグハイライト
 hilight_limit => いくつのインスタンスをハイライトしますか？

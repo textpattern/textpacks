@@ -1057,7 +1057,7 @@ file_download_tags => Tiedostonlataus
 flavor => Syötteen muoto
 flavour => Syötteen muoto
 format => Muoto
-gmt => Muotoile aika GMT:n mukaan?
+gmt => Muotoile aika <abbr title="Greenwich Mean Time">GMT</abbr>:n mukaan?
 has_excerpt => Johdanto löytyy
 hilight => Korostustagi
 hilight_limit => Kuinka monta korostetaan?

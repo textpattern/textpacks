@@ -1057,7 +1057,7 @@ file_download_tags => Descargas de archivos
 flavor => Formato de sindicación
 flavour => Formato de sindicación
 format => Formatear
-gmt => ¿Formatear según la hora GMT?
+gmt => ¿Formatear según la hora <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Contiene resumen
 hilight => Destacar etiqueta
 hilight_limit => ¿Cuántas instancias hay que destacar?
