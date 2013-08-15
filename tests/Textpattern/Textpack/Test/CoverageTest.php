@@ -72,7 +72,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
 
             foreach ($strings as $data)
             {
-                $this->assertTrue(in_array($data['name'], $this->knownStrings, true), 'translation '.$data['name'].' in '.$file->getBasename().' is not in en-gb');
+                $this->assertArrayHasKey($data['name'], $this->knownStrings, 'string '.$data['name'].' in '.$file->getBasename().' is not in en-gb');
             }
         }
     }
