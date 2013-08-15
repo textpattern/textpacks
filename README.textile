@@ -16,19 +16,19 @@ The Textpack tool will sync your alterations to all other Textpack files. It cre
 
 h3. Creating new translation
 
-When creating entirely new translations, always use the @en-gb.textpack@ as your template and reference point - this file is always up to date. Start by creating a new empty Textpack file:
+When creating entirely new translations, always use the @en-gb.textpack@ as your template and reference point - this file is always up to date.
+
+h3. Creating an empty template
+
+Start by creating a new empty Textpack file:
 
 bc. $ touch textpacks/xx-xx.textpack
 
-Then open up @en-gb.textpack@ and add your language's code and name pair to it.
-
-bc. xx-xx => Localized language name
-
-After that is done, sync the language name to other translations:
+Then run the Textpack sync tool:
 
 bc. $ ./textpack
 
-This will also populate your @xx-xx.textpack@ file with an empty Textpack template.
+This will populate your empty @xx-xx.textpack@ file with an empty Textpack template with all the strings and no of the translations.
 
 h3. Testing
 
