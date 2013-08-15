@@ -62,7 +62,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
 
             $this->assertTrue(trim($contents) === $contents, $file->getBasename().' has trailing whitespace');
             $this->assertTrue(mb_check_encoding($contents, 'UTF-8'), $file->getBasename().' is not UTF8');
-            $this->assertTrue(strpos($contents, "\r") === false, $file->getBasename().' does not use single LF');
+            $this->assertTrue(strpos($contents, "\r") === false, $file->getBasename().' does not use single linefeed');
         }
     }
 
