@@ -40,7 +40,7 @@ password_reset => Réinitialisation du mot de passe
 password_reset_button => Réinitialiser
 password_reset_confirmation => Une demande de réinitialisation de votre mot de passe a été faite, merci de confirmer cette demande en cliquant sur le lien ci-dessous.
 password_reset_confirmation_request => Merci de confirmer la réinitialisation de votre mot de passe
-password_reset_confirmation_request_sent => Un message de confirmation a été envoyé à votre adresse email. <br />Veuillez consulter ce message afin de suivre les instructions fournies.
+password_reset_confirmation_request_sent => Un message de confirmation a été envoyé à votre adresse email. Veuillez consulter ce message afin de suivre les instructions fournies.
 password_sent_to => Mot de passe envoyé à
 privileges => Privilèges
 privs_none => Aucun
@@ -364,7 +364,7 @@ site_trailing_slash => L’URL du site a un <code>/</code> final
 site_url_mismatch => L’URL du site dans les préférences peut être incorrecte
 some_php_functions_disabled => Certaines fonctions PHP (pouvant être nécessaires) sont désactivées sur le serveur
 still_exists => existe encore
-textpattern_update_available => Une nouvelle version de Textpattern CMS {version} <a href="http://textpattern.com/download" rel="external" title=" Accès au téléchargement sur le site Textpattern CMS ">est disponible en téléchargement</a>
+textpattern_update_available => Une nouvelle version de Textpattern CMS {version} <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern CMS">est disponible en téléchargement</a>
 tmp_plugin_paths_match => Le répertoire <code>temporaire</code> et le répertoire de <code>cache des plugins</code> doivent être <strong>différents</strong>.
 txp_path => Chemin d’accès à Textpattern
 txp_version => Version de Textpattern CMS
@@ -416,7 +416,7 @@ file_cannot_rename => Le fichier <strong>{name}</strong> n’a pas pu être reno
 file_category => Catégorie
 file_deleted => Fichier(s) <strong>{name}</strong> effacé.
 file_delete_failed => Impossible d’effacer le(s) fichier(s)
-file_dir_not_writeable => <strong>Attention :</strong> le serveur ne peut pas écrire dans<br />le répertoire <code>{filedir}</code><br />Merci de vérifier les permissions (CHMOD).
+file_dir_not_writeable => <strong>Attention :</strong> le serveur ne peut pas écrire dans le répertoire <code>{filedir}</code> Merci de vérifier les permissions (CHMOD).
 file_download_count => Nombre de téléchargements
 file_name => Nom du fichier
 file_not_found => Fichier(s) non trouvé(s)
@@ -474,7 +474,7 @@ image_save_error => il s’est produit une erreur lors de la sauvegarde de l’i
 image_save_failed => Cette image n'a pas été enregistrée en raison d'une erreur. Veuillez essayer à nouveau.
 image_updated => Image <strong>{name}</strong> mise à jour.
 image_uploaded => Image(s) <strong>{name}</strong> envoyée(s) sur le serveur.
-img_dir_not_writeable => <strong>Attention :</strong> impossible d’enregistrer l’image dans le répertoire <cite>{imgdir}</cite>.<br />Veuillez contacter votre hébergeur pour connaître les permissions (CHMOD) appropriées à appliquer.
+img_dir_not_writeable => <strong>Attention :</strong> impossible d’enregistrer l’image dans le répertoire <cite>{imgdir}</cite>. Veuillez contacter votre hébergeur pour connaître les permissions (CHMOD) appropriées à appliquer.
 invalid_width_or_height => Dimensions invalides
 keep_square_pixels => Rogner
 not_saved => N’a <strong>pas</strong été sauvegardé !
@@ -496,7 +496,7 @@ continue => Continuer
 database_stuff => Informations de la base de données
 import_blogid => ID du Weblog
 import_database => Nom de la base de donnée
-import_file_not_found => Fichier d’importation non trouvé. <br />Veuillez renommer le fichier en <code>import.txt</code> et le placer dans le répertoire <code>/textpattern/include/import/</code>
+import_file_not_found => Fichier d’importation non trouvé. Veuillez renommer le fichier en <code>import.txt</code> et le placer dans le répertoire <code>/textpattern/include/import/</code>
 import_host => Adresse du serveur MySQL
 import_invite => Invite à commenter
 import_login => Nom d’utilisateur MySQL
@@ -670,7 +670,7 @@ max_url_len => Taille maximum d’une URL (en caractères)
 mentions => Mentions
 messy => brutes (?=paramètres)
 never_display_email => Toujours masquer les adresses email&#160;?
-new_textpattern_version_available => Une nouvelle version de Textpattern est disponible. <a href="http://textpattern.com/download" rel="external" title=" Accès au téléchargement sur le site Textpattern ">Voulez-vous la télécharger</a>&#160;?
+new_textpattern_version_available => Une nouvelle version de Textpattern est disponible. <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern">Voulez-vous la télécharger</a>&#160;?
 norwegian => Norsk
 no_popup => fenêtre actuelle
 override_emailcharset => Transformer les emails en Latin 1 (ISO-8859-1)&#160;?
@@ -721,7 +721,7 @@ timeoffset => Décalage horaire (en heures)
 title_no_widow => Éviter un mot veuf (seul) dans les titres d’articles&#160;?
 title_only => /titre
 updated => à jour
-updated_branch_version_available => Une mise à jour de cette version de Textpattern CMS est disponible. Voulez-vous la <a href="http://textpattern.com/download" rel="external" title=" Accès à la zone de téléchargement du site Textpattern ">télécharger</a> ?
+updated_branch_version_available => Une mise à jour de cette version de Textpattern CMS est disponible. Voulez-vous la <a href="http://textpattern.com/download" rel="external" title="Accès à la zone de téléchargement du site Textpattern">télécharger</a> ?
 update_languages => Mettre à jour les langues installées
 urls_to_ping => URL où envoyer un ping (séparées par une virgule)
 url_mode => Type d’URL
@@ -802,7 +802,7 @@ edit => Modifier
 email => Adresse email
 email_address => Adresse email
 emphasis => emphase
-enter_comment_here => <strong>Rédigez votre commentaire à l'aide du formulaire ci-dessous</strong>. <br />Les champs marqués d'une étoile (<b class="required" title="Requis">*</b>) sont obligatoires. Vous devez effectuer un aperçu de votre commentaire avant de l'envoyer.
+enter_comment_here => <strong>Rédigez votre commentaire à l'aide du formulaire ci-dessous</strong>. Les champs marqués d'une étoile (<b class="required" title="Requis">*</b>) sont obligatoires. Vous devez effectuer un aperçu de votre commentaire avant de l'envoyer.
 error_article_context => Les balises spécifiques aux articles ne peuvent pas être utilisées en dehors du contexte <em>article</em>
 error_category_context => Les balises de catégories ne peuvent être utilisées en dehors de leur contexte de catégorie
 error_comment_context => Les balises de commentaires ne peuvent pas être utilisées en-dehors du contexte des commentaires
@@ -991,7 +991,7 @@ creating_db_tables => Création des tables de la base de données
 db_cant_connect => Impossible de se connecter à la base de données avec les valeurs indiquées.
 db_connected => Connectée
 db_doesnt_exist => La base de données <code>{dbname}</code> n’existe pas ou vous ne disposez pas des permissions pour vous y connecter.
-db_must_exist => Veuillez noter que la base de données que vous indiquez doit exister. <br />Textpattern ne la créera pas pour vous.
+db_must_exist => Veuillez noter que la base de données que vous indiquez doit exister. Textpattern ne la créera pas pour vous.
 did_it => C’est fait →
 email_required => Merci de fournir une adresse email valide.
 errors_during_install => Il s’est malheureusement produit {num} erreurs durant l’installation. Vous pouvez demander de l’aide dans les <a href="http://forum.textpattern.com/viewforum.php?id=16">forums Textpattern</a>.
@@ -1011,7 +1011,7 @@ pass_required => Veuillez renseigner un mot de passe sécurisé.
 please_enter_url => Merci d’indiquer l’URL à partir de laquelle votre site sera accessible.
 please_go_back => Veuillez revenir à l'étape antérieure afin de corriger les informations incorrectes ce qui vous permettra de poursuivre ce processus.
 populate_db => Remplissage de la base
-prefix_bad_characters => Le préfixe de table SQL {dbprefix} contient des caractères interdits. <br />Le premier caractère doit être compris dans la liste <strong>a-zA-Z_</strong> et les caractères suivants dans la liste <strong>a-zA-Z0-9_</strong>.
+prefix_bad_characters => Le préfixe de table SQL {dbprefix} contient des caractères interdits. Le premier caractère doit être compris dans la liste <strong>a-zA-Z_</strong> et les caractères suivants dans la liste <strong>a-zA-Z0-9_</strong>.
 prefix_warning => (À n’utiliser que si vous comptez créer plusieurs installations concurrentes de Textpattern dans la même base de données MySQL)
 progress_steps => Voici les 4 étapes de cette installation&#160;:
 setup_comment_invite => Commentaire
