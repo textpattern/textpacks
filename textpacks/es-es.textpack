@@ -884,7 +884,7 @@ popup => en ventana emergente
 post => Publicar
 posted => Publicado
 posted_by => Publicado por
-press_preview_then_submit => Lo que sigue es una previsualización de cómo quedará tu comentario. ¡Por favor, no olvides ir más abajo y asegurarte de que presionas el botón <strong><a href=#txpCommentSubmit" title="Go to the submit button">Enviar</a></strong>!
+press_preview_then_submit => Lo que sigue es una previsualización de cómo quedará tu comentario. ¡Por favor, no olvides ir más abajo y asegurarte de que presionas el botón <strong><a href="#txpCommentSubmit" title="Go to the submit button">Enviar</a></strong>!
 prev => ← Anterior
 preview => Previsualizar
 publish => Publicar
