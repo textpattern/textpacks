@@ -10,7 +10,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     static private $translations;
     static private $knownStrings = array();
     static private $setUp = false;
-    static private $allowedHTMLFormatting = '<a><abbr><b><cite><code><i><em><strong>';
+    static private $allowedHTMLFormatting = '<a><abbr><b><bdo><cite><code><del><dfn><em><i><ins><kbd><q><samp><small><span><strong><sub><sup><var>';
 
     public function setUp()
     {
