@@ -353,7 +353,7 @@ path_to_site_inacc => Calea catre site (path_to_site) nu este accesibil
 php_extensions => Extensii PHP
 php_sapi_mode => PHP Server API
 php_version => Versiunea PHP
-php_version_required => Textpattern are nevoie de PHP >=<strong>{version}</strong>.
+php_version_required => Textpattern are nevoie de PHP &gt;=<strong>{version}</strong>.
 preflight_check => Verificari initiale
 register_globals => Globale de registru (register_globals)
 rfc2616_headers => Headere RFC 2616

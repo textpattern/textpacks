@@ -538,7 +538,7 @@ all_pages => 모든 페이지
 copy_page_as => 페이지를 다음 이름으로 복사
 create_new_page => 새 페이지 만들기
 delete_page_confirmation => 페이지 지우기 확인
-edit_page => 페이지 편집 =>
+edit_page => 페이지 편집 =&gt;
 edit_pages => 페이지 템플릿 편집
 name_for_this_page =>
 page_already_exists => <strong>{name}</strong> 페이지는 이미 있습니다.
