@@ -10,6 +10,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     static private $translations;
     static private $knownStrings = array();
     static private $setUp = false;
+    static private $allowedHTMLFormatting = '<a><abbr><b><cite><code><i><em><strong>';
 
     public function setUp()
     {
@@ -112,6 +113,14 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                     self::$defaultTextpack[$key]['owner'] === $data['owner'],
                     'Index '.$key.' in '.$file->getBasename().' does not match en-gb: '.$data['name'].' vs. '.self::$defaultTextpack[$key]['name']
                 );
+
+                $strippedContent = strip_tags($data['data'], self::$allowedHTMLFormatting);
+
+                $this->assertTrue($strippedContent === $data['data'], 'String '.$data['name'].' in '.$file->getBasename().' contains illegal HTML formatting. Only few inline tags are allowed.');
+
+                $strippedContent = strip_tags($strippedContent);
+
+                $this->assertTrue(htmlspecialchars($strippedContent, ENT_NOQUOTES, 'UTF-8', false) === $strippedContent, 'String '.$data['name'].' in '.$file->getBasename().' contains unescaped HTML syntax characters'); 
 
                 if ($data['name'] === 'lang_dir')
                 {
