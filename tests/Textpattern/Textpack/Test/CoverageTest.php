@@ -18,6 +18,14 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     static private $defaultTextpack;
 
     /**
+     * Number of lines in en-GB Textpack.
+     *
+     * @var int
+     */
+
+    static private $lines = 0;
+
+    /**
      * Textpack parser instance.
      *
      * @var Textpattern\Textpack\Test\Parser
@@ -77,6 +85,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         {
             self::$textpack = new Textpack();
             $contents = file_get_contents(__DIR__.'/../../../../textpacks/en-gb.textpack');
+            self::$lines = count(explode("\n", $contents));
             self::$defaultTextpack = self::$textpack->parse($contents);
             self::$translations = new TextpackFilter(new \DirectoryIterator(__DIR__.'/../../../../textpacks'));
 
@@ -141,6 +150,8 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                 $n++;
                 $this->assertTrue(trim($line) === $line, "{$lang}: trailing whitespace on line {$n}");
             }
+
+            $this->assertEquals(self::$lines, $n, "{$lang}: too many lines");
         }
     }
 
