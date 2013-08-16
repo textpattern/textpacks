@@ -60,6 +60,14 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     static private $allowedHTMLFormatting = '<a><abbr><b><bdo><cite><code><del><dfn><em><i><ins><kbd><q><samp><small><span><strong><sub><sup><var>';
 
     /**
+     * Regular expression for finding unwanted characters.
+     *
+     * @var string
+     */
+
+    static private $regexInvisible = '/[\p{Cc}\p{Zp}\p{Zl}\x{00a0}\x{202f}\x{200b}\x{200B}]/u';
+
+    /**
      * {@inheritdoc}
      */
 
@@ -186,6 +194,10 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                     self::$defaultTextpack[$key]['owner'] === $data['owner'],
                     'Index '.$key.' in '.$file->getBasename().' does not match en-gb: '.$data['name'].' vs. '.self::$defaultTextpack[$key]['name']
                 );
+
+                // Makes sure the string doesn't contain some unwanted invisible characters.
+
+                $this->assertTrue(!preg_match(self::$regexInvisible, $data['data']), 'String '.$data['name'].' in '.$file->getBasename().' contains invisible characters.');
 
                 // Makes sure the string doesn't go over the character limit.
 
