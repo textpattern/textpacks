@@ -142,6 +142,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
             $contents = file_get_contents($file->getPathname());
             $lang = $file->getBasename('.textpack');
 
+            $this->assertTrue(trim($contents) === $contents, "{$lang}: trailing whitespace");
             $this->assertTrue(mb_check_encoding($contents, 'UTF-8'), "{$lang}: not UTF-8");
             $this->assertTrue(strpos($contents, "\r") === false, "{$lang}: not using linefeed");
 
