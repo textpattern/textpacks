@@ -193,7 +193,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
 
                 $this->assertTrue($strippedContent === $data['data'], 'String '.$data['name'].' in '.$file->getBasename().' contains illegal HTML formatting. Only few inline tags are allowed.');
 
-                // Makes sure the string doesn't contain broken or unstanitised HTML.
+                // Makes sure the string doesn't contain broken or unsanitised HTML.
 
                 $strippedContent = strip_tags($strippedContent);
 
