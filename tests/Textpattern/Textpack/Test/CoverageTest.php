@@ -141,6 +141,27 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * Tests Textpacks for missing strings.
+     */
+
+    public function testMisingStrings()
+    {
+        foreach (self::$translations as $file)
+        {
+            $contents = file_get_contents($file->getPathname());
+            $strings = self::$textpack->parse($contents);
+            $missing = self::$knownStrings;
+
+            foreach ($strings as $data)
+            {
+                unset($missing[$data['name']]);
+            }
+
+            $this->assertEquals(0, count($missing), $file->getBasename().' is missing '.count($missing).' strings: '.implode(', ', $missing));
+        }
+    }
+
+    /**
      * Tests translation strings in Textpacks.
      */
 
@@ -150,7 +171,6 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         {
             $contents = file_get_contents($file->getPathname());
             $strings = self::$textpack->parse($contents);
-            $missing = self::$knownStrings;
 
             foreach ($strings as $key => $data)
             {
@@ -191,13 +211,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                     $code = $lang[0].'-'.strtoupper(end($lang));
                     $this->assertEquals($code, $data['data'], 'lang_code in '.$file->getBasename());
                 }
-
-                unset($missing[$data['name']]);
             }
-
-            // Makes sure the Textpack isn't missing strings.
-
-            $this->assertEquals(0, count($missing), $file->getBasename().' is missing '.count($missing).' strings: '.implode(', ', $missing));
         }
     }
 }
