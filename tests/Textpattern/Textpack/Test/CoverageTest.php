@@ -93,25 +93,15 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
      * Tests the default Textpack.
      *
      * Makes sure the en-GB was parsed
-     * successfully.
+     * successfully, and that there were no
+     * duplicate strings.
      */
 
     public function testDefaultTextpack()
     {
         $this->assertTrue(is_array(self::$defaultTextpack));
         $this->assertGreaterThan(1, count(self::$defaultTextpack));
-    }
 
-    /**
-     * Makes sure the main Textpack doesn't contain duplicates.
-     *
-     * Since we are comparing other Textpacks to the en-GB,
-     * this alone makes sure none of them contain
-     * duplicates.
-     */
-
-    public function testDuplicates()
-    {
         $duplicate = $used = array();
 
         foreach (self::$defaultTextpack as $data)
