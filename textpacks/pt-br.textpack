@@ -805,7 +805,7 @@ email_address => Endereço de e-mail
 emphasis => itálico
 enter_comment_here => <strong>Digite seu comentário abaixo.</strong> Os campos marcados <b class="required">*</b> são necessários. Você deve visualizar o seu comentário antes de finalizar a postagem.
 error_article_context => Tags de Artigo não podem ser utilizadas fora do contexto do artigo
-error_category_context => Etiquetas (tags) de categoria não podem ser usados ​​fora de um contexto
+error_category_context => Etiquetas (tags) de categoria não podem ser usados fora de um contexto
 error_comment_context => Tags de comentário não podem ser utilizadas fora de um contexto de comentário
 error_file_context => Tags de arquivo não podem ser utilizadas fora de um contexto de arquivo
 error_image_context => Tags de imagem não pode ser usado fora de um contexto de imagem
