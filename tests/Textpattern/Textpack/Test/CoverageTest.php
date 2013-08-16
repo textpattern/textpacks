@@ -141,10 +141,11 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         foreach (self::$translations as $file)
         {
             $contents = file_get_contents($file->getPathname());
+            $lang = $file->getBasename('.textpack');
 
-            $this->assertTrue(trim($contents) === $contents, $file->getBasename().' has trailing whitespace');
-            $this->assertTrue(mb_check_encoding($contents, 'UTF-8'), $file->getBasename().' is not UTF8');
-            $this->assertTrue(strpos($contents, "\r") === false, $file->getBasename().' does not use single linefeed');
+            $this->assertTrue(trim($contents) === $contents, "{$lang}: trailing whitespace");
+            $this->assertTrue(mb_check_encoding($contents, 'UTF-8'), "{$lang}: not UTF-8");
+            $this->assertTrue(strpos($contents, "\r") === false, "{$lang}: not using linefeed");
         }
     }
 
@@ -159,13 +160,16 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
             $contents = file_get_contents($file->getPathname());
             $strings = self::$textpack->parse($contents);
             $missing = self::$knownStrings;
+            $lang = $file->getBasename('.textpack');
 
             foreach ($strings as $data)
             {
                 unset($missing[$data['name']]);
             }
 
-            $this->assertEquals(0, count($missing), $file->getBasename().' is missing '.count($missing).' strings: '.implode(', ', $missing));
+            $count = count($missing);
+            $missing = implode(', ', $missing);
+            $this->assertEquals(0, $count, "{$lang}: missing {$count} strings: {$missing}");
         }
     }
 
@@ -175,59 +179,84 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
 
     public function testStrings()
     {
+        $exprectedCount = count(self::$defaultTextpack);
+
         foreach (self::$translations as $file)
         {
             $contents = file_get_contents($file->getPathname());
             $strings = self::$textpack->parse($contents);
+            $lang = $file->getBasename('.textpack');
+
+            // Make sure the file doesn't have extra lines.
+
+            $this->assertEquals($exprectedCount, count($strings), "{$lang}: too many strings");
 
             foreach ($strings as $key => $data)
             {
                 // Tests for widow strings.
 
-                $this->assertTrue(isset(self::$knownStrings[$data['name']]), 'string '.$data['name'].' in '.$file->getBasename().' is not in en-gb');
+                $this->assertTrue(
+                    isset(self::$knownStrings[$data['name']]),
+                    "{$lang}: {$data['name']} is not in en-GB"
+                );
 
-                // Makes sure strings are in correct order.
+                $expected = self::$defaultTextpack[$key]['name'];
 
                 $this->assertTrue(
                     self::$defaultTextpack[$key]['name'] === $data['name'] &&
                     self::$defaultTextpack[$key]['event'] === $data['event'] &&
                     self::$defaultTextpack[$key]['owner'] === $data['owner'],
-                    'Index '.$key.' in '.$file->getBasename().' does not match en-gb: '.$data['name'].' vs. '.self::$defaultTextpack[$key]['name']
+                    "{$lang}: found {$data['name']}, expected {$expected}"
                 );
 
                 // Makes sure the string doesn't contain some unwanted invisible characters.
 
-                $this->assertTrue(!preg_match(self::$regexInvisible, $data['data']), 'String '.$data['name'].' in '.$file->getBasename().' contains invisible characters.');
+                $this->assertTrue(
+                    !preg_match(self::$regexInvisible, $data['data']),
+                    "{$lang}: {$data['name']} contains invisible characters"
+                );
 
                 // Makes sure the string doesn't go over the character limit.
 
                 $length = mb_strlen($data['data']);
 
-                $this->assertTrue(65535 >= $length, 'String '.$data['name'].' in '.$file->getBasename().' is '.$length.' characters long, 65535 allowed.');
+                $this->assertTrue(
+                    65535 >= $length,
+                    "{$lang}: {$data['name']} is {$length} characters long, 65535 allowed"
+                );
 
                 // Makes sure the string contains only allowed HTML elements.
 
                 $strippedContent = strip_tags($data['data'], self::$allowedHTMLFormatting);
 
-                $this->assertTrue($strippedContent === $data['data'], 'String '.$data['name'].' in '.$file->getBasename().' contains illegal HTML formatting. Only few inline tags are allowed.');
+                $this->assertTrue(
+                    $strippedContent === $data['data'],
+                    "{$lang}: {$data['name']} contains illegal HTML formatting"
+                );
 
                 // Makes sure the string doesn't contain broken or unsanitised HTML.
 
                 $strippedContent = strip_tags($strippedContent);
 
-                $this->assertTrue(htmlspecialchars($strippedContent, ENT_NOQUOTES, 'UTF-8', false) === $strippedContent, 'String '.$data['name'].' in '.$file->getBasename().' contains unescaped HTML syntax characters');
+                $this->assertTrue(
+                    htmlspecialchars($strippedContent, ENT_NOQUOTES, 'UTF-8', false) === $strippedContent,
+                    "{$lang}: {$data['name']} contains unescaped HTML syntax characters"
+                );
 
                 if ($data['name'] === 'lang_dir')
                 {
                     // Check language direction.
-                    $this->assertTrue($data['data'] === 'ltr' || $data['data'] === 'rtl', 'lang_dir in '.$file->getBasename());
+                    $this->assertTrue(
+                        $data['data'] === 'ltr' || $data['data'] === 'rtl',
+                        "{$lang}: invalid lang_dir"
+                    );
                 }
                 else if ($data['name'] === 'lang_code')
                 {
                     // Check language code.
-                    $lang = explode('-', $file->getBasename('.textpack'));
-                    $code = $lang[0].'-'.strtoupper(end($lang));
-                    $this->assertEquals($code, $data['data'], 'lang_code in '.$file->getBasename());
+                    $code = explode('-', $lang);
+                    $code = $code[0].'-'.strtoupper(end($code));
+                    $this->assertEquals($code, $data['data'], "{$lang}: invalid lang_code");
                 }
             }
         }
