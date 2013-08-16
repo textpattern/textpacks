@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Svenska
-lang_code => sv-se
+lang_code => sv-SE
 lang_dir => ltr
 #@admin
 add_new_author => Lägg till skribent

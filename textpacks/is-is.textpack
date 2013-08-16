@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Íslenska
-lang_code => is-is
+lang_code => is-IS
 lang_dir => ltr
 #@admin
 add_new_author => Bæta við höfundi

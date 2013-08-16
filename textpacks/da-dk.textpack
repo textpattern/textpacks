@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Dansk
-lang_code => da-dk
+lang_code => da-DK
 lang_dir => ltr
 #@admin
 add_new_author => Tilføj ny forfatter

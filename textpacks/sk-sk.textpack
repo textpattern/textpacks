@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Slovenčina
-lang_code => sk-sk
+lang_code => sk-SK
 lang_dir => ltr
 #@admin
 add_new_author => Nový autor

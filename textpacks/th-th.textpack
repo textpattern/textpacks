@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => ไทย
-lang_code => th-th
+lang_code => th-TH
 lang_dir => ltr
 #@admin
 add_new_author => เพิ่มนักเขียน

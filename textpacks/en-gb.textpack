@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => English (Great Britain)
-lang_code => en-gb
+lang_code => en-GB
 lang_dir => ltr
 #@admin
 add_new_author => Add new author

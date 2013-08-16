@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Tiếng Việt (Việt Nam)
-lang_code => vi-vn
+lang_code => vi-VN
 lang_dir => ltr
 #@admin
 add_new_author => Thêm tác giả mới

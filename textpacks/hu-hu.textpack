@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Magyar
-lang_code => hu-hu
+lang_code => hu-HU
 lang_dir => ltr
 #@admin
 add_new_author => Új szerző hozzáadása:

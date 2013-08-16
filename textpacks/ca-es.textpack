@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Català
-lang_code => ca-es
+lang_code => ca-ES
 lang_dir => ltr
 #@admin
 add_new_author => Afegeix nou autor

@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Lietuvių
-lang_code => lt-lt
+lang_code => lt-LT
 lang_dir => ltr
 #@admin
 add_new_author => Pridėti naują autorių

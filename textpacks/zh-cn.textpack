@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => 中文(简体)
-lang_code => zh-cn
+lang_code => zh-CN
 lang_dir => ltr
 #@admin
 add_new_author => 新增作者

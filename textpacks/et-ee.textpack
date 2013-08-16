@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Eesti
-lang_code => et-ee
+lang_code => et-EE
 lang_dir => ltr
 #@admin
 add_new_author => Lisa uus autor

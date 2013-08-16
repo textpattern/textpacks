@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Português (Portugal)
-lang_code => pt-pt
+lang_code => pt-PT
 lang_dir => ltr
 #@admin
 add_new_author => Adicionar autor

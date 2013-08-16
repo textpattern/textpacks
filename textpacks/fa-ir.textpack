@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => پارسی
-lang_code => fa-ir
+lang_code => fa-IR
 lang_dir => rtl
 #@admin
 add_new_author => افزودن نویسنده جدید

@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Ελληνικά
-lang_code => el-gr
+lang_code => el-GR
 lang_dir => ltr
 #@admin
 add_new_author => Προσθήκη νέου χρήστη

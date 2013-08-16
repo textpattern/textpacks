@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Bahasa Indonesia
-lang_code => id-id
+lang_code => id-ID
 lang_dir => ltr
 #@admin
 add_new_author => Tambah Penulis Baru

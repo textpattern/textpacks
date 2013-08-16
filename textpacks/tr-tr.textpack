@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Türkçe
-lang_code => tr-tr
+lang_code => tr-TR
 lang_dir => ltr
 #@admin
 add_new_author => Yeni Yazar Ekle

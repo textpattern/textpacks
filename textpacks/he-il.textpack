@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => עברית
-lang_code => he-il
+lang_code => he-IL
 lang_dir => rtl
 #@admin
 add_new_author => הוסף כותב חדש

@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Deutsch
-lang_code => de-de
+lang_code => de-DE
 lang_dir => ltr
 #@admin
 add_new_author => Einen neuen Autor hinzufügen

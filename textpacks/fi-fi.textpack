@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Suomi
-lang_code => fi-fi
+lang_code => fi-FI
 lang_dir => ltr
 #@admin
 add_new_author => Lisää uusi käyttäjä
