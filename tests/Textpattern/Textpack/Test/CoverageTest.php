@@ -176,7 +176,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
             {
                 // Tests for widow strings.
 
-                $this->assertArrayHasKey($data['name'], self::$knownStrings, 'string '.$data['name'].' in '.$file->getBasename().' is not in en-gb');
+                $this->assertTrue(isset(self::$knownStrings[$data['name']]), 'string '.$data['name'].' in '.$file->getBasename().' is not in en-gb');
 
                 // Makes sure strings are in correct order.
 
