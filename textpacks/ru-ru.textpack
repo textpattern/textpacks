@@ -118,6 +118,7 @@ article_head => Категории статьи
 categories_set_parent => Категория {list} перемещена в {parent}
 category_not_found => Категория не найдена
 category_save_failed => Ошибка! Категория не сохранена, попробуйте еще раз.
+create_new_category =>
 edit_category => Редактировать категорию
 file_categories_deleted => Удалены категории файлов: <strong>{list}</strong>.
 file_category_already_exists => Категория файла <strong>{name}</strong> уже есть.

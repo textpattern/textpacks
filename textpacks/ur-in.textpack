@@ -118,6 +118,7 @@ article_head => مضمون زمرے
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => زمرہ تدوین کریں
 file_categories_deleted => فائل زمرہ حذف کیا: <strong>{list}</strong>
 file_category_already_exists => فائل زمرہ <strong>{name}</strong> پہلے سے موجود ہے

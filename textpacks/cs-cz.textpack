@@ -118,6 +118,7 @@ article_head => Články
 categories_set_parent =>
 category_not_found => Kategorie nebyla nalezena
 category_save_failed => Došlo k chybě, kategorie nebyla uložena. Zkus znovu.
+create_new_category =>
 edit_category => Upravit
 file_categories_deleted => Odstraněny kategorie: <strong>{list}</strong>.
 file_category_already_exists => Kategorie <strong>{name}</strong> již existuje.

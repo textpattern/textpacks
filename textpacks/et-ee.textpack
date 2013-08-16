@@ -118,6 +118,7 @@ article_head => Artiklite kategooriad
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category =>
 file_categories_deleted =>
 file_category_already_exists =>

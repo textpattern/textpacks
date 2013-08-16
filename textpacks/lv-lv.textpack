@@ -118,6 +118,7 @@ article_head => Ierakstu kategorijas
 categories_set_parent =>
 category_not_found => Kategorija netika atrasta
 category_save_failed => Kategorija netika saglabāta, jo gadījās kļūda. Lūdzu, mēģiniet vēlreiz.
+create_new_category =>
 edit_category => Labot kategoriju
 file_categories_deleted => Failu kategorijas dzēstas: <strong>{list}</strong>.
 file_category_already_exists => Failu kategorija <strong>{name}</strong> jau pastāv.

@@ -118,6 +118,7 @@ article_head => Категорије Уноса
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => Измени категорију
 file_categories_deleted => Избрисане категорије фајлова: <strong>{list}</strong>.
 file_category_already_exists => Категорија фајлова <strong>{name}</strong> већ постоји.

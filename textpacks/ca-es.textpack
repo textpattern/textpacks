@@ -118,6 +118,7 @@ article_head => Categories d'articles
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => Edita categoria
 file_categories_deleted => Categories de fitxers esborrades: {list}.
 file_category_already_exists => La categoria de fitxer {name} ja existeix.

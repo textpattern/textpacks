@@ -118,6 +118,7 @@ article_head => Categorías de artículo
 categories_set_parent => {list} asignado a la categoría de {type} padre {parent}
 category_not_found => No se ha encontrado la categoría
 category_save_failed => Debido a un error no se ha guardado la categoría. Por favor, inténtalo de nuevo.
+create_new_category =>
 edit_category => Editar categoría
 file_categories_deleted => Categorías de archivo borradas: <strong>{list}</strong>.
 file_category_already_exists => La categoría de archivo <strong>{name}</strong> ya existe.

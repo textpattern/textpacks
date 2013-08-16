@@ -118,6 +118,7 @@ article_head => Categorias do artigo
 categories_set_parent => {list} atribuído para {type} categoria pai {parent}
 category_not_found => Categoria não encontrada
 category_save_failed => A categoria não foi salva devido a um erro. Por favor, tente novamente.
+create_new_category =>
 edit_category => categorias
 file_categories_deleted => Categorias de arquivo excluídas: <strong>{list}</strong>.
 file_category_already_exists => A Categoria de arquivo <strong>{name}</strong> já existe!

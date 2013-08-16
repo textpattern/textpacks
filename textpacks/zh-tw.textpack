@@ -118,6 +118,7 @@ article_head => 文章分類
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => 編輯分類
 file_categories_deleted => 已刪除檔案分類: <strong>{list}</strong>.
 file_category_already_exists => 檔案分類 <strong>{name}</strong> 已存在.

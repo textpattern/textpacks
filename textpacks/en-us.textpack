@@ -118,6 +118,7 @@ article_head => Article categories
 categories_set_parent => {list} assigned to {type} category parent {parent}
 category_not_found => Category not found
 category_save_failed => The category was not saved due to an error. Please try again.
+create_new_category => Create new category
 edit_category => Edit category
 file_categories_deleted => File categories deleted: <strong>{list}</strong>.
 file_category_already_exists => File category <strong>{name}</strong> already exists.

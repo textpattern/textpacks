@@ -118,6 +118,7 @@ article_head => Artikelkategorien
 categories_set_parent => {list} wurde Eltern-{type}-Kategorie {parent} zugewiesen
 category_not_found => Kategorie nicht gefunden
 category_save_failed => Die Kategorie konnte wegen eines Fehlers nicht gespeichert werden. Bitte nochmals versuchen.
+create_new_category =>
 edit_category => Kategorie bearbeiten
 file_categories_deleted => Dateikategorie gelöscht: <strong>{list}</strong>.
 file_category_already_exists => Dateikategorie <strong>{name}</strong> existiert bereits.

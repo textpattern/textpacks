@@ -118,6 +118,7 @@ article_head => Artikkelikategoriat
 categories_set_parent => {list} siirretty {type}kategorian <strong>{parent}</strong> alle.
 category_not_found => Kategoriaa ei löytynyt.
 category_save_failed => Kategoriaa ei tallennettu virheen seurauksena. Ole hyvä ja yritä uudelleen.
+create_new_category =>
 edit_category => Muokkaa kategoriaa
 file_categories_deleted => Poistetut tiedostokategoriat: <strong>{list}</strong>.
 file_category_already_exists => Tiedostokategoria <strong>{name}</strong> on jo olemassa.

@@ -118,6 +118,7 @@ article_head => หมวดหมู่บทความ
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => แก้ไขหมวดหมู่
 file_categories_deleted => หมวดหมู่ไฟล์ที่ถูกลบทิ้ง: <strong>{list}</strong>
 file_category_already_exists => มีหมวดหมู่ไฟล์ที่ชื่อ <strong>{name}</strong> แล้ว

@@ -118,6 +118,7 @@ article_head => رده‌های مربوط به نوشته‌ها
 categories_set_parent =>
 category_not_found => رده یافت نشد
 category_save_failed => رده به دلیل بروز خطا ذخیره نشد. لطفا دوباره تلاش کنید.
+create_new_category =>
 edit_category => ویرایش رده
 file_categories_deleted => این رده‌فایل‌ها پاک شدند : <strong>{list}</strong>
 file_category_already_exists => رده‌فایل <strong>{name}</strong> از پیش موجود است.

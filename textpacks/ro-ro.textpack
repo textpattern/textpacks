@@ -118,6 +118,7 @@ article_head => Categoriile de articole
 categories_set_parent => {list} asociata la categoria {type} cu parinte {parent}
 category_not_found => Categoria nu a fost gasita
 category_save_failed => Categoria nu a putut fi salvata datorita unei erori. Te rog mai incearca o data.
+create_new_category =>
 edit_category => Editeaza categoria
 file_categories_deleted => Urmatoarea categorie de fisiere a fost stearsa: {list}.
 file_category_already_exists => Urmatoarea categorie de fisiere {name} deja exista.

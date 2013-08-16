@@ -118,6 +118,7 @@ article_head => Kategorie artykułów
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => Edytuj kategorię
 file_categories_deleted => Usunięto kategorie plików: <strong>{list}</strong>.
 file_category_already_exists => Kategoria plików <strong>{name}</strong> już istnieje.

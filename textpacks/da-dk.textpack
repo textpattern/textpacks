@@ -118,6 +118,7 @@ article_head => Artikel kategorier
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => Edit kategorier
 file_categories_deleted => Fil kategorier slettet: <strong>{list}</strong>.
 file_category_already_exists => Fil kategori <strong>{name}</strong> findes allerede.

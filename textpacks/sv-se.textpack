@@ -118,6 +118,7 @@ article_head => Artikelkategorier
 categories_set_parent => {list} tilldelat {type}kategoriföräldern {parent}
 category_not_found => Kategorin hittades inte
 category_save_failed => Kategorin sparades inte på grund av ett fel. Var god försök igen senare.
+create_new_category =>
 edit_category => Redigera kategori
 file_categories_deleted => Dessa filkategorier raderades: <strong>{list}</strong>.
 file_category_already_exists => Filkategorin <strong>{name}</strong> finns redan.

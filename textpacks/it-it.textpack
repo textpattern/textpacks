@@ -118,6 +118,7 @@ article_head => Categorie articoli
 categories_set_parent => {list} assegnata(e) alla categoria {type} primaria {parent}
 category_not_found => Categoria inesistente
 category_save_failed => La categoria non è stata salvata a cusa di un errore. Riprova.
+create_new_category =>
 edit_category => Modifica categoria
 file_categories_deleted => Categorie file eliminate <strong>{list}</strong>.
 file_category_already_exists => Categoria file <strong>{name}</strong> già esistente.

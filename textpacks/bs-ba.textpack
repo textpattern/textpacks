@@ -118,6 +118,7 @@ article_head => Kategorije članaka
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => Ispravka kategorije
 file_categories_deleted => Obrisane kategorije datoteka: <strong>{list}</strong>.
 file_category_already_exists => Kategorija datoteke <strong>{name}</strong> već postoji.

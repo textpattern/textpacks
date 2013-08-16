@@ -118,6 +118,7 @@ article_head => artikelcategorie
 categories_set_parent => {list} is onderdeel van {type}categorie {parent}
 category_not_found => De categorie werd niet gevonden
 category_save_failed => Door een fout is de categorie niet opgeslagen. Probeer het nogmaals.
+create_new_category =>
 edit_category => Categorie wijzigen
 file_categories_deleted => Bestandscategorieën: <strong>{list}</strong> verwijderd.
 file_category_already_exists => Bestandscategorie: <strong>{name}</strong> bestaat al.

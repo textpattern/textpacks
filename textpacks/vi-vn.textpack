@@ -118,6 +118,7 @@ article_head => Các thể loại bài viết
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => Chỉnh sửa Thể loại
 file_categories_deleted => Đã xóa thể loại file: <strong>{list}</strong>.
 file_category_already_exists => Đã có thể loại <strong>{name}</strong> từ trước.

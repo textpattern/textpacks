@@ -118,6 +118,7 @@ article_head => Cikk kategóriák
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => Kategória szerkesztése
 file_categories_deleted => Állomány kategóriák törölve: {list}
 file_category_already_exists => Az állomány kategória már létezik: {name}

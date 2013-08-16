@@ -118,6 +118,7 @@ article_head => 記事用カテゴリ
 categories_set_parent => {list} は {type} カテゴリの親 {parent} に指定されました
 category_not_found => カテゴリが見つかりません
 category_save_failed => エラーが発生したためカテゴリは保存できませんでした。再試行してください。
+create_new_category =>
 edit_category => カテゴリの編集
 file_categories_deleted => 以下のファイル用カテゴリを削除しました: <strong>{list}</strong>.
 file_category_already_exists => ファイル用カテゴリ <strong>{name}</strong> は既に存在します。

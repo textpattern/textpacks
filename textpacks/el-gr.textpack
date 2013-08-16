@@ -118,6 +118,7 @@ article_head => Κατηγορίες άρθρων
 categories_set_parent =>
 category_not_found =>
 category_save_failed =>
+create_new_category =>
 edit_category => Επεξεργασία κατηγορίας
 file_categories_deleted => Διαγραφείσες κατηγορίες αρχείων: <strong>{list}</strong>
 file_category_already_exists => Η κατηγορία αρχείου <strong>{name}</strong> υπάρχει ήδη.
