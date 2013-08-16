@@ -187,11 +187,11 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                     'Index '.$key.' in '.$file->getBasename().' does not match en-gb: '.$data['name'].' vs. '.self::$defaultTextpack[$key]['name']
                 );
 
-                // Makes sure the string doesn't go over 255 character limit.
+                // Makes sure the string doesn't go over the character limit.
 
                 $length = mb_strlen($data['data']);
 
-                $this->assertLessThanOrEqual(65535, $length, 'String '.$data['name'].' in '.$file->getBasename().' is '.$length.' characters long, 65535 allowed.');
+                $this->assertTrue(65535 >= $length, 'String '.$data['name'].' in '.$file->getBasename().' is '.$length.' characters long, 65535 allowed.');
 
                 // Makes sure the string contains only allowed HTML elements.
 
