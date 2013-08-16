@@ -128,7 +128,9 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                 }
                 else if ($data['name'] === 'lang_code')
                 {
-                    $this->assertEquals($file->getBasename('.textpack'), $data['data'], 'lang_code in '.$file->getBasename());
+                    $lang = explode('-', $file->getBasename('.textpack'));
+                    $code = $lang[0].'-'.strtoupper(end($lang));
+                    $this->assertEquals($code, $data['data'], 'lang_code in '.$file->getBasename());
                 }
             }
         }
