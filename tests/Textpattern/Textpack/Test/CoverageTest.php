@@ -177,7 +177,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
             $strings = self::$textpack->parse($contents);
             $lang = $file->getBasename('.textpack');
 
-            // Make sure the file doesn't have extra lines.
+            // Make sure the file doesn't have extra strings.
 
             $this->assertEquals($exprectedCount, count($strings), "{$lang}: too many strings");
 
