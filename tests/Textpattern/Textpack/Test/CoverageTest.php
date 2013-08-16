@@ -191,7 +191,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
 
                 $length = mb_strlen($data['data']);
 
-                $this->assertLessThanOrEqual(255, $length, 'String '.$data['name'].' in '.$file->getBasename().' is '.$length.' characters long, 255 allowed.');
+                $this->assertLessThanOrEqual(65535, $length, 'String '.$data['name'].' in '.$file->getBasename().' is '.$length.' characters long, 65535 allowed.');
 
                 // Makes sure the string contains only allowed HTML elements.
 
