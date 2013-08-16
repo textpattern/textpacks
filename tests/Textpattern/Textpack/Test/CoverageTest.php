@@ -139,8 +139,14 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     {
         foreach (self::$translations as $file)
         {
-            $contents = file_get_contents($file->getPathname());
             $lang = $file->getBasename('.textpack');
+
+            $this->assertTrue(
+                $file->isFile() && $file->isReadable() && !$file->isExecutable(),
+                "{$lang}: file needs to be readable, non-executable"
+            );
+
+            $contents = file_get_contents($file->getPathname());
 
             $this->assertTrue(trim($contents) === $contents, "{$lang}: trailing whitespace");
             $this->assertTrue(mb_check_encoding($contents, 'UTF-8'), "{$lang}: not UTF-8");
