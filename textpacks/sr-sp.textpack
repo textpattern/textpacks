@@ -1,7 +1,7 @@
 #@version 4.5.4;1361790486
 #@common
 lang_name => Srpski
-lang_code => sp-rs
+lang_code => sr-SP
 lang_dir => ltr
 #@admin
 add_new_author => Dodaj novog autora
