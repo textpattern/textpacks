@@ -8,8 +8,8 @@ add_new_author => ایک نۓ مصنف کو شامل کریں
 and_mailed_to => اور یہاں ای میل بھیجو
 assign_assets_to => صارف کے اشیا یہاں تفویض کریں
 author_already_exists =>
-author_deleted => مصنف <strong>{name}</strong> کو حذف کیا گیا =&gt;
-author_updated => مصنف <strong>{name}</strong> کا تازہ کاری کیا گ =&gt;
+author_deleted => مصنف <strong>{name}</strong> کو حذف کیا گیا
+author_updated => مصنف <strong>{name}</strong> کا تازہ کاری کیا گ
 a_message_will_be_sent_with_login => لاگان معلومات ای میل بذریعہ بھیجے جائنگے
 a_new_password_will_be_mailed => ایک نیا ‏پاس ورڈ‏ ای مل بذریعہ بھیجا جایگا
 cannot_assign_assets_to_deletee =>
@@ -21,7 +21,7 @@ could_not_mail => ای میل بھیجنے میں ناکامی
 could_not_update_author => مصنف کے معلومات تازہ کرنے میں ناکامی
 designer => ڈیزائنر
 edit_author => مصنف کے معلومات تدوین کریں
-email_changed => ای میل کا پتہ {email} کو بدلہ گیا =&gt;
+email_changed => ای میل کا پتہ {email} کو بدلہ گیا
 error_adding_new_author => نۓ مصنف کو شامل کرنے میں نقص !
 freelancer => مصنف آزاد
 last_login => پچھلا لاگ ان
