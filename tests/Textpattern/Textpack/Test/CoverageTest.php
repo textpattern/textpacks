@@ -150,6 +150,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
             {
                 $n++;
                 $this->assertTrue(trim($line) === $line, "{$lang}: trailing whitespace on line {$n}");
+                $this->assertTrue(trim($line) !== '', "{$lang}: line {$n} is empty");
             }
 
             $this->assertEquals(self::$lines, $n, "{$lang}: too many lines");
