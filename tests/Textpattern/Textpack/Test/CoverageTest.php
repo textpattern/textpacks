@@ -159,7 +159,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                 $this->assertTrue(trim($line) !== '', "{$lang}: line {$n} is empty");
             }
 
-            $this->assertEquals(self::$lines, $n, "{$lang}: unexcepted number of lines");
+            $this->assertEquals(self::$lines, $n, "{$lang}: unacceptable number of lines");
         }
     }
 
