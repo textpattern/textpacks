@@ -21,7 +21,7 @@ could_not_mail => ناتوانی در ارسال
 could_not_update_author => ناتوانی در بهنگام‌سازی مشخصات نویسنده
 designer => طراح
 edit_author => تغییر مشخصات نویسنده
-email_changed => نشانی ایمیل به {email} تغییر یافت.
+email_changed => نشانی ایمیل به <strong>{email}</strong> تغییر یافت.
 error_adding_new_author => خطا در افزودن نویسنده جدید.
 freelancer => نویسنده آزاد
 last_login => آخرین ورود
@@ -33,7 +33,7 @@ must_reassign_assets => لطفاً محتوای کاربر را مجدداً ت�
 new_email => ایمیل جدید
 new_password => گذرواژه جدید
 password_changed => گذرواژه تغییر یافت
-password_changed_mailed => گذرواژه تغییر کرد و به {email} فرستاده شد.
+password_changed_mailed => گذرواژه تغییر کرد و به <strong>{email}</strong> فرستاده شد.
 password_forgotten => گذرواژه‌تان را فراموش کرده‌اید؟
 password_required => لطفاً یک گذرواژه جدید تعیین کنید.
 password_reset => بازیابی گذرواژه
@@ -50,7 +50,7 @@ resetpassword => بازیابی گذرواژه
 reset_author_password => بازیابی گذرواژه نویسنده
 site_administration => کاربران
 staff_writer => عضو تحریریه
-unknown_author => نویسنده ناشناس : {name}
+unknown_author => نویسنده ناشناس : <strong>{name}</strong>
 writer => نویسنده
 your_login_info => اطلاعات ورود شما
 your_login_is => مشخصات ورود شما
@@ -562,7 +562,7 @@ you_are_editing_page => در حال ویرایش قالب صفحه هستید
 bad_plugin_code => کد پلاگین بدساختار یا خالی است.
 broken_plugin => شکسته
 changeorder => تغییر اولویت
-edit_plugin => ویرایش پلاگین {name}
+edit_plugin => ویرایش پلاگین <strong>{name}</strong>
 edit_plugins => پلاگین‌ها
 help => راهنمایی
 install => نصب
@@ -793,10 +793,10 @@ definition_list =>
 delete => پاک کن
 deleted => پاک شده
 deleted_text => متن پاک شده
-deprecated_attribute => صفت {name} نامناسب است
+deprecated_attribute => صفت <strong>{name}</strong> نامناسب است
 deprecated_configuration =>
-deprecated_function => تابع {name} نامناسب است
-deprecated_function_with => تابع {name} نامناسب است : به جای آن از {with} استفاده کنید
+deprecated_function => تابع <strong>{name}</strong> نامناسب است
+deprecated_function_with => تابع <strong>{name}</strong> نامناسب است : به جای آن از <strong>{with}</strong> استفاده کنید
 deprecated_tag => تگ نامناسب است
 download_count =>
 edit => ویرایش
@@ -835,7 +835,7 @@ image => تصویر
 imageurl => نشانی تصویر
 image_context =>
 inserted_text => متن درج‌شده
-invalid_attribute_value => مقدار {name} برای صفت مناسب نیست
+invalid_attribute_value => مقدار <strong>{name}</strong> برای صفت مناسب نیست
 keywords => کلیدواژه‌ها
 label => برچسب
 last_modification => آخرین تغییر
@@ -949,7 +949,7 @@ your_ip_is_blacklisted_by => نشانی IP شما در لیست سیاه قرا�
 you_have_been_banned => شما از نظردهی منع شده‌اید.
 yyyy-mm => yyyy-mm
 #@section
-article_count => {num} نوشته در این بخش موجود است. برای لیست کردن آن‌ها کلیک کنید
+article_count => <strong>{num}</strong> نوشته در این بخش موجود است. برای لیست کردن آن‌ها کلیک کنید
 create_section => ساخت بخش
 default_write_section => بخش انتشار پیش‌فرض
 delete_section_confirmation => تأیید پاک کردن بخش
@@ -995,7 +995,7 @@ db_doesnt_exist => پایگاه‌داده {dbname} موجود نیست و یا 
 db_must_exist => توجه داشته باشید پایگاه داده‌ای که مشخص می‌کنید باید از پیش موجود باشد. Textpattern قادر به ساخت آن نیست.
 did_it => انجام دادم →
 email_required => لطفاً یک ایمیل معتبر وارد کنید
-errors_during_install => در حین نصب {num} عدد اشکال پیش آمد. می‌توانید در تالار گفتمان Textpattern برای کمک اقدام کنید.
+errors_during_install => در حین نصب <strong>{num}</strong> عدد اشکال پیش آمد. می‌توانید در تالار گفتمان Textpattern برای کمک اقدام کنید.
 get_started => برو!
 go_to_login => وارد شوید
 installation_postamble =>
