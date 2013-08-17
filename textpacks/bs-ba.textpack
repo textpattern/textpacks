@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Proširenja
 file_context =>
 file_size =>
-foo_bar => Testiranje na postojeće podvučene probleme
 forget => Zaboraviti
 form => Formular
 forms => Formulari

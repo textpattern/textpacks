@@ -814,7 +814,6 @@ error_section_context => Tag Sezione non possono essere usati fuori dal contesto
 extensions => Estensioni
 file_context => file
 file_size => Dimensione file
-foo_bar => Test per problemi di sottolineature
 forget => Dimentica i dati
 form => Modulo
 forms => Moduli

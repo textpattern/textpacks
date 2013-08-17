@@ -814,7 +814,6 @@ error_section_context => Les balises de sections ne peuvent être utilisées en 
 extensions => Extensions
 file_context => fichier
 file_size => Poids du fichier
-foo_bar => Test d’erreur du caractère souligné
 forget => Effacer les informations mémorisées
 form => Module
 forms => Modules

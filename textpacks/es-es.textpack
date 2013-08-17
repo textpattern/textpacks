@@ -814,7 +814,6 @@ error_section_context => Las etiquetas de sección no se pueden usar fuera del c
 extensions => Extensiones
 file_context => archivo
 file_size => Tamaño del archivo
-foo_bar => Probando la función de subrayado
 forget => Olvidar
 form => Bloque
 forms => Bloques

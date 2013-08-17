@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Uzantılar
 file_context =>
 file_size =>
-foo_bar => Testing for underscores issue
 forget => Unut
 form => Form
 forms => Formlar

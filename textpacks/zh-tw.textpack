@@ -814,7 +814,6 @@ error_section_context =>
 extensions => 擴充
 file_context =>
 file_size =>
-foo_bar => Testing for underscores issue
 forget => 不要記憶
 form => 模型
 forms => 模型

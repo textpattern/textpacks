@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Liitännäiset
 file_context => tiedosto
 file_size => Tiedostokoko
-foo_bar =>
 forget => Unohda
 form => Lomake
 forms => Lomakkeet

@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Udvidelser
 file_context =>
 file_size =>
-foo_bar =>
 forget => Glem
 form => Form
 forms => Forms

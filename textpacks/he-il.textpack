@@ -814,7 +814,6 @@ error_section_context =>
 extensions => הרחבות
 file_context => קובץ
 file_size => גודל הקובץ
-foo_bar => בדיקת מקפים תחתונים
 forget => שכח
 form => טופס
 forms => טפסים

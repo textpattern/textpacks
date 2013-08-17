@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Utvidelser
 file_context =>
 file_size =>
-foo_bar =>
 forget => Glem
 form => Skjema
 forms => Skjemaer

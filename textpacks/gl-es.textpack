@@ -814,7 +814,6 @@ error_section_context =>
 extensions => engadidos
 file_context =>
 file_size =>
-foo_bar =>
 forget => Esquecer
 form => Formulario
 forms => Formularios

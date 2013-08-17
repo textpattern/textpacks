@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Επεκτάσεις
 file_context =>
 file_size =>
-foo_bar => Έλεγχος για πρόβλημα με κάτω παύλες
 forget => ξέχασε
 form => Φόρμα
 forms => Φόρμες

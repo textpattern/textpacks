@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Rozšíření
 file_context => soubor
 file_size => Velikost souboru
-foo_bar => Testování podtržítek
 forget => Zapomenout
 form => Forma
 forms => Formy

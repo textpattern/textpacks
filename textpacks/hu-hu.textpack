@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Kiterjesztések
 file_context =>
 file_size =>
-foo_bar => Az aláhúzáso cím tesztelése
 forget => Felejtsd el
 form => Sablon
 forms => Sablonok

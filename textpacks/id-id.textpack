@@ -814,7 +814,6 @@ error_section_context => Tags seksi tidak dapat dipakai di luar konteks seksi
 extensions => Ekstensi
 file_context => berkas
 file_size => Ukuran berkas
-foo_bar =>
 forget => Lupa
 form => Bentuk
 forms => Bentuk

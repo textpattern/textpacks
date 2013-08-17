@@ -814,7 +814,6 @@ error_section_context => Section tags cannot be used outside a section context
 extensions => Extensions
 file_context => file
 file_size => File size
-foo_bar => Testing for underscores issue
 forget => Forget
 form => Form
 forms => Forms

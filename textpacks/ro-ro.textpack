@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Extensii
 file_context =>
 file_size =>
-foo_bar => Se testeaza pentru probleme de underscore
 forget => Uita
 form => Form
 forms => Forms-uri

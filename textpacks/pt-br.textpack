@@ -814,7 +814,6 @@ error_section_context => Etiquetas (tags) de seção não pode ser utilizado for
 extensions => Extensões
 file_context => arquivo
 file_size => Tamanho do arquivo
-foo_bar =>
 forget => Esquecer
 form => Módulo
 forms => Módulos

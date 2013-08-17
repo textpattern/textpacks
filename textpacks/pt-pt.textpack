@@ -814,7 +814,6 @@ error_section_context => Uma marca de Secção não pode ser usado fora do conte
 extensions => Extensões
 file_context => ficheiro
 file_size => tamanho do ficheiro
-foo_bar =>
 forget => Esquecer
 form => Módulo
 forms => Módulos

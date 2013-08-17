@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Ekstenzije
 file_context =>
 file_size =>
-foo_bar => Testing for underscores issue
 forget => Zaboravi
 form => Forma
 forms => Forme

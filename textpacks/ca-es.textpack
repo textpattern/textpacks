@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Extensions
 file_context =>
 file_size =>
-foo_bar => Prova pel tema dels guions baixos
 forget => Oblida
 form => Formulari
 forms => Formularis

@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Екстензије
 file_context =>
 file_size =>
-foo_bar => Testing for underscores issue
 forget => Заборави
 form => Форма
 forms => Форме

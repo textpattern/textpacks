@@ -814,7 +814,6 @@ error_section_context => Sectietags kunnen niet buiten een sectiecontext gebruik
 extensions => Uitbreidingen
 file_context => bestand
 file_size => Betstands grootte
-foo_bar => Test voor underscore probleem
 forget => vergeet me
 form => Module
 forms => Modules

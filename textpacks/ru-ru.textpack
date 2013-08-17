@@ -814,7 +814,6 @@ error_section_context => Теги секций не могут быть испо
 extensions => Расширения
 file_context => file
 file_size => Размер файла
-foo_bar => Тестовая переменная
 forget => Забыть
 form => Форма
 forms => Формы

@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Lisad
 file_context =>
 file_size =>
-foo_bar =>
 forget => Unusta
 form => Vorm
 forms => Vormid

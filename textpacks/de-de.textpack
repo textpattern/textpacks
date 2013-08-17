@@ -814,7 +814,6 @@ error_section_context => Section-Tags können nicht außerhalb eines Sektionskon
 extensions => Erweiterung
 file_context => file
 file_size => Dateigröße
-foo_bar => Überprüfung von Problemen mit Unterstrichen
 forget => Vergessen
 form => Baustein
 forms => Bausteine

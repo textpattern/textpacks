@@ -814,7 +814,6 @@ error_section_context => Avdelnings-taggar kan inte användas utanför en avdeln
 extensions => Tillägg
 file_context => fil
 file_size => Filstorlek
-foo_bar => Testar för understrecks-skäl
 forget => Glöm
 form => Siddel
 forms => Siddelar

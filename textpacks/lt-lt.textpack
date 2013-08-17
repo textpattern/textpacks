@@ -814,7 +814,6 @@ error_section_context => Sekcijos žymės nenaudotinos už sekcijos konkteksto r
 extensions => Plėtiniai
 file_context => rinkmena
 file_size => Failo dydis
-foo_bar => Testuojama pabraukimo problema
 forget => Pamiršti
 form => Forma
 forms => Formos

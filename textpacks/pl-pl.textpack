@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Rozszerzenia
 file_context =>
 file_size =>
-foo_bar => Testing for underscores issue
 forget => Zapomnij (nie zostawiaj cookie)
 form => Forma
 forms => Formy

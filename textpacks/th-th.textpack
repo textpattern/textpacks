@@ -814,7 +814,6 @@ error_section_context =>
 extensions => ส่วนต่อขยาย
 file_context =>
 file_size =>
-foo_bar => ทดสอบเพื่อเรื่อง underscores
 forget => ลืม
 form => ฟอร์ม
 forms => ฟอร์ม

@@ -814,7 +814,6 @@ error_section_context => Sadaļu iezīmes nevar izmantot ārpus sadaļas konteks
 extensions => Paplašinājumi
 file_context => fails
 file_size => Faila izmērs
-foo_bar => Testē uzsvērto jautājumu
 forget => Aizmirst manus datus
 form => Forma
 forms => Formas

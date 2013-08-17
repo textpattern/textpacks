@@ -814,7 +814,6 @@ error_section_context =>
 extensions => Extension
 file_context =>
 file_size =>
-foo_bar => Đang kiểm tra vấn đề với dấu gạch dưới
 forget => Quên đi
 form => Form
 forms => Form

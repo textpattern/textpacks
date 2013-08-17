@@ -814,7 +814,6 @@ error_section_context => Теги секцій не можуть бути вик
 extensions => Розширення
 file_context => файл
 file_size => Розмір файлу
-foo_bar => Testing for underscores issue
 forget => Забути
 form => Шаблон
 forms => Шаблони
