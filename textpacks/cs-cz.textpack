@@ -1064,7 +1064,6 @@ match => Souvislost?
 media => Médium podle HTML
 msgcols => Sloupce v poli
 msgrows => Řádky v poli
-n => Název
 next_page_link => Odkaz na další
 no_categories_available => Neexistují kategorie.
 no_forms_available => Neexistují formy.

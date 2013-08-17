@@ -1064,7 +1064,6 @@ match => Како су повезани?
 media => Media HTML attribute
 msgcols => Message textarea columns
 msgrows => Message textarea rows
-n => Ime
 next_page_link => Следећа страница - линк
 no_categories_available => Нема доступних категорија.
 no_forms_available => Нема доступних форми.

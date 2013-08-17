@@ -1064,7 +1064,6 @@ match => Kuinka liittyvät toisiinsa?
 media => Media (HTML attribuutti)
 msgcols => Viestin tekstikentän sarakkeet
 msgrows => Viestin tekstikentän rivit
-n => Nimi
 next_page_link => Seuraavan sivun linkki
 no_categories_available => Kategorioita ei ole saatavilla.
 no_forms_available => Lomakkeita ei ole saatavilla.

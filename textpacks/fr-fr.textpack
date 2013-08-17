@@ -1064,7 +1064,6 @@ match => Quelle est leur relation ?
 media => Attribut HTML <code>media</code>
 msgcols => Nombre de colonnes de la zone de saisie des messages
 msgrows => Nombre de lignes de la zone de saisie des messages
-n => Nom
 next_page_link => Lien vers la page suivante
 no_categories_available => Pas de catégories disponibles
 no_forms_available => Pas de modules disponibles

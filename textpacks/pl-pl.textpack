@@ -1064,7 +1064,6 @@ match => Rodzaj powiązania?
 media => Atrybut Media
 msgcols => Liczba kolumn
 msgrows => Liczba wierszy
-n => Nazwa
 next_page_link => Następna strona - odsyłacz
 no_categories_available => Brak dostępnych kategorii.
 no_forms_available => Brak dostępnych form.

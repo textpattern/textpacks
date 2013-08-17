@@ -1064,7 +1064,6 @@ match => Hogyan kapcsolódnak?
 media => HTML média tulajdonság
 msgcols => Az üzenet beviteli mezőjének oszlopszáma:
 msgrows => Az üzenet beviteli mezője sorainak száma:
-n => Név
 next_page_link => Link a következő oldalra
 no_categories_available => Nincsenek elérhető kategóriák
 no_forms_available => Nincsenek elérhető sablonok.

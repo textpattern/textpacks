@@ -1064,7 +1064,6 @@ match => どのような関連性がありますか？
 media => Media HTML attribute
 msgcols => メッセージテキストエリアの高さ
 msgrows => メッセージテキストエリアの幅
-n => 名前
 next_page_link => 次のページのリンク
 no_categories_available => 有効なカテゴリがありません。
 no_forms_available => 有効なフォームがありません。

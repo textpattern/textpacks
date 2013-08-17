@@ -1064,7 +1064,6 @@ match => Kā tie ir saistīti?
 media => Media HTML atribūts
 msgcols => Ziņojuma lauka kolonnas
 msgrows => Ziņojuma lauka rindas
-n => Nosaukums
 next_page_link => Saite uz nākamo lapu
 no_categories_available => Nav pieejama neviena kategorija.
 no_forms_available => Nav pieejama neviena forma.

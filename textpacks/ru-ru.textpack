@@ -1064,7 +1064,6 @@ match => Как они связаны?
 media => Атрибут HTML: Media
 msgcols => Количество колонок в поле сообщения
 msgrows => Количество рядов в поле сообщения
-n => Имя
 next_page_link => Ссылка на следующую страницу
 no_categories_available => Нет категорий.
 no_forms_available => Нет форм.

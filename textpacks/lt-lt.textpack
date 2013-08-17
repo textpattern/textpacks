@@ -1064,7 +1064,6 @@ match => Kaip jie susiję?
 media => Media HTML atributas
 msgcols => Pranešimo tekstinio lauko stulpelių skaičius
 msgrows => Pranešimo tekstinio lauko eilučių skaičius
-n => Vardas
 next_page_link => Kito puslapio nuoroda
 no_categories_available => Nėra jokių kategorijų.
 no_forms_available => Nėra jokių formų.

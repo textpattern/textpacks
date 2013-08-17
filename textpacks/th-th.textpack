@@ -1064,7 +1064,6 @@ match => How are they related?
 media => Media HTML attribute
 msgcols => Message textarea columns
 msgrows => Message textarea rows
-n => Name
 next_page_link => ลิงก์หน้าต่อไป
 no_categories_available => No หมวดหมู่ available.
 no_forms_available => No forms available.

@@ -1064,7 +1064,6 @@ match =>
 media =>
 msgcols => Número de Colunas da área de texto da mensagem
 msgrows => Número de Linhas da área de texto da mensagem
-n =>
 next_page_link => Página Seguinte
 no_categories_available => Não há categorias disponíveis.
 no_forms_available => Não há módulos disponíveis.

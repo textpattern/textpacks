@@ -1064,7 +1064,6 @@ match => 符合
 media => HTML 的 media 屬性
 msgcols => 訊息欄寬
 msgrows => 訊息欄高
-n => 名稱
 next_page_link => 下頁連結
 no_categories_available => 沒有檔案分類.
 no_forms_available => 沒有可用的模型.

@@ -1064,7 +1064,6 @@ match => چگونه مرتبطند؟
 media => Media HTML صفت
 msgcols => ستون‌های (طول) ورودی پیام
 msgrows => سطرهای (ارتفاع) ورودی پیام
-n => نام
 next_page_link => لینک صفحه بعدی
 no_categories_available => هیچ رده‌ای موجود نیست.
 no_forms_available => هیچ فرمی موجود نیست.

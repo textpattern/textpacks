@@ -1064,7 +1064,6 @@ match => Nasıl bir ilişkiye sahiptirler?
 media => Media HTML attribute
 msgcols => İleti Sütun Sayısı
 msgrows => İleti Satır Sayısı
-n => Adı
 next_page_link => Sonraki Sayfa Bağlantısı
 no_categories_available => Kullanılabilir kategori mevcut değil.
 no_forms_available => Kullanılabilir form mevcut değil.

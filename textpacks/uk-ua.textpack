@@ -1064,7 +1064,6 @@ match => Як вони зв'язані?
 media => Media HTML атрибут
 msgcols => Количество колонок в поле сообщения
 msgrows => Количество рядов в поле сообщения
-n => Ім'я
 next_page_link => Лінк на наступну сторінку
 no_categories_available => Немає категорій.
 no_forms_available => Немає шаблонів.

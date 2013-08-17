@@ -1064,7 +1064,6 @@ match => Come sono correlati?
 media => Attributo HTML "media"
 msgcols => Colonne "textarea" messaggio
 msgrows => Righe "textarea" messaggio
-n => Nome
 next_page_link => Link Pagina Successiva
 no_categories_available => Nessuna categoria disponibile.
 no_forms_available => Nessun modulo disponibile.

@@ -1064,7 +1064,6 @@ match => Cum sunt asociate?
 media => Atributul media XTHML
 msgcols => Numarul coloanelor pentru containerul mesajului
 msgrows => Numarul randurilor pentru containerul mesajului
-n => Nume
 next_page_link => Link-ul paginii urmatoare
 no_categories_available => Nu exista categorii.
 no_forms_available => Nu exista form-uri.

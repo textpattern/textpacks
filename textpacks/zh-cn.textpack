@@ -1064,7 +1064,6 @@ match => 如何关联？
 media => Media 属性
 msgcols => 信息输入区列数
 msgrows => 信息输入区行数
-n => 名称
 next_page_link => 下一页链接
 no_categories_available => 没有分类。
 no_forms_available => 没有模块。

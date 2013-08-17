@@ -1064,7 +1064,6 @@ match => Bagaimana mereka terkait?
 media => Atribut HTML untuk media
 msgcols => Kolom untuk textarea pesan
 msgrows => Baris untuk textarea pesan
-n => Nama
 next_page_link => Tautan halaman berikutnya
 no_categories_available => Kategori tidak tersedia.
 no_forms_available => Bentuk tidak tersedia.
