@@ -43,7 +43,7 @@ foreach ($files as $file)
         $out[] = trim($line);
     }
 
-    file_put_contents($file, implode("\n", $out));
+    file_put_contents($file, implode("\n", $out) . "\n");
 }
 
 echo "Iterated over ".count($files)." textpacks.\n";

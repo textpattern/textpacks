@@ -148,17 +148,20 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
 
             $contents = file_get_contents($file->getPathname());
 
-            $this->assertTrue(trim($contents) === $contents, "{$lang}: trailing whitespace");
+            $this->assertTrue(ltrim($contents) === $contents, "{$lang}: starting whitespace");
             $this->assertTrue(mb_check_encoding($contents, 'UTF-8'), "{$lang}: not UTF-8");
             $this->assertTrue(strpos($contents, "\r") === false, "{$lang}: not using linefeed");
 
-            foreach (explode("\n", $contents) as $n => $line)
+            $lines = explode("\n", $contents);
+
+            foreach ($lines as $n => $line)
             {
                 $n++;
                 $this->assertTrue(trim($line) === $line, "{$lang}: trailing whitespace on line {$n}");
-                $this->assertTrue(trim($line) !== '', "{$lang}: line {$n} is empty");
+                $this->assertTrue(!isset($lines[$n]) || trim($line) !== '', "{$lang}: line {$n} is empty");
             }
 
+            $this->assertTrue($line === '', "{$lang}: missing linefeed at the end");
             $this->assertEquals(self::$lines, $n, "{$lang}: unexpected number of lines");
         }
     }
