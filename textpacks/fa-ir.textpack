@@ -280,7 +280,7 @@ viewsite => نمایش سایت
 view_per_page => نمایش {page} در هر صفحه
 visible => نمایان
 with_selected => با انتخاب شده‌ها:
-with_selected_option => انتخاب‌شده‌ها را ...
+with_selected_option => انتخاب‌شده‌ها را…
 #@css
 add_declaration => افزودن اعلان
 add_new_selector => افزودن گزینشگر (selector) جدید
@@ -745,7 +745,7 @@ category1 => رده ۱
 category2 => رده ۲
 change => تغییر
 check_html => تست HTML
-choose => انتخاب...
+choose => انتخاب…
 citation => نقل قول
 comments => نظرات
 comments_closed => امکان نظردهی برای این نوشته وجود ندارد.

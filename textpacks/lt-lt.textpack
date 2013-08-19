@@ -280,7 +280,7 @@ viewsite => Peržiūrėti svetainę
 view_per_page => Rodyti {page} puslapyje
 visible => Matomas
 with_selected => Pažymėtą:
-with_selected_option => Su pažymėtu...
+with_selected_option => Su pažymėtu…
 #@css
 add_declaration => pridėti aprašą
 add_new_selector => Pridėti naują selektorių
@@ -966,7 +966,7 @@ admin_theme => Administratoriaus svetainės tema
 already_installed => Atrodo, kad Textpattern jau yra įdiegtas. Jei norite atlikti švarų diegimą, prašome pašalinti <code>config.php</code> iš jūsų <code>/textpattern/</code> katalogo ir bandyti iš naujo.
 back => ← Atgal
 before_you_proceed => Norint pradėti
-checking_database => Tikrinamas ryšys su duomenų baze...
+checking_database => Tikrinamas ryšys su duomenų baze…
 choose_password => Pasirinkite slaptažodį
 config_php_does_not_match_input => <code>config.php</code> turinys neatitinka jūsų įvestų reikšmių. Prašome nukopijuoti ir įdėti žemiau nurodytą tekstą.
 config_php_not_found => Konfigūracijos failas nebuvo rastas numatytoje vietoje <strong>{file}</strong>. Prašom patikrinti jo egzistavimą dar kartą.

@@ -280,7 +280,7 @@ viewsite => Ver sitio
 view_per_page => Ver {page} por página
 visible => Visible
 with_selected => Con selección:
-with_selected_option => Acción a aplicar...
+with_selected_option => Acción a aplicar…
 #@css
 add_declaration => Añadir declaración
 add_new_selector => Añadir nuevo selector
@@ -536,7 +536,7 @@ referrer => Remitente
 visitor_logs => Registro de visitantes
 #@page
 all_pages => Todas las páginas
-copy_page_as => ... o copiar página como
+copy_page_as => …o copiar página como
 create_new_page => Crear una página nueva
 delete_page_confirmation => confirma el borrado de la página
 edit_page => modificar página
@@ -966,7 +966,7 @@ admin_theme => Tema de interfaz de administración
 already_installed => Parece que Textpattern ya está instalado. Si quieres realizar una instalación limpia, por favor, elimina <code>config.php</code> de tu directorio <code>/textpattern/</code> e inténtalo de nuevo.
 back => ← Atrás
 before_you_proceed => Antes de proceder
-checking_database => Comprobando la conexión a la base de datos...
+checking_database => Comprobando la conexión a la base de datos…
 choose_password => Elige una contraseña
 config_php_does_not_match_input => Los contenidos de <code>config.php</code> no coinciden con los valores que has introducido. Por favor, pega a continuación el texto exacto.
 config_php_not_found => No se ha encontrado el archivo de configuración en el lugar esperado <strong>{file}</strong>. Por favor, comprueba de nuevo que existe.

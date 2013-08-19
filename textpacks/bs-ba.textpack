@@ -536,7 +536,7 @@ referrer => Referal
 visitor_logs => Dnevnici posjetilaca
 #@page
 all_pages => Sve stranice
-copy_page_as => ...ili iskopiraj stranu kao
+copy_page_as => …ili iskopiraj stranu kao
 create_new_page => Kreiraj novu stranu
 delete_page_confirmation => Potvrdite brisanje strane
 edit_page => Ispravljanje stranice

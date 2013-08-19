@@ -536,7 +536,7 @@ referrer => Rujukan
 visitor_logs => Catatan Pengunjung
 #@page
 all_pages => Semua Halaman
-copy_page_as => ...atau, salin sebagai
+copy_page_as => …atau, salin sebagai
 create_new_page =>
 delete_page_confirmation => konfirmasi penghapusan halaman
 edit_page => edit halaman
@@ -966,7 +966,7 @@ admin_theme =>
 already_installed => Sepertinya Textpattern sudah terinstal. Jika Anda ingin membuat instalasi baru, silakan hapus <code>config.php</code> dari direktori <code>/textpattern/</code> Anda dan coba lagi.
 back =>
 before_you_proceed => Sebelum Anda memproses
-checking_database => Cek koneksi basis data...
+checking_database => Cek koneksi basis data…
 choose_password => Pilihlah sandi lewat
 config_php_does_not_match_input =>
 config_php_not_found =>
