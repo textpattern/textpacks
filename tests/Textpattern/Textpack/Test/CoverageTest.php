@@ -73,7 +73,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
      * @var string
      */
 
-    static private $regexInvisible = '/[\p{Cc}\p{Zp}\p{Zl}\x{00a0}\x{202f}\x{200b}\x{200B}]/u';
+    static private $regexInvisible = '/[\p{Cc}\p{Zp}\p{Zl}\x{202f}\x{200b}\x{200B}]/u';
 
     /**
      * {@inheritdoc}
