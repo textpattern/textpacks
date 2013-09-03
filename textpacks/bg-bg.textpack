@@ -1137,7 +1137,7 @@ tag_home => Начало
 tag_if_category => Ако е категория
 tag_if_section => Ако е секция
 tag_image => Изображение
-tag__inline_ => Inline at end
+tag__inline => Inline at end
 tag_lang => Език
 tag_link => Само връзка
 tag_linkdesctitle => Връзка, title=Описание
