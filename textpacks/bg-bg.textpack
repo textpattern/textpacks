@@ -280,7 +280,7 @@ viewsite => Към сайта
 view_per_page => Виж {page} на страница
 visible => Видим
 with_selected => избраните:
-with_selected_option => С избраното..
+with_selected_option => С избраното…
 #@css
 add_declaration => Добави правило
 add_new_selector => Добави селектор
