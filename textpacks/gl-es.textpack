@@ -287,7 +287,6 @@ add_new_selector => Engadir novo selector
 all_stylesheets => Todas as follas de estilo
 bulkload_existing_css => Crear ou cargar unha nova folla de estilos CSS
 cannot_delete_default_css => A folla de estilos CSS por defecto non pode borrarse
-copy_css_as => Copiar a folla de estilos CSS como:
 create_new_css => Crear unha nova folla de estilos CSS
 css_already_exists =>
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Guardar este selector
 selector => Selector
 style_sheet => Folla de estilos CSS
 style_sheet_saved => Folla de estilos CSS gardada
-you_are_editing_css => Estas editando a folla de estilos CSS
 #@diag
 active_plugins =>
 all_checks_passed => ¡Toda-las comprobacións pasadas!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Erro ó tratar de reiniciar o contador de descargas
 reset_file_count_success => O contador de descargas reiniciouse
 #@form
-all_forms => Todos os formularios
 changetype =>
 create_new_form => Crear un novo formulario
 delete_form_confirmation => confirma borrar o formulario
@@ -459,7 +456,6 @@ form_type => Tipo de formulario (requerido)
 form_type_missing =>
 form_updated =>
 list_forms => lista de formularios
-you_are_editing_form => Estás editando un formulario
 #@image
 add_magnify_icon =>
 alt_text => Texto alternativo
@@ -536,7 +532,6 @@ referrer => Referentes
 visitor_logs => rexistro de visitantes
 #@page
 all_pages => Tóda-las páxinas
-copy_page_as => Copiar páxina como:
 create_new_page =>
 delete_page_confirmation => confirma o borrado da páxina
 edit_page => modificar páxinas
@@ -557,7 +552,6 @@ page_updated =>
 page_used_by_section =>
 page_xml_hed => Sumarios XML
 you_are_editing_div => Estás a editar un DIV
-you_are_editing_page => Estas a editar o plantel
 #@plugin
 bad_plugin_code => Código do engadido vacío ou erroneo
 broken_plugin => Roto
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Idioma Activo
 admin_side_plugins => ¿Usar engadidos administrativos?
-advanced_preferences => Preferencias avanzadas
 allow_article_php_scripting => ¿Permitir PHP nos artigos?
 allow_form_override => ¿Permitir sobreescritura de formularios?
 allow_page_php_scripting => ¿Permitir PHP nas páxinas?

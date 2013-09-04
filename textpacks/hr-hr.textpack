@@ -287,7 +287,6 @@ add_new_selector => Dodaj novi selektor
 all_stylesheets => Svi stilovi
 bulkload_existing_css => Napravi ili unesi novi stil
 cannot_delete_default_css => Stil <strong>default</strong> se ne može izbrisati.
-copy_css_as => …or copy style as
 create_new_css => Napravi novi stil
 css_already_exists => Stylesheet <strong>{name}</strong> već postoji.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Spremi ovaj selektor
 selector => Selektor
 style_sheet => CSS Stil
 style_sheet_saved => CSS stil spremljen
-you_are_editing_css => Vi uređivate stilove
 #@diag
 active_plugins => Aktivni plugini
 all_checks_passed => Sve kontrole uspješne!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Neuspjevam resetirati brojač datoteka
 reset_file_count_success => Brojač datoteka, uspješno resetiran
 #@form
-all_forms => Sve forme
 changetype =>
 create_new_form => Napravi novu formu
 delete_form_confirmation => potvrdi brisanje forme
@@ -459,7 +456,6 @@ form_type => Tip (obvezno)
 form_type_missing => Nedostaje tip forme
 form_updated => Forma <strong>{name}</strong> obnovljena.
 list_forms => lista formi
-you_are_editing_form => Vi uređivate formu
 #@image
 add_magnify_icon => Povećalo
 alt_text => Alternativni tekst
@@ -536,7 +532,6 @@ referrer => Referrer
 visitor_logs => Logovi Posjetitelja
 #@page
 all_pages => Sve stranice
-copy_page_as => …ili, kopiraj stranicu kao
 create_new_page => Napravi novu stranicu
 delete_page_confirmation => potvrdi brisanje stranice
 edit_page => uredi stranicu
@@ -557,7 +552,6 @@ page_updated => Stranica <strong>{name}</strong> osvježena.
 page_used_by_section =>
 page_xml_hed => XML Feedovi
 you_are_editing_div => Vi uređivate div
-you_are_editing_page => Vi uređivate predložak stranice
 #@plugin
 bad_plugin_code => Loše formatiran ili neispravan kod plugina.
 broken_plugin => puknut
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Trenutno aktivni jezik
 admin_side_plugins => Koristi admin-side plugine?
-advanced_preferences => Napredno
 allow_article_php_scripting => Dozvoli PHP u unosima?
 allow_form_override => Dozvoli zanemarivanje forme?
 allow_page_php_scripting => Dozvoli PHP u stranicama?

@@ -287,7 +287,6 @@ add_new_selector => Tambah selektor baru
 all_stylesheets => Semua Style
 bulkload_existing_css => Buat atau panggil style baru
 cannot_delete_default_css => Style <strong>baku</strong> tidak dapat dihapus
-copy_css_as => …atau salin style sebagai
 create_new_css => Buat style baru
 css_already_exists =>
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Simpan selektor ini
 selector => Selektor
 style_sheet => Style sheet
 style_sheet_saved => Style disimpan
-you_are_editing_css => Anda mengedit style
 #@diag
 active_plugins =>
 all_checks_passed => Semua pengecekan sukses!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Gagal menata ulang hitungan berkas
 reset_file_count_success => Sukses menata ulang hitungan berkas
 #@form
-all_forms => Semua bentuk
 changetype => Ubah tipe
 create_new_form => Buat bentuk baru
 delete_form_confirmation => konfirmasi penghapusan bentuk
@@ -459,7 +456,6 @@ form_type => Tipe (diperlukan)
 form_type_missing =>
 form_updated =>
 list_forms => daftar bentuk
-you_are_editing_form => Anda sedang mengedit bentuk
 #@image
 add_magnify_icon => Suryakanta
 alt_text => Teks Alt
@@ -536,7 +532,6 @@ referrer => Rujukan
 visitor_logs => Catatan Pengunjung
 #@page
 all_pages => Semua Halaman
-copy_page_as => …atau, salin sebagai
 create_new_page =>
 delete_page_confirmation => konfirmasi penghapusan halaman
 edit_page => edit halaman
@@ -557,7 +552,6 @@ page_updated =>
 page_used_by_section => Halaman <strong>{name}</strong> tidak dihapus; terpakai oleh {count} seksi.
 page_xml_hed => Umpan XML
 you_are_editing_div => Anda sedang mengedit div
-you_are_editing_page => Anda sedang mengedit templat halaman
 #@plugin
 bad_plugin_code => Salah bentuk atau kode plugin kosong.
 broken_plugin => rusak
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Bahasa yang sedang aktif
 admin_side_plugins => Gunakan plugin sisi admin?
-advanced_preferences => Lanjutan
 allow_article_php_scripting => Biarkan PHP di artikel?
 allow_form_override => Biarkan penimpaan bentuk?
 allow_page_php_scripting => Biarkan PHP di halaman?

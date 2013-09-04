@@ -287,7 +287,6 @@ add_new_selector => Ajouter un sélecteur
 all_stylesheets => Toutes les feuilles de styles
 bulkload_existing_css => Créer ou charger une nouvelle feuille de styles
 cannot_delete_default_css => La feuille de styles par <strong>défaut</strong> ne peut être supprimée.
-copy_css_as => …ou copier la feuille de styles sous le nom :
 create_new_css => Créer une nouvelle feuille de styles
 css_already_exists => Une feuille de styles CSS du nom <strong>{name}</strong> existe déjà.
 css_code => Code source du style CSS :
@@ -316,7 +315,6 @@ save_this_selector => Enregistrer ce sélecteur
 selector => Sélecteur
 style_sheet => Feuille de styles
 style_sheet_saved => Feuille de styles enregistrée
-you_are_editing_css => Édition de la feuille de styles CSS en cours :
 #@diag
 active_plugins => Plugins actifs
 all_checks_passed => Toutes les vérifications sont OK !
@@ -443,7 +441,6 @@ reset_download_count => Réinitialiser le compteur de téléchargements
 reset_file_count_failure => Impossible de remettre à zéro le nombre de téléchargements
 reset_file_count_success => Remise à zéro du nombre de téléchargements effectuée
 #@form
-all_forms => Liste des modules
 changetype => Changer de type
 create_new_form => Créer un nouveau module
 delete_form_confirmation => confirmer la suppression du module
@@ -459,7 +456,6 @@ form_type => Type de module (requis)
 form_type_missing => Il manque le type du module
 form_updated => Module <strong>{name}</strong> mis à jour.
 list_forms => afficher les modules
-you_are_editing_form => Édition du module en cours :
 #@image
 add_magnify_icon => Loupe
 alt_text => Texte alternatif
@@ -536,7 +532,6 @@ referrer => Référent
 visitor_logs => Journal d’activités des visiteurs
 #@page
 all_pages => Tous les gabarits
-copy_page_as => …ou copier le gabarit sous le nom :
 create_new_page => Créer un nouveau gabarit
 delete_page_confirmation => confirmer la suppression du gabarit
 edit_page => Modifier le gabarit
@@ -557,7 +552,6 @@ page_updated => Gabarit <strong>{name}</strong> mis à jour.
 page_used_by_section => Le module <strong>{name}</strong> n’a pas été effacé car il est utilisé par {count} section(s).
 page_xml_hed => Flux XML
 you_are_editing_div => Édition du div en cours :
-you_are_editing_page => Édition du gabarit en cours :
 #@plugin
 bad_plugin_code => Le code source du plugin est invalide ou absent.
 broken_plugin => défaillant
@@ -585,7 +579,6 @@ verify_plugin => Vérifiez le plugin
 #@prefs
 active_language => Langue actuelle :
 admin_side_plugins => Utiliser les plugins administratifs ?
-advanced_preferences => Options avancées
 allow_article_php_scripting => Autoriser l’usage de PHP dans les articles ?
 allow_form_override => Autoriser l’usage du module de remplacement par article ?
 allow_page_php_scripting => Autoriser l’usage de PHP dans les gabarits ?

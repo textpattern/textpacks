@@ -287,7 +287,6 @@ add_new_selector => ایک نیا سیلکٹر اضافہ کریں
 all_stylesheets => تمام سٹائل
 bulkload_existing_css => ایک نیا سٹائل بناۓ یا لوڈ کریں
 cannot_delete_default_css => سٹائل <strong>default</strong> کا حذف کرنا ناممکن
-copy_css_as => …یا سٹائل کو اس نام سے
 create_new_css => ایک نیا طرز بناۓ
 css_already_exists => سٹائل <strong>{name}</strong> پہلے سے موجود ہے
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => یہ سلیکٹر محفوظ کریں
 selector => سلیکٹر
 style_sheet => سٹائل شیٹ
 style_sheet_saved => سٹائل شیٹ محفوظ کیا
-you_are_editing_css => آپ یہ سٹائل تدوین کر رہے ہیں
 #@diag
 active_plugins => فعال‏ پلگ ان
 all_checks_passed => تمام ‏تجزیہ پاس ہوئے !
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => فائل گنتی پھر سیٹ کرنے میں ناکامی
 reset_file_count_success => فائل گنتی کامیابی سے پھر سیٹ کیا
 #@form
-all_forms => تمام فارم
 changetype =>
 create_new_form => ایک نیا فارم بناۓ
 delete_form_confirmation => فارم (form) کو حذف کرنے کی تصدیق کریں
@@ -459,7 +456,6 @@ form_type => قسم (‏لازمی‏)
 form_type_missing => فارم کی قسم خالی نہیں رہ سٹکی
 form_updated => فارم <strong>{name}</strong> تازہ کیا
 list_forms => list forms
-you_are_editing_form => آپ یہ فارم تدوین کر رہے ہیں
 #@image
 add_magnify_icon => Magnifier
 alt_text => ‏مختلف‏ عنوان
@@ -536,7 +532,6 @@ referrer => کہاں سے آے
 visitor_logs => نظریں کے سرگمی
 #@page
 all_pages => تمام صفحات
-copy_page_as => یا صفہ کو اس نام سے نقل کریں…
 create_new_page => ایک نیا صفہ بناۓ
 delete_page_confirmation => صفہ حذف کرنے کی تصدیق کریں
 edit_page => صفہ تدوین کریں
@@ -557,7 +552,6 @@ page_updated => صفہ <strong>{name}</strong> تازہ کیا
 page_used_by_section => صفہ <strong>{name}</strong> حذف نہیں کیا; {count} منتخب اشیا اس کا استمعال کر رہے ہیں
 page_xml_hed => XML Feeds
 you_are_editing_div => آپ یہ div تدوین کر رہے ہیں
-you_are_editing_page => آپ یہ صفہ ٹیمپلیٹ تدوین کر رہے ہیں
 #@plugin
 bad_plugin_code => خالی کوڈ یا پلگ ان کے کوڈ مے گڑبڑی
 broken_plugin => شکستہ
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => فعال زبان
 admin_side_plugins => کیا انتظامی پلگ ان (admin-plugins) استمعال کریں ؟
-advanced_preferences => اعلٰی ترجیحات
 allow_article_php_scripting => کیا مضامین میں PHP کی اجازت ہے ؟
 allow_form_override => کیا فارم (Form) زیر کرنے کی اجازت ہے ؟
 allow_page_php_scripting => کیا صفحات (Pages) میں PHP کی اجازت ہے ؟

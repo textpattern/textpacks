@@ -287,7 +287,6 @@ add_new_selector => Új elválasztó hozzáadása
 all_stylesheets => Stíluslapok
 bulkload_existing_css => Új stíluslap betöltése vagy létrehozása
 cannot_delete_default_css => Az alapétrtelmezett stíluslap nem törölhető
-copy_css_as => Stíluslap másolása, mint:
 create_new_css => Új stíluslap létrehozása
 css_already_exists => A <strong>{name}</strong> nevű stíluslap már létezik
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Kiválasztó mentése
 selector => Kiválasztó
 style_sheet => Stíluslap
 style_sheet_saved => A stíluslap elmentve!
-you_are_editing_css => Jelenleg a következő stíluslapot szerkeszted:
 #@diag
 active_plugins => Aktív bővítmények
 all_checks_passed => Minden ellenőrzés teljesítve!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Az állomány számláló újraindítása nem sikerült
 reset_file_count_success => Az állomány számláló újraindítása sikerült
 #@form
-all_forms => Sablonok
 changetype =>
 create_new_form => Új sablon létrehozása
 delete_form_confirmation => sablon törlés megerősítése
@@ -459,7 +456,6 @@ form_type => Sablon típusa (kötelező megadni)
 form_type_missing => A sablon típusa nincs megadva
 form_updated => A(z) <strong>{name}</strong> sablon frissítve.
 list_forms => sablonok listája
-you_are_editing_form => Te a következő sablont szerkeszted
 #@image
 add_magnify_icon => Nagyítás
 alt_text => Alternatív szöveg
@@ -536,7 +532,6 @@ referrer => Hivatkozások
 visitor_logs => látogatók naplózása
 #@page
 all_pages => Minden oldal
-copy_page_as => Oldal másolása mint:
 create_new_page => Új oldal létrehozása
 delete_page_confirmation => oldal törlés megerősítése
 edit_page => oldal szerkesztése
@@ -557,7 +552,6 @@ page_updated => A(z) <strong>{name}</strong> lap frissítve.
 page_used_by_section => Az oldal <strong>{name}</strong> törlése nem lehetséges; {count} szekció használja.
 page_xml_hed => XML csatornák
 you_are_editing_div => Te div-et szerkesztesz
-you_are_editing_page => Te az oldal sablonját szerkeszted
 #@plugin
 bad_plugin_code => Rosszul formázott vagy üres plugin kód
 broken_plugin => rossz
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Jelenleg aktív nyelvi környezet
 admin_side_plugins => Akarsz használni admin-oldali pluginokat?
-advanced_preferences => Részletes beállítások
 allow_article_php_scripting => Meg akarod engedni a PHP használatát a cikkekben?
 allow_form_override => Megengeded a formok megsemmisítését?
 allow_page_php_scripting => Meg akarod engedni a PHP használatát az oldalakban?

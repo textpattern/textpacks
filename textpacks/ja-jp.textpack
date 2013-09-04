@@ -287,7 +287,6 @@ add_new_selector => セレクターの追加
 all_stylesheets => 全てのスタイルシート
 bulkload_existing_css => 新しい CSS を作成または読み込む
 cannot_delete_default_css => CSS <strong>default</strong> を削除できません
-copy_css_as => スタイルシートのコピー先：
 create_new_css => CSS の新規作成
 css_already_exists => CSS <strong>{name}</strong> は既に存在します。
 css_code => CSS コード
@@ -316,7 +315,6 @@ save_this_selector => このセレクターを保存する
 selector => セレクター
 style_sheet => スタイルシート
 style_sheet_saved => スタイルシートは保存されました
-you_are_editing_css => 編集中のスタイル：
 #@diag
 active_plugins => 有効なプラグイン
 all_checks_passed => システムチェックは全て正常!
@@ -443,7 +441,6 @@ reset_download_count => ダウンロード数をリセット
 reset_file_count_failure => ファイルカウントのリセットに失敗しました
 reset_file_count_success => ファイルカウントのリセットに成功しました
 #@form
-all_forms => 全てのフォーム
 changetype => タイプの変更
 create_new_form => フォームの新規作成
 delete_form_confirmation => フォーム削除の確認
@@ -459,7 +456,6 @@ form_type => フォームタイプ (必須)
 form_type_missing => フォームタイプが未入力です。
 form_updated => フォーム <strong>{name}</strong> は更新されました。
 list_forms => フォームの表示
-you_are_editing_form => 編集中のフォーム
 #@image
 add_magnify_icon => 拡大
 alt_text => 代替テキスト
@@ -536,7 +532,6 @@ referrer => レファラ
 visitor_logs => 訪問者ログ
 #@page
 all_pages => 全てのページ
-copy_page_as => ページのコピー先:
 create_new_page => ページの新規作成
 delete_page_confirmation => ページ削除の承認
 edit_page => ページの編集
@@ -557,7 +552,6 @@ page_updated => ページ <strong>{name}</strong>は更新されました。
 page_used_by_section => ページ <strong>{name}</strong> を削除出来ませんでした。{count} 個のセクションで使用されています。
 page_xml_hed => XMLフィード
 you_are_editing_div => 編集中のdiv
-you_are_editing_page => 編集中のテンプレート
 #@plugin
 bad_plugin_code => 不完全または空のプラグイン。
 broken_plugin => 破損
@@ -585,7 +579,6 @@ verify_plugin => プラグインの検証
 #@prefs
 active_language => 現在の言語設定
 admin_side_plugins => 管理画面のプラグインを使用しますか？
-advanced_preferences => 詳細設定
 allow_article_php_scripting => PHPを記事内で許可しますか？
 allow_form_override => フォームの上書きを許可しますか？
 allow_page_php_scripting => PHPをページ内で許可しますか？

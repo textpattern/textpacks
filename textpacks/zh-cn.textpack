@@ -287,7 +287,6 @@ add_new_selector => 新增选择器
 all_stylesheets => 全部样式表
 bulkload_existing_css => 建立或载入新样式表
 cannot_delete_default_css => 不可删除默认样式表
-copy_css_as => …或复制样式表为
 create_new_css => 建立新样式表
 css_already_exists => 样式表 <strong>{name}</strong> 已存在。
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => 保存这个选择器
 selector => 选择器
 style_sheet => 样式表
 style_sheet_saved => 样式表已保存
-you_are_editing_css => 正在编辑 CSS
 #@diag
 active_plugins => 启用的插件
 all_checks_passed => 全部检查通过！
@@ -443,7 +441,6 @@ reset_download_count => 重置密码次数
 reset_file_count_failure => 重置文件计数失败
 reset_file_count_success => 重置文件计数成功
 #@form
-all_forms => 全部模块
 changetype =>
 create_new_form => 建立新模块
 delete_form_confirmation => 确认删除模块
@@ -459,7 +456,6 @@ form_type => 模块类型（必填）
 form_type_missing => 未指定模块类型
 form_updated => 模块 <strong>{name}</strong> 已更新。
 list_forms => 模块列表
-you_are_editing_form => 正在编辑模块
 #@image
 add_magnify_icon => 放大
 alt_text => 备用文字
@@ -536,7 +532,6 @@ referrer => 反向链接
 visitor_logs => 访问记录
 #@page
 all_pages => 全部页面
-copy_page_as => 或复制页面为：
 create_new_page => 建立新页面
 delete_page_confirmation => 确认删除页面
 edit_page => 编辑页面
@@ -557,7 +552,6 @@ page_updated => 页面 <strong>{name}</strong> 已更新。
 page_used_by_section => 页面 <strong>{name}</strong> 没有被删除；还有 {count} 个版块在使用它。
 page_xml_hed => XML Feeds
 you_are_editing_div => 正在编辑 div
-you_are_editing_page => 正在编辑页面模版
 #@plugin
 bad_plugin_code => 插件代码错误或空白。
 broken_plugin => 损坏
@@ -585,7 +579,6 @@ verify_plugin => 验证插件
 #@prefs
 active_language => 当前启用的语言
 admin_side_plugins => 使用管理端插件？
-advanced_preferences => 高级
 allow_article_php_scripting => 允许在文章中使用 PHP？
 allow_form_override => 允许模块覆盖？
 allow_page_php_scripting => 允许在页面中使用 PHP？

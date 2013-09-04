@@ -287,7 +287,6 @@ add_new_selector => Pridėti naują selektorių
 all_stylesheets => Visi stiliai
 bulkload_existing_css => Sukurti arba įkelti naują stilių
 cannot_delete_default_css => <strong>Numatytojo</strong> stiliaus negalima pašalinti.
-copy_css_as => …arba kopijuoti stilių į
 create_new_css => Sukurti naują stilių
 css_already_exists => Toks stilius <strong>{name}</strong> jau egzistuoja.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Išsaugoti šį selektorių
 selector => Selektorius
 style_sheet => Stiliaus lapas
 style_sheet_saved => Stiliaus lapas išsaugotas
-you_are_editing_css => Jūs redaguotaje stilių
 #@diag
 active_plugins => Aktyvūs papildiniai
 all_checks_passed => Visi patikrinimai praėjo!
@@ -443,7 +441,6 @@ reset_download_count => Išvalyti atsiuntimų skaičių
 reset_file_count_failure => Nepavyko atkurti rinkmenų skaičiaus
 reset_file_count_success => Sėkmingai atkurtas rinkmenų skaičius
 #@form
-all_forms => Visos formos
 changetype => Pakeisti tipą
 create_new_form => Sukurti naują formą
 delete_form_confirmation => patvirtinti formos pašalinimą
@@ -459,7 +456,6 @@ form_type => Tipas (būtinas)
 form_type_missing => Trūksta formos tipo
 form_updated => Forma <strong>{name}</strong> atnaujinta.
 list_forms => pateikti formų sąrašą
-you_are_editing_form => Jūs redaguojate formą
 #@image
 add_magnify_icon => Didintuvas
 alt_text => Alternatyvus tekstas
@@ -536,7 +532,6 @@ referrer => Užklausų šaltiniai
 visitor_logs => Lankytojų žurnalai
 #@page
 all_pages => Visi puslapiai
-copy_page_as => …arba kopijuoti kaip
 create_new_page => Sukurti naują puslapį
 delete_page_confirmation => patvirtinti puslapio pašalinimą
 edit_page => redaguoti puslapį
@@ -557,7 +552,6 @@ page_updated => Puslapis <strong>{name}</strong> atnaujintas.
 page_used_by_section => Puslapis <strong>{name}</strong> nepašalintas; naudojamas {count} sekcijoje(se).
 page_xml_hed => XML padavimai
 you_are_editing_div => Jūs redaguojate div
-you_are_editing_page => Jūs redaguojate puslapio šabloną
 #@plugin
 bad_plugin_code => Blogai suformuotas arba tuščias papildinio kodas.
 broken_plugin => klaidingas
@@ -585,7 +579,6 @@ verify_plugin => Patikrinti įskiepį
 #@prefs
 active_language => Šiuo metu aktyvi kalba
 admin_side_plugins => Ar naudoti administravimo pusės papildinius?
-advanced_preferences => Papildomos
 allow_article_php_scripting => Leisti naudoti PHP straipsniuose?
 allow_form_override => Leisti formos keitimą?
 allow_page_php_scripting => Leisti naudoti PHP puslapiuose?

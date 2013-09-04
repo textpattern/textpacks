@@ -287,7 +287,6 @@ add_new_selector => Προσθήκη νέου επιλογέα
 all_stylesheets => Όλα τα φύλλα στυλ
 bulkload_existing_css => Δημιουργία ή μεταφόρτωση νέου CSS
 cannot_delete_default_css => Το προκαθορισμένο στυλ (<strong>default</strong>) δεν είναι δυνατό να διαγραφεί.
-copy_css_as => Αντιγραφή του CSS ως:
 create_new_css => Δημιουργία νέου CSS
 css_already_exists => Το φύλλο στυλ <strong>{name}</strong> ήδη υπάρχει.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Αποθήκευση αυτού του επιλογέα
 selector => Επιλογέας
 style_sheet => Φύλλο στυλ
 style_sheet_saved => Το φύλλο στυλ αποθηκεύτηκε
-you_are_editing_css => Επεξεργάζεστε το CSS
 #@diag
 active_plugins => Ενεργά αρθρώματα
 all_checks_passed => Όλοι οι έλεγχοι ολοκληρώθηκαν με επιτυχία!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Αποτυχία μηδενισμού μετρητή μεταφορτώσεων
 reset_file_count_success => Ο μετρητής μεταφορτώσεων μηδενίστηκε με επιτυχία
 #@form
-all_forms => Όλες οι φόρμες
 changetype =>
 create_new_form => Δημιουργία νέας φόρμας
 delete_form_confirmation => επιβεβαίωση διαγραφής φόρμας
@@ -459,7 +456,6 @@ form_type => Τύπος φόρμας (απαραίτητος)
 form_type_missing => Δεν έχει προσδιοριστεί ο τύπος της φόρμας
 form_updated => Η φόρμα <strong>{name}</strong> ενημερώθηκε.
 list_forms => Λίστα φορμών
-you_are_editing_form => Επεξεργάζεστε τη φόρμα
 #@image
 add_magnify_icon =>
 alt_text => Εναλλακτικό κείμενο
@@ -536,7 +532,6 @@ referrer => Επίσκεψη από άλλο ιστότοπο
 visitor_logs => μητρώα επισκέψεων
 #@page
 all_pages => Όλες οι σελίδες
-copy_page_as => Αντιγραφή της σελίδας ως:
 create_new_page => Δημιουργία νέας σελίδας
 delete_page_confirmation => επιβεβαίωση διαγραφής σελίδας
 edit_page => επεξεργασία σελίδας
@@ -557,7 +552,6 @@ page_updated => Η σελίδα <strong>{name}</strong> ενημερώθηκε.
 page_used_by_section => Η Σελίδα <strong>{name}</strong> δεν διεγράφη; Χρησιμοποιείται από {count} τομείς.
 page_xml_hed => Τροφοδοσίες XML
 you_are_editing_div => Επεξεργάζεστε το div
-you_are_editing_page => Επεξεργάζεστε το πρότυπο σελίδας
 #@plugin
 bad_plugin_code => O πηγαίος κώδικας του αρθρώματος είναι άκυρος ή άδειος
 broken_plugin => σφάλμα
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Ενεργή γλώσσα
 admin_side_plugins => Χρήση αρθρωμάτων περιοχής διαχείρισης
-advanced_preferences => Προχωρημένες ρυθμίσεις
 allow_article_php_scripting => Δυνατότητα χρήσης PHP μέσα σε άρθρα
 allow_form_override => Δυνατότητα παράκαμψης προκαθορισμένης φόρμας
 allow_page_php_scripting => Δυνατότητα χρήσης PHP μέσα σε πρότυπα σελίδων

@@ -287,7 +287,6 @@ add_new_selector => Tilføj ny selector
 all_stylesheets => Alle stilark
 bulkload_existing_css => Opret eller indlæs ny CSS
 cannot_delete_default_css => CSS <strong>standard</strong> kan ikke slettes.
-copy_css_as => …eller opier stilark som
 create_new_css => Opret ny CSS
 css_already_exists => CSS <strong>{name}</strong> findes allerede.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Gem denne selector
 selector => Selector
 style_sheet => Style sheet
 style_sheet_saved => Style sheet gemt
-you_are_editing_css => Du redigerer CSS
 #@diag
 active_plugins => Aktive plugins
 all_checks_passed => Alle checks er fundet ok!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Mislykkedes at nulstille download-antal
 reset_file_count_success => Nulstillet download-antal
 #@form
-all_forms => Alle forms
 changetype =>
 create_new_form => Opret ny form
 delete_form_confirmation => bekræft sletning af form
@@ -459,7 +456,6 @@ form_type => Form type (påkrævet)
 form_type_missing => Form type mangler
 form_updated => Form <strong>{name}</strong> opdateret.
 list_forms => list forms
-you_are_editing_form => Du redigerer form
 #@image
 add_magnify_icon => Forstørrelse
 alt_text => Alternativ tekst
@@ -536,7 +532,6 @@ referrer => Referer
 visitor_logs => Log over besøgende
 #@page
 all_pages => Alle sider
-copy_page_as => Kopier side som:
 create_new_page => Opret ny side
 delete_page_confirmation => bekræft sletning af side
 edit_page => rediger side
@@ -557,7 +552,6 @@ page_updated => Siden <strong>{name}</strong> blev opdateret.
 page_used_by_section => Side <strong>{name}</strong> ikke slettet; bruges af {count} afsnit.
 page_xml_hed => XML feeds
 you_are_editing_div => Du redigerer div
-you_are_editing_page => Du redigerer sideskabelon
 #@plugin
 bad_plugin_code => Dårligt udformet eller tom pluginkode.
 broken_plugin => defekt
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Nuværende aktive sprog
 admin_side_plugins => Brug administrations plugins?
-advanced_preferences => Avanceret
 allow_article_php_scripting => Tillad PHP i artikler?
 allow_form_override => Tillad at tilsidesætte forme?
 allow_page_php_scripting => Tillad PHP på sider?

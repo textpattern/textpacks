@@ -287,7 +287,6 @@ add_new_selector => Afegeix nou selector
 all_stylesheets => Tots els fulls d’estil
 bulkload_existing_css => Crea o carrega un full CSS nou
 cannot_delete_default_css => El full CSS predeterminat no es pot esborrar
-copy_css_as => Còpia el full d’estil amb el nom:
 create_new_css => Crea un nou full d’estil CSS
 css_already_exists => El full d’estil <strong>{name}</strong> ja existeix
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Desa aquest selector
 selector => Selector
 style_sheet => Full d’estil
 style_sheet_saved => S’ha desat el full d’estil
-you_are_editing_css => Estàs editant el full CSS
 #@diag
 active_plugins => Plugins actius
 all_checks_passed => Totes les comprovacions correctes!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Error en intentar reiniciar el comptador de descàrregues
 reset_file_count_success => S’ha restablert el recompte de fitxers
 #@form
-all_forms => Tots els formularis
 changetype =>
 create_new_form => Crea nou formulari
 delete_form_confirmation => confirma per esborrar el formulari
@@ -459,7 +456,6 @@ form_type => Tipus de formulari (necessari)
 form_type_missing => No s’ha especificat el tipus de formulari
 form_updated => S’ha actualitzat el formulari <strong>{name}</strong>.
 list_forms => Llista de formularis
-you_are_editing_form => Estàs modificant un formulari
 #@image
 add_magnify_icon =>
 alt_text => Text alternatiu
@@ -536,7 +532,6 @@ referrer => Referents
 visitor_logs => Registre de visites
 #@page
 all_pages => Totes les pàgines
-copy_page_as => Còpia pàgina com:
 create_new_page => Crea pàgina nova
 delete_page_confirmation => Confirma per esborrar la pàgina
 edit_page => Modifica pàgines
@@ -557,7 +552,6 @@ page_updated => S’ha actualitzat la pàgina <strong>{name}</strong>.
 page_used_by_section => No s’ha esborrat la pàgina <strong>{name}</strong> perquè hi ha {count} secció/seccions que l’utilitzen.
 page_xml_hed => Feeds XML
 you_are_editing_div => Estàs editant un DIV
-you_are_editing_page => Estàs editant la plantilla
 #@plugin
 bad_plugin_code => Codi del plugin buit o mal format
 broken_plugin => Trencat
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Idioma actiu
 admin_side_plugins => Utilitzar els plugins administratius?
-advanced_preferences => Preferències avançades
 allow_article_php_scripting => Permetre PHP en els articles?
 allow_form_override => Permetre la sobreescritura de formularis?
 allow_page_php_scripting => Permetre PHP en les pàgines?

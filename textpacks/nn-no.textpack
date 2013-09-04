@@ -287,7 +287,6 @@ add_new_selector => Legg til ny selektor
 all_stylesheets => Alle stilsett
 bulkload_existing_css => Opprett eller last inn ny CSS
 cannot_delete_default_css => Standard stilsett - kan ikke slettes.
-copy_css_as => …eller kopier stilsett som:
 create_new_css => Opprett ny CSS
 css_already_exists =>
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Lagre denne selektoren
 selector => Selektor
 style_sheet => Stilark
 style_sheet_saved => Stilsett lagret
-you_are_editing_css => Du endrer stilarket
 #@diag
 active_plugins => Aktive programtillegg
 all_checks_passed => Alle sjekker ok!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure =>
 reset_file_count_success =>
 #@form
-all_forms => Alle skjemaer
 changetype =>
 create_new_form => Opprett nytt skjema
 delete_form_confirmation => bekreft fjerning av skjema
@@ -459,7 +456,6 @@ form_type => Type (påkrevd)
 form_type_missing =>
 form_updated =>
 list_forms => vis liste over skjemaer
-you_are_editing_form => Du endrer skjema
 #@image
 add_magnify_icon =>
 alt_text => Alt text
@@ -536,7 +532,6 @@ referrer => Henviser
 visitor_logs => besøkslogger
 #@page
 all_pages => Alle sider
-copy_page_as => Kopier side som:
 create_new_page => Lag ny side
 delete_page_confirmation => bekreft fjerning av side
 edit_page => endre side
@@ -557,7 +552,6 @@ page_updated =>
 page_used_by_section => Siden <strong>{name}</strong> ble ikke slettet da den er brukt av {count} seksjon(er).
 page_xml_hed => XML feeds
 you_are_editing_div => Du endrer div
-you_are_editing_page => Du endrer side
 #@plugin
 bad_plugin_code => Feildefinert eller tom programtilleggskode
 broken_plugin => ødelagt
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Språk i bruk
 admin_side_plugins =>
-advanced_preferences => Avansert
 allow_article_php_scripting => Tillat PHP i artikler?
 allow_form_override => Tillat overstyring av skjemaer?
 allow_page_php_scripting => Tillat PHP i sider?

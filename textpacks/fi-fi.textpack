@@ -287,7 +287,6 @@ add_new_selector => Lisää uusi valitsin
 all_stylesheets => Kaikki tyylisivut
 bulkload_existing_css => Luo tai lataa uusi tyylisivu
 cannot_delete_default_css => Oletustyylisivua ei voi poistaa
-copy_css_as => Kopioi tyylisivu nimellä:
 create_new_css => Luo uusi tyylisivu
 css_already_exists => Tyylisivu <strong>{name}</strong> on jo olemassa.
 css_code => Tyylisivun koodi
@@ -316,7 +315,6 @@ save_this_selector => Tallenna tämä valitsin
 selector => Valitsin
 style_sheet => Tyylisivu
 style_sheet_saved => Tyylisivu tallennettu
-you_are_editing_css => Muokkaat tyylisivua
 #@diag
 active_plugins => Aktiiviset liitännäiset
 all_checks_passed => Kaikki testit läpäistiin!
@@ -443,7 +441,6 @@ reset_download_count => Nollaa latauslaskuri
 reset_file_count_failure => Tiedostolaskurin nollaus epäonnistui
 reset_file_count_success => Tiedostolaskurin nollaus onnistui
 #@form
-all_forms => Kaikki lomakkeet
 changetype => Muuta tyyppi
 create_new_form => Luo uusi lomake
 delete_form_confirmation => vahvista lomakkeen poisto
@@ -459,7 +456,6 @@ form_type => Lomakkeen tyyppi
 form_type_missing => Lomakkeen tyyppi puuttuu.
 form_updated => Lomake <strong>{name}</strong> muutettu.
 list_forms => listaa lomakkeet
-you_are_editing_form => Olet muokkaamassa lomaketta
 #@image
 add_magnify_icon => Lisää suurennusikoni
 alt_text => Alt-teksti
@@ -536,7 +532,6 @@ referrer => Viittaaja
 visitor_logs => Vierailijaloki
 #@page
 all_pages => Kaikki sivut
-copy_page_as => …tai kopioi sivu nimellä:
 create_new_page => Luo uusi sivu
 delete_page_confirmation => vahvista sivun poisto
 edit_page => muokkaa sivua
@@ -557,7 +552,6 @@ page_updated => Sivupohja <strong>{name}</strong> muutettu.
 page_used_by_section => Sivua <strong>{name}</strong> ei poistettu; se on käytössä {count} osiossa.
 page_xml_hed => XML-syötteet
 you_are_editing_div => Olet muokkaamassa div:iä
-you_are_editing_page => Olet muokkaamassa sivupohjaa
 #@plugin
 bad_plugin_code => Liitännäisen koodi on väärän muotoinen tai tyhjä
 broken_plugin => viallinen
@@ -585,7 +579,6 @@ verify_plugin => Varmista liitännäinen
 #@prefs
 active_language => Tällä hetkellä käytössä oleva kieli
 admin_side_plugins => Käytä admin-puolen liitännäisiä?
-advanced_preferences => Lisäasetukset
 allow_article_php_scripting => Salli PHP artikkeleissa?
 allow_form_override => Salli erilaisen lomakkeen käyttö yksittäisessä artikkelissa?
 allow_page_php_scripting => Salli PHP sivupohjissa?

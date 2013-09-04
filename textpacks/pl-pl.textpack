@@ -287,7 +287,6 @@ add_new_selector => Dodaj nowy selektor
 all_stylesheets => Arkusze stylów:
 bulkload_existing_css => Utwórz/wczytaj arkusz stylów
 cannot_delete_default_css => Domyślny arkusz stylów nie może zostać usunięty
-copy_css_as => Kopiuj arkusz stylów jako:
 create_new_css => Utwórz nowy arkusz stylów
 css_already_exists => Arkusz stylów <strong>{name}</strong> już istnieje.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Zapisz ten selektor
 selector => Selektor
 style_sheet => Arkusz stylów
 style_sheet_saved => Arkusz stylów zapisany
-you_are_editing_css => Edytowany arkusz stylów:
 #@diag
 active_plugins => Aktywne pluginy
 all_checks_passed => Nie wykryto żadnych błędów!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Zerowanie licznika pobrań nie powiodło się
 reset_file_count_success => Licznik pobrań został wyzerowany
 #@form
-all_forms => Wszystkie formy
 changetype =>
 create_new_form => Utwórz nową formę
 delete_form_confirmation => na pewno usunąć formę?
@@ -459,7 +456,6 @@ form_type => Typ formy (wymagany)
 form_type_missing => Nie zdefiniowano rodzaju formy
 form_updated => Forma <strong>{name}</strong> została uaktualniona.
 list_forms => spis form
-you_are_editing_form => Edytujesz formę
 #@image
 add_magnify_icon => Dodać ikonę powiększenia?
 alt_text => Tekst alternatywny
@@ -536,7 +532,6 @@ referrer => Odsyłacz
 visitor_logs => logi odwiedzin
 #@page
 all_pages => Wszystkie strony
-copy_page_as => Kopiuj stronę jako:
 create_new_page => Utwórz nową stronę
 delete_page_confirmation => na pewno usunąć stronę?
 edit_page => edytuj stronę
@@ -557,7 +552,6 @@ page_updated => Strona <strong>{name}</strong> została uaktualniona.
 page_used_by_section => Strona <strong>{name}</strong> nie została usunięta. Aktualnie przypisana do {count} sekcji.
 page_xml_hed => Kanały XML
 you_are_editing_div => Edytujesz blok div
-you_are_editing_page => Edytujesz szablon strony
 #@plugin
 bad_plugin_code => Błąd w kodzie lub brak kodu pluginu.
 broken_plugin => uszkodzony
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Aktualnie używany język
 admin_side_plugins => Używać pluginów dla administracji?
-advanced_preferences => Ustawienia zaawansowane
 allow_article_php_scripting => Czy kod PHP jest dozwolony w artykułach?
 allow_form_override => Nadpisywanie form dozwolone?
 allow_page_php_scripting => Czy kod PHP jest dozwolony na stronach?

@@ -287,7 +287,6 @@ add_new_selector => Dodaj novi izbor
 all_stylesheets => Svi stilovi
 bulkload_existing_css => Kreiraj ili ubaci novi stil
 cannot_delete_default_css => Stil <strong>default</strong> ne može biti obrisan.
-copy_css_as => …ili kopiraj stil kao
 create_new_css => Kreiraj novi stil
 css_already_exists => Dokument sa stilovina <strong>{name}</strong> već postoji.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Snimi ovaj odabir
 selector => Odabir
 style_sheet => Stil dokument
 style_sheet_saved => Stil dokument snimljen
-you_are_editing_css => Isprvljate stil
 #@diag
 active_plugins => Aktivni dodaci
 all_checks_passed => Sve provjere uspješne!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Neuspješan pokušaj poništavanja brojača datoteke
 reset_file_count_success => Uspješno poništavanje brojača datoteke
 #@form
-all_forms => Svi formulari
 changetype =>
 create_new_form => Kreiraj nofi formular
 delete_form_confirmation => Potvrdite brisanje formulara
@@ -459,7 +456,6 @@ form_type => Tip (obavezan)
 form_type_missing => Tip formulara nedostaje
 form_updated => Formular <strong>{name}</strong> ažuriran.
 list_forms => spisak formulara
-you_are_editing_form => Ispravljate formular
 #@image
 add_magnify_icon => Povećalo
 alt_text => Alternativni tekst
@@ -536,7 +532,6 @@ referrer => Referal
 visitor_logs => Dnevnici posjetilaca
 #@page
 all_pages => Sve stranice
-copy_page_as => …ili iskopiraj stranu kao
 create_new_page => Kreiraj novu stranu
 delete_page_confirmation => Potvrdite brisanje strane
 edit_page => Ispravljanje stranice
@@ -557,7 +552,6 @@ page_updated => Strana <strong>{name}</strong> ažurirana.
 page_used_by_section => Strana <strong>{name}</strong> nije obrisana; koristi se u {count} sekciji(sekcijama).
 page_xml_hed => XML Feeds
 you_are_editing_div => Ispravljate razdjelnik
-you_are_editing_page => Ispravljate predložak strane
 #@plugin
 bad_plugin_code => Loše formatiran ili prazan kod za dodatak.
 broken_plugin => pokidan
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Trenutni aktivni jezik
 admin_side_plugins => Koristi administratorske dodatke?
-advanced_preferences => Napredno
 allow_article_php_scripting => Dozvoli PHP u člancima?
 allow_form_override => Dozvoli zaobilaženje formulara?
 allow_page_php_scripting => Dozvoli PHP u stranicama?

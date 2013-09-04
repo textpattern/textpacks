@@ -287,7 +287,6 @@ add_new_selector => Lägg till väljare
 all_stylesheets => Alla stilmallar
 bulkload_existing_css => Skapa eller läs in ny stilmall
 cannot_delete_default_css => Standard-CSS-filen kan inte raderas
-copy_css_as => …eller kopiera stilmall som
 create_new_css => Skapa ny stilmall
 css_already_exists => Stilmallen <strong>{name}</strong> finns redan.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Spara denna väljare
 selector => Väljare
 style_sheet => Stilmall
 style_sheet_saved => Stilmall sparad
-you_are_editing_css => Du redigerar stilmallen
 #@diag
 active_plugins => Aktiva plugins
 all_checks_passed => Alla kontroller passerade utan problem!
@@ -443,7 +441,6 @@ reset_download_count => Nollställ nedladdningsräknare
 reset_file_count_failure => Misslyckades att nollställa nedladdningsräknaren
 reset_file_count_success => Nedladdningsräknaren nollställd
 #@form
-all_forms => Alla siddelar
 changetype =>
 create_new_form => Skapa ny siddel
 delete_form_confirmation => bekräfta radering av siddel
@@ -459,7 +456,6 @@ form_type => Siddelens typ (obligatorisk)
 form_type_missing => Siddelens typ saknas
 form_updated => Siddelen <strong>{name}</strong> uppdaterades.
 list_forms => Lista siddelar
-you_are_editing_form => Du redigerar siddelen
 #@image
 add_magnify_icon => Förstoring
 alt_text => Alternativtext
@@ -536,7 +532,6 @@ referrer => Hänvisad från
 visitor_logs => Besökslogg
 #@page
 all_pages => Alla sidor
-copy_page_as => …eller kopiera sidmall som:
 create_new_page => Skapa ny sidmall
 delete_page_confirmation => bekräfta radering av sidmall
 edit_page => redigera sidmall
@@ -557,7 +552,6 @@ page_updated => Sidmallen <strong>{name}</strong> uppdaterades.
 page_used_by_section => Sidmallen <strong>{name}</strong> raderades inte eftersom den användas av {count} avdelningar.
 page_xml_hed => XML-strömmar
 you_are_editing_div => Du redigerar div-en
-you_are_editing_page => Du redigerar sidmallen
 #@plugin
 bad_plugin_code => Felaktigt utformad eller tom plugin-kod.
 broken_plugin => trasig
@@ -585,7 +579,6 @@ verify_plugin => Verifiera plugin
 #@prefs
 active_language => Aktivt språk
 admin_side_plugins => Använd admin-plugins?
-advanced_preferences => Avancerade
 allow_article_php_scripting => Tillåt PHP-script i artiklar?
 allow_form_override => Tillåt att åsidosätta siddelar?
 allow_page_php_scripting => Tillåt PHP-script i sidmallar?

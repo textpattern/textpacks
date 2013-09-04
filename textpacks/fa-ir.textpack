@@ -287,7 +287,6 @@ add_new_selector => افزودن گزینشگر (selector) جدید
 all_stylesheets => همه استایل‌ها
 bulkload_existing_css => ساخت یا بارگذاری یک استایل جدید
 cannot_delete_default_css => استایل <strong>پیش‌فرض</strong> نمی‌تواند پاک گردد.
-copy_css_as => … و یا استایل کپی شود در
 create_new_css => ساخت استایل جدید
 css_already_exists => شیوه‌نامه <strong>{name}</strong> از پیش موجود است.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => ذخیره این گزینشگر
 selector => گزینشگر
 style_sheet => شیوه‌نامه
 style_sheet_saved => شیوه‌نامه ذخیره شد
-you_are_editing_css => در حال ویرایش استایل هستید
 #@diag
 active_plugins => پلاگین‌های فعال
 all_checks_passed => تمام آزمون‌ها موفق بود!
@@ -443,7 +441,6 @@ reset_download_count => بازنشانی شمارنده‌ی دانود
 reset_file_count_failure => ناتوانی در بازنشانی شمارنده‌ی فایل
 reset_file_count_success => بازنشانی شمارنده‌ی فایل با موفقیت انجام شد
 #@form
-all_forms => تمامی فرم‌ها
 changetype => تغییر نوع
 create_new_form => ساخت فرم جدید
 delete_form_confirmation => تأیید حذف فرم
@@ -459,7 +456,6 @@ form_type => نوع (لازم است)
 form_type_missing => نوع فرم مشخص نشده است
 form_updated => فرم <strong>{name}</strong> بهنگام شد.
 list_forms => لیست‌کردن فرم‌ها
-you_are_editing_form => در حال ویرایش فرم هستید
 #@image
 add_magnify_icon => ذره‌بین
 alt_text => متن جایگزین
@@ -536,7 +532,6 @@ referrer => ارجاع‌دهنده
 visitor_logs => گزارش بازدیدکنندگان
 #@page
 all_pages => تمام صفحات
-copy_page_as => و یا صفحه کپی شود در
 create_new_page => ساخت صفحه نو
 delete_page_confirmation => تأیید حذف صفحه
 edit_page => ویرایش صفحه
@@ -557,7 +552,6 @@ page_updated => صفحه <strong>{name}</strong> بهنگام شد.
 page_used_by_section => صفحه <strong>{name}</strong> پاک نشد چرا که {count} صفحه از آن استفاده می‌کنند.
 page_xml_hed => فیدها
 you_are_editing_div => شما در حال ویرایش div هستید
-you_are_editing_page => در حال ویرایش قالب صفحه هستید
 #@plugin
 bad_plugin_code => کد پلاگین بدساختار یا خالی است.
 broken_plugin => شکسته
@@ -585,7 +579,6 @@ verify_plugin => تایید پلاگین
 #@prefs
 active_language => زبان فعال
 admin_side_plugins => از پلاگین‌های سمت مدیر استفاده شود؟
-advanced_preferences => پیشرفته
 allow_article_php_scripting => استفاده از PHP در نوشته‌ها مجاز باشد؟
 allow_form_override => تحریف فرم مجاز باشد؟
 allow_page_php_scripting => استفاده از PHP در صفحات مجاز باشد؟

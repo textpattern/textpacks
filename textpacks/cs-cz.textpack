@@ -287,7 +287,6 @@ add_new_selector => Nový selektor
 all_stylesheets => Všechny styly
 bulkload_existing_css => Přidat nový styl
 cannot_delete_default_css => Výchozí styl “default” nelze odstranit
-copy_css_as => Zkopírovat styl jako
 create_new_css => Vytvořit nový styl
 css_already_exists => Styl <strong>{name}</strong> již existuje.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Uložit selektor
 selector => Selektor
 style_sheet => Styl
 style_sheet_saved => Styl uložen
-you_are_editing_css => Upravuješ styl
 #@diag
 active_plugins => Aktivní pluginy
 all_checks_passed => Všechny kontroly proběhly!
@@ -443,7 +441,6 @@ reset_download_count => Vynulovat počet stažení
 reset_file_count_failure => Počítadlo nebylo možno vynulovat
 reset_file_count_success => Počítadlo vynulováno
 #@form
-all_forms => Všechny formy
 changetype =>
 create_new_form => Nová forma
 delete_form_confirmation => Opravdu odstranit formu
@@ -459,7 +456,6 @@ form_type => Druh (povinný)
 form_type_missing => Chybí typ formy
 form_updated => Forma <strong>{name}</strong> upravena.
 list_forms => výpis forem
-you_are_editing_form => Upravuješ formu
 #@image
 add_magnify_icon => Lupa
 alt_text => Alternativní text
@@ -536,7 +532,6 @@ referrer => Odkazující server
 visitor_logs => Záznamy návštěv
 #@page
 all_pages => Všechny stránky
-copy_page_as => …nebo zkopírovat jako
 create_new_page => Vytvořit novou stránku
 delete_page_confirmation => potvrdit odstranění stránky
 edit_page => upravit stránku
@@ -557,7 +552,6 @@ page_updated => Stránka <strong>{name}</strong> upravena.
 page_used_by_section => Stránka <strong>{name}</strong> nebyla odstraněna; používá ji alespoň jedna rubrika.
 page_xml_hed => Prameny XML
 you_are_editing_div => Upravuješ oddíl
-you_are_editing_page => Upravuješ stránku
 #@plugin
 bad_plugin_code => Chybný nebo prázdný kód pluginu.
 broken_plugin => chybný
@@ -585,7 +579,6 @@ verify_plugin => Ověřit plugin
 #@prefs
 active_language => Nastavený jazyk
 admin_side_plugins => Používat pluginy pro správu?
-advanced_preferences => Pokročilá nastavení
 allow_article_php_scripting => Používat PHP v článcích?
 allow_form_override => Povolit ruční volbu forem?
 allow_page_php_scripting => Používat PHP na stránkách?

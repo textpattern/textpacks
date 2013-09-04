@@ -287,7 +287,6 @@ add_new_selector => Add new selector
 all_stylesheets => All styles
 bulkload_existing_css => Create or load new style
 cannot_delete_default_css => Style <strong>default</strong> cannot be deleted.
-copy_css_as => …or copy style as
 create_new_css => Create new style
 css_already_exists => Style <strong>{name}</strong> already exists.
 css_code => Style code
@@ -316,7 +315,6 @@ save_this_selector => Save this selector
 selector => Selector
 style_sheet => Style sheet
 style_sheet_saved => Style saved
-you_are_editing_css => You are editing style
 #@diag
 active_plugins => Active plugins
 all_checks_passed => All checks passed!
@@ -443,7 +441,6 @@ reset_download_count => Reset download count
 reset_file_count_failure => Failed to reset file count
 reset_file_count_success => Successfully reset file count
 #@form
-all_forms => All forms
 changetype => Change type
 create_new_form => Create new form
 delete_form_confirmation => confirm form deletion
@@ -459,7 +456,6 @@ form_type => Form type
 form_type_missing => Form type is missing
 form_updated => Form <strong>{name}</strong> updated.
 list_forms => list forms
-you_are_editing_form => You are editing form
 #@image
 add_magnify_icon => Magnifier
 alt_text => Alternate text
@@ -536,7 +532,6 @@ referrer => Referrer
 visitor_logs => Visitor logs
 #@page
 all_pages => All pages
-copy_page_as => …or copy page as
 create_new_page => Create new page
 delete_page_confirmation => confirm page deletion
 edit_page => edit page
@@ -557,7 +552,6 @@ page_updated => Page <strong>{name}</strong> updated.
 page_used_by_section => Page <strong>{name}</strong> not deleted; used by {count} section(s).
 page_xml_hed => XML feeds
 you_are_editing_div => You are editing div
-you_are_editing_page => You are editing page template
 #@plugin
 bad_plugin_code => Badly formed or empty plugin code.
 broken_plugin => broken
@@ -585,7 +579,6 @@ verify_plugin => Verify plugin
 #@prefs
 active_language => Currently active language
 admin_side_plugins => Use admin-side plugins?
-advanced_preferences => Advanced
 allow_article_php_scripting => Allow PHP in articles?
 allow_form_override => Allow form override?
 allow_page_php_scripting => Allow PHP in pages?

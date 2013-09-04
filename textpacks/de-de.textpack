@@ -287,7 +287,6 @@ add_new_selector => Neuen Selektor hinzufügen
 all_stylesheets => Alle Stilvorlagen
 bulkload_existing_css => Neue Stilvorlage erstellen
 cannot_delete_default_css => Die Stilvorlage <strong>default</strong> kann nicht gelöscht werden.
-copy_css_as => Kopiere Stilvorlage als:
 create_new_css => Neue Stilvorlage erstellen
 css_already_exists => Stilvorlage <strong>{name}</strong> existiert bereits.
 css_code => Stilvorlage
@@ -316,7 +315,6 @@ save_this_selector => Diesen Selektor speichern
 selector => Selektor
 style_sheet => Stilvorlage
 style_sheet_saved => Stilvorlage gespeichert
-you_are_editing_css => Sie bearbeiten die Stilvorlage
 #@diag
 active_plugins => Aktive Plugins
 all_checks_passed => Alle Untersuchungen abgeschlossen!
@@ -443,7 +441,6 @@ reset_download_count => Download-Zähler zurücksetzen
 reset_file_count_failure => Download-Zähler zurücksetzen fehlgeschlagen
 reset_file_count_success => Download-Zähler erfolgreich zurückgesetzt
 #@form
-all_forms => Alle Bausteine
 changetype => Typ ändern
 create_new_form => Neuen Baustein erstellen
 delete_form_confirmation => Löschen des Bausteins bestätigen
@@ -459,7 +456,6 @@ form_type => Bausteintyp (benötigt)
 form_type_missing => Der Typ des Bausteins fehlt.
 form_updated => Baustein <strong>{name}</strong> aktualisiert.
 list_forms => Bausteine auflisten
-you_are_editing_form => Sie bearbeiten den Baustein
 #@image
 add_magnify_icon => Lupe
 alt_text => Alternativtext
@@ -536,7 +532,6 @@ referrer => Referrer
 visitor_logs => Besuchsprotokolle
 #@page
 all_pages => Alle Seitenvorlagen
-copy_page_as => Kopiere Seitenvorlage als:
 create_new_page => Neue Seitenvorlage anlegen
 delete_page_confirmation => Löschen der Seitenvorlage bestätigen
 edit_page => Seitenvorlage bearbeiten
@@ -557,7 +552,6 @@ page_updated => Seitenvorlage <strong>{name}</strong> aktualisiert.
 page_used_by_section => Seite <strong>{name}</strong> wurde nicht gelöscht. Sie wird von {count} Section(s) verwendet.
 page_xml_hed => XML-Feeds
 you_are_editing_div => In Bearbeitung: DIV
-you_are_editing_page => In Bearbeitung: Seitenvorlage
 #@plugin
 bad_plugin_code => Defekter oder leerer Plugin-Code
 broken_plugin => defekt
@@ -585,7 +579,6 @@ verify_plugin => Plugin-Vorschau
 #@prefs
 active_language => Aktuell verwendete Sprache
 admin_side_plugins => Adminplugins verwenden?
-advanced_preferences => Erweiterte Einstellungen
 allow_article_php_scripting => PHP in Artikeln erlauben?
 allow_form_override => Bausteine überschreiben erlauben?
 allow_page_php_scripting => PHP in Seiten erlauben?

@@ -287,7 +287,6 @@ add_new_selector => เพิ่ม Selector
 all_stylesheets => สไตล์ชีททั้งหมด
 bulkload_existing_css => สร้างหรือโหลด CSS
 cannot_delete_default_css => ไม่สามารถลบค่าปริยายของ CSS ได้
-copy_css_as => คัดลอกสไตล์ชีทเป็น:
 create_new_css => สร้าง CSS ใหม่
 css_already_exists => มีสไตล์ชีทที่ชื่อ <strong>{name}</strong> เดิมอยู่แล้ว
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => บันทึก selector นี้
 selector => Selector
 style_sheet => สไตล์ชีท
 style_sheet_saved => บันทึกสไตล์ชีทแล้ว
-you_are_editing_css => คุณกำลังแก้ CSS
 #@diag
 active_plugins => Active plugins
 all_checks_passed => All checks passed!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => ตั้งค่าจำนวนดาวน์โหลดใหม่ ไม่สำเร็จ
 reset_file_count_success => ตั้งค่าจำนวนดาวน์โหลดใหม่ สำเร็จ
 #@form
-all_forms => ฟอร์มทั้งหมด
 changetype =>
 create_new_form => สร้างฟอร์มใหม่
 delete_form_confirmation => ยืนยันการลบฟอร์ม
@@ -459,7 +456,6 @@ form_type => ประเภทฟอร์ม (ต้องกรอก)
 form_type_missing => ไม่ได้ระบุประเภทฟอร์ม
 form_updated => ปรับปรุงฟอร์ม <strong>{name}</strong> แล้ว
 list_forms => แสดงรายการฟอร์ม
-you_are_editing_form => คุณกำลังแก้ฟอร์ม
 #@image
 add_magnify_icon =>
 alt_text => ข้อความแทนภาพ
@@ -536,7 +532,6 @@ referrer => ผู้แนะนำมา
 visitor_logs => บันทึกผู้เยี่ยม
 #@page
 all_pages => หน้าทั้งหมด
-copy_page_as => คัดลอกหน้าเป็น:
 create_new_page => สร้างหน้าใหม่
 delete_page_confirmation => ยืนยันการลบหน้า
 edit_page => แก้ไขหน้า
@@ -557,7 +552,6 @@ page_updated => ปรับปรุงหน้า <strong>{name}</strong> แ
 page_used_by_section =>
 page_xml_hed => XML Feed
 you_are_editing_div => คุณกำลังแก้ div
-you_are_editing_page => คุณกำลังแก้แม่แบบหน้า
 #@plugin
 bad_plugin_code => โค้ดของปลั๊กอินว่างเปล่าหรือใช้งานไม่ได้
 broken_plugin => เสียหาย
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => ภาษาที่กำลังใช้
 admin_side_plugins => ใช้ส่วนต่อเติมสำหรับหน้าผู้ดูแล?
-advanced_preferences => ตัวเลือกระดับสูง
 allow_article_php_scripting => ใช้ PHP ในบทความ?
 allow_form_override => อนุญาตให้ใช้ฟอร์มทดแทน?
 allow_page_php_scripting => ใช้ PHP ในหน้า?

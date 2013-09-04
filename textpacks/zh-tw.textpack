@@ -287,7 +287,6 @@ add_new_selector => 新增CSS選擇器(selector)
 all_stylesheets => 所有樣式表
 bulkload_existing_css => 建立或上傳新的樣式表
 cannot_delete_default_css => 不可刪除預設樣式表
-copy_css_as => 複製樣式表為:
 create_new_css => 建立新的樣式表
 css_already_exists => 樣式表 <strong>{name}</strong> 已存在。
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => 儲存這份CSS判斷規則(selector)
 selector => CSS判斷規則(selector)
 style_sheet => 樣式表
 style_sheet_saved => 樣式表(Style sheet)已儲存
-you_are_editing_css => 目前編輯的 CSS
 #@diag
 active_plugins => 啟用外掛
 all_checks_passed => 全部檢查通過!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => 檔案計數重設失敗
 reset_file_count_success => 成功清除檔案計數
 #@form
-all_forms => 所有模型
 changetype =>
 create_new_form => 建立新模型
 delete_form_confirmation => 模型刪除確認
@@ -459,7 +456,6 @@ form_type => 模型類型 (必填)
 form_type_missing => 遺失模型類型
 form_updated => 已更新模型 <strong>{name}</strong>.
 list_forms => 模型列表
-you_are_editing_form => 現正編輯模型
 #@image
 add_magnify_icon =>
 alt_text => 替代文字(alt)
@@ -536,7 +532,6 @@ referrer => 逆向連結
 visitor_logs => 訪客記錄
 #@page
 all_pages => 所有頁面
-copy_page_as => 複製頁面為:
 create_new_page => 建立新頁面
 delete_page_confirmation => 確認頁面刪除
 edit_page => 編輯頁面
@@ -557,7 +552,6 @@ page_updated => 完成更新頁面 <strong>{name}</strong>.
 page_used_by_section =>
 page_xml_hed => XML Feeds
 you_are_editing_div => 您正在編輯 div
-you_are_editing_page => 您正在編輯頁面模版:
 #@plugin
 bad_plugin_code => 外掛程式碼錯誤或空白
 broken_plugin => 不完整
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => 目前語系
 admin_side_plugins => 啟用管理介面外掛？
-advanced_preferences => 網站進階設定
 allow_article_php_scripting => 允許在文章中使用PHP？
 allow_form_override => 允許覆蓋模型？
 allow_page_php_scripting => 允許在頁面中使用PHP？

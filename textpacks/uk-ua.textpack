@@ -287,7 +287,6 @@ add_new_selector => додати новий селектор
 all_stylesheets => Всі стилі
 bulkload_existing_css => Створити або завантажити новий CSS
 cannot_delete_default_css => CSS стиль <strong>default</strong> не може бути видалений.
-copy_css_as => …копіювати таблицю стилів як
 create_new_css => Створити новий CSS
 css_already_exists => CSS <strong>{name}</strong> вже існує.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Зберегти цей селектор
 selector => Селектор
 style_sheet => Таблиця стилів
 style_sheet_saved => Таблиця стилів збережена
-you_are_editing_css => Ви редагуєте CSS
 #@diag
 active_plugins => Активні модулі
 all_checks_passed => Перевірка закінчена!
@@ -443,7 +441,6 @@ reset_download_count => Скинути лічильник завантажень
 reset_file_count_failure => Не вдалося скинути кількість файлів
 reset_file_count_success => Рахунок файлів успішно скинут
 #@form
-all_forms => Всі шаблони
 changetype => Зміна типу
 create_new_form => Створити новий шаблон
 delete_form_confirmation => підтвердить видалення шаблона
@@ -459,7 +456,6 @@ form_type => Тип шаблона (обов'язково)
 form_type_missing => Не встановлено тип шаблона.
 form_updated => Оновлено шаблон <strong>{name}</strong>.
 list_forms => список шаблонів
-you_are_editing_form => Ви редагуєте шаблон
 #@image
 add_magnify_icon => Лупа
 alt_text => Alt текст
@@ -536,7 +532,6 @@ referrer => Referrer
 visitor_logs => Логи відвідувань
 #@page
 all_pages => Всі сторінки
-copy_page_as => …або копіювати сторінку як
 create_new_page => Створити нову сторінку
 delete_page_confirmation => підтвердить видалення сторінки
 edit_page => редагувати сторінку
@@ -557,7 +552,6 @@ page_updated => Сторінка <strong>{name}</strong> оновлена.
 page_used_by_section => Сторінка <strong>{name}</strong> не видалена, оскільки використовується {count} розділами.
 page_xml_hed => XML Feeds
 you_are_editing_div => Ви редагуєте div
-you_are_editing_page => Ви редагуєте шаблон сторінки
 #@plugin
 bad_plugin_code => Погано оформлений або пустий код модуля
 broken_plugin => не працює
@@ -585,7 +579,6 @@ verify_plugin => Перевірка плагіна
 #@prefs
 active_language => Поточна мова
 admin_side_plugins => Використовувати модулі, які впливають на адмін панель?
-advanced_preferences => Розширені налаштування
 allow_article_php_scripting => Дозволити PHP в статтях?
 allow_form_override => Дозволити змінювати шаблон подання статті?
 allow_page_php_scripting => Дозволити PHP в сторінках?

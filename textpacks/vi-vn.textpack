@@ -287,7 +287,6 @@ add_new_selector => Thêm selector mới
 all_stylesheets => Tất cả các stylesheet
 bulkload_existing_css => Tạo mới hoặc load file CSS mới
 cannot_delete_default_css => Không thể xóa file CSS <strong>default</strong>.
-copy_css_as => …hoặc copy thành
 create_new_css => Tạo file CSS mới
 css_already_exists => Stylesheet <strong>{name}</strong> đã có từ trước.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Lưu selector này
 selector => Selector
 style_sheet => Stylesheet
 style_sheet_saved => Đã lưu stylesheet
-you_are_editing_css => Bạn đang chỉnh sửa file CSS
 #@diag
 active_plugins => Các plugin đang hoạt động
 all_checks_passed => Tất cả các bước kiểm tra đều thành công!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Không thể reset số lượng download
 reset_file_count_success => Đã reset số lượng download
 #@form
-all_forms => Tất cả các form
 changetype =>
 create_new_form => Tạo form mới
 delete_form_confirmation => xác nhận xóa form
@@ -459,7 +456,6 @@ form_type => Kiểu (bắt buộc)
 form_type_missing => Thiếu kiểu file
 form_updated => Đã cập nhật form <strong>{name}</strong>.
 list_forms => hiện danh sách form
-you_are_editing_form => Bạn đang chỉnh sửa form
 #@image
 add_magnify_icon =>
 alt_text =>
@@ -536,7 +532,6 @@ referrer => Referrer
 visitor_logs => Log
 #@page
 all_pages => Tất cả các trang
-copy_page_as => …hoặc, lưu trang với tên
 create_new_page => Tạo trang mới
 delete_page_confirmation => xác nhận xóa trang
 edit_page => sửa trang
@@ -557,7 +552,6 @@ page_updated => Đã cập nhật trang <strong>{name}</strong>.
 page_used_by_section =>
 page_xml_hed => XML Feed
 you_are_editing_div => Bạn đang sửa div
-you_are_editing_page => Bạn đang sửa template của trang
 #@plugin
 bad_plugin_code => Plugin sai định dạng.
 broken_plugin => bị lỗi
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Ngôn ngữ đang sử dụng:
 admin_side_plugins => Dùng plugin phía-quản-trị?
-advanced_preferences => Nâng cao
 allow_article_php_scripting => Cho phép PHP trong bài viết?
 allow_form_override => Cho phép form override?
 allow_page_php_scripting => Cho phép PHP trong trang?

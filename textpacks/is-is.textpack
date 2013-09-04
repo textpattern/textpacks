@@ -287,7 +287,6 @@ add_new_selector => Bæta við nýjum selector
 all_stylesheets => Öll stílsnið
 bulkload_existing_css => Skapa eða hlaða nýju CSS
 cannot_delete_default_css => CSS default er ekki hægt að eyða
-copy_css_as => Afrita stílsnið sem:
 create_new_css => Skapa nýtt CSS
 css_already_exists =>
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Geyma þennann selector
 selector => Selector
 style_sheet => Stíl snið
 style_sheet_saved => Stílsnið geymt
-you_are_editing_css => Þú ert að breyta CSS
 #@diag
 active_plugins =>
 all_checks_passed => Allt í sómanum!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Tókst ekki að endursetja skráar talningu
 reset_file_count_success => Tókst að endursetja skráar talningu
 #@form
-all_forms => Öll snið
 changetype =>
 create_new_form => Skapa nýtt snið
 delete_form_confirmation => staðfesta eyðingu sniðs
@@ -459,7 +456,6 @@ form_type => Snið týpa (nauðsynlegt)
 form_type_missing =>
 form_updated =>
 list_forms => lista snið
-you_are_editing_form => Þú ert að breyta sniði
 #@image
 add_magnify_icon => Bæta við magnify icon
 alt_text => Alt texti
@@ -536,7 +532,6 @@ referrer => Tilvísun
 visitor_logs => gesta loggar
 #@page
 all_pages => Allar síður
-copy_page_as => Afrita síðu sem:
 create_new_page =>
 delete_page_confirmation => staðfesta eyðingu síðu
 edit_page => breyta síðu
@@ -557,7 +552,6 @@ page_updated =>
 page_used_by_section =>
 page_xml_hed => XML fæði
 you_are_editing_div => Þú ert að breyta div
-you_are_editing_page => Þú ert að breyta síðusniði
 #@plugin
 bad_plugin_code => Slæmur eða enginn viðbótarkóði
 broken_plugin => bilað
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Tungumál í notkun
 admin_side_plugins => Nota stjórnborðs viðbætur?
-advanced_preferences => Flóknari stillingar
 allow_article_php_scripting => Leyfa PHP í greinum?
 allow_form_override => Leyfa yfirskrif sniðs?
 allow_page_php_scripting => Leyfa PHP í síðum?

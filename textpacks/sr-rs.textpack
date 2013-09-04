@@ -287,7 +287,6 @@ add_new_selector => Додај нови селектор
 all_stylesheets => Сви стилови
 bulkload_existing_css => Направи или унеси нови стил
 cannot_delete_default_css => Стил <strong>default</strong> се не може избрисати.
-copy_css_as => …или копирај стил као
 create_new_css => Направи нови стил
 css_already_exists => Stylesheet <strong>{name}</strong> већ постоји.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Сними овај селектор
 selector => Селектор
 style_sheet => CSS Стил
 style_sheet_saved => CSS стил сачуван
-you_are_editing_css => Ви уређујете стил
 #@diag
 active_plugins => Активни plugin-и
 all_checks_passed => Све контроле успешне!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Не успевам ресетовати бројач фајлова
 reset_file_count_success => Бројач фајлова успешно ресетован
 #@form
-all_forms => Све форме
 changetype =>
 create_new_form => Направи нову форму
 delete_form_confirmation => потврди брисање форме
@@ -459,7 +456,6 @@ form_type => Тип (обвезно)
 form_type_missing => Недостаје тип форме
 form_updated => Форма <strong>{name}</strong> обновљена.
 list_forms => листа форми
-you_are_editing_form => Ви уређујете форму
 #@image
 add_magnify_icon => Повећало
 alt_text => Алтернативни текст
@@ -536,7 +532,6 @@ referrer => Referrer
 visitor_logs => Логови посетилаца
 #@page
 all_pages => Све странице
-copy_page_as => …или, копирај страницу као
 create_new_page => Направи нову страницу
 delete_page_confirmation => потврди брисање странице
 edit_page => измени страницу
@@ -557,7 +552,6 @@ page_updated => Страница <strong>{name}</strong> освежена.
 page_used_by_section => Страница <strong>{name}</strong> није избрисана; користи се код {count} секција(е).
 page_xml_hed => XML Feeds
 you_are_editing_div => Ви уређујете div
-you_are_editing_page => Ви уређујете шаблон (template) странице
 #@plugin
 bad_plugin_code => Лоше форматиран или неисправан код plugin-a.
 broken_plugin => неисправан
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Тренутно активни језик
 admin_side_plugins => Користи admin-side plugin-e?
-advanced_preferences => Напредно
 allow_article_php_scripting => Дозволи PHP у уносима?
 allow_form_override => Дозволи занемаривање форме?
 allow_page_php_scripting => Дозволи PHP у страницама?

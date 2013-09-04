@@ -287,7 +287,6 @@ add_new_selector => Adauga un nou selector
 all_stylesheets => Toate stilurile
 bulkload_existing_css => Creaza sau trimite un nou stil
 cannot_delete_default_css => Stilul <strong>default</strong> nu poate fi anulat.
-copy_css_as => …sau copiaza stilul ca
 create_new_css => Creaza un nou stil
 css_already_exists => Stilul <strong>{name}</strong> deja exista.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Salveaza acest selector
 selector => Selector
 style_sheet => Stil
 style_sheet_saved => Stil salvat
-you_are_editing_css => Editezi stilul
 #@diag
 active_plugins => Plugin-uri active
 all_checks_passed => Totul este OK!
@@ -443,7 +441,6 @@ reset_download_count => Reseteaza numarul descarcarilor
 reset_file_count_failure => Numarul fisierelor nu a putut fi resetat
 reset_file_count_success => Numarul fisierelor a fost resetat cu succes
 #@form
-all_forms => Toate forms-urile
 changetype =>
 create_new_form => Creeaza un nou form
 delete_form_confirmation => confirma stergerea unui form
@@ -459,7 +456,6 @@ form_type => Tipul form-ului (obligatoriu)
 form_type_missing => Tipul form-ului lipseste.
 form_updated => Form-ul <strong>{name}</strong> a fost update-uit.
 list_forms => Lista form-urilor
-you_are_editing_form => Editezi form-ul
 #@image
 add_magnify_icon => Lupa
 alt_text => Text alt
@@ -536,7 +532,6 @@ referrer => Referrer
 visitor_logs => Loguri vizitatori
 #@page
 all_pages => Toate paginile
-copy_page_as => Copiaza pagina ca:
 create_new_page => Creeaza o pagina noua
 delete_page_confirmation => confirma stergerea paginii
 edit_page => editeaza pagina
@@ -557,7 +552,6 @@ page_updated => Pagina <strong>{name}</strong> a fost update-uita.
 page_used_by_section => Pagina <strong>{name}</strong> nu a fost stearsa; este folosita de {count} sectiuni.
 page_xml_hed => Feed-uri XML
 you_are_editing_div => Editezi div-ul
-you_are_editing_page => Editezi template-ul paginii
 #@plugin
 bad_plugin_code => Extensie incompleta sau neexistenta
 broken_plugin => incompleta
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Limba curent activa
 admin_side_plugins => Foloseste plugin-uri admin?
-advanced_preferences => Preferinte avansate
 allow_article_php_scripting => Accepta cod PHP in articole?
 allow_form_override => Accepta inlocuirea forms-urilor?
 allow_page_php_scripting => Accepta cod PHP in pagini

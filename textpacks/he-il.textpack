@@ -287,7 +287,6 @@ add_new_selector => הוסף selector חדש
 all_stylesheets => כל הסגנונות
 bulkload_existing_css => צור או העלה סגנון חדש
 cannot_delete_default_css => לא יכול למחוק את סגנון ברירת המחדל
-copy_css_as => העתק סגנון בשם:
 create_new_css => צור סגנון חדש
 css_already_exists => הסגנון <strong>{name}</strong> כבר קיים.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => שמור selector זה
 selector => Selector
 style_sheet => סגנון
 style_sheet_saved => הסגנון נשמר
-you_are_editing_css => אתה עורך סגנון
 #@diag
 active_plugins => תוספים פעילים
 all_checks_passed => כל הבדיקות עברו בהצלחה!
@@ -443,7 +441,6 @@ reset_download_count => אפס את מונה ההורדות
 reset_file_count_failure => נכשל באיפוס מספר ההורדות
 reset_file_count_success => מספר הקבצים אופס בהצלחה
 #@form
-all_forms => כל התבניות
 changetype =>
 create_new_form => צור תבנית חדש
 delete_form_confirmation => אשר מחיקת תבנית
@@ -459,7 +456,6 @@ form_type => סוג התבנית(נחוץ)
 form_type_missing => סוג התבנית חסר
 form_updated => התבנית <strong>{name}</strong> עודכנה.
 list_forms => רשימת התבניות
-you_are_editing_form => אתה עורך את תבנית
 #@image
 add_magnify_icon => מגדיל
 alt_text => טקסט אלטרנטיבי
@@ -536,7 +532,6 @@ referrer => מפנה
 visitor_logs => דוחות מבקרים
 #@page
 all_pages => כל הדפים
-copy_page_as => העתק דף בשם:
 create_new_page => צור דף חדש
 delete_page_confirmation => אשר מחיקת דף
 edit_page => ערוך דף
@@ -557,7 +552,6 @@ page_updated => הדף <strong>{name}</strong> עודכן.
 page_used_by_section => הדף <strong>{name}</strong> לא נמחק. נעשה בו שימוש על ידי {count} איזורים.
 page_xml_hed => מזיני XML
 you_are_editing_div => אתה עורך div
-you_are_editing_page => אתה עורך תבנית דף
 #@plugin
 bad_plugin_code => קוד תוסף שגוי או ריק
 broken_plugin => שבור
@@ -585,7 +579,6 @@ verify_plugin => אמת תוסף
 #@prefs
 active_language => השפה הפעילה כרגע
 admin_side_plugins => להשתמש בתוספי של צד המנהל?
-advanced_preferences => הגדרות מתקדמות
 allow_article_php_scripting => לאפשר php במאמרים?
 allow_form_override => לאפשר דריסת טפסים?
 allow_page_php_scripting => לאפשר php בעמודים?

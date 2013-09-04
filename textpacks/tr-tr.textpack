@@ -287,7 +287,6 @@ add_new_selector => Yeni seçici ekle
 all_stylesheets => Tüm biçimler
 bulkload_existing_css => Yeni bir biçim oluştur veya yükle
 cannot_delete_default_css => Biçim <strong>default</strong> silinemedi.
-copy_css_as => …or copy style as
 create_new_css => Yeni biçim oluştur
 css_already_exists => Stylesheet <strong>{name}</strong> zaten mevcut.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Bu seçiciyi kaydet
 selector => Seçici
 style_sheet => Stil Sayfası
 style_sheet_saved => Stil Sayfası kaydedildi
-you_are_editing_css => Sayfa stilini düzenliyorsunuz
 #@diag
 active_plugins => Etkin eklentiler
 all_checks_passed => Tüm denetimler yapıldı!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Dosya sayım sıfırlaması başarısız
 reset_file_count_success => Dosya sayım sıfırlaması başarılı
 #@form
-all_forms => Tüm formlar
 changetype =>
 create_new_form => Yeni form oluştur
 delete_form_confirmation => form silmeyi doğrula
@@ -459,7 +456,6 @@ form_type => Biçim (gerekli)
 form_type_missing => Form biçimi mevcut değil
 form_updated => Form <strong>{name}</strong> güncellendi.
 list_forms => form listesi
-you_are_editing_form => Formu düzenliyorsunuz
 #@image
 add_magnify_icon => Büyüteç
 alt_text => Alternatif metin
@@ -536,7 +532,6 @@ referrer => Referrer
 visitor_logs => Ziyaretçi Kayıtları
 #@page
 all_pages => Tüm Sayfalar
-copy_page_as => …veya, farklı olarak kopyala
 create_new_page => Yeni sayfa oluştur
 delete_page_confirmation => sayfa silmeyi onayla
 edit_page => sayfa düzenle
@@ -557,7 +552,6 @@ page_updated => Sayfa <strong>{name}</strong> güncellendi.
 page_used_by_section =>
 page_xml_hed => XML Feeds
 you_are_editing_div => You are editing div
-you_are_editing_page => Sayfa Şablonunu düzenliyorsunuz
 #@plugin
 bad_plugin_code => Kötü biçimlendirilmiş veya boş eklenti kodu.
 broken_plugin => bozuk
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Etkin dil
 admin_side_plugins => Yönetici (Admin) eklentilerini kullanmak istiyormusunuz?
-advanced_preferences => Gelişmiş
 allow_article_php_scripting => Makalelerde PHP betiklere izin vermek istiyormusunuz?
 allow_form_override => Geçersiz kılmaya izin ver?
 allow_page_php_scripting => Sayfalarda PHP betiklere izin vermek istiyormusunuz?

@@ -287,7 +287,6 @@ add_new_selector => Nový selektor
 all_stylesheets => Všetky štýly
 bulkload_existing_css => Vytvoriť alebo otvoriť nové CSS
 cannot_delete_default_css => Preddefinovaný CSS default sa nedá odstrániť
-copy_css_as => Skopírovať CSS ako:
 create_new_css => Vytvoriý nové CSS
 css_already_exists =>
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Uložiť selektor
 selector => Selektor
 style_sheet => Štýl
 style_sheet_saved => Štýl bol uložený
-you_are_editing_css => Upravujete CSS
 #@diag
 active_plugins =>
 all_checks_passed => Všetky kontroly prebehli v poriadku!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Počítadlo sa nepodarilo vynulovať
 reset_file_count_success => Počítadlo bolo vynulované
 #@form
-all_forms => Všetky šablóny
 changetype =>
 create_new_form => Vytvoriť novú šablónu
 delete_form_confirmation => potvrdiť odstránenie šablóny
@@ -459,7 +456,6 @@ form_type => Typ šablóny (povinný)
 form_type_missing =>
 form_updated =>
 list_forms => zoznam šablón
-you_are_editing_form => Upravujete šablónu
 #@image
 add_magnify_icon =>
 alt_text => Alternatívny text
@@ -536,7 +532,6 @@ referrer => Odkazujúci server
 visitor_logs => Záznamy návštev
 #@page
 all_pages => Všetky stránky
-copy_page_as => …alebo skopírovať stránku ako:
 create_new_page => Vytvor novú stránku
 delete_page_confirmation => potvrdiť odstránenie stránky
 edit_page => upraviť stránku
@@ -557,7 +552,6 @@ page_updated => Stránka <strong>{name}</strong> aktualizovaná
 page_used_by_section => Stránka <strong>{name}</strong> nevymazaná; používa ju sekcií: {count}.
 page_xml_hed => Zdroje XML
 you_are_editing_div => Upravujete oddiel
-you_are_editing_page => Upravujete stránku
 #@plugin
 bad_plugin_code => Chybný alebo prázdny kód pluginu
 broken_plugin => chybný
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Aktuálne používaný jazyk
 admin_side_plugins => Používať administračné "bočné" pluginy?
-advanced_preferences => Rozšírené nastavenia
 allow_article_php_scripting => Povoliť PHP kód v článkoch?
 allow_form_override => Povoliť prepísanie šablóny?
 allow_page_php_scripting => Povoliť PHP kód na stránkach?

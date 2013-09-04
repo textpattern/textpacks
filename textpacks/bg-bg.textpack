@@ -287,7 +287,6 @@ add_new_selector => Добави селектор
 all_stylesheets => Всички стилове
 bulkload_existing_css => Създай или зареди нов CSS
 cannot_delete_default_css => CSS по подразбиране не може да се изтрие
-copy_css_as => Копирай стила като:
 create_new_css => Създай нов CSS
 css_already_exists => Стилът <strong>{name}</strong> вече съществува.
 css_code => Оформление на CSS
@@ -316,7 +315,6 @@ save_this_selector => Запази този селектор
 selector => Селектор
 style_sheet => Стил
 style_sheet_saved => Стилът е запазен
-you_are_editing_css => Вие редактирате CSS
 #@diag
 active_plugins => Активни приставки
 all_checks_passed => Всички проверки преминаха!
@@ -443,7 +441,6 @@ reset_download_count => Занули броя на свалянията
 reset_file_count_failure => Зануляването на файловете се провали
 reset_file_count_success => Зануляването на файловете е успешно
 #@form
-all_forms => Всички форми
 changetype => Промени типът
 create_new_form => Създай нова форма
 delete_form_confirmation => Потвърди изтриването на формата
@@ -459,7 +456,6 @@ form_type => Тип (задължително)
 form_type_missing => Типът на формата липсва
 form_updated => FФормата <strong>{name}</strong> е обновена.
 list_forms => списък на формите
-you_are_editing_form => Вие редактирате формата
 #@image
 add_magnify_icon => Лупа
 alt_text => Алтернативен текст
@@ -536,7 +532,6 @@ referrer => Отпращащ към
 visitor_logs => Статистики за посетителите
 #@page
 all_pages => Всички страници
-copy_page_as => или копирай страницата, като
 create_new_page => Създай нова страница
 delete_page_confirmation => потвърди изтриването на страницата
 edit_page => редактирай страницата
@@ -557,7 +552,6 @@ page_updated => Страницата <strong>{name}</strong> е обновена
 page_used_by_section => Страница <strong>{name}</strong> не беше изтрита; ползва се от {count} секции.
 page_xml_hed => XML Feeds
 you_are_editing_div => Редактирате div
-you_are_editing_page => Редактирате шаблона на страницата
 #@plugin
 bad_plugin_code => Лошо форматиран или празен код на приставката.
 broken_plugin => развален
@@ -585,7 +579,6 @@ verify_plugin => Прегледай приставката
 #@prefs
 active_language => Активен език в момента
 admin_side_plugins => Използвай приставки за админ. панела?
-advanced_preferences => Разширени настройки
 allow_article_php_scripting => Позволи PHP в статиите?
 allow_form_override => Позволи промяна на формата?
 allow_page_php_scripting => Позволи PHP в страниците?

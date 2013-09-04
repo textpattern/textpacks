@@ -287,7 +287,6 @@ add_new_selector => Lisa uus selektor
 all_stylesheets => Kõik stiililehed
 bulkload_existing_css => Loo või lae uus CSS
 cannot_delete_default_css => Vaikimisi CSS -i ei ole võimalik kustutada
-copy_css_as => Kopeeri stiilileht kui:
 create_new_css => Loo uus CSS
 css_already_exists =>
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Salvesta see selektor
 selector => Selektor
 style_sheet => Stiilileht
 style_sheet_saved => Stiilileht salvestatud
-you_are_editing_css => Sa toimetad CSS-i
 #@diag
 active_plugins =>
 all_checks_passed => Kõik kontrollimised õnnestusid!
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => Algväärtustamine ebaõnnestus
 reset_file_count_success => Algväärtustamine õnnestus
 #@form
-all_forms => Kõik vormid
 changetype =>
 create_new_form => Loo uus vorm
 delete_form_confirmation => kinnita vormi kustutamine
@@ -459,7 +456,6 @@ form_type => Vormi tüüp (nõutav)
 form_type_missing =>
 form_updated =>
 list_forms => vormide loetelu
-you_are_editing_form => Sa toimetad vormi
 #@image
 add_magnify_icon =>
 alt_text => Alt tekst
@@ -536,7 +532,6 @@ referrer => Viitaja
 visitor_logs => külastuslogid
 #@page
 all_pages => Kõik lehed
-copy_page_as => Kopeeri leht kui:
 create_new_page =>
 delete_page_confirmation => kinnita lehe kustutamine
 edit_page => Toimeta lehte
@@ -557,7 +552,6 @@ page_updated =>
 page_used_by_section =>
 page_xml_hed => XML voog
 you_are_editing_div => div-i toimetamine
-you_are_editing_page => Lehemalli toimetamine
 #@plugin
 bad_plugin_code => Halvasti vormistatud või tühi plugin
 broken_plugin => katki
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => Hetkel aktiivne keel
 admin_side_plugins => Kasuta admin-ala plugnaid?
-advanced_preferences => Keerulisemad seaded
 allow_article_php_scripting => Luba PHP artiklites?
 allow_form_override => Luba vormide ülekirjutamist?
 allow_page_php_scripting => Luba PHP lehtedel?

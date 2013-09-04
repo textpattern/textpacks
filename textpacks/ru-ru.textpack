@@ -287,7 +287,6 @@ add_new_selector => Добавить новый селектор
 all_stylesheets => Все стили
 bulkload_existing_css => Создать или загрузить новый CSS
 cannot_delete_default_css => CSS стиль <strong>default</strong> не может быть удален
-copy_css_as => Копировать таблицу стилей как:
 create_new_css => Создать новый стиль
 css_already_exists => Таблица стилей <strong>{name}</strong> уже создана.
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Сохранить этот селектор
 selector => Селектор
 style_sheet => Таблица стилей
 style_sheet_saved => Таблица стилей сохранена
-you_are_editing_css => Вы редактируете стиль
 #@diag
 active_plugins => Активные плагины
 all_checks_passed => Проверка прошла успешна!
@@ -443,7 +441,6 @@ reset_download_count => Сбросить счетчик загрузок
 reset_file_count_failure => Не удалось обнулить счетчик файлов
 reset_file_count_success => Счетчик файлов успешно обнулен
 #@form
-all_forms => Все формы
 changetype => Изменить тип
 create_new_form => Создать новую форму
 delete_form_confirmation => подтвердите удаление формы
@@ -459,7 +456,6 @@ form_type => Тип формы (необходимо)
 form_type_missing => Не установлен тип формы
 form_updated => Обновлена форма <strong>{name}</strong>.
 list_forms => Список форм
-you_are_editing_form => Вы редактируете форму
 #@image
 add_magnify_icon => Лупа
 alt_text => Alt текст
@@ -536,7 +532,6 @@ referrer => Перенаправление
 visitor_logs => Журнал посещений
 #@page
 all_pages => Все страницы
-copy_page_as => …или копировать страницу как
 create_new_page => Создать новую страницу
 delete_page_confirmation => подтвердите удаление страницы
 edit_page => редактировать страницу
@@ -557,7 +552,6 @@ page_updated => Обновлена страница <strong>{name}</strong>.
 page_used_by_section => Страница <strong>{name}</strong> не удалена; используется {count} секциями.
 page_xml_hed => Потоки XML
 you_are_editing_div => Вы редактируете div
-you_are_editing_page => Вы редактируете шаблон страницы
 #@plugin
 bad_plugin_code => Неправильно оформленный или пустой код плагина
 broken_plugin => Код плагина испорчен
@@ -585,7 +579,6 @@ verify_plugin => Проверить плагин
 #@prefs
 active_language => Текущий язык
 admin_side_plugins => Использовать плагины, влияющие на панель администратора?
-advanced_preferences => Продвинутые настройки
 allow_article_php_scripting => Разрешить PHP в статьях?
 allow_form_override => Разрешить изменять форму вывода статьи?
 allow_page_php_scripting => Разрешить PHP в страницах?

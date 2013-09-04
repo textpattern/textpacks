@@ -287,7 +287,6 @@ add_new_selector => إضافة معين
 all_stylesheets => كل أوراق النمط
 bulkload_existing_css => إظافة أو إدماج نمط جديد
 cannot_delete_default_css => لا يمكن حذف النمط
-copy_css_as => نسخ CSS ك
 create_new_css => خلق نمط جديد
 css_already_exists =>
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => تسجيل هذا المعين
 selector => معين
 style_sheet => ورقة النمط
 style_sheet_saved => ورقة النمط مسجلة
-you_are_editing_css => إنك تغير النمط
 #@diag
 active_plugins =>
 all_checks_passed => كل التصحيحات موثوقة
@@ -443,7 +441,6 @@ reset_download_count =>
 reset_file_count_failure => لا يمكن العودة إلى الصفر في حساب عدد التحميلات
 reset_file_count_success => العودة إلى الصفر في حساب عدد التحميلات
 #@form
-all_forms => ؟؟؟
 changetype =>
 create_new_form => ؟؟؟
 delete_form_confirmation => إثبات إلغاء ؟؟؟
@@ -459,7 +456,6 @@ form_type => مطلوب) ??? صنف)
 form_type_missing =>
 form_updated =>
 list_forms => عرض جميع ؟؟؟
-you_are_editing_form => : يتم نشر الاستمارة
 #@image
 add_magnify_icon =>
 alt_text => نص تتابعي
@@ -536,7 +532,6 @@ referrer => الموقع المصدر
 visitor_logs => صحيفة نشاطات الزوار
 #@page
 all_pages => Tous les gabarits ؟؟؟
-copy_page_as => Enregistrer le gabarit sous le nom : ؟؟؟
 create_new_page =>
 delete_page_confirmation => confirmer la suppression du gabarit ؟؟؟
 edit_page => Modifier le gabarit ؟؟؟
@@ -557,7 +552,6 @@ page_updated =>
 page_used_by_section =>
 page_xml_hed => XML تدفق
 you_are_editing_div => div يتم نشر
-you_are_editing_page => Édition du gabarit en cours : ؟؟؟
 #@plugin
 bad_plugin_code => النظام الأصلي لـلبلوغين غير صحيح أو غائب
 broken_plugin => متعطل
@@ -585,7 +579,6 @@ verify_plugin =>
 #@prefs
 active_language => اللغة المستخدمة حاليا
 admin_side_plugins => استخدام مجموعة البلوغين الإدارية؟
-advanced_preferences => خيارات متقدمة
 allow_article_php_scripting => (PHP) ترخيص نظام .. في المقالات؟
 allow_form_override => (Form) ترخيص استعمال ؟ في المقال الواحد؟
 allow_page_php_scripting => (PHP) ترخيص نظام .. في ؟؟؟

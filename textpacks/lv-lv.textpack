@@ -287,7 +287,6 @@ add_new_selector => Pievienot jaunu selektoru
 all_stylesheets => Visas stilu lapas
 bulkload_existing_css => Izveidot jaunu stilu lapu
 cannot_delete_default_css => <strong>Noklusēto</strong> stilu lapu nav iespējams izdzēst
-copy_css_as => Kopēt uz jaunu stilu lapu kā:
 create_new_css => Izveidot jaunu stilu lapu
 css_already_exists => Stilu lapa <strong>{name}</strong> jau eksistē.
 css_code => Stila kods
@@ -316,7 +315,6 @@ save_this_selector => Saglabāt šo selektoru
 selector => Selektors
 style_sheet => Stilu lapa
 style_sheet_saved => Stilu lapa saglabāta
-you_are_editing_css => Jūs labojat stila lapu
 #@diag
 active_plugins => Aktīvie spraudņi
 all_checks_passed => Visas pārbaudes izietas veiksmīgi!
@@ -443,7 +441,6 @@ reset_download_count => Atiestatīt lejupielāžu skaitu
 reset_file_count_failure => Neizdevās atiestatīt skaitītāju
 reset_file_count_success => Skaitītājs ir sekmīgi atiestatīts
 #@form
-all_forms => Visas formas
 changetype => Mainīt veidu
 create_new_form => Izveidot jaunu formu
 delete_form_confirmation => apstiprināt formas dzēšanu
@@ -459,7 +456,6 @@ form_type => Formas tips (obligāts)
 form_type_missing => Trūkst formas tipa
 form_updated => Forma <strong>{name}</strong> izmainīta.
 list_forms => parādīt formas
-you_are_editing_form => Jūs labojat formu
 #@image
 add_magnify_icon => Palielināmais stikls
 alt_text => Alternatīvais teksts
@@ -536,7 +532,6 @@ referrer => Nosūtītājs
 visitor_logs => Apmeklētāju žurnāls
 #@page
 all_pages => Visas lapas
-copy_page_as => …vai nokopēt lapu kā
 create_new_page => Izveidot jaunu lapu
 delete_page_confirmation => apstiprināt lapas dzēšanu
 edit_page => labot lapu
@@ -557,7 +552,6 @@ page_updated => Lapa <strong>{name}</strong> atjaunināta.
 page_used_by_section => Lapa <strong>{name}</strong> netika dzēsta; to lieto {count} sadaļa(s).
 page_xml_hed => XML padeves
 you_are_editing_div => Jūs labojat slāni
-you_are_editing_page => Jūs labojat lapas šablonu
 #@plugin
 bad_plugin_code => Nepareizi noformēts vai tukšs spraudnis
 broken_plugin => nederīgs
@@ -585,7 +579,6 @@ verify_plugin => Pārbaudīt spraudni
 #@prefs
 active_language => Šobrīd aktīvā valoda
 admin_side_plugins => Lietot administrācijas daļas spraudņus?
-advanced_preferences => Paplašināti uzstādījumi
 allow_article_php_scripting => Atļaujt PHP ierakstos?
 allow_form_override => Atļaut pašizvēlētās formas ierakstos?
 allow_page_php_scripting => Atļaut PHP lapās?

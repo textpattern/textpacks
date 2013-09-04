@@ -287,7 +287,6 @@ add_new_selector => Adicionar seletor
 all_stylesheets => Todas as folhas de estilo
 bulkload_existing_css => Criar ou carregar uma folha de estilos CSS
 cannot_delete_default_css => A folha de estilos CSS com o nome <strong>default</strong> (por padrão) não pode ser excluida.
-copy_css_as => Copiar folha de estilos CSS como:
 create_new_css => Criar folha de estilos CSS
 css_already_exists => A folha de estilos <strong>{name}</strong> já existe!
 css_code =>
@@ -316,7 +315,6 @@ save_this_selector => Salvar este seletor
 selector => Seletor
 style_sheet => Folha de estilos CSS
 style_sheet_saved => Folha de estilos CSS salva
-you_are_editing_css => Está editando a folha de estilos CSS
 #@diag
 active_plugins => Ativar plugins
 all_checks_passed => Todos os testes realizados estão OK!
@@ -443,7 +441,6 @@ reset_download_count => Redefinir contagem de transferência
 reset_file_count_failure => Não foi possível re-inicializar o contador de download
 reset_file_count_success => O contador de download foi re-inicializado
 #@form
-all_forms => Todos os módulos
 changetype => Alterar o tipo
 create_new_form => Criar módulo
 delete_form_confirmation => confirma que quer excluir o módulo
@@ -459,7 +456,6 @@ form_type => Tipo de Módulo (obrigatório)
 form_type_missing => O Tipo de Módulo está em falta!
 form_updated => O Módulo <strong>{name}</strong> foi atualizado.
 list_forms => lista de módulos
-you_are_editing_form => Está editando o módulo
 #@image
 add_magnify_icon => Lupa
 alt_text => Texto alternativo
@@ -536,7 +532,6 @@ referrer => Origem dos visitantes
 visitor_logs => Registro de visitantes
 #@page
 all_pages => Todas as páginas
-copy_page_as => …ou copiar página como:
 create_new_page => Criar nova página
 delete_page_confirmation => confirma que quer excluir a página
 edit_page => editar página
@@ -557,7 +552,6 @@ page_updated => A Página <strong>{name}</strong> foi atualizada.
 page_used_by_section => Página <strong>(nome)</strong> não excluída; utilizada por {count} seção (ões).
 page_xml_hed => Feeds XML
 you_are_editing_div => Está editando um DIV
-you_are_editing_page => Está editando a página
 #@plugin
 bad_plugin_code => Código do plugin incorreto
 broken_plugin => Inválido
@@ -585,7 +579,6 @@ verify_plugin => Verifique plug-in
 #@prefs
 active_language => Idioma atualmente selecionado
 admin_side_plugins => Usar plugins de administração?
-advanced_preferences => Preferências Avançadas
 allow_article_php_scripting => Aceitar código PHP nos artigos?
 allow_form_override => Permitir o uso de módulo alternativo?
 allow_page_php_scripting => Aceitar código PHP nas páginas?

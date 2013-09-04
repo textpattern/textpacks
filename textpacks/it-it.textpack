@@ -287,7 +287,6 @@ add_new_selector => Aggiungi nuovo selettore
 all_stylesheets => Tutti i fogli di stile
 bulkload_existing_css => Crea o carica un nuovo foglio di stile CSS
 cannot_delete_default_css => Lo stile predefinito non può essere eliminato
-copy_css_as => …o copia foglio di stile come:
 create_new_css => Crea nuovo stile
 css_already_exists => Stile <strong>{name}</strong> già esistente
 css_code => Codice stile
@@ -316,7 +315,6 @@ save_this_selector => Salva selettore
 selector => Selettore
 style_sheet => Foglio di stile
 style_sheet_saved => Foglio di stile salvato
-you_are_editing_css => Stai modificando lo stile
 #@diag
 active_plugins => Plug-in attivi
 all_checks_passed => Controlli superati con successo!
@@ -443,7 +441,6 @@ reset_download_count => Azzera il contatore download
 reset_file_count_failure =>
 reset_file_count_success =>
 #@form
-all_forms => Tutti i moduli
 changetype => Cambia tipo
 create_new_form => Crea un nuovo modulo
 delete_form_confirmation => Conferma l'eliminazione del modulo
@@ -459,7 +456,6 @@ form_type => Tipologia modulo (necessario)
 form_type_missing => Tipologia modulo mancante
 form_updated => Modulo <strong>{name}</strong> aggiornato.
 list_forms => Modulo per elenco
-you_are_editing_form => Stai modificando il modulo
 #@image
 add_magnify_icon => Ingrandimento
 alt_text => Testo alternativo
@@ -536,7 +532,6 @@ referrer => Referrer
 visitor_logs => Accessi visitatori
 #@page
 all_pages => Tutte le pagine
-copy_page_as => …o copia pagina come
 create_new_page => Crea nuova pagina
 delete_page_confirmation => Conferma l'eliminazione della pagina
 edit_page => modifica pagina
@@ -557,7 +552,6 @@ page_updated => Pagina <strong>{name}</strong> aggiornata.
 page_used_by_section => Pagina <strong>{name}</strong> non eliminata; in uso da {count} sezione(i).
 page_xml_hed => Flussi XML
 you_are_editing_div => Stai modificando il div
-you_are_editing_page => Stai modificando la pagina
 #@plugin
 bad_plugin_code => Codice plug-in non valido o vuoto
 broken_plugin => rotto
@@ -585,7 +579,6 @@ verify_plugin => Verifica plug-inactive_language → Lingua attualmente in uso
 #@prefs
 active_language => Lingue attivate
 admin_side_plugins => Consenti plug-in per la parte di amministrazione?
-advanced_preferences => Preferenze avanzate
 allow_article_php_scripting => Accetta codice PHP negli articoli?
 allow_form_override => Consenti di forzare i moduli?
 allow_page_php_scripting => Accetta codice PHP nelle pagine?
