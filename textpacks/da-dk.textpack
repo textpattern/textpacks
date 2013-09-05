@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => Siden <strong>{name}</strong> blev opdateret.
 page_used_by_section => Side <strong>{name}</strong> ikke slettet; bruges af {count} afsnit.
 page_xml_hed => XML feeds
-you_are_editing_div => Du redigerer div
 #@plugin
 bad_plugin_code => Dårligt udformet eller tom pluginkode.
 broken_plugin => defekt

@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section =>
 page_xml_hed => XML fæði
-you_are_editing_div => Þú ert að breyta div
 #@plugin
 bad_plugin_code => Slæmur eða enginn viðbótarkóði
 broken_plugin => bilað

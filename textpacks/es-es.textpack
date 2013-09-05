@@ -551,7 +551,6 @@ page_save_failed => Debido a un error no se ha guardado la página. Por favor, i
 page_updated => Página <strong>{name}</strong> actualizada.
 page_used_by_section => No se ha borrado la página <strong>{name}</strong>; la usan {count} sección(es).
 page_xml_hed => Feeds XML
-you_are_editing_div => Estás editando un DIV
 #@plugin
 bad_plugin_code => Código del plugin vacío o incorrecto
 broken_plugin => roto

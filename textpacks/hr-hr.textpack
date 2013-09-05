@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => Stranica <strong>{name}</strong> osvježena.
 page_used_by_section =>
 page_xml_hed => XML Feedovi
-you_are_editing_div => Vi uređivate div
 #@plugin
 bad_plugin_code => Loše formatiran ili neispravan kod plugina.
 broken_plugin => puknut

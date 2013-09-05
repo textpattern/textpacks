@@ -551,7 +551,6 @@ page_save_failed => Pagina nu a fost salvata datorita unei erori. Te rog mai inc
 page_updated => Pagina <strong>{name}</strong> a fost update-uita.
 page_used_by_section => Pagina <strong>{name}</strong> nu a fost stearsa; este folosita de {count} sectiuni.
 page_xml_hed => Feed-uri XML
-you_are_editing_div => Editezi div-ul
 #@plugin
 bad_plugin_code => Extensie incompleta sau neexistenta
 broken_plugin => incompleta

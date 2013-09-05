@@ -551,7 +551,6 @@ page_save_failed => Stránka nebyla uložena. Prosím, zkuste to znovu.
 page_updated => Stránka <strong>{name}</strong> upravena.
 page_used_by_section => Stránka <strong>{name}</strong> nebyla odstraněna; používá ji alespoň jedna rubrika.
 page_xml_hed => Prameny XML
-you_are_editing_div => Upravuješ oddíl
 #@plugin
 bad_plugin_code => Chybný nebo prázdný kód pluginu.
 broken_plugin => chybný

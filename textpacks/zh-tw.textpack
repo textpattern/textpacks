@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => 完成更新頁面 <strong>{name}</strong>.
 page_used_by_section =>
 page_xml_hed => XML Feeds
-you_are_editing_div => 您正在編輯 div
 #@plugin
 bad_plugin_code => 外掛程式碼錯誤或空白
 broken_plugin => 不完整

@@ -551,7 +551,6 @@ page_save_failed => Сторінка не були збережені через
 page_updated => Сторінка <strong>{name}</strong> оновлена.
 page_used_by_section => Сторінка <strong>{name}</strong> не видалена, оскільки використовується {count} розділами.
 page_xml_hed => XML Feeds
-you_are_editing_div => Ви редагуєте div
 #@plugin
 bad_plugin_code => Погано оформлений або пустий код модуля
 broken_plugin => не працює

@@ -551,7 +551,6 @@ page_save_failed => صفحه به دلیل بروز خطا ذخیره نشد. ل
 page_updated => صفحه <strong>{name}</strong> بهنگام شد.
 page_used_by_section => صفحه <strong>{name}</strong> پاک نشد چرا که {count} صفحه از آن استفاده می‌کنند.
 page_xml_hed => فیدها
-you_are_editing_div => شما در حال ویرایش div هستید
 #@plugin
 bad_plugin_code => کد پلاگین بدساختار یا خالی است.
 broken_plugin => شکسته

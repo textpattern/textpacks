@@ -551,7 +551,6 @@ page_save_failed => Die Seitenvorlage konnte wegen eines Fehlers nicht gespeiche
 page_updated => Seitenvorlage <strong>{name}</strong> aktualisiert.
 page_used_by_section => Seite <strong>{name}</strong> wurde nicht gelöscht. Sie wird von {count} Section(s) verwendet.
 page_xml_hed => XML-Feeds
-you_are_editing_div => In Bearbeitung: DIV
 #@plugin
 bad_plugin_code => Defekter oder leerer Plugin-Code
 broken_plugin => defekt

@@ -551,7 +551,6 @@ page_save_failed => Lapa netika saglabāta kļūdu dēļ. Lūdzu mēģiniet vēl
 page_updated => Lapa <strong>{name}</strong> atjaunināta.
 page_used_by_section => Lapa <strong>{name}</strong> netika dzēsta; to lieto {count} sadaļa(s).
 page_xml_hed => XML padeves
-you_are_editing_div => Jūs labojat slāni
 #@plugin
 bad_plugin_code => Nepareizi noformēts vai tukšs spraudnis
 broken_plugin => nederīgs

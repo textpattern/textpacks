@@ -551,7 +551,6 @@ page_save_failed => 页面由于一个错误没有被保存。请再试一次。
 page_updated => 页面 <strong>{name}</strong> 已更新。
 page_used_by_section => 页面 <strong>{name}</strong> 没有被删除；还有 {count} 个版块在使用它。
 page_xml_hed => XML Feeds
-you_are_editing_div => 正在编辑 div
 #@plugin
 bad_plugin_code => 插件代码错误或空白。
 broken_plugin => 损坏

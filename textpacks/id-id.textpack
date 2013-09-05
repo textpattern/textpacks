@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section => Halaman <strong>{name}</strong> tidak dihapus; terpakai oleh {count} seksi.
 page_xml_hed => Umpan XML
-you_are_editing_div => Anda sedang mengedit div
 #@plugin
 bad_plugin_code => Salah bentuk atau kode plugin kosong.
 broken_plugin => rusak

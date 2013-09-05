@@ -551,7 +551,6 @@ page_save_failed => Esta página não foi salva devido a um erro. Tente de novo.
 page_updated => A Página <strong>{name}</strong> foi actualizada.
 page_used_by_section => A Página <strong>{name}</strong> não foi apagada porque está a ser usada por {count} secção/secções.
 page_xml_hed => Feeds XML
-you_are_editing_div => Está a editar um DIV
 #@plugin
 bad_plugin_code => Código do plugin incorrecto
 broken_plugin => Inválido

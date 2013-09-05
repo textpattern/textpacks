@@ -551,7 +551,6 @@ page_save_failed => Страницата не беше записана пора
 page_updated => Страницата <strong>{name}</strong> е обновена.
 page_used_by_section => Страница <strong>{name}</strong> не беше изтрита; ползва се от {count} секции.
 page_xml_hed => XML Feeds
-you_are_editing_div => Редактирате div
 #@plugin
 bad_plugin_code => Лошо форматиран или празен код на приставката.
 broken_plugin => развален

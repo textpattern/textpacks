@@ -551,7 +551,6 @@ page_save_failed => Door een fout is de pagina niet opgeslagen. Probeer het nogm
 page_updated => Pagina <strong>{name}</strong> vernieuwd.
 page_used_by_section => De pagina <strong>{name}</strong> kan niet worden verwijderd; ze wordt gebruikt in {count} sectie(s).
 page_xml_hed => XML feeds
-you_are_editing_div => Je bewerkt div
 #@plugin
 bad_plugin_code => Foute of lege plugin code
 broken_plugin => werkt niet

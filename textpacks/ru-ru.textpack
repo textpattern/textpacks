@@ -551,7 +551,6 @@ page_save_failed => Ошибка! Страница не сохранена, по
 page_updated => Обновлена страница <strong>{name}</strong>.
 page_used_by_section => Страница <strong>{name}</strong> не удалена; используется {count} секциями.
 page_xml_hed => Потоки XML
-you_are_editing_div => Вы редактируете div
 #@plugin
 bad_plugin_code => Неправильно оформленный или пустой код плагина
 broken_plugin => Код плагина испорчен

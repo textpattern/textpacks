@@ -551,7 +551,6 @@ page_save_failed => Sivua ei tallennettu virheen seurauksena. Ole hyvä ja yrit�
 page_updated => Sivupohja <strong>{name}</strong> muutettu.
 page_used_by_section => Sivua <strong>{name}</strong> ei poistettu; se on käytössä {count} osiossa.
 page_xml_hed => XML-syötteet
-you_are_editing_div => Olet muokkaamassa div:iä
 #@plugin
 bad_plugin_code => Liitännäisen koodi on väärän muotoinen tai tyhjä
 broken_plugin => viallinen

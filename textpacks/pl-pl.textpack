@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => Strona <strong>{name}</strong> została uaktualniona.
 page_used_by_section => Strona <strong>{name}</strong> nie została usunięta. Aktualnie przypisana do {count} sekcji.
 page_xml_hed => Kanały XML
-you_are_editing_div => Edytujesz blok div
 #@plugin
 bad_plugin_code => Błąd w kodzie lub brak kodu pluginu.
 broken_plugin => uszkodzony

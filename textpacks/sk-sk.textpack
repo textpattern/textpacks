@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => Stránka <strong>{name}</strong> aktualizovaná
 page_used_by_section => Stránka <strong>{name}</strong> nevymazaná; používa ju sekcií: {count}.
 page_xml_hed => Zdroje XML
-you_are_editing_div => Upravujete oddiel
 #@plugin
 bad_plugin_code => Chybný alebo prázdny kód pluginu
 broken_plugin => chybný

@@ -551,7 +551,6 @@ page_save_failed => Ce gabarit n’a pas été enregistré en raison d’une err
 page_updated => Gabarit <strong>{name}</strong> mis à jour.
 page_used_by_section => Le module <strong>{name}</strong> n’a pas été effacé car il est utilisé par {count} section(s).
 page_xml_hed => Flux XML
-you_are_editing_div => Édition du div en cours :
 #@plugin
 bad_plugin_code => Le code source du plugin est invalide ou absent.
 broken_plugin => défaillant

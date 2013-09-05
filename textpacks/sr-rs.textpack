@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => Страница <strong>{name}</strong> освежена.
 page_used_by_section => Страница <strong>{name}</strong> није избрисана; користи се код {count} секција(е).
 page_xml_hed => XML Feeds
-you_are_editing_div => Ви уређујете div
 #@plugin
 bad_plugin_code => Лоше форматиран или неисправан код plugin-a.
 broken_plugin => неисправан

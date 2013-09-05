@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section =>
 page_xml_hed => Sumarios XML
-you_are_editing_div => Estás a editar un DIV
 #@plugin
 bad_plugin_code => Código do engadido vacío ou erroneo
 broken_plugin => Roto

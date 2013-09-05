@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => הדף <strong>{name}</strong> עודכן.
 page_used_by_section => הדף <strong>{name}</strong> לא נמחק. נעשה בו שימוש על ידי {count} איזורים.
 page_xml_hed => מזיני XML
-you_are_editing_div => אתה עורך div
 #@plugin
 bad_plugin_code => קוד תוסף שגוי או ריק
 broken_plugin => שבור

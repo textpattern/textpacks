@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => صفہ <strong>{name}</strong> تازہ کیا
 page_used_by_section => صفہ <strong>{name}</strong> حذف نہیں کیا; {count} منتخب اشیا اس کا استمعال کر رہے ہیں
 page_xml_hed => XML Feeds
-you_are_editing_div => آپ یہ div تدوین کر رہے ہیں
 #@plugin
 bad_plugin_code => خالی کوڈ یا پلگ ان کے کوڈ مے گڑبڑی
 broken_plugin => شکستہ

@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => Đã cập nhật trang <strong>{name}</strong>.
 page_used_by_section =>
 page_xml_hed => XML Feed
-you_are_editing_div => Bạn đang sửa div
 #@plugin
 bad_plugin_code => Plugin sai định dạng.
 broken_plugin => bị lỗi

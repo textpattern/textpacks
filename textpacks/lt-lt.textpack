@@ -551,7 +551,6 @@ page_save_failed => Puslapis nebuvo išsaugotas dėl klaidos. Bandykite dar kart
 page_updated => Puslapis <strong>{name}</strong> atnaujintas.
 page_used_by_section => Puslapis <strong>{name}</strong> nepašalintas; naudojamas {count} sekcijoje(se).
 page_xml_hed => XML padavimai
-you_are_editing_div => Jūs redaguojate div
 #@plugin
 bad_plugin_code => Blogai suformuotas arba tuščias papildinio kodas.
 broken_plugin => klaidingas

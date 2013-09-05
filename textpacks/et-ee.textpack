@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section =>
 page_xml_hed => XML voog
-you_are_editing_div => div-i toimetamine
 #@plugin
 bad_plugin_code => Halvasti vormistatud või tühi plugin
 broken_plugin => katki

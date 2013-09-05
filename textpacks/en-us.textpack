@@ -551,7 +551,6 @@ page_save_failed => The page was not saved due to an error. Please try again.
 page_updated => Page <strong>{name}</strong> updated.
 page_used_by_section => Page <strong>{name}</strong> not deleted; used by {count} section(s).
 page_xml_hed => XML feeds
-you_are_editing_div => You are editing div
 #@plugin
 bad_plugin_code => Badly formed or empty plugin code.
 broken_plugin => broken

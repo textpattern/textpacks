@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => Η σελίδα <strong>{name}</strong> ενημερώθηκε.
 page_used_by_section => Η Σελίδα <strong>{name}</strong> δεν διεγράφη; Χρησιμοποιείται από {count} τομείς.
 page_xml_hed => Τροφοδοσίες XML
-you_are_editing_div => Επεξεργάζεστε το div
 #@plugin
 bad_plugin_code => O πηγαίος κώδικας του αρθρώματος είναι άκυρος ή άδειος
 broken_plugin => σφάλμα

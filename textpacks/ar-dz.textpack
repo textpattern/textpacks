@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section =>
 page_xml_hed => XML تدفق
-you_are_editing_div => div يتم نشر
 #@plugin
 bad_plugin_code => النظام الأصلي لـلبلوغين غير صحيح أو غائب
 broken_plugin => متعطل

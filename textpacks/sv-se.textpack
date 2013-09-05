@@ -551,7 +551,6 @@ page_save_failed => Sidan sparades inte på grund av ett fel. Var god försök i
 page_updated => Sidmallen <strong>{name}</strong> uppdaterades.
 page_used_by_section => Sidmallen <strong>{name}</strong> raderades inte eftersom den användas av {count} avdelningar.
 page_xml_hed => XML-strömmar
-you_are_editing_div => Du redigerar div-en
 #@plugin
 bad_plugin_code => Felaktigt utformad eller tom plugin-kod.
 broken_plugin => trasig

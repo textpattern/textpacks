@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated => ปรับปรุงหน้า <strong>{name}</strong> แล้ว
 page_used_by_section =>
 page_xml_hed => XML Feed
-you_are_editing_div => คุณกำลังแก้ div
 #@plugin
 bad_plugin_code => โค้ดของปลั๊กอินว่างเปล่าหรือใช้งานไม่ได้
 broken_plugin => เสียหาย

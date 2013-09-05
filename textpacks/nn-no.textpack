@@ -551,7 +551,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section => Siden <strong>{name}</strong> ble ikke slettet da den er brukt av {count} seksjon(er).
 page_xml_hed => XML feeds
-you_are_editing_div => Du endrer div
 #@plugin
 bad_plugin_code => Feildefinert eller tom programtilleggskode
 broken_plugin => ødelagt

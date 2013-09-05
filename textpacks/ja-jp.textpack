@@ -551,7 +551,6 @@ page_save_failed => このページの保存に失敗しました。再試行く
 page_updated => ページ <strong>{name}</strong>は更新されました。
 page_used_by_section => ページ <strong>{name}</strong> を削除出来ませんでした。{count} 個のセクションで使用されています。
 page_xml_hed => XMLフィード
-you_are_editing_div => 編集中のdiv
 #@plugin
 bad_plugin_code => 不完全または空のプラグイン。
 broken_plugin => 破損
