@@ -1,4 +1,4 @@
-#@version 4.5.4;1378665797
+#@version 4.5.4;1361790486
 #@common
 lang_name => Galego
 lang_code => gl-ES
@@ -38,7 +38,7 @@ password_forgotten => Esqueciches o contrasinal?
 password_required => Por favor, introduce un novo contrasinal.
 password_reset => Cambiar contrasinal
 password_reset_button => Cambiar contrasinal
-password_reset_confirmation => Alguén (seguramente ti) pediu cambiar o teu contrasinal. Por favor, confirma esta petición facendo clic na seguinte ligazón
+password_reset_confirmation => Alguén (seguramente ti) pediu cambiar o teu contrasinal. Por favor, confirma esta petición facendo clic na seguinte ligazón.
 password_reset_confirmation_request => Por favor, confirma a túa petición de cambio de contrasinal
 password_reset_confirmation_request_sent => Enviouse unha mensaxe de confirmación á túa dirección de email. Por favor, le o teu correo e segue as instrucións.
 password_sent_to => Contrasinal enviado a:
@@ -396,7 +396,7 @@ ips_banned => Direccións IP bloqueadas para comentar: <strong>{list}</strong>.
 ip_already_banned => Dirección IP <strong>{ip}</strong> xa baneada.
 ip_banned => Dirección IP <strong>{ip}</strong> baneada.
 ip_ban_removed => Dirección IP <strong>{ip}</strong> eliminada de bloqueadas.
-just_spam_results_found => Só se atoparon comentarios spam. Usa ‘Mostrar spam‘ para velos
+just_spam_results_found => Só se atoparon comentarios spam. Usa ‘Mostrar spam‘ para velos.
 list_banned_ips => Lista de IPs bloqueadas
 list_discussions => lista de comentarios
 name_used => Nome usado
@@ -702,7 +702,7 @@ syndicate_body_or_excerpt => Sindicar corpo ou estracto
 tagalog => Tagalog
 tempdir => Cartafol temporal
 textile_links => ¿Usar textile na descripción das ligazóns?
-textpack_strings_installed => instaláronse {count} cadeas de texto desde Textpack
+textpack_strings_installed => Instaláronse {count} cadeas de texto desde Textpack
 theme_name => Tema de administración
 timeoffset => Diferencia horaria (horas)
 title_no_widow => Evitar palabras viúvas nos títulos dos artigos?
@@ -718,10 +718,10 @@ use_mail_on_feeds_id => ¿Usar email no identificador de sumarios?
 use_plugins => ¿Usar engadidos?
 year_month_day_title => /ano/mes/dí­a/tí­tulo
 #@public
-403_forbidden => Prohibido
+403_forbidden => Prohibido.
 404_not_found => 404 - A páxina requerida non foi atopada.
 410_gone => O material solicitado xa non está dispoñible.
-500_internal_server_error => Erro interno do servidor
+500_internal_server_error => Erro interno do servidor.
 ago => atrás
 all => Todos
 already_exists => xa existe
@@ -953,7 +953,7 @@ section_name => Nome da sección
 section_name_already_exists => Xa existe unha sección con este nome
 section_save_failed => Debido a un erro non se gardou a sección. Por favor, téntao de novo.
 section_updated => A sección <strong><a href="#section-{name}">{name}</a></strong> actualizouse.
-section_used_by_article => Non se borrou a sección <strong><a href="#section-{name}">{name}</a></strong>; úsaa(n) {count} artigo(s).
+section_used_by_article => Non se borrou a sección <strong>{name}</strong>; úsaa(n) {count} artigo(s).
 selected_by_default => Seleccionado por defecto
 style => Estilo
 syndicate => Sindicar
@@ -972,7 +972,7 @@ config_php_does_not_match_input => Os contidos de <code>config.php</code> non co
 config_php_not_found => Non se atopou o arquivo de configuración no lugar esperado <strong>{file}</strong>. Por favor, comproba de novo que existe.
 core_theme => Principal: {theme}
 create_config => crea un arquivo chamado <code>config.php</code> no teu directorio <code>/textpattern/</code> e pega nel o seguinte:
-creating_config => Creando o arquivo config.php
+creating_config => Creando o arquivo <code>config.php</code>
 creating_db_tables => Creando as táboas da base de datos
 db_cant_connect => Non se pode conectar á Base de Datos cos valores que introduciches.
 db_connected => Conectado
@@ -1003,7 +1003,7 @@ progress_steps => Este proceso de instalación ten 4 pasos:
 setup_comment_invite => Comentarios
 setup_login => Elixe un nome de rexistro (Só caracteres básicos e espacios. ¡Sen acentos e eñes!)
 set_db_details => Especifica as características da base de datos
-set_temp_dir_prefs => Síntoo, pero non se atopou un directorio escribible para aloxar arquivos temporais. Por favor, ve á pestana #8220;Preferencias avanzadas” e axusta a ”Ruta ao directorio temporal” para que se adecúe ás túas necesidades
+set_temp_dir_prefs => Síntoo, pero non se atopou un directorio escribible para aloxar arquivos temporais. Por favor, ve á pestana #8220;Preferencias avanzadas” e axusta a ”Ruta ao directorio temporal” para que se adecúe ás túas necesidades.
 site_config => Configuración do sitio
 site_url => URL da bitácora
 tables_exist => Parece que xa hai táboas en <strong>{dbname}</strong>. Se queres seguir adiante coa instalación, tes que borrar as táboas que hai ou elixir un prefixo de táboa diferente.
