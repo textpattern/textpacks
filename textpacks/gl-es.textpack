@@ -6,7 +6,7 @@ lang_dir => ltr
 #@admin
 add_new_author => Engadir novo autor
 and_mailed_to => e envialo a
-assign_assets_to => Asignar contido do usuario a 
+assign_assets_to => Asignar contido do usuario a
 author_already_exists => O autor <strong>{name}</strong> xa existe.
 author_deleted => Autor <strong>{name}</strong> borrado
 author_updated => Autor <strong>{name}</strong> actualizado
@@ -932,6 +932,7 @@ yes => Sí
 your_branch_is_updated => A túa instalación está actualizada
 your_ip_is_blacklisted_by => Gardouse o teu comentario. A túa dirección IP incluíuse nunha lista negra por
 you_have_been_banned => Bloquearonte para comentar
+yyyy-mm => yyyy-mm
 #@section
 article_count => Artigos nesta sección: <strong>{num}</strong>. Feixe clic para ver a lista
 create_section => Crear sección
@@ -1081,7 +1082,7 @@ section_tags => Sección
 showalways => Mostrar sempre
 showcount => Mostrar contador?
 size_format => Formato de tamaño
-sort => Ordenar por 
+sort => Ordenar por
 sort_by => Ordenar por
 sort_direction => Dirección da orde
 tag => Etiqueta
