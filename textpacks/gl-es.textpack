@@ -407,12 +407,12 @@ show_spam => Mostrar spam
 unban => Desbloquear
 #@file
 condition => Condición
-download => descargar
-downloads => descargas
+download => Descargar
+downloads => Descargas
 edit_file => Editar o arquivo
 existing_file => Arquivo existente:
 file => Arquivo
-file_already_exists => xa existe
+file_already_exists => Xa existe
 file_cannot_rename => O arquivo <strong>{name}</strong> non pode ser renombrado.
 file_category => Categoría do arquivo
 file_deleted => O arquivo <strong>{name}</strong> foi borrado.
