@@ -945,14 +945,14 @@ include_in_search => Incluír na pesquisa da bitácora
 on_front_page => Na páxina de inicio
 section => Sección
 sections => Seccions
-section_created => Sección <a href="#section-{name}">{name}</a></strong> creada.
+section_created => Sección <strong>{name}</strong> creada.
 section_deleted => Sección <strong>{name}</strong> borrada.
 section_head => Seccions da bitácora
 section_longtitle => Título da sección
 section_name => Nome da sección
 section_name_already_exists => Xa existe unha sección con este nome
 section_save_failed => Debido a un erro non se gardou a sección. Por favor, téntao de novo.
-section_updated => A sección <strong><a href="#section-{name}">{name}</a></strong> actualizouse.
+section_updated => A sección <strong>{name}</strong> actualizouse.
 section_used_by_article => Non se borrou a sección <strong>{name}</strong>; úsaa(n) {count} artigo(s).
 selected_by_default => Seleccionado por defecto
 style => Estilo
