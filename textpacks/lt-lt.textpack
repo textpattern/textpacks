@@ -649,7 +649,7 @@ include_email_atom => Naudoti el. paštą Atom srautuose?
 install_from_textpack => Įdiegti iš Textpack
 install_langfile => Norėdami įdiegti naują kalbą iš bylos turite parsiųsti jį iš {url} adreso ir patalpinį į ./textpattern/lang/ katalogą.
 install_language => Įdiegti kalbą
-install_textpack => Įdiegti textpack
+install_textpack => Įdiegti Textpack
 is_dst => <abbr title="Daylight Saving Time">DST</abbr> įjungtas?
 language => Kalba
 lastmod_keepalive => Ištaisyti ilgalaikių susijungimų mod_deflate klaidą?

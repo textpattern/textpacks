@@ -649,7 +649,7 @@ include_email_atom => کیا آٹوم فیڈ میں مصنف کا ای میل پ
 install_from_textpack =>
 install_langfile => نئے زبان آپ {url} سے ڈاونلوڈ کر سکتے ہیں ور پھر /textpattern/lang/ پوشہ میں دستیاب کریں
 install_language => زبان تنصیب کریں
-install_textpack => Install textpack
+install_textpack => Install Textpack
 is_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> اہل بنا ہے ؟
 language => زبان
 lastmod_keepalive => کیا mod_deflate میں گڑبڑ کی وجہ سے مسلسل اتصال روکا جاۓ ؟
