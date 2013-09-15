@@ -698,7 +698,6 @@ site_prefs => Préférences du site
 smtp_from => Adresse d’envoi SMTP
 spam_blacklists => Listes noires anti-spam (séparées par une virgule)
 syndicate_body_or_excerpt => Afficher le résumé à la place de l’article complet dans les flux XML ?
-tagalog => Tagalog
 tempdir => Chemin du répertoire temporaire
 textile_links => Description des liens hypertextes Textile par défaut ?
 textpack_strings_installed => {count} entrées installées à partir du fichier Textpack

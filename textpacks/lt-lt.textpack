@@ -698,7 +698,6 @@ site_prefs => Pagrindiniai
 smtp_from => SMTP laiško siuntėjo adresas
 spam_blacklists => Brukalų juodieji sąrašai (atskirti kableliais)
 syndicate_body_or_excerpt => Platinti <strong>tik</strong> straipsnių santraukas?
-tagalog => Tagalog
 tempdir => Laikinojo katalogo kelias
 textile_links => Textile susieja aprašymus pagal nutylėjimą?
 textpack_strings_installed => {count} eilutės įdiegtos iš Textpack

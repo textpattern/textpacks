@@ -698,7 +698,6 @@ site_prefs => Basic
 smtp_from => SMTP envelope sender address
 spam_blacklists => Spam blacklists (comma-separated)
 syndicate_body_or_excerpt => Syndicate article excerpt <strong>only</strong>?
-tagalog => Tagalog
 tempdir => Temporary directory path
 textile_links => Textile link descriptions by default?
 textpack_strings_installed => {count} strings installed from Textpack

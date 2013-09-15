@@ -698,7 +698,6 @@ site_prefs => Preferências do Site
 smtp_from => SMTP endereços para quem será enviado
 spam_blacklists => Lista-negra de endereços de Spam (separados por vírgula)
 syndicate_body_or_excerpt => Utilizar resumo nos feeds? (por padrão, é utilizado o corpo do artigo)
-tagalog => Tagalog
 tempdir => Diretório Temporário
 textile_links => Descrição das links usam Textile por padrão?
 textpack_strings_installed => {count} strings instaladas do Textpack

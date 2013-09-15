@@ -698,7 +698,6 @@ site_prefs => Oldal beállítások
 smtp_from => SMTP boríték küldő címe
 spam_blacklists => Spam fekete listák (vesszővel elválasztva)
 syndicate_body_or_excerpt => Bevezető szolgáltatása hírként? (alapértelmezett a törzs)
-tagalog => Tagalog
 tempdir => Ideiglenes könyvtár
 textile_links => Textile link meghatározás az alapértelmezett?
 textpack_strings_installed =>

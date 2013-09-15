@@ -698,7 +698,6 @@ site_prefs => הגדרות האתר
 smtp_from => כתובת השולח ( SMTP envelope )
 spam_blacklists => רשימה שחורה של ספאמרים(מופרדים בפסיק)
 syndicate_body_or_excerpt => לשלוח גם תוכן קשור? (ברירת מחדל היא הגוף)
-tagalog => Tagalog
 tempdir => שדה קבצים זמניים
 textile_links => תיאור קישורי Textile כברירת מחדל ?
 textpack_strings_installed => {count} מחרוזות הותקנן מ-Textpack

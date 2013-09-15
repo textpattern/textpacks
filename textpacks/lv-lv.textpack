@@ -698,7 +698,6 @@ site_prefs => Pamatuzstādījumi
 smtp_from => SMTP sūtītāja adrese
 spam_blacklists => Mēstuļu melnie saraksti (ar komatu atdalīti)
 syndicate_body_or_excerpt => Sindicēt <strong>tikai</strong> ievadtekstu?
-tagalog => Tagalog
 tempdir => Pagaidu mape
 textile_links => Automātiski noformēt saišu aprakstu ar Textile?
 textpack_strings_installed => Uzstādītas {count} rindas no Textpack

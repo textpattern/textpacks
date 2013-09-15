@@ -698,7 +698,6 @@ site_prefs => Preferències del lloc
 smtp_from =>
 spam_blacklists => Llista negra de spam (separades amb comes)
 syndicate_body_or_excerpt => Sindicar cos o extracte?
-tagalog => Tagalog
 tempdir => Directori temporal
 textile_links => Utilitzar Textile en la descripció dels enllaços?
 textpack_strings_installed =>

@@ -698,7 +698,6 @@ site_prefs => 網站基本設定
 smtp_from =>
 spam_blacklists => 垃圾郵件黑名單(逗號分隔)
 syndicate_body_or_excerpt => 訂閱以摘要顯示？ (預設為顯示全部內容)
-tagalog => Tagalog
 tempdir => 暫存路徑
 textile_links => 預設連結描述使用 Textile？
 textpack_strings_installed =>

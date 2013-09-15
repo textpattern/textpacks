@@ -698,7 +698,6 @@ site_prefs => Basit
 smtp_from =>
 spam_blacklists => Spam karalistesi (virgül ile ayrılmış)
 syndicate_body_or_excerpt => Syndicate article excerpt <strong>only</strong>?
-tagalog => Filipince
 tempdir => Geçici klasör yolu
 textile_links => Dokumabağlantı varsayılan açıklaması?
 textpack_strings_installed =>

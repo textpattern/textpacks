@@ -698,7 +698,6 @@ site_prefs => بنیادی ترجیحات
 smtp_from => SMTP بزریے ای میل بھیجنے کے لیے مرسل کا ای میل کا پتہ
 spam_blacklists => بیکار تبصرے (spam) کے فہرست (comma-separated)
 syndicate_body_or_excerpt => کیا <strong>صرف</strong> اختصار سندیکت کریں ؟
-tagalog => Tagalog
 tempdir => عارضی پوشہ کی راہ
 textile_links => Textile link descriptions by default?
 textpack_strings_installed =>

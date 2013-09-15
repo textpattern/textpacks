@@ -698,7 +698,6 @@ site_prefs => Basiseinstellungen
 smtp_from => Inhalt des SMTP-Headers "From:"
 spam_blacklists => Spam-Blacklists (kommagetrennt)
 syndicate_body_or_excerpt => <strong>Nur</strong> Exzerpte syndizieren?
-tagalog => Tagalog
 tempdir => Temporäres Verzeichnis
 textile_links => Textile für die Beschreibungen von Links verwenden?
 textpack_strings_installed => {count} Texte aus dem Textpack installiert

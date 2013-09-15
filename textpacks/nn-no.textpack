@@ -698,7 +698,6 @@ site_prefs => Innstillinger for nettsiden
 smtp_from =>
 spam_blacklists =>
 syndicate_body_or_excerpt =>
-tagalog => Tagalog
 tempdir =>
 textile_links =>
 textpack_strings_installed =>

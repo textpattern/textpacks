@@ -698,7 +698,6 @@ site_prefs => Osnovno
 smtp_from =>
 spam_blacklists => Spam crne liste (odvojene zarezom)
 syndicate_body_or_excerpt => <strong>Samo</strong> sindikalni odlomak članka?
-tagalog => Tagalog
 tempdir => Putanja privremenog foldera
 textile_links => Textile predefinisani opisi veza?
 textpack_strings_installed =>

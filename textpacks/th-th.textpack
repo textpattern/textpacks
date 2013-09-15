@@ -698,7 +698,6 @@ site_prefs => ตัวเลือกเว็บไซต์
 smtp_from => ที่อยู่ผู้ส่ง SMTP
 spam_blacklists =>
 syndicate_body_or_excerpt =>
-tagalog =>
 tempdir => โฟลเดอร์ชั่วคราว
 textile_links =>
 textpack_strings_installed =>

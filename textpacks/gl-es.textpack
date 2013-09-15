@@ -698,7 +698,6 @@ site_prefs => Preferencias da bitácora
 smtp_from => Dirección do remitente do envío SMTP
 spam_blacklists => Listas negras de spam (separadas por comas)
 syndicate_body_or_excerpt => Sindicar corpo ou estracto
-tagalog => Tagalog
 tempdir => Cartafol temporal
 textile_links => ¿Usar Textile na descripción das ligazóns?
 textpack_strings_installed => Instaláronse {count} cadeas de texto desde Textpack

@@ -698,7 +698,6 @@ site_prefs => 基本
 smtp_from => SMTP 发送地址
 spam_blacklists => Spam 黑名单（半角逗号分隔）
 syndicate_body_or_excerpt => 订阅文章摘要？（默认为文章全文)
-tagalog => Tagalog
 tempdir => 临时目录
 textile_links => 默认对链接描述使用 Textile
 textpack_strings_installed => 从 Textpack 安装了 {count} 个字符串。

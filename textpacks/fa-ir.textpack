@@ -698,7 +698,6 @@ site_prefs => پایه
 smtp_from =>
 spam_blacklists => لیست سیاه اسپم‌ها (با کاما جدا کنید)
 syndicate_body_or_excerpt => <strong>تنها</strong> منتخب نوشته‌ها در فیدها قرار گیرد؟
-tagalog => Tagalog
 tempdir => مسیر پوشه موقت
 textile_links =>
 textpack_strings_installed =>

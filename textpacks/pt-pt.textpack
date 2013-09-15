@@ -698,7 +698,6 @@ site_prefs => Preferências do Sítio
 smtp_from => endereço do envelope SMTP do remetente
 spam_blacklists => Lista-negra de endereços de Spam (separados por vírgula)
 syndicate_body_or_excerpt => Utilizar resumo nos feeds? (por defeito, é utilizado o corpo do artigo)
-tagalog => Tagalog
 tempdir => Directório Temporário
 textile_links => Descrição das ligações usam Textile por defeito?
 textpack_strings_installed => {count} textos instalados do Textpack

@@ -698,7 +698,6 @@ site_prefs => Настройки на сайта
 smtp_from => SMTP адрес на подател
 spam_blacklists => АнтиСПАМ списъци (отделени със запетая)
 syndicate_body_or_excerpt => Включете извадките в feed
-tagalog => Tagalog
 tempdir => Временна папка
 textile_links => Textile links описание по подразбиране?
 textpack_strings_installed => {count} думи инсталирани от Textpack

@@ -698,7 +698,6 @@ site_prefs => Ρυθμίσεις ιστοτόπου
 smtp_from =>
 spam_blacklists => Μαύρες λίστες “spam” (χωρισμένες με κόμματα)
 syndicate_body_or_excerpt => Ροή με κυρίως άρθρο ή απόσπασμα
-tagalog => Ταγκαλόγκ
 tempdir => Προσωρινός κατάλογος
 textile_links => Προκαθορισμένη περιγραφή συνδέσμων Textile
 textpack_strings_installed =>

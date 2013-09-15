@@ -698,7 +698,6 @@ site_prefs => Основно
 smtp_from => SMTP envelope sender address
 spam_blacklists => Spam црна-листа (odvojeno-zarezom)
 syndicate_body_or_excerpt => Синдицирај <strong>samo</strong> уводну реч уноса?
-tagalog => Tagalog
 tempdir => Temporary directory path
 textile_links => Textile линк-описи укључени по default-у?
 textpack_strings_installed =>

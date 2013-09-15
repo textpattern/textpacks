@@ -698,7 +698,6 @@ site_prefs => Dasar
 smtp_from => SMTP amplop alamat pengirim
 spam_blacklists => Daftarhitam spam (dipisahkan koma)
 syndicate_body_or_excerpt => Sindikasi kutipan artikel <strong>saja</strong>?
-tagalog => Tagalog
 tempdir => Path direktori temporer
 textile_links => Textile-kan deskripsi tautan sebagai standar?
 textpack_strings_installed => {count} karakter terpasang dari paket-teks

@@ -698,7 +698,6 @@ site_prefs => Basis
 smtp_from => E-mail verzenden met "Afzender":
 spam_blacklists => Spam blacklists (komma gescheiden)
 syndicate_body_or_excerpt => <strong>Alleen</strong> samenvatting tonen in feed?
-tagalog => Tagalog
 tempdir => tijdelijke bestanden map
 textile_links => Textile toepassen bij beschrijvingen links?
 textpack_strings_installed => {count} onderdelen geinstalleerd via Textpack

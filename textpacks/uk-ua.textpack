@@ -698,7 +698,6 @@ site_prefs => Основні налаштування
 smtp_from => Значення SMTP поля «From:»
 spam_blacklists => Сервіси, що блокують спам (через кому)
 syndicate_body_or_excerpt => Включати в Feeds <strong>тільки</strong> цитати?
-tagalog => Tagalog
 tempdir => Директорія для тимчасових файлів
 textile_links => Використовувати Textile для опису посилань, за замовчуванням?
 textpack_strings_installed => {count} рядків встановлені з Textpack

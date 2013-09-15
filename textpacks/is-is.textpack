@@ -698,7 +698,6 @@ site_prefs => Forstillingar síðu
 smtp_from =>
 spam_blacklists => Svartilistinn Spam (setja kommu á milli)
 syndicate_body_or_excerpt => Fréttamiðla inngang? (sjálfgefið er texti)
-tagalog => Tagalog
 tempdir => Bráðabirgðamappa
 textile_links => Textile tenglalýsing sjálgefin?
 textpack_strings_installed =>

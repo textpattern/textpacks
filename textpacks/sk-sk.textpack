@@ -698,7 +698,6 @@ site_prefs => Nastavenia stránok
 smtp_from =>
 spam_blacklists => Spam blacklists (oddelené čiarkou)
 syndicate_body_or_excerpt => Syndikovať anotáciu článku? (default is body)
-tagalog => Tagalogčina
 tempdir => Adresár pre dočasné súbory
 textile_links => Predvoliť popis odkazov pomocou Textile?
 textpack_strings_installed =>

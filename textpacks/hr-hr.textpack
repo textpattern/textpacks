@@ -698,7 +698,6 @@ site_prefs => Osnovno
 smtp_from =>
 spam_blacklists => Spam crna-lista (odvojeno-zarezom)
 syndicate_body_or_excerpt => Sindiciraj <strong>samo</strong> sažetak unosa?
-tagalog => Tagalog
 tempdir => Temporary directory path
 textile_links => Textile link opise po defaultu?
 textpack_strings_installed =>

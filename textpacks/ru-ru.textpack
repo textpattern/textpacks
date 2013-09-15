@@ -698,7 +698,6 @@ site_prefs => Настройки сайта
 smtp_from => Значение SMTP поля "From:"
 spam_blacklists => Сервисы, блокирующие спам (через запятую)
 syndicate_body_or_excerpt => Включать в поток <strong>только</strong> выдержку? (по умолчанию статью целиком)
-tagalog => Tagalog
 tempdir => Папка для временных файлов
 textile_links => Использовать Textile для описания ссылок по умолчанию?
 textpack_strings_installed => {count} строк установленно из файла

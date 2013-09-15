@@ -698,7 +698,6 @@ site_prefs => Ustawienia witryny
 smtp_from =>
 spam_blacklists => Czarna lista SPAMu (adresy oddzielone przecinkami)
 syndicate_body_or_excerpt => Umieszczać zajawki w kanałach XML? (domyślnie treść)?
-tagalog => Tagalog
 tempdir => Scieżka do katalogu tymczasowego
 textile_links => Używać Textile do formatowania opisów linków?
 textpack_strings_installed =>

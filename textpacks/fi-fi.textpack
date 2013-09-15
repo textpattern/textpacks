@@ -698,7 +698,6 @@ site_prefs => Sivuston asetukset
 smtp_from => SMTP kirjeen lähettäjän osoite
 spam_blacklists => Roskapostilistat (pilkuin eroteltuna)
 syndicate_body_or_excerpt => Syndikoi johdanto? (oletuksena leipäteksti)
-tagalog => Tagalog
 tempdir => Väliaikaishakemisto
 textile_links => Käytä oletuksena Textileä linkkien kuvauksessa?
 textpack_strings_installed => {count} käännöstä asennettu Textpack-tiedostosta

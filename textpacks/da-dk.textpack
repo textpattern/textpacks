@@ -698,7 +698,6 @@ site_prefs => Grundlæggende
 smtp_from => SMTP afsender adresse
 spam_blacklists => Spam sortlister (komma separeret)
 syndicate_body_or_excerpt =>
-tagalog => tagalog
 tempdir => Midlertidig mappe
 textile_links =>
 textpack_strings_installed =>

@@ -698,7 +698,6 @@ site_prefs => 簡易設定
 smtp_from => SMTPで送信する送信元メールアドレス
 spam_blacklists => Spamブラックリスト(カンマ区切り)
 syndicate_body_or_excerpt => フィードに記事の概要<strong>のみ</strong>掲載しますか？
-tagalog => Tagalog
 tempdir => 一時ディレクトリパス
 textile_links => Textileのリンク説明を初期設定で有効にしますか？
 textpack_strings_installed => Textpackから {count} 個の文字列をインストールしました

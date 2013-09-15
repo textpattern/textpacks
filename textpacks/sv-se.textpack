@@ -698,7 +698,6 @@ site_prefs => Grundläggande
 smtp_from => SMTP-avsändaradress
 spam_blacklists => Spam-svartlista (komma-separerad)
 syndicate_body_or_excerpt => Syndikera <strong>enbart</strong> artikelns utdrag?
-tagalog => Tagalog
 tempdir => Tillfällig mapp
 textile_links => Textile i länkbeskrivningen som förval?
 textpack_strings_installed => {count} ord installerade från Textpack

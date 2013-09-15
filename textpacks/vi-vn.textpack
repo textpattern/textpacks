@@ -698,7 +698,6 @@ site_prefs => Cơ bản
 smtp_from =>
 spam_blacklists => Danh sách đen chống spam (phân cách bằng dấu phẩy)
 syndicate_body_or_excerpt => Chỉ đưa phần trích vào feed (mặc định là nội dung)?
-tagalog => Tagalog
 tempdir => Đường dẫn tới thư mục tạm
 textile_links => Mặc định để diễn giải cho link định dạng bằng Textile?
 textpack_strings_installed =>

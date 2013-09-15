@@ -698,7 +698,6 @@ site_prefs => Saidi seaded
 smtp_from =>
 spam_blacklists => Spämmijate must nimekiri (komadega eraldatud)
 syndicate_body_or_excerpt => Liida kokkuvõte?(vaikimisi on seatud sisu)
-tagalog => Tagalog
 tempdir => Temp kataloog
 textile_links => Textile links description by default?
 textpack_strings_installed =>

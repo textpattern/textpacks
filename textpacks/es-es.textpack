@@ -698,7 +698,6 @@ site_prefs => Básicas
 smtp_from => Dirección del remitente del envío SMTP
 spam_blacklists => Listas negras de spam (separadas por comas)
 syndicate_body_or_excerpt => ¿Sindicar <strong>sólo</strong> el resumen del artículo?
-tagalog => Tagalog
 tempdir => Ruta al directorio temporal
 textile_links => ¿Usar por defecto Textile en las descripciones de los enlaces?
 textpack_strings_installed => se han instalado {count} cadenas de texto desde Textpack
