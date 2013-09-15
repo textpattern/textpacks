@@ -1,6 +1,6 @@
 #@version 4.5.4;1361790486
 #@common
-lang_name => Tiếng Việt (Việt Nam)
+lang_name => Tiếng Việt
 lang_code => vi-VN
 lang_dir => ltr
 #@admin

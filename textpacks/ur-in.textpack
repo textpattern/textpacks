@@ -1,6 +1,6 @@
 #@version 4.5.4;1361790486
 #@common
-lang_name => اردو (بھارت)
+lang_name => اردو
 lang_code => ur-IN
 lang_dir => rtl
 #@admin

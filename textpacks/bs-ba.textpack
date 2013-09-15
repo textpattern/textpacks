@@ -1,6 +1,6 @@
 #@version 4.5.4;1361790486
 #@common
-lang_name => Bosanski (Bosna i Hercegovina)
+lang_name => Bosanski
 lang_code => bs-BA
 lang_dir => ltr
 #@admin
