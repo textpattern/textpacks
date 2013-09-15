@@ -1,6 +1,6 @@
 #@version 4.5.4;1361790486
 #@common
-lang_name => Bokmål
+lang_name => Norsk (Bokmål)
 lang_code => nb-NO
 lang_dir => ltr
 #@admin
