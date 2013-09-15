@@ -689,7 +689,6 @@ referrers_only => Uniquement les référents ؟؟؟
 remove_lang =>
 rpc_connect_error => يتعذر الاتصال عبر الموزع لببعيد لتثبيت اللغات, شكرا على محاولتك بعد حين
 rss_how_many => XML (RSS) كم من المقالات تمر عبر تدفق
-scots => Écossais
 section_id_title => /section/id/title
 section_title => /section/titre
 send_lastmod => إرسال عنوان التغيير الأخير

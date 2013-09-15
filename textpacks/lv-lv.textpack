@@ -689,7 +689,6 @@ referrers_only => Tikai nākušos no citām lapām
 remove_lang => Noņemt valodu
 rpc_connect_error => Neizdevās pievienoties serverim, lai pārbaudītu valodu jauninājumus. Lūdzu, mēģiniet vēlāk.
 rss_how_many => Cik daudz ierakstu parādīt RSS?
-scots => Scots
 section_id_title => /sadaļa/id/virsraksts
 section_title => /sadaļa/virsraksts
 send_lastmod => Nosūtīt Last-Modified galveni

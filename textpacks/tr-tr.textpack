@@ -689,7 +689,6 @@ referrers_only => Referrers only
 remove_lang =>
 rpc_connect_error => Dil dosyası güncellemesi için Uzak Bilgisayara(RPC) kurulan bağlantıda sorun algılandı. Lütfen , daha sonra tekrar deneyin.
 rss_how_many => Bu besleme kaç makale içermelidir?
-scots => İskoç dili
 section_id_title => /section/id/title
 section_title => /section/title
 send_lastmod => Send “Last-Modified” header?

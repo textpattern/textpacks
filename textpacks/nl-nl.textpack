@@ -689,7 +689,6 @@ referrers_only => Alleen referenties
 remove_lang => Taal verwijderen
 rpc_connect_error => Het is op dit moment niet mogelijk om vanaf de server de talen te installeren. Probeer het later nogmaals.
 rss_how_many => Hoe veel artikelen in RSS?
-scots => Schots
 section_id_title => /sectie/id/titel
 section_title => /sectie/titel
 send_lastmod => Last-Modified header meesturen?

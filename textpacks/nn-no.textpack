@@ -689,7 +689,6 @@ referrers_only => Kun henvisere
 remove_lang =>
 rpc_connect_error =>
 rss_how_many =>
-scots => Scots
 section_id_title => /seksjon/id/tittel
 section_title => /seksjon/tittel
 send_lastmod => Send headeren som sist ble endret

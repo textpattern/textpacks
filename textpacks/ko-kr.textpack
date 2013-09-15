@@ -689,7 +689,6 @@ referrers_only => 단지 리퍼러만
 remove_lang =>
 rpc_connect_error => 원격 서버에 접속이 불가능하여 언어 파일을 갱신할 수 없습니다. 잠시 후 다시 시도하세요.
 rss_how_many => RSS에 표시할 글의 갯수는?
-scots => Scots
 section_id_title => /섹션/id/제목
 section_title => /섹션/제목
 send_lastmod => "최종 수정 헤더"를 보냅니까?

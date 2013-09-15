@@ -689,7 +689,6 @@ referrers_only => Tik užklausų šaltiniai
 remove_lang => Pašalinti kalbą
 rpc_connect_error => Nepavyko prisijungti prie nuotolinio serverio, siekiant surasti kalbų naujinimo rinkmenų. Prašome pabandyti vėliau.
 rss_how_many => Kiek straipsnių turi būti skalidos sraute?
-scots => Scots
 section_id_title => /sekcija/identifikatorius/pavadinimas
 section_title => /sekcija/pavadinimas
 send_lastmod => Siųsti “Last-Modified” antraštę?

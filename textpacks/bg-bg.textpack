@@ -689,7 +689,6 @@ referrers_only => Referrers only
 remove_lang => Изтрий езикът
 rpc_connect_error => Невъзможно свързването с отдалечения сървър за налични ъпдейти за езиковите файлове. Моля, опитайте отново.
 rss_how_many => Колко статии да има в RSS?
-scots => Scots
 section_id_title => /section/id/title
 section_title => /section/title
 send_lastmod => Изпрати Last-Modified header

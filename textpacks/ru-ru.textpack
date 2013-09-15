@@ -689,7 +689,6 @@ referrers_only => Только referrer’ы
 remove_lang => Удалить язык
 rpc_connect_error => Невозможно подключиться к удаленному серверу для проверки обновленных языковых файлов. Повторите попытку позднее.
 rss_how_many => Сколько статей включать в потоки?
-scots => Scots
 section_id_title => /секция/id/заголовок
 section_title => /секция/заголовок
 send_lastmod => Посылать „Last-Modified“ header?

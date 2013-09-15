@@ -689,7 +689,6 @@ referrers_only => Jen odkazující servery
 remove_lang => Odstranit jazyk
 rpc_connect_error => Nelze se spojit se serverem pro ověření dostupných jazyků. Zkus to později.
 rss_how_many => Počet článků přes RSS?
-scots => Skotština
 section_id_title => /rubrika/id/název
 section_title => /rubrika/název
 send_lastmod => Odesílat hlavičku poslední úpravy?

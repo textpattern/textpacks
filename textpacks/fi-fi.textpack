@@ -689,7 +689,6 @@ referrers_only => Vain viittaukset
 remove_lang => Poista kieli
 rpc_connect_error => Etäpalvelimeen ei saatu muodostettua yhteyttä uusien kieliversioiden hakemiseksi. Ole hyvä ja yritä myöhemmin uudelleen.
 rss_how_many => Kuinka monta artikkelia RSS:ssä?
-scots => Scots
 section_id_title => /osio/id/otsikko
 section_title => /osio/otsikko
 send_lastmod => Lähetä Last-Modified header

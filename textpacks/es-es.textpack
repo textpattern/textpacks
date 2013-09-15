@@ -689,7 +689,6 @@ referrers_only => Sólo si hay remitente
 remove_lang => Quitar el idioma
 rpc_connect_error => No se puede conectar con el servidor remoto para buscar actualizaciones de idiomas. Por favor, inténtalo más tarde.
 rss_how_many => ¿Cuántos artículos se incluirán en los feeds?
-scots => Escocés
 section_id_title => /seccion/id/titulo
 section_title => /seccion/titulo
 send_lastmod => ¿Mandar encabezado "Última-modificación"?

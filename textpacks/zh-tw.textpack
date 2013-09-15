@@ -689,7 +689,6 @@ referrers_only => 僅紀錄逆向連結
 remove_lang =>
 rpc_connect_error => 無法連接遠端伺服器檢查更新語系檔，請稍後再試。
 rss_how_many => RSS 的文章數
-scots => Scots
 section_id_title => /section/id/title
 section_title => /section/title
 send_lastmod => 傳送 “Last-Modified” header？

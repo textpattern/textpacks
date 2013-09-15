@@ -689,7 +689,6 @@ referrers_only => 只有反向链接
 remove_lang => 删除语言
 rpc_connect_error => 无法连接远端服务器检查语言文件更新，请稍后再试。
 rss_how_many => Feed 中的文章数目
-scots => Scots
 section_id_title => /section/id/title
 section_title => /section/title
 send_lastmod => 发送“Last-Modified”文件头？

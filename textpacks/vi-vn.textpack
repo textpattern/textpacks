@@ -689,7 +689,6 @@ referrers_only => Chỉ lưu referer
 remove_lang =>
 rpc_connect_error => Không thể kết nối vào máy chủ để kiểm tra bản cập nhật của các file ngôn ngữ. Hãy thử lại.
 rss_how_many => Bao nhiêu bài viết sẽ được đặt trong feed?
-scots => Tiếng Scotland
 section_id_title => /mục/id/tiêu đề
 section_title => /mục/tiêu đề
 send_lastmod => Gửi header “Last-Modified”?

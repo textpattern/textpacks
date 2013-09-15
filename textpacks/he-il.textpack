@@ -689,7 +689,6 @@ referrers_only => מפנים בלבד
 remove_lang => הסר שפה
 rpc_connect_error => לא יכול להתחבר לשרת המרוחק לבדיקת קבצי שפה מעודכנים. אנא נסה שוב מאוחר יותר.
 rss_how_many => כמה מאמרים ב-RSS?
-scots => Scots
 section_id_title => /section/id/title
 section_title => /section/title
 send_lastmod => שלח Last-Modified http header

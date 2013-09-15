@@ -689,7 +689,6 @@ referrers_only => レファラーのみ
 remove_lang => 言語を削除
 rpc_connect_error => 言語ファイルの取得に失敗しました。時間をおいて再度実行してください。
 rss_how_many => フィードに含める記事数
-scots => Scots
 section_id_title => /セクション/id/タイトル
 section_title => /セクション/タイトル
 send_lastmod => Last-Modified ヘッダーを送る

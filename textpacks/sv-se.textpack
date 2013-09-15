@@ -689,7 +689,6 @@ referrers_only => Enbart hänvisningar
 remove_lang => Ta bort språk
 rpc_connect_error => Kan inte fjärransluta till RPC-servern för att leta efter uppdaterade språkfiler. Var god försök igen senare.
 rss_how_many => Antal objekt i RSS-strömmar
-scots => Scots
 section_id_title => /avdelning/id/titel
 section_title => /avdelning/titel
 send_lastmod => Skicka Last-Modified-header

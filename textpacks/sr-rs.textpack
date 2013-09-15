@@ -689,7 +689,6 @@ referrers_only => Referrers only
 remove_lang =>
 rpc_connect_error => Не могу се спојити на сервер да прегледам освежене језичне датотеке. Молим пробајте касније.
 rss_how_many => Колико уноса би требало бити укључено у feed-ове?
-scots => Scots
 section_id_title => /sekcija/id/naslov
 section_title => /sekcija/naslov
 send_lastmod => Пошаљи ’Last-Modified’ header?

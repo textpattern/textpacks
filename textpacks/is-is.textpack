@@ -689,7 +689,6 @@ referrers_only => Aðeins tilvísun
 remove_lang =>
 rpc_connect_error => Get ekki tengst remote server til að athuga uppfærslur á tungumálum. Vinsamlegast reyndu aftur síðar.
 rss_how_many => Sýna hversu margar greinar með RSS?
-scots => Skoska
 section_id_title => /hluti/id/titill
 section_title => /hluti/titill
 send_lastmod => Senda síðast breytta síðuhaus

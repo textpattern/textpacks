@@ -689,7 +689,6 @@ referrers_only => Doar referreri
 remove_lang =>
 rpc_connect_error => Nu ma pot conecta la server pentru a verifica fisierele de limba noi. Incearca te rog mai tarziu.
 rss_how_many => Cate articole in RSS?
-scots => Scotiana
 section_id_title => /sectiune/id/titlu
 section_title => /sectiune/titlu
 send_lastmod => Trimite header Ultim-Modificat (Last-Modified)

@@ -689,7 +689,6 @@ referrers_only => Referrers only
 remove_lang => Remove language
 rpc_connect_error => Can’t connect to remote server to check for updated language files. Please try again later.
 rss_how_many => How many articles should be included in feeds?
-scots => Scots
 section_id_title => /section/id/title
 section_title => /section/title
 send_lastmod => Send "Last-Modified" header?

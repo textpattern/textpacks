@@ -689,7 +689,6 @@ referrers_only => صرف کہاں سے آئے
 remove_lang =>
 rpc_connect_error => نئے زبان نصب کرنے کے لیے بعید سرور سے ربط نہیں ہوا، پھر کبھی دوبارہ کوشس کریں
 rss_how_many => اسس فیڈ میں کتنے مضامین نمائش کریں ؟
-scots => Scots
 section_id_title => /section/id/title
 section_title => /section/title
 send_lastmod => سائٹ کے نظریں کو "Last-Modified" بھیجیں ؟

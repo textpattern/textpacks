@@ -689,7 +689,6 @@ referrers_only => Só visitantes
 remove_lang => Remove linguagem
 rpc_connect_error => Não é possível ligar ao servidor remoto para actualizar os ficheiros de idioma. Por favor, tente mais tarde.
 rss_how_many => Quantos artigos a distribuir em RSS?
-scots => Escocês
 section_id_title => /secção/id/título
 section_title => /secção/título
 send_lastmod => Enviar informação da última alteração ao Sítio

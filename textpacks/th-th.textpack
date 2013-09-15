@@ -689,7 +689,6 @@ referrers_only => ผู้แนะนำมาเท่านั้น
 remove_lang =>
 rpc_connect_error => ไม่สามารถติดต่อเซิฟเวอร์เพื่อตรวจสอบไฟล์ภาษาที่ปรับปรุงใหม่ โปรดลองใหม่เวลาอื่น
 rss_how_many => แสดงกี่บทความทาง RSS?
-scots => สก็อตแลนด์
 section_id_title => /ส่วน/รหัส/ชื่อ
 section_title => /ส่วน/ชื่อ
 send_lastmod => ส่งวันที่ปรับปรุงล่าสุด

@@ -689,7 +689,6 @@ referrers_only => Csak hivatkozások
 remove_lang =>
 rpc_connect_error => Nem sikerült csatlakozni a szerverhez a nyelvek frissítéséhez. Kérlek próbáld később!
 rss_how_many => Hány cikk jelenjen meg az RSS csatornán?
-scots => Scots
 section_id_title => /szekcio/id/cim
 section_title => /szekcio/cim
 send_lastmod => "Utolsó módosítás" fejléc kiküldése
