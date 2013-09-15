@@ -101,9 +101,9 @@ url_title_is_multiple => Die selbe benutzerdefinierte URL wird von {count} versc
 view_html => HTML anzeigen
 view_html_short => HTML
 view_preview => Vorschau
-view_preview_short =>
+view_preview_short => Vorschau
 view_text => Text bearbeiten
-view_text_short =>
+view_text_short => Text
 write => Verfassen
 #@category
 article_categories_deleted => Artikelkategorie gelöscht: <strong>{list}</strong>.
