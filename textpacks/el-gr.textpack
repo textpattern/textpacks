@@ -103,7 +103,7 @@ view_html_short => HTML
 view_preview => Προεπισκόπηση
 view_preview_short => Προεπισκόπηση
 view_text => δείτε το κείμενο
-view_text_short => κείμενο
+view_text_short => Κείμενο
 write => Συγγραφή
 #@category
 article_categories_deleted => Διαγραφείσες κατηγορίες άρθρων: <strong>{list}</strong>.
