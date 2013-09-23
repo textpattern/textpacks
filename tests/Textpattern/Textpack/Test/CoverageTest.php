@@ -278,4 +278,39 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
             }
         }
     }
+
+    /**
+     * Tests translations for empty strings.
+     */
+
+    public function testEmpty()
+    {
+        $report = array();
+
+        foreach (self::$translations as $file)
+        {
+            $contents = file_get_contents($file->getPathname());
+            $strings = self::$textpack->parse($contents);
+            $lang = $file->getBasename('.textpack');
+            $count = 0;
+
+            foreach ($strings as $key => $data)
+            {
+                if ($data['data'] === '')
+                {
+                    $count++;
+                }
+            }
+
+            if ($count)
+            {
+                $report[] = "{$lang}: {$count}";
+            }
+        }
+
+        if ($report)
+        {
+           fwrite(STDOUT, "\n\nEmpty strings:\n" . implode("\n", $report)."\n\n");
+        }
+    }
 }
