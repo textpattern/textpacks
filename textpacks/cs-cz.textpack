@@ -667,7 +667,6 @@ never_display_email => Skrývat emailové adresy?
 new_textpattern_version_available => Existuje zcela nová verze Textpattern. Chceš ji <a href="http://textpattern.com/download" rel="external">vyzkoušet</a>?
 no_popup => do stránky
 override_emailcharset => Použít v emailech znakovou sadu ISO-8859-1 (výchozí je UTF-8)?
-page_mode => Režim stránek
 path_from_root => Složka (je-li nějaká)
 path_to_site_missing => Hodnota <code>$path_to_site</code> není nastavena (stará verze <code>index.php</code>)
 permalink_title_format => Název do odkazů s-pomlčkami (místo VelkáMalá)?

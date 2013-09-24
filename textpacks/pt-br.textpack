@@ -667,7 +667,6 @@ never_display_email => Nunca mostar endereço de e-mail?
 new_textpattern_version_available => Está disponível uma versão completamente nova do Textpattern. Quer experimenta-la?
 no_popup => janela atual
 override_emailcharset => No e-mail usar ISO-8859-1? (UTF-8 por padrão)
-page_mode => Modo de página
 path_from_root => Subdiretório (se existir)
 path_to_site_missing => O Caminho para o Site <code>$path_to_site</code> não está definido (atualizar <code>index.php</code>)
 permalink_title_format => Nas links permanentes usar o formato "título-do-artigo"? (Por padrão o formato é "TítuloDoArtigo")

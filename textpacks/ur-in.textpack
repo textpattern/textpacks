@@ -667,7 +667,6 @@ never_display_email => کیا تبصرہ نگار کا‏ ای میل پتہ پ�
 new_textpattern_version_available => There is a completely new Textpattern version available. Do you want to try it?
 no_popup => فعال دریچہ میں
 override_emailcharset => کیا مرسلہ ای میل میں ISO-8859-1 ضابطہ بندی استمعال کریں ؟ (خودکار طور پر UTF-8 استمعال کیا جاۓ گا)
-page_mode => صفہ کا موڈ
 path_from_root => Sub-directory (if any)
 path_to_site_missing => <code>$path_to_site</code> is not set (update <code>index.php</code>)
 permalink_title_format => مستقل روابط میں‏ title-like-this (ورنہ TitleLikeThis) ؟

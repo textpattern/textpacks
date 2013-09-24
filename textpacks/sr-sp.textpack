@@ -667,7 +667,6 @@ never_display_email => Nikad ne prikazuj e-mail adrese?
 new_textpattern_version_available => Postoji kompletno nova verzija Textpattern-a. Da li je želite probati?
 no_popup => trenutni prozor
 override_emailcharset => Upotrebi ISO-8859-1 enkoding kod poslanih e-mailova (default je UTF-8)?
-page_mode => Mod stranice
 path_from_root => Sub-directory (ako ima)
 path_to_site_missing => <code>$path_to_site</code> nije postavljen (update <code>index.php</code>)
 permalink_title_format => Permalinkovi title-like-this (default je TitleLikeThis)?

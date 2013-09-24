@@ -667,7 +667,6 @@ never_display_email => Nascondi sempre l’e-mail?
 new_textpattern_version_available => È disponibile una nuova versione di Textpattern. La vuoi provare?
 no_popup => stessa finestra
 override_emailcharset => Uso la codifica ISO-8859-1 per le e-mail? (la predefinita è UTF-8)
-page_mode => Modalità pagina
 path_from_root => Sotto-cartella (nel caso esista)
 path_to_site_missing => <code>$path_to_site</code> non è impostato (aggiorna <code>index.php</code>)
 permalink_title_format => Link permanente scritto-in-questo-modo (invece di ScrittoInQuestoModo)

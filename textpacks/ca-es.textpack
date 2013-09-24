@@ -667,7 +667,6 @@ never_display_email => No mostrar mai l’adreça de correu?
 new_textpattern_version_available => Hi ha disponible una nova versió de Textpattern.
 no_popup => finestra actual
 override_emailcharset => Utilitzar ISO-8859-1 pels correus electrònics? (Per defecte es UTF-8)?
-page_mode => Mode de pàgina
 path_from_root => Subdirectori (si en hi ha)
 path_to_site_missing => No s’ha establert <code>$path_to_site</code> (actualitza <code>index.php</code>)
 permalink_title_format => Format dels títols en els enllaços permanents?

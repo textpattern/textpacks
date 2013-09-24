@@ -667,7 +667,6 @@ never_display_email => E-mailadressen altijd verbergen?
 new_textpattern_version_available => Er is een nieuwe versie van Textpattern beschikbaar. Wil je deze proberen?
 no_popup => huidig window
 override_emailcharset => ISO-8859-1 gebruiken voor e-mail? (standaard is utf-8)?
-page_mode => Paginamodus
 path_from_root => Submap (indien van toepassing)
 path_to_site_missing => <code>$path_to_site</code> is niet goed aangegeven (vernieuw <code>index.php</code>)
 permalink_title_format => Permalink titel-zoals-dit (standaard is TitelZoalsDit)

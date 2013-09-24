@@ -667,7 +667,6 @@ never_display_email => Nigdy nie pokazywać adresów e-mail?
 new_textpattern_version_available => Dostępna jest nowa wersja Textpattern. Chcesz ją <a href="http://textpattern.com/download" rel="external">wypróbować</a>?
 no_popup => w tym samym oknie
 override_emailcharset => Używać ISO-8859-1 w e-mailach (domyślnie jest utf-8)?
-page_mode => Tryb strony
 path_from_root => Podkatalog (jeśli istnieje)
 path_to_site_missing => Zmienna <code>$path_to_site</code> nie jest ustawiona (uaktualnij <code>index.php</code>)
 permalink_title_format => tytuł-permalinku-ma-wyglądać-tak (domyślnie TytułWyglądaTak)?

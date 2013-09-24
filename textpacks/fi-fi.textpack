@@ -667,7 +667,6 @@ never_display_email => Älä näytä sähköpostiosoitteita?
 new_textpattern_version_available => Uusi Textpatternin versio on saatavilla. Haluatko kokeilla sitä?
 no_popup => nykyinen ikkuna
 override_emailcharset => ISO-8859-1 sähköposteissa? (oletuksena utf-8)
-page_mode => Sivun moodi
 path_from_root => Alihakemisto (jos on)
 path_to_site_missing => <code>$path_to_site</code> on määrittelemättä (päivitä <code>index.php</code>)
 permalink_title_format => Kestolinkin otsikosta-tulee-tallainen (oletuksena OtsikostaTuleeTallainen)

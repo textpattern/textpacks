@@ -667,7 +667,6 @@ never_display_email => لا تستعرض أبدا عنوان البريد الإ
 new_textpattern_version_available =>
 no_popup => النافذة الحالية
 override_emailcharset => Latin 1 (ISO-8859-1) تحويل رسا~ل البريد الإلكتروني إلى الغة اللاتينية
-page_mode => Type de gabarit ؟؟؟
 path_from_root => ملف فرعي إن كان متوفرا
 path_to_site_missing => <code>$path_to_site</code> غير موجود، اضبط
 permalink_title_format =>

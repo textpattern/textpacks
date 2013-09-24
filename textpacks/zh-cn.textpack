@@ -667,7 +667,6 @@ never_display_email => 不显示 E-mail 地址
 new_textpattern_version_available => 有一个全新的 Textpattern 版本，您想试试它吗？
 no_popup => 当前窗口
 override_emailcharset => E-mail 使用 ISO-8859-1 编码？（默认为 UTF-8）
-page_mode => 页面显示方式
 path_from_root => 子目录（如果存在）
 path_to_site_missing => <code>$path_to_site</code> 没有设置（请更新 <code>index.php</code>）
 permalink_title_format => 永久链接 title-like-this？（默认为 TitleLikeThis）

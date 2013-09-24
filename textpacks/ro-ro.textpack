@@ -667,7 +667,6 @@ never_display_email => Nu afisa adresa de mail?
 new_textpattern_version_available => Este disponibila o versiune complet noua a Textpattern-ului. Vrei sa o incerci?
 no_popup => fereastra curenta
 override_emailcharset => Foloseste ISO-8859-1 pentru e-mail-uri? (default-ul este utf-8)
-page_mode => Modul pagina
 path_from_root => Subdirectoriu (daca este cazul)
 path_to_site_missing => <code>$path_to_site</code> nu este setat (update-uieste <code>index.php</code>)
 permalink_title_format => Permalink titlu-precum-acesta (default-ul este TitluPrecumAcesta)

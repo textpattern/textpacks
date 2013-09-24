@@ -667,7 +667,6 @@ never_display_email => Απόκρυψη e-mail σχολιαστή
 new_textpattern_version_available => Μια εντελώς νέα έκδοση του Textpattern είναι διαθέσιμη! Θέλετε να την δοκιμάσετε;
 no_popup => στο τρέχον παράθυρο
 override_emailcharset => Κωδικοποίηση ISO-8859-1 για e-mail (δε συνίσταται)
-page_mode => Μορφή σελίδας
 path_from_root => Υποκατάλογος (αν υπάρχει)
 path_to_site_missing => Η μεταβλητή <code>$path_to_site</code> δεν έχει οριστεί (ανανεώστε το <code>index.php</code>)
 permalink_title_format => Μορφή τίτλων μόνιμων συνδέσμων να είναι: (τίτλος-σαν-και-αυτό)

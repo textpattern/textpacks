@@ -667,7 +667,6 @@ never_display_email => メールアドレスを隠しますか？
 new_textpattern_version_available => Textpatternをバージョンアップ可能です。<a href="http://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">使用</a>してみますか？
 no_popup => ポップアップを無効にする
 override_emailcharset => メールのエンコードにISO-8859-1使用しますか(初期設定：UTF-8)？
-page_mode => ページモード
 path_from_root => サブディレクトリ (任意)
 path_to_site_missing => <code>$path_to_site</code> が設定されていません(<code>index.php</code>を更新してください)
 permalink_title_format => タイトルのパーマリンクをtitle-like-thisにしますか？(もしくはTitleLikeThis)?

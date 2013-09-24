@@ -667,7 +667,6 @@ never_display_email => Ära kunagi näita e-maili?
 new_textpattern_version_available => Täiesti uus textpatterni versioon on saadaval. Kas soovid seda proovida?
 no_popup => Samas aknas
 override_emailcharset => Kasuta e-mailides ISO-8559-1? (vaikimisi utf-8)
-page_mode => Lehe režiim
 path_from_root => Alamkataloog (kui on)
 path_to_site_missing => <code>$path_to_site</code> ei ole seatud (uuenda <code>index.php</code>)
 permalink_title_format => Püsilingi pealkirja formaat

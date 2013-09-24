@@ -667,7 +667,6 @@ never_display_email => Nikdy nezobraziť e-mail?
 new_textpattern_version_available => Existuje úplne nová verzia Textpattern systému. Chcete ju vyskúšať?
 no_popup => do stránky
 override_emailcharset => Používať kódovanie ISO-8859-1 v e-mailoch? (prednastavené je utf-8)
-page_mode => Režim stránok
 path_from_root => Priečinok (ak je nejaký)
 path_to_site_missing => Hodnota <code>$path_to_site</code> nie je nastavená (stará verzia <code>index.php</code>)
 permalink_title_format => Trvalý odkaz vo formáte ako-je-tento (prednastavené je AkoJeTento)

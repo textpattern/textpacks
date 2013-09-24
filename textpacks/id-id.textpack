@@ -667,7 +667,6 @@ never_display_email => Sembunyikan alamat email?
 new_textpattern_version_available => Ada versi terbaru Textpattern yang tersedia. Apakah Anda ingin mencobanya?
 no_popup => jendela aktif
 override_emailcharset => Gunakan ISO-8859-1 untuk email? (standarnya utf-8)
-page_mode => Mode halaman
 path_from_root => Sub-direktori (jika ada)
 path_to_site_missing => <code>$path_to_site</code> belum diatur (ganti <code>index.php</code>)
 permalink_title_format => Tautan permanen judul-seperti-ini (bukan JudulSepertiIni)?

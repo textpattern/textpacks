@@ -667,7 +667,6 @@ never_display_email => Скрывать e-mail?
 new_textpattern_version_available => Доступна совершенно новая версия Textpattern. Хотите попробовать?
 no_popup => в том же окне
 override_emailcharset => Использовать кодировку ISO-8859-1 для e-mail? (по умолчанию: UTF-8)
-page_mode => Режим страницы
 path_from_root => Поддиректория (если есть)
 path_to_site_missing => <code>$path_to_site</code> не указан (обновите <code>index.php</code>)
 permalink_title_format => Формат заголовка постоянных ссылок

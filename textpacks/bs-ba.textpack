@@ -667,7 +667,6 @@ never_display_email => Sakriti adresu e-pošte?
 new_textpattern_version_available => Na raspolaganju je potpuno nova verzija Textpatterna. Da li je želite isprobati?
 no_popup => current window
 override_emailcharset => Koristiti ISO-8859-1 kodiranje u poslatim porukama e-pošte (podrazumijevani je UTF-8)?
-page_mode => Način rada stranice
 path_from_root => Pod-mapa (ako postoji)
 path_to_site_missing => <code>$path_to_site</code> nije postavljen (ažurirajte <code>index.php</code>)
 permalink_title_format => Stalni link naslov-ovako (umjesto NaslovOvako)?

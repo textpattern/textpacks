@@ -667,7 +667,6 @@ never_display_email =>
 new_textpattern_version_available =>
 no_popup => aktivt vindu
 override_emailcharset =>
-page_mode => Sidemodus
 path_from_root => Underkatalog (derom den eksisterer)
 path_to_site_missing => <code>$path_to_site</code> er ikke satt (oppdater <code>index.php</code>)
 permalink_title_format => Permalink i dette-formatet (standard er DetteFormatet)?

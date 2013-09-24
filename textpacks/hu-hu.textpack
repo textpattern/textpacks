@@ -667,7 +667,6 @@ never_display_email => Soha ne jelenítse meg az e-mail címet?
 new_textpattern_version_available => Egy teljesen új Textpattern változat érhető el. Kipróbálod?
 no_popup => current window
 override_emailcharset => ISO-8859-1 kódlap használata e-maielekhez? (alapértelmezett az utf-8)
-page_mode => Oldal mód
 path_from_root => Alkönytár (ha szükséges)
 path_to_site_missing => <code>$path_to_site</code> nincs beállítva (Az <code>index.php</code> frissítése szükséges)
 permalink_title_format => Permalink generálása cim-mint-ez (alapértelmezett formátum a CimMintEz)

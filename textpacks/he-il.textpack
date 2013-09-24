@@ -667,7 +667,6 @@ never_display_email => לעולם לא להציג דואל?
 new_textpattern_version_available => גירסה חדשה של Textpattern שוחררה. האם ברצונך לנסות אותה?
 no_popup => החלון הנוכחי
 override_emailcharset => להשתמש בקידוד ISO-8859-1 לדואל? (ברירת המחדל היא utf-8)
-page_mode => מצב דף
 path_from_root => תת ספרייה (אם קיימת)
 path_to_site_missing => <code>$path_to_site</code> לא מוגדר(עדכן <code>index.php</code>)
 permalink_title_format => קישור-קבוע title-like-this (ברירת המחדל TitleLikeThis)

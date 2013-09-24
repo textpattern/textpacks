@@ -667,7 +667,6 @@ never_display_email => Asla e-posta adreslerini gösterme?
 new_textpattern_version_available => Yeni Textpattern sürümü mevcut. Denemek istermisiniz?
 no_popup => varsayılan pencere
 override_emailcharset => E-posta gönderirken ISO-8859-1 kodlamayı kullan (varsayılan UTF-8)?
-page_mode => Sayfa biçimi
 path_from_root => Alt klasörler (varsa)
 path_to_site_missing => <code>$path_to_site</code> ayarlı değil (<code>index.php</code> dosyanızı güncelleyin)
 permalink_title_format => Kalıcı bağlantılar (ayrılmış-başlıklara-örnek (varsayılan ayrılmışbaşlıklaraörnek biçiminde)) kullanılsın mı?
