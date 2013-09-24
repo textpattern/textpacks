@@ -612,7 +612,7 @@ comments_on_default => Comments on by default?
 comments_require_email => Comments require user’s email address?
 comments_require_name => Comments require user’s name?
 comments_sendmail => Email comments to author?
-comments_use_fat_textile => Allow more Textile markup?
+comments_use_fat_textile => Allow more Textile markup in comments?
 comment_means_site_updated => New comment means site updated?
 comment_nofollow => Apply rel="nofollow" to comments?
 convert_linebreaks => Convert linebreaks
@@ -663,7 +663,7 @@ markup_default => Default markup
 max_url_len => Maximum URL length (in characters)
 mentions => Mentions
 messy => ?=messy
-never_display_email => Hide email address?
+never_display_email => Hide commenter email address?
 new_textpattern_version_available => There is a completely new Textpattern CMS version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?
 no_popup => current window
 override_emailcharset => Use ISO-8859-1 encoding in emails (default is UTF-8)?
