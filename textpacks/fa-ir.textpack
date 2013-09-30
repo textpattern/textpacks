@@ -585,6 +585,7 @@ verify_plugin => تایید پلاگین
 #@prefs
 active_language => زبان فعال
 admin_side_plugins => از پلاگین‌های سمت مدیر استفاده شود؟
+advanced_preferences => پیشرفته
 allow_article_php_scripting => استفاده از PHP در نوشته‌ها مجاز باشد؟
 allow_form_override => تحریف فرم مجاز باشد؟
 allow_page_php_scripting => استفاده از PHP در صفحات مجاز باشد؟
@@ -666,7 +667,6 @@ never_display_email => مخفی‌کردن نشانی ایمیل؟
 new_textpattern_version_available => نسخه کاملاً جدیدی از Textpattern موجود است. می‌خواهید امتحان کنید؟
 no_popup => پنجره فعلی
 override_emailcharset => در ایمیل‌های ارسالی از رمزگذاری ISO-8859-1 استفاده شود (پیش‌فرض UTF-8 است)؟
-page_mode => حالت صفحه
 path_from_root => پوشه زیرمجموعه (اگر موجود است)
 path_to_site_missing => متغیر path_to_site$ تنظیم نشده است (فایل index.php را بهنگام کنید)
 permalink_title_format => لینک دائمی مثل‌ـ‌این‌ـ‌باشد (به جای اینکه مثل‌این‌باشد)؟
