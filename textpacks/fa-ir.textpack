@@ -545,7 +545,7 @@ name_for_this_page => نام این صفحه
 page_already_exists => صفحه <strong>{name}</strong> از پیش موجود است.
 page_article_hed => خروجی نوشته
 page_article_nav_hed => پیمایش‌گر نوشته‌ها
-page_code =>کد صفحه
+page_code => کد صفحه
 page_created => صفحه <strong>{name}</strong> ساخته شد.
 page_deleted => صفحه <strong>{name}</strong> حذف شد.
 page_misc_hed => گوناگون
@@ -705,7 +705,7 @@ timeoffset => انحراف زمانی (ساعت)
 title_no_widow => ممانعت از ورود لغات ناقص در عنوان مقالات؟
 title_only => /title
 updated => بهنگام شده
-updated_branch_version_available => نسخه ی جدیدی جهت به روزرسانی وجود دارد. آیا می خواهید <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area"> دانلودش کنید </a>?
+updated_branch_version_available => نسخه ی جدیدی جهت به روزرسانی وجود دارد. آیا می خواهید <a href="http://textpattern.com/download" rel="external"> دانلودش کنید </a>
 update_languages => بهنگام‌سازی زبان‌ها
 urls_to_ping => نشانی جاهایی که باید به آن‌ها پینگ شود (با کاما جدا کنید)
 url_mode => سبک URL
@@ -786,7 +786,7 @@ edit => ویرایش
 email => ایمیل
 email_address => ایمیل
 emphasis => تأکید
-enter_comment_here => <strong> نظر خود را در زیر وارد نمایید. </strong> فیلدهای نشانه دار <b class="required" title="Required">*</b> ضروری هستند. شما باید یکبار نظر خود را پیش از ارسال مرور کنید.
+enter_comment_here => <strong> نظر خود را در زیر وارد نمایید. </strong> فیلدهای نشانه دار <b class="required">*</b> ضروری هستند. شما باید یکبار نظر خود را پیش از ارسال مرور کنید.
 error_article_context => تگ‌های مربوط به نوشته در خارج از محدوده مربوط به نوشته قابل استفاده نیستند
 error_category_context => برچسب های دسته خارج از زمینه دسته نمی توانند مورد استفاده قرار گیرند.
 error_comment_context => تگ‌های مربوط به نظرات در خارج از محدوده مربوط به نظرات قابل استفاده نیستند
@@ -867,7 +867,7 @@ popup => پنجره ی بالاپر
 post => ارسال
 posted => ارسال شده در
 posted_by => ارسال شده توسط
-press_preview_then_submit => شما می توانید پیش نمایشی از نظر ارسالی خود را در زیر ببینید؛ فراموش نکنید به پایین صفحه بروید و روی <strong><a href="#txpCommentSubmit" title="Go to the submit button">ارسال</a></strong> کلیک کنید!
+press_preview_then_submit => شما می توانید پیش نمایشی از نظر ارسالی خود را در زیر ببینید؛ فراموش نکنید به پایین صفحه بروید و روی <strong><a href="#txpCommentSubmit">ارسال</a></strong> کلیک کنید!
 prev => ← پیشین
 preview => پیش‌نمایش
 publish => انتشار
