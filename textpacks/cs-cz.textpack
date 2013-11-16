@@ -980,7 +980,7 @@ email_required => Zadej platnou emailovou adresu.
 errors_during_install => V průběhu instalace došlo k <strong>{num}</strong> chybám. Potřebuješ-li pomoc, obrať se na diskusní fóra Textpattern.
 get_started => Začít!
 go_to_login => Přihlásit se
-installation_postamble => Z důvodu bezpečnosti doporučujeme smazat složku <code>setup</code> z adresáře Textpattern. Čas od času také spusť diagnostiku na záložce Admin pro kontrolu aktualizací a vyhledání problémů.
+installation_postamble => Z důvodu bezpečnosti doporučujeme smazat složku <code>setup</code> z adresáře Textpattern. Čas od času také spusť diagnostiku na záložce Správa pro kontrolu aktualizací a vyhledání problémů.
 mysql_database => Databáze MySQL
 mysql_login => Uživatel MySQL
 mysql_password => Heslo do MySQL
@@ -1012,7 +1012,7 @@ warn_mail_unavailable => Instalace PHP na tomto serveru postrádá funkci mail()
 welcome_to_textpattern => Vítej v Textpattern
 your_email => Tvoje emailová adresa
 your_full_name => Tvoje celé jméno
-you_can_access => Nyní můžeš použít svého uživatele a heslo a vstoupit do <a href="index.php">uživatelského prostředí</a>.
+you_can_access => Nyní můžeš vstoupit do <a href="index.php">uživatelského prostředí</a> s přihlašovacím jménem a heslem, které jsi zvolil.
 #@tag
 active_class => Třída CSS pro aktivní položku seznamu
 align => Zarovnání
