@@ -56,7 +56,7 @@ your_login_info => 로그인 정보
 your_login_is => 로그인 id
 your_new_password => 새 비밀번호
 your_password_is => 새 비밀번호는
-you_have_been_registered => 이 사이트의 글쓴이로 등록되었습니다.
+you_have_been_registered => 이 사이트의 글쓴이로 등록되었습니다
 #@article
 advanced_options => 상세 설정
 article_day => 일
