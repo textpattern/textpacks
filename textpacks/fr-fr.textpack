@@ -56,7 +56,7 @@ your_login_info => Vos informations de connexion
 your_login_is => Votre nom de connexion (login) est
 your_new_password => Votre nouveau mot de passe
 your_password_is => Votre mot de passe est
-you_have_been_registered => Vous avez été enregistré comme contributeur du site.
+you_have_been_registered => Vous avez été enregistré comme contributeur du site
 #@article
 advanced_options => Configuration avancée
 article_day => Jour
