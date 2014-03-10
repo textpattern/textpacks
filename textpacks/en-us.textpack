@@ -282,7 +282,7 @@ visible => Visible
 with_selected => With selected:
 with_selected_option => With selected…
 #@css
-add_declaration => add declaration
+add_declaration => Add declaration
 add_new_selector => Add new selector
 all_stylesheets => All styles
 bulkload_existing_css => Create or load new style
@@ -305,7 +305,7 @@ delete_declaration => Delete this declaration
 delete_entire_selector => Delete entire selector
 delete_this_declaration => Delete this declaration
 edit_css => Styles
-edit_css_file => edit CSS file
+edit_css_file => Edit CSS file
 edit_css_in_form => Edit in CSS editor
 edit_raw_css => Edit raw CSS
 name_for_this_style => Name for this style
