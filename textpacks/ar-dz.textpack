@@ -361,7 +361,7 @@ rfc2616_headers =>
 rfc_2616_headers =>
 server => موزع
 server_time =>
-site_trailing_slash => <code>/</code> عنوان الموفع له نظام
+site_trailing_slash => <code dir="ltr">/</code> عنوان الموفع له نظام
 site_url_mismatch =>
 some_php_functions_disabled =>
 still_exists => لا يزال موجودا
@@ -369,7 +369,7 @@ textpattern_update_available =>
 tmp_plugin_paths_match =>
 txp_path => Textpattern مفاتيح الدخول إلى
 txp_version => Textpattern ضيغة
-warn_register_globals_or_update => <code>register_globals</code> لديكم معرضة لأخطار الحماية.الرجاء إبطال تفعيل PHP صيغة
+warn_register_globals_or_update => <code dir="ltr">register_globals</code> لديكم معرضة لأخطار الحماية.الرجاء إبطال تفعيل PHP صيغة
 web_domain => عنوان الموقع
 #@discuss
 article_deleted => مقال محذوف
@@ -417,7 +417,7 @@ file_cannot_rename =>
 file_category => فئة
 file_deleted =>
 file_delete_failed => لا يمكن محو الملف
-file_dir_not_writeable => المصنف الخاص للنظام <code>{filedir}</code> حذار:الموزع لا يستطيع الكتابة في
+file_dir_not_writeable => المصنف الخاص للنظام <code dir="ltr">{filedir}</code> حذار:الموزع لا يستطيع الكتابة في
 file_download_count => عدد التحميلات
 file_name => اسم الملف
 file_not_found => الملف غير موجود
@@ -475,7 +475,7 @@ image_save_error => حدث خطا عند تسجيل الصورة
 image_save_failed =>
 image_updated =>
 image_uploaded =>
-img_dir_not_writeable => حذار: لا يمكن تسجيل الصورة داخل الملف <code>{imgdir}</code>. الرجاء الاتصال بالمضيف لمعرفة الحقوق المنايبة للاستعمال
+img_dir_not_writeable => حذار: لا يمكن تسجيل الصورة داخل الملف <code dir="ltr">{imgdir}</code>. الرجاء الاتصال بالمضيف لمعرفة الحقوق المنايبة للاستعمال
 invalid_width_or_height => أحجام غير صحيحة
 keep_square_pixels => تقليص
 not_saved => لم يتم حفظه
@@ -497,7 +497,7 @@ continue => الاستمرار
 database_stuff => معلومات من بنك المعلومات
 import_blogid => ID Weblog
 import_database => اسم بنك المعلومات
-import_file_not_found => <code>import.txt</code> <code>/textpattern/include/import/</code>.الرجاة إعادة التسمية للملف ووضعه ضمن القائمة
+import_file_not_found => <code dir="ltr">import.txt</code> <code dir="ltr">/textpattern/include/import/</code>.الرجاة إعادة التسمية للملف ووضعه ضمن القائمة
 import_host => MySQL عنوان الموزع
 import_invite =>
 import_login => MySQL اسم المستخدم
@@ -614,7 +614,7 @@ comments_require_name => التعليقات تستلزم اسم المستخدم
 comments_sendmail => إرسال التعليقات للمؤلف عبر البريد الإلكتروني
 comments_use_fat_textile =>
 comment_means_site_updated => تعليقات جديدة تفيد بان الموقع أعيد ضبطه؟
-comment_nofollow => <code>nofollow</code> إضافة خاصية .. على روابط التعليقات النصية؟
+comment_nofollow => <code dir="ltr">nofollow</code> إضافة خاصية .. على روابط التعليقات النصية؟
 convert_linebreaks => تبديا العودة إلى السطر
 css => css
 custom => مشخص
@@ -668,7 +668,7 @@ new_textpattern_version_available =>
 no_popup => النافذة الحالية
 override_emailcharset => Latin 1 (ISO-8859-1) تحويل رسا~ل البريد الإلكتروني إلى الغة اللاتينية
 path_from_root => ملف فرعي إن كان متوفرا
-path_to_site_missing => <code>$path_to_site</code> غير موجود، اضبط
+path_to_site_missing => <code dir="ltr">$path_to_site</code> غير موجود، اضبط
 permalink_title_format =>
 permlink_mode => حجم عناوين المواقع
 ping_textpattern_com => textpattern.com أعلم تلقائيت
@@ -1007,7 +1007,7 @@ tables_exist =>
 table_prefix =>
 thanks_for_interest => Textpattern. شكرا على الاهتمام الذي تولونه لتكست بترن
 that_went_well => كل شيء على ما يرام. طاولات قد تم أنشاؤها وملؤها
-using_db => <code>{dbname}</code>في مرحلة الاستعمال
+using_db => <code dir="ltr">{dbname}</code>في مرحلة الاستعمال
 warn_mail_unavailable =>
 welcome_to_textpattern => Textpattern مرحبا بك في
 your_email => عنوانك البريدي

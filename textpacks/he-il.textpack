@@ -190,7 +190,7 @@ form_not_specified => התבנית לא צויינה.
 form_submission_error => מצטער, לא ניתן לשלוח את הטופס. אנא נסה שוב מאוחר יותר.
 gd_unavailable => לא זמין
 general_error => שגיאה כללית
-get_off_my_lawn => אני מצטער. איני יכול להצע סאת. אני חושב <code>{event}</code> <code>{step}</code> אינו בטוח ברגע זה.
+get_off_my_lawn => אני מצטער. איני יכול להצע סאת. אני חושב <code dir="ltr">{event}</code> <code dir="ltr">{step}</code> אינו בטוח ברגע זה.
 greeting => שלום
 hidden => נסתר
 image_category => קטגורייה
@@ -270,7 +270,7 @@ unmoderated => לא עבר ביקורת
 upload_err_cant_write => נכשל בכתיבת הקובץ לדחסק.
 upload_err_extension => העלאת הקובץ נעצרה על ידי תוספת PHP.
 upload_err_form_size => הקובץ גדול מהגודל המקסימלי המותר כפי שהוגדר בהגדרות המערכת.
-upload_err_ini_size => הקובץ גדול יותר מהגודל <code>upload_max_filesize</code> בקובץ <code>php.ini</code>.
+upload_err_ini_size => הקובץ גדול יותר מהגודל <code dir="ltr">upload_max_filesize</code> בקובץ <code dir="ltr">php.ini</code>.
 upload_err_no_file => שום קובץ לא צויין.
 upload_err_partial => הקובץ הועלה חלקית.
 upload_err_tmp_dir => חסר ספרייה זמנית שנעשה בה שימוש להעלאת קבצים, אנא התייעץ עם חברת האחסון שלך.
@@ -369,7 +369,7 @@ textpattern_update_available => גירסה חדשה של מערכת Textpattern 
 tmp_plugin_paths_match => הספרייה הזמנית ספריית מטמון התוספים אינם יכולים להיות זהות.
 txp_path => מסלול Textpattern
 txp_version => גירסת Textpattern
-warn_register_globals_or_update => לגירסת ה-PHP שלך יש בעיות אבטחה.אנא בטל את <code>register_globals</code> off או עדכן לגירסת PHP חדשה.
+warn_register_globals_or_update => לגירסת ה-PHP שלך יש בעיות אבטחה.אנא בטל את <code dir="ltr">register_globals</code> off או עדכן לגירסת PHP חדשה.
 web_domain => כתובת האתר
 #@discuss
 article_deleted => המאמר נמחק!
@@ -417,7 +417,7 @@ file_cannot_rename => לא ניתן לשנות את שם הקובץ <strong>{nam
 file_category => קטגוריית הקובץ
 file_deleted => הקובץ <strong>{name}</strong> נמחק.
 file_delete_failed => נכשל במחיקת הקובץ
-file_dir_not_writeable => אזהרה לא יכול לכתוב קובץ בספרייה: <code>{filedir}</code>.
+file_dir_not_writeable => אזהרה לא יכול לכתוב קובץ בספרייה: <code dir="ltr">{filedir}</code>.
 file_download_count => מספר ההורדות
 file_name => שם קובץ
 file_not_found => הקובץ לא נמצא
@@ -497,7 +497,7 @@ continue => המשך
 database_stuff => נתוני בסיס הנתונים
 import_blogid => מזהה Weblog
 import_database => שם בסיס הנתונים
-import_file_not_found => קובץ הייבוא לא נמצא. אנא שנה את שם הקובץ ל-<code>import.txt</code> ומקם אותו תחת הספרייה <code>/textpattern/include/import/</code>.
+import_file_not_found => קובץ הייבוא לא נמצא. אנא שנה את שם הקובץ ל-<code dir="ltr">import.txt</code> ומקם אותו תחת הספרייה <code dir="ltr">/textpattern/include/import/</code>.
 import_host => מארח MySQL
 import_invite => ברירת המחדל של הזמנת תגובות
 import_login => משתמש MySQL
@@ -647,7 +647,7 @@ id_title => /id/title
 img_dir => ספריית התמונות
 include_email_atom => לכלול דואל במזיני Atom?
 install_from_textpack => התקן מ-Textpack
-install_langfile => כדי להתקין שפות חדשות מקובץ -- תוכל להורידם מהכתובת <code>{url}</code> ולמקם אותם תחת הספרייה <code>./textpattern/lang/</code>.
+install_langfile => כדי להתקין שפות חדשות מקובץ -- תוכל להורידם מהכתובת <code dir="ltr">{url}</code> ולמקם אותם תחת הספרייה <code dir="ltr">./textpattern/lang/</code>.
 install_language => התקן שפה
 install_textpack => התקן Textpack
 is_dst => שעון קייץ
@@ -668,7 +668,7 @@ new_textpattern_version_available => גירסה חדשה של <a href="http://te
 no_popup => החלון הנוכחי
 override_emailcharset => להשתמש בקידוד ISO-8859-1 לדואל? (ברירת המחדל היא UTF-8)?
 path_from_root => תת ספרייה (אם קיימת)
-path_to_site_missing => <code>$path_to_site</code> לא מוגדר(עדכן <code>index.php</code>)
+path_to_site_missing => <code dir="ltr">$path_to_site</code> לא מוגדר(עדכן <code dir="ltr">index.php</code>)
 permalink_title_format => קישור-קבוע title-like-this (ברירת המחדל TitleLikeThis)?
 permlink_mode => מצב קישור-קבוע
 ping_textpattern_com => לבדוק את textpattern.com?
@@ -960,7 +960,7 @@ uses_style => משתמש בסגנון
 about_to_create => אתה עומד ליצור טבלאות ולמלא אותם בנתונים.
 add_config_file =>
 admin_theme =>
-already_installed => נראה כי Textpattern כבר מותקנת. אם ברצונך להתקין אותה מחדש, אנא מחק <code>config.php</code> מספרייה <code>/textpattern/</code> ונסה שוב.
+already_installed => נראה כי Textpattern כבר מותקנת. אם ברצונך להתקין אותה מחדש, אנא מחק <code dir="ltr">config.php</code> מספרייה <code dir="ltr">/textpattern/</code> ונסה שוב.
 back =>
 before_you_proceed => לפני שתמשיך
 checking_database => בודק קשר עם בסיס הנתונים
@@ -968,7 +968,7 @@ choose_password => בחר סיסמה
 config_php_does_not_match_input =>
 config_php_not_found =>
 core_theme =>
-create_config => צור את הקובץ <code>config.php</code> בספרייה <code>/textpattern/</code> והעתק את השורות הבאות אליו:
+create_config => צור את הקובץ <code dir="ltr">config.php</code> בספרייה <code dir="ltr">/textpattern/</code> והעתק את השורות הבאות אליו:
 creating_config =>
 creating_db_tables =>
 db_cant_connect => לא יכול להתחבר לבסיס הנתונים
@@ -1008,7 +1008,7 @@ table_prefix => תחילית הטבלה
 thanks_for_interest => תודה שהבעת עניין ב-Textpattern.
 that_went_well => זה הצליח. טבלאות בסיס הנתונים נוצרו ומולאו בנתונים.
 using_db => משתמש בבסיס הנתונים: {dbname}.
-warn_mail_unavailable => התקנת ה-PHP שלך חסרה את פונקציית <code>mail()</code>. ולכן לא יישלחו דואלים מהמערכת. זה מגביל את תפקודיות המערכת.
+warn_mail_unavailable => התקנת ה-PHP שלך חסרה את פונקציית <code dir="ltr">mail()</code>. ולכן לא יישלחו דואלים מהמערכת. זה מגביל את תפקודיות המערכת.
 welcome_to_textpattern => ברוך הבא אל Textpattern
 your_email => כתובת הדואל שלך
 your_full_name => השם המלא שלך
