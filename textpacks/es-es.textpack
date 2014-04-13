@@ -716,7 +716,7 @@ use_plugins => ¿Usar plugins?
 year_month_day_title => /año/mes/día/titulo
 #@public
 403_forbidden => Prohibido.
-404_not_found => 404 - No se ha encontrado la página requerida.
+404_not_found => No se ha encontrado la página requerida.
 410_gone => El material solicitado ya no está disponible.
 500_internal_server_error => Error interno del servidor.
 ago => atrás
