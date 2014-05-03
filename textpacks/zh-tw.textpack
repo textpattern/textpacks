@@ -722,6 +722,7 @@ year_month_day_title => /year/month/day/titleㄥ
 ago => 之前
 all => 全部
 already_exists => 已經存在
+any => 任何
 articles => 文章
 articles_found => 搜尋到的文章篇數
 article_context =>

@@ -722,6 +722,7 @@ year_month_day_title => /any/mes/dia/títol
 ago => abans
 all => Tots
 already_exists => ja existeix
+any => Qualsevol
 articles => Articles
 articles_found => articles trobats
 article_context =>

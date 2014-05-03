@@ -722,6 +722,7 @@ year_month_day_title => السنة/الشهر/اليوم/العنوان
 ago => من قبل
 all => كل
 already_exists => موجود مسبقا
+any =>
 articles => مقالات
 articles_found => مقالات عثر عليها
 article_context =>

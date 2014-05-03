@@ -722,6 +722,7 @@ year_month_day_title => /godina/mjesec/dan/naslov
 ago => prije
 all => Sve
 already_exists => već postoji
+any => Bilo kad
 articles => Članci
 articles_found => članaka pronađeno
 article_context => članak

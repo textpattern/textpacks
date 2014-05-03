@@ -722,6 +722,7 @@ year_month_day_title => /year/month/day/title
 ago => ago
 all => All
 already_exists => already exists
+any => Any
 articles => Articles
 articles_found => articles found
 article_context => article

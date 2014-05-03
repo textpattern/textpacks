@@ -722,6 +722,7 @@ year_month_day_title => /rok/miesiąc/dzień/tytuł
 ago => temu
 all => Wszystko
 already_exists => już istnieje
+any => Jakikolwiek
 articles => Artykuły
 articles_found => znalezionych artykułów
 article_context => artykuł

@@ -722,6 +722,7 @@ year_month_day_title => /yıl/ay/gün/başlık
 ago => önce
 all => Tüm
 already_exists => zaten mevcut
+any => Herhangi
 articles => Makaleler
 articles_found => makaleler bulundu
 article_context =>

@@ -722,6 +722,7 @@ year_month_day_title => /年/月/日/タイトル
 ago => 以前
 all => 全て
 already_exists => 既に存在しています
+any => 何時でも
 articles => 記事
 articles_found => 個の記事が見つかりました
 article_context => 記事

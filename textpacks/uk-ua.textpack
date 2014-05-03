@@ -722,6 +722,7 @@ year_month_day_title => /рік/місяць/день/title
 ago => назад
 all => все
 already_exists => вже існує
+any => Будь яке
 articles => Статті
 articles_found => знайдені статті
 article_context => стаття

@@ -722,6 +722,7 @@ year_month_day_title => /tahun/bulan/tanggal/judul
 ago => lalu
 all => Semua
 already_exists => sudah ada
+any => Apapun
 articles => Artikel
 articles_found => artikel ditemukan
 article_context => artikel

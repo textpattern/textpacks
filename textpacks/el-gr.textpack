@@ -722,6 +722,7 @@ year_month_day_title => /χρόνος/μήνας/μέρα/τίτλος
 ago => πριν
 all => Όλα
 already_exists => υπάρχει ήδη
+any => Οποιαδήποτε
 articles => Άρθρα
 articles_found => άρθρα βρέθηκαν
 article_context =>

@@ -722,6 +722,7 @@ year_month_day_title => /år/månad/dag/titel
 ago => sedan
 all => Alla
 already_exists => finns redan
+any => Eventuell
 articles => Artiklar
 articles_found => artiklar hittade
 article_context => artikel

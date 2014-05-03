@@ -722,6 +722,7 @@ year_month_day_title => /year/month/day/title
 ago => לפני
 all => כל
 already_exists => קיים כבר
+any => הכל
 articles => מאמרים
 articles_found => מאמרים שנמצאו
 article_context => מאמר

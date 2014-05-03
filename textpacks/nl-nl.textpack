@@ -722,6 +722,7 @@ year_month_day_title => /jaar/maand/dag/titel
 ago => geleden
 all => Alles
 already_exists => bestaat al
+any => Maakt niet uit
 articles => Artikelen
 articles_found => gevonden artikelen
 article_context => artikel

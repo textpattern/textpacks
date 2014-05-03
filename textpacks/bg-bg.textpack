@@ -722,6 +722,7 @@ year_month_day_title => /year/month/day/title
 ago => назад
 all => Всички
 already_exists => вече съществува
+any => Всяко
 articles => Статии
 articles_found => намерени статии
 article_context => статия

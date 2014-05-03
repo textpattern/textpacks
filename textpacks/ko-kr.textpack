@@ -722,6 +722,7 @@ year_month_day_title => /년/월/일/제목
 ago => 전
 all => 모두
 already_exists => 이미 있는 파일입니다
+any => 아무때나
 articles => 글
 articles_found => 글을 발견했습니다
 article_context =>

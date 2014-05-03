@@ -722,6 +722,7 @@ year_month_day_title => /año/mes/día/titulo
 ago => atrás
 all => Todos
 already_exists => ya existe
+any => Indistinto
 articles => Artículos
 articles_found => artículos encontrados
 article_context => artículo

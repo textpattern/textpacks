@@ -722,6 +722,7 @@ year_month_day_title => /godina/mesec/dan/naslov
 ago => пре
 all => Све
 already_exists => већ постоји
+any => Било кад
 articles => Уноси
 articles_found => нађено уноса
 article_context =>

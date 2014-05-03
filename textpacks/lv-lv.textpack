@@ -722,6 +722,7 @@ year_month_day_title => /gads/mēnesis/diena/virsraksts
 ago => iepriekš
 all => Visi
 already_exists => jau pastāv
+any => Jebkāds
 articles => Ieraksti
 articles_found => ieraksti atrasti
 article_context => ieraksts
