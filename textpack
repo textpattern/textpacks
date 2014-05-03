@@ -6,41 +6,33 @@ include __DIR__ . '/tests/Textpattern/Textpack/Test/Parser.php';
 $template = file_get_contents(__DIR__ . '/textpacks/en-gb.textpack');
 $files = (array) glob(__DIR__ . '/textpacks/*-*.textpack');
 
-foreach ($files as $file)
-{
-    if (!is_readable($file) || !is_file($file))
-    {
+foreach ($files as $file) {
+    if (!is_readable($file) || !is_file($file)) {
         continue;
     }
 
     $out = array();
     $merge = array();
 
-    if ($contents = file_get_contents($file))
-    {
+    if ($contents = file_get_contents($file)) {
         $textpack = new Textpattern\Textpack\Test\Parser();
         $textpack = $textpack->parse($contents);
 
-        foreach ($textpack as $data)
-        {
+        foreach ($textpack as $data) {
             $merge[$data['name']] = $data['data'];
         }
     }
 
-    foreach (explode("\n", $template) as $line)
-    {
-        if (strpos($line, '#') === 0)
-        {
+    foreach (explode("\n", $template) as $line) {
+        if (strpos($line, '#') === 0) {
             $out[] = trim($line);
         }
 
-        if (strpos($line, '=>'))
-        {
+        if (strpos($line, '=>')) {
             $name = trim(join('', array_slice(explode('=>', $line), 0, 1)));
             $line = $name.' => ';
 
-            if (isset($merge[$name]))
-            {
+            if (isset($merge[$name])) {
                 $line .= $merge[$name];
             }
 
