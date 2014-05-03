@@ -795,6 +795,7 @@ error_file_context => Rinkmenų žymės negali būti panaudotos už straipsnio r
 error_image_context => Vaizdo žymeles negali būti panaudotos už atvaizdo ribų
 error_link_context => Nuorodos žymės negali būti panaudotos už nuorodos ribų
 error_section_context => Sekcijos žymės nenaudotinos už sekcijos konkteksto ribų
+exact =>
 extensions => Plėtiniai
 file_context => rinkmena
 file_size => Failo dydis

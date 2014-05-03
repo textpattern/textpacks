@@ -795,6 +795,7 @@ error_file_context => Les balises de fichiers ne peuvent pas être utilisées en
 error_image_context => Les balises d’image ne peuvent être utilisées en-dehors du contexte des images.
 error_link_context => Les balises de liens hypertextes ne peuvent pas être utilisées en-dehors du contexte des liens.
 error_section_context => Les balises de sections ne peuvent être utilisées en dehors du contexte des sections.
+exact =>
 extensions => Extensions
 file_context => fichier
 file_size => Poids du fichier

@@ -795,6 +795,7 @@ error_file_context => לא ניתן להשתמש בתגי קובץ מחוץ לה
 error_image_context => לא ניתן להשתמש בתגי תמונה מחוץ להקשר תמונה.
 error_link_context => לא ניתן להשתמש בתגי קישור מחוץ להקשר קישור.
 error_section_context =>
+exact =>
 extensions => הרחבות
 file_context => קובץ
 file_size => גודל הקובץ

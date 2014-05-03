@@ -795,6 +795,7 @@ error_file_context => Značky souborů nelze užít mimo kontext souboru.
 error_image_context => Značky obrázků nelze užít mimo kontext obrázku.
 error_link_context => Značky odkazů nelze užít mimo kontext odkazu.
 error_section_context => Značky rubrik nemohou být použity mimo kontext rubrik.
+exact =>
 extensions => Rozšíření
 file_context => soubor
 file_size => Velikost souboru

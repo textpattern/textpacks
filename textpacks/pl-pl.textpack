@@ -795,6 +795,7 @@ error_file_context => Znaczniki związane z plikami mogą zostać użyte tylko w
 error_image_context => Znaczniki obrazów nie mogą być użyte poza formatką obrazów.
 error_link_context => Znaczniki związane z odsyłaczami mogą zostać użyte tylko w formatce odsyłaczy.
 error_section_context => Znaczniki sekcji nie mogą być użyte poza formatką sekcji.
+exact =>
 extensions => Rozszerzenia
 file_context => plik
 file_size => Rozmiar pliku

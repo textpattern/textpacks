@@ -795,6 +795,7 @@ error_file_context => Las etiquetas de archivo no se pueden usar fuera del conte
 error_image_context => Las etiquetas de imagen no se pueden usar fuera del contexto de una imagen.
 error_link_context => Las etiquetas de enlace no se pueden usar fuera del contexto de un enlace.
 error_section_context => Las etiquetas de sección no se pueden usar fuera del contexto de una sección.
+exact =>
 extensions => Extensiones
 file_context => archivo
 file_size => Tamaño del archivo

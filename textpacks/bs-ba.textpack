@@ -795,6 +795,7 @@ error_file_context => Oznake datoteka (tags) ne mogu se koristiti izvan kontekst
 error_image_context =>
 error_link_context => Oznake veza (tags) ne mogu se koristiti izvan konteksta veza
 error_section_context =>
+exact =>
 extensions => Proširenja
 file_context =>
 file_size =>

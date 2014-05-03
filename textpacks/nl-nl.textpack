@@ -795,6 +795,7 @@ error_file_context => Tags voor bestanden kunnen alleen gebruikt worden in de co
 error_image_context => Afbeeldingstags kunnen alleen gebruikt worden in de context van bestanden
 error_link_context => Linktags kunnen alleen gebruikt worden in de context van links
 error_section_context => Sectietags kunnen niet buiten een sectiecontext gebruikt worden
+exact =>
 extensions => Uitbreidingen
 file_context => bestand
 file_size => Betstands grootte

@@ -795,6 +795,7 @@ error_file_context => Tags de arquivo não podem ser utilizadas fora de um conte
 error_image_context => "tags" de imagem não podem ser usados fora do contexto de imagens.
 error_link_context => Tags de link não podem ser usados fora de um contexto de link
 error_section_context => Uma marca de Secção não pode ser usado fora do contexto da secção
+exact =>
 extensions => Extensões
 file_context => ficheiro
 file_size => tamanho do ficheiro

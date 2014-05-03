@@ -795,6 +795,7 @@ error_file_context => Fil tags kan ikke bruges uden for fil konteksten.
 error_image_context =>
 error_link_context => Link tags kan ikke bruges uden for link konteksten.
 error_section_context =>
+exact =>
 extensions => Udvidelser
 file_context =>
 file_size =>

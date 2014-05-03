@@ -795,6 +795,7 @@ error_file_context =>
 error_image_context =>
 error_link_context =>
 error_section_context =>
+exact =>
 extensions => امتدادات
 file_context =>
 file_size =>

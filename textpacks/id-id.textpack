@@ -795,6 +795,7 @@ error_file_context => Tags berkas tidak dapat digunakan di luar konteks berkas
 error_image_context => Tags gambar tidak dapat dipakai diluar konteks gambar.
 error_link_context => Tags tautan tidak dapat digunakan di luar konteks tautan
 error_section_context => Tags seksi tidak dapat dipakai di luar konteks seksi
+exact =>
 extensions => Ekstensi
 file_context => berkas
 file_size => Ukuran berkas

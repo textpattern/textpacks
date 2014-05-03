@@ -795,6 +795,7 @@ error_file_context => 文件标签不能在文件范围以外使用
 error_image_context => 图片标签不能在图片环境之外使用
 error_link_context => 链接标签不能在链接范围以外使用
 error_section_context => 版块标签不能在版块环境之外使用
+exact =>
 extensions => 扩展
 file_context => 文件
 file_size => 文件大小

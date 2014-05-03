@@ -795,6 +795,7 @@ error_file_context => Dosya etkiketleri dosya harici kullanılamazlar
 error_image_context =>
 error_link_context => Bağlantı etkiketleri bağlantı harici kullanılamazlar
 error_section_context =>
+exact =>
 extensions => Uzantılar
 file_context =>
 file_size =>

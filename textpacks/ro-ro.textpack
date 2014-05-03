@@ -795,6 +795,7 @@ error_file_context => Tag-urile de fisier nu pot fi folosite in afara contextulu
 error_image_context =>
 error_link_context => Tag-urile de link nu pot fi folosite in afara contextului link-ului
 error_section_context =>
+exact =>
 extensions => Extensii
 file_context =>
 file_size =>

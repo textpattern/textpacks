@@ -795,6 +795,7 @@ error_file_context => Failu iezīmes nevar izmantot ārpus faila konteksta
 error_image_context => Attēlu iezīmes nevar izmantot ārpus attēla konteksta
 error_link_context => Saišu iezīmes nevar izmantot ārpus saites konteksta
 error_section_context => Sadaļu iezīmes nevar izmantot ārpus sadaļas konteksta
+exact =>
 extensions => Paplašinājumi
 file_context => fails
 file_size => Faila izmērs

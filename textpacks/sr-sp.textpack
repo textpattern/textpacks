@@ -795,6 +795,7 @@ error_file_context => File tags cannot be used outside a file context
 error_image_context =>
 error_link_context => Link tags cannot be used outside a link context
 error_section_context =>
+exact =>
 extensions => Ekstenzije
 file_context =>
 file_size =>

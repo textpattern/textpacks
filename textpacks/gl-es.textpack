@@ -795,6 +795,7 @@ error_file_context => As etiquetas de arquivo non se poden usar fose do contexto
 error_image_context => As etiquetas de imaxe non se poden usar fose do contexto dunha imaxe
 error_link_context => As etiquetas de ligazón non se poden usar fose do contexto dunha ligazón
 error_section_context => As etiquetas de sección non se poden usar fose do contexto dunha sección
+exact =>
 extensions => engadidos
 file_context => arquivo
 file_size => Tamaño do arquivo

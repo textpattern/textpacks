@@ -795,6 +795,7 @@ error_file_context => Tag File non possono essere usati fuori dal contesto di fi
 error_image_context => Tag Immagine non possono essere usati fuori dal contesto di immagini
 error_link_context => Tag Link non possono essere usati fuori dal contesto di link
 error_section_context => Tag Sezione non possono essere usati fuori dal contesto di Sezione
+exact =>
 extensions => Estensioni
 file_context => file
 file_size => Dimensione file

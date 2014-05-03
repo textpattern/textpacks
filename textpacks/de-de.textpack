@@ -795,6 +795,7 @@ error_file_context => File-Tags können nicht außerhalb eines Dateikontexts ver
 error_image_context => Image-Tags können nicht außerhalb eines Bildkontexts verwendet werden.
 error_link_context => Link-Tags können nicht außerhalb eines Linkkontexts verwendet werden.
 error_section_context => Section-Tags können nicht außerhalb eines Sektionskontexts verwendet werden.
+exact =>
 extensions => Erweiterung
 file_context => file
 file_size => Dateigröße

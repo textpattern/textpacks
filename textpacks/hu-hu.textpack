@@ -795,6 +795,7 @@ error_file_context => Az állomány címkék nem használhatók az állomány ko
 error_image_context =>
 error_link_context => A link címkék nem használhatók a link kontextusán kívül
 error_section_context =>
+exact =>
 extensions => Kiterjesztések
 file_context =>
 file_size =>

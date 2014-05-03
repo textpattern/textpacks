@@ -795,6 +795,7 @@ error_file_context => Tiedostotageja ei voi käyttää tiedoston ulkopuolella.
 error_image_context =>
 error_link_context => Linkkitageja ei voi käyttää linkin ulkopuolella.
 error_section_context =>
+exact =>
 extensions => Liitännäiset
 file_context => tiedosto
 file_size => Tiedostokoko

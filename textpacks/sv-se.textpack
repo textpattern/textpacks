@@ -795,6 +795,7 @@ error_file_context => Filtaggar kan inte användas på annat än filer
 error_image_context => Bild-taggar kan inte användas utanför en bild-kontext
 error_link_context => Länktaggar kan inte användas på annat än länkar
 error_section_context => Avdelnings-taggar kan inte användas utanför en avdelnings-kontext
+exact =>
 extensions => Tillägg
 file_context => fil
 file_size => Filstorlek

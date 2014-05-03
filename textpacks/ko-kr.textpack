@@ -795,6 +795,7 @@ error_file_context => 파일 태그는 파일 밖에서 쓸 수 없습니다
 error_image_context =>
 error_link_context => 링크 태그는 링크 밖에서 쓸 수 없습니다
 error_section_context =>
+exact =>
 extensions => 확장기능
 file_context =>
 file_size =>
