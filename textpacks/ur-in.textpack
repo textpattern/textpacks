@@ -1059,6 +1059,7 @@ link_to_this_category =>
 link_to_this_section =>
 listform =>
 match =>
+match_type =>
 media =>
 msgcols =>
 msgrows =>

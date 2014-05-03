@@ -1059,6 +1059,7 @@ link_to_this_category => Odkaz na seznam ostatních článků v kategorii?
 link_to_this_section => Odkaz na seznam dalších článků v rubrice?
 listform => Forma pro výpis
 match => Souvislost?
+match_type =>
 media => Médium podle HTML
 msgcols => Sloupce v poli
 msgrows => Řádky v poli

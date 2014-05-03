@@ -1059,6 +1059,7 @@ link_to_this_category => Link zur Liste weiterer Artikel in dieser Kategorie?
 link_to_this_section => Link zur Liste weiterer Artikel in dieser Sektion?
 listform => Listenbaustein
 match => Wie ist ihr Verhältnis?
+match_type =>
 media => Media-Attribut (HTML)
 msgcols => Spalten des Nachrichtenfeldes
 msgrows => Zeilen des Nachrichtenfeld

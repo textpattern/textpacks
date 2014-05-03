@@ -1059,6 +1059,7 @@ link_to_this_category => Taut ke daftar artikel lain dari kategori ini?
 link_to_this_section => Taut ke daftar artikel lain dari seksi ini?
 listform => Daftar bentuk
 match => Bagaimana mereka terkait?
+match_type =>
 media => Atribut HTML untuk media
 msgcols => Kolom untuk textarea pesan
 msgrows => Baris untuk textarea pesan

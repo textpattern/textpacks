@@ -1059,6 +1059,7 @@ link_to_this_category => Bu kategoriye ait diğer makalelerin link listesi?
 link_to_this_section => Bu bölüme ait diğer makalelerin link listesi?
 listform => Liste formu
 match => Nasıl bir ilişkiye sahiptirler?
+match_type =>
 media => Media HTML attribute
 msgcols => İleti Sütun Sayısı
 msgrows => İleti Satır Sayısı

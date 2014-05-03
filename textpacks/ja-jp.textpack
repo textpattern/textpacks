@@ -1059,6 +1059,7 @@ link_to_this_category => カテゴリの記事リストへのリンクを張り�
 link_to_this_section => セクションの記事リストへのリンクを張りますか？
 listform => フォームリスト
 match => どのような関連性がありますか？
+match_type =>
 media => Media HTML attribute
 msgcols => メッセージテキストエリアの高さ
 msgrows => メッセージテキストエリアの幅

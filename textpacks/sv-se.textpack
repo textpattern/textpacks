@@ -1059,6 +1059,7 @@ link_to_this_category => Länka till en lista med andra artiklar i denna kategor
 link_to_this_section => Länka till en lista med andra artiklar i denna avdelning?
 listform => Siddel vid listor
 match => Hur ska de relateras?
+match_type =>
 media => Media-attribut
 msgcols => Meddelandets textarea-bredd (antal tecken)
 msgrows => Meddelandets textarea-höjd (antal tecken)

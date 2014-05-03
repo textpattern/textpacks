@@ -1059,6 +1059,7 @@ link_to_this_category => Susieti su kitais straipsniais šioje kategorijoje?
 link_to_this_section => Susieti su kitais straipsniais šioje sekcijoje?
 listform => Sąrašo forma
 match => Kaip jie susiję?
+match_type =>
 media => Media HTML atributas
 msgcols => Pranešimo tekstinio lauko stulpelių skaičius
 msgrows => Pranešimo tekstinio lauko eilučių skaičius

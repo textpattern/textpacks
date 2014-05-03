@@ -1059,6 +1059,7 @@ link_to_this_category => Link selle kategooria teistele artiklitele?
 link_to_this_section => Link selle sektsiooni teistele artiklitele?
 listform => Loetelu vorm
 match =>
+match_type =>
 media =>
 msgcols =>
 msgrows =>

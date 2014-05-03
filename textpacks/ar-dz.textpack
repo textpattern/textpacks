@@ -1059,6 +1059,7 @@ link_to_this_category => رابط يؤدي إلى قائمة مقالات أخر
 link_to_this_section => رابط يؤدي إلى قائمة مقالات أخرى في هذا القسم
 listform =>
 match =>
+match_type =>
 media =>
 msgcols =>
 msgrows =>

@@ -1059,6 +1059,7 @@ link_to_this_category => ¿Enlazar a una lista de otros artículos en esta categ
 link_to_this_section => ¿Enlazar a una lista de otros artículos en esta sección?
 listform => Bloque de lista
 match => ¿Cómo están relacionados?
+match_type =>
 media => Atributo media HTML
 msgcols => Columnas del área de texto del mensaje
 msgrows => Filas del área de texto del mensaje

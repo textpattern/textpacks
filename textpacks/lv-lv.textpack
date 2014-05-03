@@ -1059,6 +1059,7 @@ link_to_this_category => Saistīt ar sarakstu, kas satur citus šajā kategorij�
 link_to_this_section => Saistīt ar sarakstu, kas satur citus šajā sadaļā esošos ierakstus?
 listform => Saraksta forma
 match => Kā tie ir saistīti?
+match_type =>
 media => Media HTML atribūts
 msgcols => Ziņojuma lauka kolonnas
 msgrows => Ziņojuma lauka rindas

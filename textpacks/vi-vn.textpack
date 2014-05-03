@@ -1059,6 +1059,7 @@ link_to_this_category => Liên kết tới danh sách bài viết cùng thể lo
 link_to_this_section => Liên kết tới danh sách bài viết cùng mục?
 listform => Hiện danh sách form
 match =>
+match_type =>
 media =>
 msgcols =>
 msgrows =>

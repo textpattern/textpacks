@@ -1059,6 +1059,7 @@ link_to_this_category => Link más cikkek listájához ebben a kategóriában?
 link_to_this_section => Link más cikkek listájához ebben a szekcióban?
 listform => Formok listája
 match => Hogyan kapcsolódnak?
+match_type =>
 media => HTML média tulajdonság
 msgcols => Az üzenet beviteli mezőjének oszlopszáma:
 msgrows => Az üzenet beviteli mezője sorainak száma:

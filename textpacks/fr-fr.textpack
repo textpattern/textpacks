@@ -1059,6 +1059,7 @@ link_to_this_category => Lien vers une liste d’autres articles dans cette cat�
 link_to_this_section => Lien vers une liste d’autres articles dans cette section ?
 listform => Module de liste
 match => Quelle est leur relation ?
+match_type =>
 media => Attribut HTML media
 msgcols => Nombre de colonnes de la zone de saisie des messages
 msgrows => Nombre de lignes de la zone de saisie des messages

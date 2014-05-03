@@ -1059,6 +1059,7 @@ link_to_this_category => Poveži na spisak ostalih članaka ove kategorije?
 link_to_this_section => Poveži na spisak ostalih članaka ove sekcije?
 listform => Formular za spisak
 match => Kako su povezani?
+match_type =>
 media => Atribut HTML medija
 msgcols => Kolone tekst područja poruka
 msgrows => Redovi tekst područja poruka

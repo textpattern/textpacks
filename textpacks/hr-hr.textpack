@@ -1059,6 +1059,7 @@ link_to_this_category => Link na listu ostalih unosa u ovoj kategoriji?
 link_to_this_section => Link na listu ostalih unosa u ovoj sekciji?
 listform => Forma liste
 match => Kako su povezani?
+match_type =>
 media => Media HTML attribute
 msgcols => Message textarea columns
 msgrows => Message textarea rows

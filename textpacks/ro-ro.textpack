@@ -1059,6 +1059,7 @@ link_to_this_category => Link-uieste la lista celorlalte articole din aceasta ca
 link_to_this_section => Link-uieste la lista celorlalte articole din aceasta sectiune?
 listform => Form-ul listei
 match => Cum sunt asociate?
+match_type =>
 media => Atributul media XTHML
 msgcols => Numarul coloanelor pentru containerul mesajului
 msgrows => Numarul randurilor pentru containerul mesajului

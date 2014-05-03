@@ -1059,6 +1059,7 @@ link_to_this_category => 觀看此分類的其它文章連結
 link_to_this_section => 觀看此版區的其它文章連結
 listform => 列表模型
 match => 符合
+match_type =>
 media => HTML 的 media 屬性
 msgcols => 訊息欄寬
 msgrows => 訊息欄高

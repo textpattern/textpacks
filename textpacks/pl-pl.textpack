@@ -1059,6 +1059,7 @@ link_to_this_category => Odsyłacz do listy innych artykułów z tej kategorii?
 link_to_this_section => Odsyłacz do listy innych artykułów z tej sekcji?
 listform => Lista artykułów - formularz
 match => Rodzaj powiązania?
+match_type =>
 media => Atrybut HTML media
 msgcols => Liczba kolumn
 msgrows => Liczba wierszy

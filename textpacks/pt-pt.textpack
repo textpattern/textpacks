@@ -1059,6 +1059,7 @@ link_to_this_category => Ligar a uma lista de outros artigos nesta categoria?
 link_to_this_section => Ligar a uma lista de otros artigos nesta secção?
 listform => Módulo de lista
 match =>
+match_type =>
 media =>
 msgcols => Número de Colunas da área de texto da mensagem
 msgrows => Número de Linhas da área de texto da mensagem

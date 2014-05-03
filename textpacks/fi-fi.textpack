@@ -1059,6 +1059,7 @@ link_to_this_category => Linkitä samassa kategoriassa oleviin artikkeleihin?
 link_to_this_section => Linkitä samassa osiossa oleviin artikkeleihin?
 listform => Listalomake
 match => Kuinka liittyvät toisiinsa?
+match_type =>
 media => Media (HTML attribuutti)
 msgcols => Viestin tekstikentän sarakkeet
 msgrows => Viestin tekstikentän rivit
