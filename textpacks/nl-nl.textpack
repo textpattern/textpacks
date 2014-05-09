@@ -495,7 +495,7 @@ upload_thumbnail => Upload mini-afbeelding
 #@import
 continue => Ga door
 database_stuff => Databasegegevens
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => Databasenaam
 import_file_not_found => Importbestand niet gevonden. Noem het bestand <code>import.txt</code> en plaats het in <code>/textpattern/include/import/</code>.
 import_host => MySQL host
@@ -507,7 +507,7 @@ import_status => Status artikelen na import
 import_wpdbcharset => Tekenset van de database
 import_wpprefix => Tabel prefix (indien nodig)
 select_tool => Importeren van
-txp_import => Inhoud van ander (weblog) cms importeren
+txp_import => Inhoud van ander (blog) CMS importeren
 #@link
 add_new_link => Nieuwe link toevoegen
 edit_link => link wijzigen

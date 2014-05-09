@@ -495,7 +495,7 @@ upload_thumbnail => Upload miniatur
 #@import
 continue => Fortsæt
 database_stuff => Database Data
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => Database navn
 import_file_not_found => Import fil blev ikke fundet. Giv filen navnet <code>import.txt</code> og placer den i <code>/textpattern/include/import</code>.
 import_host => MySQL vært

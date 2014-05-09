@@ -495,7 +495,7 @@ upload_thumbnail => Upload thumbnail
 #@import
 continue => Continue
 database_stuff => Database data
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => Database name
 import_file_not_found => Import file not found. Please name the file <code>import.txt</code> and place it in <code>/textpattern/include/import/</code>.
 import_host => MySQL host

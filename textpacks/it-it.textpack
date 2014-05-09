@@ -495,7 +495,7 @@ upload_thumbnail => Carica miniatura
 #@import
 continue => Continua
 database_stuff => Dati database
-import_blogid => Identificativo weblog
+import_blogid => Identificativo blog
 import_database => Nome del database
 import_file_not_found => File da importare non trovato. Il nome del file deve essere <code>import.txt</code> e va riposto in <code>/textpattern/include/import/</code>
 import_host => Host MySQL

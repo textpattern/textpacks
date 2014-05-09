@@ -495,7 +495,7 @@ upload_thumbnail => Subir miniatura
 #@import
 continue => Continuar
 database_stuff => Datos de la base de datos
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => Nombre de la base de datos
 import_file_not_found => Archivo a importar no encontrado. Por favor, llama al archivo <code>import.txt</code> y colócalo en <code>/textpattern/include/import/</code>.
 import_host => Host MySQL

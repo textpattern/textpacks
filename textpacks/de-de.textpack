@@ -495,7 +495,7 @@ upload_thumbnail => Vorschaubild hochladen
 #@import
 continue => Fortfahren
 database_stuff => Datenbankdaten
-import_blogid => Weblog-ID
+import_blogid => Blog-ID
 import_database => Name der Datenbank
 import_file_not_found => Die zu importierende Datei konnte nicht gefunden werden. Bitte nennen Sie die Datei <code>import.txt</code> und hinterlegen Sie sie im Ordner <code>/textpattern/include/import/</code>.
 import_host => MySQL-Host

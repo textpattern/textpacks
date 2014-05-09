@@ -495,7 +495,7 @@ upload_thumbnail => Lataa pienoiskuva
 #@import
 continue => Jatka
 database_stuff => Tietokannan tiedot
-import_blogid => Weblogin ID
+import_blogid => Blogin ID
 import_database => Tietokannan nimi
 import_file_not_found => Tuotavaa tiedostoa ei löytynyt. Anna tiedoston nimeksi <code>import.txt</code> ja siirrä se kansioon <code>/textpattern/include/import/</code>.
 import_host => MySQL host

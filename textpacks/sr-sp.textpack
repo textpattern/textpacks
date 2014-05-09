@@ -495,7 +495,7 @@ upload_thumbnail => Upload-uj thumbnail
 #@import
 continue => Nastavi
 database_stuff => Podaci Baze
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => Ime baze podataka
 import_file_not_found => Import datoteka nije pronađena. Molimo nazovite datoteku <code>import.txt</code> i sačuvajte je <code>/textpattern/include/import/</code>
 import_host => MySQL host

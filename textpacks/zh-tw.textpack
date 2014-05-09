@@ -495,7 +495,7 @@ upload_thumbnail => 上傳縮圖
 #@import
 continue => 繼續
 database_stuff => 資料庫設定
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => 資料庫名稱
 import_file_not_found => 匯入檔案失敗. 請將檔案名稱改為 <code>import.txt</code> 並存放於 <code>/textpattern/include/import/</code>
 import_host => MySQL 主機

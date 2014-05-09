@@ -495,7 +495,7 @@ upload_thumbnail => Unggah gambar-kecil
 #@import
 continue => Lanjutkan
 database_stuff => Data Basis-data
-import_blogid => ID Weblog
+import_blogid => ID blog
 import_database => Nama Basis-data
 import_file_not_found => Berkas diimpor tidak ketemu. Mohon beri nama berkas dengan <code>import.txt</code> dan tempatkan di <code>/textpattern/include/import/</code>
 import_host => Host MySQL

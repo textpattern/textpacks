@@ -495,7 +495,7 @@ upload_thumbnail => Uploadeaza thumbnail-ul
 #@import
 continue => Continua
 database_stuff => Datele bazei de date
-import_blogid => ID-ul weblog-ului
+import_blogid => ID-ul blog-ului
 import_database => Numele bazei de date
 import_file_not_found => Fisierul de importare nu a fost gasit. Te rog denumeste fisierul <code>import.txt</code> si pune-l in <code>/textpattern/include/import/</code>
 import_host => MySQL host

@@ -495,7 +495,7 @@ upload_thumbnail => Küçük görsel (thumbnail) yükle
 #@import
 continue => Devam et
 database_stuff => Database Bilgileri
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => Database adı
 import_file_not_found => İçe akatarılacak dosya bulunamadı.Lütfen dosyanın adını <code>import.txt</code> olarka değişitirin ve belirtilen klasörün <code>/textpattern/include/import/</code> içien aktarın.
 import_host => MySQL sunucusu

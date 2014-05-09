@@ -495,7 +495,7 @@ upload_thumbnail => Postavi thumbnail
 #@import
 continue => Nastavi
 database_stuff => Podatci baze
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => Ime baze
 import_file_not_found =>
 import_host => MySQL host

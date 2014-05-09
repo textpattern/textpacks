@@ -495,7 +495,7 @@ upload_thumbnail => Nahrať náhľad
 #@import
 continue => Pokračovať
 database_stuff => Údaje o databázi
-import_blogid => ID weblogu
+import_blogid => ID blogu
 import_database => Názov databázy
 import_file_not_found => Súbor na importovanie nebol nájdený. Pomenujte ho <code>import.txt</code> a uložte do <code>/textpattern/include/import/</code>
 import_host => MySQL server

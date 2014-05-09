@@ -495,7 +495,7 @@ upload_thumbnail => Last opp lite bilde
 #@import
 continue => Fortsett
 database_stuff => Database Data
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => Databasenavn
 import_file_not_found => Import fil ikke funnet. Vennligst gi filen navnet <code>import.txt</code> og plasser den i <code>/textpattern/include/import/</code>
 import_host => MySQL-server

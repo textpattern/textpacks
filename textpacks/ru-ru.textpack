@@ -495,7 +495,7 @@ upload_thumbnail => Загрузить уменьшенную картинку
 #@import
 continue => Далее
 database_stuff => Данные базы данных
-import_blogid => Weblog ID
+import_blogid => Blog ID
 import_database => Название базы данных
 import_file_not_found => Файл для импортирования не найден. Назовите файл <code>import.txt</code> и поместите его в <code>/textpattern/include/import/</code>.
 import_host => MySQL хост

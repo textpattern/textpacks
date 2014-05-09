@@ -495,7 +495,7 @@ upload_thumbnail => إرسال مصغرة
 #@import
 continue => الاستمرار
 database_stuff => معلومات من بنك المعلومات
-import_blogid => ID Weblog
+import_blogid =>
 import_database => اسم بنك المعلومات
 import_file_not_found => <code dir="ltr">import.txt</code> <code dir="ltr">/textpattern/include/import/</code>.الرجاة إعادة التسمية للملف ووضعه ضمن القائمة
 import_host => MySQL عنوان الموزع
