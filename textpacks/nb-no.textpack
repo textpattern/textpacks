@@ -494,7 +494,7 @@ upload_image => Last opp bilde
 upload_thumbnail => Last opp lite bilde
 #@import
 continue => Fortsett
-database_stuff => Database Data
+database_stuff => Database data
 import_blogid => Blog ID
 import_database => Databasenavn
 import_file_not_found => Import fil ikke funnet. Vennligst gi filen navnet <code>import.txt</code> og plasser den i <code>/textpattern/include/import/</code>

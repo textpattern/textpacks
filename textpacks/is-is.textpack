@@ -494,7 +494,7 @@ upload_image =>
 upload_thumbnail => Uphlaða smámynd
 #@import
 continue =>
-database_stuff => Gagnagrunns Data
+database_stuff => Gagnagrunns data
 import_blogid => Blog ID
 import_database => Nafn gagnagrunns
 import_file_not_found => Innfluttningsskrá fannst ekki. Vinsamlegast skýrðu skránna <code>import.txt</code> og settu hana í <code>/textpattern/include/import/</code>
