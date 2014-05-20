@@ -955,7 +955,7 @@ section_updated => Section(s) <strong>{name}</strong> mise(s) à jour.
 section_used_by_article => La section <strong>{name}</strong> n’a pas été effacée car elle est utilisée par {count} article(s).
 selected_by_default => Sélectionnée par défaut
 style => Styles
-syndicate => Syndiquer (flux XML)
+syndicate => Syndiquer (flux XML) ?
 uses_page => Utilise le gabarit
 uses_style => Utilise le style
 #@setup
