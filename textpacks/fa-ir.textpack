@@ -417,7 +417,7 @@ file_cannot_rename => ناتوانی در تغییر نام فایل <strong>{na
 file_category => رده
 file_deleted => فایل(های) <strong>{name}</strong> پاک شد(ند).
 file_delete_failed => ناتوانی در حذف فایل(ها)
-file_dir_not_writeable => هشدار: امکان نوشتن روی پوشه‌ی فایل {filedir} وجود ندارد.
+file_dir_not_writeable => هشدار: امکان نوشتن روی پوشه‌ی فایل <code dir="ltr">{filedir}</code> وجود ندارد.
 file_download_count => دفعات دانلود
 file_name => نام
 file_not_found => فایل یافت نشد
@@ -475,7 +475,7 @@ image_save_error => مشکلی در ذخیره داده‌های تصویر رخ
 image_save_failed => تصویر به دلیل بروز خطا ذخیره نشد. لطفا دوباره تلاش کنید.
 image_updated => تصویر <strong>{name}</strong> بهنگام شد.
 image_uploaded => تصویر <strong>{name}</strong> آپلود شد.
-img_dir_not_writeable => خطا: ناتوانی در نوشتن بر روی پوشه تصاویر {imgdir}.
+img_dir_not_writeable => خطا: ناتوانی در نوشتن بر روی پوشه تصاویر <code dir="ltr">{imgdir}</code>.
 invalid_width_or_height => طول یا عرض نامعتبر
 keep_square_pixels => بریدن
 not_saved => ذخیره <strong>نشد</strong>!

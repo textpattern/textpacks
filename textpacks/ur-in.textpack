@@ -417,7 +417,7 @@ file_cannot_rename => فائل <strong>{name}</strong> کو نیا نام دین
 file_category => زمرہ
 file_deleted => فائل <strong>{name}</strong> کو حذف کیا
 file_delete_failed => فائل کو حذف کرنے میں ناکام
-file_dir_not_writeable => تنبیہ: یہ پوشا قابل تحریر نہیں {filedir}
+file_dir_not_writeable => تنبیہ: یہ پوشا قابل تحریر نہیں <code dir="ltr">{filedir}</code>
 file_download_count => ڈاؤن لوڈ ‏گنتی
 file_name => نام
 file_not_found => فائل(یں) ملا نہیں
@@ -475,7 +475,7 @@ image_save_error => تصویر کے معلومات محفوظ کرنے میں ن
 image_save_failed =>
 image_updated => تصویر <strong>{name}</strong> تازہ کیا
 image_uploaded => تصویر <strong>{name}</strong> اپ لوڈ کیا
-img_dir_not_writeable => تنبیہ: تصویر کے پوشہ میں محفوظ کرنا ناممکن {imgdir}
+img_dir_not_writeable => تنبیہ: تصویر کے پوشہ میں محفوظ کرنا ناممکن <code dir="ltr">{imgdir}</code>
 invalid_width_or_height => چوڑائی یا اونچائی غیر معتبر
 keep_square_pixels => قطع کریں
 not_saved => محفوظ <strong>نہیں</strong> کیا !
