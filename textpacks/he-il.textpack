@@ -475,7 +475,7 @@ image_save_error => שגיאה התרחשה בעת שמירת נתוני התמ�
 image_save_failed => התמונה לא נשמרה בגלל שגיאה. אנא נסה שוב.
 image_updated => תמונה <strong>{name}</strong> עודכנה.
 image_uploaded => תמונה <strong>{name}</strong> הועלתה.
-img_dir_not_writeable => אזהרה לא יכול לכתוב לספריית התמונות: {imgdir}.
+img_dir_not_writeable => אזהרה לא יכול לכתוב לספריית התמונות: <code dir="ltr">{imgdir}</code>.
 invalid_width_or_height => רוחב או גובה לא תקינים.
 keep_square_pixels => חתוך
 not_saved => <strong>לא</strong> נשמרה!
