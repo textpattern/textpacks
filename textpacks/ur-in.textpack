@@ -962,7 +962,7 @@ uses_style => یہ سٹائل استمعال کریں
 about_to_create => اب ڈیٹابیس کے جدول بھریں جاینگے
 add_config_file =>
 admin_theme =>
-already_installed => Textpattern لگتا ہے کی کو نصب کرنا چاہتے ہیں تو Textpattern اگر آپ پھر تازہ  پوشہ سے حذف کرے <code dir="ltr">Textpattern</code> فائل کو <code dir="ltr">config.php</code> اور پھر کوشس کریں
+already_installed => Textpattern لگتا ہے کی کو نصب کرنا چاہتے ہیں تو Textpattern اگر آپ پھر تازہ پوشہ سے حذف کرے <code dir="ltr">Textpattern</code> فائل کو <code dir="ltr">config.php</code> اور پھر کوشس کریں
 back =>
 before_you_proceed => آگے جانے سے پہلے
 checking_database => ڈیٹابیس مع ربط کر رہا ہے
