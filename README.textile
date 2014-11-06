@@ -62,7 +62,7 @@ This will populate your empty @xx-xx.textpack@ file with an empty Textpack templ
 
 h3. Updating an existing translation
 
-After running the sync tool, any new strings will be empty - you have to compare it with @en-gb.textpack@ in order to review and update it, which can prove laborious. The tip below will help you translate new strings. *Note:* Commit everything before do it!
+After running the sync tool, any new strings will be empty - you have to compare it with @en-gb.textpack@ in order to review and update it, which can prove laborious. The tip below will help you translate new strings. *Note:* Commit everything before you do it!
 
 First, filter all new strings:
 
