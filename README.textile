@@ -60,6 +60,30 @@ bc. $ ./textpack
 
 This will populate your empty @xx-xx.textpack@ file with an empty Textpack template.
 
+h3. Updating an exiting translation
+
+After run sync tool, new trings will be empty.
+You have to compare it with @en-gb.textpack@ in order to review and update it. It is burnsome!
+
+The tip below will only help you translate new strings.
+Note: Commit every thing before do it.
+
+Firstly, filter all new strings:
+
+bc. $ grep " =>[[:blank:]]*$" xx-xx.textpack | \
+xargs -n1 printf "grep '^%s =>' en-gb.textpack\n" | \
+bash > xx-xx.txt
+
+Delete untranslated lines:
+
+bc. $ sed -i '/ =>[[:blank:]]*$/d' xx-xx.textpack
+
+Edit @xx-xx.txt@ in your favorite editor, then append it at the end of @xx-xx.textpack@:
+
+bc. $ cat xx-xx.txt >>  xx-xx.textpack
+
+Finally, sync then test.
+
 h3. Testing
 
 The project uses "PHPunit":http://phpunit.de for running its unit tests. Before running the tests, make sure you have installed dev-requirements using "Composer":http://getcomposer.org:
