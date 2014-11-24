@@ -531,7 +531,7 @@ manage => Manage
 #@log
 logs => Logs
 logs_deleted => Logs deleted: <strong>{list}</strong>.
-no_refers_recorded => No referrers recorded.
+no_refers_recorded => No hits recorded.
 referrer => Referrer
 visitor_logs => Visitor logs
 #@page
