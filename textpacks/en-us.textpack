@@ -509,7 +509,7 @@ import_wpprefix => Tables prefix (if any)
 select_tool => Import from
 txp_import => Import content from other publishing tools
 #@link
-add_new_link => Add new link
+add_new_link => Create new link
 edit_link => Edit link
 edit_links => Links
 linkcategory => Link categories
@@ -934,7 +934,7 @@ you_have_been_banned => You have been banned from commenting.
 yyyy-mm => yyyy-mm
 #@section
 article_count => Articles in this section: <strong>{num}</strong>.
-create_section => Create section
+create_section => Create new section
 default_write_section => Default publishing section
 delete_section_confirmation => confirm section deletion
 edit_default_section => Edit default section
