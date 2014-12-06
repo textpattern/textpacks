@@ -362,7 +362,7 @@ rfc_2616_headers => Type d’entêtes CGI
 server => Serveur
 server_time => Date et heure du serveur
 site_trailing_slash => L’URL du site a un <code>/</code> final
-site_url_mismatch => L’URL du site dans les préférences peut être incorrecte
+site_url_mismatch => L’URL du site renseignée dans les préférences est peut-être incorrecte
 some_php_functions_disabled => Certaines fonctions PHP (pouvant être nécessaires) sont désactivées sur le serveur
 still_exists => existe encore
 textpattern_update_available => Une nouvelle version de Textpattern CMS {version} <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern CMS">est disponible en téléchargement</a>.
