@@ -704,7 +704,7 @@ theme_name => Thème de l’interface d’administration
 timeoffset => Décalage horaire (en heures)
 title_no_widow => Éviter un mot veuf (seul) dans les titres d’articles ?
 title_only => /titre
-updated => À jour
+updated => à jour
 updated_branch_version_available => Une mise à jour de cette version de Textpattern CMS est disponible. Voulez-vous la <a href="http://textpattern.com/download" rel="external" title="Accès à la zone de téléchargement du site Textpattern">télécharger</a> ?
 update_languages => Mettre à jour les langues installées
 urls_to_ping => URL où envoyer un ping (séparées par une virgule)
