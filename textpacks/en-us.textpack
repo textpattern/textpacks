@@ -704,7 +704,7 @@ theme_name => Admin-side theme
 timeoffset => Time offset (hours)
 title_no_widow => Prevent widowed words in article titles?
 title_only => /title
-updated => Updated
+updated => updated
 updated_branch_version_available => There is an update for this Textpattern CMS version series available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?
 update_languages => Update languages
 urls_to_ping => URLs to ping (comma-separated)
