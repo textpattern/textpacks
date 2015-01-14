@@ -707,6 +707,7 @@ title_only => /pavadinimas
 updated => Atnaujinta
 updated_branch_version_available => Yra pasiekiamas atnaujinimas šiai Textpattern versijos serijai (4.0.x).
 update_languages => Naujinti kalbas
+up_to_date =>
 urls_to_ping => Adresai kuriuos tikrinti (atskirti kableliais)
 url_mode => Universalaus adreso būsena
 use_comments => Leisti komentuoti?

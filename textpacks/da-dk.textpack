@@ -707,6 +707,7 @@ title_only => /titel
 updated => opdateret
 updated_branch_version_available => Der er en opdatering tilgængelig for denne Textpattern versions serie (4.0.x)
 update_languages => Opdatér sprog
+up_to_date =>
 urls_to_ping => URL’er der skal pinges (komma-separeret)
 url_mode => URL tilstand
 use_comments => Tillad kommentarer?

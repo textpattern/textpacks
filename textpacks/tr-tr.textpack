@@ -707,6 +707,7 @@ title_only => /title
 updated =>
 updated_branch_version_available => Textpattern için daha güncel bir sürüm (4.0.x) mevcut.
 update_languages => dil dosyaalrını güncelle
+up_to_date =>
 urls_to_ping => URLs to ping (virgül ile ayrılmış)
 url_mode => URL biçimi
 use_comments => Yorum kabul edilsin mi?

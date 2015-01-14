@@ -707,6 +707,7 @@ title_only => /ชื่อ
 updated => ปรับปรุงแล้ว
 updated_branch_version_available =>
 update_languages => ปรับปรุงภาษา
+up_to_date =>
 urls_to_ping =>
 url_mode => โหมด URL
 use_comments => รับความคิดเห็น

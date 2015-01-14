@@ -707,6 +707,7 @@ title_only => /títol
 updated => Actualitzat
 updated_branch_version_available => Nova versió disponible.
 update_languages => Actualitzar idiomes
+up_to_date =>
 urls_to_ping => URLs per enviar pings (separades amb comes)
 url_mode => mode URL
 use_comments => Permet comentaris?

@@ -707,6 +707,7 @@ title_only => /pealkiri
 updated => Uuendatud
 updated_branch_version_available => Uuendatud versioon Textpatternist on saadaval. Kas soovid <a href="http://textpattern.com/download" rel="external">seda proovida</a>?
 update_languages => Uuenda keel
+up_to_date =>
 urls_to_ping => URL-id pingimiseks (komadega eraldatud)
 url_mode => URLi reziim
 use_comments => Kommentaarid lubatud?

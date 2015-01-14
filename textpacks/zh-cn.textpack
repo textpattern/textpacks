@@ -707,6 +707,7 @@ title_only => /title
 updated => 更新
 updated_branch_version_available => 取得 Textpattern 发布最新的版本
 update_languages => 更新语言
+up_to_date =>
 urls_to_ping => Ping 以下 URL（半角逗号分隔）
 url_mode => URL 模式
 use_comments => 接受评论？

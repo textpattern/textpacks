@@ -707,6 +707,7 @@ title_only => /titel
 updated => aktualisiert
 updated_branch_version_available => Für diesen Entwicklungszweig ist eine aktualisierte Version von Textpattern verfügbar.
 update_languages => Sprachen aktualisieren
+up_to_date =>
 urls_to_ping => anzupingende URLs (kommagetrennt)
 url_mode => URL mode
 use_comments => Kommentare annehmen?

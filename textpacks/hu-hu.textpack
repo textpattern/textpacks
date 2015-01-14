@@ -707,6 +707,7 @@ title_only => /cim
 updated => frissítve
 updated_branch_version_available => Jelenleg ez a legfrissebb Textpattern. Használd egészséggel!
 update_languages => Nyelvek frissítése
+up_to_date =>
 urls_to_ping => URLs to ping (vesszővel elválasztva)
 url_mode => URL mód
 use_comments => Megjegyzések fogadása

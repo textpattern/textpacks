@@ -707,6 +707,7 @@ title_only => /タイトル
 updated => 更新済
 updated_branch_version_available => このTexpatternシリーズ (4.0.x) に更新可能な新しいバージョンが発見されました。
 update_languages => 言語の更新
+up_to_date =>
 urls_to_ping => ping するURL(カンマ区切りで複数可)
 url_mode => URL モード
 use_comments => コメントの許可

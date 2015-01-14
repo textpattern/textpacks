@@ -707,6 +707,7 @@ title_only => /naslov
 updated => Osvježeno
 updated_branch_version_available => Postoji nova obnova za ovu <a href="http://textpattern.com/download" rel="external">verziju Textpatterna</a>.
 update_languages => Obnovi jezike
+up_to_date =>
 urls_to_ping => URLovi za pinganje (odvojeno-zarezom)
 url_mode => Način URL
 use_comments => Prihvati komentare?

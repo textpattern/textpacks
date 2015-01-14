@@ -707,6 +707,7 @@ title_only => /titel
 updated => Uppdaterad
 updated_branch_version_available => En uppdatering av denna version av Textpattern (4.0.x) finns tillgänglig!
 update_languages => Uppdatera språk
+up_to_date =>
 urls_to_ping => URL:ar att pinga (komma-separerade)
 url_mode => URL-läge
 use_comments => Acceptera kommentarer?

@@ -707,6 +707,7 @@ title_only => /titill
 updated => uppfært
 updated_branch_version_available => Það er til uppfærsla fyrir þessa uppsettningu af Textpattern
 update_languages => Uppfæra tungumál
+up_to_date =>
 urls_to_ping => Slóðir til að pinga (setja kommu á milli)
 url_mode => Slóða máti
 use_comments => Leyfa skoðanir

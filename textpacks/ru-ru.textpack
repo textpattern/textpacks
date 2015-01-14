@@ -707,6 +707,7 @@ title_only => /заголовок
 updated => Обновлено
 updated_branch_version_available => Доступно обновление этой версии <a href="http://textpattern.com/download" rel="external" title="Перейти на сайт Textpattern"> Textpattern</a> в.
 update_languages => Обновить языки
+up_to_date =>
 urls_to_ping => URL’ы для пинга (через запятую)
 url_mode => режим адресации
 use_comments => Принимать комментарии?

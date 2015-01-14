@@ -707,6 +707,7 @@ title_only => /naslov
 updated => Osveženo
 updated_branch_version_available => Postoji nova obnova za ovu verziju Textpatterna (4.0.x).
 update_languages => Obnovi jezike
+up_to_date =>
 urls_to_ping => URLovi za pingovanje (odvojeno-zarezom)
 url_mode => URL mode
 use_comments => Prihvati komentare?

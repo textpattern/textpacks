@@ -707,6 +707,7 @@ title_only => /virsraksts
 updated => Atjaunināts
 updated_branch_version_available => Ir pieejama atjaunota Textpattern versija
 update_languages => Atjaunināt valodas
+up_to_date =>
 urls_to_ping => Pingojamie URL (ar komatu atdalīti)
 url_mode => URL režīms
 use_comments => Atļaut komentārus?

@@ -707,6 +707,7 @@ title_only => /tytuł
 updated => Uaktualniony
 updated_branch_version_available => Dostępna jest nowa wersja Textpattern. Chcesz ją <a href="http://textpattern.com/download" rel="external">wypróbować</a>?
 update_languages => Zaktualizuj języki
+up_to_date =>
 urls_to_ping => Adresy, do których ma być wysyłany ping (oddzielone przecinkami)
 url_mode => Tryb URL
 use_comments => Akceptować komentarze?

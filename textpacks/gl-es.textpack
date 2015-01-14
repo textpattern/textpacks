@@ -707,6 +707,7 @@ title_only => /tí­tulo
 updated => actualizado
 updated_branch_version_available => Nova versión disponíbel
 update_languages => Actualizar linguaxes
+up_to_date =>
 urls_to_ping => URLs ás que enviar avisos (separadas por comas)
 url_mode => modo URL
 use_comments => Permitir comentarios

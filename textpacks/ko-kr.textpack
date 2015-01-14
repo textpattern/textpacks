@@ -707,6 +707,7 @@ title_only => /제목
 updated => 최신 내용
 updated_branch_version_available => 새 버전의 Textpattern 업데이트가 있습니다
 update_languages => 언어 갱신
+up_to_date =>
 urls_to_ping => 핑을 보낼 URL 주소들 (콤마로 구분함)
 url_mode => URL 모드
 use_comments => 댓글을 허용합니까?

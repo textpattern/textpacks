@@ -707,6 +707,7 @@ title_only => /τίτλος
 updated => ανανεώθηκε
 updated_branch_version_available => Μια μερικώς ανανεωμένη έκδοση του Textpattern είναι διαθέσιμη.
 update_languages => Ανανέωση γλωσσών
+up_to_date =>
 urls_to_ping => Ενημέρωση URL (χωρισμένα με κόμματα)
 url_mode => μορφή URL
 use_comments => Δυνατότητα σχολιασμού

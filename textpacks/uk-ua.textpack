@@ -707,6 +707,7 @@ title_only => /title
 updated => Оновлено
 updated_branch_version_available => Доступне обновлення цієї версії Textpattern.
 update_languages => Обновити мови
+up_to_date =>
 urls_to_ping => адреси для пінгування (через кому)
 url_mode => URL режим
 use_comments => Приймати коментарі?

@@ -707,6 +707,7 @@ title_only => /título
 updated => actualizado
 updated_branch_version_available => Está disponível uma versão actualizada do Textpattern
 update_languages => Gerir Idiomas
+up_to_date =>
 urls_to_ping => URLs a notificar (separados por vírgula)
 url_mode => tipo do URL
 use_comments => Permitir comentários
