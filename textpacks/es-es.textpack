@@ -159,7 +159,7 @@ back_to_login => ← Volver a identificarse en Textpattern
 bad_cookie => Tu sesión ha caducado. Por favor, vuelve a entrar.
 body => Cuerpo
 cannot_instantiate_theme => El tema <strong>{name}</strong> ({class}) no se ha cargado correctamente desde el archivo {path}. Se volverá a usar de nuevo el tema por defecto.
-category => Categoria
+category => Categoría
 changeauthor => Cambiar autor
 changecategory => Cambiar categoría
 changecategory1 => Cambiar categoría 1
@@ -707,7 +707,7 @@ title_only => /titulo
 updated => Actualizado
 updated_branch_version_available => Hay disponible una actualización de esta versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">probarla</a>?
 update_languages => Actualizar idiomas
-up_to_date =>
+up_to_date => Al día
 urls_to_ping => URLs a las que enviar pings (separadas por comas)
 url_mode => modo URL
 use_comments => ¿Permitir comentarios?
