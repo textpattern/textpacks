@@ -90,7 +90,7 @@ no_articles_recorded => No articles recorded.
 or_publish_at => …or publish at
 override_default_form => Override form
 pending => Pending
-reset_time => Reset time to now
+reset_time => Reset timestamp to now
 set_to_now => Set timestamp to now
 sort_display => Sort and display
 textfilter_help => Text formatting help
@@ -273,7 +273,7 @@ upload_err_form_size => File exceeds the maximum size specified in Textpattern�
 upload_err_ini_size => File exceeds the <code>upload_max_filesize</code> directive in <code>php.ini</code>.
 upload_err_no_file => No file was specified.
 upload_err_partial => File was only partially uploaded.
-upload_err_tmp_dir => No valid temporary directory was found. Please consult your webhost.
+upload_err_tmp_dir => No valid temporary directory was found. Please consult your website host.
 upload_file => Upload file
 use_textile => Use Textile
 viewsite => View site
@@ -344,7 +344,7 @@ low => Low
 magic_quotes => Magic quotes
 missing_files => Missing files
 modified_files => Some Textpattern files have been modified
-mod_rewrite_missing => Apache module mod_rewrite is not installed.
+mod_rewrite_missing => Apache module @mod_rewrite@ is not installed.
 mysql_table_errors => The following errors were detected in your MySQL tables
 no_temp_dir => No temporary directory defined
 old_files => Some Textpattern files are out of date
@@ -354,7 +354,7 @@ path_to_site_inacc => <code>$path_to_site</code> is inaccessible.
 php_extensions => PHP extensions
 php_sapi_mode => PHP server API
 php_version => PHP version
-php_version_required => Textpattern CMS requires at least version {version} of PHP to be installed on your server
+php_version_required => Textpattern requires at least version {version} of PHP to be installed on your server
 preflight_check => Pre-flight check
 register_globals => Register globals
 rfc2616_headers => RFC 2616 headers
@@ -365,7 +365,7 @@ site_trailing_slash => Site URL has a trailing slash
 site_url_mismatch => Site URL preference might be incorrect
 some_php_functions_disabled => The following PHP functions (which may be necessary to run Textpattern) are disabled on your server
 still_exists => still exists
-textpattern_update_available => New Textpattern CMS version {version} <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern CMS download area">available for download</a>.
+textpattern_update_available => New Textpattern version {version} <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern download area">available for download</a>.
 tmp_plugin_paths_match => Temporary directory path and plugin cache directory path should <strong>not</strong> match.
 txp_path => Textpattern path
 txp_version => Textpattern version
@@ -664,7 +664,7 @@ max_url_len => Maximum URL length (in characters)
 mentions => Mentions
 messy => ?=messy
 never_display_email => Hide commenter email address?
-new_textpattern_version_available => There is a new Textpattern CMS version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?
+new_textpattern_version_available => There is a new Textpattern version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?
 no_popup => current window
 override_emailcharset => Use ISO-8859-1 encoding in emails (default is UTF-8)?
 path_from_root => Sub-directory (if any)
@@ -705,7 +705,7 @@ timeoffset => Time offset (hours)
 title_no_widow => Prevent widowed words in article titles?
 title_only => /title
 updated => updated
-updated_branch_version_available => There is an update for this Textpattern CMS version series available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?
+updated_branch_version_available => There is an update for this Textpattern version series available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?
 update_languages => Update languages
 up_to_date => Up-to-date
 urls_to_ping => URLs to ping (comma-separated)
@@ -980,7 +980,7 @@ db_doesnt_exist => Database <strong>{dbname}</strong> does not exist or your spe
 db_must_exist => Note that the database you specify must already exist, Textpattern will not create it.
 did_it => I did it →
 email_required => Please provide a valid email address.
-errors_during_install => There were <strong>{num}</strong> errors during the installation. You can ask for help in the <a href="http://forum.textpattern.com/" rel="external">Textpattern CMS Support Forum</a>.
+errors_during_install => There were <strong>{num}</strong> errors during the installation. You can ask for help in the <a href="http://forum.textpattern.com/" rel="external">Textpattern Support Forum</a>.
 get_started => Go!
 go_to_login => Log in now
 installation_postamble => For security, you should now remove the <code>setup</code> directory from your <code>/textpattern/</code> directory. Please check the Admin → Diagnostics panel from time to time for update announcements or troubleshooting hints.
@@ -1015,7 +1015,7 @@ warn_mail_unavailable => Your PHP installation is missing the <code>mail()</code
 welcome_to_textpattern => Welcome to Textpattern
 your_email => Your email address
 your_full_name => Your full name
-you_can_access => Textpattern CMS database tables were created and populated. You should be able to access the <a href="index.php">main interface</a> with the login and password you chose.
+you_can_access => Textpattern database tables were created and populated. You should be able to access the <a href="index.php">main interface</a> with the login and password you chose.
 #@tag
 active_class => CSS class for active list item
 align => Alignment
