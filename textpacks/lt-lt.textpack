@@ -344,7 +344,7 @@ low => Žemas
 magic_quotes => Stebuklingos kabutės
 missing_files => Trūkstamos rinkmenos
 modified_files => Kai kurios Textpattern rinkmenos buvo pakeistos
-mod_rewrite_missing => Apache modulis mod_rewrite nėra įdiegtas
+mod_rewrite_missing => Apache modulis <code>mod_rewrite</code> nėra įdiegtas
 mysql_table_errors => Šios klaidos buvo aptiktos jūsų MySQL lentelėse
 no_temp_dir => Nenurodytas katalogas laikiniems duomenims
 old_files => Kai kurios Textpattern rinkmenos yra pasenusios
@@ -652,7 +652,7 @@ install_language => Įdiegti kalbą
 install_textpack => Įdiegti Textpack
 is_dst => <abbr title="Daylight Saving Time">DST</abbr> įjungtas?
 language => Kalba
-lastmod_keepalive => Ištaisyti ilgalaikių susijungimų mod_deflate klaidą?
+lastmod_keepalive => Ištaisyti ilgalaikių susijungimų <code>mod_deflate</code> klaidą?
 leave_text_untouched => Palikti tekstą nepaliestą
 link => Nuorodos
 locale => Lokalė

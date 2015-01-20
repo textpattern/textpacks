@@ -344,7 +344,7 @@ low => پست
 magic_quotes => Magic quotes
 missing_files => غائب‏ فائل
 modified_files => کچھ Textpattern کے فائل ترمیم کیے گئے ہیں
-mod_rewrite_missing => Apache module mod_rewrite نسب نہیں
+mod_rewrite_missing => Apache module <code>mod_rewrite</code> نسب نہیں
 mysql_table_errors =>
 no_temp_dir =>
 old_files => کئی Textpattern کے فائل متروک ہے
@@ -652,7 +652,7 @@ install_language => زبان تنصیب کریں
 install_textpack =>
 is_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> اہل بنا ہے ؟
 language => زبان
-lastmod_keepalive => کیا mod_deflate میں گڑبڑ کی وجہ سے مسلسل اتصال روکا جاۓ ؟
+lastmod_keepalive => کیا <code>mod_deflate</code> میں گڑبڑ کی وجہ سے مسلسل اتصال روکا جاۓ ؟
 leave_text_untouched =>
 link => روابط
 locale => مقامیت
