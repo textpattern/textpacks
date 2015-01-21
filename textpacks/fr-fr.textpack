@@ -707,7 +707,7 @@ title_only => /titre
 updated => à jour
 updated_branch_version_available => Une mise à jour de cette version de Textpattern CMS est disponible. Voulez-vous la <a href="http://textpattern.com/download" rel="external" title="Accès à la zone de téléchargement du site Textpattern">télécharger</a> ?
 update_languages => Mettre à jour les langues installées
-up_to_date =>
+up_to_date => À jour
 urls_to_ping => URL où envoyer un ping (séparées par une virgule)
 url_mode => Type d’URL
 use_comments => Accepter les commentaires ?
