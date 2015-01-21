@@ -90,7 +90,7 @@ no_articles_recorded => Ningún artículo guardado.
 or_publish_at => …o publicar en
 override_default_form => Sobrescribir bloque
 pending => Pendiente
-reset_time => Usar hora actual
+reset_time => Reponer día y hora actuales
 set_to_now => Usar día y hora actuales
 sort_display => Clasificación y presentación
 textfilter_help => Ayuda de formato de texto
@@ -344,7 +344,7 @@ low => Bajo
 magic_quotes => Comillas mágicas
 missing_files => Archivos perdidos
 modified_files => Algunos archivos de Textpattern han sido modificados
-mod_rewrite_missing => El módulo de Apache mod_rewrite no está instalado.
+mod_rewrite_missing => El módulo de Apache @mod_rewrite@ no está instalado.
 mysql_table_errors => Se han detectado los siguientes errores en tus tablas MySQL
 no_temp_dir => No se ha definido un directorio temporal
 old_files => Algunos archivos de Textpattern están obsoletos
@@ -354,7 +354,7 @@ path_to_site_inacc => <code>$path_to_site</code> es inaccesible.
 php_extensions => Extensiones de PHP
 php_sapi_mode => PHP Server API
 php_version => Versión de PHP
-php_version_required => El CMS Textpattern requiere que en tu servidor esté instalada como mínimo la versión {version} de PHP
+php_version_required => Textpattern requiere que en tu servidor esté instalada como mínimo la versión {version} de PHP
 preflight_check => Comprobación previa
 register_globals => Register globals
 rfc2616_headers => Cabeceras RFC 2616
@@ -365,7 +365,7 @@ site_trailing_slash => La URL del sitio tiene una barra
 site_url_mismatch => La preferencia de URL del sitio puede ser incorrecta
 some_php_functions_disabled => Las siguientes funciones de PHP (que pueden ser necesarias para Textpattern) están deshabilitadas en tu servidor
 still_exists => todavía existe
-textpattern_update_available => La nueva versión {version} del CMS Textpattern está <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">disponible para descargar</a>.
+textpattern_update_available => La nueva versión {version} de Textpattern está <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">disponible para descargar</a>.
 tmp_plugin_paths_match => Las rutas del directorio temporal y del directorio de caché de plugins <strong>no</strong> deberían coincidir.
 txp_path => Ruta a Textpattern
 txp_version => Versión de Textpattern
@@ -664,7 +664,7 @@ max_url_len => Longitud máxima de las URLs (en caracteres)
 mentions => Menciones
 messy => ?=sucio
 never_display_email => ¿Ocultar email del autor del comentario?
-new_textpattern_version_available => Hay disponible una versión de Textpattern completamente nueva. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">probarla</a>?
+new_textpattern_version_available => Está disponible una nueva versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga de Textpattern">descargarla</a>?
 no_popup => ventana actual
 override_emailcharset => ¿Codificación ISO-8859-1 en envíos de email? Por defecto UTF-8
 path_from_root => Subdirectorio (si lo hay)
@@ -705,7 +705,7 @@ timeoffset => Diferencia horaria (horas)
 title_no_widow => ¿Evitar palabras viudas en los títulos de los artículos?
 title_only => /titulo
 updated => Actualizado
-updated_branch_version_available => Hay disponible una actualización de esta versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">probarla</a>?
+updated_branch_version_available => Está disponible una actualización de esta versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">descargarla</a>?
 update_languages => Actualizar idiomas
 up_to_date => Al día
 urls_to_ping => URLs a las que enviar pings (separadas por comas)
@@ -980,7 +980,7 @@ db_doesnt_exist => La base de datos <strong>{dbname}</strong> no existe o el usu
 db_must_exist => La base de datos que especifiques debe existir previamente. Textpattern no la creará por ti.
 did_it => Ya lo he hecho →
 email_required => Por favor, proporciona una dirección de email válida.
-errors_during_install => Ha habido <strong>{num}</strong> errores durante la instalación. Puedes pedir ayuda en los foros de Textpattern.
+errors_during_install => Ha habido <strong>{num}</strong> errores durante la instalación. Puedes pedir ayuda en los foros de ayuda de Textpattern.
 get_started => ¡Adelante!
 go_to_login => Entrar ahora
 installation_postamble => Por seguridad, ahora deberías eliminar el directorio <code>setup</code> de tu instalación de Textpatten. Por favor, revisa de vez en cuando el panel Administración → Diagnósticos para recibir avisos de actualizaciones o avisos de error.
@@ -1015,7 +1015,7 @@ warn_mail_unavailable => Tu instalación de PHP carece de la función mail(); po
 welcome_to_textpattern => Bienvenido a Textpattern
 your_email => Tu dirección de email
 your_full_name => Tu nombre completo
-you_can_access => Deberías ser capaz de acceder a la <a href="index.php">interfaz principal</a> con el nombre de acceso y la contraseña elegidos.
+you_can_access => Las tablas de la base de datos de Textpattern se han creado y rellenado. Deberías poder acceder a la <a href="index.php">interfaz principal</a> con el nombre de acceso y la contraseña elegidos.
 #@tag
 active_class => Clase css para la lista activa de items
 align => Alineación
