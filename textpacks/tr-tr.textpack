@@ -344,7 +344,7 @@ low => Düşük
 magic_quotes => Sihirli alıntılar
 missing_files => Kayıp dosyalar
 modified_files => Bazı Textpattern dosyaları değişitirilmiş
-mod_rewrite_missing => Apache mod_rewrite modülü yüklü değil
+mod_rewrite_missing => Apache <code>mod_rewrite</code> modülü yüklü değil
 mysql_table_errors =>
 no_temp_dir =>
 old_files => Bazı Textpattern dosyaları güncel değil
@@ -652,7 +652,7 @@ install_language => Dil dosyası yükle
 install_textpack =>
 is_dst => <abbr title="Günışığından Faydalanma">DST</abbr> etkinleştirilsin mi?
 language => Dil
-lastmod_keepalive => Compensate for persistent connections mod_deflate bug?
+lastmod_keepalive => Compensate for persistent connections <code>mod_deflate</code> bug?
 leave_text_untouched => Metine müdahale etme
 link => Bağlantılar
 locale => Yerel

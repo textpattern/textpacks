@@ -344,7 +344,7 @@ low => 간단히
 magic_quotes => 매직 쿼트
 missing_files => 찾을 수 없는 파일들
 modified_files => 몇몀 텍스트패턴 파일이 수정됨
-mod_rewrite_missing => mod_rewrite 아파치 모듈이 설치되지 않음
+mod_rewrite_missing => <code>mod_rewrite</code> 아파치 모듈이 설치되지 않음
 mysql_table_errors =>
 no_temp_dir =>
 old_files => 몇몀 텍스트패턴 파일이 오래됨
@@ -652,7 +652,7 @@ install_language => 언어 설치
 install_textpack =>
 is_dst => <abbr title="Daylight Saving Time">일광절약</abbr>을 활성화합니까?
 language => 언어
-lastmod_keepalive => 접속이 유지될때 나타나는 mod_deflate bug 현상을 보완하겠습니까?
+lastmod_keepalive => 접속이 유지될때 나타나는 <code>mod_deflate</code> bug 현상을 보완하겠습니까?
 leave_text_untouched => 텍스트를 그대로 사용
 link => 링크
 locale => 언어 환경

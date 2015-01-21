@@ -652,7 +652,7 @@ install_language => Install language
 install_textpack => Install Textpack
 is_dst => <abbr title="Daylight Saving Time">DST</abbr> enabled?
 language => Language
-lastmod_keepalive => Compensate for persistent connection mod_deflate bug?
+lastmod_keepalive => Compensate for persistent connection <code>mod_deflate</code> bug?
 leave_text_untouched => Leave text untouched
 link => Links
 locale => Locale

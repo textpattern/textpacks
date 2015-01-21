@@ -344,7 +344,7 @@ low => Low
 magic_quotes => Magic quotes
 missing_files => Nedostaju datoteke
 modified_files => Neki Textpattern fajlovi su izmenjeni
-mod_rewrite_missing => Apache modul mod_rewrite nije istaliran
+mod_rewrite_missing => Apache modul <code>mod_rewrite</code> nije istaliran
 mysql_table_errors =>
 no_temp_dir =>
 old_files => Neki Textpattern fajlovi su zastareli
@@ -652,7 +652,7 @@ install_language => Instaliraj jezik
 install_textpack =>
 is_dst => <abbr title="Daylight Saving Time">DST</abbr> dozvoljen?
 language => Jezik
-lastmod_keepalive => Compensate for persistent connections mod_deflate bug?
+lastmod_keepalive => Compensate for persistent connections <code>mod_deflate</code> bug?
 leave_text_untouched => Ostavi tekst nedirnut
 link => Linkovi
 locale => Locale
