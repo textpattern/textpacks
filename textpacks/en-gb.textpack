@@ -451,6 +451,7 @@ edit_forms => Form templates
 forms_deleted => Forms deleted: <strong>{list}</strong>.
 form_already_exists => Form <strong>{name}</strong> already exists.
 form_code => Form code
+form_clone => Duplicate form
 form_created => Form <strong>{name}</strong> created.
 form_name => Form name
 form_name_invalid => Form name invalid.

@@ -451,6 +451,7 @@ edit_forms => Éditer les modules
 forms_deleted => Module(s) effacé(s) : <strong>{list}</strong>.
 form_already_exists => Le module <strong>{name}</strong> existe déjà.
 form_code => Contenu du module :
+form_clone =>
 form_created => Module <strong>{name}</strong> créé.
 form_name => Nom du module (requis)
 form_name_invalid => Le nom du module n’est pas valide.

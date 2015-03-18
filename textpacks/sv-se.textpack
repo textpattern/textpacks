@@ -451,6 +451,7 @@ edit_forms => Siddelar
 forms_deleted => Dessa siddelar raderades: <strong>{list}</strong>.
 form_already_exists => Siddelen <strong>{name}</strong> finns redan.
 form_code =>
+form_clone =>
 form_created => Siddelen <strong>{name}</strong> skapades.
 form_name => Siddelens namn (obligatorisk)
 form_name_invalid => Siddelens namn är ogiltligt.

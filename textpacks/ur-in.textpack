@@ -451,6 +451,7 @@ edit_forms => فارم ٹیمپلیٹ
 forms_deleted => فارم حذف کیا: <strong>{list}</strong>
 form_already_exists => فارم <strong>{name}</strong> پہلے سے موجود ہے
 form_code =>
+form_clone =>
 form_created => فارم <strong>{name}</strong> بنا ہوا
 form_name => نام (‏لازمی‏)
 form_name_invalid => فارم نام ناجائز

@@ -451,6 +451,7 @@ edit_forms => Шаблони за формата
 forms_deleted => Изтрити форми: <strong>{list}</strong>.
 form_already_exists => Формата <strong>{name}</strong> вече съществува.
 form_code => Оформление на формата
+form_clone =>
 form_created => Формата <strong>{name}</strong> е създадена.
 form_name => Име (задължително)
 form_name_invalid => Името на формата не е валидно

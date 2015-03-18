@@ -451,6 +451,7 @@ edit_forms => modifica formularis
 forms_deleted => Formularis esborrats: {list}.
 form_already_exists => El formulari <strong>{name}</strong> ja existeix.
 form_code =>
+form_clone =>
 form_created => S’ha creat el formulari <strong>{name}</strong>.
 form_name => Nom del formulari (necessari)
 form_name_invalid => Nom de formulari invàlid
