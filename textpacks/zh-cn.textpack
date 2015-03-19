@@ -451,6 +451,7 @@ edit_forms => 编辑模块
 forms_deleted => 模块已删除：<strong>{list}</strong>。
 form_already_exists => 模块 <strong>{name}</strong> 已存在。
 form_code =>
+form_clone =>
 form_created => 模块 <strong>{name}</strong> 已建立。
 form_name => 模块名称（必填）
 form_name_invalid => 模块名称是无效的

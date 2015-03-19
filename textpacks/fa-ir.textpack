@@ -451,6 +451,7 @@ edit_forms => قالب‌های فرم
 forms_deleted => این فرم‌ها پاک شدند : <strong>{list}</strong>
 form_already_exists => فرم <strong>{name}</strong> از پیش موجود است.
 form_code => از کد
+form_clone =>
 form_created => فرم <strong>{name}</strong> ساخته شد.
 form_name => نام (لازم است)
 form_name_invalid => نام فرم نامعتبر است.

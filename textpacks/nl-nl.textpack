@@ -451,6 +451,7 @@ edit_forms => modules wijzigen
 forms_deleted => Verwijderde modules: <strong>{list}</strong>.
 form_already_exists => Module <strong>{name}</strong> bestaat al.
 form_code => Module code
+form_clone =>
 form_created => Module <strong>{name}</strong> toegevoegd.
 form_name => Modulenaam (verplicht)
 form_name_invalid => Deze modulenaam kan niet gebruikt worden.

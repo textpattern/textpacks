@@ -451,6 +451,7 @@ edit_forms => Plantillas de bloque
 forms_deleted => Bloques borrados: <strong>{list}</strong>.
 form_already_exists => El bloque <strong>{name}</strong> ya existe.
 form_code => Código de bloque
+form_clone =>
 form_created => El bloque <strong>{name}</strong> se ha creado.
 form_name => Nombre (requerido)
 form_name_invalid => Nombre de bloque no válido.

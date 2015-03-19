@@ -451,6 +451,7 @@ edit_forms => แก้ไขฟอร์ม
 forms_deleted => ฟอร์มที่ถูกลบทิ้ง: <strong>{list}</strong>.
 form_already_exists => มีฟอร์มชื่อ <strong>{name}</strong> อยู่แล้ว
 form_code =>
+form_clone =>
 form_created => สร้างฟอร์ม <strong>{name}</strong> แล้ว
 form_name => ชื่อฟอร์ม (ต้องกรอก)
 form_name_invalid => ชื่อฟอร์มไม่ถูกต้อง

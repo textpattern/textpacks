@@ -451,6 +451,7 @@ edit_forms => Bausteine bearbeiten
 forms_deleted => Folgende Bausteine wurden gelöscht: <strong>{list}</strong>.
 form_already_exists => Baustein <strong>{name}</strong> existiert bereits.
 form_code => Baustein
+form_clone =>
 form_created => Baustein <strong>{name}</strong> erstellt.
 form_name => Bausteinname (benötigt)
 form_name_invalid => Der Name des Bausteins ist ungültig.

@@ -451,6 +451,7 @@ edit_forms =>
 forms_deleted =>
 form_already_exists =>
 form_code =>
+form_clone =>
 form_created =>
 form_name =>
 form_name_invalid =>

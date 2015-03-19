@@ -451,6 +451,7 @@ edit_forms => Редактировать формы
 forms_deleted => Удалены формы: <strong>{list}</strong>.
 form_already_exists => Форма <strong>{name}</strong> уже существует.
 form_code => Код формы
+form_clone =>
 form_created => Создана форма <strong>{name}</strong>.
 form_name => Название формы (необходимо)
 form_name_invalid => Некорректное название формы.

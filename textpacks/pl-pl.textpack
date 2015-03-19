@@ -451,6 +451,7 @@ edit_forms => Edytuj formy
 forms_deleted => Usunięto formy: <strong>{list}</strong>.
 form_already_exists => Forma <strong>{name}</strong> już istnieje.
 form_code => Kod formy
+form_clone =>
 form_created => Forma <strong>{name}</strong> została utworzona.
 form_name => Nazwa formy (wymagana)
 form_name_invalid => Niepoprawna nazwa formy.

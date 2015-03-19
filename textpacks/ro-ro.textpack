@@ -451,6 +451,7 @@ edit_forms => Editeaza form-ul
 forms_deleted => Forms-urile au fost sterse: {list}.
 form_already_exists => Form-ul <strong>{name}</strong> exista deja.
 form_code =>
+form_clone =>
 form_created => Form-ul <strong>{name}</strong> a fost creat.
 form_name => Numele form-ului (obligatoriu)
 form_name_invalid => Numele form-ului este invalid.

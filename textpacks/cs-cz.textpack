@@ -451,6 +451,7 @@ edit_forms => Úpravy forem
 forms_deleted => Formy odstraněny: <strong>{list}</strong>.
 form_already_exists => Forma <strong>{name}</strong> již existuje.
 form_code => Kód formuláře
+form_clone =>
 form_created => Forma <strong>{name}</strong> vytvořena.
 form_name => Název (povinný)
 form_name_invalid => Neplatný název formy.

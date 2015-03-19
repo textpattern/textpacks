@@ -451,6 +451,7 @@ edit_forms => Predlošci formulara
 forms_deleted => Formulari obrisani: <strong>{list}</strong>.
 form_already_exists => Formular <strong>{name}</strong> već postoji.
 form_code =>
+form_clone =>
 form_created => Formular <strong>{name}</strong> kreiran.
 form_name => Ime (obavezno)
 form_name_invalid => Neispravno ime formulara.

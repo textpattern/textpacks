@@ -451,6 +451,7 @@ edit_forms => sablonok szerkesztése
 forms_deleted => Sablonok törölve: {list}
 form_already_exists => A(z) <strong>{name}</strong> sablon már létezik.
 form_code =>
+form_clone =>
 form_created => A(z) <strong>{name}</strong> sablon létrehozva.
 form_name => Sablon neve (kötelező megadni)
 form_name_invalid => A sablon neve nem megfelelő

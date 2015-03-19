@@ -451,6 +451,7 @@ edit_forms => επεξεργασία φορμών
 forms_deleted => Διαγραφείσες φόρμες: <strong>{list}</strong>.
 form_already_exists => Η φόρμα <strong>{name}</strong> υπάρχει ήδη.
 form_code =>
+form_clone =>
 form_created => Η φόρμα <strong>{name}</strong> δημιουργήθηκε.
 form_name => Όνομα φόρμας (απαραίτητο)
 form_name_invalid => Μη έγκυρο όνομα φόρμας

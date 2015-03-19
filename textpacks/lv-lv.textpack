@@ -451,6 +451,7 @@ edit_forms => Labot formas
 forms_deleted => Formas dzēstas: <strong>{list}</strong>.
 form_already_exists => Forma <strong>{name}</strong> jau eksistē.
 form_code => Formas kods
+form_clone =>
 form_created => Forma <strong>{name}</strong> izveidota.
 form_name => Formas nosaukums (obligāts)
 form_name_invalid => Formas nosaukums ir nederīgs.

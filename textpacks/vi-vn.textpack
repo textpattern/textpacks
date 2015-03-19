@@ -451,6 +451,7 @@ edit_forms => Các mẫu mẫu đơn
 forms_deleted => Đã xóa mẫu đơn: <strong>{list}</strong>.
 form_already_exists => Đã có mẫu đơn <strong>{name}</strong> từ trước.
 form_code => Từ mã
+form_clone =>
 form_created => Đã tạo mẫu đơn <strong>{name}</strong>.
 form_name => Tên (bắt buộc)
 form_name_invalid => Tên mẫu đơn sai quy cách.

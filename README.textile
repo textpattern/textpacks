@@ -6,33 +6,34 @@ This repository contains Textpacks for "Textpattern CMS":http://textpattern.com.
 
 h2. Contributing
 
-To make corrections to existing translations, or to add new ones, "fork the repository":https://help.github.com/articles/fork-a-repo. Once you are done, send in "a pull request":https://help.github.com/articles/using-pull-requests. To boost workflow the repository contains synchronisation scripts and automated tests.
+To make corrections to existing translations, or to add new ones, "fork the repository":https://help.github.com/articles/fork-a-repo, make your changes and commit to your fork. Once you are done, open "a pull request":https://help.github.com/articles/using-pull-requests. To boost workflow the repository contains synchronisation scripts and automated tests.
 
 h3. Contributing via GitHub web editor
 
-GitHub's "web based editing features":https://help.github.com/articles/creating-and-editing-files-in-your-repository allow you to easily do smaller edits to existing translations without you needing to delve into git. Changing files through the web interface isn't really recommended, but its an option for those that do not use git, or are away from their computer.
+GitHub's "web based editing features":https://help.github.com/articles/creating-and-editing-files-in-your-repository allow you to easily do smaller edits to existing translations without you needing to delve into git. Changing files through the web interface isn't really recommended, but it's an option for those that do not use git, or are away from their computer.
 
 To contribute to a translation directly from GitHub.com website:
 
-# Navigate to a Textpack file you would want to alter, e.g. "textpacks/en-gb.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/en-gb.textpack.
-# Hit the *Edit* button above the presented file contents.
-# Do some alterations to existing strings. Please, don't remove or add any string.
+# "Sign in":https://github.com/login with your GitHub account
+# Navigate to a Textpack file you want to alter, e.g. "textpacks/en-gb.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/en-gb.textpack.
+# Click or tap the *Edit* button above the presented file contents.
+# Make some alterations to existing strings. Please, don't remove or add any string.
 # After you've done, fill in the short commit message describing the change, e.g. _"Fixed typo in the name string"_.
-# Hit the *Save* button.
+# Click or tap the *Save* button.
 
 Now to submit in a new pull request with your changes:
 
-# Hit the *Click to create a pull request for this comparison* link on the page presented to you after saving, or you can use the *Compare and pull request* button on your fork's repository page.
+# Click or tap the *Click to create a pull request for this comparison* link on the page presented to you after saving, or you can use the *Compare and pull request* button on your fork's repository page.
 # Fill in the comment field; explain what your changes do. Be precise and clear.
-# Hit the *Send pull request* button.
+# Click or tap the *Send pull request* button.
 
 Once your pull request is processed and marked closed (merged or denied), go back to your GitHub profile page and delete your clone of the Textpacks repository:
 
 # Find the _textpacks_ repository on your profile page; it should be listed on your repository list.
 # Open it.
-# On the repository's page, hit the *Settings* link.
+# On the repository's page, click or tap the *Settings* link.
 # Scroll down until you see *Delete repository* button.
-# Hit it and confirm the action.
+# Click or tap it and confirm the action.
 
 h2. Developing
 
@@ -46,7 +47,7 @@ The Textpack tool will sync your alterations to all other Textpack files. It cre
 
 h3. Creating new translation
 
-When creating entirely new translations, always use the @en-gb.textpack@ as your template and reference point - this file is always up to date.
+When creating entirely new translations, always use the @en-gb.textpack@ as your template and reference point - this file is always up-to-date.
 
 h3. Creating new empty template
 

@@ -451,6 +451,7 @@ edit_forms => Шаблони
 forms_deleted => Видалено шаблони: <strong>{list}</strong>.
 form_already_exists => Шаблон <strong>{name}</strong> вже існує.
 form_code =>
+form_clone =>
 form_created => Шаблон <strong>{name}</strong> створено.
 form_name => Назва шаблона (обов'язково)
 form_name_invalid => Некоректне ім'я шаблона.

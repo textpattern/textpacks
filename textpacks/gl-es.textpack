@@ -451,6 +451,7 @@ edit_forms => modificar formularios
 forms_deleted => Bloques borrados: <strong>{list}</strong>.
 form_already_exists => O bloque <strong>{name}</strong> xa existe.
 form_code => Código de bloque
+form_clone =>
 form_created => O bloque <strong>{name}</strong> creouse.
 form_name => Nome do formulario (requerido)
 form_name_invalid => Nome de bloque non válido.
