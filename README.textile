@@ -75,7 +75,10 @@ Then, delete untranslated lines:
 
 bc. $ sed -i '/ =>[[:blank:]]*$/d' xx-xx.textpack
 
-This will leave you with just the new/empty strings. Edit @xx-xx.txt@ in your favourite editor, then append the strings into the correct line numbers of your original @xx-xx.textpack@. Finally, sync and test.
+This will leave you with just the new/empty strings. Edit @xx-xx.txt@ in your favourite editor, then append the strings at the end of the original @xx-xx.textpack@. Finally, run the sync tool and test:
+
+bc. $ ./textpack
+$ ./vendor/bin/phpunit
 
 h3. Testing
 
