@@ -54,6 +54,18 @@ h2. Status
 
 Status table last updated: June 8th, 2015.
 
+To count total strings:
+
+bc. grep -v '^#@' en-gb.textpack | wc -l
+
+To count translated strings:
+
+bc. grep -v '=>$' xx-xx.textpack | grep -v '^#@' | wc -l
+
+To count untranslated strings:
+
+bc. grep '=>$' xx-xx.textpack | grep -v '^#@' | wc -l
+
 h2. Contributing
 
 To make corrections to existing translations, or to add new ones, "fork the repository":https://help.github.com/articles/fork-a-repo, make your changes and commit to your fork. Once you are done, open "a pull request":https://help.github.com/articles/using-pull-requests. To boost workflow the repository contains synchronisation scripts and automated tests.
