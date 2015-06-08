@@ -4,6 +4,56 @@ h1. Textpattern CMS language files
 
 This repository contains Textpacks for "Textpattern CMS":http://textpattern.com. Textpacks are the translation file format Textpattern will eventually use in a future version.
 
+h2. Status
+
+|_. Language |_. Localised |_. Filename |_. Translated<br />(%) |
+| Arabic (Algerian) | جزائري عربي | "ar-dz.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/ar-dz.textpack | 713/1173<br />(60.78%) |
+| Bulgarian | Български | "bg-bg.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/bg-bg.textpack | 1169/1173<br />(99.66%) |
+| Bosnian | Bosanski | "bs-ba.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/bs-ba.textpack | 1014/1173<br />(86.45%) |
+| Catalan | Català | "ca-es.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/ca-es.textpack | 1005/1173<br />(85.68%) |
+| Czech | Čeština | "cs-cz.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/cs-cz.textpack | 1169/1173<br />(99.66%) |
+| Danish | Dansk | "da-dk.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/da-dk.textpack | 923/1173<br />(78.69%) |
+| German | Deutsch | "de-de.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/de-de.textpack | 1171/1173<br />(99.83%) |
+| Greek | Ελληνικά | "el-gr.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/el-gr.textpack | 1012/1173<br />(86.27%) |
+| English (Great Britain) | British English | "en-gb.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/en-gb.textpack | 1173/1173<br />(%)<br>100% |
+| English (United States) | American English | "en-us.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/en-us.textpack | 1173/1173<br />(%)<br>100% |
+| Spanish | Español | "es-es.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/es-es.textpack | 1172/1173<br />(99.91%) |
+| Estonian | Eesti | "et-ee.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/et-ee.textpack | 757/1173<br />(64.54%) |
+| Persian (Farsi) | پارسی | "fa-ir.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/fa-ir.textpack | 1166/1173<br />(99.40%) |
+| Finnish | Suomi | "fi-fi.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/fi-fi.textpack | 1171/1173<br />(99.83%) |
+| French | Français | "fr-fr.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/fr-fr.textpack | 1173/1173<br />(100%) |
+| Galician | Galego | "gl-es.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/gl-es.textpack | 1169/1173<br />(99.66%) |
+| Hebrew | עברית | "he-il.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/he-il.textpack | 1115/1173<br />(95.06%) |
+| Croatian | Hrvatski | "hr-hr.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/hr-hr.textpack | 970/1173<br />(82.69%) |
+| Hungarian | Magyar | "hu-hu.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/hu-hu.textpack | 1025/1173<br />(87.38%) |
+| Indonesian | Bahasa Indonesia | "id-id.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/id-id.textpack | 933/1173<br />(79.54%) |
+| Icelandic | Íslenska | "is-is.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/is-is.textpack | 740/1173<br />(63.09%) |
+| Italian | Italiano | "it-it.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/it-it.textpack | 1172/1173<br />(99.91%) |
+| Japanese | 日本語 | "ja-jp.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/ja-jp.textpack | 1166/1173<br />(99.40%) |
+| Korean | 한국말 (대한민국) | "ko-kr.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/ko-kr.textpack | 1041/1173<br />(88.75%) |
+| Lithuanian | Lietuvių | "lt-lt.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/lt-lt.textpack | 1151/1173<br />(98.12%) |
+| Latvian | Latviešu | "lv-lv.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/lv-lv.textpack | 1152/1173<br />(98.21%) |
+| Dutch | Nederlands | "nb-no.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/nb-no.textpack | 742/1173<br />(63.26%) |
+| Norwegian | Norsk | "nl-nl.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/nl-nl.textpack | 1173/1173<br />(100%) |
+| Polish | Polski | "pl-pl.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/pl-pl.textpack | 1165/1173<br />(99.31%) |
+| Portugese (Brazilian) | Português (Brasil) | "pt-br.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/pt-br.textpack | 1154/1173<br />(98.38%) |
+| Portugese (Portugal) | Português (Portugal) | "pt-pt.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/pt-pt.textpack | 1151/1173<br />(98.12%) |
+| Romanian | Română | "ro-ro.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/ro-ro.textpack | 1095/1173<br />(93.35%) |
+| Russian | Русский | "ru-ru.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/ru-ru.textpack | 1171/1173<br />(98.83%) |
+| Slovak | Slovenčina | "sk-sk.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/sk-sk.textpack | 814/1173<br />(69.39%) |
+| Serbian | Srpski | "sr-rs.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/sr-rs.textpack | 1029/1173<br />(87.72%) |
+| Serbian (Cyrillic) | Српски | "sr-sp.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/sr-sp.textpack | 1030/1173<br />(87.81%) |
+| Swedish | Svenska | "sv-se.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/sv-se.textpack | 1152/1173<br />(98.21%) |
+| Thai | ไทย | "th-th.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/th-th.textpack | 879/1173<br />(74.94%) |
+| Turkish | Türkçe | "tr-tr.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/tr-tr.textpack | 975/1173<br />(83.12%) |
+| Ukrainian | Українська | "uk-ua.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/uk-ua.textpack | 1157/1173<br />(98.64%) |
+| Urdu | اردو | "ur-in.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/ur-in.textpack | 829/1173<br />(70.67%) |
+| Vietnamese | Tiếng Việt (Việt Nam) | "vi-vn.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/vi-vn.textpack | 1173/1173<br />(100%) |
+| Chinese (Simplified) | 中文(简体) | "zh-cn.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/zh-cn.textpack | 1136/1173<br />(96.85%) |
+| Chinese (Traditional) | 中文(繁體) | "zh-tw.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/zh-tw.textpack | 970/1173<br />(82.69%) |
+
+Status table last updated: June 8th, 2015.
+
 h2. Contributing
 
 To make corrections to existing translations, or to add new ones, "fork the repository":https://help.github.com/articles/fork-a-repo, make your changes and commit to your fork. Once you are done, open "a pull request":https://help.github.com/articles/using-pull-requests. To boost workflow the repository contains synchronisation scripts and automated tests.
