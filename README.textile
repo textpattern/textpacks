@@ -15,8 +15,8 @@ h2. Status
 | Danish | Dansk | "da-dk.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/da-dk.textpack | 923/1173<br />(78.69%) |
 | German | Deutsch | "de-de.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/de-de.textpack | 1171/1173<br />(99.83%) |
 | Greek | Ελληνικά | "el-gr.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/el-gr.textpack | 1012/1173<br />(86.27%) |
-| English (Great Britain) | British English | "en-gb.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/en-gb.textpack | 1173/1173<br />(%)<br>100% |
-| English (United States) | American English | "en-us.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/en-us.textpack | 1173/1173<br />(%)<br>100% |
+| English (Great Britain) | British English | "en-gb.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/en-gb.textpack | 1173/1173<br />100% |
+| English (United States) | American English | "en-us.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/en-us.textpack | 1173/1173<br />100% |
 | Spanish | Español | "es-es.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/es-es.textpack | 1172/1173<br />(99.91%) |
 | Estonian | Eesti | "et-ee.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/et-ee.textpack | 757/1173<br />(64.54%) |
 | Persian (Farsi) | پارسی | "fa-ir.textpack":https://github.com/textpattern/textpacks/blob/master/textpacks/fa-ir.textpack | 1166/1173<br />(99.40%) |
