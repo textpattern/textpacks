@@ -451,7 +451,7 @@ edit_forms => Lomakepohjat
 forms_deleted => Poistetut lomakkeet: <strong>{list}</strong>.
 form_already_exists => Lomake <strong>{name}</strong> on jo olemassa.
 form_code => Lomakkeen koodi
-form_clone =>
+form_clone => Monista lomake
 form_created => Lomake <strong>{name}</strong> luotu.
 form_name => Lomakkeen nimi
 form_name_invalid => Lomakkeen nimi ei kelpaa.
@@ -708,7 +708,7 @@ title_only => /otsikko
 updated => Päivitetty
 updated_branch_version_available => Tästä Textpatternin asennuksesta on saatavilla <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">uudempi versio</a>
 update_languages => Kieliversioiden päivitys
-up_to_date =>
+up_to_date => Ajan tasalla
 urls_to_ping => Singnaalitetut URLit (pilkuin eroteltuna)
 url_mode => URLin muoto
 use_comments => Salli kommentointi?
