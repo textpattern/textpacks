@@ -86,7 +86,7 @@ date_settings => Ρυθμίσεις ημερομηνίας
 excerpt_markup => Σημειοθέτηση αποσπάσματος
 expires => λήξη
 invalid_postdate =>
-meta => => Μέτα
+meta => Μέτα
 no_articles_recorded => Δεν υπάρχουν άρθρα.
 or_publish_at => ή να δημοσιευτεί στις
 override_default_form => Παράκαμψη προκαθορισμένης φόρμας
