@@ -85,6 +85,7 @@ concurrent_edit_by => <strong>Стаття не збережена</strong>, т�
 date_settings => Дата і час
 excerpt_markup => Розмітка витримки
 expires => Термін дії
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => Немає статей.
 or_publish_at => …або опублікувати
@@ -615,7 +616,7 @@ comments_require_name => Вимагати ім'я в коментарях?
 comments_sendmail => Відправляти коментарі автору на e-mail?
 comments_use_fat_textile => Дозволити розширену розмітку Textile?
 comment_means_site_updated => Чи означає новий коментар оновлення сайту?
-comment_nofollow => Використовувати rel="nofollow" в коментарях?
+comment_nofollow => Використовувати <code>rel="nofollow"</code> в коментарях?
 convert_linebreaks => Обробляти перенесення рядку
 css => CSS
 custom => Додатково

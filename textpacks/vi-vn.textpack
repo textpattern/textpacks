@@ -85,6 +85,7 @@ concurrent_edit_by => Bài viết <strong>chưa</strong> được lưu lại. {a
 date_settings => Ngày tháng và thời gian
 excerpt_markup => Định dạng phần trích
 expires => Hết hạn
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => Không có bài viết nào.
 or_publish_at => …hoặc xuất bản vào lúc
@@ -615,7 +616,7 @@ comments_require_name => Yêu cầu tên người dùng?
 comments_sendmail => Thư điện tử tác giả bình chú?
 comments_use_fat_textile => Cho phép đánh dấu Textile trong bình chú
 comment_means_site_updated => Bình chú mới đồng nghĩa với trang web được cập nhật?
-comment_nofollow => Thêm rel="nofollow" vào bình chú?
+comment_nofollow => Thêm <code>rel="nofollow"</code> vào bình chú?
 convert_linebreaks => Chuyển đổi dấu xuống dòng
 css => CSS
 custom => Trường tùy chọn

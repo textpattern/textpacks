@@ -85,6 +85,7 @@ concurrent_edit_by => مضمون محفوظ نہیں کیا، {author} مضمو�
 date_settings =>
 excerpt_markup => اختصار وضع
 expires => خاتمہ مدت
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => کوئی مضمون دستیاب نہیں
 or_publish_at => یا یہ وقت پر شائع کریں
@@ -615,7 +616,7 @@ comments_require_name => کیا تبصرہ نگار کا نام ضروری ہے 
 comments_sendmail => کیا نۓ تبصرے مضمون کا مصنف کو ای میل کیا جاۓ ؟
 comments_use_fat_textile => کی اضافی Textile کی اجازت ہے ؟
 comment_means_site_updated => کیا نیا تبصرہ داخل ہونے پر یہ مطلب ہوگا کی پورا سائٹ تازہ کیا ؟
-comment_nofollow => کیا تبصرے میں rel="nofollow" لگایا جاۓ ؟
+comment_nofollow => کیا تبصرے میں <code dir="ltr">rel="nofollow"</code> لگایا جاۓ ؟
 convert_linebreaks =>
 css => طرز (سٹائل
 custom => قطعات مخصوص
