@@ -616,7 +616,7 @@ comments_require_name => Yêu cầu tên người dùng?
 comments_sendmail => Thư điện tử tác giả bình chú?
 comments_use_fat_textile => Cho phép đánh dấu Textile trong bình chú
 comment_means_site_updated => Bình chú mới đồng nghĩa với trang web được cập nhật?
-comment_nofollow => Thêm rel="nofollow" vào bình chú?
+comment_nofollow => Thêm <code>rel="nofollow"</code> vào bình chú?
 convert_linebreaks => Chuyển đổi dấu xuống dòng
 css => CSS
 custom => Trường tùy chọn

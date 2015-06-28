@@ -616,7 +616,7 @@ comments_require_name => نام کاربر ضروری است؟
 comments_sendmail => نظرات برای نویسنده فرستاده شود؟
 comments_use_fat_textile => استفاده از کدهای بیشتر Texttile مجاز باشد؟
 comment_means_site_updated => نظر جدید به معنای بهنگام‌شدن سایت باشد؟
-comment_nofollow => افزودن rel="nofollow" به نظرات؟
+comment_nofollow => افزودن <code dir="ltr">rel="nofollow"</code> به نظرات؟
 convert_linebreaks => تبدیل شکست خطوط
 css => استایل
 custom => فیلدهای دلخواه

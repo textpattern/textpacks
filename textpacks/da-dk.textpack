@@ -616,7 +616,7 @@ comments_require_name => Påkræv brugers rigtige navn?
 comments_sendmail => Mail kommentarer til forfatter?
 comments_use_fat_textile => Tillad flere Textile koder?
 comment_means_site_updated => Nye kommentarer betyder at siden er opdateret?
-comment_nofollow => Tilføje rel="nofollow" til kommentarer?
+comment_nofollow => Tilføje <code>rel="nofollow"</code> til kommentarer?
 convert_linebreaks => Konverter linjeskift
 css => Style
 custom => Brugerdefinerede felter

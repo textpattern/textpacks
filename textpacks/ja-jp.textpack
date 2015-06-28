@@ -616,7 +616,7 @@ comments_require_name => ユーザ名を必須にしますか？
 comments_sendmail => コメントが付いたらユーザにメールで通知しますか？
 comments_use_fat_textile => 高度なTextile記法を許可しますか？
 comment_means_site_updated => コメントが付くとサイトの更新と見なしますか？
-comment_nofollow => rel="nofollow"を適応しますか？
+comment_nofollow => <code>rel="nofollow"</code>を適応しますか？
 convert_linebreaks => 行末で改行処理のみ
 css => スタイルシート
 custom => カスタムフィールド

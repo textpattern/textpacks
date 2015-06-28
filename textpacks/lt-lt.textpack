@@ -616,7 +616,7 @@ comments_require_name => Ar reikalingas naudotojo vardas?
 comments_sendmail => Siųsti komentarus autoriui?
 comments_use_fat_textile => Leisti daugiau Textile žymėjimo?
 comment_means_site_updated => Ar nauji komentarai reiškia kad buvo atnaujinta svetainė?
-comment_nofollow => Ar pritaikyti rel="nofollow" komentarams?
+comment_nofollow => Ar pritaikyti <code>rel="nofollow"</code> komentarams?
 convert_linebreaks => Keisti eilučių skirtukus
 css => Stilius
 custom => Pritaikyti laukai

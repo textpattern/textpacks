@@ -616,7 +616,7 @@ comments_require_name => Name des Benutzers für Kommentare erforderlich?
 comments_sendmail => Kommentare an Autor senden
 comments_use_fat_textile => Zusätzliches Textile-Markup zulassen?
 comment_means_site_updated => Neue Kommentare setzen Seitenstatus auf aktualisiert?
-comment_nofollow => Verwende rel="nofollow" bei Kommentaren?
+comment_nofollow => Verwende <code>rel="nofollow"</code> bei Kommentaren?
 convert_linebreaks => nur Zeilenumbrüche
 css => CSS
 custom => Benutzerdefinierte Felder

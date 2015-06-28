@@ -616,7 +616,7 @@ comments_require_name => Obavezno korisičko ime?
 comments_sendmail => Pošalji e-poštom komentare autoru?
 comments_use_fat_textile => Dozvoli više označavanja Textile?
 comment_means_site_updated => Novi komentar znači da je sajt ažuriran?
-comment_nofollow => Primjeni rel="nofollow" na komentare?
+comment_nofollow => Primjeni <code>rel="nofollow"</code> na komentare?
 convert_linebreaks => Pretvori prelome linija
 css => Stil
 custom => Korisnička polja

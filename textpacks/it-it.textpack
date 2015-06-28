@@ -616,7 +616,7 @@ comments_require_name => I commenti richiedono un nome?
 comments_sendmail => Invio copia dei commenti all’autore?
 comments_use_fat_textile => Consenti maggiore codice Textile?
 comment_means_site_updated => Nuovi commenti equivalgono a sito aggiornato?
-comment_nofollow => Applico rel="nofollow" nei commenti?
+comment_nofollow => Applico <code>rel="nofollow"</code> nei commenti?
 convert_linebreaks => Converti gli a capo
 css => Stile
 custom => Campi personalizzati

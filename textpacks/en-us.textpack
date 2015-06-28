@@ -616,7 +616,7 @@ comments_require_name => Comments require commenter’s name?
 comments_sendmail => Email comments to author?
 comments_use_fat_textile => Allow more Textile markup in comments?
 comment_means_site_updated => New comment means site updated?
-comment_nofollow => Apply rel="nofollow" to comments?
+comment_nofollow => Apply <code>rel="nofollow"</code> to comments?
 convert_linebreaks => Convert linebreaks
 css => Style
 custom => Custom fields

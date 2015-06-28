@@ -616,7 +616,7 @@ comments_require_name => کیا تبصرہ نگار کا نام ضروری ہے 
 comments_sendmail => کیا نۓ تبصرے مضمون کا مصنف کو ای میل کیا جاۓ ؟
 comments_use_fat_textile => کی اضافی Textile کی اجازت ہے ؟
 comment_means_site_updated => کیا نیا تبصرہ داخل ہونے پر یہ مطلب ہوگا کی پورا سائٹ تازہ کیا ؟
-comment_nofollow => کیا تبصرے میں rel="nofollow" لگایا جاۓ ؟
+comment_nofollow => کیا تبصرے میں <code dir="ltr">rel="nofollow"</code> لگایا جاۓ ؟
 convert_linebreaks =>
 css => طرز (سٹائل
 custom => قطعات مخصوص

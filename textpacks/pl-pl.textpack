@@ -616,7 +616,7 @@ comments_require_name => Nazwa użytkownika wymagana w komentarzach?
 comments_sendmail => Wysyłać komentarze e-mailem do autora?
 comments_use_fat_textile => Zezwalać na zaawansowany Textile w komentarzach?
 comment_means_site_updated => Nowy komentarz oznacza aktualizację witryny?
-comment_nofollow => Dodawać atrybut rel="nofollow" do komentarzy?
+comment_nofollow => Dodawać atrybut <code>rel="nofollow"</code> do komentarzy?
 convert_linebreaks => Przekształć łamania wierszy
 css => CSS
 custom => Własne pola

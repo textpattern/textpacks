@@ -616,7 +616,7 @@ comments_require_name => שם המשתמש נחוץ לתגובות?
 comments_sendmail => שלח תגובות לכותב?
 comments_use_fat_textile => לאפשר עוד שפת Textile?
 comment_means_site_updated => תגובה חדשה פירושה עדכון האתר?
-comment_nofollow => השתמש ב-rel="nofollow" בתגובות?
+comment_nofollow => השתמש ב-<code dir="ltr">rel="nofollow"</code> בתגובות?
 convert_linebreaks => הפוך מעברי שורה
 css => css
 custom => מותאם אישית

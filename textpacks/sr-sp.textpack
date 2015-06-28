@@ -616,7 +616,7 @@ comments_require_name => Zahtevaj ime posetioca?
 comments_sendmail => Šalji komentare autoru?
 comments_use_fat_textile => Dozvoli više Textile markup-a?
 comment_means_site_updated => Novi komentar znači da je sajt osvežen?(RSS)
-comment_nofollow => Koristi rel="nofollow" kod komentara?
+comment_nofollow => Koristi <code>rel="nofollow"</code> kod komentara?
 convert_linebreaks => Koristi linebreaks
 css => Stil
 custom => Posebna polja

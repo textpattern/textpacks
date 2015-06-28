@@ -616,7 +616,7 @@ comments_require_name => Требовать имя в комментариях?
 comments_sendmail => Отправлять комментарии автору по почте?
 comments_use_fat_textile => Использовать расширенный Textile?
 comment_means_site_updated => Означает ли новый комментарий обновление сайта?
-comment_nofollow => Использовать rel="nofollow" в комментариях?
+comment_nofollow => Использовать <code>rel="nofollow"</code> в комментариях?
 convert_linebreaks => Обрабатывать перенос строки
 css => Стили
 custom => Поля пользователя
