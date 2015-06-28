@@ -85,6 +85,7 @@ concurrent_edit_by => مضمون محفوظ نہیں کیا، {author} مضمو�
 date_settings =>
 excerpt_markup => اختصار وضع
 expires => خاتمہ مدت
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => کوئی مضمون دستیاب نہیں
 or_publish_at => یا یہ وقت پر شائع کریں

@@ -85,6 +85,7 @@ concurrent_edit_by => Artiklen er <strong>ikke</strong> gemt. {author} redigered
 date_settings =>
 excerpt_markup => Uddrags markup
 expires => Udløber
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => Ingen artikler fundet.
 or_publish_at => …eller offentliggør på

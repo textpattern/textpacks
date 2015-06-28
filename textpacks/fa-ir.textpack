@@ -85,6 +85,7 @@ concurrent_edit_by => نوشته ذخیره نشد. {author} نوشته را ه�
 date_settings => تاریخ و زمان
 excerpt_markup => در کد منتخب
 expires => انقضا
+invalid_postdate =>
 meta => متاتگ
 no_articles_recorded => هیچ نوشته‌ای ثبت نشده است.
 or_publish_at => … یا منتشر شود در

@@ -85,6 +85,7 @@ concurrent_edit_by => Article <strong>not</strong> saved. {author} modified the 
 date_settings => Date and time
 excerpt_markup => Excerpt markup
 expires => Expires
+invalid_postdate => Invalid timestamp.
 meta => Meta
 no_articles_recorded => No articles recorded.
 or_publish_at => …or publish at

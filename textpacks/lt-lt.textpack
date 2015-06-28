@@ -85,6 +85,7 @@ concurrent_edit_by => Straipsnis neišsaugotas. {author} pakeitė straipsnį tuo
 date_settings => Data ir laikas
 excerpt_markup => Ištraukos aprašas
 expires => Nebegalios
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => Nėra jokių straipsnių.
 or_publish_at => …arba publikuokite

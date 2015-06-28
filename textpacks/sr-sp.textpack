@@ -85,6 +85,7 @@ concurrent_edit_by => Unos NIJE sačuvan. {author} je izmenio ovaj unos dok ste 
 date_settings =>
 excerpt_markup => Markup uvodne reči
 expires => Ističe
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => Nijedan unos nije snimljen.
 or_publish_at => …ili objavi dana
