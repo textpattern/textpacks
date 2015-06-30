@@ -85,6 +85,7 @@ concurrent_edit_by => 本文同时由 {author} 编辑。
 date_settings => 日期和时间
 excerpt_markup => 摘要标记语言
 expires => 过期
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => 没有文章记录。
 or_publish_at => …或以下列时间发表
@@ -615,7 +616,7 @@ comments_require_name => 需要用户姓名？
 comments_sendmail => 把评论寄给作者？
 comments_use_fat_textile => 允许更多的 Textile 标记？
 comment_means_site_updated => 当有新的评论即认为网站更新？
-comment_nofollow => 添加 rel="nofollow" 到评论？
+comment_nofollow => 添加 <code>rel="nofollow"</code> 到评论？
 convert_linebreaks => 转化换行
 css => 样式表
 custom => 自定义栏

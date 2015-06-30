@@ -85,6 +85,7 @@ concurrent_edit_by => Artikeln sparades inte. {author} ändrade artikeln medan d
 date_settings => Datum och tid
 excerpt_markup => Ingressens markup
 expires => Utgår
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => Inga artiklar inlagda.
 or_publish_at => …eller publicera den
@@ -615,7 +616,7 @@ comments_require_name => Kommentarer kräver namn?
 comments_sendmail => E-posta kommentarer till skribenten?
 comments_use_fat_textile => Tillåt utökad Textile-markup?
 comment_means_site_updated => Ny kommentar innebär att sajten uppdaterats?
-comment_nofollow => Applicera rel="nofollow" på kommentarer?
+comment_nofollow => Applicera <code>rel="nofollow"</code> på kommentarer?
 convert_linebreaks => Konvertera radbrytningar
 css => Stilmallar
 custom => Anpassade fält
