@@ -85,6 +85,7 @@ concurrent_edit_by => 글을 저장하지 못했습니다. 편집하는 동안 {
 date_settings =>
 excerpt_markup => 요약 마크업
 expires => 댓글을 닫는 때
+invalid_postdate =>
 meta => Meta
 no_articles_recorded => 글이 기록되지 않았습니다
 or_publish_at => 등록 시간 변경
@@ -615,7 +616,7 @@ comments_require_name => 댓글 적을 때 글쓴이 이름을 요구합니까?
 comments_sendmail => 새로운 댓글을 글쓴이에게 전자우편으로 알립니까?
 comments_use_fat_textile => 더 다양한 텍스타일 문법을 허용합니까?
 comment_means_site_updated => 새 답글이 달리면 사이트를 갱신합니까?
-comment_nofollow => 댓글에 rel="nofollow" 속성을 허용합니까?
+comment_nofollow => 댓글에 <code>rel="nofollow"</code> 속성을 허용합니까?
 convert_linebreaks => 줄바꿈 변환
 css => CSS
 custom => 사용자 정의 필드
