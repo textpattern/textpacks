@@ -1021,7 +1021,7 @@ you_can_access => Mit dem gewählten Benutzernamen und Passwort sollte jetzt die
 #@tag
 active_class => CSS-Klasse für aktives Listenelement
 align => Ausrichtung
-allowoverride => Erlauben, dass Bausteine überschrieben werden?
+allowoverride => Zulassen, dass alternative Bausteine verwendet werden?
 article_divider => Artikeltrenner
 breadcrumb_linked => Breadcrumb-Navigation verlinken?
 breadcrumb_separator => Trennzeichen für Breadcrumb-Navigation
