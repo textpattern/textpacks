@@ -651,6 +651,7 @@ include_email_atom => Inkludera e-post i Atom-strömmar?
 install_from_textpack => Installera från Textpack
 install_langfile => För att installera nya språk från fil kan ladda ned dem från {url} och placera dem i katalogen ./textpattern/lang/.
 install_language => Installera språk
+installing_language =>
 install_textpack => Installera Textpack
 is_dst => Sommartid?
 language => Språk

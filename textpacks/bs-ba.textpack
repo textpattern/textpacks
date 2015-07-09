@@ -651,6 +651,7 @@ include_email_atom => Uključiti adresu e-pošte u Atom feeds (obavještenja)?
 install_from_textpack =>
 install_langfile => Za instalaciju novog jezika iz datoteke možete ih preuzeti sa {url} i postaviti u Vašu ./textpattern/lang/ mapu.
 install_language => Instaliraj jezik
+installing_language =>
 install_textpack =>
 is_dst => <abbr title="Daylight Saving Time">DST</abbr> omogućen?
 language => Jezik

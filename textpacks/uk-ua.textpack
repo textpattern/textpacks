@@ -651,6 +651,7 @@ include_email_atom => Включати e-mail в Atom feeds?
 install_from_textpack => Установка з Textpack
 install_langfile => Якщо ви бажаєте встановити нові мови з файлу, ви можете завантажити їх з {url} і помістити в папку ./textpattern/lang/
 install_language => Встановити мову
+installing_language =>
 install_textpack => Встановити Textpack
 is_dst => Перехід на зимовий/літній час
 language => Мова

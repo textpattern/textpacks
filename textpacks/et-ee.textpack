@@ -651,6 +651,7 @@ include_email_atom => Lisa e-mail atomi voogudes?
 install_from_textpack =>
 install_langfile => Et installeerida uusi keeli failist, lae need alla siit <code>{url}</code> ja pane need oma <code>./textpattern/lang/</code> kataloogi.
 install_language => Installeeri keel
+installing_language =>
 install_textpack =>
 is_dst => Kasuta suveaega?
 language => Keel

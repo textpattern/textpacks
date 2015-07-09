@@ -651,6 +651,7 @@ include_email_atom => E-Mail in Atom-Feeds publizieren?
 install_from_textpack => Aus Textpack installieren
 install_langfile => Um für eine Sprache eine lokale Datei zu verwenden, können Sie sie unter <code>{url}</code> downloaden und in den Ordner <code>./textpattern/lang/</code> hochladen.
 install_language => Sprache installieren
+installing_language => Sprache wird installiert
 install_textpack => Textpack installieren
 is_dst => Sommerzeit
 language => Sprache

@@ -651,6 +651,7 @@ include_email_atom => ¿Incluír o email nos sumarios Atom?
 install_from_textpack => Instalar desde Textpack
 install_langfile => Instalar arquivo de idioma
 install_language => Instalar linguaxe
+installing_language =>
 install_textpack => Instalar Textpack
 is_dst => Horario de Verán
 language => Lingua

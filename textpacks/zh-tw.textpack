@@ -651,6 +651,7 @@ include_email_atom => 於 Atom feed 內包含 Email？
 install_from_textpack =>
 install_langfile => 從檔案安裝新語系，您可以從 {url} 下載並放在 ./textpattern/lang/ 目錄。
 install_language => 安裝語系
+installing_language =>
 install_textpack =>
 is_dst => 日光節約時間
 language => 語系

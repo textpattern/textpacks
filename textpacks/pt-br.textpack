@@ -651,6 +651,7 @@ include_email_atom => Incluir e-mail nos feeds atom?
 install_from_textpack => Instalar a partir do Textpack
 install_langfile => Para instalar/atualizar idiomas (manualmente) a partir de arquivos, você pode fazer o download de {url} dos idiomas desejados e colocá-los dentro do diretório ./textpattern/lang/ .
 install_language => Atualizar Idioma
+installing_language =>
 install_textpack => Instalar Textpack
 is_dst => Horário de Verão
 language => Idioma

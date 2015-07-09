@@ -651,6 +651,7 @@ include_email_atom => قراردادن ایمیل در فید اتم
 install_from_textpack => نصب از Textpack
 install_langfile => برای نصب زبان جدید از روی فایل می‌توانید آن‌ها را از {url} دانلود کرده و در مسیر /textpattern/lang/. قرار دهید.
 install_language => نصب زبان
+installing_language =>
 install_textpack => نصب Textpack
 is_dst => <abbr title="زمان شبانه روزی">DST</abbr> فعال است؟
 language => زبان

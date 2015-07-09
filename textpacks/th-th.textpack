@@ -651,6 +651,7 @@ include_email_atom =>
 install_from_textpack =>
 install_langfile => วิธีติดตั้งภาษาใหม่จากไฟล์คือให้ดาวน์โหลดมันจาก {url} แล้วใส่มันในไดเรกทอรี ./textpattern/lang/ ของคุณ
 install_language => ติดตั้งภาษา
+installing_language =>
 install_textpack =>
 is_dst => ปรับเวลาในฤดูร้อน
 language => ภาษา

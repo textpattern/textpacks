@@ -651,6 +651,7 @@ include_email_atom => Atom beslemeler eposta adresi içersin mi?
 install_from_textpack =>
 install_langfile => Yeni bir dil yüklemek istiyorsanız dil dosyasını internten üzerinden indirip ./textpattern/lang/ klasörünün içine atın.
 install_language => Dil dosyası yükle
+installing_language =>
 install_textpack =>
 is_dst => <abbr title="Günışığından Faydalanma">DST</abbr> etkinleştirilsin mi?
 language => Dil

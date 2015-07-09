@@ -651,6 +651,7 @@ include_email_atom => Přidávat emailovou adresu do Atomů?
 install_from_textpack => Instalovat z Textpack
 install_langfile => Chceš-li instalovat jazyk ze souboru, stáhni jej z <code>{url}</code> a ulož do adresáře <code>./textpattern/lang/</code>.
 install_language => Nahrát překlad
+installing_language =>
 install_textpack => Nahrát textovou sadu
 is_dst => Platí nyní letní čas?
 language => Jazyk

@@ -651,6 +651,7 @@ include_email_atom => Atom feeds에 이메일을 포함합니까?
 install_from_textpack =>
 install_langfile => 파일로부터 언어를 추가하기 위해서는 {url}에서 다운로드 한 후 ./textpattern/lang/ 경로에 저장하세요.
 install_language => 언어 설치
+installing_language =>
 install_textpack =>
 is_dst => <abbr title="Daylight Saving Time">일광절약</abbr>을 활성화합니까?
 language => 언어

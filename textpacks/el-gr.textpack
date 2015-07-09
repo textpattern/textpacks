@@ -651,6 +651,7 @@ include_email_atom => Περίληψη e-mail στις τροφοδοσίες At
 install_from_textpack =>
 install_langfile => Για εγκατάσταση γλώσσας από αρχείο, μεταφορτώστε το από τη διεύθυνση <code>{url}</code> και τοποθετήστε το στον κατάλογο <code>./textpattern/lang/</code>.
 install_language => Εγκατάσταση γλώσσας
+installing_language =>
 install_textpack =>
 is_dst => Θερινή ώρα
 language => Γλώσσα

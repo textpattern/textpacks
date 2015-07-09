@@ -651,6 +651,7 @@ include_email_atom => Sisällytä kuvat atom-syötteisiin?
 install_from_textpack => Asenna Textpack-tiedostosta
 install_langfile => Asentaessasi kieltä tiedostosta voit ladata sen täältä: <code>{url}</code> ja siirtää <code>./textpattern/lang/</code> -hakemistoon.
 install_language => Asenna kieli
+installing_language =>
 install_textpack => Asenna Textpack
 is_dst => Kesäaika käytössä?
 language => Kieli

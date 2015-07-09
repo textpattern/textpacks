@@ -651,6 +651,7 @@ include_email_atom => Uključi email kod Atom feeds-a?
 install_from_textpack =>
 install_langfile => Za instalaciju novih jezika, možete ih prihvatiti sa {url} potom ih postavite u ./textpattern/lang/ direktoriji.
 install_language => Instaliraj jezik
+installing_language =>
 install_textpack =>
 is_dst =>
 language => Jezik

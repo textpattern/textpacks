@@ -651,6 +651,7 @@ include_email_atom => Sertakan email di umpan Atom?
 install_from_textpack =>
 install_langfile => Untuk memasang berkas bahasa baru, Anda dapat mengunduh dari {url} dan tempatkan di dalam direktori ./textpattern/lang/ Anda.
 install_language => Pasang Bahasa
+installing_language =>
 install_textpack => Pasang paket-teks
 is_dst => <abbr title="Daylight Saving Time">DST</abbr> diaktifkan?
 language => Bahasa

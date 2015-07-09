@@ -651,6 +651,7 @@ include_email_atom => Incloure l’adreça de correu en les fonts Atom?
 install_from_textpack =>
 install_langfile => Instal·la fitxer de llengua
 install_language => Instal·la idioma
+installing_language =>
 install_textpack =>
 is_dst => Horari d’estiu
 language => Idioma

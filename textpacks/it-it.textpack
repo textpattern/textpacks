@@ -651,6 +651,7 @@ include_email_atom => Includi e-mail nel flusso Atom?
 install_from_textpack => Installa da ‘Textpack’
 install_langfile => Per installare una nuova lingua devi scaricare il file apposito all’indirizzo {url} e copiarlo nella cartella ./textpattern/lang/.
 install_language => Installazione lingue
+installing_language =>
 install_textpack => Installa ‘Textpack’
 is_dst => Abilito ora legale?
 language => Lingua

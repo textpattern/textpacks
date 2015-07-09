@@ -651,6 +651,7 @@ include_email_atom => Включи и-мейл в Atom feeds?
 install_from_textpack => Инсталирай от Textpack
 install_langfile => Инсталирай език
 install_language => Инсталирай език
+installing_language =>
 install_textpack => Инсталирай Textpack
 is_dst => Преход зимно/лятно време, разрешено
 language => Език

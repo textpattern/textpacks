@@ -651,6 +651,7 @@ include_email_atom => Atom إدخال عنوان البريد الغلكترون
 install_from_textpack =>
 install_langfile => {url} ./textpattern/lang/ لتنزيل لغات جدسدسة يمكنكم أيضا تحميلها من خلال عنوان الموقع ووضعها في المصنف.
 install_language => تنزيل اللغة
+installing_language =>
 install_textpack =>
 is_dst => ضبط التوقيت الصيفي المستخدم
 language => لغة

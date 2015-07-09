@@ -651,6 +651,7 @@ include_email_atom => Inkluder email i feeds?
 install_from_textpack =>
 install_langfile =>
 install_language => Installér sprog
+installing_language =>
 install_textpack =>
 is_dst => Sommertid aktiveret?
 language => Sprog

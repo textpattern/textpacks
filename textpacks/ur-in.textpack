@@ -651,6 +651,7 @@ include_email_atom => کیا آٹوم فیڈ میں مصنف کا ای میل پ
 install_from_textpack =>
 install_langfile => نئے زبان آپ {url} سے ڈاونلوڈ کر سکتے ہیں ور پھر /textpattern/lang/ پوشہ میں دستیاب کریں
 install_language => زبان تنصیب کریں
+installing_language =>
 install_textpack =>
 is_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> اہل بنا ہے ؟
 language => زبان

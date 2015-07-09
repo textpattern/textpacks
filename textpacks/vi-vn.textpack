@@ -651,6 +651,7 @@ include_email_atom => Thêm thư điện tử vào Atom feed?
 install_from_textpack => Cài từ Textpack
 install_langfile => Để cài ngôn ngữ mới từ tập tin bạn có thể tải chúng về từ địa chỉ {url} và đặt vào thư mục ./textpattern/lang/
 install_language => Cài ngôn ngữ
+installing_language =>
 install_textpack => Cài Textpack
 is_dst => Bật tính năng Giờ mùa hè (DST)?
 language => Ngôn ngữ

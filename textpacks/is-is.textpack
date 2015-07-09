@@ -651,6 +651,7 @@ include_email_atom => Setja póstfang með atom fæði?
 install_from_textpack =>
 install_langfile => Til að setja inn nýtt tungumál frá skrá, þá getur þú niðurhlaðað þeim frá {url} og sett þá í ./textpattern/lang/ möppuna.
 install_language => Setja upp tungumál
+installing_language =>
 install_textpack =>
 is_dst => Tímamunur
 language => Tungumál

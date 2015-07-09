@@ -651,6 +651,7 @@ include_email_atom => Uwzględniać adres e-mail w kanałach Atom?
 install_from_textpack => Zainstaluj z «Textpack»
 install_langfile => Aby zainstalować nowe języki z pliku, pobierz je ze strony <code>{url}</code> i umieść w katalogu <code>./textpattern/lang/</code>.
 install_language => Zainstaluj język
+installing_language =>
 install_textpack => Zainstaluj «Textpack»
 is_dst => Automatycznie zmieniać czas z letniego na zimowy?
 language => Język
