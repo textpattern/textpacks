@@ -498,7 +498,7 @@ upload_thumbnail => サムネイルのアップロード
 #@import
 continue => 次へ
 database_stuff => データベース
-import_blogid => Blog ID
+import_blogid =>
 import_database => データベース名
 import_file_not_found => 参照するファイルが見つかりませんでした。ファイルを <code>import.txt</code> へ名前を変更し、</code>/textpattern/include/import/<code>へ保存下さい。
 import_host => MySQLホスト
