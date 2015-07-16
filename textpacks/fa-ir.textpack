@@ -1122,7 +1122,7 @@ tag_comment_submit => دکمه ارسال نظر
 tag_comment_time => زمان نظر
 tag_comment_web => وب‌سایت نظردهنده
 tag_comment_web_input => ورودی وب‌سایت نظردهنده
-tag_css => لینک CSS (سرآیند)
+tag_css => لینک CSS (<code dir="ltr"><head></code>)
 tag_email => لینک ایمیل (محافظ در برابر اسپم)
 tag_excerpt => منتخب
 tag_feed_link => لینک فید نوشته‌ها

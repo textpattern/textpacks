@@ -1122,7 +1122,7 @@ tag_comment_submit => כפתור שליחה
 tag_comment_time => זמן
 tag_comment_web => אתר
 tag_comment_web_input => קלט אתר
-tag_css => קישור CSS (head)
+tag_css => קישור CSS (<code dir="ltr"><head></code>)
 tag_email => קישור דואל (חסין ספאם)
 tag_excerpt => תוכן נוסף
 tag_feed_link => הזן מאמרים
