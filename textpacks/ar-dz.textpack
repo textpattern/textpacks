@@ -1122,7 +1122,7 @@ tag_comment_submit => زر التسجيل
 tag_comment_time => الساعة
 tag_comment_web =>
 tag_comment_web_input => كتابة عنوان الموقع
-tag_css => سي إس إس رابط
+tag_css => <code dir="ltr">&lt;head&gt;</code> سي إس إس رابط
 tag_email =>
 tag_excerpt => ملخص
 tag_feed_link => تدفق المقالات
