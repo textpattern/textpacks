@@ -1016,7 +1016,7 @@ that_went_well => Itu berjalan lancar. Tabel-tabel basis data telah diciptakan d
 using_db => Menggunakan {dbname}
 warn_mail_unavailable => Instalasi PHP Anda tidak terdapat fungsi mail(). Oleh karena itu tidak ada email yang dapat dikirim dari Textpattern, dan ini membatasi fungsi tertentu.
 welcome_to_textpattern => Selamat datang di Textpattern
-your_email => Alamat e-mail Anda
+your_email => Alamat email Anda
 your_full_name => Nama lengkap Anda
 you_can_access => Anda seharusnya dapat mengakses <a href="index.php"> antarmuka utama</a> dengan log masuk dan sandi lewat yang Anda pilih.
 #@tag

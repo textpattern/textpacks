@@ -715,7 +715,7 @@ urls_to_ping => URLs to ping (virgül ile ayrılmış)
 url_mode => URL biçimi
 use_comments => Yorum kabul edilsin mi?
 use_dns => Ziyaretçi kayıtlarında DNS lookup özelliğini kullan?
-use_mail_on_feeds_id => Use e-mail address to construct feed ids (default is site URL)?
+use_mail_on_feeds_id => Use email address to construct feed ids (default is site URL)?
 use_plugins => Eklentiler kullanılsın mı?
 year_month_day_title => /yıl/ay/gün/başlık
 #@public
