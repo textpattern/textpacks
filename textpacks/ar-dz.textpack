@@ -9,7 +9,7 @@ and_mailed_to => ويرسل إلى
 assign_assets_to => تحويل ملكية محتوى المستخدم إلى
 author_already_exists => المؤلف <strong>{name}</strong> موجود مسبقا
 author_deleted => المؤلف <strong>{name}</strong> محذوف
-author_updated => المؤلف <strong>{name}</strong> محذوف
+author_updated => تم تحديث المؤلف <strong>{name}</strong>
 a_message_will_be_sent_with_login => سوف تبعث رسالة حاملة لمعلومات خاصة بالاتصال
 a_new_password_will_be_mailed => سترسل كلمة سر جديدة عبر البريد الإلكتروني
 cannot_assign_assets_to_deletee => لا يمكن ربط أي محتوى مع حساب محذوف
@@ -32,10 +32,10 @@ managing_editor => نائب المدير
 must_reassign_assets => الرجاء إعادة تحويل ملكية محتوى المستخدم
 new_email => عنوان جديد للبريد الإكتروني
 new_password => كلمة سر جديدة
-password_changed => تم ضبط كلمة السر
-password_changed_mailed =>
-password_forgotten => كلمة سر مفقودة
-password_required =>
+password_changed => تم تغيير كلمة السر
+password_changed_mailed => تم تغيير كلمة السر و إرسالها إلى <strong>{email}</strong>
+password_forgotten => هل نسيت كلمة السر؟
+password_required => يرجى تقديم كلمة سر جديدة
 password_reset => إعادة تعيين كلمة السر
 password_reset_button => إعادة تعيين كلمة السر
 password_reset_confirmation => شخص ما (ربما أنت) طلبت إعادة تعيين كلمة السر. يرجى تأكيد طلب إعادة التعيين من خلال النقر على الرابط أدناه
@@ -43,12 +43,12 @@ password_reset_confirmation_request => يرجى تأكيد طلب إعادة ا�
 password_reset_confirmation_request_sent => تم إرسال رسالة تأكيد إلى عنوان البريد الإلكتروني الخاص .بك يرجى التحقق من البريد الإلكتروني الخاص بك واتبع التعليمات.
 password_sent_to => تم إرسال كلمة السر إلى
 privileges => امتيازات
-privs_none =>
+privs_none => بدون إمتياز
 publisher => مسير
 real_name => الاسم الحقيقي
-resetpassword => إعادة كتابة كلمة السر
-reset_author_password => إعادة كتابة كلمة السر الخاصة بالمؤلف من جديد
-site_administration => الإدارة
+resetpassword => إعادة تعيين كلمة السر
+reset_author_password => إعادة تعيين كلمة السر الخاصة بالمؤلف
+site_administration => إدارة
 staff_writer => محرر متقدم
 unknown_author => مؤلف مجهول :{name}
 writer => مؤلف
@@ -60,7 +60,7 @@ you_have_been_registered => تم تسجيلكم كمساهم في الموقع
 #@article
 advanced_options => تشكيل متقدم
 article_day => يوم
-article_expires_before_postdate =>
+article_expires_before_postdate => تنتهي صلاحية المقال قبل تاريخ نشره
 article_exp_day => يوم
 article_exp_hour => ساعة
 article_exp_minute => دقيقة
@@ -69,7 +69,7 @@ article_exp_second => ثانية
 article_exp_year => عام
 article_hour => ساعة
 article_image => صورة مرفقة للمقال
-article_markup =>
+article_markup => علامات المقال
 article_minute => دقيقة
 article_month => شهر
 article_posted => مقال منشور
@@ -77,77 +77,77 @@ article_saved => مقال مسجل
 article_saved_draft => مقال مسجل كمسودة
 article_saved_hidden => مقال مسجل ومستتر
 article_saved_pending => مقال مسجل ينتظر الإثبات
-article_save_failed =>
+article_save_failed => فشل تسجيل المقال
 article_second => ثانية
 article_year => عام
-comment_settings =>
-concurrent_edit_by =>
-date_settings =>
-excerpt_markup =>
-expires => تنتهي
-invalid_postdate =>
-meta => Meta
-no_articles_recorded =>
+comment_settings => خيارات التعليق
+concurrent_edit_by => المقال لم يتم حفظه. {author} عدل المقال بينما كنت تغيره. إذا كنت متأكدا، اضغط على "حفظ" مرة ثانية
+date_settings => ضبط التاريخ و الوقت
+excerpt_markup => علامات الملخص
+expires => تنتهي صلاحية
+invalid_postdate => التاريخ غير صحيح
+meta => بيانات ميتا
+no_articles_recorded => لا توجد مقالة مسجلة
 or_publish_at => أو ينشر تلقائيا يوم
 override_default_form => تجاوز الشكل الحالي
 pending => ينتظر الإثبات
 reset_time => ضبط الساعة حسب التوقيت الحالي
 set_to_now => ضبط التاريخ والساعة حسب التوقيت الحالي
-sort_display =>
-textfilter_help =>
-timestamp =>
+sort_display => تخصيص المقالة
+textfilter_help => تعليمات كتابة النص
+timestamp => تاريخ النشر
 url_title => النص الخاص بعنوان الموقع
 url_title_is_blank => نص عنوان الموقع غير موجود
 url_title_is_multiple => نص عنوان الموقع موجود
-view_html =>
+view_html => عرض HTML
 view_html_short => HTML
-view_preview =>
-view_preview_short =>
-view_text =>
-view_text_short =>
-write =>
+view_preview => لمحة على المقال
+view_preview_short => لمحة
+view_text => تحرير نص المقال
+view_text_short => تحرير
+write => كتابة
 #@category
-article_categories_deleted =>
+article_categories_deleted =>  حذف فئات المقالات : <strong>{list}</strong>
 article_category => فئة المقال
-article_category_already_exists =>
-article_category_created =>
-article_category_invalid =>
+article_category_already_exists => فئة المقال موجودة
+article_category_created => إنشاء فئة المقال
+article_category_invalid => فئة المقال غير صحيحة
 article_category_name => اسم فئة المقال
-article_category_title => عنوان فئة المقال
-article_category_updated =>
+article_category_title => الخط الرئيسى لفئة المقال
+article_category_updated => تحديث فئة المقال
 article_head => فئات المقالات
-categories_set_parent =>
-category_not_found =>
-category_save_failed =>
-create_new_category =>
-edit_category =>
-file_categories_deleted =>
-file_category_already_exists =>
-file_category_created =>
-file_category_invalid =>
+categories_set_parent => {list} تعيين فئة {type} لفئة الأصل {parent}
+category_not_found => فئة غير موجودة
+category_save_failed => فشل تسجيل الفئة
+create_new_category => إنشاء فئة جديدة
+edit_category => تعديل الفئة
+file_categories_deleted => حذف فئات الملفالات : <strong>{list}</strong>
+file_category_already_exists => فئة الملف موجودة
+file_category_created => إنشاء فئة الملف
+file_category_invalid => فئة الملف غير صحيحة
 file_category_name => اسم فئة الملف
-file_category_title => عنوان فئة الملف
-file_category_updated =>
+file_category_title => الخط الرئيسى لفئة الملف
+file_category_updated => تعديل فئةالملف
 file_head => فئات الملفات
-image_categories_deleted =>
-image_category_already_exists =>
-image_category_created =>
-image_category_invalid =>
+image_categories_deleted => حذف فئات الصور : <strong>{list}</strong>
+image_category_already_exists => فئة الصور موجودة
+image_category_created => إنشاء فئة الصور
+image_category_invalid => فئة الصور غير صحيحة
 image_category_name => اسم فئة الصور
-image_category_title => عنوان فئة الصور
-image_category_updated =>
+image_category_title => الخط الرئيسى لفئة الصور
+image_category_updated => تعديل فئة الصور
 image_head => فئات الصور
-link_categories_deleted =>
-link_category_already_exists =>
-link_category_created =>
-link_category_invalid =>
+link_categories_deleted => حذف فئات الروابط : <strong>{list}</strong>
+link_category_already_exists => فئة الروابط موجودة
+link_category_created => إنشاء فئة الروابط
+link_category_invalid => فئة الروابط غير صحيحة
 link_category_name => اسم فئة الروابط
-link_category_title => عنوان فئة الروابط
-link_category_updated =>
+link_category_title => الخط الرئيسى لفئة الروابط
+link_category_updated => تعديل فئة الروابط
 link_head => فئات الروابط
-no_categories_exist =>
-no_other_categories_exist =>
-parent => الوالد
+no_categories_exist =>  لا توجد فئات
+no_other_categories_exist => لا توجد فئات أخرى
+parent => فئة الأصل
 #@common
 active => نشيط
 add => إضافة
@@ -247,8 +247,8 @@ tab_style => أساليب
 tab_view_site => رؤية الموقع
 tab_write => تحرير
 thumbnail => صورة مصغرة
-title_body => عنوان النص والنص
-title_body_excerpt =>
+title_body => الخط الرئيسى للنص
+title_body_excerpt =>  الخط الرئيسى لمقتطف النص
 toggle_all_selected =>
 txpnl2br =>
 txprawxhtml =>
