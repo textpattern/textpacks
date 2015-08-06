@@ -1068,6 +1068,7 @@ match_type => Overeenstemmen
 media => HTML media attribuut
 msgcols => Aantal kolommen van het tekstveld
 msgrows => Aantal rijen van het tekstveld
+n =>
 next_page_link => Link naar volgende pagina
 no_categories_available => Er zijn geen categorieën
 no_forms_available => Er zijn geen modules

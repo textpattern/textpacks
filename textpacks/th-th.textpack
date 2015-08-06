@@ -1068,6 +1068,7 @@ match_type =>
 media =>
 msgcols =>
 msgrows =>
+n =>
 next_page_link => ลิงก์หน้าต่อไป
 no_categories_available => No หมวดหมู่ available.
 no_forms_available =>

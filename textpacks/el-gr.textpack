@@ -1068,6 +1068,7 @@ match_type =>
 media => Ιδιότητα HTML «media»
 msgcols => Στήλες πεδίου εισαγωγής μηνύματος
 msgrows => Σειρές πεδίου εισαγωγής μηνύματος
+n =>
 next_page_link => Επόμενη σελίδα
 no_categories_available => Δεν υπάρχουν διαθέσιμες κατηγορίες.
 no_forms_available => Δεν υπάρχουν διαθέσιμες φόρμες.
