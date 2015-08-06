@@ -1068,7 +1068,6 @@ match_type => Art der Übereinstimmung
 media => Media-Attribut (HTML)
 msgcols => Spalten des Nachrichtenfeldes
 msgrows => Zeilen des Nachrichtenfeld
-n =>
 next_page_link => Link zur nächsten Seite
 no_categories_available => Keine Kategorie verfügbar.
 no_forms_available => Keine Bausteine verfügbar.

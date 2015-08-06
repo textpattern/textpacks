@@ -1068,7 +1068,6 @@ match_type =>
 media => תכונת HTML)Media)
 msgcols => עמודות תיבת הטקסט של ההודעה
 msgrows => שורות תיבת הטקסט של ההודעה
-n =>
 next_page_link => קישור לעמוד הבא
 no_categories_available => .אין קטגוריות
 no_forms_available => .אין תבניות

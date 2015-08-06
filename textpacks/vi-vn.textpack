@@ -1068,7 +1068,6 @@ match_type => Khớp kiểu
 media => Thuộc tính Media của HTML
 msgcols => Số cột ô nhập dữ liệu lời nhắn
 msgrows => Số hàng ô nhập dữ liệu lời nhắn
-n =>
 next_page_link => Liên kết tới trang kế tiếp
 no_categories_available => Chưa có thể loại nào .
 no_forms_available => Chưa có mẫu đơn nào cả.

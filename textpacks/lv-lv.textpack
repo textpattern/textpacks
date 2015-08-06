@@ -1068,7 +1068,6 @@ match_type =>
 media => Media HTML atribūts
 msgcols => Ziņojuma lauka kolonnas
 msgrows => Ziņojuma lauka rindas
-n =>
 next_page_link => Saite uz nākamo lapu
 no_categories_available => Nav pieejama neviena kategorija.
 no_forms_available => Nav pieejama neviena forma.

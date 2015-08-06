@@ -1068,7 +1068,6 @@ match_type =>
 media => 미디어 HTML 속성
 msgcols => 메시지 영역 칸
 msgrows => 메시지 영역 열
-n =>
 next_page_link => 다음 페이지 링크
 no_categories_available => 가능한 분류가 없습니다.
 no_forms_available => 가능한 폼이 없습니다.

@@ -1068,7 +1068,6 @@ match_type => Тип співпадання
 media => Media HTML атрибут
 msgcols => Кількість колонок у полі повідомлення
 msgrows => Кількість рядів в полі повідомлення
-n =>
 next_page_link => Посилання на наступну сторінку
 no_categories_available => Немає категорій.
 no_forms_available => Немає шаблонів.

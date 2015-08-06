@@ -1068,7 +1068,6 @@ match_type =>
 media => Atribut HTML medija
 msgcols => Kolone tekst područja poruka
 msgrows => Redovi tekst područja poruka
-n =>
 next_page_link => Veza ka slijedećoj strani
 no_categories_available => Ni jedna kategorija nije dostupna.
 no_forms_available => Ni jedan formular nije dostupan.

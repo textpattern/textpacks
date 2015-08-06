@@ -1068,7 +1068,6 @@ match_type => Tipo de búsqueda
 media => Atributo media HTML
 msgcols => Columnas del área de texto del mensaje
 msgrows => Filas del área de texto del mensaje
-n =>
 next_page_link => Enlace a la página siguiente
 no_categories_available => No hay categorías disponibles
 no_forms_available => No hay bloques disponibles

@@ -1068,7 +1068,6 @@ match_type => Förhållande typ
 media => Media-attribut
 msgcols => Meddelandets textarea-bredd (antal tecken)
 msgrows => Meddelandets textarea-höjd (antal tecken)
-n =>
 next_page_link => Nästa sida-länk
 no_categories_available => Inga kategorier tillgängliga.
 no_forms_available => Inga siddelar tillgängliga.

@@ -1068,7 +1068,6 @@ match_type =>
 media => Atribut HTML untuk media
 msgcols => Kolom untuk textarea pesan
 msgrows => Baris untuk textarea pesan
-n =>
 next_page_link => Tautan halaman berikutnya
 no_categories_available => Kategori tidak tersedia.
 no_forms_available => Bentuk tidak tersedia.

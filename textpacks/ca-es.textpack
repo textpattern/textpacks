@@ -1068,7 +1068,6 @@ match_type =>
 media => Atribut HTML media
 msgcols => Columnes de l’àrea de text del missatge
 msgrows => Fileres de l’àrea de text del missatge
-n =>
 next_page_link => Enllaç a pàgina següent
 no_categories_available => No hi ha cap categoria disponible.
 no_forms_available => No hi ha cap formulari disponible.

@@ -1068,7 +1068,6 @@ match_type => 種類
 media => Media HTML attribute
 msgcols => メッセージテキストエリアの高さ
 msgrows => メッセージテキストエリアの幅
-n =>
 next_page_link => 次のページのリンク
 no_categories_available => 有効なカテゴリがありません。
 no_forms_available => 有効なフォームがありません。
