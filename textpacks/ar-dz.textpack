@@ -107,7 +107,7 @@ view_text => تحرير نص المقال
 view_text_short => تحرير
 write => كتابة
 #@category
-article_categories_deleted =>  حذف فئات المقالات : <strong>{list}</strong>
+article_categories_deleted => حذف فئات المقالات : <strong>{list}</strong>
 article_category => فئة المقال
 article_category_already_exists => فئة المقال موجودة
 article_category_created => إنشاء فئة المقال
@@ -145,7 +145,7 @@ link_category_name => اسم فئة الروابط
 link_category_title => الخط الرئيسى لفئة الروابط
 link_category_updated => تعديل فئة الروابط
 link_head => فئات الروابط
-no_categories_exist =>  لا توجد فئات
+no_categories_exist => لا توجد فئات
 no_other_categories_exist => لا توجد فئات أخرى
 parent => فئة الأصل
 #@common
@@ -248,7 +248,7 @@ tab_view_site => رؤية الموقع
 tab_write => تحرير
 thumbnail => صورة مصغرة
 title_body => الخط الرئيسى للنص
-title_body_excerpt =>  الخط الرئيسى لمقتطف النص
+title_body_excerpt => الخط الرئيسى لمقتطف النص
 toggle_all_selected =>
 txpnl2br =>
 txprawxhtml =>
