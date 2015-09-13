@@ -1065,7 +1065,7 @@ link_to_this_section => לקשר אל רשימה של מאמרים אחרים ב
 listform => טופס רשימה
 match => כיצד הם קשורים?
 match_type =>
-media => תכונת HTML)Media)
+media => תכונת HTML <code dir="ltr">media</code>
 msgcols => עמודות תיבת הטקסט של ההודעה
 msgrows => שורות תיבת הטקסט של ההודעה
 next_page_link => קישור לעמוד הבא
