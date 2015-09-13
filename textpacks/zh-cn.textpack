@@ -1050,7 +1050,7 @@ gmt => 根据 <abbr title="Greenwich Mean Time">GMT</abbr> 时间格式？
 has_excerpt => 有摘要
 hilight => 高亮标签
 hilight_limit => 高亮数目
-html_id => Id 属性
+html_id => <code>id</code> 属性
 id => ID#
 include_default => 包括默认版块？
 inline_style => 行内样式（CSS）

@@ -1050,7 +1050,7 @@ gmt => Formateaza in functie de <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Include rezumat
 hilight => Scoate in evidenta tag-ul
 hilight_limit => Cata instante vrei sa scoti in evidenta?
-html_id => Atributul ID HTML
+html_id => Atributul <code>id</code> HTML
 id => ID#
 include_default => Include sectiunea de inceput?
 inline_style => Stiluri in pagina (CSS)

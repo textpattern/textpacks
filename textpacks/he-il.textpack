@@ -1050,7 +1050,7 @@ gmt => מבנה לפי זמן <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => בעל פתיח
 hilight => תג הארה
 hilight_limit => כמה מופעים להאיר
-html_id => תכונת HTML)id)
+html_id => תכונת HTML <code dir="ltr">id</code>
 id => מזהה
 include_default => לכלול איזור ברירת מחדל
 inline_style => סגנון משולב(CSS)

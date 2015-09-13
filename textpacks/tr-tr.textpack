@@ -1050,7 +1050,7 @@ gmt => Format according to <abbr title="Greenwich Mean Time">GMT</abbr> time?
 has_excerpt => Has excerpt
 hilight => Highlight tag
 hilight_limit => Highlight how many instances?
-html_id => Id HTML attribute
+html_id => <code>id</code> HTML attribute
 id => ID#
 include_default => Güncel bölüm dahil edilsin mi?
 inline_style => Satır içi stili (CSS)

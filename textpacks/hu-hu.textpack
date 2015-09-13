@@ -1050,7 +1050,7 @@ gmt => A <abbr title="Greenwich Mean Time">GMT</abbr>-nek megfelelően formázza
 has_excerpt => Van kivonat
 hilight => Kiemelés elem
 hilight_limit => Hány előfordulást emeljünk ki?
-html_id => HTML tulajdonság azonosító
+html_id => HTML tulajdonság <code>id</code>
 id => ID#
 include_default => Beolvassa az alapértelmezett szekciót?
 inline_style => Belső stílus (CSS)

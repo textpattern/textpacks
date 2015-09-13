@@ -1050,7 +1050,7 @@ gmt => Format daty zgodny z <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Ma zajawkę
 hilight => Podświetlać znaczniki
 hilight_limit => Highlight how many instances?
-html_id => Atrybut HTML ID
+html_id => Atrybut HTML <code>id</code>
 id => ID#
 include_default => Uwzględniać domyślną sekcję?
 inline_style => Element liniowy (CSS)

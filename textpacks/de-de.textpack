@@ -1050,7 +1050,7 @@ gmt => Als <abbr title="Greenwich Mean Time">GMT</abbr> formatieren?
 has_excerpt => Beinhaltet ein Exzerpt
 hilight => Tag hervorheben
 hilight_limit => Zeige die Anzahl der Ebenen?
-html_id => ID (HTML-Attribut)
+html_id => <code>id</code> (HTML-Attribut)
 id => ID#
 include_default => Standard-Sektion einbeziehen?
 inline_style => direkte Stilangaben (CSS)

@@ -1050,7 +1050,7 @@ gmt => ¿Formatear según la hora <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Contiene resumen
 hilight => Destacar etiqueta
 hilight_limit => ¿Cuántas instancias hay que destacar?
-html_id => Atributo id HTML
+html_id => Atributo <code>id</code> HTML
 id => ID#
 include_default => ¿Incluir sección por defecto?
 inline_style => Estilo en línea (CSS)

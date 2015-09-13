@@ -1050,7 +1050,7 @@ gmt => Formatēt pēc <abbr title="Greenwich Mean Time">GMT</abbr> laika?
 has_excerpt => Satur ievadtekstu
 hilight => Iekrāsošanas iezīme
 hilight_limit => Iekrāsot cik instances?
-html_id => ID HTML atribūts
+html_id => <code>id</code> HTML atribūts
 id => ID#
 include_default => Iekļaut noklusēto sadaļu?
 inline_style => Iekļaut stilā (CSS)

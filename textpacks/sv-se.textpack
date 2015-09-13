@@ -1050,7 +1050,7 @@ gmt => Formattera enligt <abbr title="Greenwich Mean Time">GMT</abbr>-tid?
 has_excerpt => Har ingress
 hilight => Framhäv tagg
 hilight_limit => Framhäv hur många förekomster?
-html_id => Id-attribut
+html_id => <code>id</code> HTML-attribut
 id => ID#
 include_default => Inkludera förvald avdelning?
 inline_style => Inline-stil (CSS)

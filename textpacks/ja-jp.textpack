@@ -1050,7 +1050,7 @@ gmt => <abbr title="Greenwich Mean Time">GMT</abbr> 時間に合わせたフォ�
 has_excerpt => Has excerpt
 hilight => タグハイライト
 hilight_limit => いくつのインスタンスをハイライトしますか？
-html_id => ID HTML attribute
+html_id => <code>id</code> HTML attribute
 id => ID#
 include_default => Include default section?
 inline_style => インラインスタイル (CSS)

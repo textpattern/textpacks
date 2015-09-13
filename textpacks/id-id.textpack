@@ -1050,7 +1050,7 @@ gmt => Format berdasarkan waktu <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Punya kutipan
 hilight => Sorot tag
 hilight_limit => Sorot berapa banyak hal?
-html_id => Atribut ID HTML
+html_id => Atribut <code>id</code> HTML
 id => ID#
 include_default => Sertakan seksi standar?
 inline_style => Inline style (CSS)

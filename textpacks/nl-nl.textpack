@@ -1050,7 +1050,7 @@ gmt => Als <abbr title="Greenwich Mean Time">GMT</abbr> tijd weergeven?
 has_excerpt => Heeft samenvatting
 hilight => Tag om resultaten met nadruk te tonen
 hilight_limit => Hoeveel resultaten benadrukken?
-html_id => HTML id attribuut
+html_id => HTML <code>id</code> attribuut
 id => ID
 include_default => Inclusief de standaardsectie?
 inline_style => Inline (CSS) stijl

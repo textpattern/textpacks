@@ -1050,7 +1050,7 @@ gmt => Форматувати по <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Має цитату
 hilight => Тег виділення
 hilight_limit => Скільки входжень виділяти?
-html_id => Id HTML атрибут
+html_id => <code>id</code> HTML атрибут
 id => ID#
 include_default => Включати секцію за замовчуванням?
 inline_style => Вбудований стиль (CSS)

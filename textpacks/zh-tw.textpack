@@ -1050,7 +1050,7 @@ gmt => 使用 <abbr title="Greenwich Mean Time">GMT</abbr> 時間？
 has_excerpt => 顯示摘要
 hilight => 強調顯示
 hilight_limit => 強調顯示個數
-html_id => HTML ID
+html_id => HTML <code>id</code>
 id => ID#
 include_default => 包含預設版區
 inline_style => style (CSS)

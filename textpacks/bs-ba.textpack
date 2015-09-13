@@ -1050,7 +1050,7 @@ gmt => Formatirati spram <abbr title="Greenwich Mean Time">GMT</abbr> vremena?
 has_excerpt => Ima odsječak
 hilight => Naznači oznaku
 hilight_limit => Naznači koliko instanci?
-html_id => Id HTML atribut
+html_id => <code>id</code> HTML atribut
 id => ID#
 include_default => Uključi podrazumijevanu sekciju?
 inline_style => Stil u liniji (CSS)

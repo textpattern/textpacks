@@ -1050,7 +1050,7 @@ gmt => Čas podle <abbr title="Greenwich Mean Time">GMT</abbr>
 has_excerpt => Musí mít anotaci
 hilight => Zvýraznit
 hilight_limit => Počet zvýraznězných prvků?
-html_id => ID podle HTML
+html_id => <code>id</code> podle HTML
 id => ID
 include_default => Zahrnout výchozí rubriku?
 inline_style => Vložené styly

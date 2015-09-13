@@ -1050,7 +1050,7 @@ gmt => Muotoile aika <abbr title="Greenwich Mean Time">GMT</abbr>:n mukaan?
 has_excerpt => Johdanto löytyy
 hilight => Korostustagi
 hilight_limit => Kuinka monta korostetaan?
-html_id => ID (HTML attribuutti)
+html_id => <code>id</code> (HTML attribuutti)
 id => ID
 include_default => Sisällytä oletusosio
 inline_style => Inline-tyyli (CSS)

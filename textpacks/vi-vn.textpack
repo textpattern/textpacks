@@ -1050,7 +1050,7 @@ gmt => Định dạng tuân theo giờ <abbr title="Giờ trung bình Greenwich"
 has_excerpt => Có phần trích
 hilight => Tô sáng thẻ
 hilight_limit => Tô sáng bao nhiêu minh dụ?
-html_id => Thuộc tính ID của HTML
+html_id => Thuộc tính <code>id</code> của HTML
 id => Mã số
 include_default => Bao gồm mục mặc định?
 inline_style => Kiểu chèn (CSS)

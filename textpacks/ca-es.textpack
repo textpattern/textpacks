@@ -1050,7 +1050,7 @@ gmt => Format segons l’hora de <abbr title="Greenwich Mean Time">GMT</abbr>?
 has_excerpt => Amb extracte
 hilight => Destaca
 hilight_limit => Destacas quants casos?
-html_id => Atribut HTML id
+html_id => Atribut HTML <code>id</code>
 id => ID#
 include_default => Incloure secció predeterminada (default)?
 inline_style => Estil inline (CSS)
