@@ -1077,7 +1077,7 @@ pageby => עמד לפי
 page_file_hed => הורדות קבצים
 pgonly => ספור מאמרים, אבל אל תציג אותם
 random => אקראי
-rel => תכונת HTML)Rel)
+rel => תכונת HTML <code dir="ltr">rel</code>
 searchall => לחפש בכל האיזורים ?
 searchsticky => לחפש מאמרים דביקים ?
 search_input_form => קלט החיפוש

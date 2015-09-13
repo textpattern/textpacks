@@ -1077,7 +1077,7 @@ pageby => صفحه بندی با
 page_file_hed => دانلود فایل
 pgonly => نوشته‌ها را بشمار اما چیزی نشان نده
 random => تصادفی
-rel => Rel HTML صفت
+rel => <code dir="ltr">rel</code> HTML صفت
 searchall => جستجو در تمام بخش‌ها؟
 searchsticky => جستجو در نوشته‌های دائم؟
 search_input_form => ورودی جستجو
