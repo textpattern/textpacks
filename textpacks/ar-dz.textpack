@@ -337,8 +337,8 @@ file_uploads_disabled => تحميل الملفلت في الموزع لا يعم
 gd_info =>
 gd_library => GD Graphics Library
 high => أقصى حد
-htaccess_contents => <code dir="ltr">.htaccess</code> محتوى الملف
-htaccess_missing => غير موجود <code dir="ltr">.htaccess</code> الملف
+htaccess_contents => .htaccess محتوى الملف
+htaccess_missing => غير موجود .htaccess الملف
 img_dir_read_only => فهرست الصور غير قابل للكتابة
 is_inaccessible => يتعذر الدخول
 last_update =>
