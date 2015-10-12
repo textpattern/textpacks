@@ -242,6 +242,7 @@ tab_preferences => Preferences
 tab_presentation => Presentation
 tab_sections => Sections
 tab_site_admin => Users
+tab_skins =>
 tab_start => Home
 tab_style => Styles
 tab_view_site => View site

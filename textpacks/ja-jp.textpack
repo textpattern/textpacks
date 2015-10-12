@@ -242,6 +242,7 @@ tab_preferences => 基本設定
 tab_presentation => プレゼンテーション
 tab_sections => セクション
 tab_site_admin => ユーザの管理
+tab_skins =>
 tab_start => ホーム
 tab_style => スタイル
 tab_view_site => サイトの閲覧

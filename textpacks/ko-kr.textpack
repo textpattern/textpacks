@@ -242,6 +242,7 @@ tab_preferences => 설정
 tab_presentation => 형식
 tab_sections => 섹션
 tab_site_admin => 글쓴이
+tab_skins =>
 tab_start =>
 tab_style => CSS 스타일
 tab_view_site => 사이트 보기

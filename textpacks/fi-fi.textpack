@@ -242,6 +242,7 @@ tab_preferences => Asetukset
 tab_presentation => Esitystapa
 tab_sections => Osiot
 tab_site_admin => Käyttäjät
+tab_skins =>
 tab_start => Etusivu
 tab_style => Tyylisivut
 tab_view_site => Näytä sivusto
