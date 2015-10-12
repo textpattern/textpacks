@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Sveiki atvykę į Textpattern
 your_email => Jūsų el. paštas
 your_full_name => Jūsų vardas, pavardė
 you_can_access => Jūs turite sugebėti gauti prieigą prie <a href="index.php">pagrindinės sąsajos</a> su registracijos vardu ir slaptažodžiu, kurį jūs pasirinkote.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => CSS klasė aktyviam sąrašo elementui
 align => Lygiavimas
