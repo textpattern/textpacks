@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Welcome to Textpattern
 your_email => Your email address
 your_full_name => Your full name
 you_can_access => Textpattern database tables were created and populated. You should be able to access the <a href="index.php">main interface</a> with the login and password you chose.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => CSS class for active list item
 align => Alignment

@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Chào mừng bạn đến với Textpattern
 your_email => Địa chỉ thư điện tử của bạn
 your_full_name => Tên đầy đủ của bạn
 you_can_access => Bạn có thể truy cập <a href="index.php">giao diện chính</a> với tên đăng nhập và mật khẩu đã chọn.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => lớp CSS cho mục danh sách đang hoạt động
 align => Căn chỉnh

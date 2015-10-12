@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Benvido a Textpattern
 your_email => A túa dirección de correo electrónico
 your_full_name => O teu nome completo
 you_can_access => Tes que ser capaz de acceder á <a href="index.php">interface principal</a> co nome de rexistro e o contrasinal escollidos.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Clase css para a lista activa de items
 align => Aliñación

@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Tervetuloa Textpatterniin
 your_email => Sähköpostiosoitteesi
 your_full_name => Koko nimesi
 you_can_access => Sinun pitäisi nyt päästä <a href="index.php">pääkäyttöliittymään</a> valitsemallasi kirjautumisnimellä ja salasanalla.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Listan aktiivisen jäsenen CSS-luokka
 align => Sijoittelu

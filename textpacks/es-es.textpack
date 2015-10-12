@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Bienvenido a Textpattern
 your_email => Tu dirección de email
 your_full_name => Tu nombre completo
 you_can_access => Las tablas de la base de datos de Textpattern se han creado y rellenado. Deberías poder acceder a la <a href="index.php">interfaz principal</a> con el nombre de acceso y la contraseña elegidos.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Clase css para la lista activa de items
 align => Alineación

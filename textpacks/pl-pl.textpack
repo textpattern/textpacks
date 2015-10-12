@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Witamy w Textpattern
 your_email => Twój adres email
 your_full_name => Twoje imię i nazwisko
 you_can_access => Używając wcześniej wpisanych loginu i hasła, możesz logować się do <a href="index.php">głównego interfejsu</a> systemu.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Klasa aktywnego elementu listy
 align => Wyrównanie

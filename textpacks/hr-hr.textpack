@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Dobrodošli u Textpattern
 your_email => Vaša email adresa
 your_full_name => Vaše puno ime
 you_can_access => Sad bi trebali imati pristup <a href="index.php">glavnom sučelju</a> sa prijavom i lozinkom koje ste odabrali.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => CSS klasa za aktivnu listu item-a
 align => Poravnanje

@@ -1022,6 +1022,14 @@ welcome_to_textpattern => ยินดีต้อนรับสู่ Textpatt
 your_email => ใส่อีเมลแอดเดรส
 your_full_name => ชื่อเต็มของคุณ
 you_can_access => ตอนนี้คุณน่าจะเข้าไปยัง <a href="index.php">หน้าจัดการ</a> ด้วยชื่อเข้าใช้และรหัสผ่านที่คณเลือกไว้
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class =>
 align =>

@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Bine ai venit in Textpattern!
 your_email => Adresa ta de mail
 your_full_name => Numele tau complet
 you_can_access => Ar trebui sa poti accesa <a href="index.php">partea de administrare</a> cu numele de utilizator si parola care le-ai ales.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Clasa CSS pentru elementul activ din lista
 align => Aliniere

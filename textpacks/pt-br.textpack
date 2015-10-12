@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Bem-vindo ao Textpattern
 your_email => O seu endereço de email
 your_full_name => O seu nome completo
 you_can_access => Você poderá acessar a <a href="index.php">área administratival</a> com o seu nome de acesso e a sua senha.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Classe CSS para o item ativo numa lista
 align => Alinhamento

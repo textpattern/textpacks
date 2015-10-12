@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Vitajte v Textpatterne
 your_email => Vaša email adresa
 your_full_name => Vaše celé meno
 you_can_access => <a href="index.php">Hlavné rozhranie</a> by malo byť dostupné so zadaným loginom a heslom.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class =>
 align =>

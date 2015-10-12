@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Καλωσήρθατε στο Textpattern
 your_email => Η διεύθυνσή email σας
 your_full_name => Το πλήρες σας όνομα
 you_can_access => Λογικά, έχετε πρόσβαση <a href="index.php">στην κύρια διεπαφή</a> με το όνομα χρήστη και τον κωδικό πρόσβασης που επιλέξατε.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => κλάση CSS για ενεργή ετικέτα λίστας HTML
 align => Ευθυγράμμιση

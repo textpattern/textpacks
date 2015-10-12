@@ -1022,6 +1022,14 @@ welcome_to_textpattern => میں خوش آمدید Textpattern
 your_email => آپکا ای میل پتہ
 your_full_name => آپ کا پورا نام
 you_can_access => میں انتخاب کردہ لاگ ان معلومات کے ساتھ داخل ہو سکتے ہیں <a href="index.php"> انتظامیہ</a> اب آپ
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class =>
 align =>

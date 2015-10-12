@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Welkom bij Textpattern
 your_email => Je email adres
 your_full_name => Je volledige naam
 you_can_access => De Textpattern database tabellen zijn aangemaakt en gevuld. Je kunt nu inloggen via de <a href="index.php">centrale login</a> met de loginnaam en het wachtwoord dat je hebt gekozen.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Aktieve CSS class voor dit item
 align => Uitlijning

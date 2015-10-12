@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Ласкаво просимо в Textpattern
 your_email => Ваш E-mail
 your_full_name => Ваше повне ім'я
 you_can_access => Тепер вам повинен бути доступний <a href="index.php">основний інтерфейс</a>. Використовуйте логін і пароль, які ви вибрали.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Класс CSS для активного елемента списку
 align => Вирівнювання

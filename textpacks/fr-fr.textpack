@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Bienvenue sur Textpattern
 your_email => Votre adresse email
 your_full_name => Votre nom complet réel
 you_can_access => Vous devriez normalement avoir accès à <a href="index.php">l’interface de gestion</a> avec le nom de connexion (login) et le mot de passe choisis.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Classe CSS de l’élément actif de la liste
 align => Alignement

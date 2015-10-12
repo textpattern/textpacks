@@ -1022,6 +1022,14 @@ welcome_to_textpattern => به Textpattern خوش آمدید
 your_email => نشانی ایمیل شما
 your_full_name => نام کامل شما
 you_can_access => شما از این پس امکان ورود به <a href="index.php">واسط اصلی</a> با نام کاربری و گذرواژه انتخابی خود را دارید.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => کلاس CSS برای آیتم فعال
 align => تراز

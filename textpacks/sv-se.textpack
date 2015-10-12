@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Välkommen till Textpattern
 your_email => Din e-postadress
 your_full_name => Ditt fullständiga namn
 you_can_access => Du ska nu kunna nå <a href="../">startsidan</a> med det inloggningsnamn och lösenord du valt.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => CSS-klass för aktivt listobjekt
 align => Justering

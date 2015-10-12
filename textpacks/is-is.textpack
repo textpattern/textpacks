@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Velkominn í Textpattern
 your_email => Þitt póstfang
 your_full_name => Fullt nafn
 you_can_access => Nú ættir þú að geta tengst <a href="index.php">stjórnborði</a> Textpattern með þínu innskráningarnafni og aðgangsorði.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class =>
 align =>

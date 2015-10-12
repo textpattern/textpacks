@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Textpattern مرحبا بك في
 your_email => عنوانك البريدي
 your_full_name => اسمك الحقيقي بالكامل
 you_can_access => بإمكانكم من الآن على الأرجح الدخول إلى صفحة التسيير عن طريق اسم الاتصال وكلمة السر المختارين
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class =>
 align =>

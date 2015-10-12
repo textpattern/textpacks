@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Selamat datang di Textpattern
 your_email => Alamat email Anda
 your_full_name => Nama lengkap Anda
 you_can_access => Anda seharusnya dapat mengakses <a href="index.php"> antarmuka utama</a> dengan log masuk dan sandi lewat yang Anda pilih.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Class CSS untuk daftar list yang aktif
 align => Penjajaran (Alignment)

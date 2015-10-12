@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Добре дошли в Textpattern
 your_email => Вашият email адрес
 your_full_name => Пълното ви име
 you_can_access => Може да влезете в <a href="index.php">основния интерфейс</a> с вашия псевдоним и парола.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => CSS-клас за активните елементи в списъка
 align => Подравняване

@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Laipni lūgti Textpattern
 your_email => Jūsu e-pasta adrese
 your_full_name => Jūsu pilnais vārds
 you_can_access => Jums atliek ierakstīties <a href="index.php">administrācijas lapā</a> ar jūsu izvēlēto lietotāja vārdu un paroli.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Aktīvā saraksta elementa CSS klase
 align => Izlīdzinājums

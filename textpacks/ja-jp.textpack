@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Textpatternへようこそ！
 your_email => あなたのメールアドレス
 your_full_name => あなたの氏名
 you_can_access => <a href="index.php">メイン画面</a>より、先程指定したログイン情報よりアクセス可能です。
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class =>
 align => 揃え位置

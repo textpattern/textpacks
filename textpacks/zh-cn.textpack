@@ -1022,6 +1022,14 @@ welcome_to_textpattern => 欢迎使用 Textpattern
 your_email => 您的 E-mail 地址
 your_full_name => 您的姓名
 you_can_access => 您可以使用帐号密码登录<a href="index.php">主页面</a>。
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => 启用的列表项目的 CSS class 属性
 align => 对齐

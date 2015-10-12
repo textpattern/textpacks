@@ -1022,6 +1022,14 @@ welcome_to_textpattern => ברוך הבא אל Textpattern
 your_email => כתובת הדואל שלך
 your_full_name => השם המלא שלך
 you_can_access => תוכל לגשת אל <a href="index.php">הממשק הראשי</a> עם שם המשתמש והסיסמה שבחרת.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => מחלקת CSS עבור רכיב רשימה פעיל
 align => יישור

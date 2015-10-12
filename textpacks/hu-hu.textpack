@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Üdvözöl a Textpattern
 your_email => Email címed
 your_full_name => Teljes neved
 you_can_access => A választott névvel és jelszóval el kell tudnod érni a <a href="index.php">központi felületet</a>.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Az aktív lista elem CSS stílusa
 align => Rendezés

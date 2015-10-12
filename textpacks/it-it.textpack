@@ -1022,6 +1022,14 @@ welcome_to_textpattern => Benvenuto/a in Textpattern
 your_email => Il tuo indirizzo email
 your_full_name => Il tuo nome completo
 you_can_access => Le tabelle del database di Textpattern CMS sono state create e popolate. Dovresti essere in grado di accedere all’<a href="index.php">interfaccia principale</a> con il nome utente e la password scelti.
+#@skin
+create_skin =>
+edit_skin =>
+skin_name =>
+skin_title =>
+skin_version =>
+skin_author =>
+skin_website =>
 #@tag
 active_class => Classe CSS per elemento lista attivo
 align => Allineamento
