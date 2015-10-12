@@ -632,6 +632,7 @@ custom_7_set => Nome do campo persoalizado 7
 custom_8_set => Nome do campo persoalizado 8
 custom_9_set => Nome do campo persoalizado 9
 default_event => Pestana de administración por defecto
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Modificar preferencias
 edit_raw_css_by_default => ¿Editar a folla de estilos CSS en cru por defecto?

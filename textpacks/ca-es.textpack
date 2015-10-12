@@ -632,6 +632,7 @@ custom_7_set => Nom del camp personalitzat 7
 custom_8_set => Nom del camp personalitzat 8
 custom_9_set => Nom del camp personalitzat 9
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Modifica preferències
 edit_raw_css_by_default => Editar CSS en brut per defecte?

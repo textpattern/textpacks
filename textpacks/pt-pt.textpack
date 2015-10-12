@@ -632,6 +632,7 @@ custom_7_set => Nome do campo personalizável nº07
 custom_8_set => Nome do campo personalizável nº08
 custom_9_set => Nome do campo personalizável nº09
 default_event => Aba por defeito do admin
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Preferências
 edit_raw_css_by_default => Editar Folhas de Estilo CSS em modo texto? (por defeito)

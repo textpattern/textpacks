@@ -632,6 +632,7 @@ custom_7_set => Όνομα προσαρμοσμένου πεδίου 7
 custom_8_set => Όνομα προσαρμοσμένου πεδίου 8
 custom_9_set => Όνομα προσαρμοσμένου πεδίου 9
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Επεξεργασία ρυθμίσεων
 edit_raw_css_by_default => Προκαθορισμός επεξεργασίας CSS σε μορφή κειμένου

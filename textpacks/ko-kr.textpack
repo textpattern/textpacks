@@ -632,6 +632,7 @@ custom_7_set => 사용자 정의 7 이름
 custom_8_set => 사용자 정의 8 이름
 custom_9_set => 사용자 정의 9 이름
 default_event => 기본 관리자 탭
+default_publish_status =>
 doctype => Doctype
 edit_preferences => 환경설정 편집
 edit_raw_css_by_default => 항상 CSS 소스를 직접 편집하겠습니까?

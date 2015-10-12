@@ -632,6 +632,7 @@ custom_7_set => カスタムフィールド7の名前
 custom_8_set => カスタムフィールド8の名前
 custom_9_set => カスタムフィールド9の名前
 default_event => ログイン後の初期画面
+default_publish_status =>
 doctype => Doctype
 edit_preferences => 設定
 edit_raw_css_by_default => 直接編集を初期設定にしますか？

@@ -632,6 +632,7 @@ custom_7_set => Nazwa własnego pola 7
 custom_8_set => Nazwa własnego pola 8
 custom_9_set => Nazwa własnego pola 9
 default_event => Domyślne działanie
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Edytuj ustawienia
 edit_raw_css_by_default => Domyślnie edycja kodu CSS?

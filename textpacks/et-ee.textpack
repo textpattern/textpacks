@@ -632,6 +632,7 @@ custom_7_set => Kohandatud välja 7 nimi
 custom_8_set => Kohandatud välja 8 nimi
 custom_9_set => Kohandatud välja 9 nimi
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Muuda seadeid
 edit_raw_css_by_default => Toimeta vaikimisi toorest CSS-i?

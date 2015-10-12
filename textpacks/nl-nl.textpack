@@ -632,6 +632,7 @@ custom_7_set => Naam speciaal veld 7
 custom_8_set => Naam speciaal veld 8
 custom_9_set => Naam speciaal veld 9
 default_event => Standaard admin tab
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Voorkeuren
 edit_raw_css_by_default => CSS in ruwe vorm bewerken?

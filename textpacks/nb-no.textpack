@@ -632,6 +632,7 @@ custom_7_set => Spesifikke felt 7
 custom_8_set => Spesifikke felt 8
 custom_9_set => Spesifikke felt 9
 default_event => Kategorien standard administrasjon
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Endre innstillinger
 edit_raw_css_by_default => Rå redigere CSS som standard?

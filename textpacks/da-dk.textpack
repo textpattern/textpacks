@@ -632,6 +632,7 @@ custom_7_set => Brugerdefineret felt 7 navn
 custom_8_set => Brugerdefineret felt 8 navn
 custom_9_set => Brugerdefineret felt 9 navn
 default_event => Admin tab valgt som standard
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Rediger indstillinger
 edit_raw_css_by_default =>

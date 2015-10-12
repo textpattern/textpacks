@@ -632,6 +632,7 @@ custom_7_set => Názov vlastného poľa č. 7
 custom_8_set => Názov vlastného poľa č. 8
 custom_9_set => Názov vlastného poľa č. 9
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => úpravy nastavení
 edit_raw_css_by_default => Upravovať CSS zdroj?

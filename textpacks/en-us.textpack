@@ -632,6 +632,7 @@ custom_7_set => Custom field 7 name
 custom_8_set => Custom field 8 name
 custom_9_set => Custom field 9 name
 default_event => Default administration panel
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Preferences
 edit_raw_css_by_default => Use raw editing mode by default?

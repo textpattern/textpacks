@@ -632,6 +632,7 @@ custom_7_set => Naziv korisničkog polja 7
 custom_8_set => Naziv korisničkog polja 8
 custom_9_set => Naziv korisničkog polja 9
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Preference
 edit_raw_css_by_default => Podrazumijevano koristiti način sirovog ispravljanja?

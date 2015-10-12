@@ -632,6 +632,7 @@ custom_7_set => Nome do campo personalizável nº 07
 custom_8_set => Nome do campo personalizável nº 08
 custom_9_set => Nome do campo personalizável nº 09
 default_event => Tab default do admin
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Preferências
 edit_raw_css_by_default => Editar folhas de estilo CSS em modo texto (por padrão)?

@@ -632,6 +632,7 @@ custom_7_set => Потребителско поле 7 име
 custom_8_set => Потребителско поле 8 име
 custom_9_set => Потребителско поле 9 име
 default_event => Таб по подразбиране
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Настройки
 edit_raw_css_by_default => Редактирай директно CSS по подразбиране?

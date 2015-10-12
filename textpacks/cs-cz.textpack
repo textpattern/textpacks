@@ -632,6 +632,7 @@ custom_7_set => Vlastní pole č. 7
 custom_8_set => Vlastní pole č. 8
 custom_9_set => Vlastní pole č. 9
 default_event => Výchozí záložka administrace
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Úpravy nastavení
 edit_raw_css_by_default => Upravovat zdrojové styly?

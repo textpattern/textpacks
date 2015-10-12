@@ -632,6 +632,7 @@ custom_7_set => 7 حقل مشخص
 custom_8_set => 8 حقل مشخص
 custom_9_set => 9 حقل مشخص
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => تغيير الخيارات
 edit_raw_css_by_default =>

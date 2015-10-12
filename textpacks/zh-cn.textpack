@@ -632,6 +632,7 @@ custom_7_set => 自定义栏 7 名称
 custom_8_set => 自定义栏 8 名称
 custom_9_set => 自定义栏 9 名称
 default_event => 默认管理标签
+default_publish_status =>
 doctype => Doctype
 edit_preferences => 设置
 edit_raw_css_by_default => 默认使用原始编辑模式

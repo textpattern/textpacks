@@ -632,6 +632,7 @@ custom_7_set => Pritaikyto lauko 7 vardas
 custom_8_set => Pritaikyto lauko 8 vardas
 custom_9_set => Pritaikyto lauko 9 vardas
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Nuostatos
 edit_raw_css_by_default => Naudoti gryną redagavimo režimą pagal nutylėjimą?

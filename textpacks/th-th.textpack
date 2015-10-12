@@ -632,6 +632,7 @@ custom_7_set => ชื่อฟิลด์กำหนดเองที่ 7
 custom_8_set => ชื่อฟิลด์กำหนดเองที่ 8
 custom_9_set => ชื่อฟิลด์กำหนดเองที่ 9
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => แก้ไขตัวเลือก
 edit_raw_css_by_default => แก้ไขโค้ด CSS ล้วนโดยปริยาย?

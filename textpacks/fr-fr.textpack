@@ -632,6 +632,7 @@ custom_7_set => Champ personnalisé 7
 custom_8_set => Champ personnalisé 8
 custom_9_set => Champ personnalisé 9
 default_event => Onglet actif par défaut
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Éditer les préférences
 edit_raw_css_by_default => Éditer les feuilles de styles CSS en brut par défaut ?

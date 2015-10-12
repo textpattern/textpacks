@@ -632,6 +632,7 @@ custom_7_set => Nosaukums 7. izvēles laukam
 custom_8_set => Nosaukums 8. izvēles laukam
 custom_9_set => Nosaukums 9. izvēles laukam
 default_event => Noklusētā administrācijas sadaļa
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Labot uzstādījumus
 edit_raw_css_by_default => Labot pilnteksta CSS pēc noklusējuma?

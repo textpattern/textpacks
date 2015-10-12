@@ -632,6 +632,7 @@ custom_7_set => Posebno polje 7
 custom_8_set => Posebno polje 8
 custom_9_set => Posebno polje 9
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Podešavanja
 edit_raw_css_by_default => Koristi raw editing mode po default-u?

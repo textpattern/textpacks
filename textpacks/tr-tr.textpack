@@ -632,6 +632,7 @@ custom_7_set => Özel alan 7 isim
 custom_8_set => Özel alan 8 isim
 custom_9_set => Özel alan 9 isim
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Seçenekler
 edit_raw_css_by_default => Basit düzenleme kipini varsayılan olarak ata?

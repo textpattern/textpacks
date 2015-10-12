@@ -632,6 +632,7 @@ custom_7_set => 自訂欄位名稱 7
 custom_8_set => 自訂欄位名稱 8
 custom_9_set => 自訂欄位名稱 9
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => 編輯網站基本設定
 edit_raw_css_by_default => 預設為直接編輯 CSS 樣式表？

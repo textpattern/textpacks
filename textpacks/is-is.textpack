@@ -632,6 +632,7 @@ custom_7_set => Sérhannaður reitur 7 nafn
 custom_8_set => Sérhannaður reitur 8 nafn
 custom_9_set => Sérhannaður reitur 9 nafn
 default_event =>
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Breyta forgangsrétti
 edit_raw_css_by_default => Breyta hrárri CSS eftir sjálfgildi?

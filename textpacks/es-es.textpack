@@ -632,6 +632,7 @@ custom_7_set => Nombre del campo personalizado 7
 custom_8_set => Nombre del campo personalizado 8
 custom_9_set => Nombre del campo personalizado 9
 default_event => Pestaña de administración por defecto
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Preferencias
 edit_raw_css_by_default => ¿Editar CSS en modo texto por defecto?

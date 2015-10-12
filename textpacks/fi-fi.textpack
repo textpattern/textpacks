@@ -632,6 +632,7 @@ custom_7_set => Muokattavan kentän 7 nimi
 custom_8_set => Muokattavan kentän 8 nimi
 custom_9_set => Muokattavan kentän 9 nimi
 default_event => Oletushallintasivu
+default_publish_status =>
 doctype => Doctype
 edit_preferences => Muokkaa asetuksia
 edit_raw_css_by_default => Muokkaa tyylisivua tekstinä?

@@ -632,6 +632,7 @@ custom_7_set => שם שדה מותאם אישית 7
 custom_8_set => שם שדה מותאם אישית 8
 custom_9_set => שם שדה מותאם אישית 9
 default_event => לשונית ברירת המחדל
+default_publish_status =>
 doctype => Doctype
 edit_preferences => ערוך הגדרות
 edit_raw_css_by_default => ערוך CSS כטקסט?
