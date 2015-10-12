@@ -699,6 +699,7 @@ send_lastmod => سائٹ کے نظریں کو "Last-Modified" بھیجیں ؟
 show_article_category_count => کیا زمرہ بندی کے ٹیب پر مضامین کی گنتی بتایں ؟
 show_comment_count_in_feed => کیا اسس فیڈ میں تبصرے کی گنتی شامل کریں ؟
 site_prefs => بنیادی ترجیحات
+skin_base_path =>
 smtp_from => SMTP بزریے ای میل بھیجنے کے لیے مرسل کا ای میل کا پتہ
 spam_blacklists => بیکار تبصرے (spam) کے فہرست (comma-separated)
 syndicate_body_or_excerpt => کیا <strong>صرف</strong> اختصار سندیکت کریں ؟

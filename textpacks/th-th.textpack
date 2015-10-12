@@ -699,6 +699,7 @@ send_lastmod => ส่งวันที่ปรับปรุงล่าส�
 show_article_category_count => Show article count on หมวดหมู่?
 show_comment_count_in_feed =>
 site_prefs => ตัวเลือกเว็บไซต์
+skin_base_path =>
 smtp_from => ที่อยู่ผู้ส่ง SMTP
 spam_blacklists =>
 syndicate_body_or_excerpt =>

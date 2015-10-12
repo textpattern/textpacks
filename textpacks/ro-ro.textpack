@@ -699,6 +699,7 @@ send_lastmod => Trimite header Ultim-Modificat (Last-Modified)
 show_article_category_count => Arata numarul articolelor in categorii?
 show_comment_count_in_feed => Arata numarul comentariilor in feed-uri?
 site_prefs => Preferinte de site
+skin_base_path =>
 smtp_from => SMTP adresa expeditor
 spam_blacklists => Listele negre de spam (separate prin virgula)
 syndicate_body_or_excerpt => Raspandeste prin RSS si rezumatele? (din default doar continutul)

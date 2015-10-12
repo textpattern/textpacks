@@ -699,6 +699,7 @@ send_lastmod => Send "Last-Modified" header?
 show_article_category_count => Vis artikel antal på kategori tab?
 show_comment_count_in_feed => Vis antal kommentarer i feeds?
 site_prefs => Grundlæggende
+skin_base_path =>
 smtp_from => SMTP afsender adresse
 spam_blacklists => Spam sortlister (komma separeret)
 syndicate_body_or_excerpt =>

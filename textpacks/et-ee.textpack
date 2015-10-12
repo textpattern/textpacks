@@ -699,6 +699,7 @@ send_lastmod => Saada "Last-Modified" http-päis?
 show_article_category_count => Näita artiklite arvu kategooriates?
 show_comment_count_in_feed => Näita kommentaaride arvu voogudes?
 site_prefs => Saidi seaded
+skin_base_path =>
 smtp_from =>
 spam_blacklists => Spämmijate must nimekiri (komadega eraldatud)
 syndicate_body_or_excerpt => Liida kokkuvõte (vaikimisi on seatud sisu)?

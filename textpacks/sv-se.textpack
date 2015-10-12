@@ -699,6 +699,7 @@ send_lastmod => Skicka Last-Modified-header
 show_article_category_count => Visa antalet artikelkategorier?
 show_comment_count_in_feed => Visa antal kommentarer i XML-strömmar?
 site_prefs => Grundläggande
+skin_base_path =>
 smtp_from => SMTP-avsändaradress
 spam_blacklists => Spam-svartlista (komma-separerad)
 syndicate_body_or_excerpt => Syndikera <strong>enbart</strong> artikelns utdrag?

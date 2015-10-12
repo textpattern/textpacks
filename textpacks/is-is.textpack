@@ -699,6 +699,7 @@ send_lastmod => Senda síðast breytta síðuhaus?
 show_article_category_count => Sýna talningu greina í flokkum?
 show_comment_count_in_feed => Sýna talningu skoðana í fæði(XML)?
 site_prefs => Forstillingar síðu
+skin_base_path =>
 smtp_from =>
 spam_blacklists => Svartilistinn Spam (setja kommu á milli)
 syndicate_body_or_excerpt => Fréttamiðla inngang (sjálfgefið er texti)?

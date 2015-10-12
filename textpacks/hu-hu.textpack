@@ -699,6 +699,7 @@ send_lastmod => "Utolsó módosítás" fejléc kiküldése
 show_article_category_count => Cikkek számának mutatása a kategóriáknál is?
 show_comment_count_in_feed => Megjegyzések számának mutatása a csatornákon is?
 site_prefs => Oldal beállítások
+skin_base_path =>
 smtp_from => SMTP boríték küldő címe
 spam_blacklists => Spam fekete listák (vesszővel elválasztva)
 syndicate_body_or_excerpt => Bevezető szolgáltatása hírként? (alapértelmezett a törzs)

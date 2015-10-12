@@ -699,6 +699,7 @@ send_lastmod => سرایند “Last-Modified” ارسال شود؟
 show_article_category_count => نمایش تعداد نوشته‌ها در تب رده‌ها؟
 show_comment_count_in_feed => نمایش تعداد نظرها در فید؟
 site_prefs => پایه
+skin_base_path =>
 smtp_from => آدرس ارسال بسته SMTP
 spam_blacklists => لیست سیاه اسپم‌ها (با کاما جدا کنید)
 syndicate_body_or_excerpt => <strong>تنها</strong> منتخب نوشته‌ها در فیدها قرار گیرد؟

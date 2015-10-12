@@ -699,6 +699,7 @@ send_lastmod => Wysyłać nagłówek "Last-Modified"?
 show_article_category_count => Pokazywać ilość artykułów w kategoriach?
 show_comment_count_in_feed => Pokazywać ilość komentarzy w kanałach XML?
 site_prefs => Ustawienia witryny
+skin_base_path =>
 smtp_from => Adres nadawcy (SMTP envelope sender address)
 spam_blacklists => Czarna lista SPAMu (adresy oddzielone przecinkami)
 syndicate_body_or_excerpt => Umieszczać zajawki w kanałach XML (domyślnie treść)?

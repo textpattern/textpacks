@@ -699,6 +699,7 @@ send_lastmod => Siųsti "Last-Modified" antraštę?
 show_article_category_count => Rodyti straipsnių skaičių kategorijų kortelėje?
 show_comment_count_in_feed => Rodyti komentarų skaičių srautuose?
 site_prefs => Pagrindiniai
+skin_base_path =>
 smtp_from => SMTP laiško siuntėjo adresas
 spam_blacklists => Brukalų juodieji sąrašai (atskirti kableliais)
 syndicate_body_or_excerpt => Platinti <strong>tik</strong> straipsnių santraukas?

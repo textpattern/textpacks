@@ -699,6 +699,7 @@ send_lastmod => "최종 수정 헤더"를 보냅니까?
 show_article_category_count => 분류 탭에서 글 갯수를 표시합니까?
 show_comment_count_in_feed => 피드에 댓글 갯수를 표시합니까?
 site_prefs => 기본 설정
+skin_base_path =>
 smtp_from => SMTP envelope 보내기 주소
 spam_blacklists => 스팸 블랙리스트 (쉼표로 분리)
 syndicate_body_or_excerpt => RSS에 글 요약본만 발행합니까?

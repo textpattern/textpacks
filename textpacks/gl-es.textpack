@@ -699,6 +699,7 @@ send_lastmod => Mandar o último encabezado que foi modificado
 show_article_category_count => ¿Mostrar o contador de artigos nas categorías?
 show_comment_count_in_feed => ¿Mostrar o contador de comentarios nos sumarios?
 site_prefs => Preferencias da bitácora
+skin_base_path =>
 smtp_from => Dirección do remitente do envío SMTP
 spam_blacklists => Listas negras de spam (separadas por comas)
 syndicate_body_or_excerpt => Sindicar corpo ou estracto

@@ -699,6 +699,7 @@ send_lastmod => Send “Last-Modified” header?
 show_article_category_count => Makale sayısnı kategoriler başlığında gösterilsin mi?
 show_comment_count_in_feed => Yorum sayısını beslemede göster?
 site_prefs => Basit
+skin_base_path =>
 smtp_from =>
 spam_blacklists => Spam karalistesi (virgül ile ayrılmış)
 syndicate_body_or_excerpt => Syndicate article excerpt <strong>only</strong>?

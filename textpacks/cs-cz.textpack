@@ -699,6 +699,7 @@ send_lastmod => Odesílat hlavičku poslední úpravy?
 show_article_category_count => Zobrazovat počty článků v kategoriích?
 show_comment_count_in_feed => Zobrazovat počty komentářů v pramenech?
 site_prefs => Nastavení serveru
+skin_base_path =>
 smtp_from => SMTP adresa odesilatele
 spam_blacklists => Černé listiny spamu (odděluj čárkou)
 syndicate_body_or_excerpt => Do pramenů použít <strong>pouze</strong> anotaci?

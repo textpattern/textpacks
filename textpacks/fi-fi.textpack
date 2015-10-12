@@ -699,6 +699,7 @@ send_lastmod => Lähetä "Last-Modified" otsake?
 show_article_category_count => Näytä artikkelien lukumäärä kategorioissa?
 show_comment_count_in_feed => Näytä kommenttien lukumäärä syötteissä?
 site_prefs => Sivuston asetukset
+skin_base_path =>
 smtp_from => SMTP kirjeen lähettäjän osoite
 spam_blacklists => Roskapostilistat (pilkuin eroteltuna)
 syndicate_body_or_excerpt => Syndikoi johdanto (oletuksena leipäteksti)?

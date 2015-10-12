@@ -699,6 +699,7 @@ send_lastmod => Відсилати «Last-Modified» header?
 show_article_category_count => Показувати кількість статей в Категоріях?
 show_comment_count_in_feed => Показувати кількість коментарів в feeds?
 site_prefs => Основні налаштування
+skin_base_path =>
 smtp_from => Значення SMTP поля «From:»
 spam_blacklists => Сервіси, що блокують спам (через кому)
 syndicate_body_or_excerpt => Включати в Feeds <strong>тільки</strong> цитати?

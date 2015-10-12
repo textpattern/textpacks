@@ -699,6 +699,7 @@ send_lastmod => Send headeren som sist ble endret?
 show_article_category_count =>
 show_comment_count_in_feed =>
 site_prefs => Innstillinger for nettsiden
+skin_base_path =>
 smtp_from =>
 spam_blacklists =>
 syndicate_body_or_excerpt =>

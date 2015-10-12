@@ -699,6 +699,7 @@ send_lastmod => Nosūtīt "Last-Modified" galveni
 show_article_category_count => Parādīt ierakstu skaitu kategorijās?
 show_comment_count_in_feed => Rādīt komentāru skaitu barotnēs?
 site_prefs => Pamatuzstādījumi
+skin_base_path =>
 smtp_from => SMTP sūtītāja adrese
 spam_blacklists => Mēstuļu melnie saraksti (ar komatu atdalīti)
 syndicate_body_or_excerpt => Sindicēt <strong>tikai</strong> ievadtekstu?

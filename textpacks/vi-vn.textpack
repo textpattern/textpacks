@@ -699,6 +699,7 @@ send_lastmod => Gửi phần đầu “Last-Modified”?
 show_article_category_count => Hiện số lượng bài viết trên tab thể loại?
 show_comment_count_in_feed => Hiện số bình chú trong feed?
 site_prefs => Cơ bản
+skin_base_path =>
 smtp_from => Địa chỉ phong bì người gửi SMTP
 spam_blacklists => Danh sách đen chống spam (phân cách bằng dấu phẩy)
 syndicate_body_or_excerpt => Chỉ đưa phần trích vào feed (mặc định là nội dung)?

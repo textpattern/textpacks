@@ -699,6 +699,7 @@ send_lastmod => 傳送 “Last-Modified” header？
 show_article_category_count => 分類顯示文章篇數？
 show_comment_count_in_feed => 在 Feed 內顯示迴響篇數？
 site_prefs => 網站基本設定
+skin_base_path =>
 smtp_from =>
 spam_blacklists => 垃圾郵件黑名單(逗號分隔)
 syndicate_body_or_excerpt => 訂閱以摘要顯示？ (預設為顯示全部內容)

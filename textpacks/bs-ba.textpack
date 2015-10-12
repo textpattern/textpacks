@@ -699,6 +699,7 @@ send_lastmod => Pošalji Last-Modified zaglavlje?
 show_article_category_count => Prikaži brojač članaka na tabulatoru kategorija?
 show_comment_count_in_feed => Prikaži brojač komentara u feeds?
 site_prefs => Osnovno
+skin_base_path =>
 smtp_from =>
 spam_blacklists => Spam crne liste (odvojene zarezom)
 syndicate_body_or_excerpt => <strong>Samo</strong> sindikalni odlomak članka?

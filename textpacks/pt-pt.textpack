@@ -699,6 +699,7 @@ send_lastmod => Enviar informação da última alteração ao Sítio
 show_article_category_count => Mostrar contador de artigos nas Categorias?
 show_comment_count_in_feed => Mostrar contador de comentários nos feeds?
 site_prefs => Preferências do Sítio
+skin_base_path =>
 smtp_from => endereço do envelope SMTP do remetente
 spam_blacklists => Lista-negra de endereços de Spam (separados por vírgula)
 syndicate_body_or_excerpt => Utilizar resumo nos feeds? (por defeito, é utilizado o corpo do artigo)

@@ -699,6 +699,7 @@ send_lastmod => Kirim header "Last-Modified"?
 show_article_category_count => Tampilkan hitungan artikel di tab kategori?
 show_comment_count_in_feed => Tampilkan hitungan komentar di umpan?
 site_prefs => Dasar
+skin_base_path =>
 smtp_from => SMTP amplop alamat pengirim
 spam_blacklists => Daftarhitam spam (dipisahkan koma)
 syndicate_body_or_excerpt => Sindikasi kutipan artikel <strong>saja</strong>?

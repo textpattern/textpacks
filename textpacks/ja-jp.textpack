@@ -699,6 +699,7 @@ send_lastmod => Last-Modified ヘッダーを送る
 show_article_category_count => 記事数の合計をカテゴリタブに表示しますか？
 show_comment_count_in_feed => フィードへコメント数を表示しますか？
 site_prefs => 簡易設定
+skin_base_path =>
 smtp_from => SMTPで送信する送信元メールアドレス
 spam_blacklists => Spamブラックリスト(カンマ区切り)
 syndicate_body_or_excerpt => フィードに記事の概要<strong>のみ</strong>掲載しますか？

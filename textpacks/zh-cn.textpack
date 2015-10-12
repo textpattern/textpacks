@@ -699,6 +699,7 @@ send_lastmod => 发送“Last-Modified”文件头？
 show_article_category_count => 在分类中显示文章计数？
 show_comment_count_in_feed => 在 Feed 中显示评论计数？
 site_prefs => 基本
+skin_base_path =>
 smtp_from => SMTP 发送地址
 spam_blacklists => Spam 黑名单（半角逗号分隔）
 syndicate_body_or_excerpt => 订阅文章摘要？（默认为文章全文)

@@ -699,6 +699,7 @@ send_lastmod => Sende "Last-Modified" Header
 show_article_category_count => Zeige Gesamtartikelzahl der Kategorien?
 show_comment_count_in_feed => Zeige die Anzahl der Kommentare in den XML-Feeds?
 site_prefs => Basiseinstellungen
+skin_base_path =>
 smtp_from => Inhalt des SMTP-Headers "From:"
 spam_blacklists => Spam-Blacklists (kommagetrennt)
 syndicate_body_or_excerpt => <strong>Nur</strong> Exzerpte syndizieren?

@@ -699,6 +699,7 @@ send_lastmod => Odosielať hlavičku poslednej úpravy
 show_article_category_count => Zobraziť počet článkov v Kategóriách?
 show_comment_count_in_feed => Zobraziť počet komentárov v RSS a Atom zdrojoch?
 site_prefs => Nastavenia stránok
+skin_base_path =>
 smtp_from =>
 spam_blacklists => Spam blacklists (oddelené čiarkou)
 syndicate_body_or_excerpt => Syndikovať anotáciu článku? (default is body)

@@ -699,6 +699,7 @@ send_lastmod => Pošalji “Last-Modified” header?
 show_article_category_count => Prikaži broj unosa u tabu kategorija?
 show_comment_count_in_feed => Prikaži broj komentara kod feed-ova?
 site_prefs => Osnovno
+skin_base_path =>
 smtp_from => SMTP envelope sender address
 spam_blacklists => Spam crna-lista (odvojeno-zarezom)
 syndicate_body_or_excerpt => Sindiciraj <strong>samo</strong> uvodnu reč unosa?
