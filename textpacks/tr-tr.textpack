@@ -58,6 +58,7 @@ your_new_password => Yeni şifreniz
 your_password_is => Şifreniz
 you_have_been_registered => Siteye yazar olarak kayıt oldunuz
 #@article
+add_new_article =>
 advanced_options => Gelişmiş Seçenekler
 article_day => Gün
 article_expires_before_postdate =>

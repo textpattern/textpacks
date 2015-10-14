@@ -58,6 +58,7 @@ your_new_password => كلمة السر الجديدة الخاصة بكم
 your_password_is => كلمة السر الخاصة بكم هي
 you_have_been_registered => تم تسجيلكم كمساهم في الموقع
 #@article
+add_new_article =>
 advanced_options => تشكيل متقدم
 article_day => يوم
 article_expires_before_postdate => تنتهي صلاحية المقال قبل تاريخ نشره

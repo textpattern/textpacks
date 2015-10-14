@@ -58,6 +58,7 @@ your_new_password => 您的新密碼
 your_password_is => 您的密碼
 you_have_been_registered => 您已於本網站註冊成為撰稿人員
 #@article
+add_new_article =>
 advanced_options => 進階選項
 article_day => 日
 article_expires_before_postdate =>

@@ -58,6 +58,7 @@ your_new_password => Ditt nya lösenord
 your_password_is => Ditt lösenord är
 you_have_been_registered => Du har registerats som en medarbetare till sajten
 #@article
+add_new_article =>
 advanced_options => Avancerade tillval
 article_day => Dag
 article_expires_before_postdate => Fel: Artikeln går ut <strong>före</strong> publiceringsdatumet.

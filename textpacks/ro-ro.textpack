@@ -58,6 +58,7 @@ your_new_password => Noua ta parola este
 your_password_is => Parola ta este
 you_have_been_registered => Ai fost inregistrat ca si contribuitor la site
 #@article
+add_new_article =>
 advanced_options => Optiuni avansate
 article_day => Ziua
 article_expires_before_postdate => Eroare: Articolul expira <strong>inainte</strong> de data postarii.

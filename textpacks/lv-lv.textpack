@@ -58,6 +58,7 @@ your_new_password => Jūsu jaunā parole
 your_password_is => Jūsu parole ir
 you_have_been_registered => Jūs tikāt reģistrēts kā līdzveidotajs lapai
 #@article
+add_new_article =>
 advanced_options => Paplašinātas iespējas
 article_day => Diena
 article_expires_before_postdate => Kļūda: Raksta termiņš ir <strong>pirms</strong> ievietošanas laika.

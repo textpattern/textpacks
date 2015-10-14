@@ -58,6 +58,7 @@ your_new_password => Tu nueva contraseña
 your_password_is => Tu contraseña es
 you_have_been_registered => Has sido registrado como colaborador del sitio
 #@article
+add_new_article =>
 advanced_options => Opciones avanzadas
 article_day => Día
 article_expires_before_postdate => Error: el artículo caduca <strong>antes</strong> de la fecha de publicación.

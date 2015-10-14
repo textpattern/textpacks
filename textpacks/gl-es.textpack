@@ -58,6 +58,7 @@ your_new_password => O teu novo contrasinal
 your_password_is => O teu contrasinal é
 you_have_been_registered => Rexistracheste como colaborador da bitácora
 #@article
+add_new_article =>
 advanced_options => Opcións avanzadas
 article_day => Día
 article_expires_before_postdate => Erro: o artigo caduca <strong>antes</strong> da data de publicación.

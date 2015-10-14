@@ -58,6 +58,7 @@ your_new_password => Új jelszavad
 your_password_is => Jelszavad
 you_have_been_registered => Felvettünk a honlap szerkesztői közé
 #@article
+add_new_article =>
 advanced_options => Részletes beállítások
 article_day => Nap
 article_expires_before_postdate => Hiba: A cikk lejárati dátuma <strong>előbb van</strong>, mint a beküldés dátuma.

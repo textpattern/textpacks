@@ -58,6 +58,7 @@ your_new_password => Вашата нова парола е
 your_password_is => Вашата парола е
 you_have_been_registered => Вие сте регистриран като сътрудник на сайта
 #@article
+add_new_article =>
 advanced_options => Допълнителни опции
 article_day => Ден
 article_expires_before_postdate => Грешка: Статията изтича <strong>преди</strong> датата на публикуване.

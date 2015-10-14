@@ -58,6 +58,7 @@ your_new_password => Ihr neues Passwort
 your_password_is => Das Passwort lautet
 you_have_been_registered => Sie wurden als Mitarbeiter(in) dieser Seite registriert
 #@article
+add_new_article =>
 advanced_options => Erweiterte Einstellungen
 article_day => Tag
 article_expires_before_postdate => Fehler: Artikel läuft <strong>vor</strong> dem Veröffentlichungsdatum ab.

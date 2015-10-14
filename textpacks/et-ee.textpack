@@ -58,6 +58,7 @@ your_new_password => Sinu uus parool on
 your_password_is => Sinu parool on
 you_have_been_registered => Sa oled registreerunud kaastöötajana
 #@article
+add_new_article =>
 advanced_options => Keerukamad seaded
 article_day => Päev
 article_expires_before_postdate =>

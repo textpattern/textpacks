@@ -58,6 +58,7 @@ your_new_password => Je nieuwe wachtwoord
 your_password_is => Je wachtwoord is
 you_have_been_registered => Je bent geregistreerd als medewerker van de site
 #@article
+add_new_article =>
 advanced_options => Meer opties
 article_day => Dag
 article_expires_before_postdate => Het artikel is verlopen <strong>voor</strong> de publicatiedatum.

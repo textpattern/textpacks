@@ -58,6 +58,7 @@ your_new_password => A sua nova senha
 your_password_is => A sua senha é
 you_have_been_registered => Foi registado como colaborador do sítio
 #@article
+add_new_article =>
 advanced_options => Opções avançadas
 article_day => Dia
 article_expires_before_postdate => Erro: O artigo expira <strong>antes</strong> da data de colocação.

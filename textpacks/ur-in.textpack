@@ -58,6 +58,7 @@ your_new_password => آپ کا نیا ‏پاس ورڈ‏
 your_password_is => آپ کا ‏پاس ورڈ‏
 you_have_been_registered => آپ کو اس ویب سائٹ پر ایک معاون کی حثیت سے شامل کیا گیا
 #@article
+add_new_article =>
 advanced_options => اعلیٰ اختیارات
 article_day => دن
 article_expires_before_postdate => نقص: مضمون کی مدت شائع کرنے کی تاریخ سے <strong>پہلے</strong> ختم نہیں ہو سکتی

@@ -58,6 +58,7 @@ your_new_password => گذرواژه جدید شما
 your_password_is => گذرواژه شما هست
 you_have_been_registered => شما به عنوان مشارکت‌کننده در این سایت ثبت‌نام کرده‌اید
 #@article
+add_new_article =>
 advanced_options => تنظیمات پیشرفته
 article_day => روز
 article_expires_before_postdate => خطا: نوشته <strong>پیش از</strong> تاریخ ارسال منقضی می‌شود.

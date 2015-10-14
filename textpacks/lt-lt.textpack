@@ -58,6 +58,7 @@ your_new_password => Jūsų naujas slaptažodis
 your_password_is => Jūsų slaptažodis yra
 you_have_been_registered => Jūs buvote užregistruotas kaip svetainės dalyvis
 #@article
+add_new_article =>
 advanced_options => Papildomos parinktys
 article_day => Diena
 article_expires_before_postdate => Klaida: Straipsnis negalios paskelbimu metu.

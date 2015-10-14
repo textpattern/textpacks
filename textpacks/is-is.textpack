@@ -58,6 +58,7 @@ your_new_password => Nýja aðgangsorðið þitt
 your_password_is => Aðgangsorðið þitt er
 you_have_been_registered => Þú hefur verið skráður sem aðgangsaðili á vefnum
 #@article
+add_new_article =>
 advanced_options => Fleiri Möguleikar
 article_day =>
 article_expires_before_postdate =>

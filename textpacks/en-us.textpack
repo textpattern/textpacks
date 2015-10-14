@@ -58,6 +58,7 @@ your_new_password => Your new password
 your_password_is => Your password is
 you_have_been_registered => You have been registered as a contributor to the site
 #@article
+add_new_article => Create new article
 advanced_options => Advanced options
 article_day => Day
 article_expires_before_postdate => Error: Article expires <strong>before</strong> post date.

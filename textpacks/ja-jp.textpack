@@ -58,6 +58,7 @@ your_new_password => 新しいパスワード
 your_password_is => あなたのパスワード
 you_have_been_registered => あなたは以下のサイトのユーザに登録されました
 #@article
+add_new_article =>
 advanced_options => 詳細設定
 article_day => 日
 article_expires_before_postdate => エラー: 該当記事が投稿日時 <strong>以前に失効</strong> します。

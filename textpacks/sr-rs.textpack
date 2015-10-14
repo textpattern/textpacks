@@ -58,6 +58,7 @@ your_new_password => Ваша нова лозинка
 your_password_is => Ваша нова лозинка је
 you_have_been_registered => Регистровани сте као уредник овог сајта
 #@article
+add_new_article =>
 advanced_options => Напредне опције
 article_day => Дан
 article_expires_before_postdate => Грешка: Унос истиче <strong>пре</strong> датума објаве.

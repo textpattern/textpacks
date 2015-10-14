@@ -58,6 +58,7 @@ your_new_password => Vaša nova lozinka
 your_password_is => Vaša lozinka je
 you_have_been_registered => Registrirani ste kao saradnik na sajtu
 #@article
+add_new_article =>
 advanced_options => Napredne opcije
 article_day => Dan
 article_expires_before_postdate =>

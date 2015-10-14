@@ -58,6 +58,7 @@ your_new_password => Uusi salasanasi
 your_password_is => Salasanasi on
 you_have_been_registered => Sinut on rekisteröity sisällöntuottajaksi sivustoon
 #@article
+add_new_article =>
 advanced_options => Lisävalinnat
 article_day => Päivä
 article_expires_before_postdate => Virhe: artikkeli vanhentuu <strong>ennen</strong> julkaisupäivää.

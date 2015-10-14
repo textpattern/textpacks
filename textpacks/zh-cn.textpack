@@ -58,6 +58,7 @@ your_new_password => 您的新密码
 your_password_is => 您的密码是
 you_have_been_registered => 您已注册成为本站成员
 #@article
+add_new_article =>
 advanced_options => 高级选项
 article_day => 日
 article_expires_before_postdate => 文章在发布日期<strong>之前</strong>就已经过期。

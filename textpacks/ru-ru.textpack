@@ -58,6 +58,7 @@ your_new_password => Ваш новый пароль
 your_password_is => Ваш пароль
 you_have_been_registered => Вы были зарегистрированы как участник в разработке сайта
 #@article
+add_new_article =>
 advanced_options => Продвинутые настройки
 article_day => День
 article_expires_before_postdate => Ошибка: срок действия статьи истекает <strong>до</strong> даты публикации.

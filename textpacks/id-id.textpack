@@ -58,6 +58,7 @@ your_new_password => Katasandi baru Anda
 your_password_is => Katasandi Anda adalah
 you_have_been_registered => Anda telah terdaftar sebagai kontributor di situs ini
 #@article
+add_new_article =>
 advanced_options => Opsi-opsi Lanjutan
 article_day =>
 article_expires_before_postdate => Error: Kadaluarsa artikel <strong>sebelum</strong> masa pemuatan.

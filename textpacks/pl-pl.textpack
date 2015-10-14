@@ -58,6 +58,7 @@ your_new_password => Twoje nowe hasło:
 your_password_is => Twoje hasło:
 you_have_been_registered => Jesteś teraz zarejestrowanym współautorem strony
 #@article
+add_new_article =>
 advanced_options => Opcje zaawansowane
 article_day => Data
 article_expires_before_postdate => Błąd: data ważności artykułu jest <strong>wcześniejsza</strong> niż data publikacji.

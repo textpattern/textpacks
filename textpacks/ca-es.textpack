@@ -58,6 +58,7 @@ your_new_password => La teva nova contrasenya
 your_password_is => La teva contrasenya és
 you_have_been_registered => Has estat registrat com a col·laborador del lloc
 #@article
+add_new_article =>
 advanced_options => Opcions avançades
 article_day => Dia
 article_expires_before_postdate => Error: l’article caduca <strong>abans</strong> de la data de publicació.

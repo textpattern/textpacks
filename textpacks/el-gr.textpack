@@ -58,6 +58,7 @@ your_new_password => Ο νέος σας κωδικός πρόσβασης
 your_password_is => Ο κωδικός πρόσβασής σας
 you_have_been_registered => Έχετε εγγραφεί ως χρήστης στον ιστότοπο
 #@article
+add_new_article =>
 advanced_options => Προχωρημένες επιλογές
 article_day => Ημέρα
 article_expires_before_postdate =>

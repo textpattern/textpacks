@@ -58,6 +58,7 @@ your_new_password => Votre nouveau mot de passe
 your_password_is => Votre mot de passe est
 you_have_been_registered => Vous avez été enregistré comme contributeur du site
 #@article
+add_new_article =>
 advanced_options => Configuration avancée
 article_day => Jour
 article_expires_before_postdate => Erreur : l’article expire <strong>avant</strong> sa date de publication.

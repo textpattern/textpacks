@@ -58,6 +58,7 @@ your_new_password => Mật khẩu mới của bạn
 your_password_is => Mật khẩu của bạn là
 you_have_been_registered => Từ bây giờ bạn có thể đóng góp cho trang thông tin điện tử
 #@article
+add_new_article =>
 advanced_options => Tùy chọn nâng cao
 article_day => Ngày
 article_expires_before_postdate => Lỗi: Bài viết hết hạn <strong>trước</strong> ngày gửi.

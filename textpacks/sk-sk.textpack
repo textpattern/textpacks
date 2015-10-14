@@ -58,6 +58,7 @@ your_new_password => Nové heslo je
 your_password_is => Heslo užívateľa je
 you_have_been_registered => Prihlásený ako užívateľ na stránkach
 #@article
+add_new_article =>
 advanced_options => Rozšírené nastavenia
 article_day => Deň
 article_expires_before_postdate =>

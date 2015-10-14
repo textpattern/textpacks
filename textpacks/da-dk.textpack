@@ -58,6 +58,7 @@ your_new_password => Dit nye kodeord
 your_password_is => Dit kodeord er
 you_have_been_registered => Du er blevet registreret som bidragyder til siden
 #@article
+add_new_article =>
 advanced_options => Avancerede indstillinger
 article_day => Dag
 article_expires_before_postdate => Fejl: Artiklen udløber <strong>før</strong> publiceringsdatoen.

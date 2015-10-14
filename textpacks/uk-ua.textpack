@@ -58,6 +58,7 @@ your_new_password => Ваш новий пароль
 your_password_is => Ваш пароль
 you_have_been_registered => Вас зареєстровано як учасника розробки сайту
 #@article
+add_new_article =>
 advanced_options => Розширені налаштування
 article_day => День
 article_expires_before_postdate => Помилка: термін дії статті минає <strong>до </strong> дати публікації.

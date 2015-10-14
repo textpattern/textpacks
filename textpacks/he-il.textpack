@@ -58,6 +58,7 @@ your_new_password => הסיסמה החדשה שלך היא
 your_password_is => הסיסמה שלך היא
 you_have_been_registered => נרשמת כתורם לאתר
 #@article
+add_new_article =>
 advanced_options => אפשרויות מתקדמות
 article_day => יום
 article_expires_before_postdate => שגיאה: פג תוקפו של המאמר <strong>לפני</strong> תאריך השליחה.
