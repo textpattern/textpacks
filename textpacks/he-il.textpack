@@ -676,6 +676,9 @@ override_emailcharset => להשתמש בקידוד ISO-8859-1 לדואל? (בר�
 path_from_root => תת ספרייה (אם קיימת)
 path_to_site_missing => <code dir="ltr">$path_to_site</code> לא מוגדר(עדכן <code dir="ltr">index.php</code>)
 permalink_title_format => קישור-קבוע title-like-this (ברירת המחדל TitleLikeThis)?
+permlink_format =>
+permlink_hyphenated =>
+permlink_intercapped =>
 permlink_mode => מצב קישור-קבוע
 ping_textpattern_com => לבדוק את textpattern.com?
 ping_weblogsdotcom => לבדוק את pingomatic.com?

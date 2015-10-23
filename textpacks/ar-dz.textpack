@@ -676,6 +676,9 @@ override_emailcharset => Latin 1 (ISO-8859-1) تحويل رسا~ل البريد 
 path_from_root => ملف فرعي إن كان متوفرا
 path_to_site_missing => <code dir="ltr">$path_to_site</code> غير موجود، اضبط
 permalink_title_format =>
+permlink_format =>
+permlink_hyphenated =>
+permlink_intercapped =>
 permlink_mode => حجم عناوين المواقع
 ping_textpattern_com => textpattern.com أعلم تلقائيت
 ping_weblogsdotcom => pingomatic.com إعلام
