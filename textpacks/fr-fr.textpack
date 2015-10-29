@@ -1022,7 +1022,7 @@ thanks_for_interest => Merci de votre intérêt pour Textpattern CMS
 that_went_well => Tout s’est déroulé parfaitement. Les tables SQL ont été créées et remplies.
 using_db => <code>{dbname}</code> en cours d’utilisation.
 warn_mail_unavailable => Votre PHP refuse d’envoyer des emails, ce qui limite certains outils de Textpattern.
-welcome_to_textpattern => Bienvenue sur Textpattern CMS
+welcome_to_textpattern => Bienvenue sur Textpattern
 your_email => Votre adresse email
 your_full_name => Votre nom complet réel
 you_can_access => Vous devriez normalement avoir accès à <a href="index.php">l’interface de gestion</a> avec le nom de connexion (login) et le mot de passe choisis.
