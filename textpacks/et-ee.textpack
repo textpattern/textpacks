@@ -93,6 +93,7 @@ or_publish_at => või avalda
 override_default_form => Tühista vaikimisi vorm
 pending => Ootel
 reset_time => Määra hetkeaeg
+search_articles =>
 set_to_now => Määra praegune aeg
 sort_display =>
 textfilter_help =>

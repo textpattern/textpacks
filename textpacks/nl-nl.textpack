@@ -93,6 +93,7 @@ or_publish_at => …of publiceren op
 override_default_form => Gebruik andere module
 pending => Concept
 reset_time => Huidige datum en tijd gebruiken
+search_articles =>
 set_to_now => Huidige datum en tijd
 sort_display => Sorteren en weergave
 textfilter_help => Uitleg bij de tekstvormgeving

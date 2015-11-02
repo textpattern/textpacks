@@ -93,6 +93,7 @@ or_publish_at => …ou différer le :
 override_default_form => Module de remplacement
 pending => À valider
 reset_time => Horodater à « maintenant »
+search_articles =>
 set_to_now => Publier « maintenant »
 sort_display => Affectations de l’article
 textfilter_help => Aide à la rédaction Textile

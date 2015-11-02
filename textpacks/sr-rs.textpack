@@ -93,6 +93,7 @@ or_publish_at => …или објави дана
 override_default_form => Занемари форму
 pending => Чека одобрење
 reset_time => Ресетуј време за тренутно…
+search_articles =>
 set_to_now => Постави време (timestamp) за тренутно…
 sort_display => Сортирање и приказ
 textfilter_help =>

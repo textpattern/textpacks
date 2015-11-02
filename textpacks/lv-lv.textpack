@@ -93,6 +93,7 @@ or_publish_at => …vai publicēt
 override_default_form => Izmantot citu formu
 pending => Atlikts
 reset_time => Publicēt ar šī brīža laiku
+search_articles =>
 set_to_now => Ierakstīt ar šī brīža laiku
 sort_display => Kategorizēšana
 textfilter_help =>

@@ -93,6 +93,7 @@ or_publish_at => …o publicar en
 override_default_form => Sobrescribir bloque
 pending => Pendiente
 reset_time => Reponer día y hora actuales
+search_articles =>
 set_to_now => Usar día y hora actuales
 sort_display => Clasificación y presentación
 textfilter_help => Ayuda de formato de texto

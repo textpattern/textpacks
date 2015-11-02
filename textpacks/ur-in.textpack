@@ -93,6 +93,7 @@ or_publish_at => یا یہ وقت پر شائع کریں
 override_default_form => فارم زیر کریں
 pending => تذبذب حالیہ
 reset_time => حالیہ وقت پر پھر سیٹ کریں
+search_articles =>
 set_to_now => حالیہ وقت پر پھر سیٹ کریں
 sort_display => ‏چھانٹنا‏ اور ‏نمائش
 textfilter_help =>

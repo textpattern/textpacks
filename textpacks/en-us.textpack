@@ -93,6 +93,7 @@ or_publish_at => …or publish at
 override_default_form => Override form
 pending => Pending
 reset_time => Reset timestamp to now
+search_articles =>
 set_to_now => Set timestamp to now
 sort_display => Sort and display
 textfilter_help => Text formatting help

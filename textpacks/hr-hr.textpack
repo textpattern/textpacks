@@ -93,6 +93,7 @@ or_publish_at => …ili objavi dana
 override_default_form => Zanemari formu
 pending => Pending
 reset_time => Resetiraj vrijeme za trenutno
+search_articles =>
 set_to_now => Postavi timestamp za trenutno
 sort_display => Sortiraj i Prikaži
 textfilter_help => Pomoć za formatiranje teksta

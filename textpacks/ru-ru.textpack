@@ -93,6 +93,7 @@ or_publish_at => …или опубликовать
 override_default_form => Использовать форму
 pending => Отложенная
 reset_time => Сбросить время на текущее
+search_articles =>
 set_to_now => Обновить время текущим
 sort_display => Сортировать и отобразить
 textfilter_help => Помощь по форматированию текста

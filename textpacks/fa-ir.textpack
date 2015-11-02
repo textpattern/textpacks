@@ -93,6 +93,7 @@ or_publish_at => … یا منتشر شود در
 override_default_form => تحریف فرم با
 pending => منتظر برای ارسال
 reset_time => تغییر زمان به حال
+search_articles =>
 set_to_now => زمان و تاریخ رو به اکنون تغییر بده
 sort_display => مرتب‌سازی و نمایش
 textfilter_help => راهنمای فرمت بندی متن

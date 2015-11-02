@@ -93,6 +93,7 @@ or_publish_at => alebo publikovať o:
 override_default_form => Prepísať šablónu
 pending => Čakajúci
 reset_time => Upraviť čas na aktuálny
+search_articles =>
 set_to_now => Použiť aktuálny čas,
 sort_display => Zoradenie a zobrazenie
 textfilter_help =>

@@ -93,6 +93,7 @@ or_publish_at => …hoặc xuất bản vào lúc
 override_default_form => Ghi đè mẫu đơn
 pending => Đợi duyệt
 reset_time => Đặt lại thời gian về hiện tại…
+search_articles =>
 set_to_now => Chỉnh mốc thời gian về hiện tại…
 sort_display => Sắp xếp và Hiển thị
 textfilter_help => Trợ giúp về định dạng văn bản

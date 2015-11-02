@@ -93,6 +93,7 @@ or_publish_at => או פרסם בתאריך
 override_default_form => דרוס תבנית
 pending => ממתין
 reset_time => אפס את הזמן לעכשיו
+search_articles =>
 set_to_now => קבע את חתימת הזמן לעכשיו
 sort_display => מיין והצג
 textfilter_help =>

@@ -93,6 +93,7 @@ or_publish_at => nebo počkat do
 override_default_form => Přebít formu
 pending => Čekající
 reset_time => Nastavit nynější čas
+search_articles =>
 set_to_now => Nastavit nynější čas
 sort_display => Řazení a zobrazení
 textfilter_help => Nápověda formátování textu

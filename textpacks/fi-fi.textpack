@@ -93,6 +93,7 @@ or_publish_at => …tai kirjoita alle jokin toinen
 override_default_form => Käytä eri lomaketta
 pending => Odottaa hyväksyntää
 reset_time => Aseta ajaksi tämä hetki
+search_articles =>
 set_to_now => Aseta julkaisuhetkeksi nyt
 sort_display => Järjestä ja näytä
 textfilter_help => Tekstin muotoilu -ohje

@@ -93,6 +93,7 @@ or_publish_at => …oppure pubblica il
 override_default_form => Forza il modulo
 pending => Da approvare
 reset_time => Reimposta data e ora a questo istante
+search_articles =>
 set_to_now => Pubblica con data e orario attuali
 sort_display => Assegna l’articolo
 textfilter_help => Supporto per la formattazione del testo

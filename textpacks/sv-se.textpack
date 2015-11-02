@@ -93,6 +93,7 @@ or_publish_at => …eller publicera den
 override_default_form => Åsidosätt siddel
 pending => För påseende
 reset_time => Nollställ till nutid…
+search_articles =>
 set_to_now => Publicera nu…
 sort_display => Sortera och visa
 textfilter_help => Textformatering hjälp

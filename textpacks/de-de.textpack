@@ -93,6 +93,7 @@ or_publish_at => oder veröffentlichen am
 override_default_form => Anderen Baustein verwenden
 pending => Anstehend
 reset_time => Auf aktuelle Zeit setzen
+search_articles =>
 set_to_now => Aktuelle Zeit verwenden
 sort_display => Sortierung und Anzeige
 textfilter_help => Hilfe zur Textformatierung

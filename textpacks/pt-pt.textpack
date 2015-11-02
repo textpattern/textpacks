@@ -93,6 +93,7 @@ or_publish_at => …ou publicar em
 override_default_form => Módulo Alternativo
 pending => Pendente
 reset_time => Usar a hora actual
+search_articles =>
 set_to_now => Utilizar data/hora actual
 sort_display => Classificação
 textfilter_help => Ajuda à formatação de texto

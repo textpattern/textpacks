@@ -93,6 +93,7 @@ or_publish_at => ή να δημοσιευτεί στις
 override_default_form => Παράκαμψη προκαθορισμένης φόρμας
 pending => Προς έγκριση
 reset_time => Να οριστεί το «τώρα» ως χρόνος αποστολής
+search_articles =>
 set_to_now => Αλλαγή χρονοσήμανσης σε «τώρα»
 sort_display => Ταξινόμηση και Προβολή
 textfilter_help =>

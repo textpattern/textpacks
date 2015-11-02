@@ -93,6 +93,7 @@ or_publish_at => …或以下列时间发表
 override_default_form => 覆盖默认文章模块
 pending => 待审
 reset_time => 重设时间到此刻…
+search_articles =>
 set_to_now => 以当前时间发表…
 sort_display => 分类和显示
 textfilter_help =>

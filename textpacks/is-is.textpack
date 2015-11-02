@@ -93,6 +93,7 @@ or_publish_at => eða útgefin þann
 override_default_form => Yfirskrifa snið
 pending =>
 reset_time => Endursetja tímastimplil til núverandi tíma
+search_articles =>
 set_to_now => Breyta tímastimpli til núverandi tíma
 sort_display =>
 textfilter_help =>

@@ -93,6 +93,7 @@ or_publish_at => หรือเผยแพร่ ณ
 override_default_form => ใช้ฟอร์มนี้แทน
 pending => รอการเผยแพร่
 reset_time => ตั้งเวลาใหม่ให้เป็นปัจจุบัน
+search_articles =>
 set_to_now => ตั้งเวลาโพสต์เป็นปัจจุบัน
 sort_display => จัดระเบียบ
 textfilter_help =>

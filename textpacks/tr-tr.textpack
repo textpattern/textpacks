@@ -93,6 +93,7 @@ or_publish_at => …or publish at
 override_default_form => Override form
 pending => Yazılıyor
 reset_time => Zamanı sıfırla…
+search_articles =>
 set_to_now => Tarih Bilgisini ayarla…
 sort_display => Biçim ve Görünüm
 textfilter_help =>

@@ -93,6 +93,7 @@ or_publish_at => lub opublikuj o
 override_default_form => Nadpisz formę
 pending => Oczekujący
 reset_time => Ustaw na aktualny czas
+search_articles =>
 set_to_now => Aktualny czas jako czas publikacji
 sort_display => Przynależność
 textfilter_help => Pomoc edytora tekstu

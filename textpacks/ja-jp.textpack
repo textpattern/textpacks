@@ -93,6 +93,7 @@ or_publish_at => …投稿日時
 override_default_form => デフォルトフォームの上書き
 pending => 保留
 reset_time => 現時刻にリセット…
+search_articles =>
 set_to_now => タイムスタンプを現時刻にする…
 sort_display => 分類
 textfilter_help => テキスト整形のヘルプ

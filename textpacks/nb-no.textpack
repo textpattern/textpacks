@@ -93,6 +93,7 @@ or_publish_at => …eller publiser til
 override_default_form => Overstyr skjema
 pending => Publiseringsklar
 reset_time => Nullstill tid til nå
+search_articles =>
 set_to_now => Sett tidspunkt til nå
 sort_display => Sorter og vis
 textfilter_help => Tekstformatering hjelp

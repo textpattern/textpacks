@@ -93,6 +93,7 @@ or_publish_at => o publica en
 override_default_form => Sobreescriu formulari
 pending => Pendent
 reset_time => Utilitzar la hora actual
+search_articles =>
 set_to_now => Utilitzar data/hora actual
 sort_display => Ordena i mostra
 textfilter_help =>

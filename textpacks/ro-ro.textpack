@@ -93,6 +93,7 @@ or_publish_at => …sau publica la
 override_default_form => Inlocuieste formular
 pending => In asteptare
 reset_time => Reseteaza timpul la ora curenta…
+search_articles =>
 set_to_now => Seteaza timpul la ora si data curenta…
 sort_display => Aranjeaza si afiseaza
 textfilter_help =>

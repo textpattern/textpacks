@@ -93,6 +93,7 @@ or_publish_at => …або опублікувати
 override_default_form => Використовувати шаблон
 pending => Відкладена
 reset_time => Встановити поточну дату…
+search_articles =>
 set_to_now => Встановити поточний час…
 sort_display => Сортувати та показати
 textfilter_help => Допомога щодо форматування тексту

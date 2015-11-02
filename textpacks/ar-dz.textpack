@@ -93,6 +93,7 @@ or_publish_at => أو ينشر تلقائيا يوم
 override_default_form => تجاوز الشكل الحالي
 pending => ينتظر الإثبات
 reset_time => ضبط الساعة حسب التوقيت الحالي
+search_articles =>
 set_to_now => ضبط التاريخ والساعة حسب التوقيت الحالي
 sort_display => تخصيص المقالة
 textfilter_help => تعليمات كتابة النص
