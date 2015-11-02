@@ -492,6 +492,7 @@ not_saved => <strong>не</strong> збережено!
 no_images_recorded => Немає зображень.
 only_graphic_files_allowed => Дозволені графічні формати: .jpg, .gif, .png, .swf
 replace_image => Замінити зображення
+search_images =>
 save_these_settings_as_default => Зберегти поточні установки як за замовчуванням
 thumbnail_deleted => Зменшене зображення видалено.
 thumbnail_not_saved => Зменшене зображення <strong>№{id}</strong> не збережено!

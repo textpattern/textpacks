@@ -492,6 +492,7 @@ not_saved => <strong>nije</strong> spremljeno!
 no_images_recorded => Nema snimljenih slika.
 only_graphic_files_allowed =>
 replace_image => Zamijeni sliku
+search_images =>
 save_these_settings_as_default => Spremi postavke kao default
 thumbnail_deleted =>
 thumbnail_not_saved => Thumbnail <strong>{id}</strong> <em>not</em> spremljen!

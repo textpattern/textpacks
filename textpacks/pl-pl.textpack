@@ -492,6 +492,7 @@ not_saved => <strong>nie</strong> zapisany!
 no_images_recorded => Brak obrazków.
 only_graphic_files_allowed => Dozwolone formaty plików graficznych: .jpg, .gif, .png, .swf
 replace_image => Podmień obrazek
+search_images =>
 save_these_settings_as_default => Zapisz ustawienia jako domyślne
 thumbnail_deleted => Miniaturka usunięta.
 thumbnail_not_saved => Miniaturka <strong>{id}</strong> <em>nie została</em> zapisana!

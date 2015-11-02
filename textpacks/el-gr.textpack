@@ -492,6 +492,7 @@ not_saved => <strong>δεν</strong> αποθηκεύτηκε!
 no_images_recorded => Δεν υπάρχουν εικόνες.
 only_graphic_files_allowed => Επιτρέπονται τα αρχεία εικόνας .jpg, .gif, .png και .swf
 replace_image => Αντικατάσταση εικόνας
+search_images =>
 save_these_settings_as_default => Αποθήκευση ρυθμίσεων ως προκαθορισμένα
 thumbnail_deleted =>
 thumbnail_not_saved => Η σμίκρυνση <strong>{id}</strong> δεν αποθηκεύτηκε!

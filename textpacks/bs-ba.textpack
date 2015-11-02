@@ -492,6 +492,7 @@ not_saved => <strong>not</strong> snimljeno!
 no_images_recorded => Nijedna slika nije snimljena.
 only_graphic_files_allowed => Samo .jpg, .gif, .png or .swf tipovi datoteka su dozvoljeni.
 replace_image => Zamijeni sliku
+search_images =>
 save_these_settings_as_default => Snimi postavke kao podrazumijevane
 thumbnail_deleted => Sličica obrisana.
 thumbnail_not_saved => Sličica <strong>{id}</strong> <em>not</em> snimljena!

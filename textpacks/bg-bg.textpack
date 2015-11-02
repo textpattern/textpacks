@@ -492,6 +492,7 @@ not_saved => <strong>не е</strong> записано!
 no_images_recorded => Не са записани изображения.
 only_graphic_files_allowed => Разрешени графични файлове .jpg, .gif, .png or .swf
 replace_image => Замени изображението
+search_images =>
 save_these_settings_as_default => Запази настройките по подразбиране
 thumbnail_deleted => Умаленото изображение е изтрито
 thumbnail_not_saved => Умаленото изображение <strong>{id}</strong> <em>не е</em> записано!

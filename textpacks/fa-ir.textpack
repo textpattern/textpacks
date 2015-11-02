@@ -492,6 +492,7 @@ not_saved => ذخیره <strong>نشد</strong>!
 no_images_recorded => هیچ تصویری یافت نشد.
 only_graphic_files_allowed => تنها فایل‌های jpg. یا gif. یا png. و یا swf. مجازند.
 replace_image => جایگزینی تصویر
+search_images =>
 save_these_settings_as_default => ذخیره تنظیمات به عنوان پیش‌فرض
 thumbnail_deleted => تصویر کوچک پاک شد.
 thumbnail_not_saved => تصویر کوچک <strong>{id}</strong> ذخیره <em>نشد</em>!

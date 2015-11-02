@@ -492,6 +492,7 @@ not_saved => <strong>Não</strong> foi salva!
 no_images_recorded => Nenhuma imagem até agora.
 only_graphic_files_allowed => somente se admitem estes tipos de arquivo: .jpg, .gif, .png ou .swf
 replace_image => Substituir imagem
+search_images =>
 save_these_settings_as_default => Salvar estes valores como padrão
 thumbnail_deleted => Thumbnail excluido.
 thumbnail_not_saved => A Miniatura <strong>{id}</strong> <em>não foi</em> salva!

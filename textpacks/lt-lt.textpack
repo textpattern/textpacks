@@ -492,6 +492,7 @@ not_saved => <strong>ne</strong>išsaugota!
 no_images_recorded => Nėra jokių atvaizdų.
 only_graphic_files_allowed => Tik .jpg, .gif, .png arba .swf rinkmenų tipai leistini.
 replace_image => Pakeisti atvaizdą
+search_images =>
 save_these_settings_as_default => Išsaugoti nuostatas kaip numatytas
 thumbnail_deleted => Miniatiūra pašalinta.
 thumbnail_not_saved => Miniatiūra <strong>{id}</strong> <em>ne</em>išsaugota!

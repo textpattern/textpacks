@@ -492,6 +492,7 @@ not_saved => <strong>inte</strong> sparad!
 no_images_recorded => Inga bilder inlagda.
 only_graphic_files_allowed => Endast .jpg, .gif, .png eller .swf tillåts.
 replace_image => Ersätt bild
+search_images =>
 save_these_settings_as_default => Spara inställningarna som förval
 thumbnail_deleted => Tumnagel raderades.
 thumbnail_not_saved => Tumnageln <strong>{id}</strong> sparades <em>inte</em>!

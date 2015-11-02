@@ -492,6 +492,7 @@ not_saved => <strong>није</strong> сачувано!
 no_images_recorded => Нема снимљених слика.
 only_graphic_files_allowed => .jpg, .gif, .png ili .swf формат слике је дозвољен
 replace_image => Замени слику
+search_images =>
 save_these_settings_as_default => Сними подешавања као default
 thumbnail_deleted => Мала слика избрисана.
 thumbnail_not_saved => Thumbnail <strong>{id}</strong> <em>није</em> сачуван!

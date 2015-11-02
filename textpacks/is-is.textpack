@@ -492,6 +492,7 @@ not_saved => <strong>ekki</strong> geymd!
 no_images_recorded =>
 only_graphic_files_allowed => .jpg, .gif, .png or .swf skráarsnið leyfð.
 replace_image => Skipta um mynd
+search_images =>
 save_these_settings_as_default => Geyma stillingar sem sjálfgildi
 thumbnail_deleted =>
 thumbnail_not_saved =>

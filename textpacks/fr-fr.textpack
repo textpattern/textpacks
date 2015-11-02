@@ -492,6 +492,7 @@ not_saved => N’a <strong>pas</strong> été sauvegardé !
 no_images_recorded => Aucune image enregistrée.
 only_graphic_files_allowed => Seuls les fichiers d’images .jpg, .gif, .png ou .swf sont autorisés.
 replace_image => Remplacer l’image
+search_images =>
 save_these_settings_as_default => Enregistrer ces paramètres comme défaut
 thumbnail_deleted => Miniature effacée.
 thumbnail_not_saved => La miniature <strong>{id}</strong> n’a <strong>pas</strong> pu être enregistrée !

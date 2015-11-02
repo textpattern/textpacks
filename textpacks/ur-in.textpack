@@ -492,6 +492,7 @@ not_saved => محفوظ <strong>نہیں</strong> کیا !
 no_images_recorded => کوئی تصویر دستیاب نہیں
 only_graphic_files_allowed => صرف .jpg, .gif, .png or .swf فائل کے قسمیں کی اجازت ہے
 replace_image => تصویر بدلیں
+search_images =>
 save_these_settings_as_default => کیا ان سیٹنگ کو ترجیح دیں ؟
 thumbnail_deleted => تصویر صغیر حذف کیا
 thumbnail_not_saved => تصویر صغیر <strong>{id}</strong> محفوظ <em>نہیں</em> !

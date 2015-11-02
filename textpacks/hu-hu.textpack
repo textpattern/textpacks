@@ -492,6 +492,7 @@ not_saved => <strong>Nincs</strong> mentve!
 no_images_recorded => Nem lett kép rögzítve.
 only_graphic_files_allowed => .jpg, .gif, .png vagy .swf képtípusok.
 replace_image => Képek cseréje
+search_images =>
 save_these_settings_as_default => Beállítások mentése alapértelmezettként
 thumbnail_deleted => Előnézeti kép törölve.
 thumbnail_not_saved => A(z) <strong>{id}</strong> kis kép mentése nem sikerült!

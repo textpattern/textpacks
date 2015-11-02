@@ -492,6 +492,7 @@ not_saved => <strong>nebyl(a/o)</strong> uložen(a/o)!
 no_images_recorded => Neexistují žádné obrázky.
 only_graphic_files_allowed => Povoleny jsou jen soubory .jpg, .gif, .png nebo .swf
 replace_image => Nahradit obrázek
+search_images =>
 save_these_settings_as_default => Uložit nastavení jako výchozí
 thumbnail_deleted => Náhled byl smazán.
 thumbnail_not_saved => Náhled <strong>{id}</strong> nebyl uložen!

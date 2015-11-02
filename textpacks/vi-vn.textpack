@@ -492,6 +492,7 @@ not_saved => <strong>chưa</strong> lưu lại!
 no_images_recorded => Không có ảnh nào.
 only_graphic_files_allowed => chỉ cho phép tập tin ảnh dạng .jpg, .gif, .png hoặc .swf
 replace_image => Thay thế ảnh
+search_images =>
 save_these_settings_as_default => Lưu thành cài đặt mặc định
 thumbnail_deleted => Ảnh thu nhỏ đã bị xóa
 thumbnail_not_saved => <em>Chưa</em> lưu thumbnail <strong>{id}</strong>!

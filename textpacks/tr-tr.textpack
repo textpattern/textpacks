@@ -492,6 +492,7 @@ not_saved => <strong>kayıt edilmedi</strong> !
 no_images_recorded => Görsel kaydına rastlanmadı.
 only_graphic_files_allowed => Sadece .jpg, .gif, .png or .swf dosya türlerine izin veriliyor.
 replace_image => Görsel değiştir
+search_images =>
 save_these_settings_as_default => Ayarları varsayılan olarak kaydet
 thumbnail_deleted => Küçük görsel (thumbnail) silindi.
 thumbnail_not_saved => Küçük görsel (thumbnail) <strong>{id}</strong> <em>kaydedilemedi!</em>

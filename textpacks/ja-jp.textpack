@@ -492,6 +492,7 @@ not_saved => 保存に<strong>失敗</strong>!
 no_images_recorded => 画像が登録されていません。
 only_graphic_files_allowed => .jpg, .gif, .png .swf ファイルしか許可されていません。
 replace_image => 画像の置き換え
+search_images =>
 save_these_settings_as_default => 初期設定で保存。
 thumbnail_deleted => サムネイルを削除しました。
 thumbnail_not_saved => サムネイル <strong>{id}</strong>の保存に<em>失敗</em>!

@@ -492,6 +492,7 @@ not_saved => <strong>ikke</strong> lagret!
 no_images_recorded => Ingen bilder finnes.
 only_graphic_files_allowed => Grafikkfiler i formatene .jpg, .gif, .png eller .swf er tillatt.
 replace_image => Erstatt bilde
+search_images =>
 save_these_settings_as_default => Bruk disse innstillingene som standard
 thumbnail_deleted => Miniatyr ble slettet.
 thumbnail_not_saved => Miniatyr <strong>{id}</strong> ble ikke lagret.

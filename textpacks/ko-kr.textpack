@@ -492,6 +492,7 @@ not_saved => 저장하지 <strong>않았습니다.</strong>
 no_images_recorded => 이미지를 기록하지 않았습니다.
 only_graphic_files_allowed => .jpg, .gif, .png .swf 형식의 파일만 가능합니다
 replace_image => 이미지 교체
+search_images =>
 save_these_settings_as_default => 기본값으로 설정 저장
 thumbnail_deleted => 썸네일이 지워졌습니다.
 thumbnail_not_saved => <strong>{id}</strong> <em>not</em> 썸네일을 저장하지 않았습니다.

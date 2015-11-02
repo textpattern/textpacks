@@ -492,6 +492,7 @@ not_saved => no s’ha desat!
 no_images_recorded => No s’ha registrat cap imatge.
 only_graphic_files_allowed => Només es permeten fitxers gràfics .jpg, .gif, .png o .swf
 replace_image => Substitueix imatge
+search_images =>
 save_these_settings_as_default => Desa com configuració predeterminada
 thumbnail_deleted =>
 thumbnail_not_saved => La miniatura <strong>{id}</strong> no s’ha desat!

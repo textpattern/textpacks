@@ -492,6 +492,7 @@ not_saved => <strong>没有</strong>保存！
 no_images_recorded => 没有图片记录。
 only_graphic_files_allowed => 允许 .jpg、.gif、.png 或 .swf 类型的文件
 replace_image => 替换图片
+search_images =>
 save_these_settings_as_default => 保存为预设值
 thumbnail_deleted => 缩略图已删除。
 thumbnail_not_saved => 缩略图 <strong>{id}</strong> <em>没有</em>被保存！

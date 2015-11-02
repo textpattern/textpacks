@@ -492,6 +492,7 @@ not_saved => <strong>не</strong> сохранено!
 no_images_recorded => Нет картинок.
 only_graphic_files_allowed => Разрешенные графические форматы: .jpg, .gif, .png, .swf
 replace_image => Заменить картинку
+search_images =>
 save_these_settings_as_default => Сохранить текущие установки по умолчанию
 thumbnail_deleted => Уменьшенная картинка удалена.
 thumbnail_not_saved => Уменьшенная картинка <strong>{id}</strong> <em>не</em> сохранена!

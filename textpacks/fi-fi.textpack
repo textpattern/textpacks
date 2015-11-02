@@ -492,6 +492,7 @@ not_saved => <strong>ei</strong> tallennettu!
 no_images_recorded => Ei tallennettuja kuvia.
 only_graphic_files_allowed => Vain .jpg, .gif, .png ja .swf tiedostotyypit sallitaan.
 replace_image => Korvaa kuva
+search_images =>
 save_these_settings_as_default => Tallenna asetukset oletuksiksi
 thumbnail_deleted => Pienoiskuva poistettu.
 thumbnail_not_saved => Pienoiskuvaa <strong>{id}</strong> <em>ei</em> tallennettu!

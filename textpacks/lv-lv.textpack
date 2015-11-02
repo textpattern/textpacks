@@ -492,6 +492,7 @@ not_saved => <strong>nav</strong> saglabāts!
 no_images_recorded => Nav neviena attēla.
 only_graphic_files_allowed => Atļautas ir tikai .jpg, .gif, .png vai .swf formāta bildes.
 replace_image => Nomainīt bildi
+search_images =>
 save_these_settings_as_default => Saglabāt uzstādījumus kā noklusētos
 thumbnail_deleted => Sīktēls dzēsts.
 thumbnail_not_saved => Sīkattēls <strong>{id}</strong> <em>nav</em> saglabāts!

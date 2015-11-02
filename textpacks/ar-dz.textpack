@@ -492,6 +492,7 @@ not_saved => لم يتم حفظه
 no_images_recorded =>
 only_graphic_files_allowed => .jpg, .gif, .png , .swf الملفات المقبولة هي فقط
 replace_image => استبدال الصورة
+search_images =>
 save_these_settings_as_default => تسجيل هذه المقاييس بصفة أساسية
 thumbnail_deleted =>
 thumbnail_not_saved =>

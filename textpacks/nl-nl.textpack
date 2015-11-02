@@ -492,6 +492,7 @@ not_saved => <strong>Niet</strong> opgeslagen!
 no_images_recorded => Er zijn geen afbeeldingen.
 only_graphic_files_allowed => Alleen .jpg, .gif, .png or .swf grafische bestanden toegestaan.
 replace_image => Afbeelding vervangen
+search_images =>
 save_these_settings_as_default => Bewaar deze instellingen als standaard
 thumbnail_deleted => Mini-afbeelding verwijderd.
 thumbnail_not_saved => Mini-afbeelding <strong>{id}</strong> niet opgeslagen!

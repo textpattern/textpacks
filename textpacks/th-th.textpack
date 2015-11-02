@@ -492,6 +492,7 @@ not_saved => <strong>ไมได้่</strong> บันทึก!
 no_images_recorded => ไม่มีการบันทึกภาพ
 only_graphic_files_allowed => อนุญาตให้ใช้แฟ้มกราฟฟิกแบบ .jpg, .gif, .png or .swf
 replace_image => แทนรูปภาพ
+search_images =>
 save_these_settings_as_default => บันทึกค่าตั้งเป็นค่าปริยาย
 thumbnail_deleted => ลบภาพย่อแล้ว
 thumbnail_not_saved => <em>ไม่ได้</em> บันทึกภาพย่อ <strong>{id}</strong> !

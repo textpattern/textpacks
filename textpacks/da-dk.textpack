@@ -492,6 +492,7 @@ not_saved => <strong>ikke</strong> gemt!
 no_images_recorded =>
 only_graphic_files_allowed => Kun .jpg, .gif, .png eller .swf filer er tilladt.
 replace_image => Erstat billede
+search_images =>
 save_these_settings_as_default =>
 thumbnail_deleted => Miniatur slettet.
 thumbnail_not_saved =>
