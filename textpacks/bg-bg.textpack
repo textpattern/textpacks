@@ -451,6 +451,7 @@ reset => занули
 reset_download_count => Занули броя на свалянията
 reset_file_count_failure => Зануляването на файловете се провали
 reset_file_count_success => Зануляването на файловете е успешно
+search_files =>
 #@form
 all_forms => Всички форми
 changetype => Промени типът
