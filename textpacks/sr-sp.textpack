@@ -451,6 +451,7 @@ reset => reset
 reset_download_count =>
 reset_file_count_failure => Ne uspevam resetovati brojač fajlova
 reset_file_count_success => Brojač fajlova uspešno resetovan
+search_files =>
 #@form
 all_forms => Sve forme
 changetype =>

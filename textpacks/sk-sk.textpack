@@ -451,6 +451,7 @@ reset => vynulovať
 reset_download_count =>
 reset_file_count_failure => Počítadlo sa nepodarilo vynulovať
 reset_file_count_success => Počítadlo bolo vynulované
+search_files =>
 #@form
 all_forms => Všetky šablóny
 changetype =>

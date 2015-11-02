@@ -451,6 +451,7 @@ reset => re-inicializar
 reset_download_count => Redefinir contagem de transferência
 reset_file_count_failure => Não foi possível re-inicializar o contador de download
 reset_file_count_success => O contador de download foi re-inicializado
+search_files =>
 #@form
 all_forms => Todos os módulos
 changetype => Alterar o tipo

@@ -451,6 +451,7 @@ reset => đặt lại
 reset_download_count => Đặt lại số lượt tải về
 reset_file_count_failure => Không thể đặt lại số lượt tải về
 reset_file_count_success => Đã đặt lại số lượt tải về thành công
+search_files =>
 #@form
 all_forms => Tất cả các mẫu đơn
 changetype => Đổi kiểu

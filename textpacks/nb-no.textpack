@@ -451,6 +451,7 @@ reset => reset
 reset_download_count => Nullnedlastingsteller
 reset_file_count_failure => Nedlastingen teller ikke klarte å nullstille
 reset_file_count_success => Nedlastingen telleren ble nullstilt
+search_files =>
 #@form
 all_forms => Alle skjemaer
 changetype => Modifisere den type

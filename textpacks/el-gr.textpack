@@ -451,6 +451,7 @@ reset =>
 reset_download_count =>
 reset_file_count_failure => Αποτυχία μηδενισμού μετρητή μεταφορτώσεων
 reset_file_count_success => Ο μετρητής μεταφορτώσεων μηδενίστηκε με επιτυχία
+search_files =>
 #@form
 all_forms => Όλες οι φόρμες
 changetype =>

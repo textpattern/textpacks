@@ -451,6 +451,7 @@ reset => پھر سیٹ کریں
 reset_download_count =>
 reset_file_count_failure => فائل گنتی پھر سیٹ کرنے میں ناکامی
 reset_file_count_success => فائل گنتی کامیابی سے پھر سیٹ کیا
+search_files =>
 #@form
 all_forms => تمام فارم
 changetype =>

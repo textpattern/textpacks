@@ -451,6 +451,7 @@ reset => zurücksetzen
 reset_download_count => Download-Zähler zurücksetzen
 reset_file_count_failure => Download-Zähler zurücksetzen fehlgeschlagen
 reset_file_count_success => Download-Zähler erfolgreich zurückgesetzt
+search_files =>
 #@form
 all_forms => Alle Bausteine
 changetype => Typ ändern

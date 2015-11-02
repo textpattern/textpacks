@@ -451,6 +451,7 @@ reset => リセット
 reset_download_count => ダウンロード数をリセット
 reset_file_count_failure => ファイルカウントのリセットに失敗しました
 reset_file_count_success => ファイルカウントのリセットに成功しました
+search_files =>
 #@form
 all_forms => すべてのフォーム
 changetype => タイプの変更

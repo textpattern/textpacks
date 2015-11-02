@@ -451,6 +451,7 @@ reset => ตั้งค่าใหม่
 reset_download_count =>
 reset_file_count_failure => ตั้งค่าจำนวนดาวน์โหลดใหม่ ไม่สำเร็จ
 reset_file_count_success => ตั้งค่าจำนวนดาวน์โหลดใหม่ สำเร็จ
+search_files =>
 #@form
 all_forms => ฟอร์มทั้งหมด
 changetype =>

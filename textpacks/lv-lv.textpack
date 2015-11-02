@@ -451,6 +451,7 @@ reset => atiestatīt
 reset_download_count => Atiestatīt lejupielāžu skaitu
 reset_file_count_failure => Neizdevās atiestatīt skaitītāju
 reset_file_count_success => Skaitītājs ir sekmīgi atiestatīts
+search_files =>
 #@form
 all_forms => Visas formas
 changetype => Mainīt veidu

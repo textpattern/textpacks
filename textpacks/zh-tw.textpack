@@ -451,6 +451,7 @@ reset => 重新設定
 reset_download_count =>
 reset_file_count_failure => 檔案計數重設失敗
 reset_file_count_success => 成功清除檔案計數
+search_files =>
 #@form
 all_forms => 所有模型
 changetype =>

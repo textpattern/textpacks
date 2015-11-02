@@ -451,6 +451,7 @@ reset => nulstil
 reset_download_count =>
 reset_file_count_failure => Mislykkedes at nulstille download-antal
 reset_file_count_success => Nulstillet download-antal
+search_files =>
 #@form
 all_forms => Alle forms
 changetype =>

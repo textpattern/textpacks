@@ -451,6 +451,7 @@ reset => wyzeruj
 reset_download_count => Wyzeruj licznik pobrań
 reset_file_count_failure => Zerowanie licznika pobrań nie powiodło się
 reset_file_count_success => Licznik pobrań został wyzerowany
+search_files =>
 #@form
 all_forms => Wszystkie formy
 changetype => Zmień typ

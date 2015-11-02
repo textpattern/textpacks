@@ -451,6 +451,7 @@ reset => 초기화
 reset_download_count =>
 reset_file_count_failure => 파일 다운로드 횟수 초기화 실패
 reset_file_count_success => 파일 다운로드 횟수 초기화 성공
+search_files =>
 #@form
 all_forms => 모든 폼
 changetype =>

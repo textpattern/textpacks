@@ -451,6 +451,7 @@ reset => reset
 reset_download_count => Reset aantal downloads
 reset_file_count_failure => Het is niet mogelijk om het bestandstotaal te resetten
 reset_file_count_success => Bestandstotaal succesvol gereset
+search_files =>
 #@form
 all_forms => Alle modules
 changetype => Verander modulesoort

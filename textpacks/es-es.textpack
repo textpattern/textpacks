@@ -451,6 +451,7 @@ reset => resetear
 reset_download_count => Resetear el contador de descargas
 reset_file_count_failure => No se ha podido resetear el contador de descargas
 reset_file_count_success => El contador de descargas se ha reseteado
+search_files =>
 #@form
 all_forms => Todos los bloques
 changetype => Cambiar tipo

@@ -451,6 +451,7 @@ reset => reset
 reset_download_count => Reset download count
 reset_file_count_failure => Failed to reset file download count
 reset_file_count_success => Successfully reset file download count
+search_files => Search files
 #@form
 all_forms => All forms
 changetype => Change type

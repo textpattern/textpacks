@@ -451,6 +451,7 @@ reset => 重置
 reset_download_count => 重置密码次数
 reset_file_count_failure => 重置文件计数失败
 reset_file_count_success => 重置文件计数成功
+search_files =>
 #@form
 all_forms => 全部模块
 changetype =>

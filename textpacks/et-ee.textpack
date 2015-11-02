@@ -451,6 +451,7 @@ reset => algseisu
 reset_download_count =>
 reset_file_count_failure => Algväärtustamine ebaõnnestus
 reset_file_count_success => Algväärtustamine õnnestus
+search_files =>
 #@form
 all_forms => Kõik vormid
 changetype =>

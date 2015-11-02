@@ -451,6 +451,7 @@ reset => poništi
 reset_download_count =>
 reset_file_count_failure => Neuspješan pokušaj poništavanja brojača datoteke
 reset_file_count_success => Uspješno poništavanje brojača datoteke
+search_files =>
 #@form
 all_forms => Svi formulari
 changetype =>

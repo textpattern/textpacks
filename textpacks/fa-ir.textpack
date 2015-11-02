@@ -451,6 +451,7 @@ reset => بازنشانی
 reset_download_count => بازنشانی شمارنده‌ی دانود
 reset_file_count_failure => ناتوانی در بازنشانی شمارنده‌ی فایل
 reset_file_count_success => بازنشانی شمارنده‌ی فایل با موفقیت انجام شد
+search_files =>
 #@form
 all_forms => تمامی فرم‌ها
 changetype => تغییر نوع

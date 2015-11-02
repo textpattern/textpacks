@@ -451,6 +451,7 @@ reset => сбросить
 reset_download_count => Сбросить счетчик загрузок
 reset_file_count_failure => Не удалось обнулить счетчик файлов
 reset_file_count_success => Счетчик файлов успешно обнулен
+search_files =>
 #@form
 all_forms => Все формы
 changetype => Изменить тип

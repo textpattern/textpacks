@@ -451,6 +451,7 @@ reset => azzerare
 reset_download_count => Azzera il contatore download
 reset_file_count_failure => Impossibile azzerare il contatore download
 reset_file_count_success => Contatore download azzerato
+search_files =>
 #@form
 all_forms => Tutti i moduli
 changetype => Cambia tipo

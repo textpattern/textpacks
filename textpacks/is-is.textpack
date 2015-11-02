@@ -451,6 +451,7 @@ reset => endursetja
 reset_download_count =>
 reset_file_count_failure => Tókst ekki að endursetja skráar talningu
 reset_file_count_success => Tókst að endursetja skráar talningu
+search_files =>
 #@form
 all_forms => Öll snið
 changetype =>

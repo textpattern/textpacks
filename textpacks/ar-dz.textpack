@@ -451,6 +451,7 @@ reset => العودة إلى الأصل
 reset_download_count =>
 reset_file_count_failure => لا يمكن العودة إلى الصفر في حساب عدد التحميلات
 reset_file_count_success => العودة إلى الصفر في حساب عدد التحميلات
+search_files =>
 #@form
 all_forms =>
 changetype =>

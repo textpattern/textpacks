@@ -451,6 +451,7 @@ reset => אפס
 reset_download_count => אפס את מונה ההורדות
 reset_file_count_failure => נכשל באיפוס מספר ההורדות
 reset_file_count_success => מספר הקבצים אופס בהצלחה
+search_files =>
 #@form
 all_forms => כל התבניות
 changetype =>

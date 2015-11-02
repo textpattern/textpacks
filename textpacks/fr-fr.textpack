@@ -451,6 +451,7 @@ reset => remise à zéro
 reset_download_count => Réinitialiser le compteur de téléchargements
 reset_file_count_failure => Impossible de remettre à zéro le nombre de téléchargements
 reset_file_count_success => Remise à zéro du nombre de téléchargements effectuée
+search_files =>
 #@form
 all_forms => Liste des modules
 changetype => Changer de type

@@ -451,6 +451,7 @@ reset => скинути
 reset_download_count => Скинути лічильник завантажень
 reset_file_count_failure => Не вдалося скинути кількість файлів
 reset_file_count_success => Лічильник файлів успішно скинутий
+search_files =>
 #@form
 all_forms => Всі шаблони
 changetype => Зміна типу

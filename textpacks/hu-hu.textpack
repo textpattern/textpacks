@@ -451,6 +451,7 @@ reset => újraindítás
 reset_download_count =>
 reset_file_count_failure => Az állomány számláló újraindítása nem sikerült
 reset_file_count_success => Az állomány számláló újraindítása sikerült
+search_files =>
 #@form
 all_forms => Sablonok
 changetype =>

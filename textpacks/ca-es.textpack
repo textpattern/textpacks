@@ -451,6 +451,7 @@ reset => reinicia
 reset_download_count =>
 reset_file_count_failure => Error en intentar reiniciar el comptador de descàrregues
 reset_file_count_success => S’ha restablert el recompte de fitxers
+search_files =>
 #@form
 all_forms => Tots els formularis
 changetype =>

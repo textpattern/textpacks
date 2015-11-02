@@ -451,6 +451,7 @@ reset => tata ulang
 reset_download_count =>
 reset_file_count_failure => Gagal menata ulang hitungan berkas
 reset_file_count_success => Sukses menata ulang hitungan berkas
+search_files =>
 #@form
 all_forms => Semua bentuk
 changetype => Ubah tipe
