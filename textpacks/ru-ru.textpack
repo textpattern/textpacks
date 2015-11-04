@@ -546,6 +546,7 @@ logs => Журнал
 logs_deleted => Записи удалены: <strong>{list}</strong>.
 no_refers_recorded => Нет перенаправлений.
 referrer => Перенаправление
+search_logs =>
 visitor_logs => Журнал посещений
 #@page
 all_pages => Все страницы

@@ -546,6 +546,7 @@ logs => 기록
 logs_deleted => <strong>{list}</strong> 기록을 삭제했습니다.
 no_refers_recorded => 리퍼러가 기록되지 않았습니다.
 referrer => 리퍼러
+search_logs =>
 visitor_logs => 방문자 기록
 #@page
 all_pages => 모든 페이지

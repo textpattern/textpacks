@@ -546,6 +546,7 @@ logs => Záznamy
 logs_deleted =>
 no_refers_recorded => Zatiaľ neboli zaznamenané žiadne odkazujúce odkazy
 referrer => Odkazujúci server
+search_logs =>
 visitor_logs => Záznamy návštev
 #@page
 all_pages => Všetky stránky

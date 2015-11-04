@@ -546,6 +546,7 @@ logs => Statistika
 logs_deleted =>
 no_refers_recorded => Veel ei ole ühtegi viitajat.
 referrer => Viitaja
+search_logs =>
 visitor_logs => Külastuslogid
 #@page
 all_pages => Kõik lehed

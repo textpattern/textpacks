@@ -546,6 +546,7 @@ logs => Registres
 logs_deleted => Registres esborrats: <strong>{list}</strong>.
 no_refers_recorded => Encara no s’ha registrat cap referent.
 referrer => Referents
+search_logs =>
 visitor_logs => Registre de visites
 #@page
 all_pages => Totes les pàgines

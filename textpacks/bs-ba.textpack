@@ -546,6 +546,7 @@ logs => Dnevnici
 logs_deleted => Dnevnici obrisani: <strong>{list}</strong>.
 no_refers_recorded => Nijedan referal nije snimljen.
 referrer => Referal
+search_logs =>
 visitor_logs => Dnevnici posjetilaca
 #@page
 all_pages => Sve stranice

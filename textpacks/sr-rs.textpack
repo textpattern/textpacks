@@ -546,6 +546,7 @@ logs => Логови
 logs_deleted => Логови избрисани: <strong>{list}</strong>.
 no_refers_recorded => Нема снимљених referrer-а.
 referrer => Referrer
+search_logs =>
 visitor_logs => Логови посетилаца
 #@page
 all_pages => Све странице

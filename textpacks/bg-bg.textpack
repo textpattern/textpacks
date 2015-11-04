@@ -546,6 +546,7 @@ logs => Статистики
 logs_deleted => Изтрити статистики: <strong>{list}</strong>.
 no_refers_recorded => Няма записано отпращане.
 referrer => Отпращащ към
+search_logs =>
 visitor_logs => Статистики за посетителите
 #@page
 all_pages => Всички страници

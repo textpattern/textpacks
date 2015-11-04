@@ -546,6 +546,7 @@ logs => Loggar
 logs_deleted => Dessa loggar raderades: <strong>{list}</strong>.
 no_refers_recorded => Inga hänvisningar registrerade.
 referrer => Hänvisad från
+search_logs =>
 visitor_logs => Besökslogg
 #@page
 all_pages => Alla sidor

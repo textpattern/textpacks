@@ -546,6 +546,7 @@ logs => Логи
 logs_deleted => Вилучені логи: <strong>{list}</strong>.
 no_refers_recorded => Поки що не записано жодного referrer'а
 referrer => Referrer
+search_logs =>
 visitor_logs => Журнал відвідувань
 #@page
 all_pages => Всі сторінки

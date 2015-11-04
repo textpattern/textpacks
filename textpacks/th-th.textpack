@@ -546,6 +546,7 @@ logs => บันทึกเหตุการณ์
 logs_deleted => Logs deleted: <strong>{list}</strong>.
 no_refers_recorded => ยังไม่มีผู้แนะนำมา
 referrer => ผู้แนะนำมา
+search_logs =>
 visitor_logs => บันทึกผู้เยี่ยม
 #@page
 all_pages => หน้าทั้งหมด

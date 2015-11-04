@@ -546,6 +546,7 @@ logs => Registro de atividade
 logs_deleted => Registros de visitantes excluídos: <strong>{list}</strong>.
 no_refers_recorded => Nenhum registro de visitantes até agora
 referrer => Origem dos visitantes
+search_logs =>
 visitor_logs => Registro de visitantes
 #@page
 all_pages => Todas as páginas

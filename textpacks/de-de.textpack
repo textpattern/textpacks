@@ -546,6 +546,7 @@ logs => Protokolle
 logs_deleted => Folgende Einträge wurden gelöscht: <strong>{list}</strong>.
 no_refers_recorded => Kein Referrer verfügbar.
 referrer => Referrer
+search_logs =>
 visitor_logs => Besuchsprotokolle
 #@page
 all_pages => Alle Seitenvorlagen

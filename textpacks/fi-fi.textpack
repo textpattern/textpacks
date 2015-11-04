@@ -546,6 +546,7 @@ logs => Loki
 logs_deleted => Poistetut lokit: <strong>{list}</strong>.
 no_refers_recorded => Viittauksia ei ole vielä tallennettu.
 referrer => Viittaaja
+search_logs =>
 visitor_logs => Vierailijaloki
 #@page
 all_pages => Kaikki sivut

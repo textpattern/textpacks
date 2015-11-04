@@ -546,6 +546,7 @@ logs => Accessi
 logs_deleted => Accessi eliminati: <strong>{list}</strong>.
 no_refers_recorded => Nessun referrer registrato.
 referrer => Referrer
+search_logs =>
 visitor_logs => Accessi visitatori
 #@page
 all_pages => Tutte le pagine

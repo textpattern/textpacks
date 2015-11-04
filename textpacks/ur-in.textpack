@@ -546,6 +546,7 @@ logs => سرگمی
 logs_deleted => سرگمی حذف کیا: <strong>{list}</strong>
 no_refers_recorded => کوئی سرگمی دستیاب نہیں
 referrer => کہاں سے آے
+search_logs =>
 visitor_logs => نظریں کے سرگمی
 #@page
 all_pages => تمام صفحات

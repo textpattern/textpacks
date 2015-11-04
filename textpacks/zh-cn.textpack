@@ -546,6 +546,7 @@ logs => 记录
 logs_deleted => 记录已删除：<strong>{list}</strong>。
 no_refers_recorded => 没有反向链接记录。
 referrer => 反向链接
+search_logs =>
 visitor_logs => 访问记录
 #@page
 all_pages => 全部页面

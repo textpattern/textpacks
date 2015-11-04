@@ -546,6 +546,7 @@ logs => Journal d’activité (logs)
 logs_deleted => Journaux supprimés : <strong>{list}</strong>.
 no_refers_recorded => Pas encore de référent enregistré.
 referrer => Référent
+search_logs =>
 visitor_logs => Journal d’activités des visiteurs
 #@page
 all_pages => Tous les gabarits

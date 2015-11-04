@@ -546,6 +546,7 @@ logs => 訪問記錄
 logs_deleted => 已刪除紀錄: <strong>{list}</strong>.
 no_refers_recorded => 目前沒有逆向連結記錄
 referrer => 逆向連結
+search_logs =>
 visitor_logs => 訪客記錄
 #@page
 all_pages => 所有頁面

@@ -546,6 +546,7 @@ logs => Logok
 logs_deleted => Logok törölve: <strong>{list}</strong>.
 no_refers_recorded => Még nincsenek rögzítve hivatkozások.
 referrer => Hivatkozások
+search_logs =>
 visitor_logs => Látogatók naplózása
 #@page
 all_pages => Minden oldal

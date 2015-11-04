@@ -546,6 +546,7 @@ logs => Rexistros
 logs_deleted => Rexistros borrados: <strong>{list}</strong>.
 no_refers_recorded => Ningún referente gardado ata o de agora
 referrer => Referentes
+search_logs =>
 visitor_logs => rexistro de visitantes
 #@page
 all_pages => Tóda-las páxinas

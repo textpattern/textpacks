@@ -546,6 +546,7 @@ logs => דוחות
 logs_deleted => הדוחות נמחקו: <strong>{list}</strong>.
 no_refers_recorded => עדיין לא נרשמו מפנים.
 referrer => מפנה
+search_logs =>
 visitor_logs => דוחות מבקרים
 #@page
 all_pages => כל הדפים

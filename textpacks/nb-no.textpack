@@ -546,6 +546,7 @@ logs => Logger
 logs_deleted => Loggene ble slettet: <strong>{list}</strong>.
 no_refers_recorded => Ingen henvisninger lagret ennå.
 referrer => Henviser
+search_logs =>
 visitor_logs => Besøkslogger
 #@page
 all_pages => Alle sider

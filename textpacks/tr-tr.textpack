@@ -546,6 +546,7 @@ logs => Kayıtlar
 logs_deleted => Kayıtlar silindi: <strong>{list}</strong>.
 no_refers_recorded => Referrer kayıdı bulunamadı.
 referrer => Referrer
+search_logs =>
 visitor_logs => Ziyaretçi Kayıtları
 #@page
 all_pages => Tüm Sayfalar

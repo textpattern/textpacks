@@ -546,6 +546,7 @@ logs => Loguri
 logs_deleted => Loguri sterse: <strong>{list}</strong>.
 no_refers_recorded => Inca nu au fost inregistrati referreri
 referrer => Referrer
+search_logs =>
 visitor_logs => Loguri vizitatori
 #@page
 all_pages => Toate paginile

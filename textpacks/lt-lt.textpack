@@ -546,6 +546,7 @@ logs => Žurnalai
 logs_deleted => Žurnalai pašalinti: <strong>{list}</strong>.
 no_refers_recorded => Nėra jokių lankytojų šaltinių.
 referrer => Užklausų šaltiniai
+search_logs =>
 visitor_logs => Lankytojų žurnalai
 #@page
 all_pages => Visi puslapiai

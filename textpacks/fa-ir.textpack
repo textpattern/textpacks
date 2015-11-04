@@ -546,6 +546,7 @@ logs => گزارش‌ها
 logs_deleted => این گزارش‌ها پاک شدند : <strong>{list}</strong>
 no_refers_recorded => هیچ ارجاعی ثبت نشده است.
 referrer => ارجاع‌دهنده
+search_logs =>
 visitor_logs => گزارش بازدیدکنندگان
 #@page
 all_pages => تمام صفحات

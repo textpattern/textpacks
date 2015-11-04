@@ -546,6 +546,7 @@ logs => Nhật ký
 logs_deleted => Đã xóa nhật ký: <strong>{list}</strong>.
 no_refers_recorded => Không có referer nào cả.
 referrer => Referrer
+search_logs =>
 visitor_logs => Nhật ký
 #@page
 all_pages => Tất cả các trang

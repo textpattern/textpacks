@@ -546,6 +546,7 @@ logs => Logi odwiedzin
 logs_deleted => Usunięto logi: <strong>{list}</strong>.
 no_refers_recorded => Brak zarejestrowanych odwiedzin witryny.
 referrer => Odsyłacz
+search_logs =>
 visitor_logs => Logi odwiedzin
 #@page
 all_pages => Wszystkie strony

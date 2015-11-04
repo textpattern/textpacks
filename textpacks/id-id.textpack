@@ -546,6 +546,7 @@ logs => Catatan
 logs_deleted =>
 no_refers_recorded => Tidak ada rujukan yang tercatat
 referrer => Rujukan
+search_logs =>
 visitor_logs => Catatan Pengunjung
 #@page
 all_pages => Semua Halaman

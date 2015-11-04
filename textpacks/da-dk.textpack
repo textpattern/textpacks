@@ -546,6 +546,7 @@ logs => Logs
 logs_deleted => Logs slettet: <strong>{list}</strong>.
 no_refers_recorded => Ingen referer set endnu.
 referrer => Referer
+search_logs =>
 visitor_logs => Log over besøgende
 #@page
 all_pages => Alle sider

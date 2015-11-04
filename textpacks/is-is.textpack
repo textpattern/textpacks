@@ -546,6 +546,7 @@ logs => Loggar
 logs_deleted =>
 no_refers_recorded => Engin tilvísun skráð enn.
 referrer => Tilvísun
+search_logs =>
 visitor_logs => gesta loggar
 #@page
 all_pages => Allar síður

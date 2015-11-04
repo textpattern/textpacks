@@ -546,6 +546,7 @@ logs => Μητρώα επισκέψεων
 logs_deleted => Διαγραφέντα μητρώα: <strong>{list}</strong>.
 no_refers_recorded => Δεν έχουν ακόμα καταγραφεί επισκέψεις από άλλους ιστότοπους.
 referrer => Επίσκεψη από άλλο ιστότοπο
+search_logs =>
 visitor_logs => μητρώα επισκέψεων
 #@page
 all_pages => Όλες οι σελίδες

@@ -546,6 +546,7 @@ logs => Žurnāls
 logs_deleted => Žurnāla ieraksti dzēsti: <strong>{list}</strong>.
 no_refers_recorded => Nav neviena nosūtītāja.
 referrer => Nosūtītājs
+search_logs =>
 visitor_logs => Apmeklētāju žurnāls
 #@page
 all_pages => Visas lapas

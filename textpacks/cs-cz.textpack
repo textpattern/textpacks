@@ -546,6 +546,7 @@ logs => Záznamy
 logs_deleted => Záznamy odstraněny: <strong>{list}</strong>.
 no_refers_recorded => Dosud žádné odkazující servery.
 referrer => Odkazující server
+search_logs =>
 visitor_logs => Záznamy návštěv
 #@page
 all_pages => Všechny stránky

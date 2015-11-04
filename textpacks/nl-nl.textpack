@@ -546,6 +546,7 @@ logs => Bezoekers-logs
 logs_deleted => Logs: <strong>{list}</strong> zijn verwijderd.
 no_refers_recorded => Er zijn nog geen gegevens.
 referrer => Via
+search_logs =>
 visitor_logs => Bezoekers logs
 #@page
 all_pages => Alle pagina’s

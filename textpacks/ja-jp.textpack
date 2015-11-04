@@ -546,6 +546,7 @@ logs => ログ
 logs_deleted => ログを削除しました: <strong>{list}</strong>
 no_refers_recorded => 登録されたレファラがありません。
 referrer => レファラ
+search_logs =>
 visitor_logs => 訪問者ログ
 #@page
 all_pages => すべてのページ

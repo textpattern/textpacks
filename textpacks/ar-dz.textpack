@@ -546,6 +546,7 @@ logs => صحيفة النشاطات
 logs_deleted =>
 no_refers_recorded => لم يسجل أي مصدر بعد
 referrer => الموقع المصدر
+search_logs =>
 visitor_logs => صحيفة نشاطات الزوار
 #@page
 all_pages =>
