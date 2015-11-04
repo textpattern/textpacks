@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => Toimeta sektsioon
 include_in_search => Kaasa otsinguga?
 on_front_page => Esilehel?
+search_sections =>
 section => Sektsioon
 sections => Sektsioonid
 section_created =>

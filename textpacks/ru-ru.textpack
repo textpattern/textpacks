@@ -962,6 +962,7 @@ edit_section => Редактировать секцию
 edit_sections => редактировать секции
 include_in_search => Включить в поиск по сайту?
 on_front_page => На главной странице?
+search_sections =>
 section => Секция
 sections => Секции
 section_created => Создана секция <strong>{name}</strong>.

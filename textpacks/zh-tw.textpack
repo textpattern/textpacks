@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => 編輯版區
 include_in_search => 允許站內搜尋
 on_front_page => 在首頁顯示文章
+search_sections =>
 section => 版區
 sections => 版區
 section_created => 已建立版區 <strong>{name}</strong>.

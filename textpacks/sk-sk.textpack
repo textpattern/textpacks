@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => upraviť rubriky
 include_in_search => Zahrnúť do vyhľadávania
 on_front_page => Na hlavnej stránke
+search_sections =>
 section => Rubrika
 sections => Rubriky
 section_created =>

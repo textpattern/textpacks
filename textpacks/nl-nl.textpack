@@ -962,6 +962,7 @@ edit_section => Sectie aanpassen
 edit_sections => secties wijzigen
 include_in_search => Opnemen in de zoekfunctie?
 on_front_page => Op de voorpagina?
+search_sections =>
 section => Sectie
 sections => Secties
 section_created => Sectie <strong>{name}</strong> toegevoegd.

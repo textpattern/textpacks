@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => rediger afsnit
 include_in_search => Inkluder i sidesøgning
 on_front_page => På forsiden
+search_sections =>
 section => Afsnit
 sections => Afsnit
 section_created => Afsnit <strong>{name}</strong> oprettet.

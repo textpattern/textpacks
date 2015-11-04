@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => επεξεργασία τομέων
 include_in_search => Περίληψη στην αναζήτηση
 on_front_page => Στην αρχική σελίδα
+search_sections =>
 section => Τομέας
 sections => Τομείς
 section_created => Ο τομέας <strong>{name}</strong> δημιουργήθηκε.

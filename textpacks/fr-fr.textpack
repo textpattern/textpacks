@@ -962,6 +962,7 @@ edit_section => Édition de la section
 edit_sections => Éditer les sections
 include_in_search => Ajouter aux recherches ?
 on_front_page => En page d’accueil ?
+search_sections =>
 section => Section
 sections => Sections
 section_created => Section <strong>{name}</strong> créée.

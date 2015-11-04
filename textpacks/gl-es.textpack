@@ -962,6 +962,7 @@ edit_section => Editar a sección
 edit_sections => modificar seccións
 include_in_search => Incluír na pesquisa da bitácora
 on_front_page => Na páxina de inicio
+search_sections =>
 section => Sección
 sections => Seccions
 section_created => Sección <strong>{name}</strong> creada.

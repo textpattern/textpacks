@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => تغيير الأقسام
 include_in_search => تدرج مع نتائج البحث
 on_front_page => على الصفحة الرئيسية
+search_sections =>
 section => قسم
 sections => أقسام
 section_created =>

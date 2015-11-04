@@ -962,6 +962,7 @@ edit_section => Sunting seksi
 edit_sections => edit seksi
 include_in_search => Sertakan dalam pencarian situs
 on_front_page => Di halaman depan
+search_sections =>
 section => Seksi
 sections => Seksi
 section_created =>

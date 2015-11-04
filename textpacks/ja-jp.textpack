@@ -962,6 +962,7 @@ edit_section => セクションの編集
 edit_sections => セクションの編集
 include_in_search => サイト検索に含める
 on_front_page => フロントページにて
+search_sections =>
 section => セクション
 sections => セクション
 section_created => セクション <strong><a href="#section-{name}">{name}</a></strong> を作成しました。

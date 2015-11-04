@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => szekciók szerkesztése
 include_in_search => Kereséskor átnézendő
 on_front_page => Címlapra
+search_sections =>
 section => Szekció
 sections => Szekciók
 section_created => A(z) <strong>{name}</strong> szekció létrehozva.

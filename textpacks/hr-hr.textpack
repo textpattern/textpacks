@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => editiranje sekcije
 include_in_search => Uključi u pretraživanje
 on_front_page => Na prvoj stranici
+search_sections =>
 section => Sekcija
 sections => Sekcije
 section_created => Sekcija <strong>{name}</strong> napravljena.

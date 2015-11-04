@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => 섹션 편집
 include_in_search => 사이트 검색에 포함
 on_front_page => 첫화면에 표시
+search_sections =>
 section => 섹션
 sections => 섹션
 section_created => <strong>{name}</strong> 섹션을 생성했습니다.

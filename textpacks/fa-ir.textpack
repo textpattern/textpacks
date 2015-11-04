@@ -962,6 +962,7 @@ edit_section => ویرایش بخش
 edit_sections => ویرایش بخش‌ها
 include_in_search => بتواند مورد جستجو قرار گیرد
 on_front_page => در صفحه اصلی
+search_sections =>
 section => بخش
 sections => بخش‌ها
 section_created => بخش <strong><a href="#section-{name}">{name}</a></strong> ساخته شد.

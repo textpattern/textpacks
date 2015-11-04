@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => Breyta hlutum
 include_in_search => Taka með í leit?
 on_front_page =>
+search_sections =>
 section => Hluti
 sections => Hlutar
 section_created =>

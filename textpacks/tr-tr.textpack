@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => bölümleri düzenle
 include_in_search => Site aramalarına dahil et
 on_front_page => Ön sayfada
+search_sections =>
 section => Bölüm
 sections => Bölümler
 section_created => Bölüm <strong>{name}</strong> oluşturuldu.

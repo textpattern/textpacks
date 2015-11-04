@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => ערוך איזורים
 include_in_search => כלול בחיפוש האתר?
 on_front_page => בדף הראשי?
+search_sections =>
 section => איזור
 sections => איזורים
 section_created => האיזור <strong>{name}</strong> נוצר.

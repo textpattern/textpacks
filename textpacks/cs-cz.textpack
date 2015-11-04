@@ -962,6 +962,7 @@ edit_section => Editovat rubriku
 edit_sections => upravit rubriky
 include_in_search => Zahrnout do hledání
 on_front_page => Na hlavní straně
+search_sections =>
 section => Rubrika
 sections => Rubriky
 section_created => Rubrika <strong><a href="#section-{name}">{name}</a></strong> vytvořena.

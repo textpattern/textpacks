@@ -962,6 +962,7 @@ edit_section => Labot sadaļu
 edit_sections => Labot sadaļas
 include_in_search => Ietvert meklēšanā?
 on_front_page => Parādīt sākumlapā?
+search_sections =>
 section => Sadaļa
 sections => Sadaļas
 section_created => Sadaļa <strong>{name}</strong> izveidota.

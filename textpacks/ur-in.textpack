@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => صیغہ تدوین کریں
 include_in_search => تلاشی میں شامل کریں
 on_front_page => ابتدائی صفحہ پر شامل کریں
+search_sections =>
 section => صیغہ
 sections => صیغہ
 section_created => صیغہ <strong><a href="#section-{name}">{name}</a></strong> بنا ہوا

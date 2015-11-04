@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => editeaza sectiuni
 include_in_search => Include in cautarea site-ului
 on_front_page => Pe pagina principala
+search_sections =>
 section => Sectiune
 sections => Sectiuni
 section_created => Sectiunea <strong>{name}</strong> a fost create.

@@ -962,6 +962,7 @@ edit_section => 编辑版块
 edit_sections => 编辑版块
 include_in_search => 包含在网站搜索中
 on_front_page => 在首页显示
+search_sections =>
 section => 版块
 sections => 版块
 section_created => 版块 <strong>{name}</strong> 已建立。

@@ -962,6 +962,7 @@ edit_section => Sektion bearbeiten
 edit_sections => Sektionen bearbeiten
 include_in_search => In Seitensuche einbeziehen?
 on_front_page => Auf der Startseite anzeigen?
+search_sections =>
 section => Sektion
 sections => Sektionen
 section_created => Sektion <strong><a href="#section-{name}">{name}</a></strong> erstellt.

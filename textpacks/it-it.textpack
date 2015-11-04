@@ -962,6 +962,7 @@ edit_section => Modifica sezione
 edit_sections => modifica sezioni
 include_in_search => Includi nel motore di ricerca?
 on_front_page => In prima pagina?
+search_sections =>
 section => Sezione
 sections => Sezioni
 section_created => Sezione <strong>{name}</strong> creata.

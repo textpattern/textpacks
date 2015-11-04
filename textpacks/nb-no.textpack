@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => endre seksjoner
 include_in_search => Inkluder i sidesøk?
 on_front_page => På forsiden?
+search_sections =>
 section => Seksjon
 sections => Seksjoner
 section_created =>

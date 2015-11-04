@@ -962,6 +962,7 @@ edit_section => Sửa mục
 edit_sections => sửa mục
 include_in_search => Cho phép tìm kiếm
 on_front_page => Hiện ở trang nhất
+search_sections =>
 section => Mục
 sections => Mục
 section_created => Đã tạo mục <strong>{name}</strong>.

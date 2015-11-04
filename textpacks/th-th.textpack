@@ -962,6 +962,7 @@ edit_section =>
 edit_sections => แก้ไขส่วน
 include_in_search => ให้ค้นหาได้
 on_front_page => ไว้ที่หน้าแรก
+search_sections =>
 section => ส่วน
 sections => ส่วน
 section_created => Section <strong>{name}</strong> แล้ว

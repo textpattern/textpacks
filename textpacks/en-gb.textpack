@@ -962,6 +962,7 @@ edit_section => Edit section
 edit_sections => edit sections
 include_in_search => Include this section in site search?
 on_front_page => Section appears on front page?
+search_sections =>
 section => Section
 sections => Sections
 section_created => Section <strong>{name}</strong> created.

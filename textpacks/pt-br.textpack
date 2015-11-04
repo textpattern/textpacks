@@ -962,6 +962,7 @@ edit_section => Editar seção
 edit_sections => editar seções
 include_in_search => Incluir na pesquisa do site?
 on_front_page => Na página inicial?
+search_sections =>
 section => Seção
 sections => Seções
 section_created => A Seção <strong>{name}</strong> foi criada.

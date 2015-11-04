@@ -962,6 +962,7 @@ edit_section => Muokkaa osiota
 edit_sections => muokkaa osioita
 include_in_search => Sivuston haussa mukana?
 on_front_page => Etusivulla?
+search_sections =>
 section => Osio
 sections => Osiot
 section_created => Osio <strong>{name}</strong> luotu.

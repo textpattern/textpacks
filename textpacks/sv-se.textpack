@@ -962,6 +962,7 @@ edit_section => Redigera avdelning
 edit_sections => redigera avdelningar
 include_in_search => Inkludera i sökning på sajten
 on_front_page => På startsidan
+search_sections =>
 section => Avdelning
 sections => Avdelningar
 section_created => Avdelningen <strong>{name}</strong> skapades.
