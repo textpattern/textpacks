@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => Link text
 link_updated => A(z) <strong>{name}</strong> link frissítve.
 no_links_recorded => Nem lett link rögzítve.
+search_links =>
 #@list
 article_modified => Módosítva
 manage => Karbantartás

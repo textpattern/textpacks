@@ -536,6 +536,7 @@ link_save_failed => Länken kunde inte sparas
 link_text => Länktext
 link_updated => Länken <strong>{name}</strong> uppdaterades.
 no_links_recorded => Inga länkar inlagda.
+search_links =>
 #@list
 article_modified => Ändrad
 manage => Hantera

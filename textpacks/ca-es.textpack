@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => Text de l’enllaç
 link_updated => S’ha actualitzat l’enllaç <strong>{name}</strong>.
 no_links_recorded => No s’ha registrat cap enllaç.
+search_links =>
 #@list
 article_modified =>
 manage =>

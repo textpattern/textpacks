@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => Tekst veze
 link_updated => Veza <strong>{name}</strong> ažurirana.
 no_links_recorded => Nijedna veza nije snimljena.
+search_links =>
 #@list
 article_modified => Promijenjen
 manage => Upravljanje

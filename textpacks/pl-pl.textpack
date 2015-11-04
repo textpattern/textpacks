@@ -536,6 +536,7 @@ link_save_failed => Nie udało się zapisać odsyłacza.
 link_text => Tekst odsyłacza
 link_updated => Odsyłacz <strong>{name}</strong> został auaktualniony.
 no_links_recorded => Brak odsyłaczy.
+search_links =>
 #@list
 article_modified => Zmodyfikowany
 manage => Zarządzaj

@@ -536,6 +536,7 @@ link_save_failed => Não foi possivel guardar o link.
 link_text => Texto da ligação
 link_updated => A ligação <strong>{name}</strong> foi actualizada.
 no_links_recorded => Nenhuma ligação até agora.
+search_links =>
 #@list
 article_modified => Modificado
 manage => Administração

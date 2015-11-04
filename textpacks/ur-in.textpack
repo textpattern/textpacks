@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => ربطی متن
 link_updated => ربط <strong>{name}</strong> تازہ کیا
 no_links_recorded => کوئی ربط دستیاب نہیں
+search_links =>
 #@list
 article_modified => ترمیم کیا
 manage => بندوبست کریں

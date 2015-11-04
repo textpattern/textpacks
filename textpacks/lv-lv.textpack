@@ -536,6 +536,7 @@ link_save_failed => Saiti neizdevās saglabāt.
 link_text => Saites teksts
 link_updated => Saites <strong>{name}</strong> izmainītas.
 no_links_recorded => Nav nevienas saites.
+search_links =>
 #@list
 article_modified => Izmainīts
 manage => Pārvaldīt

@@ -536,6 +536,7 @@ link_save_failed => Посилання не може бути збережено
 link_text => Текст посилання
 link_updated => Оновлено посилання <strong>{name}</strong>.
 no_links_recorded => Немає посилань
+search_links =>
 #@list
 article_modified => Зміни в статті
 manage => Керування

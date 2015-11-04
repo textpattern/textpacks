@@ -536,6 +536,7 @@ link_save_failed => Le lien ne peut être sauvegardé.
 link_text => Informations sur le lien
 link_updated => Lien(s) <strong>{name}</strong> mis à jour.
 no_links_recorded => Aucun lien hypertexte enregistré.
+search_links =>
 #@list
 article_modified => Modifié
 manage => Gérer

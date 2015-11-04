@@ -536,6 +536,7 @@ link_save_failed => Salvataggio del link non riuscito.
 link_text => Testo del link
 link_updated => Link <strong>{name}</strong> aggiornato.
 no_links_recorded => Nessun link registrato.
+search_links =>
 #@list
 article_modified => Modificato
 manage => Gestisci

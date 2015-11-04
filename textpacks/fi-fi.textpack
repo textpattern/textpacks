@@ -536,6 +536,7 @@ link_save_failed => Linkkiä ei tallennettu virheen seurauksena. Ole hyvä ja yr
 link_text => Linkkiteksti
 link_updated => Linkki <strong>{name}</strong> muutettu.
 no_links_recorded => Ei tallennettuja linkkejä.
+search_links =>
 #@list
 article_modified => Muokattu
 manage => Järjestele

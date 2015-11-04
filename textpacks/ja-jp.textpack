@@ -536,6 +536,7 @@ link_save_failed => リンクを保存できませんでした
 link_text => リンクテキスト
 link_updated => リンク <strong>{name}</strong>は更新されました。
 no_links_recorded => リンクが登録されていません。
+search_links =>
 #@list
 article_modified => 最終更新日
 manage => 管理

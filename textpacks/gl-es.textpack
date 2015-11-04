@@ -536,6 +536,7 @@ link_save_failed => Non se puido gardar a ligazón
 link_text => Texto da ligazón
 link_updated => Ligazón(s) <strong>{name}</strong> actualizado(s).
 no_links_recorded => Ningunha ligazón gardada.
+search_links =>
 #@list
 article_modified => Modificado
 manage => Xestionar

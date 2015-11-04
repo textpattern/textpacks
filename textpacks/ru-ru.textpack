@@ -536,6 +536,7 @@ link_save_failed => Ошибка! Ссылка не сохранена, попр
 link_text => Текст ссылки
 link_updated => Обновлена ссылка <strong>{name}</strong>.
 no_links_recorded => Нет ссылок.
+search_links =>
 #@list
 article_modified => Изменения в статье
 manage => Управление

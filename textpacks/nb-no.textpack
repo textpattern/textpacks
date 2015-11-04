@@ -536,6 +536,7 @@ link_save_failed => Lenken kan ikke lagres.
 link_text => Tekst på lenge
 link_updated => Lenke <strong>{name}</strong> oppdatert.
 no_links_recorded => Ingen lenker finnes.
+search_links =>
 #@list
 article_modified => Modifisert
 manage => Administrer

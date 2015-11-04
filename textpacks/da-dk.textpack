@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => Link tekst
 link_updated => Link <strong>{name}</strong> opdateret.
 no_links_recorded => Ingen links fundet.
+search_links =>
 #@list
 article_modified => Ændret
 manage => Administrer

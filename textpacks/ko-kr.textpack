@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => 링크 텍스트
 link_updated => <strong>{name}</strong> 링크를 갱신했습니다.
 no_links_recorded => 링크를 기록하지 않았습니다.
+search_links =>
 #@list
 article_modified => 변경함
 manage => 관리

@@ -536,6 +536,7 @@ link_save_failed => Không thể lưu lại liên kết.
 link_text => Link text
 link_updated => Đã cập nhật liên kết <strong>{name}</strong>.
 no_links_recorded => Không có liên kết nào cả.
+search_links =>
 #@list
 article_modified => Đã sửa
 manage => Quản trị

@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => 鏈結文字
 link_updated => 已更新鏈結 <strong>{name}</strong>.
 no_links_recorded => 目前沒有鏈結.
+search_links =>
 #@list
 article_modified =>
 manage => 管理

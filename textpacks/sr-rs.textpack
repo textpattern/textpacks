@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => Линк текст
 link_updated => Линк <strong>{name}</strong> обновљен.
 no_links_recorded => Нема снимљених линкова.
+search_links =>
 #@list
 article_modified => Промењено
 manage => Управљање

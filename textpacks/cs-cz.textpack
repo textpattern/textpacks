@@ -536,6 +536,7 @@ link_save_failed => Odkaz nemohl být uložen.
 link_text => Text odkazu
 link_updated => Odkaz <strong>{name}</strong> upraven.
 no_links_recorded => Neexistují žádné odkazy.
+search_links =>
 #@list
 article_modified => Pozměněno
 manage => Správa

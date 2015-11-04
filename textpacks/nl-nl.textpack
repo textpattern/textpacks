@@ -536,6 +536,7 @@ link_save_failed => De link kan niet worden opgeslagen.
 link_text => Linktekst
 link_updated => Link <strong>{name}</strong> vernieuwd.
 no_links_recorded => Er zijn geen links.
+search_links =>
 #@list
 article_modified => Wijzigingsdatum
 manage => Aanpassen

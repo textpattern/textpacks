@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => Bağlantı metini
 link_updated => Bağlantı <strong>{name}</strong> güncellendi.
 no_links_recorded => Bağlantı mevcut değil.
+search_links =>
 #@list
 article_modified => Değiştirildi
 manage => Yönet

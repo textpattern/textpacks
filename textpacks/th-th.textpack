@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => ข้อความลิงก์
 link_updated => ปรับปรุงลิงก์ <strong>{name}</strong> แล้ว
 no_links_recorded => ไม่มีการบันทึกลิงก์
+search_links =>
 #@list
 article_modified => แก้ไขเมื่อ
 manage => จัดการ

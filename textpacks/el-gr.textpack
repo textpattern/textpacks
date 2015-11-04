@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => Κείμενο συνδέσμου
 link_updated => Ο σύνδεσμος <strong>{name}</strong> ενημερώθηκε.
 no_links_recorded => Δεν υπάρχουν σύνδεσμοι.
+search_links =>
 #@list
 article_modified => Τροποποιήθηκε
 manage => Διαχείριση

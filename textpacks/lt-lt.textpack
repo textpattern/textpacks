@@ -536,6 +536,7 @@ link_save_failed => Nuoroda negali būti išsaugota.
 link_text => Nuorodos tekstas
 link_updated => Nuoroda(os) <strong>{name}</strong> atnaujinta(os).
 no_links_recorded => Nėra jokių nuorodų.
+search_links =>
 #@list
 article_modified => Pakeistas
 manage => Tvarkyti

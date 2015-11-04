@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => Textul link-ului
 link_updated => Link-ul <strong>{name}</strong> a fost update-uit.
 no_links_recorded => Nici un link salvat.
+search_links =>
 #@list
 article_modified => Modificat
 manage => Intretine

@@ -536,6 +536,7 @@ link_save_failed =>
 link_text => Texti með tengli
 link_updated =>
 no_links_recorded =>
+search_links =>
 #@list
 article_modified =>
 manage =>

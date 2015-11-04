@@ -536,6 +536,7 @@ link_save_failed => لینک ذخیره نشد
 link_text => متن لینک
 link_updated => لینک <strong>{name}</strong> بهنگام شد.
 no_links_recorded => هیچ لینکی ثبت نشده است.
+search_links =>
 #@list
 article_modified => تغییر یافته
 manage => مدیریت

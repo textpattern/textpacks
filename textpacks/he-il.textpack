@@ -536,6 +536,7 @@ link_save_failed => לא ניתן לשמור את הקישור.
 link_text => טקסט הקישור
 link_updated => הקישור <strong>{name}</strong> עודכן.
 no_links_recorded => שום קישור לא סודר.
+search_links =>
 #@list
 article_modified => נערך
 manage => נהל
