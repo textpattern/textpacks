@@ -1222,3 +1222,6 @@ title_separator => שם האתר: מפריד מאמר פרטי
 useful_tags => תגים שימושיים
 use_thumbnail => להשתמש בתמונה מוקטנת ?
 wraptag => תג גלישה
+#@user
+search_users =>
+

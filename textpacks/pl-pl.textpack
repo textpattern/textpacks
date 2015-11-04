@@ -1222,3 +1222,6 @@ title_separator => Separator tytułu
 useful_tags => Przydatne znaczniki
 use_thumbnail => Używać miniatur?
 wraptag => Obejmij tagiem
+#@user
+search_users =>
+

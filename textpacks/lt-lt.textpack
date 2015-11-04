@@ -1222,3 +1222,6 @@ title_separator => Atskiro straipsnio ir svetainės pavadinimo skirtukas
 useful_tags => Naudingos žymos
 use_thumbnail => Naudoti miniatiūras?
 wraptag => Skaidyti žymę
+#@user
+search_users =>
+

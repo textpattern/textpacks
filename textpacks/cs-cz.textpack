@@ -1222,3 +1222,6 @@ title_separator => Oddělovač záhlaví (server - článek)
 useful_tags => Užitečné příkazy
 use_thumbnail => Použít náhledy?
 wraptag => Vnější obal
+#@user
+search_users =>
+

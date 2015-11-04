@@ -1222,3 +1222,6 @@ title_separator => Nom du site et séparateur individuel d’article
 useful_tags => Balises utiles
 use_thumbnail => Utiliser une miniature ?
 wraptag => Balise entourante
+#@user
+search_users =>
+

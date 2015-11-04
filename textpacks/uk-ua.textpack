@@ -1222,3 +1222,6 @@ title_separator => Роздільник статті і імені сайту
 useful_tags => Корисні теги
 use_thumbnail => Використовувати зменшені зображення?
 wraptag => Обернути в тег
+#@user
+search_users =>
+

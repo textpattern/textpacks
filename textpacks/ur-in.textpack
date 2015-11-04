@@ -1222,3 +1222,6 @@ title_separator =>
 useful_tags =>
 use_thumbnail =>
 wraptag =>
+#@user
+search_users =>
+

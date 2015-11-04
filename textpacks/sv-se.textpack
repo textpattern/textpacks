@@ -1222,3 +1222,6 @@ title_separator => Avgränsare mellan artikel och webbplatsens namn
 useful_tags => Användbara taggar
 use_thumbnail => Använd tumnaglar?
 wraptag => Omslut med
+#@user
+search_users =>
+

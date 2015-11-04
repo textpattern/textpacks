@@ -1222,3 +1222,6 @@ title_separator => جداکننده ی نام سایت و مقاله ی مجزا
 useful_tags => تگ‌های مفید
 use_thumbnail => استفاده از تصاویر کوچک؟
 wraptag => برچسب Wrap
+#@user
+search_users =>
+

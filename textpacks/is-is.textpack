@@ -1222,3 +1222,6 @@ title_separator => Síðunafn: Greinarskiptir
 useful_tags => Nothæf tög
 use_thumbnail =>
 wraptag => Innpökkunartag
+#@user
+search_users =>
+

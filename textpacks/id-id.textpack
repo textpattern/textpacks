@@ -1222,3 +1222,6 @@ title_separator => Artikel individual dan pemisah nama situs
 useful_tags => Tag Berguna
 use_thumbnail => Gunakan gambar-kecil?
 wraptag => Pemisah tag
+#@user
+search_users =>
+

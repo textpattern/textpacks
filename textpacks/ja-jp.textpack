@@ -1222,3 +1222,6 @@ title_separator => 個別記事とサイト名のセパレータ
 useful_tags => よく使うタグ
 use_thumbnail => サムネイルを使いますか？
 wraptag =>
+#@user
+search_users =>
+

@@ -1222,3 +1222,6 @@ title_separator => Nome da bitácora: Separador de artigo individual
 useful_tags => Etiquetas útiles
 use_thumbnail => Usar miniatura?
 wraptag => Etiqueta Contenedora
+#@user
+search_users =>
+

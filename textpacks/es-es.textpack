@@ -1222,3 +1222,6 @@ title_separator => Separador de artículo individual y del nombre del sitio
 useful_tags => Etiquetas útiles
 use_thumbnail => ¿Usar miniatura?
 wraptag => Etiqueta contenedora
+#@user
+search_users =>
+

@@ -1222,3 +1222,6 @@ title_separator => 개별 글, 사이트 이름 분리자
 useful_tags => 유용한 태그들
 use_thumbnail => 썸네일 사용
 wraptag => 태그 감싸기
+#@user
+search_users =>
+

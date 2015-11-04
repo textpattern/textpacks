@@ -1222,3 +1222,6 @@ title_separator => فاصل أحادي للمقال
 useful_tags => معالم مفيدة
 use_thumbnail =>
 wraptag => معلم محيط
+#@user
+search_users =>
+

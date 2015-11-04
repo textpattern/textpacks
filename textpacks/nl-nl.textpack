@@ -1222,3 +1222,6 @@ title_separator => Separator tussen site- en artikelnaam
 useful_tags => Overzicht tags
 use_thumbnail => Mini-afbeelding gebruiken?
 wraptag => Omvattende tag
+#@user
+search_users =>
+

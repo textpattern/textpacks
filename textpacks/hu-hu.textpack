@@ -1222,3 +1222,6 @@ title_separator => Weboldal neve: Személyes cikk választó
 useful_tags => Hasznos tagek
 use_thumbnail => Használjon előnézeti kis képeket?
 wraptag => Csomagoló
+#@user
+search_users =>
+

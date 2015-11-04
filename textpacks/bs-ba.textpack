@@ -1222,3 +1222,6 @@ title_separator => Razdvajač pojedinačnog članka i naziva sajta
 useful_tags => Korisne oznake (tagovi)
 use_thumbnail => Koristi sličice?
 wraptag => Omotaj oznaku (tag)
+#@user
+search_users =>
+

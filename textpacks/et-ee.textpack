@@ -1222,3 +1222,6 @@ title_separator => Saidinimi: Artiklite eraldaja
 useful_tags => Kasulikud tagid
 use_thumbnail =>
 wraptag => Wraptag
+#@user
+search_users =>
+

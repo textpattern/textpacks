@@ -1222,3 +1222,6 @@ title_separator => Kişisel makale ve site adı ayıracı
 useful_tags => Yararlı etiketler
 use_thumbnail => Küçük görseller (thumbnail) kullanılsın mı?
 wraptag => Wrap tag
+#@user
+search_users =>
+

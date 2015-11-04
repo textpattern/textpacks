@@ -1222,3 +1222,6 @@ title_separator => Artikkelin ja sivuston nimen erottaja
 useful_tags => Hyödyllisiä tageja
 use_thumbnail => Käytä pienoiskuvia?
 wraptag => Ympäröivä tagi
+#@user
+search_users =>
+

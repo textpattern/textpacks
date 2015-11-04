@@ -1222,3 +1222,6 @@ title_separator => Име на сайта: Индивидуален раздел
 useful_tags => Полезни тагове
 use_thumbnail => Да ползва ли малки изображения?
 wraptag => Таг за обграждане
+#@user
+search_users =>
+

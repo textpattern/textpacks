@@ -1222,3 +1222,6 @@ title_separator => Separator individualalnih unosa i imena site-a
 useful_tags => Korisni tagovi
 use_thumbnail => Koristi thumbnail?
 wraptag => Wrap tag
+#@user
+search_users =>
+

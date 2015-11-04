@@ -1222,3 +1222,6 @@ title_separator => Lapas nosaukums: Indivituālo ierakstu atdalītājs
 useful_tags => Noderīgas birkas
 use_thumbnail => Izmantot sīktēlu?
 wraptag => Aptverošā birka
+#@user
+search_users =>
+

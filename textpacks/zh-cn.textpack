@@ -1222,3 +1222,6 @@ title_separator => 单篇文章与网站名称分隔符
 useful_tags => 常用标签
 use_thumbnail => 使用缩略图？
 wraptag => 包裹标签
+#@user
+search_users =>
+

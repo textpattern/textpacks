@@ -1222,3 +1222,6 @@ title_separator => Oddeľovač titulky (stránka - článok)
 useful_tags => Užitočné príkazy
 use_thumbnail =>
 wraptag => Obaľovacia značka
+#@user
+search_users =>
+

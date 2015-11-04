@@ -1222,3 +1222,6 @@ title_separator => Numele site-ului: Separator individual de articol
 useful_tags => Tag-uri utile
 use_thumbnail => Foloseste thumbnail-ul?
 wraptag => Tag de impachetare (wrap)
+#@user
+search_users =>
+

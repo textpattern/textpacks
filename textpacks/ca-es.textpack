@@ -1222,3 +1222,6 @@ title_separator => Nom del lloc: separador d’articles individuals
 useful_tags => Etiquetes útils
 use_thumbnail => Utilitzar miniatura?
 wraptag => Etiqueta contenidora
+#@user
+search_users =>
+
