@@ -411,6 +411,7 @@ list_discussions => Commentaires
 name_used => Nom utilisé
 no_comments_recorded => Pas encore de commentaire enregistré.
 no_ips_banned => Aucune adresse IP n’a encore été bannie.
+search_comments =>
 show => Afficher
 show_spam => Afficher les spams
 unban => Dé-bannir

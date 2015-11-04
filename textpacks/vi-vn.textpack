@@ -411,6 +411,7 @@ list_discussions => Bình chú
 name_used => Tên được dùng
 no_comments_recorded => Không có bình chú nào.
 no_ips_banned => Không ban địa chỉ IP nào.
+search_comments =>
 show => Hiện
 show_spam => Hiển thị spam
 unban => Bỏ cấm

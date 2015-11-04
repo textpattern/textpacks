@@ -411,6 +411,7 @@ list_discussions => 댓글
 name_used => 이름
 no_comments_recorded => 댓글을 기록하지 않았습니다.
 no_ips_banned => 차단한 IP가 없습니다
+search_comments =>
 show => 보여주기
 show_spam => 스팸 댓글 보여주기
 unban => 차단해제

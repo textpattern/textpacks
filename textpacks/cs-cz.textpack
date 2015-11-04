@@ -411,6 +411,7 @@ list_discussions => Výpis komentářů
 name_used => Uvedené jméno
 no_comments_recorded => K tomuto článku zatím nejsou žádné komentáře.
 no_ips_banned => Dosud žádné zakázané IP adresy.
+search_comments =>
 show => Zobrazit
 show_spam => Zobrazit spam
 unban => Povolit

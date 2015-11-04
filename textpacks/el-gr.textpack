@@ -411,6 +411,7 @@ list_discussions => Σχόλια
 name_used => Όνομα που χρησιμοποιήθηκε
 no_comments_recorded => Δεν έχουν ακόμα καταγραφεί σχόλια.
 no_ips_banned => Δεν έχει απαγορευτεί η πρόσβαση σε καμιά διεύθυνση IP.
+search_comments =>
 show => Προβολή
 show_spam =>
 unban => Άρση απαγόρευσης

@@ -411,6 +411,7 @@ list_discussions => Comments
 name_used => Name used
 no_comments_recorded => No comments recorded.
 no_ips_banned => No IP addresses have been banned.
+search_comments =>
 show => Show
 show_spam => Show spam
 unban => Unban

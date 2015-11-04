@@ -411,6 +411,7 @@ list_discussions => 评论列表
 name_used => 使用的姓名
 no_comments_recorded => 没有评论记录。
 no_ips_banned => 没有 IP 地址被禁止。
+search_comments =>
 show => 显示
 show_spam => 显示 Spam
 unban => 解禁

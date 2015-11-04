@@ -411,6 +411,7 @@ list_discussions => 迴響列表
 name_used => 名稱已使用
 no_comments_recorded => 目前沒有迴響
 no_ips_banned => 目前沒有 IP 被禁止
+search_comments =>
 show => 顯示
 show_spam =>
 unban => 解除禁止

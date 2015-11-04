@@ -411,6 +411,7 @@ list_discussions => نظرات
 name_used => نام استفاده شده
 no_comments_recorded => هیچ نظری ثبت نشده است
 no_ips_banned => هیچ IPی منع نشده است.
+search_comments =>
 show => نمایش
 show_spam => نمایش اسپم
 unban => لغو ممنوعیت

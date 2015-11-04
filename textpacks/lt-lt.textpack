@@ -411,6 +411,7 @@ list_discussions => Komentarai
 name_used => Panaudotas vardas
 no_comments_recorded => Komentarų nėra.
 no_ips_banned => Uždraustų IP adresų nėra.
+search_comments =>
 show => Rodyti
 show_spam => Rodyti brukalus
 unban => Leisti

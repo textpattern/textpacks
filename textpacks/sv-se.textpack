@@ -411,6 +411,7 @@ list_discussions => Kommentarer
 name_used => Namn som användes
 no_comments_recorded => Inga kommentarer inlagda.
 no_ips_banned => Inga IP-nr har blockerats
+search_comments =>
 show => Visa
 show_spam => Visa spam
 unban => Avblockera

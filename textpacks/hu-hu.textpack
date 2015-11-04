@@ -411,6 +411,7 @@ list_discussions => hozzászólások listája
 name_used => A név használatban
 no_comments_recorded => Még nincsenek tárolva megjegyzések.
 no_ips_banned => Nincsenek tiltott IP címek
+search_comments =>
 show => Mutat
 show_spam => Spam-ek mutatása
 unban => Tiltás törlése

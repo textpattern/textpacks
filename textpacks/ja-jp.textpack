@@ -411,6 +411,7 @@ list_discussions => コメント
 name_used => 使用された名前
 no_comments_recorded => コメントはありません
 no_ips_banned => 禁止されたIPアドレス はありません
+search_comments =>
 show => 表示
 show_spam => Spamの表示
 unban => 禁止解除

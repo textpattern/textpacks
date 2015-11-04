@@ -411,6 +411,7 @@ list_discussions => Список комментариев
 name_used => Использовано имя
 no_comments_recorded => Комментариев еще нет.
 no_ips_banned => Нет запрещенных IP адресов.
+search_comments =>
 show => Показать
 show_spam => Показать спам
 unban => Разблокировать

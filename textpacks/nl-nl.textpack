@@ -411,6 +411,7 @@ list_discussions => Reacties
 name_used => Gebruikte naam
 no_comments_recorded => Er zijn nog geen reacties.
 no_ips_banned => Er zijn nog geen IP’s geblokkeerd.
+search_comments =>
 show => Zichbaar maken
 show_spam => Spam tonen
 unban => Deblokkeren

@@ -411,6 +411,7 @@ list_discussions => ความเห็น
 name_used => ชื่อที่ใช้
 no_comments_recorded => ไม่มีการบันทึกความคิดเห็น
 no_ips_banned => ไม่มีการห้ามหมายเลข IP
+search_comments =>
 show => แสดง
 show_spam =>
 unban => เลิกห้าม

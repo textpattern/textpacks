@@ -411,6 +411,7 @@ list_discussions => Yorumlar
 name_used => İsim kullanımda
 no_comments_recorded => Yorum kaydına rastlanmadı
 no_ips_banned => Erişimi yasaklanmış IP adresi bulunmuyor.
+search_comments =>
 show => Göster
 show_spam => Spam mesajları göster
 unban => Erişim engellemeyi kaldır

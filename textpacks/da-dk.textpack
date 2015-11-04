@@ -411,6 +411,7 @@ list_discussions => Kommentarer
 name_used => Brugt navn
 no_comments_recorded => Ingen kommentarer postet endnu.
 no_ips_banned => Ingen IPer er blevet udelukket.
+search_comments =>
 show => Vis
 show_spam => Vis spam
 unban => Fjern udelukkelse

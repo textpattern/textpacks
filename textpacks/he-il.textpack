@@ -411,6 +411,7 @@ list_discussions => הצג רשימת תגובות
 name_used => שם שהשתמשו בו
 no_comments_recorded => עדיין לא נרשמה שום תגובה.
 no_ips_banned => לא נחסם שום IP.
+search_comments =>
 show => הצג
 show_spam => הצג ספאם
 unban => בטל חסימה

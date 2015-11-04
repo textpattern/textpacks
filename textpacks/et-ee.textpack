@@ -411,6 +411,7 @@ list_discussions => kommentaariloetelu
 name_used =>
 no_comments_recorded => Kommentaare ei ole veel.
 no_ips_banned => Ühtki IP-d pole keelatud.
+search_comments =>
 show =>
 show_spam =>
 unban => Taasta

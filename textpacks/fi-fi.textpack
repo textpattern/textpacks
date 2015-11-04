@@ -411,6 +411,7 @@ list_discussions => Kommentit
 name_used => Käytetty nimi
 no_comments_recorded => Ei tallennettuja kommentteja.
 no_ips_banned => Ei IP:tä estettynä.
+search_comments =>
 show => Näytä
 show_spam => Näytä roskaposti
 unban => Pura esto

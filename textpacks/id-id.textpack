@@ -411,6 +411,7 @@ list_discussions => daftar komentar
 name_used =>
 no_comments_recorded => Tidak ada komentar masuk
 no_ips_banned => Tidak ada IP terblok
+search_comments =>
 show =>
 show_spam => Menampilkan Spam
 unban => Tidak Cegah

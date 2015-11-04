@@ -411,6 +411,7 @@ list_discussions => Komentāru saraksts
 name_used => Izmantotais vārds
 no_comments_recorded => Nav neviena komentāra.
 no_ips_banned => Nevienam IP nav liegta pieeja.
+search_comments =>
 show => Rādīt
 show_spam => Rādīt spama komentārus
 unban => Atļaujt pieeju

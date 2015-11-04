@@ -411,6 +411,7 @@ list_discussions => تبصرے
 name_used => استمعال کیا نام
 no_comments_recorded => کوئی تبصرہ دستیاب نہیں
 no_ips_banned => کوئی IPپتہ پر بندش نہیں ہے
+search_comments =>
 show => نمودار کریں
 show_spam => spam تبصرے نمائش کریں
 unban => بندش اٹھاؤ

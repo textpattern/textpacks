@@ -411,6 +411,7 @@ list_discussions => Vis liste over kommentarer
 name_used => Navnet brukes
 no_comments_recorded => Ingen kommentar lagret ennå.
 no_ips_banned => Ingen IP har blitt bannlyst.
+search_comments =>
 show => Vise
 show_spam => Vise spam
 unban => Fjern forbud

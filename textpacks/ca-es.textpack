@@ -411,6 +411,7 @@ list_discussions => Llista de comentaris
 name_used => Nom utilitzat
 no_comments_recorded => Encara no s’ha registrar cap comentari.
 no_ips_banned => No s’ha bloquejat cap IP.
+search_comments =>
 show => Mostra
 show_spam => Mostra spam
 unban => Desbloqueja

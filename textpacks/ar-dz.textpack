@@ -411,6 +411,7 @@ list_discussions => عرض التعليقات
 name_used =>
 no_comments_recorded => لم يسجل تعليق بعد
 no_ips_banned => (IP) لم ينف أي عنوان
+search_comments =>
 show =>
 show_spam =>
 unban => إلغاء النفي

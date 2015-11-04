@@ -411,6 +411,7 @@ list_discussions => Kommentare auflisten
 name_used => Verwendete Namen
 no_comments_recorded => Keine Kommentare verfügbar.
 no_ips_banned => Es gibt keine gesperrten IP-Adressen.
+search_comments =>
 show => Zeige
 show_spam => Spam anzeigen
 unban => Entsperren

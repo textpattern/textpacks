@@ -411,6 +411,7 @@ list_discussions => zoznam komentárov
 name_used =>
 no_comments_recorded => Zatiaľ žiadne komentáre
 no_ips_banned => Zatiaľ nie sú zakázané žiadne IP adresy
+search_comments =>
 show =>
 show_spam =>
 unban => Povoliť

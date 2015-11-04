@@ -411,6 +411,7 @@ list_discussions => Коментарі
 name_used => Використано ім'я
 no_comments_recorded => Коментарів немає.
 no_ips_banned => Немає заблокованих IP адрес.
+search_comments =>
 show => Показати
 show_spam => Показати спам
 unban => Розблокувати

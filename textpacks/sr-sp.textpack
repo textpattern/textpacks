@@ -411,6 +411,7 @@ list_discussions => Komentari
 name_used => Upotrebljeno ime
 no_comments_recorded => Nema zabeleženih komentara.
 no_ips_banned => Nema IP adresa sa ban-om.
+search_comments =>
 show => Prikaži
 show_spam => Prikaži Spam
 unban => Unban

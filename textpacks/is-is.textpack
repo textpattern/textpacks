@@ -411,6 +411,7 @@ list_discussions => Lista skoðanir
 name_used =>
 no_comments_recorded => Engar skoðanir skráðar enn.
 no_ips_banned => Engar IP tölur hafa verið bannaðar.
+search_comments =>
 show =>
 show_spam =>
 unban => Afbanna

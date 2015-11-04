@@ -411,6 +411,7 @@ list_discussions => Lista comentarii
 name_used => Nume folosit
 no_comments_recorded => Nu s-a primit nici un comentariu
 no_ips_banned => Nu a fost banat nici un IP
+search_comments =>
 show => Arata
 show_spam => Arata Spam
 unban => De-baneaza
