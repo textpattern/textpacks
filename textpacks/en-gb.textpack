@@ -1223,5 +1223,4 @@ useful_tags => Useful tags
 use_thumbnail => Use thumbnail?
 wraptag => Wrap tag
 #@user
-search_users =>
-
+search_users => Search users
