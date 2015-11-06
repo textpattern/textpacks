@@ -48,6 +48,7 @@ publisher => Публікатор
 real_name => Справжнє Ім'я
 resetpassword => Скинути пароль
 reset_author_password => Оновити пароль автора
+search_users => Пошук користувачів
 site_administration => Користувачі
 staff_writer => Штатний дописувач
 unknown_author => Невідомий автор: <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => Роздільник статті і імені сайту
 useful_tags => Корисні теги
 use_thumbnail => Використовувати зменшені зображення?
 wraptag => Обернути в тег
-#@user
-search_users => Пошук користувачів
