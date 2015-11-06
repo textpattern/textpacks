@@ -891,7 +891,7 @@ popup => popup
 post => Post
 posted => Posted
 posted_by => Posted by
-press_preview_then_submit => The following is a preview of what your comment will look like. When you are happy with your comment, click or tap the <strong><a href="#txpCommentSubmit" title="Go to the submit button">submit</a></strong> button.
+press_preview_then_submit => The following is a preview of what your comment will look like. When you are happy with your comment, use the <strong><a href="#txpCommentSubmit" title="Go to the submit button">submit</a></strong> button.
 prev => ← Prev
 preview => Preview
 publish => Publish
