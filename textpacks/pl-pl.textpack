@@ -48,6 +48,7 @@ publisher => Wydawca
 real_name => Imię i nazwisko
 resetpassword => Przywróć domyślne hasło
 reset_author_password => Przywróć domyślne hasło użytkownika
+search_users =>
 site_administration => Administracja witryny
 staff_writer => Redaktor
 unknown_author => Nieznany autor: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Separator tytułu
 useful_tags => Przydatne znaczniki
 use_thumbnail => Używać miniatur?
 wraptag => Obejmij tagiem
-#@user
-search_users =>

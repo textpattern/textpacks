@@ -48,6 +48,7 @@ publisher => Udgiver
 real_name => Rigtigt navn
 resetpassword =>
 reset_author_password => Nulstil forfatter kodeord
+search_users =>
 site_administration => Side Administration
 staff_writer => Fast skribent
 unknown_author => Ukendt forfatter: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Sidenavn: Individuel artikel seperator
 useful_tags => Nyttige tags
 use_thumbnail => Brug miniatur?
 wraptag => Wraptag
-#@user
-search_users =>

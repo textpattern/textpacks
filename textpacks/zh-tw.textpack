@@ -48,6 +48,7 @@ publisher => 出版者
 real_name => 名字
 resetpassword =>
 reset_author_password => 重設作者密碼
+search_users =>
 site_administration => 作者
 staff_writer => 撰稿人
 unknown_author =>
@@ -1222,5 +1223,3 @@ title_separator => 網站名稱及文章標題分隔符號
 useful_tags => 常用標籤
 use_thumbnail => 使用縮圖？
 wraptag => 包覆標籤
-#@user
-search_users =>

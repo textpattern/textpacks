@@ -48,6 +48,7 @@ publisher => 管理人
 real_name => 名前
 resetpassword => パスワードの再設定
 reset_author_password => ユーザのパスワードの再設定
+search_users =>
 site_administration => ユーザの管理
 staff_writer => 執筆スタッフ
 unknown_author => 不明なユーザ: <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => 個別記事とサイト名のセパレータ
 useful_tags => よく使うタグ
 use_thumbnail => サムネイルを使いますか？
 wraptag =>
-#@user
-search_users =>

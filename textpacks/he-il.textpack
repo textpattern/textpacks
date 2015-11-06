@@ -48,6 +48,7 @@ publisher => מפיץ
 real_name => שם אמיתי
 resetpassword => אפס סיסמה
 reset_author_password => אפס סיסמת כותב
+search_users =>
 site_administration => ניהול האתר
 staff_writer => צוות הכותבים
 unknown_author => כותב לא ידוע: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => שם האתר: מפריד מאמר פרטי
 useful_tags => תגים שימושיים
 use_thumbnail => להשתמש בתמונה מוקטנת ?
 wraptag => תג גלישה
-#@user
-search_users =>

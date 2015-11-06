@@ -48,6 +48,7 @@ publisher => Kiadó
 real_name => Valódi név
 resetpassword => Jelszó törlése
 reset_author_password => Szerző jelszavának törlése
+search_users =>
 site_administration => Weblap adminsztráció
 staff_writer => Író tag
 unknown_author => Ismeretlen szerző: <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => Weboldal neve: Személyes cikk választó
 useful_tags => Hasznos tagek
 use_thumbnail => Használjon előnézeti kis képeket?
 wraptag => Csomagoló
-#@user
-search_users =>

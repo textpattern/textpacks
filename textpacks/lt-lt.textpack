@@ -48,6 +48,7 @@ publisher => Leidėjas
 real_name => Tikrasis vardas
 resetpassword => Atstatyti slaptažodį
 reset_author_password => Atstatyti autoriaus slaptažodį
+search_users =>
 site_administration => Naudotojai
 staff_writer => Etatinis rašytojas
 unknown_author => Nežinomas autorius: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Atskiro straipsnio ir svetainės pavadinimo skirtukas
 useful_tags => Naudingos žymos
 use_thumbnail => Naudoti miniatiūras?
 wraptag => Skaidyti žymę
-#@user
-search_users =>

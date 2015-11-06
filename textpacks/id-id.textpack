@@ -48,6 +48,7 @@ publisher => Penerbit
 real_name => Nama Lengkap
 resetpassword => Tata ulang katasandi
 reset_author_password => Tataulang katasandi penulis
+search_users =>
 site_administration => Pengguna
 staff_writer => Staf penulis
 unknown_author => Penulis tak dikenal: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Artikel individual dan pemisah nama situs
 useful_tags => Tag Berguna
 use_thumbnail => Gunakan gambar-kecil?
 wraptag => Pemisah tag
-#@user
-search_users =>

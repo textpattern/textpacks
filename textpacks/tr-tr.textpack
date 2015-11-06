@@ -48,6 +48,7 @@ publisher => Yönetici
 real_name => Gerçek İsim
 resetpassword =>
 reset_author_password => Yazar şifresini yenileyin
+search_users =>
 site_administration => Kullanıcılar
 staff_writer => Yardımcı yazar
 unknown_author =>
@@ -1222,5 +1223,3 @@ title_separator => Kişisel makale ve site adı ayıracı
 useful_tags => Yararlı etiketler
 use_thumbnail => Küçük görseller (thumbnail) kullanılsın mı?
 wraptag => Wrap tag
-#@user
-search_users =>

@@ -48,6 +48,7 @@ publisher => Người xuất bản
 real_name => Tên thật
 resetpassword => Đặt lại mật khẩu
 reset_author_password => Đặt lại mật khẩu của tác giả
+search_users =>
 site_administration => Người dùng
 staff_writer => Người viết chuyên trách
 unknown_author => Không biết tác giả: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Tên trang: Phân cách từng bài viết
 useful_tags => Các thẻ hữu ích
 use_thumbnail => Dùng ảnh thu nhỏ?
 wraptag => Thẻ wrap
-#@user
-search_users =>

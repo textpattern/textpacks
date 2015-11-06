@@ -48,6 +48,7 @@ publisher => Útgefandi
 real_name => Rétt nafn
 resetpassword =>
 reset_author_password => Endursetja aðgangsorð höfundar
+search_users =>
 site_administration => Stjórnandi vefs
 staff_writer => Innanhúss höfundur
 unknown_author =>
@@ -1222,5 +1223,3 @@ title_separator => Síðunafn: Greinarskiptir
 useful_tags => Nothæf tög
 use_thumbnail =>
 wraptag => Innpökkunartag
-#@user
-search_users =>

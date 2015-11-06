@@ -48,6 +48,7 @@ publisher => Herausgeber
 real_name => Realer Name
 resetpassword => Passwort zurücksetzen
 reset_author_password => Das Passwort dieses Autors zurücksetzen?
+search_users =>
 site_administration => Seitenadministration
 staff_writer => Autor
 unknown_author => Unbekannter Autor: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Seitenname: Individueller Artikeltrenner
 useful_tags => Nützliche Tags
 use_thumbnail => Vorschaubild verwenden?
 wraptag => Wraptag
-#@user
-search_users =>

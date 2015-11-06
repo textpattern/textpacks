@@ -48,6 +48,7 @@ publisher => Izdevējs
 real_name => Vārds
 resetpassword => Atiestatīt paroli
 reset_author_password => Atiestatīt autora paroli
+search_users =>
 site_administration => Lapas administrācija
 staff_writer => Štata rakstnieks
 unknown_author => Nezināms autors: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Lapas nosaukums: Indivituālo ierakstu atdalītājs
 useful_tags => Noderīgas birkas
 use_thumbnail => Izmantot sīktēlu?
 wraptag => Aptverošā birka
-#@user
-search_users =>

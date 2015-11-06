@@ -48,6 +48,7 @@ publisher => Издавач
 real_name => Право име
 resetpassword => Ресетуј лозинку
 reset_author_password => Ресетуј ауторову лозинку
+search_users =>
 site_administration => Корисници
 staff_writer => Редакцијски писац
 unknown_author => Непознати аутор:
@@ -1222,5 +1223,3 @@ title_separator => Сепаратор индивидуалалних уноса 
 useful_tags => Корисни тагови
 use_thumbnail => Користи thumbnail?
 wraptag => Wrap tag
-#@user
-search_users =>

@@ -48,6 +48,7 @@ publisher => ناشر
 real_name => اصلی نام
 resetpassword => ‏پاس ورڈ‏ پھر سیٹ کریں
 reset_author_password => مصنف کا ‏پاس ورڈ‏ پھر سیٹ کریں
+search_users =>
 site_administration => صارفین
 staff_writer => اندرونی مصنف
 unknown_author => نامعلوم مصنف: <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator =>
 useful_tags =>
 use_thumbnail =>
 wraptag =>
-#@user
-search_users =>

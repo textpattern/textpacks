@@ -48,6 +48,7 @@ publisher => Publisher
 real_name => Real name
 resetpassword => Reset password
 reset_author_password => Reset author password
+search_users => Search users
 site_administration => Users
 staff_writer => Staff Writer
 unknown_author => Unknown author: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Individual article and site name separator
 useful_tags => Useful tags
 use_thumbnail => Use thumbnail?
 wraptag => Wrap tag
-#@user
-search_users => Search users

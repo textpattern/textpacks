@@ -48,6 +48,7 @@ publisher => مسير
 real_name => الاسم الحقيقي
 resetpassword => إعادة تعيين كلمة السر
 reset_author_password => إعادة تعيين كلمة السر الخاصة بالمؤلف
+search_users =>
 site_administration => إدارة
 staff_writer => محرر متقدم
 unknown_author => مؤلف مجهول :{name}
@@ -1222,5 +1223,3 @@ title_separator => فاصل أحادي للمقال
 useful_tags => معالم مفيدة
 use_thumbnail =>
 wraptag => معلم محيط
-#@user
-search_users =>

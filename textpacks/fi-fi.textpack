@@ -48,6 +48,7 @@ publisher => Julkaisija
 real_name => Oikea nimi
 resetpassword => Nollaa salasana
 reset_author_password => Nollaa käyttäjän salasana
+search_users =>
 site_administration => Sivuston hallinta
 staff_writer => Rivitoimittaja
 unknown_author => Tuntematon tekijä: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Artikkelin ja sivuston nimen erottaja
 useful_tags => Hyödyllisiä tageja
 use_thumbnail => Käytä pienoiskuvia?
 wraptag => Ympäröivä tagi
-#@user
-search_users =>

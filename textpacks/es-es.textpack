@@ -48,6 +48,7 @@ publisher => Editor
 real_name => Nombre real
 resetpassword => Cambiar contraseña
 reset_author_password => Cambiar la contraseña del autor
+search_users => Buscar usuarios
 site_administration => Usuarios
 staff_writer => Redactor de plantilla
 unknown_author => Autor desconocido: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Separador de artículo individual y del nombre del sitio
 useful_tags => Etiquetas útiles
 use_thumbnail => ¿Usar miniatura?
 wraptag => Etiqueta contenedora
-#@user
-search_users => Buscar usuarios

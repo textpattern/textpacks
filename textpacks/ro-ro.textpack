@@ -48,6 +48,7 @@ publisher => Director
 real_name => Numele real
 resetpassword => Reseteaza parola
 reset_author_password => Reseteaza parola autorului
+search_users =>
 site_administration => Utilizatori
 staff_writer => Autor sef
 unknown_author => Autor necunoscut: <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => Numele site-ului: Separator individual de articol
 useful_tags => Tag-uri utile
 use_thumbnail => Foloseste thumbnail-ul?
 wraptag => Tag de impachetare (wrap)
-#@user
-search_users =>

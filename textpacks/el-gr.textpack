@@ -48,6 +48,7 @@ publisher => Εκδότης
 real_name => Αληθινό όνομα
 resetpassword => Ανανέωση κωδικού πρόσβασης
 reset_author_password => Ανανέωση κωδικού πρόσβασης χρήστη
+search_users =>
 site_administration => Διαχείριση ιστοτόπου
 staff_writer => Συντάκτης
 unknown_author => Αγνωστός συντάκτης: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Όνομα ιστοτόπου: Διαχωριστικό με�
 useful_tags => Χρήσιμες ετικέτες
 use_thumbnail => Χρήση σμίκρυνσης
 wraptag => Ετικέτα–δοχείο
-#@user
-search_users =>

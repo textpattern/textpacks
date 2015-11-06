@@ -48,6 +48,7 @@ publisher => Vydavatel
 real_name => Jméno
 resetpassword => Zaslat nové heslo
 reset_author_password => Nové heslo pro autory
+search_users =>
 site_administration => Správa serveru
 staff_writer => Redakční autor
 unknown_author => Neznámý autor: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Oddělovač záhlaví (server - článek)
 useful_tags => Užitečné příkazy
 use_thumbnail => Použít náhledy?
 wraptag => Vnější obal
-#@user
-search_users =>

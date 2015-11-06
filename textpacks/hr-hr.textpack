@@ -48,6 +48,7 @@ publisher => Izdavač
 real_name => Pravo ime
 resetpassword =>
 reset_author_password => Resetiraj autorovu lozinku
+search_users =>
 site_administration => Korisnici
 staff_writer => Redakcijski Pisac
 unknown_author =>
@@ -1222,5 +1223,3 @@ title_separator => Separator individualalnih unosa i imena site-a
 useful_tags => Korisni tagovi
 use_thumbnail => Koristi thumbnail?
 wraptag => Wrap tag
-#@user
-search_users =>

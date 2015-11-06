@@ -48,6 +48,7 @@ publisher => Propietario(Publisher)
 real_name => Nome real
 resetpassword => Cambiar contrasinal
 reset_author_password => Sobre escribir o contrasinal do autor
+search_users =>
 site_administration => Adminstración da bitácora
 staff_writer => Escritor en plantel
 unknown_author => Autor descoñecido: <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => Nome da bitácora: Separador de artigo individual
 useful_tags => Etiquetas útiles
 use_thumbnail => Usar miniatura?
 wraptag => Etiqueta Contenedora
-#@user
-search_users =>

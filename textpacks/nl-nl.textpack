@@ -48,6 +48,7 @@ publisher => Beheerder
 real_name => Volledige naam
 resetpassword => Wachtwoord resetten
 reset_author_password => Reset medewerkers wachtwoord
+search_users => Medewerkers doorzoeken
 site_administration => Site Beheer
 staff_writer => Redacteur
 unknown_author => Onbekende medewerker: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Separator tussen site- en artikelnaam
 useful_tags => Overzicht tags
 use_thumbnail => Mini-afbeelding gebruiken?
 wraptag => Omvattende tag
-#@user
-search_users => Medewerkers doorzoeken

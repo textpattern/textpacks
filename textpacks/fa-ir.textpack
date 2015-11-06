@@ -48,6 +48,7 @@ publisher => ناشر
 real_name => نام حقیقی
 resetpassword => بازیابی گذرواژه
 reset_author_password => بازیابی گذرواژه نویسنده
+search_users =>
 site_administration => کاربران
 staff_writer => عضو تحریریه
 unknown_author => نویسنده ناشناس : <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => جداکننده ی نام سایت و مقاله ی مجزا
 useful_tags => تگ‌های مفید
 use_thumbnail => استفاده از تصاویر کوچک؟
 wraptag => برچسب Wrap
-#@user
-search_users =>

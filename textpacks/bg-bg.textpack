@@ -48,6 +48,7 @@ publisher => Издател
 real_name => Истинско име
 resetpassword => Обнови паролата
 reset_author_password => Обнови паролата на автора
+search_users =>
 site_administration => Потребители
 staff_writer => Щатен писател
 unknown_author => Неизвестен автор: <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => Име на сайта: Индивидуален раздел
 useful_tags => Полезни тагове
 use_thumbnail => Да ползва ли малки изображения?
 wraptag => Таг за обграждане
-#@user
-search_users =>

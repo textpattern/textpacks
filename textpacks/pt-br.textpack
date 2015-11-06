@@ -48,6 +48,7 @@ publisher => Proprietário
 real_name => Nome real
 resetpassword => Redefinir senha
 reset_author_password => Redefinir a senha do autor
+search_users =>
 site_administration => Configuração
 staff_writer => Escritor
 unknown_author => Autor desconhecido: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Nome do site: Separador de artigo individual
 useful_tags => Etiquetas úteis
 use_thumbnail => Usar miniaturas?
 wraptag => Etiqueta contentora
-#@user
-search_users =>

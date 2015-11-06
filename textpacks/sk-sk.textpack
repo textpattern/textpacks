@@ -48,6 +48,7 @@ publisher => Vydavateľ
 real_name => Skutočné meno
 resetpassword =>
 reset_author_password => Nové užívateľské heslo
+search_users =>
 site_administration => Správa stránok
 staff_writer => Redakčný autor
 unknown_author => Neznámy autor: <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => Oddeľovač titulky (stránka - článok)
 useful_tags => Užitočné príkazy
 use_thumbnail =>
 wraptag => Obaľovacia značka
-#@user
-search_users =>

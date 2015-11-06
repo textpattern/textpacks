@@ -48,6 +48,7 @@ publisher => Utgivare
 real_name => Namn
 resetpassword => Nollställ lösenord
 reset_author_password => Nollställ skribentlösenord
+search_users =>
 site_administration => Användare
 staff_writer => Redaktionsmedarbetare
 unknown_author => Okänd skribent: <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => Avgränsare mellan artikel och webbplatsens namn
 useful_tags => Användbara taggar
 use_thumbnail => Använd tumnaglar?
 wraptag => Omslut med
-#@user
-search_users =>

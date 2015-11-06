@@ -48,6 +48,7 @@ publisher => 出版商
 real_name => 姓名
 resetpassword => 重设密码
 reset_author_password => 重设作者密码
+search_users =>
 site_administration => 用户
 staff_writer => 撰稿人
 unknown_author => 未知作者：{name}
@@ -1222,5 +1223,3 @@ title_separator => 单篇文章与网站名称分隔符
 useful_tags => 常用标签
 use_thumbnail => 使用缩略图？
 wraptag => 包裹标签
-#@user
-search_users =>

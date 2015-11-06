@@ -48,6 +48,7 @@ publisher => Utgiver
 real_name => Virkelig navn
 resetpassword => Tilbakestilling av passord
 reset_author_password => Nullstill forfatterpassord
+search_users =>
 site_administration => Brukere
 staff_writer => Stabsskribent
 unknown_author => Ukjent forfatter: <strong>{name}</strong>.
@@ -1222,5 +1223,3 @@ title_separator => Nettsidenavn: Individuell Artikkel separator
 useful_tags => Hendige tagger
 use_thumbnail => Bruke miniatyrbilde?
 wraptag => Wraptag
-#@user
-search_users =>

@@ -48,6 +48,7 @@ publisher => 발행인
 real_name => 이름
 resetpassword => 비밀번호 초기화
 reset_author_password => 글쓴이 비밀번호 초기화
+search_users =>
 site_administration => 글쓴이
 staff_writer => 전담 필자
 unknown_author => 알수 없는 글쓴이 : <strong>{name}</strong>
@@ -1222,5 +1223,3 @@ title_separator => 개별 글, 사이트 이름 분리자
 useful_tags => 유용한 태그들
 use_thumbnail => 썸네일 사용
 wraptag => 태그 감싸기
-#@user
-search_users =>
