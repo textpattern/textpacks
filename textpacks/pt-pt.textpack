@@ -221,6 +221,7 @@ publish_time =>
 published_with => Publicado com
 range => Intervalo
 restricted_area => Área reservada.
+salutation =>
 save_new => Guardar novo
 showing_search_results => A mostrar {from} a {to} de {total}
 site_slogan => Slogan do sítio

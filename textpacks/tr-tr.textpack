@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => Range
 restricted_area => Kısıtlı bölüm
+salutation =>
 save_new => Save New
 showing_search_results =>
 site_slogan => Site Sloganı

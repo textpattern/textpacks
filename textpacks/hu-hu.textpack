@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => Tartomány
 restricted_area => Restricted area
+salutation =>
 save_new => Mentés újként
 showing_search_results =>
 site_slogan => Site tagline

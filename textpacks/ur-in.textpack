@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => وسعت
 restricted_area => ممنوع حصّہ
+salutation =>
 save_new => محفوظ کریں بطور
 showing_search_results => ‏{total} میں سے نمائش کردہ {from} سے {to}
 site_slogan => سائٹ کا نعرہ

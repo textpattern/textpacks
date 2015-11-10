@@ -221,6 +221,7 @@ publish_time => Publicatietijd
 published_with => Gepubliceerd met
 range => Van… tot…
 restricted_area => Afgesloten gedeelte.
+salutation =>
 save_new => Opslaan
 showing_search_results => Resultaten {from} tot {to} van {total}
 site_slogan => Siteslagzin

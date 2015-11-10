@@ -221,6 +221,7 @@ publish_time => Час публікації
 published_with => Публікується з
 range => група
 restricted_area => Обмежений доступ
+salutation =>
 save_new => Зберегти
 showing_search_results => Показані з {from} по {to} з {total}
 site_slogan => Підзаголовок сайту

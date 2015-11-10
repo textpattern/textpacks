@@ -221,6 +221,7 @@ publish_time => Heure de publication
 published_with => Publié avec
 range => Sélection
 restricted_area => Zone restreinte.
+salutation =>
 save_new => Enregistrer le nouveau
 showing_search_results => Résultats {from} à {to} sur {total}
 site_slogan => Slogan du site

@@ -221,6 +221,7 @@ publish_time =>
 published_with => Publicerad med
 range => Intervall
 restricted_area => Avskilt område
+salutation =>
 save_new => Spara ny
 showing_search_results => Visar {from} till {to} av {total}
 site_slogan => Sajtslogan

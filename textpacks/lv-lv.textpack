@@ -221,6 +221,7 @@ publish_time =>
 published_with => Publicēts ar
 range => Virkne
 restricted_area => Ierobežotas pieejas lapa.
+salutation =>
 save_new => Saglabāt
 showing_search_results => Rezultāti no {from} līdz {to} no {total}
 site_slogan => Lapas sauklis

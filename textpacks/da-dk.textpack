@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => Række
 restricted_area => Begrænset område
+salutation =>
 save_new => Gem ny
 showing_search_results => Viser {from} til {to} af {total}
 site_slogan => Side tagline

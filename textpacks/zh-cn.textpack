@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => 范围
 restricted_area => 受限区域
+salutation =>
 save_new => 保存新文章
 showing_search_results => 显示 {total} 个中的第 {from} 个到第 {to} 个
 site_slogan => 网站标语

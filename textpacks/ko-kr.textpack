@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => 범위
 restricted_area => 제한 구역
+salutation =>
 save_new => 새로 저장
 showing_search_results => 전체 {total}에서 범위 {from} to {to}를 보여주기
 site_slogan => 사이트 설명

@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => Vahemik
 restricted_area => Piiratud ala.
+salutation =>
 save_new => Salvesta uus
 showing_search_results =>
 site_slogan => Saidi hüüdlause

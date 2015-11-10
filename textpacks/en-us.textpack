@@ -221,6 +221,7 @@ publish_time => Publish time
 published_with => Published with
 range => Range
 restricted_area => Restricted area.
+salutation => Dear {name},
 save_new => Save new
 showing_search_results => Showing {from} to {to} of {total}
 site_slogan => Site slogan

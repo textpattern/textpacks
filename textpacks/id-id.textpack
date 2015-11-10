@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => Jangkauan
 restricted_area => Area Terbatas
+salutation =>
 save_new => Simpan Baru
 showing_search_results => Tampil {from} ke {to} dari {total}
 site_slogan => Slogan situs

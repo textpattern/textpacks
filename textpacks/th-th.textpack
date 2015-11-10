@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => ช่วง
 restricted_area => พื้นที่หวงห้าม
+salutation =>
 save_new => บันทึกใหม่
 showing_search_results =>
 site_slogan => คำขวัญเว็บไซต์

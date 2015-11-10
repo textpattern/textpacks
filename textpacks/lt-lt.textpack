@@ -221,6 +221,7 @@ publish_time =>
 published_with => Publikuota su
 range => Ribos
 restricted_area => Ribotoji zona
+salutation =>
 save_new => Išsaugoti naują
 showing_search_results => Rodomi {from} iki {to} iš {total}
 site_slogan => Svetainės šūkis

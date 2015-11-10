@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => Εύρος
 restricted_area => Χώρος περιορισμένης πρόσβασης
+salutation =>
 save_new => Αποθήκευση νέου
 showing_search_results =>
 site_slogan => Σλόγκαν

@@ -221,6 +221,7 @@ publish_time =>
 published_with => Publicado con
 range => Rango
 restricted_area => Area restrinxida
+salutation =>
 save_new => Gardar novo
 showing_search_results => Mostrando {from} a {to} de {total}
 site_slogan => Subtítulo da bitácora

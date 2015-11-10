@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => Rozsah
 restricted_area => Zakázaný prístup
+salutation =>
 save_new => Uložiť nový
 showing_search_results =>
 site_slogan => Slogan stránky

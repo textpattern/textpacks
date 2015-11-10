@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => تعيين
 restricted_area => منطقة محظورة
+salutation =>
 save_new => تسجيل الجديد
 showing_search_results =>
 site_slogan => شعار الموقع

@@ -221,6 +221,7 @@ publish_time =>
 published_with => Opublikowano za pomocą
 range => Zakres
 restricted_area => Obszar ograniczonego dostępu.
+salutation =>
 save_new => Zapisz
 showing_search_results => Pozycje od {from} do {to} z {total}
 site_slogan => Motto witryny

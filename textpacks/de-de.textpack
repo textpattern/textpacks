@@ -221,6 +221,7 @@ publish_time =>
 published_with => Veröffentlicht mit
 range => Nachfolgende
 restricted_area => Eingeschränkter Bereich
+salutation =>
 save_new => Neu anlegen
 showing_search_results => Treffer {from} bis {to} von {total}
 site_slogan => Motto der Seite

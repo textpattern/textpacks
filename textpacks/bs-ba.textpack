@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => Opseg
 restricted_area => Područje ograničenog pristupa
+salutation =>
 save_new => Snimi novi
 showing_search_results =>
 site_slogan => Slogan Vašeg sajta

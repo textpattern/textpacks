@@ -221,6 +221,7 @@ publish_time =>
 published_with => Публикувано с
 range => Обхват
 restricted_area => Ограничен достъп
+salutation =>
 save_new => Запази нов
 showing_search_results => Резултати {from} до {to} от {total}
 site_slogan => Подзаглавие на сайта

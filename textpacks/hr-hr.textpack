@@ -221,6 +221,7 @@ publish_time =>
 published_with => Objavljeno uz pomoć
 range => Raspon
 restricted_area => Ograničena zona.
+salutation =>
 save_new => Spremi novo
 showing_search_results =>
 site_slogan => Slogan site-a

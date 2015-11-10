@@ -221,6 +221,7 @@ publish_time =>
 published_with => Julkaistu käyttäen
 range => Rajaus
 restricted_area => Pääsy estetty.
+salutation =>
 save_new => Tallenna uutena
 showing_search_results => Näytetään {from}-{to} yhteensä {total}-tuloksesta
 site_slogan => Sivuston slogan

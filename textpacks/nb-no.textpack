@@ -221,6 +221,7 @@ publish_time => Publiser tid
 published_with => Publisert med
 range => Område
 restricted_area => Område med begrenset tilgang
+salutation =>
 save_new => Lagre ny
 showing_search_results => Viser {from} til {to} av {total}
 site_slogan => Nettsidens slagord

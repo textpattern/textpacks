@@ -221,6 +221,7 @@ publish_time =>
 published_with =>
 range => 範圍
 restricted_area => 限制區域
+salutation =>
 save_new => 儲存新文章
 showing_search_results =>
 site_slogan => 網站敘述

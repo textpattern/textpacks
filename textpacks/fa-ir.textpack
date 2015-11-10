@@ -221,6 +221,7 @@ publish_time =>
 published_with => انتشار یافته توسط
 range => محدوده
 restricted_area => منطقه ممنوعه
+salutation =>
 save_new => ایجاد
 showing_search_results => نمایش {form} تا{to} از {total}
 site_slogan => شعار سایت

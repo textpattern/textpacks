@@ -221,6 +221,7 @@ publish_time => Hora de publicación
 published_with => Publicado con
 range => Rango
 restricted_area => Área restringida.
+salutation =>
 save_new => Guardar nuevo
 showing_search_results => Mostrando {from} a {to} de {total}
 site_slogan => Eslogan del sitio

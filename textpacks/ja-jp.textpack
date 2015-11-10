@@ -221,6 +221,7 @@ publish_time =>
 published_with => 共著
 range => 範囲
 restricted_area => アクセス制限エリア
+salutation =>
 save_new => 新規保存
 showing_search_results => {from} から {to} まで {total}の結果を表示
 site_slogan => サイトスローガン

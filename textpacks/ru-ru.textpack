@@ -221,6 +221,7 @@ publish_time => Время публикации
 published_with => Опубликовано с
 range => Группа
 restricted_area => Ограниченный доступ.
+salutation =>
 save_new => Сохранить как новую
 showing_search_results => Показывается с {from} по {to} (всего {total})
 site_slogan => Подзаголовок (слоган) сайта
