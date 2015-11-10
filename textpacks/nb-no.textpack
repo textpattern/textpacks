@@ -42,6 +42,7 @@ password_reset_confirmation => Noen (sannsynligvis du) har bedt om å nullstille
 password_reset_confirmation_request => Vennligst bekreft nullstilling av passordet ditt
 password_reset_confirmation_request_sent => En bekreftelsesmelding er sendt til din e-postadresse. Vennligst sjekk e-posten din og følg instruksjonene.
 password_sent_to => Passord sendt til
+password_strength =>
 privileges => Rettigheter
 privs_none => None
 publisher => Utgiver

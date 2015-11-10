@@ -42,6 +42,7 @@ password_reset_confirmation => 有人（很有可能是你）要求重置你的�
 password_reset_confirmation_request => 请确认你的密码重置请求。
 password_reset_confirmation_request_sent => 确认信息已经发到您的邮箱。请检查您的邮箱并参照指引。
 password_sent_to => 把密码邮寄到
+password_strength =>
 privileges => 权限
 privs_none => 无
 publisher => 出版商

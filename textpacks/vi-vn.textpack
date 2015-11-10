@@ -42,6 +42,7 @@ password_reset_confirmation => Ai đó (chắc là bạn) đã yêu cần đặt
 password_reset_confirmation_request => Vui lòng xác nhận yêu cầu đặt lại mật khẩu.
 password_reset_confirmation_request_sent => Lời nhắn xác nhận đã được gửi. Vui lòng đọc thư điện tử và làm theo hướng dẫn
 password_sent_to => Đã gửi mật khẩu tới
+password_strength =>
 privileges => Quyền hạn
 privs_none => Không gì
 publisher => Người xuất bản

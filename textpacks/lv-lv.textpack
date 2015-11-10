@@ -42,6 +42,7 @@ password_reset_confirmation => Kāds (iespējams tu) ir pieprasījis paroles atg
 password_reset_confirmation_request => Lūdzu, apstiprini savas paroles atjaunošanas pieprasījumu
 password_reset_confirmation_request_sent => Uz tavu e-pastu tika nosūtīts apstiprinājuma pieprasījums. Lūdzu, pārbaudi savu e-pastu un seko instrukcijām.
 password_sent_to => Parole ir nosūtīta uz
+password_strength =>
 privileges => Privilēģijas
 privs_none => Nav
 publisher => Izdevējs

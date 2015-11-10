@@ -42,6 +42,7 @@ password_reset_confirmation => Jemand (wahrscheinlich Sie) hat das Zurücksetzen
 password_reset_confirmation_request => Bitte bestätigen Sie die Passwort-Anforderung
 password_reset_confirmation_request_sent => Eine Bestätigungsnachricht wurde an Ihre E-Mail-Adresse gesandt. Bitte öffnen Sie Ihren Posteingang und folgen Sie der Anleitung in dieser Nachricht.
 password_sent_to => Passwort gesendet an
+password_strength =>
 privileges => Rechte
 privs_none => Keine
 publisher => Herausgeber

@@ -42,6 +42,7 @@ password_reset_confirmation => מישהו ( ככל הנראה אתה ) ביקש 
 password_reset_confirmation_request => אנא אשר את בקשת איפוס הסיסמה שלך
 password_reset_confirmation_request_sent => .הודעת אישור נשלחה לכתובת הדואל שלך אנא בשוק את הדואל שלך ועקוב אחרי ההוראות.
 password_sent_to => הסיסמה נשלחה אל
+password_strength =>
 privileges => הרשאות
 privs_none => ללא
 publisher => מפיץ

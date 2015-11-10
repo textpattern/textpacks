@@ -42,6 +42,7 @@ password_reset_confirmation => Iemand (waarschijnlijk jijzelf) heeft om een nieu
 password_reset_confirmation_request => Bevestig alsjeblieft je verzoek om een gereset wachtwoord
 password_reset_confirmation_request_sent => Een bevestigings email is verstuurd. Je vind verdere instructies in deze email.
 password_sent_to => Wachtwoord verzonden naar
+password_strength =>
 privileges => Functie
 privs_none => Geen
 publisher => Beheerder

@@ -42,6 +42,7 @@ password_reset_confirmation => شخص ما (ربما أنت) طلبت إعادة
 password_reset_confirmation_request => يرجى تأكيد طلب إعادة التعيين
 password_reset_confirmation_request_sent => تم إرسال رسالة تأكيد إلى عنوان البريد الإلكتروني الخاص .بك يرجى التحقق من البريد الإلكتروني الخاص بك واتبع التعليمات.
 password_sent_to => تم إرسال كلمة السر إلى
+password_strength =>
 privileges => امتيازات
 privs_none => بدون إمتياز
 publisher => مسير

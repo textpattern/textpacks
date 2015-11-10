@@ -42,6 +42,7 @@ password_reset_confirmation => 누군가(아마도 당신) 비밀번호 초기�
 password_reset_confirmation_request => 비밀번호를 초기화할지 다시한번 확인하세요
 password_reset_confirmation_request_sent => 확인 메시지를 전자우편으로 보냈습니다. 전자우편함을 확인하고 다음 안내에 따르세요.
 password_sent_to => 비밀번호를 전송했습니다.
+password_strength =>
 privileges => 권한
 privs_none =>
 publisher => 발행인

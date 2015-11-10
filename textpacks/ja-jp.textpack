@@ -42,6 +42,7 @@ password_reset_confirmation => 誰かが (たぶん、あなた自身) が、パ
 password_reset_confirmation_request => パスワード再設定申請を承認してください。
 password_reset_confirmation_request_sent => 承認メッセージがあなたのメールアドレスへ送信されました。 メールを確認し、記載されている手続きを行ってください。
 password_sent_to => パスワードの送信先
+password_strength =>
 privileges => 権限
 privs_none => 無し
 publisher => 管理人

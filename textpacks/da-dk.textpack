@@ -42,6 +42,7 @@ password_reset_confirmation => Nogen, formogenligt dig, har spurgt om at nulstil
 password_reset_confirmation_request => Venligst bekræft at dit kodeord nulstilles
 password_reset_confirmation_request_sent => A bekræftigelse besked er sendt til din email adresse. Tjeck venligst din email og følg instruktionerne.
 password_sent_to => Kodeord sent til
+password_strength =>
 privileges => Rettigheder
 privs_none =>
 publisher => Udgiver

@@ -42,6 +42,7 @@ password_reset_confirmation => Cineva (probabil tu) ai cerut resetarea parolei. 
 password_reset_confirmation_request => Te rog confirma resetarea parolei
 password_reset_confirmation_request_sent => Un mesaj de confirmare a fost trimis la adresa de email introdusa. Te rog urmeaza instructiunile din acel mesaj.
 password_sent_to => Parola a fost trimisa lui
+password_strength =>
 privileges => Privilegii
 privs_none => Nimic
 publisher => Director

@@ -42,6 +42,7 @@ password_reset_confirmation => Niekto (pravdepodobne vy) požiadal o zmenu hesla
 password_reset_confirmation_request => Potvrďte zmenu hesla
 password_reset_confirmation_request_sent => Email bol zaslaný na vašu emailovú adresu. Skontrolujte si email a nasledujte inštrukcie.
 password_sent_to => Heslo bolo odoslané na
+password_strength =>
 privileges => Práva
 privs_none =>
 publisher => Vydavateľ

@@ -42,6 +42,7 @@ password_reset_confirmation => Alguén (seguramente ti) pediu cambiar o teu cont
 password_reset_confirmation_request => Por favor, confirma a túa petición de cambio de contrasinal
 password_reset_confirmation_request_sent => Enviouse unha mensaxe de confirmación á túa dirección de email. Por favor, le o teu correo e segue as instrucións.
 password_sent_to => Contrasinal enviado a:
+password_strength =>
 privileges => Privilexios
 privs_none => Ningún
 publisher => Propietario(Publisher)

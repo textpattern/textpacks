@@ -42,6 +42,7 @@ password_reset_confirmation => Någon (troligtvis du själv) vill nollställa di
 password_reset_confirmation_request => Var god bekräfta att du vill nollställa ditt lösenord
 password_reset_confirmation_request_sent => Ett bekräftelsemail skickades till din e-postadress.
 password_sent_to => Lösenord skickat till
+password_strength =>
 privileges => Rättigheter
 privs_none => Inget
 publisher => Utgivare

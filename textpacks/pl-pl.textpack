@@ -42,6 +42,7 @@ password_reset_confirmation => Ktoś (prawdopodobnie Ty) wystąpił z zapytaniem
 password_reset_confirmation_request => Potwierdź prośbę o wygenerowanie nowego hasła
 password_reset_confirmation_request_sent => Potwierdzenie zostało wysłane na twój adres email. Odbierz pocztę i postępuj zgodnie z instrukcjami zawartymi w wiadomości.
 password_sent_to => Hasło wysłane do
+password_strength =>
 privileges => Uprawnienia
 privs_none => Brak uprawnień
 publisher => Wydawca

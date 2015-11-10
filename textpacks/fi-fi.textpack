@@ -42,6 +42,7 @@ password_reset_confirmation => Olemme vastaanottaneet pyynnön salasanasi nollaa
 password_reset_confirmation_request => Varmista salasanan nollauspyyntö
 password_reset_confirmation_request_sent => Varmistusviesti on lähetetty sähköpostiosoitteeseesi. Tarkista sähköpostisi ja noudata annettuja ohjeita.
 password_sent_to => Salasana lähetetty
+password_strength =>
 privileges => Käyttöoikeudet
 privs_none => Ei mitään
 publisher => Julkaisija

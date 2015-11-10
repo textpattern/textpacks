@@ -42,6 +42,7 @@ password_reset_confirmation => Zahtevali ste izmenu lozinke. Molimo kliknite na 
 password_reset_confirmation_request => Molimo potvrdite zahtev za reset lozinke
 password_reset_confirmation_request_sent => Konfirmacioni email je poslat na Vašu adresu. Molimo, proverite Vaš email i sledite uputstva.
 password_sent_to => Lozinka poslata
+password_strength =>
 privileges => Privilegije
 privs_none =>
 publisher => Publisher

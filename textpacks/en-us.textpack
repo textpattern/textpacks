@@ -42,6 +42,7 @@ password_reset_confirmation => Somebody (probably you) has requested to reset yo
 password_reset_confirmation_request => Please confirm your password reset request
 password_reset_confirmation_request_sent => A confirmation message was sent. Please check your email and follow the instructions.
 password_sent_to => Password sent to
+password_strength => Strength
 privileges => Role
 privs_none => None
 publisher => Publisher

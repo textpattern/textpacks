@@ -42,6 +42,7 @@ password_reset_confirmation =>
 password_reset_confirmation_request =>
 password_reset_confirmation_request_sent =>
 password_sent_to => Aðagangsorð sent til
+password_strength =>
 privileges => Réttindi
 privs_none =>
 publisher => Útgefandi

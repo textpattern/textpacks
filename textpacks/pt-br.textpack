@@ -42,6 +42,7 @@ password_reset_confirmation => Alguém (provavelmente você) está pedindo que a
 password_reset_confirmation_request => Por favor, confirme seu pedido de redefinição de senha
 password_reset_confirmation_request_sent => Uma mensagem de confirmação foi enviada para o seu endereço de email. Verifique seu email e siga as instruções.
 password_sent_to => Senha enviada para
+password_strength =>
 privileges => Privilégios
 privs_none => Vazio
 publisher => Proprietário

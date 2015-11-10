@@ -42,6 +42,7 @@ password_reset_confirmation => Seseorang (mungkin kamu) telah meminta untuk mena
 password_reset_confirmation_request => Mohon konfirmasi tata ulang katasandimu
 password_reset_confirmation_request_sent => Pesan konfirmasi telah dikirim ke alamat email. Mohon cek email Anda dan ikuti petunjuk yang diberikan.
 password_sent_to => Katasandi dikirim ke
+password_strength =>
 privileges => Hak istimewa
 privs_none => Tak satupun
 publisher => Penerbit

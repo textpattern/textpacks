@@ -42,6 +42,7 @@ password_reset_confirmation => Alguien (seguramente tú) ha pedido cambiar tu co
 password_reset_confirmation_request => Por favor, confirma tu petición de cambio de contraseña
 password_reset_confirmation_request_sent => Se ha enviado un mensaje de confirmación a tu dirección de email. Por favor, lee tu correo y sigue las instrucciones.
 password_sent_to => Contraseña enviada a
+password_strength =>
 privileges => Privilegios
 privs_none => Ninguno
 publisher => Editor

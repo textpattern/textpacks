@@ -42,6 +42,7 @@ password_reset_confirmation => Valaki (valószínűleg Te) a jelszó megváltozt
 password_reset_confirmation_request => Kérlek erősítsd meg jelszavad megváltoztatását
 password_reset_confirmation_request_sent => Elküldtük email címedre a megerősítő üzenetet. Olvasd el az email és kövesd az utasításokat.
 password_sent_to => A jelszót elküldtük a következő címre
+password_strength =>
 privileges => Jogosultságok
 privs_none =>
 publisher => Kiadó

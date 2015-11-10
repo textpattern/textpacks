@@ -42,6 +42,7 @@ password_reset_confirmation => Захтевали сте промену лози
 password_reset_confirmation_request => Молимо потврдите ресет лозинке
 password_reset_confirmation_request_sent => Конфирмациона порука је послата на Ваш и-мејл. Молимо проверите и-мејл и следите упутства.
 password_sent_to => Лозинка послата
+password_strength =>
 privileges => Привилегије
 privs_none =>
 publisher => Издавач
