@@ -43,11 +43,6 @@ password_reset_confirmation => شخصی (احتمالاً خود شما) درخ�
 password_reset_confirmation_request => لطفاً درخواست بازیابی گذرواژه را تأیید کنید.
 password_reset_confirmation_request_sent => پیام تاییدی به ایمیل شما ارسال شد .لطفا ایمیل خود را چک کرده و دستورالعمل داده شده را اجرا کنید.
 password_sent_to => گذرواژه ارسال شد به
-password_strength_0 =>
-password_strength_1 =>
-password_strength_2 =>
-password_strength_3 =>
-password_strength_4 =>
 privileges => سطح کاربری
 privs_none => هیچ
 publisher => ناشر
@@ -1023,6 +1018,11 @@ my_slogan => شعار من
 name_required => لطفا یک نام کاربری معتبر وارد کنید.
 need_details => به ناچار باید جزئیات بیشتری بدانیم
 next_step => بعد →
+password_strength_0 =>
+password_strength_1 =>
+password_strength_2 =>
+password_strength_3 =>
+password_strength_4 =>
 pass_required => لطفا یک گذرواژه قوی‌تر انتخاب کنید.
 please_enter_url => لطفاً یک نشانی قابل دستیابی از طریق وب را برای سایت خود وارد کنید.
 please_go_back => لطفاً به عقب برگردید، جزئیات ناصحیح را اصلاح کنید و فرآیند را مجدد تکرار کنید.
