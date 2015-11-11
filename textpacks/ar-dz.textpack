@@ -32,6 +32,7 @@ managing_editor => نائب المدير
 must_reassign_assets => الرجاء إعادة تحويل ملكية محتوى المستخدم
 new_email => عنوان جديد للبريد الإكتروني
 new_password => كلمة سر جديدة
+password_change_confirmation =>
 password_changed => تم تغيير كلمة السر
 password_changed_mailed => تم تغيير كلمة السر و إرسالها إلى <strong>{email}</strong>
 password_forgotten => هل نسيت كلمة السر؟

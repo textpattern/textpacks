@@ -32,6 +32,7 @@ managing_editor => Vykdantysis redaktorius
 must_reassign_assets => Prašome iš naujo paskirti vartotojo turinį
 new_email => Naujas el. paštas
 new_password => Naujas slaptažodis
+password_change_confirmation =>
 password_changed => Slaptažodis pakeistas.
 password_changed_mailed => Slaptažodis pakeistas ir išsiųstas paštu <strong>{email}</strong>.
 password_forgotten => Pamiršote slaptažodį?

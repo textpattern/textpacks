@@ -32,6 +32,7 @@ managing_editor => 总编辑
 must_reassign_assets => 请重新设置用户的内容
 new_email => 新的 E-mail 地址
 new_password => 新密码
+password_change_confirmation =>
 password_changed => 密码已更改
 password_changed_mailed => 密码已更改并邮寄到 <strong>{email}</strong>。
 password_forgotten => 忘记密码了？

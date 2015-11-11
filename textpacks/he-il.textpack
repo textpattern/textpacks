@@ -32,6 +32,7 @@ managing_editor => ניהול עורכים
 must_reassign_assets => אנא שייך מחדש תוכן משתמש
 new_email => דואל חדש
 new_password => סיסמה חדשה
+password_change_confirmation =>
 password_changed => הסיסמה שונתה.
 password_changed_mailed => הסיסמה שונתה ותישלח אל <strong>{email}</strong>.
 password_forgotten => שכחת סיסמה?

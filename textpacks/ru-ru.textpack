@@ -32,6 +32,7 @@ managing_editor => Главный редактор
 must_reassign_assets => Пожалуйста, переназначьте автора созданного наполнения
 new_email => Новый адрес электронной почты
 new_password => Новый пароль
+password_change_confirmation =>
 password_changed => Пароль изменен.
 password_changed_mailed => Пароль изменен и отправлен по адресу <strong>{email}</strong>.
 password_forgotten => Забыли пароль?

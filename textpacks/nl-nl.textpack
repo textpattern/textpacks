@@ -32,6 +32,7 @@ managing_editor => Hoofdredacteur
 must_reassign_assets => Kies een nieuwe medewerker om deze artikelen te beheren
 new_email => Nieuw emailadres
 new_password => Nieuw wachtwoord
+password_change_confirmation =>
 password_changed => Wachtwoord gewijzigd.
 password_changed_mailed => Het wachtwoord is gewijzigd en verzonden naar <strong>{email}</strong>.
 password_forgotten => Wachtwoord vergeten?

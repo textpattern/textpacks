@@ -32,6 +32,7 @@ managing_editor => Redattore Capo
 must_reassign_assets => Assegna i contenuti dell’utente che stai per eliminare a un altro utente
 new_email => Nuova email
 new_password => Nuova password
+password_change_confirmation =>
 password_changed => Password modificata.
 password_changed_mailed => Password modificata e inviata a <strong>{email}</strong>.
 password_forgotten => Password dimenticata?

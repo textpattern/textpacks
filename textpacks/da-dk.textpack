@@ -32,6 +32,7 @@ managing_editor => Chefredaktør
 must_reassign_assets =>
 new_email => Ny email
 new_password => Nyt kodeord
+password_change_confirmation =>
 password_changed => Kodeord ændret.
 password_changed_mailed => Kodeord ændret og sendt til <strong>{email}</strong>.
 password_forgotten => Glemt password?

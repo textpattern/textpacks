@@ -32,6 +32,7 @@ managing_editor => Šéfredaktor
 must_reassign_assets =>
 new_email => Nový email
 new_password => Nové heslo
+password_change_confirmation =>
 password_changed => Heslo bolo zmenené.
 password_changed_mailed => Heslo zmenené a zaslané na <strong>{email}</strong>.
 password_forgotten => Zabudli ste heslo?

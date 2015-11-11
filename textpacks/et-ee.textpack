@@ -32,6 +32,7 @@ managing_editor => Juhtivtoimetaja
 must_reassign_assets =>
 new_email => Uus email
 new_password => Uus parool
+password_change_confirmation =>
 password_changed => Parool muudetud.
 password_changed_mailed =>
 password_forgotten =>

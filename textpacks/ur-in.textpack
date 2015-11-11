@@ -32,6 +32,7 @@ managing_editor => تدوین کار
 must_reassign_assets => بارہ کرم، صارف کے اشیا کو دوبارہ تفویض کریں
 new_email => نیا ای میل
 new_password => نیا ‏پاس ورڈ‏
+password_change_confirmation =>
 password_changed => ‏پاس ورڈ‏ تبدیل کیا
 password_changed_mailed => ‏پاس ورڈ‏ تبدیل کیا گیا اور ای میل بذریعہ <strong>{email}</strong> کو بھیجا گیا
 password_forgotten => کیا آپ اپنا ‏پاس ورڈ‏ بھول گئے ؟

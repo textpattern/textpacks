@@ -32,6 +32,7 @@ managing_editor => Pemimpin Redaksi
 must_reassign_assets => Mohon tetapkan kembali konten pengguna
 new_email => Email baru
 new_password => Katasandi baru
+password_change_confirmation =>
 password_changed => Katasandi diubah.
 password_changed_mailed =>
 password_forgotten => Lupa katasandi?

@@ -32,6 +32,7 @@ managing_editor => Editor Xefe
 must_reassign_assets => Por favor, asigna o contido a outro usuario
 new_email => Novo correo electrónico
 new_password => Novo contrasinal
+password_change_confirmation =>
 password_changed => O contrasinal mudou.
 password_changed_mailed => Cambiouse o contrasinal e enviouse a <strong>{email}</strong>.
 password_forgotten => Esqueciches o contrasinal?

@@ -32,6 +32,7 @@ managing_editor => 總編輯
 must_reassign_assets =>
 new_email => 新的 Email 地址
 new_password => 新密碼
+password_change_confirmation =>
 password_changed => 密碼已修改
 password_changed_mailed => 密碼已更改完成並郵寄到 <strong>{email}</strong>.
 password_forgotten =>

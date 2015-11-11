@@ -32,6 +32,7 @@ managing_editor => Glavni urednik
 must_reassign_assets =>
 new_email => Nova e-pošta
 new_password => Nova lozinka
+password_change_confirmation =>
 password_changed => Lozinka promjenjena.
 password_changed_mailed => Lozinka promjenjena i poslata na <strong>{email}</strong>.
 password_forgotten => Zaboravili ste lozinku?

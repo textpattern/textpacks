@@ -32,6 +32,7 @@ managing_editor => Főszerkesztő
 must_reassign_assets =>
 new_email => Új email
 new_password => Új jelszó
+password_change_confirmation =>
 password_changed => Jelszó megváltoztatva.
 password_changed_mailed => A jelszó megváltoztatva és elküldve a következő címre: <strong>{email}</strong>
 password_forgotten => Elfelejtetted a jelszavad?

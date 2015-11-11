@@ -32,6 +32,7 @@ managing_editor => Redaktor naczelny
 must_reassign_assets => Konieczne ponowne przydzielenie zasobów
 new_email => Nowy adres email
 new_password => Nowe hasło
+password_change_confirmation =>
 password_changed => Hasło zostało zmienione.
 password_changed_mailed => Hasło zostało zmienione i wysłane na adres <strong>{email}</strong>.
 password_forgotten => Zapomniałeś hasło?

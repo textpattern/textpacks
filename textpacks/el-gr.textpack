@@ -32,6 +32,7 @@ managing_editor => Αρχισυντάκτης
 must_reassign_assets =>
 new_email => Νέα διεύθυνση email
 new_password => Νέος κωδικός πρόσβασης
+password_change_confirmation =>
 password_changed => Ο κωδικός πρόσβασης τροποποιήθηκε.
 password_changed_mailed => Ο κωδικός πρόσβασης τροποποιήθηκε και απεστάλη στη διεύθυνση <strong>{email}</strong>.
 password_forgotten => Ξεχάσατε τον κωδικό προσβασής

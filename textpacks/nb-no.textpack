@@ -32,6 +32,7 @@ managing_editor => Sjefsredaktør
 must_reassign_assets => Vennligst re-tildele forfatterens innhold
 new_email => Ny epost
 new_password => Nytt passord
+password_change_confirmation =>
 password_changed => Passord endret.
 password_changed_mailed => Passordet er endret og sendt til <strong>{email}</strong>.
 password_forgotten => Har du glemt passordet?

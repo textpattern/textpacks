@@ -32,6 +32,7 @@ managing_editor => Leitender Redakteur
 must_reassign_assets => Bitte Inhalte dieses Autors an einen anderen übertragen
 new_email => Neue E-Mail
 new_password => Neues Passwort
+password_change_confirmation =>
 password_changed => Passwort geändert.
 password_changed_mailed => Passwort geändert und an <strong>{email}</strong> verschickt.
 password_forgotten => Passwort vergessen?

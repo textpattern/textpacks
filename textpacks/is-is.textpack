@@ -32,6 +32,7 @@ managing_editor => Managing Editor
 must_reassign_assets =>
 new_email => Nýr vefpóstur
 new_password => Nýtt aðgangsorð
+password_change_confirmation =>
 password_changed => Aðgangsorði breytt.
 password_changed_mailed =>
 password_forgotten =>

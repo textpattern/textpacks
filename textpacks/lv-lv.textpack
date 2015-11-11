@@ -32,6 +32,7 @@ managing_editor => Galvenais redaktors
 must_reassign_assets => Lūdzu, vēlreiz piešķir lietotāja saturu
 new_email => Jauns e-pasts
 new_password => Jauna parole
+password_change_confirmation =>
 password_changed => Parole ir nomainīta.
 password_changed_mailed => Parole ir nomainīta un nosūtīta uz <strong>{email}</strong>.
 password_forgotten => Aizmirsāt paroli?

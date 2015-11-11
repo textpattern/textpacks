@@ -32,6 +32,7 @@ managing_editor => 編集者の管理者
 must_reassign_assets => ユーザコンテンツの譲渡先を指定してください
 new_email => 新しいメールアドレス
 new_password => 新しいパスワード
+password_change_confirmation =>
 password_changed => パスワードを変更しました
 password_changed_mailed => パスワードは変更され、メールを以下に送信しました：<strong>{email}</strong>。
 password_forgotten => ※パスワードを忘れた方はこちら

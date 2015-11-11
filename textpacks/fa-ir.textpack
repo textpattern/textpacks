@@ -32,6 +32,7 @@ managing_editor => ویرایشگر مدیریتی
 must_reassign_assets => لطفاً محتوای کاربر را مجدداً تعیین کنید
 new_email => ایمیل جدید
 new_password => گذرواژه جدید
+password_change_confirmation =>
 password_changed => گذرواژه تغییر یافت
 password_changed_mailed => گذرواژه تغییر کرد و به <strong>{email}</strong> فرستاده شد.
 password_forgotten => گذرواژه‌تان را فراموش کرده‌اید؟
