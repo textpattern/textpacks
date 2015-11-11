@@ -492,6 +492,7 @@ edit_image => Edita la imatge
 images => Imatges
 image_deleted => S’ha esborrat la imatge <strong>{name}</strong>.
 image_delete_failed =>
+image_details =>
 image_name => Nom de la imatge
 image_save_error => Ha hagut un problema en desar les dades de l’imatge.
 image_save_failed =>

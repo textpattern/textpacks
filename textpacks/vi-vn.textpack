@@ -492,6 +492,7 @@ edit_image => Sửa ảnh
 images => Ảnh
 image_deleted => Đã xóa ảnh <strong>{name}</strong>.
 image_delete_failed => Ảnh <strong>{name}</strong> không thể xóa được.
+image_details =>
 image_name => Tên ảnh
 image_save_error => Có lỗi khi lưu dữ liệu ảnh
 image_save_failed => Ảnh không ghi lại được vì có lỗi xảy ra. Vui lòng thử lại.

@@ -492,6 +492,7 @@ edit_image => Editar imagem
 images => Imagens
 image_deleted => A imagem <strong>{name}</strong> foi apagada.
 image_delete_failed => Não foi possivel apagar completamente a(s) imagem(s) <strong>{name}</strong>.
+image_details =>
 image_name => Nome da imagem
 image_save_error => Houve um problema ao gravar a imagem.
 image_save_failed => A imagem não foi guardada devido a um erro. Por favor, tente de novo.

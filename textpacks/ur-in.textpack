@@ -492,6 +492,7 @@ edit_image => تصویر تدوین کریں
 images => تصاویر
 image_deleted => تصویر <strong>{name}</strong> حذف کیا:
 image_delete_failed => تصویر <strong>{name}</strong> مکمل طور پر حذف نہیں ہوا
+image_details =>
 image_name => تصویر نام
 image_save_error => تصویر کے معلومات محفوظ کرنے میں نقص
 image_save_failed =>

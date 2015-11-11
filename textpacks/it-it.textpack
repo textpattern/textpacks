@@ -492,6 +492,7 @@ edit_image => Modifica immagine
 images => Immagini
 image_deleted => Immagine <strong>{name}</strong> eliminata.
 image_delete_failed => L’immagine <strong>{name}</strong> non può essere eliminata completamente.
+image_details =>
 image_name => Nome immagine
 image_save_error => Si è verificato un errore nel salvare i dati dell’immagine.
 image_save_failed => L’immagine non è stata salvata a causa di un errore. Riprova.

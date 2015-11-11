@@ -492,6 +492,7 @@ edit_image => Bild bearbeiten
 images => Bilder
 image_deleted => Bild <strong>{name}</strong> gelöscht.
 image_delete_failed => Das Bild <strong>{name}</strong> konnte nicht vollständig gelöscht werden.
+image_details =>
 image_name => Bildname
 image_save_error => Beim Speichern des Bildes ist ein Problem aufgetreten.
 image_save_failed => Das Bild konnte wegen eines Fehlers nicht gespeichert werden. Bitte nochmals versuchen.

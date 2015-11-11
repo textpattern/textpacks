@@ -492,6 +492,7 @@ edit_image => Редагування зображення
 images => Зображення
 image_deleted => Зображення <strong>{name}</strong> видалено.
 image_delete_failed => Не можу повністю видалити зображення <strong>{name}</strong>.
+image_details =>
 image_name => Назва зображення
 image_save_error => Сталася помилка при збереженні зображення
 image_save_failed => Зображення не збережено через помилку. Будь ласка, спробуйте ще раз.

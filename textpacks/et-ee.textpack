@@ -492,6 +492,7 @@ edit_image =>
 images =>
 image_deleted =>
 image_delete_failed =>
+image_details =>
 image_name => Pildi nimi
 image_save_error => Pildiandmete salvestamisel tekkis probleem.
 image_save_failed =>

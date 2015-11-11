@@ -492,6 +492,7 @@ edit_image => Editar Imagem
 images => Imagens
 image_deleted => A Imagem <strong>{name}</strong> foi excluída.
 image_delete_failed => Imagem <strong>{name}</strong> não pode ser excluída.
+image_details =>
 image_name => Nome da imagem
 image_save_error => Houve um problema ao salvar a imagem.
 image_save_failed => A imagem não foi salva devido a um erro. Por favor, tente novamente.

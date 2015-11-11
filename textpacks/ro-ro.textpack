@@ -492,6 +492,7 @@ edit_image => Editeaza imaginea
 images => Imagini
 image_deleted => Imaginea <strong>{name}</strong> a fost stearsa.
 image_delete_failed => Imaginea <strong>{name}</strong> nu a putut fi stearsa complet.
+image_details =>
 image_name => Numele imaginii
 image_save_error => Au fost probleme cu salvarea datelor imaginii
 image_save_failed =>

@@ -492,6 +492,7 @@ edit_image =>
 images =>
 image_deleted =>
 image_delete_failed =>
+image_details =>
 image_name => Nafn á mynd
 image_save_error => Upp kom vandamál við geymslu myndar.
 image_save_failed =>

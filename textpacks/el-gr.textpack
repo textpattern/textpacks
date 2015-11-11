@@ -492,6 +492,7 @@ edit_image => Επεξεργασία εικόνας
 images => Εικόνες
 image_deleted => Η εικόνα <strong>{name}</strong> διαγράφηκε.
 image_delete_failed =>
+image_details =>
 image_name => Όνομα εικόνας
 image_save_error => υπήρξε πρόβλημα κατά την αποθήκευση δεδομένων εικόνας
 image_save_failed =>

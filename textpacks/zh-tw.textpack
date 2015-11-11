@@ -492,6 +492,7 @@ edit_image => 編輯圖片
 images => 圖片
 image_deleted => 圖片 <strong>{name}</strong> 已刪除.
 image_delete_failed =>
+image_details =>
 image_name => 圖片名稱
 image_save_error => 圖片儲存出錯
 image_save_failed =>

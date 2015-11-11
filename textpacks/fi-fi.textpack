@@ -492,6 +492,7 @@ edit_image => Muokkaa kuvaa
 images => Kuvat
 image_deleted => Kuva <strong>{name}</strong> poistettu.
 image_delete_failed => Kuvaa <strong>{name}</strong> ei voitu poistaa kokonaan.
+image_details =>
 image_name => Kuvan nimi
 image_save_error => Kuvan tallennuksessa tapahtui virhe.
 image_save_failed => Kuvaa ei tallennettu virheen seurauksena. Ole hyvä ja yritä uudelleen.

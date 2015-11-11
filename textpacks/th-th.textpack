@@ -492,6 +492,7 @@ edit_image => แก้ไขภาพ
 images => ภาพ
 image_deleted => ลบภาพ <strong>{name}</strong> แล้ว
 image_delete_failed =>
+image_details =>
 image_name => ชื่อรูป
 image_save_error => มีปัญหาในการบันทึกข้อมูลภาพ
 image_save_failed =>

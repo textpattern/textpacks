@@ -492,6 +492,7 @@ edit_image => Редактировать картинку
 images => Картинки
 image_deleted => Удалена картинка <strong>{name}</strong>.
 image_delete_failed => Картинка(-и) <strong>{name}</strong> не могут быть удалены полностью.
+image_details =>
 image_name => Название картинки
 image_save_error => Произошла ошибка при сохранении картинки.
 image_save_failed => Ошибка! Картинка не сохранена, попробуйте еще раз.

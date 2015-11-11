@@ -492,6 +492,7 @@ edit_image => Rediger bilde
 images => Bilder
 image_deleted => Bilde(r) <strong>{name}</strong> ble slettet.
 image_delete_failed => Bilde(r) <strong>{name}</strong> ikke klarte å slette.
+image_details =>
 image_name => Bildenavn
 image_save_error => Det var et problem med lagring av bildedata.
 image_save_failed => Det oppsto et problem under lagring. Vær så snill, prøv på nytt.

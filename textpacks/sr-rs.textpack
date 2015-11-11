@@ -492,6 +492,7 @@ edit_image => Измени слику
 images => Слике
 image_deleted => Слика <strong>{name}</strong> избрисана.
 image_delete_failed => Слика(s) <strong>{name}</strong> није могла бити комплетно избрисана.
+image_details =>
 image_name => Име слике
 image_save_error => проблем код снимања слике
 image_save_failed =>

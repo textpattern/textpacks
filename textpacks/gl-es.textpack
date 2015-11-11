@@ -492,6 +492,7 @@ edit_image => Editar imaxe
 images => Imaxes
 image_deleted => Imaxe <strong>{name}</strong> borrada.
 image_delete_failed => Non se ha(n) podido borrar completamente a(s) imaxe(es) <strong>{name}</strong>.
+image_details =>
 image_name => Nome da imaxe
 image_save_error => ocorreu un problema gardando os datos da imaxe
 image_save_failed => Debido a un erro non se gardou a imaxe. Por favor, téntao de novo.

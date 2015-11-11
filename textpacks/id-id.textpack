@@ -492,6 +492,7 @@ edit_image =>
 images =>
 image_deleted =>
 image_delete_failed => Gambar <strong>{name}</strong> tidak sepenuhnya dapat dihapus.
+image_details =>
 image_name => Nama gambar
 image_save_error => Ada masalah dalam penyimpanan data gambar
 image_save_failed =>

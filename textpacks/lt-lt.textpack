@@ -492,6 +492,7 @@ edit_image => Redaguoti atvaizdą
 images => Atvaizdai
 image_deleted => Atvaizdas(ai) <strong>{name}</strong> pašalintas(i).
 image_delete_failed => Atvaizo(ų) <strong>{name}</strong> neįmanoma visiškai pašalinti.
+image_details =>
 image_name => Atvaizdo pavadinimas
 image_save_error => Iškilo problema atvaizdo saugojimo metu.
 image_save_failed => Atvaizdas nebuvo išsaugotas dėl klaidos. Bandykite dar kartą.

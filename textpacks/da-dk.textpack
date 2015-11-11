@@ -492,6 +492,7 @@ edit_image => Rediger billede
 images => Billeder
 image_deleted => Billede <strong>{name}</strong> slettet.
 image_delete_failed => Billede <strong>{name}</strong> kunne ikke slettes fuldstændigt.
+image_details =>
 image_name => Billednavn
 image_save_error =>
 image_save_failed =>

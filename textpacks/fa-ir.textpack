@@ -492,6 +492,7 @@ edit_image => ویرایش تصویر
 images => تصاویر
 image_deleted => تصویر <strong>{name}</strong> پاک شد.
 image_delete_failed => ناتوانی در حذف کامل تصویر <strong>{name}</strong>.
+image_details =>
 image_name => نام تصویر
 image_save_error => مشکلی در ذخیره داده‌های تصویر رخ داده است.
 image_save_failed => تصویر به دلیل بروز خطا ذخیره نشد. لطفا دوباره تلاش کنید.

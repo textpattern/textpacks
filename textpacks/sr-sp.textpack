@@ -492,6 +492,7 @@ edit_image => Izmeni sliku
 images => Slike
 image_deleted => Slika <strong>{name}</strong> izbrisana.
 image_delete_failed => Slika(e) <strong>{name}</strong> se ne može kompletno izbrisati.
+image_details =>
 image_name => Ime slike
 image_save_error => problem kod snimanja slike
 image_save_failed =>

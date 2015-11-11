@@ -492,6 +492,7 @@ edit_image => Redigera bild
 images => Bilder
 image_deleted => Bilden <strong>{name}</strong> raderades.
 image_delete_failed => Bilden <strong>{name}</strong> kunde inte raderas.
+image_details =>
 image_name => Bildnamn
 image_save_error => Det inträffade ett problem då bildinformation skulle sparas
 image_save_failed => Bilden sparades inte på grund av ett fel. Var god försök igen senare.

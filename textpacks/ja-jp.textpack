@@ -492,6 +492,7 @@ edit_image => 画像の編集
 images => 画像
 image_deleted => 画像 <strong>{name}</strong> を削除しました。
 image_delete_failed => 画像 <strong>{name}</strong> は完全に削除出来ませんでした。
+image_details =>
 image_name => 画像名
 image_save_error => 画像の保存に失敗しました
 image_save_failed => イメージを保存できませんでした。再試行ください

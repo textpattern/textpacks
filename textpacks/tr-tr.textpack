@@ -492,6 +492,7 @@ edit_image => Görsel Düzenle
 images => Görseller
 image_deleted => <strong>{name}</strong> isimli görsel silindi.
 image_delete_failed => <strong>{name}</strong> isimli görsel tamamen silinemedi.
+image_details =>
 image_name => Görsel adı
 image_save_error => Görseli kayıt ederken bir hata ile oluştu
 image_save_failed =>

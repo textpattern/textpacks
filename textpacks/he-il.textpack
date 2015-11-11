@@ -492,6 +492,7 @@ edit_image => ערוך תמונה
 images => תמונות
 image_deleted => תמונה <strong>{name}</strong> נמחקה.
 image_delete_failed => לא ניתן למחוק את התמונות <strong>{name}</strong> באופן מלא.
+image_details =>
 image_name => שם התמונה
 image_save_error => שגיאה התרחשה בעת שמירת נתוני התמונה.
 image_save_failed => התמונה לא נשמרה בגלל שגיאה. אנא נסה שוב.

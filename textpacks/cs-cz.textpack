@@ -492,6 +492,7 @@ edit_image => Upravit obrázek
 images => Obrázky
 image_deleted => Obrázek <strong>{name}</strong> odstraněn.
 image_delete_failed => Obrázek <strong>{name}</strong> nelze smazat.
+image_details =>
 image_name => Název
 image_save_error => Při ukládání obrázku došlo k chybě.
 image_save_failed => Obrázek nebyl uložen. Prosím, zkuste to znovu.

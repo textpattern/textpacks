@@ -492,6 +492,7 @@ edit_image =>
 images =>
 image_deleted =>
 image_delete_failed =>
+image_details =>
 image_name => Názov obrázku
 image_save_error =>
 image_save_failed =>

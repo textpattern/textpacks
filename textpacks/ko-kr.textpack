@@ -492,6 +492,7 @@ edit_image => 이미지 편집
 images => 이미지
 image_deleted => <strong>{name}</strong> 이미지를 지웠습니다.
 image_delete_failed => <strong>{name}</strong> 이미지를 완전히 지우지 않았습니다.
+image_details =>
 image_name => 이미지 이름
 image_save_error => 이미지를 저장하는데 문제가 있습니다.
 image_save_failed =>

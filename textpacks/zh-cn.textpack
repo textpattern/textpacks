@@ -492,6 +492,7 @@ edit_image => 编辑图片
 images => 图片
 image_deleted => 图片 <strong>{name}</strong> 已删除。
 image_delete_failed => 图片 <strong>{name}</strong> 不能完全删除。
+image_details =>
 image_name => 图片名称
 image_save_error => 保存图片数据出现问题
 image_save_failed => 图片由于一个错误没有被保存。请再试一次。

@@ -492,6 +492,7 @@ edit_image => Afbeelding bewerken
 images => Afbeeldingen
 image_deleted => Afbeelding <strong>{name}</strong> verwijderd.
 image_delete_failed => De afbeelding <strong>{name}</strong> kan niet verwijderd worden.
+image_details =>
 image_name => Naam afbeelding
 image_save_error => Er was een probleem bij het opslaan van de afbeelding.
 image_save_failed => Door een fout kon de afbeeldiong niet worden opgeslagen. Probeer het nogmaals.

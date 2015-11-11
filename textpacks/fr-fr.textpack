@@ -492,6 +492,7 @@ edit_image => Édition de l’image
 images => Images
 image_deleted => Image(s) <strong>{name}</strong> effacée(s).
 image_delete_failed => L’image <strong>{name}</strong> n’a pas pu être totalement effacée.
+image_details =>
 image_name => Nom de l’image
 image_save_error => Il s’est produit une erreur lors de la sauvegarde de l’image.
 image_save_failed => Cette image n’a pas été enregistrée en raison d’une erreur. Veuillez essayer de nouveau.

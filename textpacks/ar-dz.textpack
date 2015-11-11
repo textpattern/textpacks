@@ -492,6 +492,7 @@ edit_image =>
 images =>
 image_deleted =>
 image_delete_failed =>
+image_details =>
 image_name => اسم الصورة
 image_save_error => حدث خطا عند تسجيل الصورة
 image_save_failed =>

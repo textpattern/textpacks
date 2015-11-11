@@ -492,6 +492,7 @@ edit_image => Редактирай изображението
 images => Изображения
 image_deleted => Изображението <strong>{name}</strong> е изтрито.
 image_delete_failed => Изображенията <strong>{name}</strong> не можаха да бъдат напълно изтрити.
+image_details =>
 image_name => Име на изображението
 image_save_error => Възникна проблем при запазване на изображението
 image_save_failed => Изображението не беше запазено поради грешка. Моля, опитайте отново.
