@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Jelenleg aktív nyelvi környezet
 admin_side_plugins => Akarsz használni admin-oldali pluginokat?
 advanced_preferences => Részletes beállítások
+all_preferences =>
 allow_article_php_scripting => Meg akarod engedni a PHP használatát a cikkekben?
 allow_form_override => Megengeded a formok megsemmisítését?
 allow_page_php_scripting => Meg akarod engedni a PHP használatát az oldalakban?

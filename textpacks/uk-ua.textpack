@@ -608,6 +608,7 @@ verify_plugin => Перевірка плагіна
 active_language => Поточна мова
 admin_side_plugins => Використовувати плагіни, які впливають на адмін панель?
 advanced_preferences => Розширені налаштування
+all_preferences =>
 allow_article_php_scripting => Дозволити PHP в статтях?
 allow_form_override => Дозволити змінювати шаблон подання статті?
 allow_page_php_scripting => Дозволити PHP в сторінках?

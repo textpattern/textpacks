@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Nuværende aktive sprog
 admin_side_plugins => Brug administrations plugins?
 advanced_preferences => Avanceret
+all_preferences =>
 allow_article_php_scripting => Tillad PHP i artikler?
 allow_form_override => Tillad at tilsidesætte forme?
 allow_page_php_scripting => Tillad PHP på sider?

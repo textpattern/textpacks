@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Bahasa yang sedang aktif
 admin_side_plugins => Gunakan plugin sisi admin?
 advanced_preferences => Lanjutan
+all_preferences =>
 allow_article_php_scripting => Biarkan PHP di artikel?
 allow_form_override => Biarkan penimpaan bentuk?
 allow_page_php_scripting => Biarkan PHP di halaman?

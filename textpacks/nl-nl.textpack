@@ -608,6 +608,7 @@ verify_plugin => Verifieer plugin
 active_language => Op dit moment ingestelde taal
 admin_side_plugins => Admin plugins toestaan?
 advanced_preferences => Uitgebreid
+all_preferences =>
 allow_article_php_scripting => PHP in artikelen toestaan?
 allow_form_override => Eigen modulekeuze voor artikelen toestaan?
 allow_page_php_scripting => PHP in pagina’s toestaan?

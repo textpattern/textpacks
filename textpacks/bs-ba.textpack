@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Trenutni aktivni jezik
 admin_side_plugins => Koristi administratorske dodatke?
 advanced_preferences => Napredno
+all_preferences =>
 allow_article_php_scripting => Dozvoli PHP u člancima?
 allow_form_override => Dozvoli zaobilaženje formulara?
 allow_page_php_scripting => Dozvoli PHP u stranicama?

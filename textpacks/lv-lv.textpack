@@ -608,6 +608,7 @@ verify_plugin => Pārbaudīt spraudni
 active_language => Šobrīd aktīvā valoda
 admin_side_plugins => Lietot administrācijas daļas spraudņus?
 advanced_preferences => Paplašināti uzstādījumi
+all_preferences =>
 allow_article_php_scripting => Atļaujt PHP ierakstos?
 allow_form_override => Atļaut pašizvēlētās formas ierakstos?
 allow_page_php_scripting => Atļaut PHP lapās?

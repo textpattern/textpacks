@@ -608,6 +608,7 @@ verify_plugin => Verify plugin
 active_language => Currently active language
 admin_side_plugins => Use admin-side plugins?
 advanced_preferences => Advanced
+all_preferences => All preferences
 allow_article_php_scripting => Allow PHP in articles?
 allow_form_override => Allow form override?
 allow_page_php_scripting => Allow PHP in pages?

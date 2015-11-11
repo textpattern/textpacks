@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Aktuálne používaný jazyk
 admin_side_plugins => Používať administračné "bočné" pluginy?
 advanced_preferences => Rozšírené nastavenia
+all_preferences =>
 allow_article_php_scripting => Povoliť PHP kód v článkoch?
 allow_form_override => Povoliť prepísanie šablóny?
 allow_page_php_scripting => Povoliť PHP kód na stránkach?

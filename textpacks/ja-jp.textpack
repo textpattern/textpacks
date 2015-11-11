@@ -608,6 +608,7 @@ verify_plugin => プラグインの検証
 active_language => 現在の言語設定
 admin_side_plugins => 管理画面のプラグインを使用しますか？
 advanced_preferences => 詳細設定
+all_preferences =>
 allow_article_php_scripting => PHPを記事内で許可しますか？
 allow_form_override => フォームの上書きを許可しますか？
 allow_page_php_scripting => PHPをページ内で許可しますか？

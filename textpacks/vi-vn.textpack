@@ -608,6 +608,7 @@ verify_plugin => Thẩm tra phần bổ xung
 active_language => Ngôn ngữ đang sử dụng:
 admin_side_plugins => Dùng phần bổ xung phía-quản-trị?
 advanced_preferences => Nâng cao
+all_preferences =>
 allow_article_php_scripting => Cho phép PHP trong bài viết?
 allow_form_override => Cho phép đè mẫu đơn override?
 allow_page_php_scripting => Cho phép PHP trong trang?

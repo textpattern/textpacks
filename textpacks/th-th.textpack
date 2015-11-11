@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => ภาษาที่กำลังใช้
 admin_side_plugins => ใช้ส่วนต่อเติมสำหรับหน้าผู้ดูแล?
 advanced_preferences => ตัวเลือกระดับสูง
+all_preferences =>
 allow_article_php_scripting => ใช้ PHP ในบทความ?
 allow_form_override => อนุญาตให้ใช้ฟอร์มทดแทน?
 allow_page_php_scripting => ใช้ PHP ในหน้า?

@@ -608,6 +608,7 @@ verify_plugin => Ověřit plugin
 active_language => Nastavený jazyk
 admin_side_plugins => Používat pluginy pro správu?
 advanced_preferences => Pokročilá nastavení
+all_preferences =>
 allow_article_php_scripting => Používat PHP v článcích?
 allow_form_override => Povolit ruční volbu forem?
 allow_page_php_scripting => Používat PHP na stránkách?

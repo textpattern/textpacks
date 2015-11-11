@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => 현재 사용중인 언어
 admin_side_plugins => 관리화면 확장기능을 사용합니까?
 advanced_preferences => 고급 설정
+all_preferences =>
 allow_article_php_scripting => 게시물에 PHP를 사용합니까?
 allow_form_override => 폼 오버라이드를 허용합니까?
 allow_page_php_scripting => 페이지에 PHP를 사용합니까?

@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => اللغة المستخدمة حاليا
 admin_side_plugins => استخدام مجموعة البلوغين الإدارية؟
 advanced_preferences => خيارات متقدمة
+all_preferences =>
 allow_article_php_scripting => (PHP) ترخيص نظام .. في المقالات؟
 allow_form_override => (Form) ترخيص استعمال ؟ في المقال الواحد؟
 allow_page_php_scripting => (PHP) ترخيص نظام .. في ؟؟؟

@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Limba curent activa
 admin_side_plugins => Foloseste plugin-uri admin?
 advanced_preferences => Preferinte avansate
+all_preferences =>
 allow_article_php_scripting => Accepta cod PHP in articole?
 allow_form_override => Accepta inlocuirea forms-urilor?
 allow_page_php_scripting => Accepta cod PHP in pagini

@@ -608,6 +608,7 @@ verify_plugin => Прегледай приставката
 active_language => Активен език в момента
 admin_side_plugins => Използвай приставки за админ. панела?
 advanced_preferences => Разширени настройки
+all_preferences =>
 allow_article_php_scripting => Позволи PHP в статиите?
 allow_form_override => Позволи промяна на формата?
 allow_page_php_scripting => Позволи PHP в страниците?

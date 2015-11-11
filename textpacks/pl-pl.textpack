@@ -608,6 +608,7 @@ verify_plugin => Zweryfikuj plugin
 active_language => Aktualnie używany język
 admin_side_plugins => Używać pluginów dla administracji?
 advanced_preferences => Ustawienia zaawansowane
+all_preferences =>
 allow_article_php_scripting => Czy kod PHP jest dozwolony w artykułach?
 allow_form_override => Nadpisywanie form dozwolone?
 allow_page_php_scripting => Czy kod PHP jest dozwolony na stronach?

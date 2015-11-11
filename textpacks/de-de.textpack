@@ -608,6 +608,7 @@ verify_plugin => Plugin-Vorschau
 active_language => Aktuell verwendete Sprache
 admin_side_plugins => Adminplugins verwenden?
 advanced_preferences => Erweiterte Einstellungen
+all_preferences =>
 allow_article_php_scripting => PHP in Artikeln erlauben?
 allow_form_override => Bausteine überschreiben erlauben?
 allow_page_php_scripting => PHP in Seiten erlauben?

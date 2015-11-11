@@ -608,6 +608,7 @@ verify_plugin => Verifisere tilleggsprogram
 active_language => Språk i bruk
 admin_side_plugins =>
 advanced_preferences => Avansert
+all_preferences =>
 allow_article_php_scripting => Tillat PHP i artikler?
 allow_form_override => Tillat overstyring av skjemaer?
 allow_page_php_scripting => Tillat PHP i sider?

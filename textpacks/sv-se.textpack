@@ -608,6 +608,7 @@ verify_plugin => Verifiera plugin
 active_language => Aktivt språk
 admin_side_plugins => Använd admin-plugins?
 advanced_preferences => Avancerade
+all_preferences =>
 allow_article_php_scripting => Tillåt PHP-script i artiklar?
 allow_form_override => Tillåt att åsidosätta siddelar?
 allow_page_php_scripting => Tillåt PHP-script i sidmallar?

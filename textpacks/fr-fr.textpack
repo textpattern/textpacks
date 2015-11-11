@@ -608,6 +608,7 @@ verify_plugin => Vérifiez le plugin
 active_language => Langue actuelle :
 admin_side_plugins => Utiliser les plugins administratifs ?
 advanced_preferences => Options avancées
+all_preferences =>
 allow_article_php_scripting => Autoriser l’usage de PHP dans les articles ?
 allow_form_override => Autoriser l’usage du module de remplacement par article ?
 allow_page_php_scripting => Autoriser l’usage de PHP dans les gabarits ?

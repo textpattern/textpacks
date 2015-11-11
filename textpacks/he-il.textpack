@@ -608,6 +608,7 @@ verify_plugin => אמת תוסף
 active_language => השפה הפעילה כרגע
 admin_side_plugins => להשתמש בתוספי של צד המנהל?
 advanced_preferences => הגדרות מתקדמות
+all_preferences =>
 allow_article_php_scripting => לאפשר PHP במאמרים?
 allow_form_override => לאפשר דריסת טפסים?
 allow_page_php_scripting => לאפשר PHP בעמודים?

@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => فعال زبان
 admin_side_plugins => کیا انتظامی پلگ ان (admin-plugins) استمعال کریں ؟
 advanced_preferences => اعلٰی ترجیحات
+all_preferences =>
 allow_article_php_scripting => کیا مضامین میں PHP کی اجازت ہے ؟
 allow_form_override => کیا فارم (Form) زیر کرنے کی اجازت ہے ؟
 allow_page_php_scripting => کیا صفحات (Pages) میں PHP کی اجازت ہے ؟

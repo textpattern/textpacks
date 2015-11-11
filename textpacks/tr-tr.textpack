@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Etkin dil
 admin_side_plugins => Yönetici (Admin) eklentilerini kullanmak istiyormusunuz?
 advanced_preferences => Gelişmiş
+all_preferences =>
 allow_article_php_scripting => Makalelerde PHP betiklere izin vermek istiyormusunuz?
 allow_form_override => Geçersiz kılmaya izin ver?
 allow_page_php_scripting => Sayfalarda PHP betiklere izin vermek istiyormusunuz?

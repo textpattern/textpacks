@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Тренутно активни језик
 admin_side_plugins => Користи admin-side plugin-e?
 advanced_preferences => Напредно
+all_preferences =>
 allow_article_php_scripting => Дозволи PHP у уносима?
 allow_form_override => Дозволи занемаривање форме?
 allow_page_php_scripting => Дозволи PHP у страницама?

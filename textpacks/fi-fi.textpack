@@ -608,6 +608,7 @@ verify_plugin => Varmista liitännäinen
 active_language => Tällä hetkellä käytössä oleva kieli
 admin_side_plugins => Käytä admin-puolen liitännäisiä?
 advanced_preferences => Lisäasetukset
+all_preferences =>
 allow_article_php_scripting => Salli PHP artikkeleissa?
 allow_form_override => Salli erilaisen lomakkeen käyttö yksittäisessä artikkelissa?
 allow_page_php_scripting => Salli PHP sivupohjissa?

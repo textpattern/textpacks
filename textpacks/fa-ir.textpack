@@ -608,6 +608,7 @@ verify_plugin => تایید پلاگین
 active_language => زبان فعال
 admin_side_plugins => از پلاگین‌های سمت مدیر استفاده شود؟
 advanced_preferences => پیشرفته
+all_preferences =>
 allow_article_php_scripting => استفاده از PHP در نوشته‌ها مجاز باشد؟
 allow_form_override => تحریف فرم مجاز باشد؟
 allow_page_php_scripting => استفاده از PHP در صفحات مجاز باشد؟

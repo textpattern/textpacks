@@ -608,6 +608,7 @@ verify_plugin => Verificar plugin
 active_language => Idioma actualmente seleccionado
 admin_side_plugins => Usar plugins de administração?
 advanced_preferences => Preferências Avançadas
+all_preferences =>
 allow_article_php_scripting => Aceitar código PHP nos artigos?
 allow_form_override => Permitir o uso de módulo alternativo?
 allow_page_php_scripting => Aceitar código PHP nas páginas?

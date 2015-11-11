@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => 目前語系
 admin_side_plugins => 啟用管理介面外掛？
 advanced_preferences => 網站進階設定
+all_preferences =>
 allow_article_php_scripting => 允許在文章中使用PHP？
 allow_form_override => 允許覆蓋模型？
 allow_page_php_scripting => 允許在頁面中使用PHP？

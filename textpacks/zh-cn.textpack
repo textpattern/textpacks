@@ -608,6 +608,7 @@ verify_plugin => 验证插件
 active_language => 当前启用的语言
 admin_side_plugins => 使用管理端插件？
 advanced_preferences => 高级
+all_preferences =>
 allow_article_php_scripting => 允许在文章中使用 PHP？
 allow_form_override => 允许模块覆盖？
 allow_page_php_scripting => 允许在页面中使用 PHP？

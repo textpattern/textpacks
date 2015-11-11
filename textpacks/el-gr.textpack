@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Ενεργή γλώσσα
 admin_side_plugins => Χρήση αρθρωμάτων περιοχής διαχείρισης
 advanced_preferences => Προχωρημένες ρυθμίσεις
+all_preferences =>
 allow_article_php_scripting => Δυνατότητα χρήσης PHP μέσα σε άρθρα
 allow_form_override => Δυνατότητα παράκαμψης προκαθορισμένης φόρμας
 allow_page_php_scripting => Δυνατότητα χρήσης PHP μέσα σε πρότυπα σελίδων

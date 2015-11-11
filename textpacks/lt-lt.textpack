@@ -608,6 +608,7 @@ verify_plugin => Patikrinti įskiepį
 active_language => Šiuo metu aktyvi kalba
 admin_side_plugins => Ar naudoti administravimo pusės papildinius?
 advanced_preferences => Papildomos
+all_preferences =>
 allow_article_php_scripting => Leisti naudoti PHP straipsniuose?
 allow_form_override => Leisti formos keitimą?
 allow_page_php_scripting => Leisti naudoti PHP puslapiuose?

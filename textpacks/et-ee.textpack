@@ -608,6 +608,7 @@ verify_plugin =>
 active_language => Hetkel aktiivne keel
 admin_side_plugins => Kasuta admin-ala plugnaid?
 advanced_preferences => Keerulisemad seaded
+all_preferences =>
 allow_article_php_scripting => Luba PHP artiklites?
 allow_form_override => Luba vormide ülekirjutamist?
 allow_page_php_scripting => Luba PHP lehtedel?
