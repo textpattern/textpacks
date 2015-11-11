@@ -42,7 +42,6 @@ password_reset_confirmation => Хтось (можливо, Ви) надав за
 password_reset_confirmation_request => Будь ласка, підтвердить ваш запит на генерацію нового пароля
 password_reset_confirmation_request_sent => Запит на підтвердження був відісланий на вашу електронну скриньку. Будь ласка, перевірте вашу електронну пошту, та слідуйте інструкціям
 password_sent_to => Пароль відісланий на
-password_strength =>
 password_strength_0 =>
 password_strength_1 =>
 password_strength_2 =>
