@@ -35,6 +35,7 @@ new_password => 新しいパスワード
 password_change_confirmation =>
 password_changed => パスワードを変更しました
 password_changed_mailed => パスワードは変更され、メールを以下に送信しました：<strong>{email}</strong>。
+password_confirm_button =>
 password_forgotten => ※パスワードを忘れた方はこちら
 password_required => 新しいパスワードを記入してください。
 password_reset => パスワードの再設定

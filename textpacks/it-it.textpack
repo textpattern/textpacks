@@ -35,6 +35,7 @@ new_password => Nuova password
 password_change_confirmation =>
 password_changed => Password modificata.
 password_changed_mailed => Password modificata e inviata a <strong>{email}</strong>.
+password_confirm_button =>
 password_forgotten => Password dimenticata?
 password_required => Inserisci una nuova password.
 password_reset => Reimposta password

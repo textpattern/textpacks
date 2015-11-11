@@ -35,6 +35,7 @@ new_password => Новый пароль
 password_change_confirmation =>
 password_changed => Пароль изменен.
 password_changed_mailed => Пароль изменен и отправлен по адресу <strong>{email}</strong>.
+password_confirm_button =>
 password_forgotten => Забыли пароль?
 password_required => Пожалуйста, введите новый пароль.
 password_reset => Сбросить пароль

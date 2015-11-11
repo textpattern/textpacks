@@ -35,6 +35,7 @@ new_password => รหัสผ่านใหม่
 password_change_confirmation =>
 password_changed => เปลี่ยนรหัสผ่านแล้ว.
 password_changed_mailed => เปลี่ยนรหัสผ่านแล้ว ส่งไปยัง <strong>{email}</strong>
+password_confirm_button =>
 password_forgotten => ลืมรหัสผ่าน?
 password_required => โปรดให้รหัสผ่านใหม่
 password_reset => ตั้งรหัสผ่านใหม่

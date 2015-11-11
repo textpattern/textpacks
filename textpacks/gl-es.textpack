@@ -35,6 +35,7 @@ new_password => Novo contrasinal
 password_change_confirmation =>
 password_changed => O contrasinal mudou.
 password_changed_mailed => Cambiouse o contrasinal e enviouse a <strong>{email}</strong>.
+password_confirm_button =>
 password_forgotten => Esqueciches o contrasinal?
 password_required => Por favor, introduce un novo contrasinal.
 password_reset => Cambiar contrasinal

@@ -35,6 +35,7 @@ new_password => New password
 password_change_confirmation => Your password has been changed. If you did not request a change to your password, contact your site administrator.
 password_changed => Password changed.
 password_changed_mailed => Password changed and emailed to <strong>{email}</strong>.
+password_confirm_button => Set password
 password_forgotten => Forgot password?
 password_required => Please provide a new password.
 password_reset => Reset password

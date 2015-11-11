@@ -35,6 +35,7 @@ new_password => 新密码
 password_change_confirmation =>
 password_changed => 密码已更改
 password_changed_mailed => 密码已更改并邮寄到 <strong>{email}</strong>。
+password_confirm_button =>
 password_forgotten => 忘记密码了？
 password_required => 请提供一个新密码。
 password_reset => 重置密码

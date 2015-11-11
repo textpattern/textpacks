@@ -35,6 +35,7 @@ new_password => Νέος κωδικός πρόσβασης
 password_change_confirmation =>
 password_changed => Ο κωδικός πρόσβασης τροποποιήθηκε.
 password_changed_mailed => Ο κωδικός πρόσβασης τροποποιήθηκε και απεστάλη στη διεύθυνση <strong>{email}</strong>.
+password_confirm_button =>
 password_forgotten => Ξεχάσατε τον κωδικό προσβασής
 password_required => Παρακαλούμε εισάγετε ένα νέο κωδικό πρόσβασης.
 password_reset => Επαναφορά κωδικού πρόσβασης

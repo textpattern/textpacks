@@ -35,6 +35,7 @@ new_password => نیا ‏پاس ورڈ‏
 password_change_confirmation =>
 password_changed => ‏پاس ورڈ‏ تبدیل کیا
 password_changed_mailed => ‏پاس ورڈ‏ تبدیل کیا گیا اور ای میل بذریعہ <strong>{email}</strong> کو بھیجا گیا
+password_confirm_button =>
 password_forgotten => کیا آپ اپنا ‏پاس ورڈ‏ بھول گئے ؟
 password_required => بارہ کرم، ایک نیا ‏پاس ورڈ‏ داخل کریں
 password_reset => ‏پاس ورڈ‏ پھر سیٹ کریں

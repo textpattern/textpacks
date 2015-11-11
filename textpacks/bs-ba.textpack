@@ -35,6 +35,7 @@ new_password => Nova lozinka
 password_change_confirmation =>
 password_changed => Lozinka promjenjena.
 password_changed_mailed => Lozinka promjenjena i poslata na <strong>{email}</strong>.
+password_confirm_button =>
 password_forgotten => Zaboravili ste lozinku?
 password_required => Molimo unesite novu lozinku.
 password_reset => Poništavanje lozinke
