@@ -32,9 +32,9 @@ managing_editor => تدوین کار
 must_reassign_assets => بارہ کرم، صارف کے اشیا کو دوبارہ تفویض کریں
 new_email => نیا ای میل
 new_password => نیا ‏پاس ورڈ‏
-password_change_confirmation =>
 password_changed => ‏پاس ورڈ‏ تبدیل کیا
 password_changed_mailed => ‏پاس ورڈ‏ تبدیل کیا گیا اور ای میل بذریعہ <strong>{email}</strong> کو بھیجا گیا
+password_change_confirmation =>
 password_confirm_button =>
 password_forgotten => کیا آپ اپنا ‏پاس ورڈ‏ بھول گئے ؟
 password_required => بارہ کرم، ایک نیا ‏پاس ورڈ‏ داخل کریں
@@ -195,9 +195,9 @@ detail_toggle => ‏تفصیل کے ساتھ دیکھیں
 draft => نا ہموار
 duplicate =>
 excerpt => اختصار
+expired => زائدالمدت
 expire_date =>
 expire_time =>
-expired => زائدالمدت
 external_links =>
 form_not_found => فارم (Form) نہیں ملا
 form_not_specified => کوئی فارم (Form) تخصیص نہیں کیا
@@ -224,9 +224,9 @@ navigation =>
 no_results_found => کچھ نہیں ملا
 password => ‏پاس ورڈ‏
 per_page => ایک صفہ پر
+published_with =>
 publish_date =>
 publish_time =>
-published_with =>
 range => وسعت
 restricted_area => ممنوع حصّہ
 salutation =>
@@ -505,8 +505,8 @@ not_saved => محفوظ <strong>نہیں</strong> کیا !
 no_images_recorded => کوئی تصویر دستیاب نہیں
 only_graphic_files_allowed => صرف .jpg, .gif, .png or .swf فائل کے قسمیں کی اجازت ہے
 replace_image => تصویر بدلیں
-search_images =>
 save_these_settings_as_default => کیا ان سیٹنگ کو ترجیح دیں ؟
+search_images =>
 thumbnail_deleted => تصویر صغیر حذف کیا
 thumbnail_not_saved => تصویر صغیر <strong>{id}</strong> محفوظ <em>نہیں</em> !
 thumbnail_saved => تصویر صغیر <strong>{id}</strong> محفوظ کیا
@@ -611,12 +611,12 @@ verify_plugin =>
 active_language => فعال زبان
 admin_side_plugins => کیا انتظامی پلگ ان (admin-plugins) استمعال کریں ؟
 advanced_preferences => اعلٰی ترجیحات
-all_preferences =>
 allow_article_php_scripting => کیا مضامین میں PHP کی اجازت ہے ؟
 allow_form_override => کیا فارم (Form) زیر کرنے کی اجازت ہے ؟
 allow_page_php_scripting => کیا صفحات (Pages) میں PHP کی اجازت ہے ؟
 allow_raw_php_scripting => کیا خام PHP کی اجازت ہے ؟
 all_hits => تمام ‏سرگرمی
+all_preferences =>
 archive_dateformat => تاریخ محفوظہ کی وضع
 archive_date_case => تاریک محفوظہ کی حرفی شکل
 archive_dir => پوشہ محفوظہ
@@ -1058,10 +1058,10 @@ you_can_access => میں انتخاب کردہ لاگ ان معلومات کے �
 #@skin
 create_skin =>
 edit_skin =>
+skin_author =>
 skin_name =>
 skin_title =>
 skin_version =>
-skin_author =>
 skin_website =>
 #@tag
 active_class =>
