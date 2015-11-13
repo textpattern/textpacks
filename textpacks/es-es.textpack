@@ -557,7 +557,7 @@ logs => Registros
 logs_deleted => Registros borrados: <strong>{list}</strong>.
 no_refers_recorded => No se ha registrado ningún remitente.
 referrer => Remitente
-search_logs => Registro de búsquedas
+search_logs => Buscar registros
 visitor_logs => Registro de visitantes
 #@page
 all_pages => Todas las páginas
@@ -975,7 +975,7 @@ edit_section => Editar la sección
 edit_sections => modificar secciones
 include_in_search => ¿Incluir esta sección en las búsquedas?
 on_front_page => ¿La sección aparece en la página de inicio?
-search_sections => buscar en secciones
+search_sections => Buscar en secciones
 section => Sección
 sections => Secciones
 section_created => Sección <strong>{name}</strong> creada.
