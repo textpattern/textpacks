@@ -621,7 +621,7 @@ archive_dateformat => Format tanggal arsip
 archive_date_case => Wadah tanggal arsip
 archive_dir => Direktori arsip
 articles_use_excerpts => Artikel menggunakan kutipan?
-attach_titles_to_permalinks => Sertakan judul ke permlinks?
+attach_titles_to_permalinks => Sertakan judul ke permalinks?
 auto_dst => Sesuaikan <abbr title="Daylight Saving Time">DST</abbr> pengaturan secara otomatis?
 category_subcategory => /kategori/sub-kategori
 check_for_txp_updates => Cek Pemutakhiran
