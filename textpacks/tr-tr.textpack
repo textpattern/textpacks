@@ -122,6 +122,7 @@ article_categories_deleted => Makale kategorileri silindi: <strong>{list}</stron
 article_category => Makale kategorisi
 article_category_already_exists => Makale kategorisi <strong>{name}</strong> zaten mevcut.
 article_category_created => Makale kategorisi <strong>{name}</strong> oluşturuldu.
+article_category_description =>
 article_category_invalid => Makale kategorisi <strong>{name}</strong> geçersiz.
 article_category_name => Makale kategorisi adı
 article_category_title => Makale kategorisi başlığı

@@ -122,6 +122,7 @@ article_categories_deleted => หมวดหมู่บทความที�
 article_category => หมวดหมู่บทความ
 article_category_already_exists => มีหมวดหมู่บทความที่ชื่อ <strong>{name}</strong> แล้ว
 article_category_created => สร้างหมวดหมู่บทความ <strong>{name}</strong> แล้ว
+article_category_description =>
 article_category_invalid => หมวดหมู่บทความชื่อ <strong>{name}</strong> ไม่ถูกต้อง
 article_category_name => ชื่อหมวดหมู่บทความ
 article_category_title => ชื่อแสดงหมวดหมู่บทความ

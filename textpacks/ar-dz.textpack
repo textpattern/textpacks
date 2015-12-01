@@ -122,6 +122,7 @@ article_categories_deleted => حذف فئات المقالات : <strong>{list}<
 article_category => فئة المقال
 article_category_already_exists => فئة المقال موجودة
 article_category_created => إنشاء فئة المقال
+article_category_description =>
 article_category_invalid => فئة المقال غير صحيحة
 article_category_name => اسم فئة المقال
 article_category_title => الخط الرئيسى لفئة المقال

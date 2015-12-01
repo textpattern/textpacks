@@ -122,6 +122,7 @@ article_categories_deleted => 文章分类已删除：<strong>{list}</strong>。
 article_category => 文章分类
 article_category_already_exists => 文章分类 <strong>{name}</strong> 已存在。
 article_category_created => 文章分类 <strong>{name}</strong> 已建立。
+article_category_description =>
 article_category_invalid => 文章分类 <strong>{name}</strong> 是无效的。
 article_category_name => 文章分类名称
 article_category_title => 文章分类标题

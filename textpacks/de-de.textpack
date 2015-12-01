@@ -122,6 +122,7 @@ article_categories_deleted => Artikelkategorie gelöscht: <strong>{list}</strong
 article_category => Artikelkategorie
 article_category_already_exists => Artikelkategorie <strong>{name}</strong> existiert bereits.
 article_category_created => Artikelkategorie <strong>{name}</strong> erstellt.
+article_category_description =>
 article_category_invalid => Ungültige Artikelkategorie <strong>{name}</strong>.
 article_category_name => Name der Artikelkategorie
 article_category_title => Titel der Artikelkategorie

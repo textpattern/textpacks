@@ -122,6 +122,7 @@ article_categories_deleted => Kategorije članaka obrisane: <strong>{list}</stro
 article_category => Kategorija članka
 article_category_already_exists => Kategorija članka <strong>{name}</strong> već postoji.
 article_category_created => Kategorija članka <strong>{name}</strong> kreirana.
+article_category_description =>
 article_category_invalid => Kategorija članka <strong>{name}</strong> neispravna.
 article_category_name => Naziv kategorije članka
 article_category_title => Naslov kategorije članka

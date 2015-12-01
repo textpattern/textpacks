@@ -122,6 +122,7 @@ article_categories_deleted => Catégories d’articles supprimées : <strong>{l
 article_category => Catégorie d’article
 article_category_already_exists => La catégorie d’articles <strong>{name}</strong> existe déjà.
 article_category_created => Catégorie d’articles <strong>{name}</strong> créée.
+article_category_description =>
 article_category_invalid => La catégorie d’article <strong>{name}</strong> n’est pas valide.
 article_category_name => Nom de la catégorie d’article
 article_category_title => Titre de la catégorie d’article

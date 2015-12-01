@@ -122,6 +122,7 @@ article_categories_deleted => Kategorija unosa izbrisana: <strong>{list}</strong
 article_category => Kategorija unosa
 article_category_already_exists => Kategorija unosa <strong>{name}</strong> već postoji.
 article_category_created => Kategorija unosa <strong>{name}</strong> napravljena.
+article_category_description =>
 article_category_invalid => Kategorija unosa <strong>{name}</strong> neispravna.
 article_category_name => Ime kategorije unosa
 article_category_title => Naslov kategorije unosa

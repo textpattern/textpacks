@@ -122,6 +122,7 @@ article_categories_deleted => Категорија уноса избрисана
 article_category => Категорија уноса
 article_category_already_exists => Категорија уноса <strong>{name}</strong> већ постоји.
 article_category_created => Категорија уноса <strong>{name}</strong> креирана.
+article_category_description =>
 article_category_invalid => Категорија уноса <strong>{name}</strong> неисправна.
 article_category_name => Име категорије уноса
 article_category_title => Наслов категорије уноса

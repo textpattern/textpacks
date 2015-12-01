@@ -122,6 +122,7 @@ article_categories_deleted => Odstraněny kategorie: <strong>{list}</strong>.
 article_category => Kategorie
 article_category_already_exists => Kategorie <strong>{name}</strong> již existuje.
 article_category_created => Kategorie <strong>{name}</strong> vytvořena.
+article_category_description =>
 article_category_invalid => Neplatná kategorie <strong>{name}</strong>.
 article_category_name => Kategorie
 article_category_title => Název kategorie

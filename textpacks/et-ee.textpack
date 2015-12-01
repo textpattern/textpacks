@@ -122,6 +122,7 @@ article_categories_deleted =>
 article_category => Artikli kategooria
 article_category_already_exists =>
 article_category_created =>
+article_category_description =>
 article_category_invalid =>
 article_category_name => Artikli kategooria nimi
 article_category_title => Artikli kategooria pealkiri

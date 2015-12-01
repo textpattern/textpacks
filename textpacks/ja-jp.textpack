@@ -122,6 +122,7 @@ article_categories_deleted => 以下の記事用カテゴリを削除しまし�
 article_category => 記事用カテゴリ
 article_category_already_exists => 記事用カテゴリ <strong>{name}</strong> は既に存在します。
 article_category_created => 記事用カテゴリ <strong>{name}</strong> を作成しました。
+article_category_description =>
 article_category_invalid => 記事用カテゴリ <strong>{name}</strong> は不正です。
 article_category_name => 記事用カテゴリ名
 article_category_title => 記事用カテゴリのタイトル

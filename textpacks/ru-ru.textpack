@@ -122,6 +122,7 @@ article_categories_deleted => Удалены категории статей: <s
 article_category => Категория статьи
 article_category_already_exists => Категория статей <strong>{name}</strong> уже есть.
 article_category_created => Категория статей <strong>{name}</strong> создана.
+article_category_description =>
 article_category_invalid => Имя категории статей <strong>{name}</strong> недопустимо.
 article_category_name => Название категории статей
 article_category_title => Заголовок категории статей

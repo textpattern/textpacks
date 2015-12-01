@@ -122,6 +122,7 @@ article_categories_deleted => این رده‌نوشته‌ها پاک شدند 
 article_category => رده‌ نوشته
 article_category_already_exists => رده‌نوشته <strong>{name}</strong>از پیش موجود است.
 article_category_created => رده‌نوشته <strong>{name}</strong> ساخته شد.
+article_category_description =>
 article_category_invalid => رده‌نوشته <strong>{name}</strong> نامعتبر است.
 article_category_name => نام رده نوشته
 article_category_title => عنوان رده نوشته

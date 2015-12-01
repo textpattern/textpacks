@@ -122,6 +122,7 @@ article_categories_deleted => Dessa artikelkategorier raderades: <strong>{list}<
 article_category => Artikelkategori
 article_category_already_exists => Artikelkategorin <strong>{name}</strong> finns redan.
 article_category_created => Artikelkategorin <strong>{name}</strong> skapades.
+article_category_description =>
 article_category_invalid => Artikelkategorin <strong>{name}</strong> är ogiltlig.
 article_category_name => Artikelkategorins namn
 article_category_title => Artikelkategorins rubrik

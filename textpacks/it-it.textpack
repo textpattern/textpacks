@@ -122,6 +122,7 @@ article_categories_deleted => Categorie articoli eliminate: <strong>{list}</stro
 article_category => Categoria articolo
 article_category_already_exists => Categoria articoli <strong>{name}</strong> già esistente.
 article_category_created => Categoria articoli <strong>{name}</strong> creata.
+article_category_description =>
 article_category_invalid => Categoria articoli <strong>{name}</strong> non valida.
 article_category_name => Nome categoria articolo
 article_category_title => Titolo categoria articolo

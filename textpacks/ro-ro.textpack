@@ -122,6 +122,7 @@ article_categories_deleted => Urmatoarea categorie de articole a fost stearsa: {
 article_category => Categorie de articole
 article_category_already_exists => Categoria de articole <strong>{name}</strong> deja exista.
 article_category_created => Categoria de articole <strong>{name}</strong> a fost creata.
+article_category_description =>
 article_category_invalid => Categoria de articole <strong>{name}</strong> este invalida.
 article_category_name => Numele categoriei de articole
 article_category_title => Titlul categoriei de articole

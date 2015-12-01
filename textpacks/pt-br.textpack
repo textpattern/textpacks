@@ -122,6 +122,7 @@ article_categories_deleted => Categorias do artigo excluídas: <strong>{list}</s
 article_category => Categoria do artigo
 article_category_already_exists => A Categoria do artigo <strong>{name}</strong> já existe!
 article_category_created => A Categoria do artigo <strong>{name}</strong> foi criada.
+article_category_description =>
 article_category_invalid => O nome da categoria do artigo <strong>{name}</strong> é inválido.
 article_category_name => Nome da categoria do artigo
 article_category_title => Título da categoria do artigo

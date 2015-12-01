@@ -122,6 +122,7 @@ article_categories_deleted => Categories d’article esborrades: <strong>{list}<
 article_category => Categoria d’article
 article_category_already_exists => La categoria d’article <strong>{name}</strong> ja existeix.
 article_category_created => S’ha creat la categoria d’article <strong>{name}</strong>.
+article_category_description =>
 article_category_invalid => La categoria d’article <strong>{name}</strong> no és vàlida.
 article_category_name => Nom de categoria d’article
 article_category_title => Títol de categoria d’article

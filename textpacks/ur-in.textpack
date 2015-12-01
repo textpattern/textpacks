@@ -122,6 +122,7 @@ article_categories_deleted => مضمون زمرہ حذف کیا : <strong>{list}
 article_category => مضمون زمرہ
 article_category_already_exists => مضمون زمرہ <strong>{name}</strong> پہلے سے موجود ہے
 article_category_created => مضمون زمرہ <strong>{name}</strong> بنا ہوا
+article_category_description =>
 article_category_invalid => مضمون زمرہ <strong>{name}</strong> جائز نہیں
 article_category_name => مضمون زمرہ نام
 article_category_title => مضمون زمرہ عنوان

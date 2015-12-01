@@ -122,6 +122,7 @@ article_categories_deleted => Article categories deleted: <strong>{list}</strong
 article_category => Article category
 article_category_already_exists => Article category <strong>{name}</strong> already exists.
 article_category_created => Article category <strong>{name}</strong> created.
+article_category_description => Article category description
 article_category_invalid => Article category <strong>{name}</strong> invalid.
 article_category_name => Article category name
 article_category_title => Article category title

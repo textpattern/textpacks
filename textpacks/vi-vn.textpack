@@ -122,6 +122,7 @@ article_categories_deleted => Đã xóa thể loại bài viết: <strong>{list}
 article_category => Các thể loại bài viết
 article_category_already_exists => Đã có thể loại <strong>{name}</strong> từ trước.
 article_category_created => Đã tạo thể loại <strong>{name}</strong>.
+article_category_description =>
 article_category_invalid => Thể loại <strong>{name}</strong> sai quy cách.
 article_category_name => Tên thể loại bài viết
 article_category_title => Tiêu đề thể loại bài viết

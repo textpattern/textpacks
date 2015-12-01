@@ -122,6 +122,7 @@ article_categories_deleted => Изтрити категории статии: <s
 article_category => Категории статии
 article_category_already_exists => Категорията статии <strong>{name}</strong> съществува.
 article_category_created => Категорията статии <strong>{name}</strong> е създадена.
+article_category_description =>
 article_category_invalid => Категорията статии <strong>{name}</strong> не е валидна.
 article_category_name => Име на категорията статии
 article_category_title => Заглавие на категорията статии

@@ -122,6 +122,7 @@ article_categories_deleted => קטגוריות המאמר נמחקו: <strong>{l
 article_category => קטגוריית המאמר
 article_category_already_exists => קטגוריית המאמר <strong>{name}</strong> כבר קיימת.
 article_category_created => קטגוריית המאמר <strong>{name}</strong> נוצרה.
+article_category_description =>
 article_category_invalid => קטגוריית המאמר <strong>{name}</strong> אינה תקינה.
 article_category_name => שם קטגוריית המאמר
 article_category_title => כותרת קטגוריית המאמר

@@ -122,6 +122,7 @@ article_categories_deleted => 글 분류 <strong>{list}</strong>을(를) 지웠�
 article_category => 글 분류
 article_category_already_exists => 글 분류 <strong>{name}</strong>은(는) 이미 있습니다.
 article_category_created => 글 분류 <strong>{name}</strong>을(를) 만들었습니다.
+article_category_description =>
 article_category_invalid => 글 분류 <strong>{name}</strong>은(는) 유효하지 않습니다.
 article_category_name => 글 분류 이름
 article_category_title => 글 분류 제목

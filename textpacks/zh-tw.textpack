@@ -122,6 +122,7 @@ article_categories_deleted => 已刪除文章分類: <strong>{list}</strong>.
 article_category => 文章分類
 article_category_already_exists => 文章分類 <strong>{name}</strong> 已存在.
 article_category_created => 已建立文章分類 <strong>{name}</strong>.
+article_category_description =>
 article_category_invalid => <strong>{name}</strong> 不是允許的文章分類名稱.
 article_category_name => 文章分類名稱
 article_category_title => 文章分類標題

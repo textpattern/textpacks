@@ -122,6 +122,7 @@ article_categories_deleted => Cikk kategóriák törölve: <strong>{list}</stron
 article_category => Cikk kategória
 article_category_already_exists => A cikk kategória már létezik: <strong>{name}</strong>.
 article_category_created => A cikk kategória létrehozve: <strong>{name}</strong>.
+article_category_description =>
 article_category_invalid => A cikk kategóriia nem megfelelő: <strong>{name}</strong>.
 article_category_name => Cikk kategória név
 article_category_title => Cikk kategória cím

@@ -122,6 +122,7 @@ article_categories_deleted => Artikel categorieën: <strong>{list}</strong> verw
 article_category => artikelcategorie
 article_category_already_exists => Artikelcategorie <strong>{name}</strong> bestaat al.
 article_category_created => Artikelcategorie <strong>{name}</strong> toegevoegd.
+article_category_description =>
 article_category_invalid => Artikelcategorie <strong>{name}</strong> ongeldig.
 article_category_name => Naam artikelcategorie
 article_category_title => Titel artikelcategorie

@@ -122,6 +122,7 @@ article_categories_deleted => Straipsnių kategorijos pašalintos: <strong>{list
 article_category => Straipsnių kategorija
 article_category_already_exists => Tokia straipsnio kategorija <strong>{name}</strong> jau egzistuoja.
 article_category_created => Straipsnių kategorija <strong>{name}</strong> sukurta.
+article_category_description =>
 article_category_invalid => Straipsnių kategorija <strong>{name}</strong> nekorektiška.
 article_category_name => Straipsnių kategorijos vardas
 article_category_title => Straipsnių kategorijos pavadinimas

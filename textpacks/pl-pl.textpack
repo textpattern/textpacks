@@ -122,6 +122,7 @@ article_categories_deleted => Usunięto kategorie artykułów: <strong>{list}</s
 article_category => Kategoria artykułów
 article_category_already_exists => Kategoria artykułów <strong>{name}</strong> już istnieje.
 article_category_created => Kategoria artykułów <strong>{name}</strong> została utworzona.
+article_category_description =>
 article_category_invalid => Nazwa kategorii artykułów <strong>{name}</strong> jest nieprawidłowa, zmiany nie zostały zapisane.
 article_category_name => Nazwa kategorii artykułów
 article_category_title => Tytuł kategorii artykułów

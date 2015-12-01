@@ -122,6 +122,7 @@ article_categories_deleted => Artikkelkategorier slettet: <strong>{list}</strong
 article_category => Artikkelkategori
 article_category_already_exists => Artikkelkategori <strong>{name}</strong> fines allerede.
 article_category_created => Artikkelkategori <strong>{name}</strong> opprettet.
+article_category_description =>
 article_category_invalid => Artikkelkategori <strong>{name}</strong> ikke gyldig.
 article_category_name => Navn på artikkelkategori
 article_category_title => Tittel på artikkelkategori

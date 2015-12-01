@@ -122,6 +122,7 @@ article_categories_deleted => Ierakstu kategorijas dzēstas: <strong>{list}</str
 article_category => Ierakstu kategorija
 article_category_already_exists => Ierakstu kategorija <strong>{name}</strong> jau pastāv.
 article_category_created => Ierakstu kategorija <strong>{name}</strong> izveidota.
+article_category_description =>
 article_category_invalid => Ierakstu kategorija <strong>{name}</strong> nederīga.
 article_category_name => Ierakstu kategorijas nosaukums
 article_category_title => Ierakstu kategorijas virsraksts

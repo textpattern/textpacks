@@ -122,6 +122,7 @@ article_categories_deleted => Poistetut artikkelikategoriat: <strong>{list}</str
 article_category => Artikkelikategoria
 article_category_already_exists => Artikkelikategoria <strong>{name}</strong> on jo olemassa.
 article_category_created => Artikkelikategoria <strong>{name}</strong> luotu.
+article_category_description =>
 article_category_invalid => Artikkelikategoria <strong>{name}</strong> ei kelpaa.
 article_category_name => Artikkelikategorian nimi
 article_category_title => Artikkelikategorian otsikko
