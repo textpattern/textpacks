@@ -5,6 +5,7 @@ lang_code => fr-FR
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Ajouter un auteur
 and_mailed_to => et l’envoyer à
 assign_assets_to => Attribuer les contenus de cet utilisateur à

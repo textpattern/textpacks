@@ -5,6 +5,7 @@ lang_code => sr-RS
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Додај новог аутора
 and_mailed_to => и послато
 assign_assets_to =>

@@ -5,6 +5,7 @@ lang_code => de-DE
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Einen neuen Autor hinzufügen
 and_mailed_to => und gesendet an
 assign_assets_to => Bestand übertragen auf

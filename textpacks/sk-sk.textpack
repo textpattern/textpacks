@@ -5,6 +5,7 @@ lang_code => sk-SK
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Nový autor
 and_mailed_to => a odoslaný na
 assign_assets_to =>

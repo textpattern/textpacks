@@ -5,6 +5,7 @@ lang_code => uk-UA
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Додати нового автора
 and_mailed_to => і відправлений на
 assign_assets_to => Змінити автора створеного наповнення на

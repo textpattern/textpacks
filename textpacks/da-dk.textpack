@@ -5,6 +5,7 @@ lang_code => da-DK
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Tilføj ny forfatter
 and_mailed_to => og sendt til
 assign_assets_to =>

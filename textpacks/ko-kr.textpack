@@ -5,6 +5,7 @@ lang_code => ko-KR
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => 글쓴이 추가
 and_mailed_to => 다음 글쓴이에게 전자우편 보냄
 assign_assets_to => 글을 다음 글쓴이에게 넘기기

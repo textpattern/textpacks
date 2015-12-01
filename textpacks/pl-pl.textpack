@@ -5,6 +5,7 @@ lang_code => pl-PL
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Dodaj nowego użytkownika
 and_mailed_to => i wysłane do
 assign_assets_to => Przydziel zasoby do

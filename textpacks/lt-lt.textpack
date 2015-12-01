@@ -5,6 +5,7 @@ lang_code => lt-LT
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Pridėti naują autorių
 and_mailed_to => ir pasiųstas paštu
 assign_assets_to => Paskirti naudojo turinį

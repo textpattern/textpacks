@@ -5,6 +5,7 @@ lang_code => fa-IR
 lang_dir => rtl
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => افزودن نویسنده جدید
 and_mailed_to => و فرستاده شد به
 assign_assets_to => انتصاب محتوای کاربر به

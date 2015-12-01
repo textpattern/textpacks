@@ -5,6 +5,7 @@ lang_code => ar-DZ
 lang_dir => rtl
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => إضافة مؤلف
 and_mailed_to => ويرسل إلى
 assign_assets_to => تحويل ملكية محتوى المستخدم إلى

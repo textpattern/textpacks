@@ -5,6 +5,7 @@ lang_code => tr-TR
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Yeni Yazar Ekle
 and_mailed_to => ve mail olarak yolla
 assign_assets_to =>

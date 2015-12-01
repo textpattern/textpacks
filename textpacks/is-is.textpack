@@ -5,6 +5,7 @@ lang_code => is-IS
 lang_dir => ltr
 #@admin
 account_activation =>
+account_activation_confirmation =>
 add_new_author => Bæta við höfundi
 and_mailed_to => og sent til
 assign_assets_to =>
