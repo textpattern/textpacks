@@ -4,6 +4,7 @@ lang_name => ภาษาไทย
 lang_code => th-TH
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => เพิ่มนักเขียน
 and_mailed_to => และจะเมลไปให้
 assign_assets_to =>

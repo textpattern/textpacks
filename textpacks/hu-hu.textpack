@@ -4,6 +4,7 @@ lang_name => Magyar
 lang_code => hu-HU
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Új szerző hozzáadása:
 and_mailed_to => a levelet elküldtük a következő címre
 assign_assets_to =>

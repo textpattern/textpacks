@@ -4,6 +4,7 @@ lang_name => Srpski
 lang_code => sr-SP
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Dodaj novog autora
 and_mailed_to => i poslato
 assign_assets_to =>

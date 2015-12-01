@@ -4,6 +4,7 @@ lang_name => Tiếng Việt
 lang_code => vi-VN
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Thêm tác giả mới
 and_mailed_to => và gửi thư tới
 assign_assets_to => Gán nội dung của người dùng cho

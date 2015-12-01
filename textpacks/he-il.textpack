@@ -4,6 +4,7 @@ lang_name => עברית
 lang_code => he-IL
 lang_dir => rtl
 #@admin
+account_activation =>
 add_new_author => הוסף כותב חדש
 and_mailed_to => ונשלח אל
 assign_assets_to => שייך תוכן משתמש אל

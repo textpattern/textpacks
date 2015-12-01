@@ -4,6 +4,7 @@ lang_name => 日本語
 lang_code => ja-JP
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => ユーザの追加
 and_mailed_to => さらにメールの送付
 assign_assets_to => ユーザのコンテンツの譲渡先

@@ -4,6 +4,7 @@ lang_name => Română
 lang_code => ro-RO
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Adauga un autor nou
 and_mailed_to => si a fost trimis mail lui
 assign_assets_to => Asociaza continutul lui

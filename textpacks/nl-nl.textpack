@@ -4,6 +4,7 @@ lang_name => Nederlands
 lang_code => nl-NL
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Nieuwe medewerker toevoegen
 and_mailed_to => en gemaild naar
 assign_assets_to => Alles van deze medewerker onderbrengen bij

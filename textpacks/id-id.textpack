@@ -4,6 +4,7 @@ lang_name => Bahasa Indonesia
 lang_code => id-ID
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Tambah Penulis Baru
 and_mailed_to => dan di-email ke
 assign_assets_to => Menetapkan konten pengguna untuk

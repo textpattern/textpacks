@@ -4,6 +4,7 @@ lang_name => Eesti
 lang_code => et-EE
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Lisa uus autor
 and_mailed_to => ja meilitud
 assign_assets_to =>

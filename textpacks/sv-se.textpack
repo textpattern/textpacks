@@ -4,6 +4,7 @@ lang_name => Svenska
 lang_code => sv-SE
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Lägg till skribent
 and_mailed_to => och e-postas till
 assign_assets_to => Knyt användarens innehåll till

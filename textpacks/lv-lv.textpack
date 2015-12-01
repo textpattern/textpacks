@@ -4,6 +4,7 @@ lang_name => Latviešu
 lang_code => lv-LV
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Pievienot jaunu autoru
 and_mailed_to => un nosūtīta uz
 assign_assets_to => Piešķirt lietotāja saturu

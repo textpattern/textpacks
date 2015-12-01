@@ -4,6 +4,7 @@ lang_name => Galego
 lang_code => gl-ES
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Engadir novo autor
 and_mailed_to => e envialo a
 assign_assets_to => Asignar contido do usuario a

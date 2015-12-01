@@ -4,6 +4,7 @@ lang_name => Português (Portugal)
 lang_code => pt-PT
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Adicionar autor
 and_mailed_to => e enviado para
 assign_assets_to => Atribuir conteudo do utilizador a

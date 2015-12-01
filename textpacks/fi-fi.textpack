@@ -4,6 +4,7 @@ lang_name => Suomi
 lang_code => fi-FI
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Lisää uusi käyttäjä
 and_mailed_to => ja lähetetty
 assign_assets_to => Siirrä käyttäjän sisältö käyttäjälle

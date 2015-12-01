@@ -4,6 +4,7 @@ lang_name => Hrvatski
 lang_code => hr-HR
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Dodaj novog autora
 and_mailed_to => i poslano
 assign_assets_to =>

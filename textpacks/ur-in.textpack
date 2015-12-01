@@ -4,6 +4,7 @@ lang_name => اردو
 lang_code => ur-IN
 lang_dir => rtl
 #@admin
+account_activation =>
 add_new_author => ایک نۓ مصنف کو شامل کریں
 and_mailed_to => اور یہاں ای میل بھیجو
 assign_assets_to => صارف کے اشیا یہاں تفویض کریں

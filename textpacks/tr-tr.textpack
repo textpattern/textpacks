@@ -4,6 +4,7 @@ lang_name => Türkçe
 lang_code => tr-TR
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Yeni Yazar Ekle
 and_mailed_to => ve mail olarak yolla
 assign_assets_to =>

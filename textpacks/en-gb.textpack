@@ -4,6 +4,7 @@ lang_name => English (British)
 lang_code => en-GB
 lang_dir => ltr
 #@admin
+account_activation => Please activate your account
 add_new_author => Add new author
 and_mailed_to => and emailed to
 assign_assets_to => Assign author’s content to

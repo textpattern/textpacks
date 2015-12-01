@@ -4,6 +4,7 @@ lang_name => български
 lang_code => bg-BG
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Добави автор
 and_mailed_to => и изпрати до
 assign_assets_to => Прехвърли съдържанието на

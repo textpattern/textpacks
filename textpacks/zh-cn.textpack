@@ -4,6 +4,7 @@ lang_name => 中文(简体)
 lang_code => zh-CN
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => 新增作者
 and_mailed_to => 同时邮寄到
 assign_assets_to => 分配用户的内容到

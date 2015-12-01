@@ -4,6 +4,7 @@ lang_name => Ελληνικά
 lang_code => el-GR
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Προσθήκη νέου χρήστη
 and_mailed_to => και απεστάλη στον/στη
 assign_assets_to =>

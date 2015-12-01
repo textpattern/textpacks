@@ -4,6 +4,7 @@ lang_name => Русский
 lang_code => ru-RU
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Добавить нового автора
 and_mailed_to => и отправлен на
 assign_assets_to => Сменить автора созданного наполнения на

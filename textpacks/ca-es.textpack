@@ -4,6 +4,7 @@ lang_name => Català
 lang_code => ca-ES
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Afegeix nou autor
 and_mailed_to => i enviat a
 assign_assets_to =>

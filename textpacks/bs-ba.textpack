@@ -4,6 +4,7 @@ lang_name => Bosanski
 lang_code => bs-BA
 lang_dir => ltr
 #@admin
+account_activation =>
 add_new_author => Dodaj novog autora
 and_mailed_to => i poslat na
 assign_assets_to =>
