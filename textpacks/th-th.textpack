@@ -154,6 +154,7 @@ image_head => หมวดหมู่ภาพ
 link_categories_deleted => หมวดหมู่ลิงก์ที่ถูกลบทิ้ง: <strong>{list}</strong>
 link_category_already_exists => มีหมวดหมู่ลิงก์ชื่อ <strong>{name}</strong> อยู่แล้ว
 link_category_created => สร้างหมวดหมู่ลิงก์ <strong>{name}</strong> แล้ว
+link_category_description =>
 link_category_invalid => หมวดหมู่ลิงก์ <strong>{name}</strong> ไม่ถูกต้อง
 link_category_name => ชื่อหมวดหมู่ลิงก์
 link_category_title => ชื่อแสดงหมวดหมู่ลิงก์

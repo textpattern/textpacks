@@ -154,6 +154,7 @@ image_head => 图片分类
 link_categories_deleted => 链接分类已删除: <strong>{list}</strong>。
 link_category_already_exists => 链接分类 <strong>{name}</strong> 已存在。
 link_category_created => 链接分类 <strong>{name}</strong> 已建立。
+link_category_description =>
 link_category_invalid => 链接分类 <strong>{name}</strong> 是无效的。
 link_category_name => 链接分类名称
 link_category_title => 链接分类标题

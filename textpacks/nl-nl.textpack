@@ -154,6 +154,7 @@ image_head => Afbeeldingscategorie
 link_categories_deleted => Linkcategorieën: <strong>{list}</strong> verwijderd.
 link_category_already_exists => Linkcategorie <strong>{name}</strong> bestaat al.
 link_category_created => Linkcategorie <strong>{name}</strong> toegevoegd.
+link_category_description =>
 link_category_invalid => Linkcategorie <strong>{name}</strong> ongeldig.
 link_category_name => Naam linkcategorie
 link_category_title => Titel linkcategorie

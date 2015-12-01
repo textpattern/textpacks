@@ -154,6 +154,7 @@ image_head => Catégories d’images
 link_categories_deleted => Catégories de liens supprimées : <strong>{list}</strong>.
 link_category_already_exists => La catégorie de liens <strong>{name}</strong> existe déjà.
 link_category_created => Catégorie de liens <strong>{name}</strong> créée.
+link_category_description =>
 link_category_invalid => La catégorie de fichiers <strong>{name}</strong> n’est pas valide.
 link_category_name => Nom de la catégorie de liens
 link_category_title => Titre de la catégorie de liens

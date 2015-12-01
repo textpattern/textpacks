@@ -154,6 +154,7 @@ image_head => Категорије слика
 link_categories_deleted => Избрисане категорије линкова: <strong>{list}</strong>.
 link_category_already_exists => Категорија линкова <strong>{name}</strong> већ постоји.
 link_category_created => Категорија линкова <strong>{name}</strong> креирана.
+link_category_description =>
 link_category_invalid => Категорија линкова <strong>{name}</strong> неисправна.
 link_category_name => Име категорије линкова
 link_category_title => Наслов категорија линкова

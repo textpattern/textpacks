@@ -154,6 +154,7 @@ image_head => Obrázky
 link_categories_deleted => Odstraněny kategorie: <strong>{list}</strong>.
 link_category_already_exists => Kategorie <strong>{name}</strong> již existuje.
 link_category_created => Kategorie <strong>{name}</strong> vytvořena.
+link_category_description =>
 link_category_invalid => Neplatná kategorie <strong>{name}</strong>.
 link_category_name => Kategorie
 link_category_title => Název kategorie

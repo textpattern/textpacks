@@ -154,6 +154,7 @@ image_head => Κατηγορίες εικόνων
 link_categories_deleted => Διαγραφείσες κατηγορίες συνδέσμων: <strong>{list}</strong>.
 link_category_already_exists => Η κατηγορία συνδέσμου <strong>{name}</strong> υπάρχει ήδη.
 link_category_created => Η κατηγορία συνδέσμου <strong>{name}</strong> δημιουργήθηκε.
+link_category_description =>
 link_category_invalid => Η κατηγορία συνδέσμου <strong>{name}</strong> είναι άκυρη.
 link_category_name => Όνομα κατηγορίας συνδέσμου
 link_category_title => Τίτλος κατηγορίας συνδέσμου

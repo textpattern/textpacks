@@ -154,6 +154,7 @@ image_head => Categories d’imatges
 link_categories_deleted => Categories d’enllaços esborrades: <strong>{list}</strong>.
 link_category_already_exists => La categoria d’enllaços <strong>{name}</strong> ja existeix.
 link_category_created => S’ha creat la categoria d’enllaços <strong>{name}</strong>.
+link_category_description =>
 link_category_invalid => La categoria d’enllaços <strong>{name}</strong> no és vàlida.
 link_category_name => Nom de la categoria d’enllaç
 link_category_title => Títol de la categoria d’enllaç

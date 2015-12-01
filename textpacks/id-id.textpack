@@ -154,6 +154,7 @@ image_head => Kategori Gambar
 link_categories_deleted =>
 link_category_already_exists =>
 link_category_created =>
+link_category_description =>
 link_category_invalid =>
 link_category_name => Nama kategori tautan
 link_category_title => Judul kategori tautan

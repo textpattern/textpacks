@@ -154,6 +154,7 @@ image_head => Категорії зображень
 link_categories_deleted => Видалені категорії посилань: <strong>{list}</strong>.
 link_category_already_exists => Категорія посилань <strong>{name}</strong> вже існує.
 link_category_created => Категорія посилань <strong>{name}</strong> створена.
+link_category_description =>
 link_category_invalid => Ім'я категорії посилань <strong>{name}</strong> — недопустиме.
 link_category_name => Назва категорії посилань
 link_category_title => Заголовок категорії посилань

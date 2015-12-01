@@ -154,6 +154,7 @@ image_head => Kategorie obrazków
 link_categories_deleted => Usunięto kategorie odsyłaczy: <strong>{list}</strong>.
 link_category_already_exists => Kategoria odsyłaczy <strong>{name}</strong> już istnieje.
 link_category_created => Kategoria odsyłaczy <strong>{name}</strong> została utworzona.
+link_category_description =>
 link_category_invalid => Nazwa kategorii odsyłaczy <strong>{name}</strong> jest nieprawidłowa, zmiany nie zostały zapisane.
 link_category_name => Nazwa kategorii odsyłaczy
 link_category_title => Tytuł kategorii odsyłaczy

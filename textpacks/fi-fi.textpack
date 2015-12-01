@@ -154,6 +154,7 @@ image_head => Kuvakategoriat
 link_categories_deleted => Poistetut linkkikategoriat: <strong>{list}</strong>.
 link_category_already_exists => Linkkikategoria <strong>{name}</strong> on jo olemassa.
 link_category_created => Linkkikategoria <strong>{name}</strong> luotu.
+link_category_description =>
 link_category_invalid => Linkkikategoria <strong>{name}</strong> ei kelpaa.
 link_category_name => Linkkikategorian nimi
 link_category_title => Linkkikategorian otsikko

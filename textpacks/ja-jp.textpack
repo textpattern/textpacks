@@ -154,6 +154,7 @@ image_head => 画像用カテゴリ
 link_categories_deleted => 以下のリンク用カテゴリを削除しました: <strong>{list}</strong>
 link_category_already_exists => リンク用カテゴリ <strong>{name}</strong> は既に存在します。
 link_category_created => リンク用カテゴリ <strong>{name}</strong> を作成しました。
+link_category_description =>
 link_category_invalid => リンク用カテゴリ <strong>{name}</strong> は不正です。
 link_category_name => リンク用カテゴリ名
 link_category_title => リンク用カテゴリタイトル

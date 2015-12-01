@@ -154,6 +154,7 @@ image_head => رده‌های مربوط به تصاویر
 link_categories_deleted => این رده‌های لینک پاک شدند : <strong>{list}</strong>
 link_category_already_exists => رده‌لینک <strong>{name}</strong> از پیش موجود است.
 link_category_created => رده‌لینک <strong>{name}</strong> ساخته شد.
+link_category_description =>
 link_category_invalid => رده‌لینک <strong>{name}</strong> نامعتبر است.
 link_category_name => نام رده لینک
 link_category_title => عنوان رده لینک

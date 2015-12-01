@@ -154,6 +154,7 @@ image_head => Pildikategooriad
 link_categories_deleted =>
 link_category_already_exists =>
 link_category_created =>
+link_category_description =>
 link_category_invalid =>
 link_category_name => Lingikategooria nimi
 link_category_title => Lingikategooria pealkiri

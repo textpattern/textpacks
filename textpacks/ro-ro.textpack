@@ -154,6 +154,7 @@ image_head => Categoriile imaginilor
 link_categories_deleted => Urmatoarea categorie de link-uri a fost stearsa: {list}.
 link_category_already_exists => Categoria de link-uri <strong>{name}</strong> deja exista.
 link_category_created => Categoria de link-uri <strong>{name}</strong> a fost creata.
+link_category_description =>
 link_category_invalid => Categoria de link-uri <strong>{name}</strong> este invalida.
 link_category_name => Numele categoriei de link-uri
 link_category_title => Titlul categoriei de link-uri

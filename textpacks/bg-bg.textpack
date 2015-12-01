@@ -154,6 +154,7 @@ image_head => Категории Изображения
 link_categories_deleted => Изтрити категории връзки: <strong>{list}</strong>.
 link_category_already_exists => Категорията връзки <strong>{name}</strong> съществува.
 link_category_created => Категорията връзки <strong>{name}</strong> е създадена.
+link_category_description =>
 link_category_invalid => Категорията връзки <strong>{name}</strong> не е валидна.
 link_category_name => Име на категорията връзки
 link_category_title => Заглавие на категорията връзки

@@ -154,6 +154,7 @@ image_head => تصویر زمرے
 link_categories_deleted => ربط زمرہ حذف کیا: <strong>{list}</strong>
 link_category_already_exists => ربط زمرہ <strong>{name}</strong> پہلے سے موجود ہے
 link_category_created => ربط زمرہ <strong>{name}</strong> بنا ہوا
+link_category_description =>
 link_category_invalid => ربط زمرہ <strong>{name}</strong> جائز نہیں
 link_category_name => ربط زمرہ نام
 link_category_title => ربط زمرہ عنوان

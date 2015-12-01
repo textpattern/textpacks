@@ -154,6 +154,7 @@ image_head => Billede kategorier
 link_categories_deleted => Link kategorier slettet: <strong>{list}</strong>.
 link_category_already_exists => Link kategori <strong>{name}</strong> findes allerede.
 link_category_created => Link kategori <strong>{name}</strong> oprettet.
+link_category_description =>
 link_category_invalid => Link kategori <strong>{name}</strong> er ikke valid.
 link_category_name => Link kategori navn
 link_category_title => Link kategori titel

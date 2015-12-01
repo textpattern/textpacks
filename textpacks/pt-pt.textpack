@@ -154,6 +154,7 @@ image_head => Categorias de imagem
 link_categories_deleted => Categorias de ligação apagadas: <strong>{list}</strong>.
 link_category_already_exists => A categoria de ligação <strong>{name}</strong> já existe!
 link_category_created => A categoria de ligação <strong>{name}</strong> foi criada.
+link_category_description =>
 link_category_invalid => O nome da categoria de ligação <strong>{name}</strong> é inválido.
 link_category_name => Nome da categoria de ligação
 link_category_title => Título da categoria de ligação

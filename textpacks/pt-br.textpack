@@ -154,6 +154,7 @@ image_head => Categorias de imagem
 link_categories_deleted => Categorias de link excluídas: <strong>{list}</strong>.
 link_category_already_exists => A Categoria de link <strong>{name}</strong> já existe!
 link_category_created => A Categoria de link <strong>{name}</strong> foi criada.
+link_category_description =>
 link_category_invalid => O nome da categoria de link <strong>{name}</strong> é inválido.
 link_category_name => Nome da categoria de link
 link_category_title => Título da categoria de link

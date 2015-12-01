@@ -154,6 +154,7 @@ image_head => Categorías de imagen
 link_categories_deleted => Categorías de enlaces borradas: <strong>{list}</strong>.
 link_category_already_exists => La categoría de enlace <strong>{name}</strong> ya existe.
 link_category_created => Categoría de enlace <strong>{name}</strong> creada.
+link_category_description =>
 link_category_invalid => Categoría de enlace <strong>{name}</strong> inválida.
 link_category_name => Nombre de la categoría de enlace
 link_category_title => Título de la categoría de enlace

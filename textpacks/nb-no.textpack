@@ -154,6 +154,7 @@ image_head => Bildekategorier
 link_categories_deleted => Lenkekategorier slettet: <strong>{list}</strong>.
 link_category_already_exists => Lenkekategori <strong>{name}</strong> fines allerede.
 link_category_created => Lenkekategori <strong>{name}</strong> opprettet.
+link_category_description =>
 link_category_invalid => Lenkekategori <strong>{name}</strong> ikke gyldig.
 link_category_name => Navn på lenkekategori
 link_category_title => Lenkekategoritittel

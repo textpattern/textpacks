@@ -154,6 +154,7 @@ image_head => Atvaizdų kategorijos
 link_categories_deleted => Nuorodų kategorijos pašalintos: <strong>{list}</strong>.
 link_category_already_exists => Nuorodų kategorija <strong>{name}</strong> jau egzistuoja.
 link_category_created => Nuorodoų kategorija <strong>{name}</strong> sukurta.
+link_category_description =>
 link_category_invalid => Nuorodų kategorija <strong>{name}</strong> nekorektiška.
 link_category_name => Nuorodų kategorijos vardas
 link_category_title => Nuorodų kategorijos pavadinimas

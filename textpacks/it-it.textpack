@@ -154,6 +154,7 @@ image_head => Categorie immagini
 link_categories_deleted => Categorie link eliminate: <strong>{list}</strong>.
 link_category_already_exists => Categoria link <strong>{name}</strong> già esistente.
 link_category_created => Categoria link <strong>{name}</strong> creata.
+link_category_description =>
 link_category_invalid => Categoria link <strong>{name}</strong> non valida.
 link_category_name => Nome categoria del link
 link_category_title => Titolo categoria link

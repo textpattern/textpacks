@@ -154,6 +154,7 @@ image_head => Görsel Kategorileri
 link_categories_deleted => Link kategorileri silindi: <strong>{list}</strong>.
 link_category_already_exists => Link kategorisi <strong>{name}</strong> zaten mevcut.
 link_category_created => Link kategorisi <strong>{name}</strong> oluşturuldu.
+link_category_description =>
 link_category_invalid => Link kategorisi <strong>{name}</strong> geçersiz.
 link_category_name => Link Kategori adı
 link_category_title => Link Kategori başlığı

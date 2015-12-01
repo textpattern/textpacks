@@ -154,6 +154,7 @@ image_head => Bildkategorier
 link_categories_deleted => Dessa länkkategorier raderades: <strong>{list}</strong>.
 link_category_already_exists => Länkkategorin <strong>{name}</strong> finns redan.
 link_category_created => Länkkategorin <strong>{name}</strong> skapades.
+link_category_description =>
 link_category_invalid => Länkkategorin <strong>{name}</strong> är ogiltlig.
 link_category_name => Länk-kategorins namn
 link_category_title => Länk-kategorins rubrik

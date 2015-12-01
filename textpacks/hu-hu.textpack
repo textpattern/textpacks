@@ -154,6 +154,7 @@ image_head => Kép kategóriák
 link_categories_deleted => Link kategóriák törölve: <strong>{list}</strong>.
 link_category_already_exists => A link kategóra már létezik: <strong>{name}</strong>.
 link_category_created => Link kategória létrehozva: <strong>{name}</strong>.
+link_category_description =>
 link_category_invalid => Nem megfelelő link kategória: <strong>{name}</strong>.
 link_category_name => Link kategória név
 link_category_title => Link kategória cím

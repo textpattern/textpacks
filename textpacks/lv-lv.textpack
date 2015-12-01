@@ -154,6 +154,7 @@ image_head => Attēlu kategorijas
 link_categories_deleted => Saišu kategorijas dzēstas: <strong>{list}</strong>.
 link_category_already_exists => Saišu kategorija <strong>{name}</strong> jau pastāv.
 link_category_created => Saišu kategorija <strong>{name}</strong> izveidota.
+link_category_description =>
 link_category_invalid => Saišu kategorija <strong>{name}</strong> nederīga.
 link_category_name => Saišu kategorijas nosaukums
 link_category_title => Saišu kategorijas virsraksts

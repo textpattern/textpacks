@@ -154,6 +154,7 @@ image_head => Các thể loại ảnh
 link_categories_deleted => Đã xóa thể loại liên kết: <strong>{list}</strong>.
 link_category_already_exists => Đã có thể loại <strong>{name}</strong> từ trước.
 link_category_created => Đã tạo thể loại <strong>{name}</strong>.
+link_category_description =>
 link_category_invalid => Thể loại liên kết <strong>{name}</strong> không hợp lệ.
 link_category_name => Tên thể loại liên kết
 link_category_title => Tiêu đề thể loại liên kết

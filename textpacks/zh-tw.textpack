@@ -154,6 +154,7 @@ image_head => 圖片分類
 link_categories_deleted => 已刪除鏈結分類: <strong>{list}</strong>.
 link_category_already_exists => 鏈結分類 <strong>{name}</strong> 已存在.
 link_category_created => 已建立鏈結分類 <strong>{name}</strong>.
+link_category_description =>
 link_category_invalid => <strong>{name}</strong> 不是允許的鏈結分類名稱.
 link_category_name => 鏈結分類名稱
 link_category_title => 鏈結分類標題

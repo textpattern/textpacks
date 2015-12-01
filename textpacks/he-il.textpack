@@ -154,6 +154,7 @@ image_head => קטגוריות התמונה
 link_categories_deleted => קטגוריות הקישור נמחקו: <strong>{list}</strong>.
 link_category_already_exists => קטגוריית הקישור <strong>{name}</strong> כבר קיימת.
 link_category_created => קטגוריית הקישור <strong>{name}</strong> נוצרה.
+link_category_description =>
 link_category_invalid => קטגוריית הקישור <strong>{name}</strong> לא תקינה.
 link_category_name => שם קטגוריית הקישור
 link_category_title => כותרת קטגוריית הקישור

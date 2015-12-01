@@ -154,6 +154,7 @@ image_head => فئات الصور
 link_categories_deleted => حذف فئات الروابط : <strong>{list}</strong>
 link_category_already_exists => فئة الروابط موجودة
 link_category_created => إنشاء فئة الروابط
+link_category_description =>
 link_category_invalid => فئة الروابط غير صحيحة
 link_category_name => اسم فئة الروابط
 link_category_title => الخط الرئيسى لفئة الروابط

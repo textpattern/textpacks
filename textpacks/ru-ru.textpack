@@ -154,6 +154,7 @@ image_head => Категории изображений
 link_categories_deleted => Удалены категории ссылок: <strong>{list}</strong>.
 link_category_already_exists => Категория ссылок <strong>{name}</strong> уже есть.
 link_category_created => Категория ссылок <strong>{name}</strong> создана.
+link_category_description =>
 link_category_invalid => Имя категории ссылок <strong>{name}</strong> недопустимо.
 link_category_name => Название категории ссылок
 link_category_title => Заголовок категории ссылок
