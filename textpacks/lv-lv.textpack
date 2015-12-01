@@ -136,6 +136,7 @@ edit_category => Labot kategoriju
 file_categories_deleted => Failu kategorijas dzēstas: <strong>{list}</strong>.
 file_category_already_exists => Failu kategorija <strong>{name}</strong> jau pastāv.
 file_category_created => Failu kategorija <strong>{name}</strong> izveidota.
+file_category_description =>
 file_category_invalid => Failu kategorija <strong>{name}</strong> nederīga.
 file_category_name => Failu kategorijas nosaukums
 file_category_title => Failu kategorijas nosaukums

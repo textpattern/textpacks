@@ -136,6 +136,7 @@ edit_category => Editeaza categoria
 file_categories_deleted => Urmatoarea categorie de fisiere a fost stearsa: {list}.
 file_category_already_exists => Urmatoarea categorie de fisiere <strong>{name}</strong> deja exista.
 file_category_created => Urmatoarea categorie de fisiere <strong>{name}</strong> a fost creata.
+file_category_description =>
 file_category_invalid => Urmatoarea categorie de fisiere <strong>{name}</strong> este invalida.
 file_category_name => Categoriile fisierelor dupa nume
 file_category_title => Categoriile fisierelor dupa titlu

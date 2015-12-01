@@ -136,6 +136,7 @@ edit_category => 編輯分類
 file_categories_deleted => 已刪除檔案分類: <strong>{list}</strong>.
 file_category_already_exists => 檔案分類 <strong>{name}</strong> 已存在.
 file_category_created => 已建立檔案分類 <strong>{name}</strong>.
+file_category_description =>
 file_category_invalid => <strong>{name}</strong> 不是允許的檔案分類名稱.
 file_category_name => 檔案分類名稱
 file_category_title => 檔案分類標題

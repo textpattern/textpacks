@@ -136,6 +136,7 @@ edit_category => แก้ไขหมวดหมู่
 file_categories_deleted => หมวดหมู่ไฟล์ที่ถูกลบทิ้ง: <strong>{list}</strong>
 file_category_already_exists => มีหมวดหมู่ไฟล์ที่ชื่อ <strong>{name}</strong> แล้ว
 file_category_created => สร้างหมวดหมู่ไฟล์ <strong>{name}</strong> แล้ว
+file_category_description =>
 file_category_invalid => หมวดหมู่ไฟล์ชื่อ <strong>{name}</strong> ไม่ถูกต้อง
 file_category_name => ชื่อหมวดไฟล์
 file_category_title => ชื่อแสดงหมวดหมู่ไฟล์

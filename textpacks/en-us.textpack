@@ -136,6 +136,7 @@ edit_category => Edit category
 file_categories_deleted => File categories deleted: <strong>{list}</strong>.
 file_category_already_exists => File category <strong>{name}</strong> already exists.
 file_category_created => File category <strong>{name}</strong> created.
+file_category_description => File category description
 file_category_invalid => File category <strong>{name}</strong> invalid.
 file_category_name => File category name
 file_category_title => File category title

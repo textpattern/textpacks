@@ -136,6 +136,7 @@ edit_category => Chỉnh sửa Thể loại
 file_categories_deleted => Các thể loại tập tin đã bị xóa: <strong>{list}</strong>.
 file_category_already_exists => Đã có thể loại <strong>{name}</strong> từ trước.
 file_category_created => Đã tạo thể loại <strong>{name}</strong>.
+file_category_description =>
 file_category_invalid => Thể loại <strong>{name}</strong> sai quy cách.
 file_category_name => Tên thể loại tập tin
 file_category_title => Tiêu đề thể loại tập tin

@@ -136,6 +136,7 @@ edit_category => カテゴリの編集
 file_categories_deleted => 以下のファイル用カテゴリを削除しました: <strong>{list}</strong>
 file_category_already_exists => ファイル用カテゴリ <strong>{name}</strong> は既に存在します。
 file_category_created => ファイル用カテゴリ <strong>{name}</strong> を作成しました。
+file_category_description =>
 file_category_invalid => ファイル用カテゴリ <strong>{name}</strong> は不正です。
 file_category_name => ファイル用カテゴリ名
 file_category_title => ファイル用カテゴリのタイトル

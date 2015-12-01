@@ -136,6 +136,7 @@ edit_category => 분류 편집
 file_categories_deleted => 파일 분류 <strong>{list}</strong>을(를) 지웠습니다.
 file_category_already_exists => 파일 분류 <strong>{name}</strong>은(는) 이미 있습니다.
 file_category_created => 파일 분류 <strong>{name}</strong>을(를) 만들었습니다.
+file_category_description =>
 file_category_invalid => 파일 분류 <strong>{name}</strong>은(는) 유효하지 않습니다.
 file_category_name => 파일 분류 이름
 file_category_title => 파일 분류 제목

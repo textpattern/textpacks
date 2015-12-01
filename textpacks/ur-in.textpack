@@ -136,6 +136,7 @@ edit_category => زمرہ تدوین کریں
 file_categories_deleted => فائل زمرہ حذف کیا: <strong>{list}</strong>
 file_category_already_exists => فائل زمرہ <strong>{name}</strong> پہلے سے موجود ہے
 file_category_created => فائل زمرہ <strong>{name}</strong> بنا ہوا
+file_category_description =>
 file_category_invalid => فائل زمرہ <strong>{name}</strong> جائز نہیں
 file_category_name => فائل زمرہ نام
 file_category_title => فائل زمرہ عنوان

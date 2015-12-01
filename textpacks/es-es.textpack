@@ -136,6 +136,7 @@ edit_category => Editar categoría
 file_categories_deleted => Categorías de archivo borradas: <strong>{list}</strong>.
 file_category_already_exists => La categoría de archivo <strong>{name}</strong> ya existe.
 file_category_created => Categoría de archivo <strong>{name}</strong> creada.
+file_category_description =>
 file_category_invalid => Categoría de archivo <strong>{name}</strong> inválida.
 file_category_name => Nombre de la categoría de archivo
 file_category_title => Título de la categoría de archivo

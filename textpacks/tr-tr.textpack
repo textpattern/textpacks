@@ -136,6 +136,7 @@ edit_category => Kategori Düzenle
 file_categories_deleted => Dosya kategorileri silindi: <strong>{list}</strong>.
 file_category_already_exists => Dosya kategorisi <strong>{name}</strong> zaten mevcut.
 file_category_created => Dosya kategorisi <strong>{name}</strong> oluşturuldu.
+file_category_description =>
 file_category_invalid => Dosya kategorisi <strong>{name}</strong> geçersiz.
 file_category_name => Dosya kategori adı
 file_category_title => Dosya kategori başlığı

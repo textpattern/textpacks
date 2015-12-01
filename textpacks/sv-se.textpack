@@ -136,6 +136,7 @@ edit_category => Redigera kategori
 file_categories_deleted => Dessa filkategorier raderades: <strong>{list}</strong>.
 file_category_already_exists => Filkategorin <strong>{name}</strong> finns redan.
 file_category_created => Filkategorin <strong>{name}</strong> skapades.
+file_category_description =>
 file_category_invalid => Filkategorin <strong>{name}</strong> är ogiltlig.
 file_category_name => Filkategorins namn
 file_category_title => Filkategorins rubrik

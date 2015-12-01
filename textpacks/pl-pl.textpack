@@ -136,6 +136,7 @@ edit_category => Edytuj kategorię
 file_categories_deleted => Usunięto kategorie plików: <strong>{list}</strong>.
 file_category_already_exists => Kategoria plików <strong>{name}</strong> już istnieje.
 file_category_created => Kategoria plików <strong>{name}</strong> została utworzona.
+file_category_description =>
 file_category_invalid => Nazwa kategorii plików <strong>{name}</strong> jest nieprawidłowa, zmiany nie zostały zapisane.
 file_category_name => Nazwa kategorii plików
 file_category_title => Tytuł kategorii plików

@@ -136,6 +136,7 @@ edit_category => Modifica categoria
 file_categories_deleted => Categorie file eliminate <strong>{list}</strong>.
 file_category_already_exists => Categoria file <strong>{name}</strong> già esistente.
 file_category_created => Categoria file <strong>{name}</strong> creata.
+file_category_description =>
 file_category_invalid => Categoria file <strong>{name}</strong> non valida.
 file_category_name => Nome categoria file
 file_category_title => Titolo categoria file

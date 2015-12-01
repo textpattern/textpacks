@@ -136,6 +136,7 @@ edit_category => Измени категорију
 file_categories_deleted => Избрисане категорије фајлова: <strong>{list}</strong>.
 file_category_already_exists => Категорија фајлова <strong>{name}</strong> већ постоји.
 file_category_created => Категорија фајлова <strong>{name}</strong> креирана.
+file_category_description =>
 file_category_invalid => Категорија фајлова <strong>{name}</strong> неисправна.
 file_category_name => Име категорије фајлова
 file_category_title => Наслов категорије фајлова

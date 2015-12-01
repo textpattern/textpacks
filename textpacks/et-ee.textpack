@@ -136,6 +136,7 @@ edit_category =>
 file_categories_deleted =>
 file_category_already_exists =>
 file_category_created =>
+file_category_description =>
 file_category_invalid =>
 file_category_name => Failikategooria nimi
 file_category_title => Failikategooria pealkiri

@@ -136,6 +136,7 @@ edit_category => ویرایش رده
 file_categories_deleted => این رده‌فایل‌ها پاک شدند : <strong>{list}</strong>
 file_category_already_exists => رده‌فایل <strong>{name}</strong> از پیش موجود است.
 file_category_created => رده‌فایل <strong>{name}</strong> ساخته شد.
+file_category_description =>
 file_category_invalid => رده‌فایل <strong>{name}</strong> نامعتبر است.
 file_category_name => نام رده فایل
 file_category_title => عنوان رده فایل

@@ -136,6 +136,7 @@ edit_category => Categorie wijzigen
 file_categories_deleted => Bestandscategorieën: <strong>{list}</strong> verwijderd.
 file_category_already_exists => Bestandscategorie: <strong>{name}</strong> bestaat al.
 file_category_created => Bestandscategorie: <strong>{name}</strong> toegevoegd.
+file_category_description =>
 file_category_invalid => Bestandscategorie: <strong>{name}</strong> ongeldig.
 file_category_name => Naam bestandscategorie
 file_category_title => Titel bestandscategorie

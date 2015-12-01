@@ -136,6 +136,7 @@ edit_category => Επεξεργασία κατηγορίας
 file_categories_deleted => Διαγραφείσες κατηγορίες αρχείων: <strong>{list}</strong>.
 file_category_already_exists => Η κατηγορία αρχείου <strong>{name}</strong> υπάρχει ήδη.
 file_category_created => Η κατηγορία αρχείου <strong>{name}</strong> δημιουργήθηκε.
+file_category_description =>
 file_category_invalid => Η κατηγορία αρχείου <strong>{name}</strong> είναι άκυρη.
 file_category_name => Όνομα κατηγορίας αρχείου
 file_category_title => Τίτλος κατηγορίας αρχείου

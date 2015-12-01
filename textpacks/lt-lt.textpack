@@ -136,6 +136,7 @@ edit_category => Taisyti kategoriją
 file_categories_deleted => Rinkmenų kategorijos pašalintos: <strong>{list}</strong>.
 file_category_already_exists => Rinkmenų kategorija <strong>{name}</strong> jau egzistuoja.
 file_category_created => Rikmenų kategorija <strong>{name}</strong> sukurta.
+file_category_description =>
 file_category_invalid => Rikmenų kategorija <strong>{name}</strong> nekorektiška.
 file_category_name => Rikmenų kategorijos vardas
 file_category_title => Rikmenų kategorijos pavadinimas

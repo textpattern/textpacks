@@ -136,6 +136,7 @@ edit_category => 编辑分类
 file_categories_deleted => 文件分类已删除: <strong>{list}</strong>。
 file_category_already_exists => 文件分类 <strong>{name}</strong> 已存在。
 file_category_created => 文件分类 <strong>{name}</strong> 已建立。
+file_category_description =>
 file_category_invalid => 文件分类 <strong>{name}</strong> 是无效的。
 file_category_name => 文件分类名称
 file_category_title => 文件分类标题

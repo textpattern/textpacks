@@ -136,6 +136,7 @@ edit_category => Categorias
 file_categories_deleted => Categorias de arquivo excluídas: <strong>{list}</strong>.
 file_category_already_exists => A Categoria de arquivo <strong>{name}</strong> já existe!
 file_category_created => A Categoria de Arquivo <strong>{name}</strong> foi criada.
+file_category_description =>
 file_category_invalid => O nome da categoria de arquivo <strong>{name}</strong> é inválido.
 file_category_name => Nome da categoria de arquivo
 file_category_title => Título da categoria de arquivo

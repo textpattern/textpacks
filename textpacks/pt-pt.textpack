@@ -136,6 +136,7 @@ edit_category => categorias
 file_categories_deleted => Categorias de ficheiro apagadas: <strong>{list}</strong>.
 file_category_already_exists => A categoria de ficheiro <strong>{name}</strong> já existe!
 file_category_created => A categoria de ficheiro <strong>{name}</strong> foi criada.
+file_category_description =>
 file_category_invalid => O nome da categoria de ficheiro <strong>{name}</strong> é inválido.
 file_category_name => Nome da categoria de ficheiro
 file_category_title => Título da categoria de ficheiro

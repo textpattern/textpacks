@@ -136,6 +136,7 @@ edit_category => Upravit
 file_categories_deleted => Odstraněny kategorie: <strong>{list}</strong>.
 file_category_already_exists => Kategorie <strong>{name}</strong> již existuje.
 file_category_created => Kategorie <strong>{name}</strong> vytvořena.
+file_category_description =>
 file_category_invalid => Neplatná kategorie <strong>{name}</strong>.
 file_category_name => Kategorie
 file_category_title => Název kategorie

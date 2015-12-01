@@ -136,6 +136,7 @@ edit_category => Kategória szerkesztése
 file_categories_deleted => Állomány kategóriák törölve: <strong>{list}</strong>.
 file_category_already_exists => Az állomány kategória már létezik: <strong>{name}</strong>.
 file_category_created => Az állomány kategória létrehozva: <strong>{name}</strong>.
+file_category_description =>
 file_category_invalid => Az állomány kategória nem megfelelő: <strong>{name}</strong>.
 file_category_name => Állomány kategória név
 file_category_title => Állomány kategória cím

@@ -136,6 +136,7 @@ edit_category => ערוך קטגורייה
 file_categories_deleted => קטגוריות הקובץ נמחקו: <strong>{list}</strong>.
 file_category_already_exists => קטגוריית הקובץ <strong>{name}</strong> כבר קיימת.
 file_category_created => קטגוריית הקובץ <strong>{name}</strong> נוצרה.
+file_category_description =>
 file_category_invalid => קטגוריית הקובץ <strong>{name}</strong> אינה תקינה.
 file_category_name => שם קטגוריית הקובץ
 file_category_title => כותרת קטגוריית הקובץ

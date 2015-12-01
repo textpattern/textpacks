@@ -136,6 +136,7 @@ edit_category => Редактировать категорию
 file_categories_deleted => Удалены категории файлов: <strong>{list}</strong>.
 file_category_already_exists => Категория файла <strong>{name}</strong> уже есть.
 file_category_created => Категория файла <strong>{name}</strong> создана.
+file_category_description =>
 file_category_invalid => Имя категории файла <strong>{name}</strong> недопустимо.
 file_category_name => Название категории файлов
 file_category_title => Заголовок категории файлов

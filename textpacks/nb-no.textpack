@@ -136,6 +136,7 @@ edit_category => Rediger kategori
 file_categories_deleted => Filkategorier slettet: <strong>{list}</strong>.
 file_category_already_exists => Filkategori <strong>{name}</strong> fines allerede.
 file_category_created => Filkategori <strong>{name}</strong> opprettet.
+file_category_description =>
 file_category_invalid => Filkategori <strong>{name}</strong> ikke gyldig.
 file_category_name => Navn på filkategori
 file_category_title => Filkategoritittel

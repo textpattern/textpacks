@@ -136,6 +136,7 @@ edit_category => تعديل الفئة
 file_categories_deleted => حذف فئات الملفالات : <strong>{list}</strong>
 file_category_already_exists => فئة الملف موجودة
 file_category_created => إنشاء فئة الملف
+file_category_description =>
 file_category_invalid => فئة الملف غير صحيحة
 file_category_name => اسم فئة الملف
 file_category_title => الخط الرئيسى لفئة الملف
