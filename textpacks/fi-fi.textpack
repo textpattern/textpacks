@@ -144,6 +144,7 @@ file_head => Tiedostokategoriat
 image_categories_deleted => Poistetut kuvakategoriat: <strong>{list}</strong>.
 image_category_already_exists => Kuvakategoria <strong>{name}</strong> on jo olemassa.
 image_category_created => Kuvakategoria <strong>{name}</strong> luotu.
+image_category_description =>
 image_category_invalid => Kuvakategoria <strong>{name}</strong> ei kelpaa.
 image_category_name => Kuvakategorian nimi
 image_category_title => Kuvakategorian otsikko

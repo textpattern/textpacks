@@ -144,6 +144,7 @@ file_head => Categorie file
 image_categories_deleted => Categorie immagini eliminate: <strong>{list}</strong>.
 image_category_already_exists => Categoria immagini <strong>{name}</strong> già esistente.
 image_category_created => Categoria immagini <strong>{name}</strong> creata.
+image_category_description =>
 image_category_invalid => Categoria immagini <strong>{name}</strong> non valida.
 image_category_name => Dai un nome alla categoria immagine
 image_category_title => Titolo categoria immagine

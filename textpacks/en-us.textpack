@@ -144,6 +144,7 @@ file_head => File categories
 image_categories_deleted => Image categories deleted: <strong>{list}</strong>.
 image_category_already_exists => Image category <strong>{name}</strong> already exists.
 image_category_created => Image category <strong>{name}</strong> created.
+image_category_description => Image category description
 image_category_invalid => Image category <strong>{name}</strong> invalid.
 image_category_name => Image category name
 image_category_title => Image category title

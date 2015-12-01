@@ -144,6 +144,7 @@ file_head => Rinkmenų kategorijos
 image_categories_deleted => Atvaizdų kategorijos pašalintos: <strong>{list}</strong>.
 image_category_already_exists => Atvaizdų kategorija <strong>{name}</strong> jau egzistuoja.
 image_category_created => Atvaizdų kategorija <strong>{name}</strong> sukurta.
+image_category_description =>
 image_category_invalid => Atvaizdų kategorija <strong>{name}</strong> nekorektiška.
 image_category_name => Atvaizdų kategorijos vardas
 image_category_title => Atvaizdų kategorijos pavadinimas

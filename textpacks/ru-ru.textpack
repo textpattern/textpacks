@@ -144,6 +144,7 @@ file_head => Категории файлов
 image_categories_deleted => Удалены категории изображений: <strong>{list}</strong>.
 image_category_already_exists => Категория изображений <strong>{name}</strong> уже есть.
 image_category_created => Категория изображений <strong>{name}</strong> создана.
+image_category_description =>
 image_category_invalid => Имя категории изображений <strong>{name}</strong> недопустимо.
 image_category_name => Название категории изображений
 image_category_title => Заголовок категории изображений

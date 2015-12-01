@@ -144,6 +144,7 @@ file_head => Категорії файлів
 image_categories_deleted => Видалені категорії зображень: <strong>{list}</strong>.
 image_category_already_exists => Категорія зображень <strong>{name}</strong> вже існує.
 image_category_created => Категорія зображень <strong>{name}</strong> створена.
+image_category_description =>
 image_category_invalid => Ім'я категорії зображень <strong>{name}</strong> — недопустиме.
 image_category_name => Назва категорії зображень
 image_category_title => Заголовок категорії зображень

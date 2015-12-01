@@ -144,6 +144,7 @@ file_head => Kategorije datoteka
 image_categories_deleted => Izbrisane kategorije slika: <strong>{list}</strong>.
 image_category_already_exists => Kategorija slika <strong>{name}</strong> već postoji.
 image_category_created => Kategorija slika <strong>{name}</strong> napravljena.
+image_category_description =>
 image_category_invalid => Kategorija slika <strong>{name}</strong> neispravna.
 image_category_name => Ime kategorije slika
 image_category_title => Naslov kategorije slika

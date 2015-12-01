@@ -144,6 +144,7 @@ file_head => Failikategooriad
 image_categories_deleted =>
 image_category_already_exists =>
 image_category_created =>
+image_category_description =>
 image_category_invalid =>
 image_category_name => Pildikategooria nimi
 image_category_title => Pildikategooria pealkiri

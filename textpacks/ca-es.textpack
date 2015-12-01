@@ -144,6 +144,7 @@ file_head => Categories de fitxers
 image_categories_deleted => Categories d’imatges esborrades: <strong>{list}</strong>.
 image_category_already_exists => La categoria d’imatge <strong>{name}</strong> ja existeix.
 image_category_created => S’ha creat la categoria d’imatge <strong>{name}</strong>.
+image_category_description =>
 image_category_invalid => La categoria d’imatge <strong>{name}</strong> no és vàlida.
 image_category_name => Nom de la categoria d’imatge
 image_category_title => Títol de la categoria d’imatge

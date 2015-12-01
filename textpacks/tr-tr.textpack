@@ -144,6 +144,7 @@ file_head => Dosya kategorileri
 image_categories_deleted => Görsel kategorileri silindi: <strong>{list}</strong>.
 image_category_already_exists => Görsel kategorisi <strong>{name}</strong> zaten mevcut.
 image_category_created => Görsel kategorisi <strong>{name}</strong> oluşturuldu.
+image_category_description =>
 image_category_invalid => Görsel kategorisi <strong>{name}</strong> geçersiz.
 image_category_name => Görsel kategori adı
 image_category_title => Görsel kategori başlığı

@@ -144,6 +144,7 @@ file_head => فائل زمرے
 image_categories_deleted => تصویر زمرہ حذف کیا: <strong>{list}</strong>
 image_category_already_exists => تصویر زمرہ <strong>{name}</strong> پہلے سے موجود ہے
 image_category_created => تصویر زمرہ <strong>{name}</strong> بنا ہوا
+image_category_description =>
 image_category_invalid => تصویر زمرہ <strong>{name}</strong> جائز نہیں
 image_category_name => تصویر زمرہ نام
 image_category_title => تصویر زمرہ عنوان

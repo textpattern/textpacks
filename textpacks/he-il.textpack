@@ -144,6 +144,7 @@ file_head => קטוגוריות הקובץ
 image_categories_deleted => קטגוריות התמונה נמחקו: <strong>{list}</strong>.
 image_category_already_exists => קטוגריית התמונה <strong>{name}</strong> כבר קיימת.
 image_category_created => קטוגריית התמונה <strong>{name}</strong> נוצרה.
+image_category_description =>
 image_category_invalid => קטוגריית התמונה <strong>{name}</strong> אינה תקינה.
 image_category_name => שם קטגוריית התמונה
 image_category_title => כותרת קטגוריית התמונה

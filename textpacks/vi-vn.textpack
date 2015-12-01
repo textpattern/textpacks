@@ -144,6 +144,7 @@ file_head => Các thể loại tập tin
 image_categories_deleted => Đã xóa thể loại ảnh: <strong>{list}</strong>.
 image_category_already_exists => Đã có thể loại <strong>{name}</strong> từ trước.
 image_category_created => Đã tạo thể loại <strong>{name}</strong>.
+image_category_description =>
 image_category_invalid => Thể loại <strong>{name}</strong> sai quy cách.
 image_category_name => Tên thể loại ảnh
 image_category_title => Tiêu đề thể loại ảnh

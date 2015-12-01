@@ -144,6 +144,7 @@ file_head => Κατηγορίες αρχείων
 image_categories_deleted => Διαγραφείσες κατηγορίες εικόνων: <strong>{list}</strong>.
 image_category_already_exists => Η κατηγορία εικόνας <strong>{name}</strong> υπάρχει ήδη.
 image_category_created => Η κατηγορία εικόνας <strong>{name}</strong> δημιουργήθηκε.
+image_category_description =>
 image_category_invalid => Η κατηγορία εικόνας <strong>{name}</strong> είναι άκυρη.
 image_category_name => Όνομα κατηγορίας εικόνας
 image_category_title => Τίτλος κατηγορίας εικόνας

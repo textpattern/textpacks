@@ -144,6 +144,7 @@ file_head => หมวดไฟล์
 image_categories_deleted => ลบหมวดหมู่ภาพ: <strong>{list}</strong>แล้ว
 image_category_already_exists => มีหมวดหมู่ภาพชื่อ <strong>{name}</strong> อยู่แล้ว
 image_category_created => สร้างหมวดหมู่ภาพ <strong>{name}</strong> แล้ว
+image_category_description =>
 image_category_invalid => หมวดหมู่ภาพชื่อ <strong>{name}</strong> ไม่ถูกต้อง
 image_category_name => ชื่อหมวดหมู่รูป
 image_category_title => ชื่อแสดงหมวดหมู่ภาพ

@@ -144,6 +144,7 @@ file_head => Filkategorier
 image_categories_deleted => Dessa bildkategorier raderades: <strong>{list}</strong>.
 image_category_already_exists => Bildkategorin <strong>{name}</strong> finns redan.
 image_category_created => Bildkategorin <strong>{name}</strong> skapades.
+image_category_description =>
 image_category_invalid => Bildkategorin <strong>{name}</strong> är ogiltlig.
 image_category_name => Bildkategorins namn
 image_category_title => Bildkategorins rubrik

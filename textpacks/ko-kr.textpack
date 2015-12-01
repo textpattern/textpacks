@@ -144,6 +144,7 @@ file_head => 파일 분류
 image_categories_deleted => 이미지 분류 <strong>{list}</strong>을(를) 지웠습니다.
 image_category_already_exists => 이미지 분류 <strong>{name}</strong>은(는) 이미 있습니다.
 image_category_created => 이미지 분류 <strong>{name}</strong>을 만들었습니다.
+image_category_description =>
 image_category_invalid => 이미지 분류 <strong>{name}</strong>은(는) 유효하지 않습니다.
 image_category_name => 이미지 분류 이름
 image_category_title => 이미지 분류 제목

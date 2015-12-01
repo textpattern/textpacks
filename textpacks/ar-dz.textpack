@@ -144,6 +144,7 @@ file_head => فئات الملفات
 image_categories_deleted => حذف فئات الصور : <strong>{list}</strong>
 image_category_already_exists => فئة الصور موجودة
 image_category_created => إنشاء فئة الصور
+image_category_description =>
 image_category_invalid => فئة الصور غير صحيحة
 image_category_name => اسم فئة الصور
 image_category_title => الخط الرئيسى لفئة الصور

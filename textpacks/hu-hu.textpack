@@ -144,6 +144,7 @@ file_head => Állomány kategóriák
 image_categories_deleted => Kép kategóriák törölve: <strong>{list}</strong>.
 image_category_already_exists => A kép kategóra már létezik: <strong>{name}</strong>.
 image_category_created => Kép kategória létrehozva: <strong>{name}</strong>.
+image_category_description =>
 image_category_invalid => Nem megfelelő kép kategória: <strong>{name}</strong>.
 image_category_name => Kép kategória név
 image_category_title => Kép kategória cím

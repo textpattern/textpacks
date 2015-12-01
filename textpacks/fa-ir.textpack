@@ -144,6 +144,7 @@ file_head => رده‌های مربوط به فایل‌ها
 image_categories_deleted => این رده‌های تصاویر پاک شدند : <strong>{list}</strong>
 image_category_already_exists => رده‌تصویر <strong>{name}</strong> از پیش موجود است.
 image_category_created => رده‌تصویر <strong>{name}</strong> ساخته شد.
+image_category_description =>
 image_category_invalid => رده‌تصویر <strong>{name}</strong> نامعتبر است.
 image_category_name => نام رده تصویر
 image_category_title => عنوان رده تصویر

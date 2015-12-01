@@ -144,6 +144,7 @@ file_head => Categoriile fisierelor
 image_categories_deleted => Urmatoarea categorie de imagini a fost stearsa: {list}.
 image_category_already_exists => Categoria de imagini <strong>{name}</strong> deja exista.
 image_category_created => Categoria de imagini <strong>{name}</strong> a fost creata.
+image_category_description =>
 image_category_invalid => Categoria de imagini <strong>{name}</strong> este invalida.
 image_category_name => Numele categoriei de imagini
 image_category_title => Titlul categoriei de articole

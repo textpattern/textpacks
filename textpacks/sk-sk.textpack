@@ -144,6 +144,7 @@ file_head => Súbory
 image_categories_deleted =>
 image_category_already_exists =>
 image_category_created =>
+image_category_description =>
 image_category_invalid =>
 image_category_name => Katogórie obrázkov
 image_category_title => Názov kategórie obrázkov

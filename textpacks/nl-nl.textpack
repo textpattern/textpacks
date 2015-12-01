@@ -144,6 +144,7 @@ file_head => Bestandscategorie
 image_categories_deleted => Afbeeldingscategorieën: <strong>{list}</strong> verwijderd.
 image_category_already_exists => Afbeeldingscategorie: <strong>{name}</strong> bestaat al.
 image_category_created => Bestandscategorie: <strong>{name}</strong> toegevoegd.
+image_category_description =>
 image_category_invalid => Bestandscategorie: <strong>{name}</strong> ongeldig.
 image_category_name => Naam afbeeldingscategorie
 image_category_title => Titel afbeeldingscategorie

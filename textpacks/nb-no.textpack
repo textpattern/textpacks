@@ -144,6 +144,7 @@ file_head => Filkategorier
 image_categories_deleted => Bildekategorier slettet: <strong>{list}</strong>.
 image_category_already_exists => Bildekategori <strong>{name}</strong> fines allerede.
 image_category_created => Bildekategori <strong>{name}</strong> opprettet.
+image_category_description =>
 image_category_invalid => Bildekategori <strong>{name}</strong> ikke gyldig.
 image_category_name => Navn på bildekategori
 image_category_title => Bildekategoritittel

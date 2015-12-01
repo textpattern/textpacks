@@ -144,6 +144,7 @@ file_head => Категории Файлове
 image_categories_deleted => Изтрити категории изображения: <strong>{list}</strong>.
 image_category_already_exists => Категорията изображения <strong>{name}</strong> съществува.
 image_category_created => Категорията изображения <strong>{name}</strong> е създадена.
+image_category_description =>
 image_category_invalid => Категорията изображения <strong>{name}</strong> не е валидна.
 image_category_name => Име на категорията изображения
 image_category_title => Заглавие на категорията изображения

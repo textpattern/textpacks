@@ -144,6 +144,7 @@ file_head => 檔案分類
 image_categories_deleted => 已刪除圖片分類: <strong>{list}</strong>.
 image_category_already_exists => 圖片分類 <strong>{name}</strong> 已存在.
 image_category_created => 已建立圖片分類 <strong>{name}</strong>.
+image_category_description =>
 image_category_invalid => <strong>{name}</strong> 不是允許的圖片分類名稱.
 image_category_name => 圖片分類名稱
 image_category_title => 圖片分類標題

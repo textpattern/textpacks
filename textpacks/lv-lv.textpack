@@ -144,6 +144,7 @@ file_head => Failu kategorijas
 image_categories_deleted => Attēlu kategorijas dzēstas: <strong>{list}</strong>.
 image_category_already_exists => Attēlu kategorija <strong>{name}</strong> jau pastāv.
 image_category_created => Attēlu kategorija <strong>{name}</strong> izveidota.
+image_category_description =>
 image_category_invalid => Attēlu kategorija <strong>{name}</strong> nederīga.
 image_category_name => Attēlu kategorijas nosaukums
 image_category_title => Attēlu kategorijas virsraksts

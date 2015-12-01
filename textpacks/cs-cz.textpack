@@ -144,6 +144,7 @@ file_head => Soubory
 image_categories_deleted => Odstraněny kategorie: <strong>{list}</strong>.
 image_category_already_exists => Kategorie <strong>{name}</strong> již existuje.
 image_category_created => Kategorie <strong>{name}</strong> vytvořena.
+image_category_description =>
 image_category_invalid => Neplatná kategorie <strong>{name}</strong>.
 image_category_name => Kategorie
 image_category_title => Název kategorie

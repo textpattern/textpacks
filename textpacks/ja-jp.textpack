@@ -144,6 +144,7 @@ file_head => ファイル用カテゴリ
 image_categories_deleted => 以下の画像用カテゴリを削除しました: <strong>{list}</strong>
 image_category_already_exists => 画像用カテゴリ <strong>{name}</strong> は既に存在します。
 image_category_created => 画像用カテゴリ <strong>{name}</strong> を作成しました。
+image_category_description =>
 image_category_invalid => 画像用カテゴリ <strong>{name}</strong> は不正です。
 image_category_name => 画像用カテゴリ名
 image_category_title => 画像用カテゴリタイトル
