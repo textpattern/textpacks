@@ -57,6 +57,7 @@ real_name => Rétt nafn
 resetpassword =>
 reset_author_password => Endursetja aðgangsorð höfundar
 search_users =>
+set_password =>
 show_password =>
 site_administration => Stjórnandi vefs
 staff_writer => Innanhúss höfundur

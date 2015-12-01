@@ -57,6 +57,7 @@ real_name => Real name
 resetpassword => Reset password
 reset_author_password => Reset author password
 search_users => Search users
+set_password => Set your password
 show_password => Show password
 site_administration => Users
 staff_writer => Staff Writer

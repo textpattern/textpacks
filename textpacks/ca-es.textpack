@@ -57,6 +57,7 @@ real_name => Nom real
 resetpassword => Restableix contrasenya
 reset_author_password => Restableix la contrasenya de l’autor
 search_users =>
+set_password =>
 show_password =>
 site_administration => Usuaris
 staff_writer => Redactor en plantilla

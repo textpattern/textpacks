@@ -57,6 +57,7 @@ real_name => 이름
 resetpassword => 비밀번호 초기화
 reset_author_password => 글쓴이 비밀번호 초기화
 search_users =>
+set_password =>
 show_password =>
 site_administration => 글쓴이
 staff_writer => 전담 필자

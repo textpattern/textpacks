@@ -57,6 +57,7 @@ real_name => Αληθινό όνομα
 resetpassword => Ανανέωση κωδικού πρόσβασης
 reset_author_password => Ανανέωση κωδικού πρόσβασης χρήστη
 search_users =>
+set_password =>
 show_password =>
 site_administration => Διαχείριση ιστοτόπου
 staff_writer => Συντάκτης

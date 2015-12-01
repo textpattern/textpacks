@@ -57,6 +57,7 @@ real_name => Nome real
 resetpassword => Cambiar contrasinal
 reset_author_password => Sobre escribir o contrasinal do autor
 search_users =>
+set_password =>
 show_password =>
 site_administration => Adminstración da bitácora
 staff_writer => Escritor en plantel

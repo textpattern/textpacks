@@ -57,6 +57,7 @@ real_name => ชื่อจริง
 resetpassword => ตั้งรหัสผ่านใหม่
 reset_author_password => ตั้งรหัสผ่านนักเขียนใหม่
 search_users =>
+set_password =>
 show_password =>
 site_administration => ดูแลเว็บไซต์
 staff_writer => นักเขียนสต๊าฟ

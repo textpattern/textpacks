@@ -57,6 +57,7 @@ real_name => اصلی نام
 resetpassword => ‏پاس ورڈ‏ پھر سیٹ کریں
 reset_author_password => مصنف کا ‏پاس ورڈ‏ پھر سیٹ کریں
 search_users =>
+set_password =>
 show_password =>
 site_administration => صارفین
 staff_writer => اندرونی مصنف

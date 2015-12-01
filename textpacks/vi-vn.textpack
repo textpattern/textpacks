@@ -57,6 +57,7 @@ real_name => Tên thật
 resetpassword => Đặt lại mật khẩu
 reset_author_password => Đặt lại mật khẩu của tác giả
 search_users =>
+set_password =>
 show_password =>
 site_administration => Người dùng
 staff_writer => Người viết chuyên trách

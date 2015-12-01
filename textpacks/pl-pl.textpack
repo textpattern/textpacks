@@ -57,6 +57,7 @@ real_name => Imię i nazwisko
 resetpassword => Przywróć domyślne hasło
 reset_author_password => Przywróć domyślne hasło użytkownika
 search_users => Szukaj użytkowników
+set_password =>
 show_password => Pokaż hasło
 site_administration => Administracja witryny
 staff_writer => Redaktor

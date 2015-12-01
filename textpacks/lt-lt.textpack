@@ -57,6 +57,7 @@ real_name => Tikrasis vardas
 resetpassword => Atstatyti slaptažodį
 reset_author_password => Atstatyti autoriaus slaptažodį
 search_users =>
+set_password =>
 show_password =>
 site_administration => Naudotojai
 staff_writer => Etatinis rašytojas

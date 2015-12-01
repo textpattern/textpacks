@@ -57,6 +57,7 @@ real_name => Jméno
 resetpassword => Zaslat nové heslo
 reset_author_password => Nové heslo pro autory
 search_users => Hledat uživatele
+set_password =>
 show_password => Zopbrazit heslo
 site_administration => Správa serveru
 staff_writer => Redakční autor

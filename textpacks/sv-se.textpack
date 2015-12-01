@@ -57,6 +57,7 @@ real_name => Namn
 resetpassword => Nollställ lösenord
 reset_author_password => Nollställ skribentlösenord
 search_users =>
+set_password =>
 show_password =>
 site_administration => Användare
 staff_writer => Redaktionsmedarbetare

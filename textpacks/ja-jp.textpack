@@ -57,6 +57,7 @@ real_name => 名前
 resetpassword => パスワードの再設定
 reset_author_password => ユーザのパスワードの再設定
 search_users =>
+set_password =>
 show_password =>
 site_administration => ユーザの管理
 staff_writer => 執筆スタッフ

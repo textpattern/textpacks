@@ -57,6 +57,7 @@ real_name => Volledige naam
 resetpassword => Wachtwoord resetten
 reset_author_password => Reset medewerkers wachtwoord
 search_users => Medewerkers doorzoeken
+set_password =>
 show_password => Wachtwoord tonen
 site_administration => Site Beheer
 staff_writer => Redacteur

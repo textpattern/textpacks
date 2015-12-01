@@ -57,6 +57,7 @@ real_name => Realer Name
 resetpassword => Passwort zurücksetzen
 reset_author_password => Das Passwort dieses Autors zurücksetzen?
 search_users =>
+set_password =>
 show_password => Passwort zeigen
 site_administration => Seitenadministration
 staff_writer => Autor

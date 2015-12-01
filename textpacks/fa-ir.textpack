@@ -57,6 +57,7 @@ real_name => نام حقیقی
 resetpassword => بازیابی گذرواژه
 reset_author_password => بازیابی گذرواژه نویسنده
 search_users =>
+set_password =>
 show_password =>
 site_administration => کاربران
 staff_writer => عضو تحریریه

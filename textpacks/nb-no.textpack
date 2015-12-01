@@ -57,6 +57,7 @@ real_name => Virkelig navn
 resetpassword => Tilbakestilling av passord
 reset_author_password => Nullstill forfatterpassord
 search_users => Søk brukere
+set_password =>
 show_password =>
 site_administration => Brukere
 staff_writer => Stabsskribent

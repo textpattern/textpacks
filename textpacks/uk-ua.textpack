@@ -57,6 +57,7 @@ real_name => Справжнє Ім'я
 resetpassword => Скинути пароль
 reset_author_password => Оновити пароль автора
 search_users => Пошук користувачів
+set_password =>
 show_password =>
 site_administration => Користувачі
 staff_writer => Штатний дописувач

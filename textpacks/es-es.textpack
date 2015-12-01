@@ -57,6 +57,7 @@ real_name => Nombre real
 resetpassword => Cambiar contraseña
 reset_author_password => Cambiar la contraseña del autor
 search_users => Buscar usuarios
+set_password =>
 show_password => Mostrar contraseña
 site_administration => Usuarios
 staff_writer => Redactor de plantilla

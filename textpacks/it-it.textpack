@@ -57,6 +57,7 @@ real_name => Nome
 resetpassword => Reimposta password
 reset_author_password => Reimposta la password dell’autore
 search_users =>
+set_password =>
 show_password =>
 site_administration => Gestione sito (Utenti)
 staff_writer => Editorialista

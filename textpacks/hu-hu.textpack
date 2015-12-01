@@ -57,6 +57,7 @@ real_name => Valódi név
 resetpassword => Jelszó törlése
 reset_author_password => Szerző jelszavának törlése
 search_users =>
+set_password =>
 show_password =>
 site_administration => Weblap adminsztráció
 staff_writer => Író tag

@@ -57,6 +57,7 @@ real_name => Numele real
 resetpassword => Reseteaza parola
 reset_author_password => Reseteaza parola autorului
 search_users =>
+set_password =>
 show_password =>
 site_administration => Utilizatori
 staff_writer => Autor sef

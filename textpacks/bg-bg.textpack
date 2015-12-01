@@ -57,6 +57,7 @@ real_name => Истинско име
 resetpassword => Обнови паролата
 reset_author_password => Обнови паролата на автора
 search_users =>
+set_password =>
 show_password =>
 site_administration => Потребители
 staff_writer => Щатен писател

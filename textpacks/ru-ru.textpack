@@ -57,6 +57,7 @@ real_name => Настоящее имя
 resetpassword => Сбросить пароль
 reset_author_password => Сброcить пароль автора
 search_users => Поиск пользователей
+set_password =>
 show_password =>
 site_administration => Администрирование сайтом
 staff_writer => Штатный писатель

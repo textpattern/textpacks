@@ -57,6 +57,7 @@ real_name => الاسم الحقيقي
 resetpassword => إعادة تعيين كلمة السر
 reset_author_password => إعادة تعيين كلمة السر الخاصة بالمؤلف
 search_users =>
+set_password =>
 show_password =>
 site_administration => إدارة
 staff_writer => محرر متقدم

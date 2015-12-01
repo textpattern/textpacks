@@ -57,6 +57,7 @@ real_name => 姓名
 resetpassword => 重设密码
 reset_author_password => 重设作者密码
 search_users =>
+set_password =>
 show_password =>
 site_administration => 用户
 staff_writer => 撰稿人
