@@ -26,6 +26,7 @@ error_adding_new_author => Feil ved lagring av ny forfatter.
 freelancer => Frilanser
 last_login => Forrige login
 login_name => Innloggingsnavn
+login_sent_to =>
 log_in_at => Logg inn på
 mail_it => Send til meg
 managing_editor => Sjefsredaktør

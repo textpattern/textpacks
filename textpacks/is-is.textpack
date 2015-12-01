@@ -26,6 +26,7 @@ error_adding_new_author => Bæta við nýjum höfundi: Villa.
 freelancer => Lausamaður
 last_login =>
 login_name => Innskrá
+login_sent_to =>
 log_in_at => Innskrá sem
 mail_it => Senda póst til mín
 managing_editor => Managing Editor

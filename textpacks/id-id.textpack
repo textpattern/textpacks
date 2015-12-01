@@ -26,6 +26,7 @@ error_adding_new_author => Kesalahan menambah penulis baru
 freelancer => Penulis lepas
 last_login => Login Terakhir
 login_name => Login
+login_sent_to =>
 log_in_at => Login pada
 mail_it => Kirim ke saya
 managing_editor => Pemimpin Redaksi

@@ -26,6 +26,7 @@ error_adding_new_author => Uuden käyttäjän lisäämisessä tapahtui virhe.
 freelancer => Vapaa toimittaja
 last_login => Viimeisin kirjautuminen
 login_name => Kirjautumisnimi
+login_sent_to =>
 log_in_at => Kirjaudu täällä
 mail_it => Lähetä se minulle
 managing_editor => Vastaava toimittaja

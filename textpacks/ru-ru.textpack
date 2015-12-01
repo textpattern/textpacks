@@ -26,6 +26,7 @@ error_adding_new_author => Ошибка добавления нового авт
 freelancer => Внештатник (фрилансер)
 last_login => Последний вход
 login_name => Логин
+login_sent_to =>
 log_in_at => Войти
 mail_it => Отправить мне по почте
 managing_editor => Главный редактор

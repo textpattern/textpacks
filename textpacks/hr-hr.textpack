@@ -26,6 +26,7 @@ error_adding_new_author => Greška kod dodavanja novog autora.
 freelancer => Slobodni Strijelac
 last_login =>
 login_name => Prijava
+login_sent_to =>
 log_in_at => Prijavljen
 mail_it => Pošaljite meni
 managing_editor => Viši Urednik

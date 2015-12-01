@@ -26,6 +26,7 @@ error_adding_new_author => Chyba při přidávání autora.
 freelancer => Přispěvatel
 last_login => Poslední přihlášení
 login_name => Uživatel
+login_sent_to =>
 log_in_at => Přihlas se na
 mail_it => Zaslat na emailovou adresu
 managing_editor => Šéfredaktor

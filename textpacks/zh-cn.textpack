@@ -26,6 +26,7 @@ error_adding_new_author => 新增作者出现错误。
 freelancer => 自由作家
 last_login => 上次登录
 login_name => 登录帐号
+login_sent_to =>
 log_in_at => 登录者
 mail_it => 发送到我的信箱
 managing_editor => 总编辑

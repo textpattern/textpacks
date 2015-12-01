@@ -26,6 +26,7 @@ error_adding_new_author => نۓ مصنف کو شامل کرنے میں نقص !
 freelancer => مصنف آزاد
 last_login => پچھلا لاگ ان
 login_name => نام صارف
+login_sent_to =>
 log_in_at => یہاں لاگ ان کریں
 mail_it => ای میل بذریعہ بھیجیں
 managing_editor => تدوین کار

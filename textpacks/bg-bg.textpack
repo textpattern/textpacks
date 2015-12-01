@@ -26,6 +26,7 @@ error_adding_new_author => Грешка при добавяне на нов ав
 freelancer => Freelancer
 last_login => Последно влизане
 login_name => Потребителско име
+login_sent_to =>
 log_in_at => Влязъл си като
 mail_it => Изпрати ми я по ел. поща
 managing_editor => Главен редактор

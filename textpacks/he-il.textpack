@@ -26,6 +26,7 @@ error_adding_new_author => שגיאה בעת הוספת כותב חדש.
 freelancer => עצמאי
 last_login => התחברות אחרונה
 login_name => שם משתמש
+login_sent_to =>
 log_in_at => התחבר בשם
 mail_it => שלח לי את זה
 managing_editor => ניהול עורכים

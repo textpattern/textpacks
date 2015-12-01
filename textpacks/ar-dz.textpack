@@ -26,6 +26,7 @@ error_adding_new_author => حدث خطأ عند إضافة مؤلف جديد
 freelancer => محرر عادي
 last_login => آخر تسجيل الدخول
 login_name => اسم تسجيل الدخول
+login_sent_to =>
 log_in_at => لتسجيل الدخول إذهب إلى
 mail_it => يرسل عبر البريد الإلكتروني
 managing_editor => نائب المدير

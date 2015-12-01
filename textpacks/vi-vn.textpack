@@ -26,6 +26,7 @@ error_adding_new_author => Không thể thêm tác giả mới.
 freelancer => Freelancer
 last_login => Lần đăng nhập cuối
 login_name => Tên đăng nhập
+login_sent_to =>
 log_in_at => Đăng nhập tại
 mail_it => Gửi thư cho tôi
 managing_editor => Quản lý trình biên soạn

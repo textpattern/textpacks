@@ -26,6 +26,7 @@ error_adding_new_author => Während des Hinzufügens eines neuen Autors trat ein
 freelancer => Freier Mitarbeiter
 last_login => Letzte Anmeldung
 login_name => Benutzername
+login_sent_to =>
 log_in_at => Anmeldung unter
 mail_it => an mich selbst schicken
 managing_editor => Leitender Redakteur

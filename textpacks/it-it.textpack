@@ -26,6 +26,7 @@ error_adding_new_author => errore nell’aggiungere un nuovo autore.
 freelancer => Collaboratore
 last_login => Ultimo accesso
 login_name => Nome di accesso
+login_sent_to =>
 log_in_at => Accedi a
 mail_it => Spediscimela via email
 managing_editor => Redattore Capo

@@ -26,6 +26,7 @@ error_adding_new_author => Erreur lors de l’ajout d’un nouvel auteur.
 freelancer => Rédacteur simple
 last_login => Dernière connexion
 login_name => Connexion
+login_sent_to =>
 log_in_at => Pour vous connecter, allez à
 mail_it => Me l’envoyer par email
 managing_editor => Assistant administrateur

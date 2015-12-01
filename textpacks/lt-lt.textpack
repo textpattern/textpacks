@@ -26,6 +26,7 @@ error_adding_new_author => Nepavyko pridėti naujo autoriaus
 freelancer => Laisvai samdomas
 last_login => Paskutinis prisijungimas
 login_name => Registracijos vardas
+login_sent_to =>
 log_in_at => Prisijungti prie
 mail_it => Siųsti man
 managing_editor => Vykdantysis redaktorius

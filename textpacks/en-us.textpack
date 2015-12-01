@@ -26,6 +26,7 @@ error_adding_new_author => Error adding new author.
 freelancer => Freelancer
 last_login => Last log in
 login_name => Login
+login_sent_to => Password sent to {name}.
 log_in_at => Log in at
 mail_it => Email it to me
 managing_editor => Managing Editor

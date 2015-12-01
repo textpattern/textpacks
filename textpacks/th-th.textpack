@@ -26,6 +26,7 @@ error_adding_new_author => พบปัญหาในขณะที่เพ�
 freelancer => นักเขียนอิสระ
 last_login => ล็อกอินครั้งสุดท้าย
 login_name => ชื่อล็อกอิน
+login_sent_to =>
 log_in_at => เข้าระบบได้ที่
 mail_it => ส่งเมลมาให้ฉัน
 managing_editor => บรรณาธิการบริหาร

@@ -26,6 +26,7 @@ error_adding_new_author => Viga uue autori lisamisel.
 freelancer => Vabakutseline
 last_login =>
 login_name => Kasutaja
+login_sent_to =>
 log_in_at => Sisselogitud
 mail_it => Meili see mulle
 managing_editor => Juhtivtoimetaja

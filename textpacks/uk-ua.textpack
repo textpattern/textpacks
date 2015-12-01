@@ -26,6 +26,7 @@ error_adding_new_author => Помилка при додаванні нового
 freelancer => Позаштатний (Freelancer)
 last_login => Останній вхід
 login_name => Логін
+login_sent_to =>
 log_in_at => Увійти
 mail_it => Відправити мені поштою
 managing_editor => Головний редактор

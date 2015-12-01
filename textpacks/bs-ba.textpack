@@ -26,6 +26,7 @@ error_adding_new_author => Greška prilikom dodavanja novog autora.
 freelancer => Slobodnjak
 last_login =>
 login_name => Prijava
+login_sent_to =>
 log_in_at => Prijava na
 mail_it => Pošalji na e-poštu
 managing_editor => Glavni urednik

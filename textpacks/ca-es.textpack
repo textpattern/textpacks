@@ -26,6 +26,7 @@ error_adding_new_author => Hi ha hagut un error en afegir el nou autor
 freelancer => Redactor independent
 last_login => Darrera connexió
 login_name => Nom de registre
+login_sent_to =>
 log_in_at => Entra a
 mail_it => Envia-ho per correu
 managing_editor => Cap de redacció

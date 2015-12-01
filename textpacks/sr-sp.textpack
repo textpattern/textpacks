@@ -26,6 +26,7 @@ error_adding_new_author => Greška kod dodavanja novog autora.
 freelancer => Freelancer
 last_login => Poslednji put logovan:
 login_name => Login
+login_sent_to =>
 log_in_at => Prijavljen u
 mail_it => Pošalji na moj email
 managing_editor => Managing Editor

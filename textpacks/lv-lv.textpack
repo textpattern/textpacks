@@ -26,6 +26,7 @@ error_adding_new_author => Kļūda, nav izdevies pievienot jaunu autoru.
 freelancer => Ārštatnieks
 last_login => Pēdējā pieslēgšanās
 login_name => Lietotāja vārds
+login_sent_to =>
 log_in_at => Ierakstieties šeit
 mail_it => nosūtīt man pa pastu
 managing_editor => Galvenais redaktors

@@ -26,6 +26,7 @@ error_adding_new_author => Un nou autor nu a putut fi adaugat.
 freelancer => Freelancer
 last_login => Ultima autentificare
 login_name => Nume autentificare
+login_sent_to =>
 log_in_at => Autentifica-te la
 mail_it => Trimite prin mail
 managing_editor => Editor sef

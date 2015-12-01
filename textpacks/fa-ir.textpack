@@ -26,6 +26,7 @@ error_adding_new_author => خطا در افزودن نویسنده جدید.
 freelancer => نویسنده آزاد
 last_login => آخرین ورود
 login_name => نام کاربری
+login_sent_to =>
 log_in_at => ورود در
 mail_it => برایم ارسال کن
 managing_editor => ویرایشگر مدیریتی

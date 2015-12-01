@@ -26,6 +26,7 @@ error_adding_new_author => Erro engadindo novo autor
 freelancer => Escritor Freelance
 last_login => Último acceso
 login_name => Nome de rexistro
+login_sent_to =>
 log_in_at => Accede en
 mail_it => Envíamo por correo electrónico
 managing_editor => Editor Xefe

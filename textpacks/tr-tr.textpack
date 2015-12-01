@@ -26,6 +26,7 @@ error_adding_new_author => Yeni yazar ekleme hatası.
 freelancer => Freelancer
 last_login =>
 login_name => Kullanıcı Adı
+login_sent_to =>
 log_in_at => Giriş
 mail_it => Bana e-posta olarak yolla
 managing_editor => Editor düzenleme

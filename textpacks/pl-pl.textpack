@@ -26,6 +26,7 @@ error_adding_new_author => Błąd podczas dodawania nowego użytkownika.
 freelancer => Wolny strzelec
 last_login => Ostatnio zalogowany
 login_name => Login
+login_sent_to =>
 log_in_at => Logowanie do
 mail_it => Wyślij do mnie
 managing_editor => Redaktor naczelny

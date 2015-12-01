@@ -26,6 +26,7 @@ error_adding_new_author => Erro ao adicionar o novo autor
 freelancer => Freelancer
 last_login => Último acesso
 login_name => Nome de registro
+login_sent_to =>
 log_in_at => Acesse em
 mail_it => Enviar por email
 managing_editor => Editor

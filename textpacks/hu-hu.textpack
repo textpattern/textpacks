@@ -26,6 +26,7 @@ error_adding_new_author => Hiba az új szerző hozzáadásakor
 freelancer => Szabadúszó
 last_login => Utoljára belépve
 login_name => Belépés
+login_sent_to =>
 log_in_at => Belépve
 mail_it => Küldd el nekem levélben
 managing_editor => Főszerkesztő

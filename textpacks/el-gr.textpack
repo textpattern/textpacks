@@ -26,6 +26,7 @@ error_adding_new_author => Σφάλμα στην προσθήκη νέου χρ�
 freelancer => Ελεύθερος συνεργάτης
 last_login => Τελευταία σύνδεση
 login_name => Όνομα χρήστη
+login_sent_to =>
 log_in_at => Τόπος πρόσβασης:
 mail_it => Να μου αποσταλεί με email
 managing_editor => Αρχισυντάκτης
