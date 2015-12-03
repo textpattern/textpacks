@@ -21,6 +21,7 @@ change_password => آپکا ‏پاس ورڈ‏ تبدیل کریں
 copy_editor => اسسٹنٹ تدوین کار
 could_not_mail => ای میل بھیجنے میں ناکامی
 could_not_update_author => مصنف کے معلومات تازہ کرنے میں ناکامی
+current_password =>
 designer => ڈیزائنر
 edit_author => مصنف کے معلومات تدوین کریں
 email_changed => ای میل کا پتہ <strong>{email}</strong> کو بدلہ گیا
@@ -40,6 +41,7 @@ password_changed_mailed => ‏پاس ورڈ‏ تبدیل کیا گیا اور �
 password_change_confirmation =>
 password_confirm_button =>
 password_forgotten => کیا آپ اپنا ‏پاس ورڈ‏ بھول گئے ؟
+password_invalid =>
 password_required => بارہ کرم، ایک نیا ‏پاس ورڈ‏ داخل کریں
 password_reset => ‏پاس ورڈ‏ پھر سیٹ کریں
 password_reset_button => ‏پاس ورڈ پھر سیٹ کریں
