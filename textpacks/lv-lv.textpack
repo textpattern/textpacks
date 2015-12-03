@@ -28,6 +28,7 @@ email_changed => E-pasta adrese nomainīta uz <strong>{email}</strong>.
 error_adding_new_author => Kļūda, nav izdevies pievienot jaunu autoru.
 freelancer => Ārštatnieks
 last_login => Pēdējā pieslēgšanās
+link_expires =>
 login_name => Lietotāja vārds
 login_sent_to =>
 log_in_at => Ierakstieties šeit

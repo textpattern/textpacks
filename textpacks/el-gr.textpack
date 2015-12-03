@@ -28,6 +28,7 @@ email_changed => Η διεύθυνση email άλλαξε σε <strong>{email}</
 error_adding_new_author => Σφάλμα στην προσθήκη νέου χρήστη.
 freelancer => Ελεύθερος συνεργάτης
 last_login => Τελευταία σύνδεση
+link_expires =>
 login_name => Όνομα χρήστη
 login_sent_to =>
 log_in_at => Τόπος πρόσβασης:

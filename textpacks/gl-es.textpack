@@ -28,6 +28,7 @@ email_changed => Dirección de email cambiada a <strong>{email}</strong>.
 error_adding_new_author => Erro engadindo novo autor
 freelancer => Escritor Freelance
 last_login => Último acceso
+link_expires =>
 login_name => Nome de rexistro
 login_sent_to =>
 log_in_at => Accede en

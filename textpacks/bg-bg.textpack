@@ -28,6 +28,7 @@ email_changed => Ел. адрес е сменен със следния <strong>
 error_adding_new_author => Грешка при добавяне на нов автор.
 freelancer => Freelancer
 last_login => Последно влизане
+link_expires =>
 login_name => Потребителско име
 login_sent_to =>
 log_in_at => Влязъл си като

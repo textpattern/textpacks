@@ -28,6 +28,7 @@ email_changed => 전자우편 주소가 <strong>{email}</strong>로 변경되었
 error_adding_new_author => 글쓴이 추가중 문제가 발생했습니다.
 freelancer => 프리랜서
 last_login => 마지막 로그인
+link_expires =>
 login_name => 로그인 id
 login_sent_to =>
 log_in_at => 로그인한 시각

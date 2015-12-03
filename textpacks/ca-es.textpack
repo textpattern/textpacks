@@ -28,6 +28,7 @@ email_changed => S’ha canviat l’adreça per: <strong>{email}</strong>.
 error_adding_new_author => Hi ha hagut un error en afegir el nou autor
 freelancer => Redactor independent
 last_login => Darrera connexió
+link_expires =>
 login_name => Nom de registre
 login_sent_to =>
 log_in_at => Entra a

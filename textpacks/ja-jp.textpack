@@ -28,6 +28,7 @@ email_changed => メールアドレスは変更されました：<strong>{email}
 error_adding_new_author => ユーザの追加に失敗しました。
 freelancer => フリーランス
 last_login => 最終ログイン
+link_expires =>
 login_name => ログイン
 login_sent_to =>
 log_in_at => ログイン時刻

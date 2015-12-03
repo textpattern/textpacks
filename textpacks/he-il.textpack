@@ -28,6 +28,7 @@ email_changed => כתובת הדואל שונתה לכתובת <strong>{email}</
 error_adding_new_author => שגיאה בעת הוספת כותב חדש.
 freelancer => עצמאי
 last_login => התחברות אחרונה
+link_expires =>
 login_name => שם משתמש
 login_sent_to =>
 log_in_at => התחבר בשם

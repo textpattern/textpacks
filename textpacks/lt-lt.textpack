@@ -28,6 +28,7 @@ email_changed => El. pašto adresas pakeistas į <strong>{email}</strong>.
 error_adding_new_author => Nepavyko pridėti naujo autoriaus
 freelancer => Laisvai samdomas
 last_login => Paskutinis prisijungimas
+link_expires =>
 login_name => Registracijos vardas
 login_sent_to =>
 log_in_at => Prisijungti prie

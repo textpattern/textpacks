@@ -28,6 +28,7 @@ email_changed => ای میل کا پتہ <strong>{email}</strong> کو بدلہ 
 error_adding_new_author => نۓ مصنف کو شامل کرنے میں نقص !
 freelancer => مصنف آزاد
 last_login => پچھلا لاگ ان
+link_expires =>
 login_name => نام صارف
 login_sent_to =>
 log_in_at => یہاں لاگ ان کریں

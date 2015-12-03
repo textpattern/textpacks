@@ -28,6 +28,7 @@ email_changed => E-mail адреса промењена у <strong>{email}</stro
 error_adding_new_author => Грешка код додавања новог аутора.
 freelancer => Слободни стрелац
 last_login => Последњи пут улогован
+link_expires =>
 login_name => Пријава
 login_sent_to =>
 log_in_at => Пријављен у

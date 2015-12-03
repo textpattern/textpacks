@@ -28,6 +28,7 @@ email_changed => Dirección de email cambiada a <strong>{email}</strong>.
 error_adding_new_author => Error al añadir el nuevo autor.
 freelancer => Redactor freelance
 last_login => Último acceso
+link_expires =>
 login_name => Nombre de acceso
 login_sent_to =>
 log_in_at => Acceder a

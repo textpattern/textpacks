@@ -28,6 +28,7 @@ email_changed => E-postadressen ändrades till <strong>{email}</strong>.
 error_adding_new_author => Fel vid tillägg av ny skribent
 freelancer => Frilansare
 last_login => Senaste inloggning
+link_expires =>
 login_name => Login-namn
 login_sent_to =>
 log_in_at => Logga in på

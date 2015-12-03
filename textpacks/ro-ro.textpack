@@ -28,6 +28,7 @@ email_changed => Adresa de email a fost modificata in <strong>{email}</strong>.
 error_adding_new_author => Un nou autor nu a putut fi adaugat.
 freelancer => Freelancer
 last_login => Ultima autentificare
+link_expires =>
 login_name => Nume autentificare
 login_sent_to =>
 log_in_at => Autentifica-te la

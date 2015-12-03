@@ -28,6 +28,7 @@ email_changed => غير البريد الإلكتروني إلى <strong>{email}
 error_adding_new_author => حدث خطأ عند إضافة مؤلف جديد
 freelancer => محرر عادي
 last_login => آخر تسجيل الدخول
+link_expires =>
 login_name => اسم تسجيل الدخول
 login_sent_to =>
 log_in_at => لتسجيل الدخول إذهب إلى

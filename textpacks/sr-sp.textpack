@@ -28,6 +28,7 @@ email_changed => E-mail adresa promenjena u <strong>{email}</strong>.
 error_adding_new_author => Greška kod dodavanja novog autora.
 freelancer => Freelancer
 last_login => Poslednji put logovan:
+link_expires =>
 login_name => Login
 login_sent_to =>
 log_in_at => Prijavljen u

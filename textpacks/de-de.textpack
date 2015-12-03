@@ -28,6 +28,7 @@ email_changed => E-Mail-Adresse geändert, sie lautet nun <strong>{email}</stron
 error_adding_new_author => Während des Hinzufügens eines neuen Autors trat ein Fehler auf.
 freelancer => Freier Mitarbeiter
 last_login => Letzte Anmeldung
+link_expires =>
 login_name => Benutzername
 login_sent_to =>
 log_in_at => Anmeldung unter

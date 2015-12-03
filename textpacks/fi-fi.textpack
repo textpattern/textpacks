@@ -28,6 +28,7 @@ email_changed => Sähköpostiosoite muutettiin: <strong>{email}</strong>.
 error_adding_new_author => Uuden käyttäjän lisäämisessä tapahtui virhe.
 freelancer => Vapaa toimittaja
 last_login => Viimeisin kirjautuminen
+link_expires =>
 login_name => Kirjautumisnimi
 login_sent_to =>
 log_in_at => Kirjaudu täällä

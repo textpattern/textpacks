@@ -28,6 +28,7 @@ email_changed => Het email adres is veranderd in <strong>{email}</strong>.
 error_adding_new_author => Fout bij toevoegen nieuwe medewerker.
 freelancer => Freelancer
 last_login => Laatste login
+link_expires =>
 login_name => Loginnaam
 login_sent_to => Het wachtwoord is verzondern naar {name}.
 log_in_at => Login op

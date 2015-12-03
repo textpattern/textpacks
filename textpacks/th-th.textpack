@@ -28,6 +28,7 @@ email_changed => ที่อยู่อีเมลเปลี่ยนเป
 error_adding_new_author => พบปัญหาในขณะที่เพิ่มนักเขียน
 freelancer => นักเขียนอิสระ
 last_login => ล็อกอินครั้งสุดท้าย
+link_expires =>
 login_name => ชื่อล็อกอิน
 login_sent_to =>
 log_in_at => เข้าระบบได้ที่

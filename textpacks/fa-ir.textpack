@@ -28,6 +28,7 @@ email_changed => نشانی ایمیل به <strong>{email}</strong> تغییر 
 error_adding_new_author => خطا در افزودن نویسنده جدید.
 freelancer => نویسنده آزاد
 last_login => آخرین ورود
+link_expires =>
 login_name => نام کاربری
 login_sent_to =>
 log_in_at => ورود در

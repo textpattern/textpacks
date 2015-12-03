@@ -28,6 +28,7 @@ email_changed =>
 error_adding_new_author => Bæta við nýjum höfundi: Villa.
 freelancer => Lausamaður
 last_login =>
+link_expires =>
 login_name => Innskrá
 login_sent_to =>
 log_in_at => Innskrá sem

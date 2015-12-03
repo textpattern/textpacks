@@ -28,6 +28,7 @@ email_changed =>
 error_adding_new_author => Kesalahan menambah penulis baru
 freelancer => Penulis lepas
 last_login => Login Terakhir
+link_expires =>
 login_name => Login
 login_sent_to =>
 log_in_at => Login pada

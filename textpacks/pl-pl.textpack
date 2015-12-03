@@ -28,6 +28,7 @@ email_changed => Adres email został zmieniony na <strong>{email}</strong>.
 error_adding_new_author => Błąd podczas dodawania nowego użytkownika.
 freelancer => Wolny strzelec
 last_login => Ostatnio zalogowany
+link_expires =>
 login_name => Login
 login_sent_to =>
 log_in_at => Logowanie do

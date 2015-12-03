@@ -28,6 +28,7 @@ email_changed => Email 信箱改為 <strong>{email}</strong>.
 error_adding_new_author => 新增作者發生錯誤
 freelancer => 自由作家
 last_login =>
+link_expires =>
 login_name => 帳號
 login_sent_to =>
 log_in_at => 登錄者

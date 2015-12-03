@@ -28,6 +28,7 @@ email_changed => E-mailová adresa zmenená na <strong>{email}</strong>.
 error_adding_new_author => Chyba pri pridávaní autora
 freelancer => Freelancer
 last_login =>
+link_expires =>
 login_name => Užívateľ
 login_sent_to =>
 log_in_at => Prihlás sa na

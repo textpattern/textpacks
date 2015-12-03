@@ -28,6 +28,7 @@ email_changed => E-mail 地址更改为 <strong>{email}</strong>。
 error_adding_new_author => 新增作者出现错误。
 freelancer => 自由作家
 last_login => 上次登录
+link_expires =>
 login_name => 登录帐号
 login_sent_to =>
 log_in_at => 登录者
