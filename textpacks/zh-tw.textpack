@@ -185,6 +185,7 @@ auth_required => 欠缺授權
 back_to_login =>
 bad_cookie => 非合法cookie。 請輸入登入資訊。
 body =>
+cancel =>
 cannot_instantiate_theme =>
 category => 分類
 changeauthor => 更改作者

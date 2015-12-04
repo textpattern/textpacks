@@ -185,6 +185,7 @@ auth_required => Необходима е ауторизация.
 back_to_login => Върнете се към входа
 bad_cookie => Лоша cookie стойност.
 body => Главен текст
+cancel =>
 cannot_instantiate_theme => Темата <strong>{name}</strong> ({class}) не успя да се зареди от {path}. Ще използваме класическата тема като заместител.
 category => Категория
 changeauthor => Промени автор

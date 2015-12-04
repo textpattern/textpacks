@@ -185,6 +185,7 @@ auth_required => Zahtijevana autorizacija.
 back_to_login =>
 bad_cookie => Vaše vrijeme prijave je isteklo. Molimo prijavite se ponovo.
 body =>
+cancel =>
 cannot_instantiate_theme =>
 category => Kategorija
 changeauthor => Autor promjena

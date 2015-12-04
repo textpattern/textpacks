@@ -185,6 +185,7 @@ auth_required => احراز هویت ضروری است.
 back_to_login => بازگشت به صفحه ورود ←
 bad_cookie => لطفاً مجدداً وارد سیستم شوید.
 body => بدنه
+cancel =>
 cannot_instantiate_theme => بارگزاری تم <strong>{name}</strong> از مسیر {path} ناموفق بود. از تم Classic به عنوان جایگزین استفاده خواهد شد.
 category => رده
 changeauthor => تغییر نویسنده

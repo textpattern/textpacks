@@ -185,6 +185,7 @@ auth_required => Autorisasjon påkrevd
 back_to_login => Tilbake til Textpattern innlogging
 bad_cookie => Korrupt cookie. Vennligst skriv inn logindetaljer.
 body => Body
+cancel =>
 cannot_instantiate_theme => Tema <strong>{name}</strong> ({class}) ble ikke lastet riktig fra fil {path}. Standardtemaet vil bli brukt som en reserveløsning.
 category => Kategori
 changeauthor => Endre forfatter

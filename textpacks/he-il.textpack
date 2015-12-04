@@ -185,6 +185,7 @@ auth_required => נדרשת הרשאה
 back_to_login => חזור אל התחברות Textpattern
 bad_cookie => העוגייה אינה תקינה. אנא רשום את פרטי ההתחברות.
 body => גוף
+cancel =>
 cannot_instantiate_theme => העיצוב <strong>{name}</strong> ({class}) נכשל להעלות מהקובץ {path}. ייעשה שימוש בעיצוב הקלאסי כברירת מחדל.
 category => קטגורייה
 changeauthor => שנה כותב

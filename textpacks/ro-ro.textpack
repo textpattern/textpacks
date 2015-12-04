@@ -185,6 +185,7 @@ auth_required => Autorizatie necesara.
 back_to_login => Inapoi la autentificare Textpattern
 bad_cookie => Sesiunea a expirat. Te rog re-autentifica.
 body => Continut
+cancel =>
 cannot_instantiate_theme => Tema <strong>{name}</strong> ({class}) nu poate fi incarcata din fisierul {path}. Tema clasica va fi folosita in schimb.
 category => Categorie
 changeauthor => Modifica autor

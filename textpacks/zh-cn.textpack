@@ -185,6 +185,7 @@ auth_required => 需要授权。
 back_to_login => 返回到 Textpattern 登录页
 bad_cookie => 无效的 Cookie。请输入登录信息。
 body => 内容
+cancel =>
 cannot_instantiate_theme => 主题 <strong>{name}</strong> ({class}) 不能正确的从文件 {path} 读取。将使用经典主题代替。
 category => category
 changeauthor => 更改作者

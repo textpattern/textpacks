@@ -185,6 +185,7 @@ auth_required => Je potrebné sa prihlásiť
 back_to_login =>
 bad_cookie => Chybné cookie
 body =>
+cancel =>
 cannot_instantiate_theme =>
 category => kategoria
 changeauthor =>

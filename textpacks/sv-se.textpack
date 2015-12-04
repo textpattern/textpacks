@@ -185,6 +185,7 @@ auth_required => Auktorisering krävs.
 back_to_login => Till Textpatterns loginsida
 bad_cookie => Ogiltig cookiefil. Var god ange dina inloggningsuppgifter.
 body => Brödtext
+cancel =>
 cannot_instantiate_theme => Temat <strong>{name}</strong> ({class}) kan inte laddas ordentligt från {path}. Classic-temat kommer att användas istället.
 category => Kategori
 changeauthor => Byt författare

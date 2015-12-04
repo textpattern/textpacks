@@ -185,6 +185,7 @@ auth_required => Autorización requerida.
 back_to_login => Volver a identificarse en Textpattern
 bad_cookie => Cookie inválida.
 body => Corpo
+cancel =>
 cannot_instantiate_theme => O tema <strong>{name}</strong> ({class}) non se cargou correctamente desde o arquivo {path}. Volverase a usar de novo o tema clásico.
 category => Categorí­a
 changeauthor => Cambiar autor

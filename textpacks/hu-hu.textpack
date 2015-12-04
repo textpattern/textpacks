@@ -185,6 +185,7 @@ auth_required => Hitelesítés szükséges
 back_to_login =>
 bad_cookie => Rossz süti (cookie)
 body => Törzs
+cancel =>
 cannot_instantiate_theme =>
 category => Kategória
 changeauthor => Szerző megváltoztatása

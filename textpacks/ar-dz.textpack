@@ -185,6 +185,7 @@ auth_required => رخصة مطلوبة
 back_to_login =>
 bad_cookie => الكوكي غير صحيح
 body => النص الأساسي
+cancel =>
 cannot_instantiate_theme =>
 category => فئة
 changeauthor =>

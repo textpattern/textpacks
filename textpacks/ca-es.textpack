@@ -185,6 +185,7 @@ auth_required => Cal autorització
 back_to_login =>
 bad_cookie => Cookie invàlida
 body => Cos
+cancel =>
 cannot_instantiate_theme =>
 category => Categoria
 changeauthor => Canvia autor

@@ -185,6 +185,7 @@ auth_required => Wymagana autoryzacja.
 back_to_login => Zaloguj ponownie
 bad_cookie => Nieprawidłowe ciasteczko (cookie). Zaloguj się ponownie.
 body => Treść
+cancel =>
 cannot_instantiate_theme => Nie można uruchomić motywu <strong>{name}</strong> ({class}).
 category => Kategoria
 changeauthor => Zmień autora

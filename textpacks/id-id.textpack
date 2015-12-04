@@ -185,6 +185,7 @@ auth_required => Otorisasi diperlukan
 back_to_login =>
 bad_cookie => Sesi login Anda telah kadaluarsa. Silakan login lagi.
 body => Body
+cancel =>
 cannot_instantiate_theme => Tema <strong>{name}</strong> ({class}) gagal dipanggil sebagaimana mestinya dari berkas {path}. Tema Klasik akan digunakan sebagai kembali.
 category => Kategori
 changeauthor =>

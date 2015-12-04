@@ -185,6 +185,7 @@ auth_required => Potrebna autorizacija.
 back_to_login =>
 bad_cookie => Neispravan cookie. Molimo unesite login detalje.
 body => Sadržaj
+cancel =>
 cannot_instantiate_theme =>
 category => Kategorija
 changeauthor => Promeni autora

@@ -185,6 +185,7 @@ auth_required => منظوری‏ ضروری ہے
 back_to_login =>
 bad_cookie => اس نشست کی مدّت ختم ہوی، بارہ کرم دو بارہ لاگ ان کریں
 body => بیان
+cancel =>
 cannot_instantiate_theme => خیالیہ <strong>{name}</strong> ({class}) صحیح طرح سے {path} سے لوڈ نہیں ہوا، اس لیے اب Classic خیلیہ استمعال کیا جاۓ گا
 category => زمرہ
 changeauthor => مصنف تبدیل کریں

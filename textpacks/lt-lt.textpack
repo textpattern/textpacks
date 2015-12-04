@@ -185,6 +185,7 @@ auth_required => Reikalinga autorizacija.
 back_to_login => Atgal į Textpattern seanso pradžią
 bad_cookie => Jūsų prisijungimo sesija baigėsi. Prašome prisijungti vėl.
 body => Tekstas
+cancel =>
 cannot_instantiate_theme => Šios temos <strong>{name}</strong> ({class}) nepavyko užkrauti iš bylos {path}. Klasikinė tema bus panaudota kaip atsarginė.
 category => Kategorija
 changeauthor => Pakeisti autorių

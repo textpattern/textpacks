@@ -185,6 +185,7 @@ auth_required => Autorização requerida
 back_to_login => Voltar para página de login do Textpattern
 bad_cookie => Cookie inválida. Por favor, insira os seus dados de acesso.
 body => Corpo
+cancel =>
 cannot_instantiate_theme => Tema <strong>{name}</strong> ({class}) falhou ao ser carregado a partir do arquivo {path}. O tema clássico será utilizado nesta ocasião.
 category => Categoria
 changeauthor => Alterar autor

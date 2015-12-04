@@ -185,6 +185,7 @@ auth_required => Benötigt Berechtigung.
 back_to_login => Zurück zur Anmeldung
 bad_cookie => Ungültiges Cookie. Bitte geben Sie Ihre Anmeldeinformationen ein.
 body => Haupttext
+cancel =>
 cannot_instantiate_theme => Das Theme <strong>{name}</strong> ({class}) kann nicht von {path} geladen werden. Das Classic-Theme wird als Ersatz verwendet.
 category => Kategorie
 changeauthor => Autor ändern

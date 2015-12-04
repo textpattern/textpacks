@@ -185,6 +185,7 @@ auth_required => İzin gerekiyor.
 back_to_login =>
 bad_cookie => Geçersiz çerez. Lütfen tekrar giriş yapın.
 body =>
+cancel =>
 cannot_instantiate_theme =>
 category => Kategori
 changeauthor => Yazar Değiştir

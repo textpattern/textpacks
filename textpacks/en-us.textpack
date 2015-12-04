@@ -185,6 +185,7 @@ auth_required => Authorization required.
 back_to_login => Back to Textpattern log in
 bad_cookie => Your session has expired. Please log in again.
 body => Body
+cancel => Cancel
 cannot_instantiate_theme => Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback.
 category => Category
 changeauthor => Change author

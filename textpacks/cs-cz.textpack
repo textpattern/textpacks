@@ -185,6 +185,7 @@ auth_required => Je nutno se přihlásit.
 back_to_login => Zpět k přihlášení
 bad_cookie => Špatné cookie.
 body => Tělo
+cancel =>
 cannot_instantiate_theme => Instalace motivu <strong>{name}</strong> ({class}) ze souboru {path} selhala. Místo toho bude použit motiv standardní.
 category => Kategorie
 changeauthor => Změnit autora

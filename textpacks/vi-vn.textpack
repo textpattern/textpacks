@@ -185,6 +185,7 @@ auth_required => Yêu cầu phải đăng nhập
 back_to_login => Trở lại đăng nhập Textpattern
 bad_cookie => Phiên làm việc đã hết hạn. Hãy nhập thông tin đăng nhập.
 body => Thân
+cancel =>
 cannot_instantiate_theme => Chủ đề <strong>{name}</strong> ({class}) gặp lỗi khi tải thuộc tính từ tập tin {path}. Chủ đề cũ trước đây sẽ được sử dụng lại.
 category => Thể loại
 changeauthor => Thay đổi tác giả

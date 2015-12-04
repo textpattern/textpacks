@@ -185,6 +185,7 @@ auth_required => Необхідна авторизація.
 back_to_login => Повернутися до Textpattern
 bad_cookie => Ваша login-сесія закінчилась. Будь ласка, увійдіть в систему знову.
 body => Стаття
+cancel =>
 cannot_instantiate_theme => Тема оформлення <strong>{name}</strong> не змогла завантажитися з файлу {path}. До усунення помилки буде використовуватися стандартна тема.
 category => Категорія
 changeauthor => Змінити автора

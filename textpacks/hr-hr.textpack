@@ -185,6 +185,7 @@ auth_required => Potrebna autorizacija.
 back_to_login => Natrag na Textpattern login
 bad_cookie => Neispravan cookie. Molimo unesite logon detalje.
 body => Tijelo
+cancel =>
 cannot_instantiate_theme =>
 category => Kategorija
 changeauthor => Promijeni autora

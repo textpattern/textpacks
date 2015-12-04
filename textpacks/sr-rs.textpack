@@ -185,6 +185,7 @@ auth_required => Потребна ауторизација.
 back_to_login =>
 bad_cookie => Неисправан cookie. Молимо унесите login детаље.
 body => Садржај
+cancel =>
 cannot_instantiate_theme =>
 category => Категорија
 changeauthor => Промени аутора

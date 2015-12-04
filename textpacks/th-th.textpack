@@ -185,6 +185,7 @@ auth_required => ต้องได้รับอนุญาตก่อน
 back_to_login =>
 bad_cookie => cookie ใช้ไม่ได้
 body => เนื้อความ
+cancel =>
 cannot_instantiate_theme =>
 category => หมวดหมู่
 changeauthor => เปลี่ยนผู้แต่ง

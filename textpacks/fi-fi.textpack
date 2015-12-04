@@ -185,6 +185,7 @@ auth_required => Kirjautuminen vaadittu.
 back_to_login => Takaisin Textpatternin kirjautumis-sivulle
 bad_cookie => Istuntosi on vanhentunut. Ole hyvä ja kirjaudu uudelleen.
 body => Leipäteksti
+cancel =>
 cannot_instantiate_theme => Teemaa <strong>{name}</strong> ({class}) ei pystytty latamaan tiedostosta {path}. Teema vaihdetaan oletukseen.
 category => Kategoria
 changeauthor => Muuta tekijä

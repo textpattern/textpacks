@@ -185,6 +185,7 @@ auth_required => Autorisation krævet.
 back_to_login =>
 bad_cookie => Dårlig cookie.
 body =>
+cancel =>
 cannot_instantiate_theme => Temaet <strong>{name}</strong> ({class}) loader ikke korrekt fra filen {path}. „Classic“ temaet vil blive brugt i stedet.
 category => Kategori
 changeauthor => Ændre forfatter

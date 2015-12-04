@@ -185,6 +185,7 @@ auth_required => Χρειάζεται πιστοποίηση χρήστη
 back_to_login =>
 bad_cookie => Άκυρο «cookie». Παρακαλείστε να εισάγετε τα στοιχεία πρόςβασης.
 body => σώμα
+cancel =>
 cannot_instantiate_theme =>
 category => Κατηγορία
 changeauthor => Αλλαγή χρήστη

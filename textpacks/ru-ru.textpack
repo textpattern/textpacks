@@ -185,6 +185,7 @@ auth_required => Необходима авторизация.
 back_to_login => Вернуться к входу в Textpattern
 bad_cookie => Ваша сессия истекла. Пожалуйста, пройдите авторизацию снова.
 body => Тело
+cancel =>
 cannot_instantiate_theme => Тема оформления <strong>{name}</strong> не смогла загрузиться из файла {path}. До устранения ошибки будет использоваться стандартная тема.
 category => Category
 changeauthor => Сменить автора

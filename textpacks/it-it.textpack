@@ -185,6 +185,7 @@ auth_required => Autorizzazione richiesta.
 back_to_login => Ritorna al login di Textpattern
 bad_cookie => La tua sessione è scaduta. Effettua di nuovo il login.
 body => Corpo
+cancel =>
 cannot_instantiate_theme => Il tema <strong>{name}</strong> ({class}) non può essere caricato correttamente dal file {path}. Al suo posto verrà usato il tema Classic di Textpattern.
 category => Categoria
 changeauthor => Cambia autore

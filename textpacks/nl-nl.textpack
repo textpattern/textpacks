@@ -185,6 +185,7 @@ auth_required => Inloggen verplicht.
 back_to_login => Terug naar het Textpatternloginscherm
 bad_cookie => De loginsessie is verlopen. Je moet opnieuw inloggen.
 body => Artikeltekst
+cancel =>
 cannot_instantiate_theme => De vormgeving <strong>{name}</strong> ({class}) kan niet geladen worden uit het bestand {path}. De ‘Classic’ vormgeving wordt als gebruikt als tijdelijke oplossing.
 category => Categorie
 changeauthor => Medewerker wijzigen
