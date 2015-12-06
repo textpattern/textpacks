@@ -505,6 +505,7 @@ cannot_write_directory => Không thể ghi vào thư mục
 choose_either_width_height_or_both => Chỉ định chiều rộng, chiều cao, hoặc cả hai
 create_thumbnail => Tạo ảnh thu nhỏ
 edit_image => Sửa ảnh
+extension =>
 images => Ảnh
 image_deleted => Đã xóa ảnh <strong>{name}</strong>.
 image_delete_failed => Ảnh <strong>{name}</strong> không thể xóa được.

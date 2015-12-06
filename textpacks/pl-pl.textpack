@@ -505,6 +505,7 @@ cannot_write_directory => Brak uprawnień do zapisu w katalogu
 choose_either_width_height_or_both => Podaj szerokość i/lub wysokość
 create_thumbnail => Utwórz miniaturkę
 edit_image => Edytuj obrazek
+extension =>
 images => Obrazki
 image_deleted => Obrazek <strong>{name}</strong> został usunięty.
 image_delete_failed => Nie można usunąć obrazka <strong>{name}</strong>.

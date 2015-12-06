@@ -505,6 +505,7 @@ cannot_write_directory => In das Verzeichnis kann nicht geschrieben werden.
 choose_either_width_height_or_both => Bitte Höhe, Breite oder beides angeben
 create_thumbnail => Vorschaubild erstellen
 edit_image => Bild bearbeiten
+extension =>
 images => Bilder
 image_deleted => Bild <strong>{name}</strong> gelöscht.
 image_delete_failed => Das Bild <strong>{name}</strong> konnte nicht vollständig gelöscht werden.

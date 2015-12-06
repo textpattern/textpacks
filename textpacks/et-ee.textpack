@@ -505,6 +505,7 @@ cannot_write_directory => Kataloogi ei saa kirjutada
 choose_either_width_height_or_both => Määra laius kõrgus või mõlemad
 create_thumbnail => Loo pisipilt
 edit_image =>
+extension =>
 images =>
 image_deleted =>
 image_delete_failed =>

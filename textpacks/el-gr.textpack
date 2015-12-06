@@ -505,6 +505,7 @@ cannot_write_directory => Δεν είναι δυνατή η εγγραφή στ�
 choose_either_width_height_or_both => Εισάγετε το πλάτος, το ύψος, ή και τα δυο
 create_thumbnail => Δημιουργία σμίκρυνσης
 edit_image => Επεξεργασία εικόνας
+extension =>
 images => Εικόνες
 image_deleted => Η εικόνα <strong>{name}</strong> διαγράφηκε.
 image_delete_failed =>

@@ -505,6 +505,7 @@ cannot_write_directory => Nav iespējams ierakstīt mapē
 choose_either_width_height_or_both => Norādiet augstumu, platumu vai abus
 create_thumbnail => Izveidot sīktēlu
 edit_image => Labot attēlu
+extension =>
 images => Attēli
 image_deleted => Attēli <strong>{name}</strong> dzēsti.
 image_delete_failed => Attēls <strong>{name}</strong> nevarēja tikt pilnība izdzēsts.

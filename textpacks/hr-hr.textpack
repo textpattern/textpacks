@@ -505,6 +505,7 @@ cannot_write_directory => Ne mogu zapisati u direktorij
 choose_either_width_height_or_both => Navedi širinu, dužinu ili sve
 create_thumbnail => Napravi thumbnail
 edit_image => Uredi sliku
+extension =>
 images => Slike
 image_deleted => Slika <strong>{name}</strong> izbrisana.
 image_delete_failed =>

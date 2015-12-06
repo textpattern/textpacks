@@ -505,6 +505,7 @@ cannot_write_directory => No es pot escriure en el directori
 choose_either_width_height_or_both => Indica alçada, amplada o totes dues
 create_thumbnail => Crea miniatura
 edit_image => Edita la imatge
+extension =>
 images => Imatges
 image_deleted => S’ha esborrat la imatge <strong>{name}</strong>.
 image_delete_failed =>

@@ -505,6 +505,7 @@ cannot_write_directory => לא יכול לכתוב לספרייה
 choose_either_width_height_or_both => זהה רוחב, גובה או שניהם
 create_thumbnail => צור תמונה מוקטנת
 edit_image => ערוך תמונה
+extension =>
 images => תמונות
 image_deleted => תמונה <strong>{name}</strong> נמחקה.
 image_delete_failed => לא ניתן למחוק את התמונות <strong>{name}</strong> באופן מלא.

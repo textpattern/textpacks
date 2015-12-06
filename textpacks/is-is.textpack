@@ -505,6 +505,7 @@ cannot_write_directory => Get ekki skrifað í möppu
 choose_either_width_height_or_both => Sýna breidd, hæð, eða bæði
 create_thumbnail => Skapa smámynd
 edit_image =>
+extension =>
 images =>
 image_deleted =>
 image_delete_failed =>

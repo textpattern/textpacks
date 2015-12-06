@@ -505,6 +505,7 @@ cannot_write_directory => Cannot write to directory
 choose_either_width_height_or_both => Indicate width, height, or both
 create_thumbnail => Create thumbnail
 edit_image => Edit image
+extension => Extension
 images => Images
 image_deleted => Image(s) <strong>{name}</strong> deleted.
 image_delete_failed => Image(s) <strong>{name}</strong> could not be completely deleted.

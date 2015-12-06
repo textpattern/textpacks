@@ -505,6 +505,7 @@ cannot_write_directory => Tidak dapat menulis ke direktori
 choose_either_width_height_or_both => Indikasi lebar, tinggi, atau keduanya
 create_thumbnail => Buat gambar-kecil
 edit_image =>
+extension =>
 images =>
 image_deleted =>
 image_delete_failed => Gambar <strong>{name}</strong> tidak sepenuhnya dapat dihapus.

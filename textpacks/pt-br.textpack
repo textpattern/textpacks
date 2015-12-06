@@ -505,6 +505,7 @@ cannot_write_directory => Não é possível escrever no diretório
 choose_either_width_height_or_both => Escolher largura ou altura ou ambas
 create_thumbnail => Criar Miniatura
 edit_image => Editar Imagem
+extension =>
 images => Imagens
 image_deleted => A Imagem <strong>{name}</strong> foi excluída.
 image_delete_failed => Imagem <strong>{name}</strong> não pode ser excluída.

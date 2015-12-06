@@ -505,6 +505,7 @@ cannot_write_directory => لا يمكن الكتابة داخل الملف
 choose_either_width_height_or_both => ذكر العرض أو الطول أو الإثنين معا
 create_thumbnail => إنشاء مصغرة
 edit_image =>
+extension =>
 images =>
 image_deleted =>
 image_delete_failed =>

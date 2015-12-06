@@ -505,6 +505,7 @@ cannot_write_directory => Klasöre erişim izniniz yok
 choose_either_width_height_or_both => Genişliği göster, yüksekliği göster, veya her ikisi
 create_thumbnail => Küçük görsel (thumbnail) oluştur
 edit_image => Görsel Düzenle
+extension =>
 images => Görseller
 image_deleted => <strong>{name}</strong> isimli görsel silindi.
 image_delete_failed => <strong>{name}</strong> isimli görsel tamamen silinemedi.

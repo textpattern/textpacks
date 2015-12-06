@@ -505,6 +505,7 @@ cannot_write_directory => Nemože se upisati u mapu
 choose_either_width_height_or_both => Unesite širinu, visinu ili oboje
 create_thumbnail => Kreirajte sličicu
 edit_image => Ispravka slike
+extension =>
 images => Slike
 image_deleted => Slika <strong>{name}</strong> obrisana.
 image_delete_failed => Slika <strong>{name}</strong> ne može biti upotpunosti obrisana.

@@ -505,6 +505,7 @@ cannot_write_directory => ไม่สามารถเขียนในได
 choose_either_width_height_or_both => ระบุความกว้าง ความสูง หรือ ทั้งสองอย่าง
 create_thumbnail => สร้างภาพเล็ก
 edit_image => แก้ไขภาพ
+extension =>
 images => ภาพ
 image_deleted => ลบภาพ <strong>{name}</strong> แล้ว
 image_delete_failed =>

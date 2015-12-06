@@ -505,6 +505,7 @@ cannot_write_directory => Impossible d’écrire dans le répertoire
 choose_either_width_height_or_both => Indiquer largeur, hauteur ou les deux
 create_thumbnail => Créer une miniature
 edit_image => Édition de l’image
+extension =>
 images => Images
 image_deleted => Image(s) <strong>{name}</strong> effacée(s).
 image_delete_failed => L’image <strong>{name}</strong> n’a pas pu être totalement effacée.

@@ -505,6 +505,7 @@ cannot_write_directory => اس پوشہ میں محفوظ کرنا ناممکن
 choose_either_width_height_or_both => چوڑائی، اونچائی یا دونوں انتخاب کریں
 create_thumbnail => تصویر صغیر بناۓ
 edit_image => تصویر تدوین کریں
+extension =>
 images => تصاویر
 image_deleted => تصویر <strong>{name}</strong> حذف کیا:
 image_delete_failed => تصویر <strong>{name}</strong> مکمل طور پر حذف نہیں ہوا

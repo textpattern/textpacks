@@ -505,6 +505,7 @@ cannot_write_directory => Nem sikerült a könyvtárba írni
 choose_either_width_height_or_both => Szélesség, magasság vagy mindkettő mutatása
 create_thumbnail => Előnézet létrehozása
 edit_image => Kép szerkesztése
+extension =>
 images => Képek
 image_deleted => A(z) <strong>{name}</strong> kép törölve.
 image_delete_failed => A kép, vagy képek (<strong>{name}</strong>) törlése nem sikerült.

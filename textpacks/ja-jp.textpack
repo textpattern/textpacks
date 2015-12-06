@@ -505,6 +505,7 @@ cannot_write_directory => ディレクトリに書き込みが出来ません
 choose_either_width_height_or_both => 高さ、幅、もしくは両方を定義してください
 create_thumbnail => サムネイルの作成
 edit_image => 画像の編集
+extension =>
 images => 画像
 image_deleted => 画像 <strong>{name}</strong> を削除しました。
 image_delete_failed => 画像 <strong>{name}</strong> は完全に削除出来ませんでした。

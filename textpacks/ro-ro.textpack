@@ -505,6 +505,7 @@ cannot_write_directory => Nu s-a putut scrie in director
 choose_either_width_height_or_both => Specifica latimea, inaltimea sau amandoua
 create_thumbnail => Creaza thumbnail-ul
 edit_image => Editeaza imaginea
+extension =>
 images => Imagini
 image_deleted => Imaginea <strong>{name}</strong> a fost stearsa.
 image_delete_failed => Imaginea <strong>{name}</strong> nu a putut fi stearsa complet.

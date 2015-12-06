@@ -505,6 +505,7 @@ cannot_write_directory => Не могу записати у директориј
 choose_either_width_height_or_both => Наведи ширину, дужину или све
 create_thumbnail => Направи thumbnail
 edit_image => Измени слику
+extension =>
 images => Слике
 image_deleted => Слика <strong>{name}</strong> избрисана.
 image_delete_failed => Слика(s) <strong>{name}</strong> није могла бити комплетно избрисана.

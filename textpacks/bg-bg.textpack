@@ -505,6 +505,7 @@ cannot_write_directory => Не може да се записва в директ
 choose_either_width_height_or_both => Посочете ширина, височина или и двете
 create_thumbnail => Съдай умалено изображение
 edit_image => Редактирай изображението
+extension =>
 images => Изображения
 image_deleted => Изображението <strong>{name}</strong> е изтрито.
 image_delete_failed => Изображенията <strong>{name}</strong> не можаха да бъдат напълно изтрити.

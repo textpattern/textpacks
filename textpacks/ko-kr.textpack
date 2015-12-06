@@ -505,6 +505,7 @@ cannot_write_directory => 디렉토리를 작성할 수 없습니다
 choose_either_width_height_or_both => 높이와 너비, 또는 양쪽 모두
 create_thumbnail => 썸네일 만들기
 edit_image => 이미지 편집
+extension =>
 images => 이미지
 image_deleted => <strong>{name}</strong> 이미지를 지웠습니다.
 image_delete_failed => <strong>{name}</strong> 이미지를 완전히 지우지 않았습니다.

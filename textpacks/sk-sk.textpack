@@ -505,6 +505,7 @@ cannot_write_directory => Nedá sa zapisovať do priečinku
 choose_either_width_height_or_both => Nastaví šírku, výšku alebo oboje
 create_thumbnail => Vytvoriť náhľad
 edit_image =>
+extension =>
 images =>
 image_deleted =>
 image_delete_failed =>

@@ -505,6 +505,7 @@ cannot_write_directory => Kan ikke skrive til mappen
 choose_either_width_height_or_both => Vennligst velg høyde, bredde eller begge deler
 create_thumbnail => Lag liten versjon
 edit_image => Rediger bilde
+extension =>
 images => Bilder
 image_deleted => Bilde(r) <strong>{name}</strong> ble slettet.
 image_delete_failed => Bilde(r) <strong>{name}</strong> ikke klarte å slette.

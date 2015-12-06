@@ -505,6 +505,7 @@ cannot_write_directory => Nepavyko įrašyti į katalogą
 choose_either_width_height_or_both => Nurodykite plotį, aukštį arba abu
 create_thumbnail => Sukurti miniatiūrą
 edit_image => Redaguoti atvaizdą
+extension =>
 images => Atvaizdai
 image_deleted => Atvaizdas(ai) <strong>{name}</strong> pašalintas(i).
 image_delete_failed => Atvaizo(ų) <strong>{name}</strong> neįmanoma visiškai pašalinti.

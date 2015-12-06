@@ -505,6 +505,7 @@ cannot_write_directory => Kan ikke skrive til mappe
 choose_either_width_height_or_both =>
 create_thumbnail =>
 edit_image => Rediger billede
+extension =>
 images => Billeder
 image_deleted => Billede <strong>{name}</strong> slettet.
 image_delete_failed => Billede <strong>{name}</strong> kunne ikke slettes fuldstændigt.

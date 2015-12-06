@@ -505,6 +505,7 @@ cannot_write_directory => Não é possível escrever no directório
 choose_either_width_height_or_both => Escolher largura ou altura ou ambas
 create_thumbnail => Criar miniatura
 edit_image => Editar imagem
+extension =>
 images => Imagens
 image_deleted => A imagem <strong>{name}</strong> foi apagada.
 image_delete_failed => Não foi possivel apagar completamente a(s) imagem(s) <strong>{name}</strong>.

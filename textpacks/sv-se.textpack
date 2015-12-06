@@ -505,6 +505,7 @@ cannot_write_directory => Kan inte skriva till vald katalog
 choose_either_width_height_or_both => Ange bredd, höjd eller båda
 create_thumbnail => Skapa tumnagel-bild
 edit_image => Redigera bild
+extension =>
 images => Bilder
 image_deleted => Bilden <strong>{name}</strong> raderades.
 image_delete_failed => Bilden <strong>{name}</strong> kunde inte raderas.

@@ -505,6 +505,7 @@ cannot_write_directory => 无法写入目录
 choose_either_width_height_or_both => 注明宽度或高度
 create_thumbnail => 建立缩略图
 edit_image => 编辑图片
+extension =>
 images => 图片
 image_deleted => 图片 <strong>{name}</strong> 已删除。
 image_delete_failed => 图片 <strong>{name}</strong> 不能完全删除。

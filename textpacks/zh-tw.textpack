@@ -505,6 +505,7 @@ cannot_write_directory => 無法寫入資料夾
 choose_either_width_height_or_both => 註明寬度，高度或兩者都註明
 create_thumbnail => 建立縮圖
 edit_image => 編輯圖片
+extension =>
 images => 圖片
 image_deleted => 圖片 <strong>{name}</strong> 已刪除.
 image_delete_failed =>

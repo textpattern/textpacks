@@ -505,6 +505,7 @@ cannot_write_directory => Nelze zapisovat do adresáře
 choose_either_width_height_or_both => Zadej šířku, výšku nebo obojí
 create_thumbnail => Vytvořit náhled
 edit_image => Upravit obrázek
+extension =>
 images => Obrázky
 image_deleted => Obrázek <strong>{name}</strong> odstraněn.
 image_delete_failed => Obrázek <strong>{name}</strong> nelze smazat.

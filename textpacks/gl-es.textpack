@@ -505,6 +505,7 @@ cannot_write_directory => Non podo escribir no cartafol
 choose_either_width_height_or_both => Indicar o ancho e alto de ámbolos dous
 create_thumbnail => Crear miniatura
 edit_image => Editar imaxe
+extension =>
 images => Imaxes
 image_deleted => Imaxe <strong>{name}</strong> borrada.
 image_delete_failed => Non se ha(n) podido borrar completamente a(s) imaxe(es) <strong>{name}</strong>.

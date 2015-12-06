@@ -505,6 +505,7 @@ cannot_write_directory => ناتوانی در نوشتن در پوشه
 choose_either_width_height_or_both => طول، عرض و یا هر دو
 create_thumbnail => ساخت تصویر کوچک
 edit_image => ویرایش تصویر
+extension =>
 images => تصاویر
 image_deleted => تصویر <strong>{name}</strong> پاک شد.
 image_delete_failed => ناتوانی در حذف کامل تصویر <strong>{name}</strong>.

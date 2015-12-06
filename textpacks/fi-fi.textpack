@@ -505,6 +505,7 @@ cannot_write_directory => Hakemistoon ei voi kirjoittaa
 choose_either_width_height_or_both => Määritä leveys, korkeus tai molemmat
 create_thumbnail => Luo pienoiskuva
 edit_image => Muokkaa kuvaa
+extension =>
 images => Kuvat
 image_deleted => Kuva <strong>{name}</strong> poistettu.
 image_delete_failed => Kuvaa <strong>{name}</strong> ei voitu poistaa kokonaan.
