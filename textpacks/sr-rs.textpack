@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Ресетуј лозинку
 reset_author_password => Ресетуј ауторову лозинку
+search_all =>
 search_users =>
 set_password =>
 show_password =>

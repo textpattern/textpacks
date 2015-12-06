@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => パスワードの再設定
 reset_author_password => ユーザのパスワードの再設定
+search_all =>
 search_users =>
 set_password =>
 show_password =>

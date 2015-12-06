@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => אפס סיסמה
 reset_author_password => אפס סיסמת כותב
+search_all =>
 search_users =>
 set_password =>
 show_password =>

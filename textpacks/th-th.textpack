@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => ตั้งรหัสผ่านใหม่
 reset_author_password => ตั้งรหัสผ่านนักเขียนใหม่
+search_all =>
 search_users =>
 set_password =>
 show_password =>

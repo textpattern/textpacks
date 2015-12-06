@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Tilbakestilling av passord
 reset_author_password => Nullstill forfatterpassord
+search_all =>
 search_users => Søk brukere
 set_password =>
 show_password =>

@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Скинути пароль
 reset_author_password => Оновити пароль автора
+search_all =>
 search_users => Пошук користувачів
 set_password =>
 show_password =>

@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Nollaa salasana
 reset_author_password => Nollaa käyttäjän salasana
+search_all =>
 search_users =>
 set_password =>
 show_password =>

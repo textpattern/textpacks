@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Cambiar contrasinal
 reset_author_password => Sobre escribir o contrasinal do autor
+search_all =>
 search_users =>
 set_password =>
 show_password =>

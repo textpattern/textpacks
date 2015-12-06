@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Jelszó törlése
 reset_author_password => Szerző jelszavának törlése
+search_all =>
 search_users =>
 set_password =>
 show_password =>

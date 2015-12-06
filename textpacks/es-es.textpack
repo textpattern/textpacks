@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Cambiar contraseña
 reset_author_password => Cambiar la contraseña del autor
+search_all =>
 search_users => Buscar usuarios
 set_password =>
 show_password => Mostrar contraseña

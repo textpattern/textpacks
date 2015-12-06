@@ -65,6 +65,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Zaslat nové heslo
 reset_author_password => Nové heslo pro autory
+search_all =>
 search_users => Hledat uživatele
 set_password =>
 show_password => Zopbrazit heslo

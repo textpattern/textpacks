@@ -65,6 +65,7 @@ resend_activation => Resend activation link
 resend_activation_request_sent => Activation message sent to {name}.
 resetpassword => Reset password
 reset_author_password => Reset author password
+search_all => Search all
 search_users => Search users
 set_password => Set your password
 show_password => Show password
