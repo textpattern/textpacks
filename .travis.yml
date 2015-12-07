@@ -2,7 +2,5 @@
 
 language: php
 php:
-  - "5.5"
+  - "5.6"
 script: phpunit
-notifications:
-  slack: textpattern:2ft1Tge0j2OzxpmERtqRKEC0
