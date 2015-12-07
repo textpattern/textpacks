@@ -247,6 +247,7 @@ range => Mark
 restricted_area => Aðgangur bannaður.
 salutation =>
 save_new => Geyma nýtt
+search_all =>
 showing_search_results =>
 site_slogan => Síðu taglína
 sort_value => Stutt gildi

@@ -247,6 +247,7 @@ range => Tartomány
 restricted_area => Restricted area
 salutation =>
 save_new => Mentés újként
+search_all =>
 showing_search_results =>
 site_slogan => Site tagline
 sort_value => Rövid érték

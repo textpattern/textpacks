@@ -247,6 +247,7 @@ range => Jangkauan
 restricted_area => Area Terbatas
 salutation =>
 save_new => Simpan Baru
+search_all =>
 showing_search_results => Tampil {from} ke {to} dari {total}
 site_slogan => Slogan situs
 sort_value => Urutkan Nilai

@@ -247,6 +247,7 @@ range => Rajaus
 restricted_area => Pääsy estetty.
 salutation =>
 save_new => Tallenna uutena
+search_all =>
 showing_search_results => Näytetään {from}-{to} yhteensä {total}-tuloksesta
 site_slogan => Sivuston slogan
 sort_value => Järjestysarvo

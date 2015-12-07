@@ -247,6 +247,7 @@ range => Intervalo
 restricted_area => Área reservada.
 salutation =>
 save_new => Guardar novo
+search_all =>
 showing_search_results => A mostrar {from} a {to} de {total}
 site_slogan => Slogan do sítio
 sort_value => Valor para ordenação

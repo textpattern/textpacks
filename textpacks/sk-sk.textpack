@@ -247,6 +247,7 @@ range => Rozsah
 restricted_area => Zakázaný prístup
 salutation =>
 save_new => Uložiť nový
+search_all =>
 showing_search_results =>
 site_slogan => Slogan stránky
 sort_value => Hodnota pre zoradenie

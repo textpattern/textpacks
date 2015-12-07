@@ -247,6 +247,7 @@ range => Opseg
 restricted_area => Područje ograničenog pristupa
 salutation =>
 save_new => Snimi novi
+search_all =>
 showing_search_results =>
 site_slogan => Slogan Vašeg sajta
 sort_value => Vrijednost za sortiranje

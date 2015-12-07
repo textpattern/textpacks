@@ -247,6 +247,7 @@ range => Rango
 restricted_area => Área restringida.
 salutation => Querido/a {name},
 save_new => Guardar nuevo
+search_all =>
 showing_search_results => Mostrando {from} a {to} de {total}
 site_slogan => Eslogan del sitio
 sort_value => Ordenar valor

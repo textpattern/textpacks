@@ -247,6 +247,7 @@ range => Nachfolgende
 restricted_area => Eingeschränkter Bereich
 salutation => Hallo {name},
 save_new => Neu anlegen
+search_all =>
 showing_search_results => Treffer {from} bis {to} von {total}
 site_slogan => Motto der Seite
 sort_value => Sortierkriterium

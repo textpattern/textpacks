@@ -247,6 +247,7 @@ range => Van… tot…
 restricted_area => Afgesloten gedeelte.
 salutation => Beste {name},
 save_new => Opslaan
+search_all =>
 showing_search_results => Resultaten {from} tot {to} van {total}
 site_slogan => Siteslagzin
 sort_value => Sorteerwaarde

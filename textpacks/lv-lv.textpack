@@ -247,6 +247,7 @@ range => Virkne
 restricted_area => Ierobežotas pieejas lapa.
 salutation =>
 save_new => Saglabāt
+search_all =>
 showing_search_results => Rezultāti no {from} līdz {to} no {total}
 site_slogan => Lapas sauklis
 sort_value => Šķirošanas vērtība

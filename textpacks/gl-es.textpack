@@ -247,6 +247,7 @@ range => Rango
 restricted_area => Area restrinxida
 salutation =>
 save_new => Gardar novo
+search_all =>
 showing_search_results => Mostrando {from} a {to} de {total}
 site_slogan => Subtítulo da bitácora
 sort_value => Ordenar valor

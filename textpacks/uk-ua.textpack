@@ -247,6 +247,7 @@ range => група
 restricted_area => Обмежений доступ
 salutation =>
 save_new => Зберегти
+search_all =>
 showing_search_results => Показані з {from} по {to} з {total}
 site_slogan => Підзаголовок сайту
 sort_value => Значення для сортування

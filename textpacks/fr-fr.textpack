@@ -247,6 +247,7 @@ range => Sélection
 restricted_area => Zone restreinte.
 salutation => Bonjour {name},
 save_new => Enregistrer le nouveau
+search_all =>
 showing_search_results => Résultats {from} à {to} sur {total}
 site_slogan => Slogan du site
 sort_value => Valeur de tri

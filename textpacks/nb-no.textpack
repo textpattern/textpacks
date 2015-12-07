@@ -247,6 +247,7 @@ range => Område
 restricted_area => Område med begrenset tilgang
 salutation =>
 save_new => Lagre ny
+search_all =>
 showing_search_results => Viser {from} til {to} av {total}
 site_slogan => Nettsidens slagord
 sort_value => Sorter etter

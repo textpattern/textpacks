@@ -247,6 +247,7 @@ range => Range
 restricted_area => Kısıtlı bölüm
 salutation =>
 save_new => Save New
+search_all =>
 showing_search_results =>
 site_slogan => Site Sloganı
 sort_value => Sort Value

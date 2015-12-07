@@ -247,6 +247,7 @@ range => 范围
 restricted_area => 受限区域
 salutation =>
 save_new => 保存新文章
+search_all =>
 showing_search_results => 显示 {total} 个中的第 {from} 个到第 {to} 个
 site_slogan => 网站标语
 sort_value => 排序值

@@ -247,6 +247,7 @@ range => Vahemik
 restricted_area => Piiratud ala.
 salutation =>
 save_new => Salvesta uus
+search_all =>
 showing_search_results =>
 site_slogan => Saidi hüüdlause
 sort_value => Järjestusväärtus

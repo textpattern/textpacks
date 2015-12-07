@@ -247,6 +247,7 @@ range => טווח
 restricted_area => איזור שמור
 salutation =>
 save_new => שמור כחדש
+search_all =>
 showing_search_results => מציג מ-{from} עד {to} . סה"כ : {total}
 site_slogan => סלוגן האתר
 sort_value => מיין ערך
