@@ -65,7 +65,6 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => 重设密码
 reset_author_password => 重设作者密码
-search_all =>
 search_users =>
 set_password =>
 show_password =>

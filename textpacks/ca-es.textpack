@@ -65,7 +65,6 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Restableix contrasenya
 reset_author_password => Restableix la contrasenya de l’autor
-search_all =>
 search_users =>
 set_password =>
 show_password =>

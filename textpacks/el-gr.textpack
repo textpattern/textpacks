@@ -65,7 +65,6 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Ανανέωση κωδικού πρόσβασης
 reset_author_password => Ανανέωση κωδικού πρόσβασης χρήστη
-search_all =>
 search_users =>
 set_password =>
 show_password =>

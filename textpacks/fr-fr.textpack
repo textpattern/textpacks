@@ -65,7 +65,6 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Réinitialiser le mot de passe
 reset_author_password => Réinitialiser le mot de passe de l’auteur
-search_all =>
 search_users => Recherche d’utilisateurs
 set_password =>
 show_password => Afficher le mot de passe

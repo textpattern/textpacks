@@ -65,7 +65,6 @@ resend_activation => Activeringslink opnieuw versturen
 resend_activation_request_sent => Activeringsmail verstuurd naar {name}.
 resetpassword => Wachtwoord resetten
 reset_author_password => Reset medewerkers wachtwoord
-search_all =>
 search_users => Medewerkers doorzoeken
 set_password => Wachtwoord instellen
 show_password => Wachtwoord tonen
