@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Jūsų IP adresas buvo įtrauktas į juodąjį sąr
 you_have_been_banned => Jums uždrausta komentuoti.
 yyyy-mm => yyyy-mm
 #@section
-article_count => Viso straipsnių šiame skyriuje: <strong>{num}</strong>. Rodyti sąrašą.
+article_count => Viso straipsnių šiame skyriuje: {num}.
 create_section => Sukurti skirsnį
 default_write_section => Numatytasis leidybos skyrius
 delete_section_confirmation => patvirtinkite sekcijos pašalinimą

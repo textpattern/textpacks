@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Địa chỉ của bạn bị cho vào danh sách �
 you_have_been_banned => Bạn bị cấm và không thể bình chú.
 yyyy-mm => mm-yyyy
 #@section
-article_count => Bài viết này trong mục: <strong>{num}</strong>.
+article_count => Bài viết này trong mục: {num}.
 create_section => Tạo mục
 default_write_section => Mục xuất bản mặc định
 delete_section_confirmation => xác nhận xóa mục

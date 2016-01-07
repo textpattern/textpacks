@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Twój adres IP został wpisany na czarną listę pr
 you_have_been_banned => Nie masz możliwości komentowania (ban).
 yyyy-mm => rrrr-mm
 #@section
-article_count => Liczba artykułów: <strong>{num}</strong>.
+article_count => Liczba artykułów: {num}.
 create_section => Utwórz sekcję
 default_write_section => Domyślna sekcja dla nowych artykułów
 delete_section_confirmation => na pewno usunąć sekcję

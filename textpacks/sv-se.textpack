@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Din IP-adress har svartlistats av
 you_have_been_banned => Du har blockerats från att kommentera.
 yyyy-mm => åååå-mm
 #@section
-article_count => Artiklar i denna avdelning: <strong>{num}</strong>.
+article_count => Artiklar i denna avdelning: {num}.
 create_section => Skapa avdelning
 default_write_section => Förvald avdelning
 delete_section_confirmation => bekräfta radering av avdelning

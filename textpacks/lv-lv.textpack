@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Jūsu IP melnajam sarakstam pievienoja
 you_have_been_banned => Komentēšanas iespēja jums ir liegta.
 yyyy-mm => gggg-mm
 #@section
-article_count => Raksti šajā sadaļā: <strong>{num}</strong>. Uzspied, lai redzētu.
+article_count => Raksti šajā sadaļā: {num}.
 create_section => Izveidot sadaļu
 default_write_section => Noklusētā publicēšanas sadaļa
 delete_section_confirmation => apstiprināt sadaļas dzēšanu

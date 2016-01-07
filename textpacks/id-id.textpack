@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Alamat IP Anda dimasukkan daftar hitam oleh
 you_have_been_banned => Anda telah dicegah dari berkomentar.
 yyyy-mm => yyyy-mm
 #@section
-article_count => Artikel di seksi ini: <strong>{num}</strong>. Klik untuk daftar.
+article_count => Artikel di seksi ini: {num}.
 create_section => Membuat seksi
 default_write_section => Seksi penerbitan standar
 delete_section_confirmation => konfirmasi penghapusan seksi

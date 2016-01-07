@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Ваша IP адреса була занесена 
 you_have_been_banned => Вам заборонено коментувати.
 yyyy-mm => yyyy-mm
 #@section
-article_count => Статей в секції: <strong>{num}</strong>.
+article_count => Статей в секції: {num}.
 create_section => Створити секцію
 default_write_section => Секція публікації за умовчанням
 delete_section_confirmation => підтвердіть видалення секції

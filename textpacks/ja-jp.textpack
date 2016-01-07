@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => あなたの IP アドレスは禁止にされま�
 you_have_been_banned => あなたはコメントを禁止にされました。
 yyyy-mm => yyyy-mm
 #@section
-article_count => このセクション中の記事: <strong>{num}</strong> クリックしてリストを見る
+article_count => このセクション中の記事: {num} クリックしてリストを見る
 create_section => セクションの新規作成
 default_write_section => 使用するデフォルトセクション
 delete_section_confirmation => セクションの削除を確認

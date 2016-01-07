@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Vous avez été banni par
 you_have_been_banned => Vous n’avez plus le droit de commenter.
 yyyy-mm => aaaa-mm
 #@section
-article_count => Articles de cette section : <strong>{num}</strong>.
+article_count => Articles de cette section : {num}.
 create_section => Créer une nouvelle section
 default_write_section => Section de publication par défaut
 delete_section_confirmation => confirmer la suppression de la section

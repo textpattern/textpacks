@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Vaši IP adresu vedou na seznamu
 you_have_been_banned => Komentáře Vám byly zakázány.
 yyyy-mm => rrrr-mm
 #@section
-article_count => Počet článků v této rubrice: <strong>{num}</strong>. Klikněte pro výpis.
+article_count => Počet článků v této rubrice: {num}.
 create_section => Vytvořit rubriku
 default_write_section => Výchozí rubrika pro Psaní
 delete_section_confirmation => potvrdit odstranění rubriky

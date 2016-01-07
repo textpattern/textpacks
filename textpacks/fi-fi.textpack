@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => IP-osoitteesi löytyy mustalta listalta. Sen on lis
 you_have_been_banned => Sinulta on estetty kommentointi.
 yyyy-mm => vvvv-kk
 #@section
-article_count => Artikkeleita tässä osiossa: <strong>{num}</strong>. Klikkaa nähdäksesi
+article_count => Artikkeleita tässä osiossa: {num}.
 create_section => Luo osio
 default_write_section => Oletusjulkaisuosio
 delete_section_confirmation => varmista osion poisto

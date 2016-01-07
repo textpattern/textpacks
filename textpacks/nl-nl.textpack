@@ -984,7 +984,7 @@ your_ip_is_blacklisted_by => Je IP adres staat op de zwarte lijst van
 you_have_been_banned => Je reacties zijn geblokkeerd.
 yyyy-mm => jjjj-mm
 #@section
-article_count => Artikelen in deze sectie <strong>{num}</strong>. Klik voor weergave.
+article_count => Artikelen in deze sectie {num}. Klik voor weergave.
 create_section => Nieuwe sectie aanmaken
 default_write_section => Standaardsectie voor nieuwe artikelen
 delete_section_confirmation => verwijdering sectie bevestigen
