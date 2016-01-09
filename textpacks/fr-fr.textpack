@@ -5,7 +5,7 @@ lang_code => fr-FR
 lang_dir => ltr
 #@admin
 account_activation => Veuillez activer votre compte
-account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe.
+account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
 add_new_author => Ajouter un auteur
 and_mailed_to => et l’envoyer à
 assign_assets_to => Attribuer les contenus de cet utilisateur à
