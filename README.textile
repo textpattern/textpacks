@@ -6,7 +6,7 @@ This repository contains Textpacks for "Textpattern CMS":http://textpattern.com.
 
 h2. Contributing via Crowdin (preferred)
 
-Every translated string makes Textpattern better! The easiest way to get involved with translating the project is to use "Crowdin":http://translate.textpattern.io/. The tools they provide make translating Textopattern as easy as possible.
+Every translated string makes Textpattern better! The easiest way to get involved with translating the project is to use "Crowdin":http://translate.textpattern.io/. The tools they provide make translating Textpattern as easy as possible.
 
 h2. Contributing via GitHub
 
