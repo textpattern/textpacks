@@ -4,7 +4,11 @@ h1. Textpattern CMS language files
 
 This repository contains Textpacks for "Textpattern CMS":http://textpattern.com. Textpacks are the translation file format Textpattern will eventually use in a future version.
 
-h2. Contributing
+h2. Contributing Via Crowdin
+
+Every translated string makes Textpattern better! The easiest way to get involved with translating the project is to use "Crowdin":http://translate.textpattern.io/. The tools they provide make translating Textopattern as easy as possible.
+
+h2. Contributing via GitHub
 
 To make corrections to existing translations, or to add new ones, "fork the repository":https://help.github.com/articles/fork-a-repo, make your changes and commit to your fork. Once you are done, open "a pull request":https://help.github.com/articles/using-pull-requests. To boost workflow the repository contains synchronisation scripts and automated tests.
 
