@@ -101,8 +101,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     /**
      * Tests the default Textpack.
      *
-     * Makes sure the en-GB was parsed
-     * successfully, and that there were no
+     * Makes sure the en-GB was parsed successfully, and that there were no
      * duplicate strings.
      */
 
@@ -131,8 +130,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     /**
      * Tests basic file formatting.
      *
-     * Checks trailing whitespace, line break style and
-     * encoding.
+     * Checks trailing whitespace, line break style and encoding.
      */
 
     public function testShallowLooks()
@@ -310,7 +308,8 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
 
         if ($report)
         {
-           fwrite(STDOUT, "\n\nEmpty strings:\n" . implode("\n", $report)."\n\n");
+            sort($report);
+            fwrite(STDOUT, "\n\nEmpty strings:\n" . implode("\n", $report)."\n\n");
         }
     }
 }
