@@ -920,7 +920,7 @@ popup => popup
 post => Pubblica
 posted => Pubblicato
 posted_by => Pubblicato da
-press_preview_then_submit => Ecco l’anteprima di come apparirà il tuo commento. Quando sei soddisfatto del tuo commento, utilizza il pulsante <strong><a href="#txpCommentSubmit" title="Vai al pulsante Invia"> Invia</a></strong>.
+press_preview_then_submit => Ecco l’anteprima di come apparirà il tuo commento. Quando sei soddisfatto del tuo commento, utilizza il pulsante <strong><a href="#txpCommentSubmit" title="Vai al pulsante Invia">Invia</a></strong>.
 prev => Precedente
 preview => Anteprima
 publish => Pubblica
