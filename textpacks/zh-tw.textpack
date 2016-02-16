@@ -702,6 +702,7 @@ lastmod_keepalive =>
 leave_text_untouched => 保留原來文字
 link => 連結
 locale => 地區
+locale_not_available_for_language =>
 logging => 訪問記錄
 logs_expire => 停止紀錄於(天)
 manage_languages => 語系管理

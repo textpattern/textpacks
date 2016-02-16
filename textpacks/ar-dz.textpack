@@ -702,6 +702,7 @@ lastmod_keepalive =>
 leave_text_untouched => ترك النص كما هو
 link =>
 locale => محلية
+locale_not_available_for_language =>
 logging => التسجيل بصحيقفة النشاطات
 logs_expire => (log) تبطل صلاحية صحيفة النشاط بعد
 manage_languages => تسيير الغات

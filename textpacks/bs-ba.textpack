@@ -702,6 +702,7 @@ lastmod_keepalive => Kompenziraj za grešku <code>mod_deflate</code> stalnih vez
 leave_text_untouched => Ostavi tekst nedirnut
 link => Veze
 locale => Lokalizacija
+locale_not_available_for_language =>
 logging => Evidentiranje
 logs_expire => Evidencija ističe za koliko dana?
 manage_languages => Jezik

@@ -702,6 +702,7 @@ lastmod_keepalive =>
 leave_text_untouched => Jäta tekst puutumata
 link => Link
 locale => Lokaat
+locale_not_available_for_language =>
 logging => Statistika
 logs_expire => Statistika aegub pärast
 manage_languages => Halda keeli

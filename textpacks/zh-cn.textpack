@@ -702,6 +702,7 @@ lastmod_keepalive => 修复 <code>mod_deflate</code> 的持续连接的 Bug？
 leave_text_untouched => 保留原文
 link => 链接
 locale => Locale
+locale_not_available_for_language =>
 logging => 网站访问记录
 logs_expire => 记录终止于
 manage_languages => 语言

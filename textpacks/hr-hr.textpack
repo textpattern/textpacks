@@ -702,6 +702,7 @@ lastmod_keepalive =>
 leave_text_untouched => Ostavi tekst nedirnut
 link => Linkovi
 locale => Locale
+locale_not_available_for_language =>
 logging => Logiranje
 logs_expire => Nakon koliko istječu logovi?
 manage_languages => Jezik

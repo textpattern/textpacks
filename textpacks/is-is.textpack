@@ -702,6 +702,7 @@ lastmod_keepalive =>
 leave_text_untouched => Ekki breyta texta
 link =>
 locale => Locale
+locale_not_available_for_language =>
 logging => Logga
 logs_expire => Eyða loggum eftir?
 manage_languages => Stilla tungumál

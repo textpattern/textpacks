@@ -702,6 +702,7 @@ lastmod_keepalive => Compensate for persistent connections <code>mod_deflate</co
 leave_text_untouched => Metine müdahale etme
 link => Bağlantılar
 locale => Yerel
+locale_not_available_for_language =>
 logging => Kayıt tutma
 logs_expire => Kayıtlar kaç gün sonra silinsin?
 manage_languages => Dil

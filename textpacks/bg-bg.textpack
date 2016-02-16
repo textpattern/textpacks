@@ -702,6 +702,7 @@ lastmod_keepalive => Да заобиколи ли грешки в <code>mod_defl
 leave_text_untouched => Остави текста непроменен
 link => Връзки
 locale => Локализация
+locale_not_available_for_language =>
 logging => Статистики
 logs_expire => Изтичане на статистиките, след колко дни?
 manage_languages => Управление на езиците

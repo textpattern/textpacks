@@ -702,6 +702,7 @@ lastmod_keepalive => ¿Compensar el bug <code>mod_deflate</code> para las conexi
 leave_text_untouched => Dejar el texto sin tocar
 link => Enlace
 locale => Local
+locale_not_available_for_language =>
 logging => Registrar visitas
 logs_expire => ¿En cuántos días caducan los registros?
 manage_languages => Idioma

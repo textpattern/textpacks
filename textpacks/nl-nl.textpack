@@ -702,6 +702,7 @@ lastmod_keepalive => Rekening houden met de <code>mod_deflate</code> bug bij aan
 leave_text_untouched => Tekst niet aanpassen
 link => Links
 locale => Localisatie
+locale_not_available_for_language =>
 logging => Opslaan in logbestand
 logs_expire => Logs vervallen na
 manage_languages => Taal

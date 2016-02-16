@@ -702,6 +702,7 @@ lastmod_keepalive => Kompensér for <code>mod_deflate</code> bug for vedvarende 
 leave_text_untouched => Gem teksten uændret
 link => Links
 locale => Lokalitet
+locale_not_available_for_language =>
 logging => Logger
 logs_expire => Log udløber efter hvor mange dage?
 manage_languages => Sprog

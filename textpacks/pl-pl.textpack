@@ -702,6 +702,7 @@ lastmod_keepalive => Czy obejść bug w <code>mod_deflate</code> przy trwałych 
 leave_text_untouched => Pozostaw tekst nietknięty
 link => Odsyłacze
 locale => Ustawienia lokalne
+locale_not_available_for_language =>
 logging => Logi odwiedzin
 logs_expire => Wygaśnięcie logów po?
 manage_languages => Zarządzanie językami

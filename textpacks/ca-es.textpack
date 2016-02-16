@@ -702,6 +702,7 @@ lastmod_keepalive =>
 leave_text_untouched => Deixa el text sense tocar
 link => Enllaços
 locale => Local
+locale_not_available_for_language =>
 logging => Registrant
 logs_expire => Els fitxers de registre caduquen en
 manage_languages => Administra idiomes

@@ -702,6 +702,7 @@ lastmod_keepalive => Compensar o erro de conexões persistentes (<code>mod_defla
 leave_text_untouched => Deixar o texto inalterado
 link => Links
 locale => Localidade
+locale_not_available_for_language =>
 logging => Registar
 logs_expire => Os registos expiram após?
 manage_languages => Gerenciar idiomas

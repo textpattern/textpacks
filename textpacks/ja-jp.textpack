@@ -702,6 +702,7 @@ lastmod_keepalive => 永続的な接続(keep-alive)<code>mod_deflate</code>の�
 leave_text_untouched => そのまま出力する
 link => リンク
 locale => ローカル
+locale_not_available_for_language =>
 logging => ログ
 logs_expire => ログの有効期限
 manage_languages => 言語

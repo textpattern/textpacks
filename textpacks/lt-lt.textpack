@@ -702,6 +702,7 @@ lastmod_keepalive => Ištaisyti ilgalaikių susijungimų <code>mod_deflate</code
 leave_text_untouched => Palikti tekstą nepaliestą
 link => Nuorodos
 locale => Lokalė
+locale_not_available_for_language =>
 logging => Žurnalų kūrimas
 logs_expire => Po kiek dienų nebegalios žurnalai?
 manage_languages => Kalba

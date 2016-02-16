@@ -702,6 +702,7 @@ lastmod_keepalive => Αντισταθμίστε για μόνιμη σύνδεσ
 leave_text_untouched => Να μείνει το κείμενο ανέπαφο
 link => Συνδέσεις
 locale => Τοπική ρύθμιση
+locale_not_available_for_language =>
 logging => Καταχώρηση επισκέψεων
 logs_expire => Σε πόσες μέρες λήγουν οι καταχωρήσεις στο μητρώο επισκέψεων;
 manage_languages => Διαχείριση γλωσσών

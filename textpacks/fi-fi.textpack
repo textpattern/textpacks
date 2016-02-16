@@ -702,6 +702,7 @@ lastmod_keepalive => Huomioi jatkuvan yhteyden <code>mod_deflate</code> bugi?
 leave_text_untouched => Jätä teksti koskemattomaksi
 link => Linkit
 locale => Lokalisaatio
+locale_not_available_for_language =>
 logging => Lokiin kirjataan
 logs_expire => Lokit säilyvät
 manage_languages => Hallitse kieliä

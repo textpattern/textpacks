@@ -702,6 +702,7 @@ lastmod_keepalive => Compensate for persistent connections <code>mod_deflate</co
 leave_text_untouched => Остави текст недирнут
 link => Линкови
 locale => Locale
+locale_not_available_for_language =>
 logging => Логовање
 logs_expire => Након колико истичу логови?
 manage_languages => Језик

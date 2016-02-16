@@ -702,6 +702,7 @@ lastmod_keepalive =>
 leave_text_untouched => متن را دستکاری نکن
 link => لینک‌ها
 locale => منطقه
+locale_not_available_for_language =>
 logging => ورود
 logs_expire => گزارش‌ها پس از چند روز منقضی گردند؟
 manage_languages => زبان

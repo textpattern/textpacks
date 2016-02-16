@@ -702,6 +702,7 @@ lastmod_keepalive => 접속이 유지될때 나타나는 <code>mod_deflate</code
 leave_text_untouched => 텍스트를 그대로 사용
 link => 링크
 locale => 언어 환경
+locale_not_available_for_language =>
 logging => 로그 기록
 logs_expire => 며칠뒤에 로그를 삭제합니까?
 manage_languages => 언어

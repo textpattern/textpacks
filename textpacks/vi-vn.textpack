@@ -702,6 +702,7 @@ lastmod_keepalive => Phần bù cho kết nối lâu dài <code>mod_deflate</cod
 leave_text_untouched => Giữ nguyên
 link => Liên kết
 locale => Bản địa hóa
+locale_not_available_for_language =>
 logging => Nhật ký
 logs_expire => Xóa nhật ký sau bao nhiêu ngày?
 manage_languages => Ngôn ngữ

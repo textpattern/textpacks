@@ -702,6 +702,7 @@ lastmod_keepalive =>
 leave_text_untouched => השאר את הטקסט ללא שינוי
 link => קישורים
 locale => Locale
+locale_not_available_for_language =>
 logging => דיווח
 logs_expire => דוחות פג תוקפן אחרי?
 manage_languages => נהל שפות

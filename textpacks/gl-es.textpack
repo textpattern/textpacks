@@ -702,6 +702,7 @@ lastmod_keepalive => Compensar o bug <code>mod_deflate</code> para as conexións
 leave_text_untouched => Deixar o texto sen tocar
 link => Ligazón
 locale => Local
+locale_not_available_for_language =>
 logging => Rexistrando
 logs_expire => Os logs caducan en
 manage_languages => Administrar linguaxes

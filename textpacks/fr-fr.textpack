@@ -702,6 +702,7 @@ lastmod_keepalive => Compenser le bug de connexions de <code>mod_deflate</code>�
 leave_text_untouched => Laisser le texte tel quel
 link => Liens
 locale => Locale
+locale_not_available_for_language =>
 logging => Enregistrements dans le journal d’activités
 logs_expire => Le journal d’activités (log) expire après ?
 manage_languages => Gérer les langues

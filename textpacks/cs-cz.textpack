@@ -702,6 +702,7 @@ lastmod_keepalive => Opravit chybu v <code>mod_deflate</code> při trvalém spoj
 leave_text_untouched => Ponechat text beze změn
 link => Odkazy
 locale => Místní prostředí
+locale_not_available_for_language =>
 logging => Záznamy
 logs_expire => Doba platnosti záznamů?
 manage_languages => Správa jazyků
