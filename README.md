@@ -39,7 +39,7 @@ Once your pull request is processed and marked closed (merged or denied), go bac
 4. Scroll down until you see **Delete repository** button.
 5. Click or tap it and confirm the action.
 
-##. Developing
+## Developing
 
 ### Adding and removing strings
 
