@@ -22,7 +22,7 @@ To contribute to a translation directly from GitHub.com website:
 2. Navigate to a Textpack file you want to alter, e.g. [textpacks/en-gb.textpack](https://github.com/textpattern/textpacks/blob/master/textpacks/en-gb.textpack).
 3. Click or tap the **Edit** button above the presented file contents.
 4. Make some alterations to existing strings. Please, don't remove or add any string.
-5. After you've done, fill in the short commit message describing the change, e.g. __"Fixed typo in the name string"__.
+5. After you've done, fill in the short commit message describing the change, e.g. *"Fixed typo in the name string"*.
 6. Click or tap the **Save** button.
 
 Now to submit in a new pull request with your changes:
