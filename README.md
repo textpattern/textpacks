@@ -27,9 +27,9 @@ To contribute to a translation directly from GitHub.com website:
 
 Now to submit in a new pull request with your changes:
 
-1. Click or tap the *Click to create a pull request for this comparison* link on the page presented to you after saving, or you can use the *Compare and pull request* button on your fork's repository page.
+1. Click or tap the **Click to create a pull request for this comparison** link on the page presented to you after saving, or you can use the **Compare and pull request** button on your fork's repository page.
 2. Fill in the comment field; explain what your changes do. Be precise and clear.
-3. Click or tap the *Send pull request* button.
+3. Click or tap the **Send pull request** button.
 
 Once your pull request is processed and marked closed (merged or denied), go back to your GitHub profile page and delete your clone of the Textpacks repository:
 
