@@ -75,7 +75,7 @@ writer => Auteur
 your_login_info => Vos informations de connexion
 your_login_is => Votre nom de connexion (login) est
 your_new_password => Votre nouveau mot de passe
-your_password_is => Votre mot de passe est 
+your_password_is => Votre mot de passe est
 you_have_been_registered => Vous avez été enregistré comme contributeur du site
 #@article
 add_new_article => Créer un article
@@ -702,7 +702,7 @@ lastmod_keepalive => Compenser le bug de connexions de <code>mod_deflate</code>�
 leave_text_untouched => Laisser le texte tel quel
 link => Liens
 locale => Locale
-locale_not_available_for_language =>
+locale_not_available_for_language => Aucune correspondance disponible pour la langue <strong>{name}</strong>. Utilisation de la traduction locale par défaut.
 logging => Enregistrements dans le journal d’activités
 logs_expire => Le journal d’activités (log) expire après ?
 manage_languages => Gérer les langues
