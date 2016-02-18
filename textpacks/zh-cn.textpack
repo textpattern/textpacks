@@ -802,6 +802,7 @@ comments_closed => 本文评论功能已关闭。
 comments_on => 评论
 comments_permlink => 永久链接
 comment_comment => 评论
+comment_duplicate =>
 comment_email => E-mail
 comment_email_required => 请输入有效的的 E-mail 地址。
 comment_invitation => 邀请

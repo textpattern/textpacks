@@ -802,6 +802,7 @@ comments_closed => 이 게시물의 댓글을 닫았습니다
 comments_on => 댓글 열기
 comments_permlink => 퍼머링크
 comment_comment => 댓글(링크)
+comment_duplicate =>
 comment_email => 전자우편
 comment_email_required => 유효한 전자우편 주소를 입력하세요.
 comment_invitation => 댓글 안내

@@ -802,6 +802,7 @@ comments_closed => Komentar ditutup untuk artikel ini.
 comments_on => Komentar hidup
 comments_permlink => Tautan permanen
 comment_comment => Komentar
+comment_duplicate =>
 comment_email => Email
 comment_email_required => Mohon masukkan alamat email sah
 comment_invitation => Undangan

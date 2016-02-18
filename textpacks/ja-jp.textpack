@@ -802,6 +802,7 @@ comments_closed => この記事に対するコメントは許可されていま�
 comments_on => コメント有効
 comments_permlink => パーマリンク
 comment_comment => コメント
+comment_duplicate =>
 comment_email => メールアドレス
 comment_email_required => 有効なメールアドレスを入力して下さい。
 comment_invitation => 招待

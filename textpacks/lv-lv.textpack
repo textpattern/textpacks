@@ -802,6 +802,7 @@ comments_closed => Komentēšanas iespēja šam ierakstam ir slēgta.
 comments_on => Komentāri ir ieslēgti
 comments_permlink => Pastāvīgā saite
 comment_comment => Komentārs
+comment_duplicate =>
 comment_email => E-pasts
 comment_email_required => Lūdzu, ieraksti derīgu e-pasta adresi.
 comment_invitation => Uzaicinājums

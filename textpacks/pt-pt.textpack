@@ -802,6 +802,7 @@ comments_closed => comentários desactivados para este artigo
 comments_on => comentários sobre
 comments_permlink => Ligação permanente
 comment_comment => Comentário
+comment_duplicate =>
 comment_email => Email
 comment_email_required => Por favor escreva um endereço de email válido
 comment_invitation => Convite

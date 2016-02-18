@@ -802,6 +802,7 @@ comments_closed => Η δυνατότητα προσθήκης σχολίων έ�
 comments_on => σχόλια ενεργά
 comments_permlink => Μόνιμη σύνδεση
 comment_comment => Σχόλιο
+comment_duplicate =>
 comment_email => E-mail
 comment_email_required => Παρακαλούμε καταχωρίστε μια έγκυρη διεύθυνση email.
 comment_invitation => Πρόσκληση

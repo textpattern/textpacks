@@ -802,6 +802,7 @@ comments_closed => לא ניתן להגיב יותר על מאמר זה.
 comments_on => אפשר תגובות
 comments_permlink => קישור קבוע
 comment_comment => תגובה
+comment_duplicate =>
 comment_email => דואל
 comment_email_required => אנא רשום כתובת דואל תקינה.
 comment_invitation => הזמנה

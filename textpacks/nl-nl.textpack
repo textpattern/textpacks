@@ -802,6 +802,7 @@ comments_closed => Op dit artikel kan niet gereageerd worden.
 comments_on => Open voor reacties
 comments_permlink => Permanente link
 comment_comment => Reactie
+comment_duplicate =>
 comment_email => Email
 comment_email_required => Je hebt nog geen geldig email adres ingevuld.
 comment_invitation => Uitnodiging

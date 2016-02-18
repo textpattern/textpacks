@@ -802,6 +802,7 @@ comments_closed => Seda artiklit ei saa kommenteerida.
 comments_on => Kommentaarid sees
 comments_permlink => Püsilink
 comment_comment => Kommentaar
+comment_duplicate =>
 comment_email => E-mail
 comment_email_required => Palun sisestage kehtiv email.
 comment_invitation => Kommentaaride pealkiri

@@ -802,6 +802,7 @@ comments_closed => Kommentarer er låst for denne artikkelen.
 comments_on => Kommentarer på
 comments_permlink => Permanent link
 comment_comment => Comment
+comment_duplicate =>
 comment_email => Email
 comment_email_required => Vennligst fyll inn gyldig epostadresse.
 comment_invitation => Invitasjon

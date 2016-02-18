@@ -802,6 +802,7 @@ comments_closed => Komentáře jsou uzavřeny.
 comments_on => komentáře zapnuty
 comments_permlink => Stálý odkaz
 comment_comment => Komentář
+comment_duplicate =>
 comment_email => Email
 comment_email_required => Zadejte platnou emailovou adresu.
 comment_invitation => Výzva

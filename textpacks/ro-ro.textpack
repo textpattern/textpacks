@@ -802,6 +802,7 @@ comments_closed => Nu se mai pot adauga comentarii la acest articol.
 comments_on => comentariile acceptate
 comments_permlink => Link permanent
 comment_comment => Comenteaza
+comment_duplicate =>
 comment_email => E-mail
 comment_email_required => Te rog sa introduci o adresa de mail valida
 comment_invitation => Invitatie

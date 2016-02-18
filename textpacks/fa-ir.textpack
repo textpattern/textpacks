@@ -802,6 +802,7 @@ comments_closed => امکان نظردهی برای این نوشته وجود �
 comments_on => نظرات درباره
 comments_permlink => لینک دائمی
 comment_comment => نظر
+comment_duplicate =>
 comment_email => ایمیل
 comment_email_required => لطفاً یک ایمیل معتبر وارد کنید.
 comment_invitation => دعوت

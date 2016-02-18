@@ -802,6 +802,7 @@ comments_closed => 本文章的迴響功能已被關閉
 comments_on => 迴響
 comments_permlink => 永久網址
 comment_comment => 迴響
+comment_duplicate =>
 comment_email => Email
 comment_email_required => 請輸入正確的 Email 信箱
 comment_invitation => 迴響標示

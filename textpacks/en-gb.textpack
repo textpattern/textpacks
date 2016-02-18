@@ -802,6 +802,7 @@ comments_closed => Commenting is closed for this article.
 comments_on => Comments on
 comments_permlink => Permanent link
 comment_comment => Comment
+comment_duplicate => Duplicate comments are not accepted.
 comment_email => Email
 comment_email_required => Please enter a valid email address.
 comment_invitation => Invitation

@@ -802,6 +802,7 @@ comments_closed => Bạn không thể bình chú thêm trong bài viết này.
 comments_on => cho phép bình chú
 comments_permlink => Liên kết cố định
 comment_comment => Bình chú
+comment_duplicate =>
 comment_email => Thư điện tử
 comment_email_required => Hãy nhập địa chỉ thư điện tử hợp lệ.
 comment_invitation => Lời mời

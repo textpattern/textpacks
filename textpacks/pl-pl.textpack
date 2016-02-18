@@ -802,6 +802,7 @@ comments_closed => Komentowanie zakończone dla tego artykułu.
 comments_on => Artykuł otwarty na komentarze
 comments_permlink => Trwały odsyłacz
 comment_comment => Komentarz
+comment_duplicate =>
 comment_email => E-mail
 comment_email_required => Wpisz poprawny adres email.
 comment_invitation => Tekst zaproszenia do skomentowania

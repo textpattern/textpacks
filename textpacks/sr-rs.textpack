@@ -802,6 +802,7 @@ comments_closed => Коментарисање је затворено за ов�
 comments_on => коментарисање укључено
 comments_permlink => Перманентни линк
 comment_comment => Коментар
+comment_duplicate =>
 comment_email => E-mail
 comment_email_required => Молимо унесите исправну email адресу.
 comment_invitation => Позивница

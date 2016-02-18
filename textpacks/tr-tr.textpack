@@ -802,6 +802,7 @@ comments_closed => Bu makale için yorum etkin değil.
 comments_on => yorumlar etkin
 comments_permlink => Kalıcı bağlantı
 comment_comment => Yorum
+comment_duplicate =>
 comment_email => E-posta
 comment_email_required => Lütfen geçerli bir e-posta adresi giriniz.
 comment_invitation => Davet

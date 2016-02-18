@@ -802,6 +802,7 @@ comments_closed => Комментирование этой статьи закр
 comments_on => Комментарии
 comments_permlink => Постоянная ссылка
 comment_comment => Комментарий
+comment_duplicate =>
 comment_email => Email
 comment_email_required => Пожалуйста, введите корректный адрес электронной почты.
 comment_invitation => Приглашение

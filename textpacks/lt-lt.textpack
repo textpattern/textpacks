@@ -802,6 +802,7 @@ comments_closed => Neleidžiama komentuoti šio straipsnio.
 comments_on => Komentarai įjungti
 comments_permlink => Pastovioji nuoroda
 comment_comment => Komentaras
+comment_duplicate =>
 comment_email => El. paštas
 comment_email_required => Prašome įvesti teisingą elektroninio pašto adresą.
 comment_invitation => Pakvietimas

@@ -802,6 +802,7 @@ comments_closed => اس مضمون پر تبصرہ کرنا بند کر دیا �
 comments_on => پر تبصرے
 comments_permlink => ‏مستقل‏ ربط
 comment_comment => تبصرہ
+comment_duplicate =>
 comment_email => ای میل
 comment_email_required => بارہ مہربانی ، جائز ای میل کا پتا داخل کریں
 comment_invitation => تبصرہ کرنے کی ‏طمع‏

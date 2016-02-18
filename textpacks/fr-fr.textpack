@@ -802,6 +802,7 @@ comments_closed => Commentaires fermés pour cet article.
 comments_on => Commentaires pour
 comments_permlink => URL (adresse de lien hypertexte) permanente
 comment_comment => Le commentaire
+comment_duplicate =>
 comment_email => Email
 comment_email_required => Veuillez renseigner une adresse électronique valide.
 comment_invitation => Texte de l’invite à commenter :

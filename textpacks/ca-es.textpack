@@ -802,6 +802,7 @@ comments_closed => comentaris desactivats per aquest article
 comments_on => comentaris sobre
 comments_permlink => Enllaç permanent
 comment_comment => Comentari
+comment_duplicate =>
 comment_email => Correu
 comment_email_required => Escriu una adreça de correu vàlida, sisplau.
 comment_invitation => Invitació

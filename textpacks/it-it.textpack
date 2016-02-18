@@ -802,6 +802,7 @@ comments_closed => I commenti per questo articolo sono stati chiusi.
 comments_on => Commenti attivi
 comments_permlink => Link permanente
 comment_comment => Commento
+comment_duplicate =>
 comment_email => Email
 comment_email_required => Inserisci un indirizzo email valido.
 comment_invitation => Invito

@@ -802,6 +802,7 @@ comments_closed => Tämän artikkelin kommentointi on päättynyt.
 comments_on => kommentit päällä
 comments_permlink => Kestolinkki
 comment_comment => Kommentti
+comment_duplicate =>
 comment_email => Sähköposti
 comment_email_required => Anna kunnollinen sähköpostiosoite
 comment_invitation => Kehoite

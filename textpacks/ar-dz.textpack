@@ -802,6 +802,7 @@ comments_closed => مجال التعليق على هذ ا المقال مغلق
 comments_on => التعليق مرخص
 comments_permlink => عنوان ثابت
 comment_comment => التعليق
+comment_duplicate =>
 comment_email => البريد الإلكتروني
 comment_email_required => الرجاء إدخال عنوان لبريد إلكتروني صحيح
 comment_invitation => دعوة

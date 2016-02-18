@@ -802,6 +802,7 @@ comments_closed => Ehhez a cikkhez nem fűzhető megjegyzés.
 comments_on => megjegyzés
 comments_permlink => Permanent link
 comment_comment => Megjegyzés
+comment_duplicate =>
 comment_email => Email
 comment_email_required => Kérlek, adj meg egy valódi email címet.
 comment_invitation => Meghívó

@@ -802,6 +802,7 @@ comments_closed => Коментирането на тази статия е за
 comments_on => коментирането е разрешено
 comments_permlink => Постоянна връзка
 comment_comment => Коментар
+comment_duplicate =>
 comment_email => Електронна поща
 comment_email_required => Моля въведете валидния адрес на Вашата електронна поща.
 comment_invitation => Покана

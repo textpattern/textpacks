@@ -802,6 +802,7 @@ comments_closed => Komentarisanje je zaključeno za ovaj članak.
 comments_on => Komentar na
 comments_permlink => Stalna veza
 comment_comment => Komentar
+comment_duplicate =>
 comment_email => E-pošta
 comment_email_required => Molimo ukucajte ispravnu adresu e-pošte.
 comment_invitation => Pozivnica

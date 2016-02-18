@@ -802,6 +802,7 @@ comments_closed => Kommentarer är stängda för denna artikel.
 comments_on => kommentarer till
 comments_permlink => Permanentlänk
 comment_comment => Kommentar
+comment_duplicate =>
 comment_email => E-post
 comment_email_required => Var god ange en giltig e-postadress.
 comment_invitation => Inbjudan till att kommentera

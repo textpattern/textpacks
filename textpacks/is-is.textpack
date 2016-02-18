@@ -802,6 +802,7 @@ comments_closed => Lokað á skoðanir fyrir þessa grein.
 comments_on => Skoðanir á
 comments_permlink => Inn á skoðanir
 comment_comment => Skoðun
+comment_duplicate =>
 comment_email => Vefpóstur
 comment_email_required => Nauðsynlegt að fylla út gilt vefpóstfang.
 comment_invitation => Innboð
