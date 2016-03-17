@@ -270,7 +270,16 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
                 {
                     // Check language code.
                     $code = explode('-', $lang);
-                    $code = $code[0].'-'.strtoupper(end($code));
+
+                    if (count($code) > 1)
+                    {
+                        $code = $code[0].'-'.strtoupper(end($code));
+                    }
+                    else
+                    {
+                        $code = $code[0];
+                    }
+
                     $this->assertEquals($code, $data['data'], "{$lang}: invalid lang_code");
                 }
             }
