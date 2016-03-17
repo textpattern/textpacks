@@ -43,7 +43,7 @@ Once your pull request is processed and marked closed (merged or denied), go bac
 
 ### Adding and removing strings
 
-Adding and removing strings happens through the main translation file, `en-gb.textpack`. Open up the file and add or remove strings as needed (remember to place new strings where they belong). Once you are done, run the sync tool:
+Adding and removing strings happens through the main translation file, `en.textpack`. Open up the file and add or remove strings as needed (remember to place new strings where they belong). Once you are done, run the sync tool:
 
 ```ShellSession
 $ ./textpack
@@ -53,7 +53,7 @@ The Textpack tool will sync your alterations to all other Textpack files. It cre
 
 ### Creating new translation
 
-When creating entirely new translations, always use the `en-gb.textpack` as your template and reference point - this file is always up-to-date.
+When creating entirely new translations, always use the `en.textpack` as your template and reference point - this file is always up-to-date.
 
 ### Creating new empty template
 
@@ -73,13 +73,13 @@ This will populate your empty `xx-xx.textpack` file with an empty Textpack templ
 
 ### Updating an existing translation
 
-After running the sync tool, any new strings will be empty - you have to compare it with `en-gb.textpack` in order to review and update it, which can prove laborious. The tip below will help you translate new strings. **Note:** Commit everything before you do it!
+After running the sync tool, any new strings will be empty - you have to compare it with `en.textpack` in order to review and update it, which can prove laborious. The tip below will help you translate new strings. **Note:** Commit everything before you do it!
 
 First, filter all new strings:
 
 ```ShellSession
 $ grep " =>[[:blank:]]*$" xx-xx.textpack | \
-xargs -n1 printf "grep '^%s =>' en-gb.textpack\n" | \
+xargs -n1 printf "grep '^%s =>' en.textpack\n" | \
 bash > xx-xx.txt
 ```
 

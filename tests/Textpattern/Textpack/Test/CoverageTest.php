@@ -10,7 +10,7 @@ use Textpattern\Textpack\Test\Parser as Textpack;
 class CoverageTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * Parsed contents of the main en-GB Textpack.
+     * Parsed contents of the main 'en' Textpack.
      *
      * @var array
      */
@@ -18,7 +18,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     static private $defaultTextpack;
 
     /**
-     * Number of lines in en-GB Textpack.
+     * Number of lines in 'en' Textpack.
      *
      * @var int
      */
@@ -44,7 +44,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     /**
      * An array of accepted translation strings.
      *
-     * Based on en-GB.
+     * Based on 'en'.
      *
      * @var array
      */
@@ -84,7 +84,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         if (self::$setUp === false)
         {
             self::$textpack = new Textpack();
-            $contents = file_get_contents(__DIR__.'/../../../../textpacks/en-gb.textpack');
+            $contents = file_get_contents(__DIR__.'/../../../../textpacks/en.textpack');
             self::$lines = count(explode("\n", $contents));
             self::$defaultTextpack = self::$textpack->parse($contents);
             self::$translations = new TextpackFilter(new \DirectoryIterator(__DIR__.'/../../../../textpacks'));
@@ -101,7 +101,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     /**
      * Tests the default Textpack.
      *
-     * Makes sure the en-GB was parsed successfully, and that there were no
+     * Makes sure the 'en' was parsed successfully, and that there were no
      * duplicate strings.
      */
 
@@ -212,7 +212,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
 
                 $this->assertTrue(
                     isset(self::$knownStrings[$data['name']]),
-                    "{$lang}: {$data['name']} is not in en-GB"
+                    "{$lang}: {$data['name']} is not in en.textpack"
                 );
 
                 $expected = self::$defaultTextpack[$key]['name'];

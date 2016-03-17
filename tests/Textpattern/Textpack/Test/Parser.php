@@ -52,7 +52,7 @@ class Parser
      * @param string $owner    The owner
 	 */
 
-	public function __construct($language = 'en-gb', $owner = null)
+	public function __construct($language = 'en', $owner = null)
 	{
 		$this->language = (string) $language;
 		$this->owner = (string) $owner;
