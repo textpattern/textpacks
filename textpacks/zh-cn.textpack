@@ -317,7 +317,7 @@ viewsite => 查看网站
 view_per_page => 每页显示 {page} 条
 visible => 可见的
 with_selected => 所选的：
-with_selected_option => 所选的……
+with_selected_option => 所选的…
 #@css
 add_declaration => 新增声明
 add_new_selector => 新增选择器
