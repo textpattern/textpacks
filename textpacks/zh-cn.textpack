@@ -922,7 +922,7 @@ popup => 使用弹出窗口
 post => 发表
 posted => 发表时间
 posted_by => 发表人为
-press_preview_then_submit => 下面是您的评论的预览，如果您对效果满意，请点击 <strong><a href="#txpCommentSubmit" title="Go to the submit button">提交</a></strong> 按钮。
+press_preview_then_submit => 下面是您的评论的预览，如果您对效果满意，请点击 <strong><a href="#txpCommentSubmit">提交</a></strong> 按钮。
 prev => 上一页
 preview => 预览
 publish => 发表
