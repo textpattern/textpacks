@@ -84,7 +84,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         if (self::$setUp === false)
         {
             self::$textpack = new Textpack();
-            $contents = file_get_contents(__DIR__.'/../../../../textpacks/en-gb.textpack');
+            $contents = file_get_contents(__DIR__.'/../../../../textpacks/en-gb.txt');
             self::$lines = count(explode("\n", $contents));
             self::$defaultTextpack = self::$textpack->parse($contents);
             self::$translations = new TextpackFilter(new \DirectoryIterator(__DIR__.'/../../../../textpacks'));
@@ -137,7 +137,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
     {
         foreach (self::$translations as $file)
         {
-            $lang = $file->getBasename('.textpack');
+            $lang = $file->getBasename('.txt');
 
             $this->assertTrue(
                 $file->isFile() && $file->isReadable() && !$file->isExecutable(),
@@ -175,7 +175,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
             $contents = file_get_contents($file->getPathname());
             $strings = self::$textpack->parse($contents);
             $missing = self::$knownStrings;
-            $lang = $file->getBasename('.textpack');
+            $lang = $file->getBasename('.txt');
 
             foreach ($strings as $data)
             {
@@ -200,7 +200,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         {
             $contents = file_get_contents($file->getPathname());
             $strings = self::$textpack->parse($contents);
-            $lang = $file->getBasename('.textpack');
+            $lang = $file->getBasename('.txt');
 
             // Make sure the file doesn't have extra strings.
 
@@ -289,7 +289,7 @@ class CoverageTest extends \PHPUnit_Framework_TestCase
         {
             $contents = file_get_contents($file->getPathname());
             $strings = self::$textpack->parse($contents);
-            $lang = $file->getBasename('.textpack');
+            $lang = $file->getBasename('.txt');
             $count = 0;
 
             foreach ($strings as $key => $data)
