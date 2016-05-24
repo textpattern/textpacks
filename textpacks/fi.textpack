@@ -249,6 +249,7 @@ restricted_area => Pääsy estetty.
 salutation => Hyvä {name},
 save_new => Tallenna uutena
 search_all => Etsi kaikkea
+search_options =>
 showing_search_results => Näytetään {from}-{to} yhteensä {total}-tuloksesta
 site_slogan => Sivuston slogan
 sort_value => Järjestysarvo

@@ -249,6 +249,7 @@ restricted_area => ممنوع حصّہ
 salutation =>
 save_new => محفوظ کریں بطور
 search_all =>
+search_options =>
 showing_search_results => ‏{total} میں سے نمائش کردہ {from} سے {to}
 site_slogan => سائٹ کا نعرہ
 sort_value => چھانٹ متبادل (اختیاری)

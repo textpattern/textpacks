@@ -249,6 +249,7 @@ restricted_area => Ograničena zona
 salutation =>
 save_new => Сними ново
 search_all =>
+search_options =>
 showing_search_results =>
 site_slogan => Слоган сајта
 sort_value => Вредност сортирања

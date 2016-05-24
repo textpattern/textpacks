@@ -249,6 +249,7 @@ restricted_area => Avskilt område
 salutation =>
 save_new => Spara ny
 search_all =>
+search_options =>
 showing_search_results => Visar {from} till {to} av {total}
 site_slogan => Sajtslogan
 sort_value => Sorteringsvärde

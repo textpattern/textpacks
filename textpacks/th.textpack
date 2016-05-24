@@ -249,6 +249,7 @@ restricted_area => พื้นที่หวงห้าม
 salutation =>
 save_new => บันทึกใหม่
 search_all =>
+search_options =>
 showing_search_results =>
 site_slogan => คำขวัญเว็บไซต์
 sort_value => ค่าการเรียง

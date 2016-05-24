@@ -249,6 +249,7 @@ restricted_area => Ограничен достъп
 salutation =>
 save_new => Запази нов
 search_all =>
+search_options =>
 showing_search_results => Резултати {from} до {to} от {total}
 site_slogan => Подзаглавие на сайта
 sort_value => Стойност за сортиране

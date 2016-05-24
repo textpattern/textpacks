@@ -249,6 +249,7 @@ restricted_area => 限制區域
 salutation =>
 save_new => 儲存新文章
 search_all =>
+search_options =>
 showing_search_results =>
 site_slogan => 網站敘述
 sort_value => 排序

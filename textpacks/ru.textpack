@@ -249,6 +249,7 @@ restricted_area => Ограниченный доступ.
 salutation => Уважаемый {name},
 save_new => Сохранить как новую
 search_all => Искать все
+search_options =>
 showing_search_results => Показывается с {from} по {to} (всего {total})
 site_slogan => Подзаголовок (слоган) сайта
 sort_value => Значение для сортировки
