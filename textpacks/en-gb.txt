@@ -249,6 +249,7 @@ restricted_area => Restricted area.
 salutation => Dear {name},
 save_new => Save new
 search_all => Search all
+search_options =>
 showing_search_results => Showing {from} to {to} of {total}
 site_slogan => Site slogan
 sort_value => Sort value

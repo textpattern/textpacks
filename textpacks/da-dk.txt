@@ -249,6 +249,7 @@ restricted_area => Begrænset område
 salutation =>
 save_new => Gem ny
 search_all =>
+search_options =>
 showing_search_results => Viser {from} til {to} af {total}
 site_slogan => Side tagline
 sort_value => Sort Value

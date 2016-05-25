@@ -249,6 +249,7 @@ restricted_area => Chráněná oblast
 salutation => Vážený {name},
 save_new => Uložit nový
 search_all => Hledat vše
+search_options =>
 showing_search_results => Zobrazeny výsledky {from} až {to} z {total}
 site_slogan => Motto serveru?
 sort_value => Klíč řazení

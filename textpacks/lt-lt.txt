@@ -249,6 +249,7 @@ restricted_area => Ribotoji zona
 salutation =>
 save_new => Išsaugoti naują
 search_all =>
+search_options =>
 showing_search_results => Rodomi {from} iki {to} iš {total}
 site_slogan => Svetainės šūkis
 sort_value => Rūšiavimo reikšmė
