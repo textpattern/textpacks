@@ -641,7 +641,7 @@ archive_date_case => アーカイブの日付形式
 archive_dir => アーカイブディレクトリ
 articles_use_excerpts => 記事に概要を使用しますか？
 attach_titles_to_permalinks => パーマリンクに記事タイトルを付けますか？
-auto_dst => <abbr title="Daylight Saving Time">夏時間</abbr>を自動調整しますか？
+auto_dst => 夏時間を自動調整しますか？
 category_subcategory => /カテゴリ/サブカテゴリ
 check_for_txp_updates => 更新の確認
 clean => /clean/
@@ -697,7 +697,7 @@ install_from_textpack => Textpack からインストール
 install_langfile => 新しい言語をファイルからインストールするには<code>{url}</code>からダウンロードして下さい。 <code>/textpattern/lang/</code> に保存して下さい。
 install_language => 言語の追加
 install_textpack => Textpack の追加
-is_dst => <abbr title="Daylight Saving Time">夏時間</abbr>の有無
+is_dst => 夏時間の有無？
 language => 言語
 lastmod_keepalive => 永続的な接続(keep-alive)<code>mod_deflate</code>のバグに補正を施しますか？
 leave_text_untouched => そのまま出力する
