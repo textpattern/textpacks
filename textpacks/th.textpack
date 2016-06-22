@@ -908,6 +908,7 @@ nopopup => ไม่ป็อปอัพ
 no_comments =>
 no_search_matches =>
 numeric_list => รายชื่อแบบเรียงเลข
+of =>
 off => ปิด
 older => เก่ากว่า
 on => เปิด

@@ -908,6 +908,7 @@ nopopup => ei popup
 no_comments => Artikkeliin ei ole vielä lisätty yhtään kommenttia.
 no_search_matches => Valitettavasti haullasi ei löytynyt yhtään osumaa
 numeric_list => numeroitu lista
+of =>
 off => Pois päältä
 older => Vanhemmat
 on => Päällä

@@ -908,6 +908,7 @@ nopopup => do stránky
 no_comments => Tento článek zatím nemá komentáře.
 no_search_matches => Bohužel nebyly nalezeny žádné výsledky odpovídající zadání
 numeric_list => Číslovaný seznam
+of =>
 off => Vypnuto
 older => Starší
 on => Zapnuto

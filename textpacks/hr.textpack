@@ -908,6 +908,7 @@ nopopup => nopopup
 no_comments => Trenutno nema komentara na ovaj članak.
 no_search_matches => Žao mi je, nema rezultata za vaš traženi pojam
 numeric_list => Numerička lista
+of =>
 off => Ugašen
 older => Starije
 on => Uključen

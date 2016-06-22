@@ -908,6 +908,7 @@ nopopup => ポップアップ無効
 no_comments => この記事のコメントはまだありません。
 no_search_matches => 検索に合致する結果は見つかりませんでした。
 numeric_list => 順序付きリスト
+of =>
 off => 無効
 older => 旧着
 on => 有効

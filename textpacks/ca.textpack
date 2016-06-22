@@ -908,6 +908,7 @@ nopopup => sense popup
 no_comments =>
 no_search_matches =>
 numeric_list => Llista numèrica
+of =>
 off => no
 older => més antic
 on => si

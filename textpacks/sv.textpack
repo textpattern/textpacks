@@ -908,6 +908,7 @@ nopopup => ingen popup
 no_comments => Det finns ännu inga kommentarer till denna artikel.
 no_search_matches => Tyvärr, ingenting hittades som matchar din sökning
 numeric_list => Numrerad lista
+of =>
 off => Av
 older => Äldre
 on => På

@@ -908,6 +908,7 @@ nopopup => nopopup
 no_comments =>
 no_search_matches =>
 numeric_list => 數字列表
+of =>
 off => 關閉
 older => 舊的
 on => 開啟

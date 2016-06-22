@@ -908,6 +908,7 @@ nopopup => tanpa-popup
 no_comments => Saat ini tidak ada komentar di artikel ini.
 no_search_matches => Maaf, tidak ada hasil yang sesuai dengan permintaan pencarianmu
 numeric_list => Daftar numerik
+of =>
 off => Off
 older => Lama
 on => On

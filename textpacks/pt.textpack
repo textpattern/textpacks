@@ -908,6 +908,7 @@ nopopup => sem popup
 no_comments => Não existem actualmente comentarios a este artigo
 no_search_matches => lamentamos, mas não existem resultados para a sua busca
 numeric_list => Lista numérica
+of =>
 off => Não
 older => mais velho
 on => Sim

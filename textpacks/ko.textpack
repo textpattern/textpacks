@@ -908,6 +908,7 @@ nopopup => 팝업 아님
 no_comments =>
 no_search_matches =>
 numeric_list => 번호 목록
+of =>
 off => 끔
 older => 예전글
 on => 켬
