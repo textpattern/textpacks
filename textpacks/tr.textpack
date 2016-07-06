@@ -713,6 +713,7 @@ mentions => Mentions
 messy => ?=dağınık
 never_display_email => Asla e-posta adreslerini gösterme?
 new_textpattern_version_available => Yeni Textpattern sürümü mevcut. Denemek istermisiniz?
+no_preferences =>
 no_popup => varsayılan pencere
 override_emailcharset => E-posta gönderirken ISO-8859-1 kodlamayı kullan (varsayılan UTF-8)?
 path_from_root => Alt klasörler (varsa)

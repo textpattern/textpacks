@@ -713,6 +713,7 @@ mentions => กล่าวว่า
 messy => ?=เลอะเทอะ
 never_display_email => ไม่แสดงอีเมล?
 new_textpattern_version_available => Textpattern รุ่นใหม่เอี่ยมออกแล้ว คุณอยากจะลองใช้มันไหม?
+no_preferences =>
 no_popup => หน้าต่างปัจจุบัน
 override_emailcharset => ใช้ ISO-8859-1 สำหรับอีเมล? (ค่าปริยายคือ utf-8)
 path_from_root => ไดเรกทอรีย่อย (ถ้ามี)

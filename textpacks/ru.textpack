@@ -713,6 +713,7 @@ mentions => Упоминания
 messy => ?=беспорядок
 never_display_email => Скрывать email?
 new_textpattern_version_available => Доступна совершенно новая версия Textpattern. Хотите попробовать?
+no_preferences =>
 no_popup => в том же окне
 override_emailcharset => Использовать кодировку ISO-8859-1 для email? (по умолчанию: UTF-8)
 path_from_root => Поддиректория (если есть)

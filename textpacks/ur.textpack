@@ -713,6 +713,7 @@ mentions => Mentions
 messy => ?=messy
 never_display_email => کیا تبصرہ نگار کا‏ ای میل پتہ پوشیدہ رکھیں ؟
 new_textpattern_version_available =>
+no_preferences =>
 no_popup => فعال دریچہ میں
 override_emailcharset => کیا مرسلہ ای میل میں ISO-8859-1 ضابطہ بندی استمعال کریں ؟ (خودکار طور پر UTF-8 استمعال کیا جاۓ گا)
 path_from_root => Sub-directory (if any)

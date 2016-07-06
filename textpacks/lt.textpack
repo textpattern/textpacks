@@ -713,6 +713,7 @@ mentions => Paminėjimai
 messy => ?=netvarkingas
 never_display_email => Slėpti el. pašto adresą?
 new_textpattern_version_available => Yra visiškai nauja Textpattern versiją. Ar norėtumėte pabandyti?
+no_preferences =>
 no_popup => veikiamasis langas
 override_emailcharset => Ar naudoti ISO-8859-1 kodavimą išsiunčiamuose el. laiškuose (numatytas yra UTF-8)?
 path_from_root => Pakatalogis (jei yra)

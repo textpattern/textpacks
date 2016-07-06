@@ -713,6 +713,7 @@ mentions => Mentions
 messy => ?=messy
 never_display_email => Никад не приказуј email адресе?
 new_textpattern_version_available => Постоји комплетно нова верзија Textpattern-a. Да ли је желите пробати?
+no_preferences =>
 no_popup => тренутни прозор
 override_emailcharset => Употреби ISO-8859-1 енкодинг код посланих email-ова (default je UTF-8)?
 path_from_root => Sub-directory (ако има)
