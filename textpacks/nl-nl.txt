@@ -713,6 +713,7 @@ mentions => Verwijzingen
 messy => ?=rommelig
 never_display_email => Emailadressen altijd verbergen?
 new_textpattern_version_available => Er is een nieuwe versie van Textpattern beschikbaar. Wil je deze proberen?
+no_preferences =>
 no_popup => huidig window
 override_emailcharset => ISO-8859-1 gebruiken voor email? (standaard is UTF-8)?
 path_from_root => Submap (indien van toepassing)

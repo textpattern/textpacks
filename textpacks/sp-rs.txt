@@ -755,6 +755,7 @@ mentions =>
 messy => ?=messy
 never_display_email => Nikad ne prikazuj email adrese?
 new_textpattern_version_available => Postoji kompletno nova verzija Textpattern-a. Da li je želite probati?
+no_preferences =>
 no_popup => trenutni prozor
 override_emailcharset => Upotrebi ISO-8859-1 enkoding kod poslanih emailova (default je UTF-8)?
 path_from_root => Sub-directory (ako ima)

@@ -713,6 +713,7 @@ mentions => Elismerések
 messy => ?=messy
 never_display_email => Soha ne jelenítse meg az email címet?
 new_textpattern_version_available => Egy teljesen új Textpattern változat érhető el. Kipróbálod?
+no_preferences =>
 no_popup => current window
 override_emailcharset => ISO-8859-1 kódlap használata e-maielekhez? (alapértelmezett az UTF-8)
 path_from_root => Alkönytár (ha szükséges)

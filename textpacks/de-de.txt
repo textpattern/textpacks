@@ -713,6 +713,7 @@ mentions => Verweise
 messy => ?=unordentlich
 never_display_email => E-Mail in Kommentaren verbergen?
 new_textpattern_version_available => Eine neue Version von Textpattern ist verfügbar! Sie können diese <a href="http://textpattern.com/download" rel="external">hier herunterladen</a>.
+no_preferences =>
 no_popup => aktuelles Fenster
 override_emailcharset => E-Mails mit ISO-8559-1 versenden? (Standard ist utf-8)
 path_from_root => Unterverzeichnis (falls vorhanden)

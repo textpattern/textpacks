@@ -713,6 +713,7 @@ mentions => Omtaler
 messy => ?=rotete
 never_display_email =>
 new_textpattern_version_available =>
+no_preferences =>
 no_popup => aktivt vindu
 override_emailcharset =>
 path_from_root => Underkatalog (derom den eksisterer)

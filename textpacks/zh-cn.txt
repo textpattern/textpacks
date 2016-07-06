@@ -713,6 +713,7 @@ mentions => 提示
 messy => ?=messy
 never_display_email => 不显示 E-mail 地址
 new_textpattern_version_available => 有一个全新的 Textpattern 版本，您想试试它吗？
+no_preferences =>
 no_popup => 当前窗口
 override_emailcharset => E-mail 使用 ISO-8859-1 编码？（默认为 UTF-8）
 path_from_root => 子目录（如果存在）
