@@ -251,6 +251,7 @@ restricted_area => Περιορισμένη περιοχή.
 salutation => Αγαπητέ/ή {name},
 save_new => Αποθήκευση νέου
 search_all => Αναζήτηση όλων
+search_clear =>
 search_options =>
 showing_search_results => Προβολή {from} ως {to} από {total}
 site_slogan => Σλόγκαν ιστοτόπου

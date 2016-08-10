@@ -251,6 +251,7 @@ restricted_area => Avskilt område
 salutation => Kära {name},
 save_new => Spara ny
 search_all => Sök alla
+search_clear =>
 search_options => Sökalternativ
 showing_search_results => Visar {from} till {to} av {total}
 site_slogan => Sajtslogan

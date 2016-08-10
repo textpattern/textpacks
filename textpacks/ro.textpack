@@ -251,6 +251,7 @@ restricted_area => Domeniu restrictionat
 salutation =>
 save_new => Salveaza nou
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results => De la {from} pana {to} din {total}
 site_slogan => Sloganul site-ului

@@ -251,6 +251,7 @@ restricted_area => Chráněná oblast
 salutation => Vážený {name},
 save_new => Uložit nový
 search_all => Hledat vše
+search_clear =>
 search_options => Možnosti hledání
 showing_search_results => Zobrazeny výsledky {from} až {to} z {total}
 site_slogan => Motto serveru?

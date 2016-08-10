@@ -251,6 +251,7 @@ restricted_area => Restricted area
 salutation =>
 save_new => Mentés újként
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results =>
 site_slogan => Site tagline

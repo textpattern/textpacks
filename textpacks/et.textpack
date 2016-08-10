@@ -251,6 +251,7 @@ restricted_area => Piiratud ala.
 salutation =>
 save_new => Salvesta uus
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results =>
 site_slogan => Saidi hüüdlause

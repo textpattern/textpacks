@@ -251,6 +251,7 @@ restricted_area => Kısıtlı bölüm
 salutation =>
 save_new => Save New
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results =>
 site_slogan => Site Sloganı

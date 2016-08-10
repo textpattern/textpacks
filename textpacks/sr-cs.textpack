@@ -251,6 +251,7 @@ restricted_area => Ograničena zona
 salutation =>
 save_new => Сними ново
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results =>
 site_slogan => Слоган сајта

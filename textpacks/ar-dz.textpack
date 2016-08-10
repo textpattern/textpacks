@@ -251,6 +251,7 @@ restricted_area => منطقة محظورة
 salutation =>
 save_new => تسجيل الجديد
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results =>
 site_slogan => شعار الموقع

@@ -251,6 +251,7 @@ restricted_area => איזור שמור
 salutation =>
 save_new => שמור כחדש
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results => מציג מ-{from} עד {to} . סה"כ : {total}
 site_slogan => סלוגן האתר

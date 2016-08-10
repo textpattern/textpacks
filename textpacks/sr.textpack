@@ -251,6 +251,7 @@ restricted_area => Ograničena zona
 salutation => Dragi {name},
 save_new => Snimi Novo
 search_all => Pretraži sve
+search_clear =>
 search_options =>
 showing_search_results => Prikazano {from} do {to} od {total}
 site_slogan => Slogan sajta

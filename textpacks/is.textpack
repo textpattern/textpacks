@@ -251,6 +251,7 @@ restricted_area => Aðgangur bannaður.
 salutation =>
 save_new => Geyma nýtt
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results =>
 site_slogan => Síðu taglína

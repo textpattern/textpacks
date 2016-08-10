@@ -251,6 +251,7 @@ restricted_area => Ierobežotas pieejas lapa.
 salutation =>
 save_new => Saglabāt
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results => Rezultāti no {from} līdz {to} no {total}
 site_slogan => Lapas sauklis

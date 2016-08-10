@@ -251,6 +251,7 @@ restricted_area => Afgesloten gedeelte.
 salutation => Beste {name},
 save_new => Opslaan
 search_all => Alles doorzoeken
+search_clear =>
 search_options => Zoekopties
 showing_search_results => Resultaten {from} tot {to} van {total}
 site_slogan => Siteslagzin

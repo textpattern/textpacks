@@ -251,6 +251,7 @@ restricted_area => àrea restringida
 salutation =>
 save_new => Desa nou
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results =>
 site_slogan => Eslògan del lloc

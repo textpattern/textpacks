@@ -251,6 +251,7 @@ restricted_area => Područje ograničenog pristupa
 salutation =>
 save_new => Snimi novi
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results =>
 site_slogan => Slogan Vašeg sajta

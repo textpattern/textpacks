@@ -251,6 +251,7 @@ restricted_area => Khu vực giới hạn
 salutation =>
 save_new => Lưu thành bản mới
 search_all =>
+search_clear =>
 search_options =>
 showing_search_results => Hiện từ {from} đến {to} trong tổng số {total}
 site_slogan => Câu khẩu hiệu của trang thông tin điện tử

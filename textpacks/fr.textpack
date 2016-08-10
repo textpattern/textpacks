@@ -251,6 +251,7 @@ restricted_area => Zone restreinte.
 salutation => Bonjour {name},
 save_new => Enregistrer le nouveau
 search_all => Cocher tous les choix
+search_clear =>
 search_options => Options de recherche
 showing_search_results => Résultats {from} à {to} sur {total}
 site_slogan => Slogan du site
