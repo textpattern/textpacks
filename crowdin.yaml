@@ -1,4 +1,4 @@
 files:
   -
-    source: "/crowdin-sync/*.xml"
-    translation: "/crowdin-sync/%original_file_name%"
+    source: "/crowdin-sync/en-GB/*.xml"
+    translation: "/crowdin-sync/%locale%/%original_file_name%"
