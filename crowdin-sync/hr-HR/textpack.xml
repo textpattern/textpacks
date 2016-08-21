@@ -726,8 +726,8 @@
   <string name="production_test">Testiranje</string>
   <string name="publisher_email">Send login details from this email address</string>
   <string name="publish_expired_articles">Publish expired articles?</string>
-  <string name="record_mentions">產品狀態</string>
-  <string name="referrers_only">僅紀錄逆向連結</string>
+  <string name="record_mentions">Record mentions</string>
+  <string name="referrers_only">Referrers only</string>
   <string name="remove_lang">Remove language</string>
   <string name="rpc_connect_error">Ne mogu se spojiti na server da pregledam osvježene jezične datoteke. Molim probajte kasnije.</string>
   <string name="rss_how_many">Koliko unosa bi trebalo biti uključeno u feedove?</string>
@@ -974,7 +974,7 @@
   <string name="weeks">tjedana</string>
   <string name="while_parsing_page_form">while parsing form <strong>{form}</strong> on page <strong>{page}</strong></string>
   <string name="yes">Da</string>
-  <string name="your_branch_is_updated">您的 Textpattern 已是最新的版本，無需更新。</string>
+  <string name="your_branch_is_updated">You have the most up-to-date version of this Textpattern branch.</string>
   <string name="your_ip_is_blacklisted_by">Vaša IP adresa je blacklistana od</string>
   <string name="you_have_been_banned">Zabranjeno Vam je komentiranje.</string>
   <string name="yyyy-mm">yyyy-mm</string>
@@ -1077,8 +1077,8 @@
   <string name="align">Poravnanje</string>
   <string name="allowoverride">Dopusti formi da bude zanemarena?</string>
   <string name="article_divider">Razdjeljivač unosa</string>
-  <string name="breadcrumb_linked">以連結方式顯示導覽列？</string>
-  <string name="breadcrumb_separator">導覽列分隔符號</string>
+  <string name="breadcrumb_linked">Link breadcrumbs?</string>
+  <string name="breadcrumb_separator">Breadcrumbs separator</string>
   <string name="break">Break tag liste</string>
   <string name="breakclass">CSS klasa za break tag liste</string>
   <string name="build">Build tag</string>
@@ -1142,7 +1142,7 @@
   <string name="sort">Sortiraj po</string>
   <string name="sort_by">Sortiraj po</string>
   <string name="sort_direction">Direkcija sortiranja</string>
-  <string name="tag">標籤</string>
+  <string name="tag">Tag</string>
   <string name="tagbuilder">Graditelj tagova</string>
   <string name="tags">Tagovi</string>
   <string name="tag_article">Unosi (jedan ili lista)</string>
@@ -1202,7 +1202,7 @@
   <string name="tag_link_category">Link kategorija</string>
   <string name="tag_link_date">Link datum</string>
   <string name="tag_link_description">Link opis</string>
-  <string name="tag_link_feed_link">連結 Feed</string>
+  <string name="tag_link_feed_link">Links feed link</string>
   <string name="tag_link_name">Link ime</string>
   <string name="tag_link_text">Link ime</string>
   <string name="tag_link_to_home">Link za početnu stranicu</string>
