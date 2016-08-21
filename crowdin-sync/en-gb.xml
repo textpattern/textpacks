@@ -194,6 +194,7 @@
     <string name="changesection">Change section</string>
     <string name="changestatus">Change status</string>
     <string name="close">Close</string>
+    <string name="collapse_all">Collapse all</string>
     <string name="comment">Comment</string>
     <string name="comments_expired">Commenting has expired for this article.</string>
     <string name="confirm_delete_popup">Really delete?</string>
@@ -208,6 +209,7 @@
     <string name="draft">Draft</string>
     <string name="duplicate">Duplicate</string>
     <string name="excerpt">Excerpt</string>
+    <string name="expand_all">Expand all</string>
     <string name="expired">Expired</string>
     <string name="expire_date">Expire date</string>
     <string name="expire_time">Expire time</string>
@@ -245,6 +247,7 @@
     <string name="salutation">Dear {name},</string>
     <string name="save_new">Save new</string>
     <string name="search_all">Search all</string>
+    <string name="search_clear">Clear search</string>
     <string name="search_options">Search options</string>
     <string name="showing_search_results">Showing {from} to {to} of {total}</string>
     <string name="site_slogan">Site slogan</string>
@@ -357,6 +360,10 @@
     <string name="cleanurl_only_apache">Clean URLs are only supported on Apache, use at your own risk.</string>
     <string name="clean_url_data_failed">Clean URL data test failed</string>
     <string name="clean_url_test_failed">Clean URL test failed.</string>
+    <string name="db_global_timezone">Database server timezone</string>
+    <string name="db_server_time">Database server time</string>
+    <string name="db_server_timeoffset">Database server time offset</string>
+    <string name="db_session_timezone">Database session timezone</string>
     <string name="detail">Detail</string>
     <string name="dev_version_live">You are running a development version of Textpattern on a live server.</string>
     <string name="diagnostic_info">Diagnostic info</string>
@@ -696,6 +703,7 @@
     <string name="messy">?=messy</string>
     <string name="never_display_email">Hide commenter email address?</string>
     <string name="new_textpattern_version_available">There is a new Textpattern version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
+    <string name="no_preferences">No preferences available.</string>
     <string name="no_popup">current window</string>
     <string name="override_emailcharset">Use ISO-8859-1 encoding in emails (default is UTF-8)?</string>
     <string name="path_from_root">Sub-directory (if any)</string>
@@ -704,7 +712,7 @@
     <string name="permlink_format">Permalink title URL pattern</string>
     <string name="permlink_hyphenated">Hyphenated (title-like-this)</string>
     <string name="permlink_intercapped">Intercapped (TitleLikeThis)</string>
-    <string name="permlink_mode">URL pattern</string>
+    <string name="permlink_mode">Article URL pattern</string>
     <string name="ping_textpattern_com">Ping textpattern.com?</string>
     <string name="ping_weblogsdotcom">Ping pingomatic.com?</string>
     <string name="plugin_cache_dir">Plugin cache directory path</string>
@@ -886,10 +894,11 @@
     <string name="next">Next</string>
     <string name="no">No</string>
     <string name="none">None</string>
-    <string name="nopopup">nopopup</string>
+    <string name="nopopup">current window</string>
     <string name="no_comments">There are currently no comments on this article.</string>
     <string name="no_search_matches">Sorry, no results found matching your search request</string>
     <string name="numeric_list">Numeric list</string>
+    <string name="of">of</string>
     <string name="off">Off</string>
     <string name="older">Older</string>
     <string name="on">On</string>
@@ -901,7 +910,7 @@
     <string name="permlink">Permanent link</string>
     <string name="plugin_load_error">A problem occurred while loading the plugin:</string>
     <string name="plugin_load_error_above">The above errors were caused by the plugin:</string>
-    <string name="popup">popup</string>
+    <string name="popup">popup window</string>
     <string name="post">Post</string>
     <string name="posted">Posted</string>
     <string name="posted_by">Posted by</string>
