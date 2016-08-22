@@ -195,7 +195,7 @@
   <string name="changesection">Cambiar sección</string>
   <string name="changestatus">Cambiar estado</string>
   <string name="close">Cerrar</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Contraer todo</string>
   <string name="comment">Comentario</string>
   <string name="comments_expired">Ya no se aceptan comentarios a este artículo.</string>
   <string name="confirm_delete_popup">¿Realmente quieres borrar?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Borrador</string>
   <string name="duplicate">Duplicar</string>
   <string name="excerpt">Resumen</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Expandir todo</string>
   <string name="expired">Caducado</string>
   <string name="expire_date">Fecha de caducidad</string>
   <string name="expire_time">Hora de caducidad</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Querido/a {name},</string>
   <string name="save_new">Guardar nuevo</string>
   <string name="search_all">Buscar todo</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Borrar búsqueda</string>
   <string name="search_options">Opciones de búsqueda</string>
   <string name="showing_search_results">Mostrando {from} a {to} de {total}</string>
   <string name="site_slogan">Eslogan del sitio</string>
@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">El modo de URLs limpias sólo lo soporta Apache, úsalo bajo tu responsabilidad.</string>
   <string name="clean_url_data_failed">Ha fallado la prueba de datos de URL limpias</string>
   <string name="clean_url_test_failed">Ha fallado el test de URLs limpias.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Zona horaria del servidor de la base de datos</string>
+  <string name="db_server_time">Hora del servidor de la base de datos</string>
+  <string name="db_server_timeoffset">Diferencia horaria del servidor de la base de datos</string>
+  <string name="db_session_timezone">Zona horaria de la sesión de la base de datos</string>
   <string name="detail">Detalle</string>
   <string name="dev_version_live">Estás ejecutando una versión de desarrollo de Textpattern en un servidor público.</string>
   <string name="diagnostic_info">Información de diagnóstico</string>
@@ -704,7 +704,7 @@
   <string name="messy">\?=sucio</string>
   <string name="never_display_email">¿Ocultar email del autor del comentario?</string>
   <string name="new_textpattern_version_available">Está disponible una nueva versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga de Textpattern">descargarla</a>?</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">No hay preferencias disponibles.</string>
   <string name="no_popup">ventana actual</string>
   <string name="override_emailcharset">¿Codificación ISO-8859-1 en envíos de email? Por defecto UTF-8</string>
   <string name="path_from_root">Subdirectorio (si lo hay)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">Modelo de URL</string>
   <string name="permlink_hyphenated">Con guiones (titulo-asi)</string>
   <string name="permlink_intercapped">Con mayúsculas (TituloAsi)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">Esquema del URL del artículo</string>
   <string name="ping_textpattern_com">¿Actualizar en textpattern.com?</string>
   <string name="ping_weblogsdotcom">¿Actualizar en pingomatic.com?</string>
   <string name="plugin_cache_dir">Ruta del directorio del caché de plugins</string>
@@ -895,11 +895,11 @@
   <string name="next">Siguiente</string>
   <string name="no">No</string>
   <string name="none">Ninguno</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">ventana actual</string>
   <string name="no_comments">Actualmente no hay comentarios a este artículo.</string>
   <string name="no_search_matches">Lo siento, no hay resultados que coincidan con el criterio de búsqueda</string>
   <string name="numeric_list">Lista numérica</string>
-  <string name="of">of</string>
+  <string name="of">de</string>
   <string name="off">No</string>
   <string name="older">Anteriores</string>
   <string name="on">Sí</string>
@@ -911,7 +911,7 @@
   <string name="permlink">Enlace permanente</string>
   <string name="plugin_load_error">Se ha producido un error al cargar el plugin:</string>
   <string name="plugin_load_error_above">Los errores anteriores los ha causado el plugin:</string>
-  <string name="popup">popup window</string>
+  <string name="popup">ventana emergente</string>
   <string name="post">Publicar</string>
   <string name="posted">Publicado</string>
   <string name="posted_by">Publicado por</string>
