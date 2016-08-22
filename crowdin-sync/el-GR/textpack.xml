@@ -899,7 +899,7 @@
   <string name="no_comments">Επί του παρόντος δεν υπάρχουν σχόλια για αυτό το άρθρο.</string>
   <string name="no_search_matches">Συγνώμη, δεν βρέθηκαν αποτελέσματα που ταιριάζουν στο αίτημα της αναζήτησής σας</string>
   <string name="numeric_list">Αριθμημένη λίστα</string>
-  <string name="of">of</string>
+  <string name="of">από</string>
   <string name="off">όχι</string>
   <string name="older">παλαιότερα</string>
   <string name="on">ναι</string>
@@ -965,7 +965,7 @@
   <string name="update">Ενημέρωση</string>
   <string name="upload">μεταφόρτωση</string>
   <string name="uploaded">μετεφορτώθηκε</string>
-  <string name="url">URL</string>
+  <string name="url">Διεύθυνση URL</string>
   <string name="value">Περιεχόμενο</string>
   <string name="version">Έκδοση</string>
   <string name="view">Προβολή</string>
