@@ -195,7 +195,7 @@
   <string name="changesection">Cambia sezione</string>
   <string name="changestatus">Cambia stato</string>
   <string name="close">Chiudi</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Collassa tutto</string>
   <string name="comment">Commento</string>
   <string name="comments_expired">Non è più possibile commentare questo articolo.</string>
   <string name="confirm_delete_popup">Vuoi davvero eliminare?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Bozza</string>
   <string name="duplicate">Duplicato</string>
   <string name="excerpt">Sommario</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Espandi tutto</string>
   <string name="expired">Scaduto</string>
   <string name="expire_date">Data di scadenza</string>
   <string name="expire_time">Ora di scadenza</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Caro {name},</string>
   <string name="save_new">Salva nuovo</string>
   <string name="search_all">Cerca tutto</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Cancella ricerca</string>
   <string name="search_options">Opzioni di ricerca</string>
   <string name="showing_search_results">Mostro da {from} a {to} di {total}</string>
   <string name="site_slogan">Slogan del sito</string>
@@ -1014,7 +1014,7 @@
   <string name="choose_password">Scegli una password</string>
   <string name="config_php_does_not_match_input">Il contenuto di <code>config.php</code> non corrisponde ai valori che hai inserito. Incolla esattamente il testo seguente.</string>
   <string name="config_php_not_found">Non ho trovato il file di configurazione nel posto previsto <strong>{file}</strong>. Controllane ancora una volta l’esistenza.</string>
-  <string name="core_theme">Core: {theme}</string>
+  <string name="core_theme">Nucleo: {theme}</string>
   <string name="create_config">Crea un file di nome <code>config.php</code> nella cartella <code>/textpattern/</code> e incollaci dentro ciò che segue&#8230;</string>
   <string name="creating_config">Creo il file config.php</string>
   <string name="creating_db_tables">Creo le tabelle del database</string>
