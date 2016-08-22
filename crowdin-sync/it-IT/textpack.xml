@@ -899,7 +899,7 @@
   <string name="no_comments">Non ci sono ancora commenti a questo articolo.</string>
   <string name="no_search_matches">Spiacente, non sono stati trovati risultati corrispondenti alla tua ricerca</string>
   <string name="numeric_list">Elenco numerato</string>
-  <string name="of">of</string>
+  <string name="of">di</string>
   <string name="off">Spento</string>
   <string name="older">I più vecchi</string>
   <string name="on">Acceso</string>
@@ -1190,7 +1190,7 @@
   <string name="tag_file_download_modified">Data modifica file</string>
   <string name="tag_file_download_name">Nome file</string>
   <string name="tag_file_download_size">Dimensione file</string>
-  <string name="tag_home">Home</string>
+  <string name="tag_home">Pagina iniziale</string>
   <string name="tag_if_category">Se la categoria è</string>
   <string name="tag_if_section">Se la sezione è</string>
   <string name="tag_image">Immagine</string>
