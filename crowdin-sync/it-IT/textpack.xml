@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">Gli URL puliti sono supportati esclusivamente da Apache. Usali a tuo rischio e pericolo.</string>
   <string name="clean_url_data_failed">Verifica dati URL puliti fallita</string>
   <string name="clean_url_test_failed">Verifica degli URL puliti fallita.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Fuso orario server database</string>
+  <string name="db_server_time">Orario server database</string>
+  <string name="db_server_timeoffset">Scarto fuso orario server database</string>
+  <string name="db_session_timezone">Fuso orario sessione database</string>
   <string name="detail">Dettaglio</string>
   <string name="dev_version_live">Stai usando file in corso di sviluppo su un server ‘live’.</string>
   <string name="diagnostic_info">Informazioni diagnostiche</string>
@@ -704,7 +704,7 @@
   <string name="messy">\?=sporchi</string>
   <string name="never_display_email">Nascondi sempre l’email?</string>
   <string name="new_textpattern_version_available">È disponibile una nuova versione di Textpattern. Vuoi <a href="http://textpattern.com/download" rel="external" title="Vai all\'area download del sito Textpattern">scaricarla</a>?</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Nessune preferenze disponibili.</string>
   <string name="no_popup">stessa finestra</string>
   <string name="override_emailcharset">Uso la codifica ISO-8859-1 per le email (la predefinita è UTF-8)?</string>
   <string name="path_from_root">Sotto-cartella (nel caso esista)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">Formato titolo URL del Permalink</string>
   <string name="permlink_hyphenated">Con trattino di separazione (come-questo-qui)</string>
   <string name="permlink_intercapped">Con iniziali maiuscole (ComeQuestoQui)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">Schema URL articolo</string>
   <string name="ping_textpattern_com">‘Pinga’ textpattern.com?</string>
   <string name="ping_weblogsdotcom">‘Pinga’ pingomatic.com?</string>
   <string name="plugin_cache_dir">Percorso directory per la cache dei plug-in</string>
@@ -818,7 +818,7 @@
   <string name="day">giorno</string>
   <string name="days">giorni</string>
   <string name="default">Predefinito</string>
-  <string name="definition_list">Definition list</string>
+  <string name="definition_list">Lista di definizioni</string>
   <string name="delete">Elimina</string>
   <string name="deleted">eliminato</string>
   <string name="deleted_text">testo barrato</string>
@@ -854,7 +854,7 @@
   <string name="go_to">Vai a</string>
   <string name="go_txp_com">Vai al sito Textpattern</string>
   <string name="header">intestazione</string>
-  <string name="home">Home</string>
+  <string name="home">Pagina principale</string>
   <string name="host">Host</string>
   <string name="hour">ora</string>
   <string name="hours">ore</string>
@@ -895,7 +895,7 @@
   <string name="next">Successivo</string>
   <string name="no">No</string>
   <string name="none">Nessuno</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">finestra corrente</string>
   <string name="no_comments">Non ci sono ancora commenti a questo articolo.</string>
   <string name="no_search_matches">Spiacente, non sono stati trovati risultati corrispondenti alla tua ricerca</string>
   <string name="numeric_list">Elenco numerato</string>
