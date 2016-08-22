@@ -195,7 +195,7 @@
   <string name="changesection">Muuta osio</string>
   <string name="changestatus">Muuta tila</string>
   <string name="close">Sulje</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Sulje kaikki</string>
   <string name="comment">Kommentti</string>
   <string name="comments_expired">Tämän artikkelin kommentointi on päättynyt.</string>
   <string name="confirm_delete_popup">Poistetaanko varmasti?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Luonnos</string>
   <string name="duplicate">Kopioi</string>
   <string name="excerpt">Johdanto</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Laajenna kaikki</string>
   <string name="expired">Vanhentunut</string>
   <string name="expire_date">Vanhentuu päivämääränä</string>
   <string name="expire_time">Vanhenemishetki</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Hyvä {name},</string>
   <string name="save_new">Tallenna uutena</string>
   <string name="search_all">Etsi kaikkea</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Tyhjennä haku</string>
   <string name="search_options">Hakuasetukset</string>
   <string name="showing_search_results">Näytetään {from}-{to} yhteensä {total}-tuloksesta</string>
   <string name="site_slogan">Sivuston slogan</string>
@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">Ainoastaan apache tukee selkokielisiä www-osoitteita, käytä omalla riskillä.</string>
   <string name="clean_url_data_failed">Selkokielisten URLien data-testi ei mennyt läpi</string>
   <string name="clean_url_test_failed">Selkokielisten URLien testi ei mennyt läpi.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Tietokantapalvelimen aikavyöhyke</string>
+  <string name="db_server_time">Tietokantapalvelimen aika</string>
+  <string name="db_server_timeoffset">Tietokantapalvelimen aikasiirtymä</string>
+  <string name="db_session_timezone">Tietokannan session aikavyöhyke</string>
   <string name="detail">Tarkkuus</string>
   <string name="dev_version_live">Ajat kehityksessä olevia tiedostoja live-palvelimella.</string>
   <string name="diagnostic_info">Diagnoosi</string>
@@ -704,7 +704,7 @@
   <string name="messy">\?=sotkuinen</string>
   <string name="never_display_email">Älä näytä sähköpostiosoitteita?</string>
   <string name="new_textpattern_version_available">Uusi Textpatternin versio on saatavilla. <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">Haluatko kokeilla sitä?</a></string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Asetuksia ei ole saatavilla.</string>
   <string name="no_popup">nykyinen ikkuna</string>
   <string name="override_emailcharset">ISO-8859-1 sähköposteissa (oletuksena UTF-8)?</string>
   <string name="path_from_root">Alihakemisto (jos on)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">Kestolinkin URL-muoto</string>
   <string name="permlink_hyphenated">Väliviivoitettu (otsikko-on-kuten-tassa)</string>
   <string name="permlink_intercapped">Sumpussa (OtsikkoOnKutenTassa)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">Artikkelin URL-muoto</string>
   <string name="ping_textpattern_com">Pingaa textpattern.comia?</string>
   <string name="ping_weblogsdotcom">Pingaa pingomatic.comia?</string>
   <string name="plugin_cache_dir">Polku plugin cache -hakemistoon</string>
@@ -895,11 +895,11 @@
   <string name="next">Seuraava</string>
   <string name="no">Ei</string>
   <string name="none">Ei mitään</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">nykyinen ikkuna</string>
   <string name="no_comments">Artikkeliin ei ole vielä lisätty yhtään kommenttia.</string>
   <string name="no_search_matches">Valitettavasti haullasi ei löytynyt yhtään osumaa</string>
   <string name="numeric_list">numeroitu lista</string>
-  <string name="of">of</string>
+  <string name="of">/</string>
   <string name="off">Pois päältä</string>
   <string name="older">Vanhemmat</string>
   <string name="on">Päällä</string>
@@ -911,7 +911,7 @@
   <string name="permlink">Kestolinkki</string>
   <string name="plugin_load_error">Virhe ladattaessa liitännäistä:</string>
   <string name="plugin_load_error_above">Ylläolevat virheet johtuvat liitännäisestä:</string>
-  <string name="popup">popup window</string>
+  <string name="popup">ponnahdusikkuna</string>
   <string name="post">Julkaisu</string>
   <string name="posted">Julkaistu</string>
   <string name="posted_by">Julkaissut</string>
