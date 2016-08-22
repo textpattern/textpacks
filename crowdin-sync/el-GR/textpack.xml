@@ -704,7 +704,7 @@
   <string name="messy">\?=μπερδεμένο</string>
   <string name="never_display_email">Αποκρύψτε το email του σχολιαστή;</string>
   <string name="new_textpattern_version_available">Η νέα έκδοση του Textpattern είναι διαθέσιμη! Θέλετε να την <a href="http://textpattern.com/download" rel="external">κατεβάσετε</a>;</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Δεν υπάρχουν διαθέσιμες προτιμήσεις.</string>
   <string name="no_popup">στο τρέχον παράθυρο</string>
   <string name="override_emailcharset">Κωδικοποίηση ISO-8859-1 για email (η προκαθορισμένη είναι UTF-8);</string>
   <string name="path_from_root">Υποκατάλογος (αν υπάρχει)</string>
