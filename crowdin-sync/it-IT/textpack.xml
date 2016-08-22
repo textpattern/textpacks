@@ -911,7 +911,7 @@
   <string name="permlink">Link permanente</string>
   <string name="plugin_load_error">Errore nel caricare il plug-in:</string>
   <string name="plugin_load_error_above">Gli errori sopra elencati sono stati causati dal plug-in:</string>
-  <string name="popup">popup window</string>
+  <string name="popup">finestra pop-up</string>
   <string name="post">Pubblica</string>
   <string name="posted">Pubblicato</string>
   <string name="posted_by">Pubblicato da</string>
