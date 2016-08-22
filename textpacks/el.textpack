@@ -720,7 +720,7 @@ mentions => Αναφορές
 messy => ?=μπερδεμένο
 never_display_email => Αποκρύψτε το email του σχολιαστή;
 new_textpattern_version_available => Η νέα έκδοση του Textpattern είναι διαθέσιμη! Θέλετε να την <a href="http://textpattern.com/download" rel="external">κατεβάσετε</a>;
-no_preferences =>
+no_preferences => Δεν υπάρχουν διαθέσιμες προτιμήσεις.
 no_popup => στο τρέχον παράθυρο
 override_emailcharset => Κωδικοποίηση ISO-8859-1 για email (η προκαθορισμένη είναι UTF-8);
 path_from_root => Υποκατάλογος (αν υπάρχει)
@@ -916,7 +916,7 @@ nopopup => χωρίς “popup”
 no_comments => Επί του παρόντος δεν υπάρχουν σχόλια για αυτό το άρθρο.
 no_search_matches => Συγνώμη, δεν βρέθηκαν αποτελέσματα που ταιριάζουν στο αίτημα της αναζήτησής σας
 numeric_list => Αριθμημένη λίστα
-of =>
+of => από
 off => όχι
 older => παλαιότερα
 on => ναι
