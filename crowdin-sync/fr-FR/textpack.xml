@@ -904,6 +904,7 @@
   <string name="older">Plus anciens</string>
   <string name="on">Activés</string>
   <string name="only_articles_can_be_previewed"><strong>Note</strong> : seuls les modules d’article peuvent être prévisualisés.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Page</string>
   <string name="pages">Pages</string>
   <string name="paragraph">paragraphe</string>
