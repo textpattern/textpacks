@@ -904,6 +904,7 @@
   <string name="older">Máis vello</string>
   <string name="on">Si</string>
   <string name="only_articles_can_be_previewed">NOTA: Sós os formularios do artigo poden previsualizarse.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Páxina</string>
   <string name="pages">Páxinas</string>
   <string name="paragraph">parágrafo</string>
