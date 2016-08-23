@@ -849,6 +849,7 @@
   <string name="form">폼</string>
   <string name="forms">폼</string>
   <string name="go">실행</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">글로 가기</string>
   <string name="go_nav">네이게이션으로 가기</string>
   <string name="go_search">검색으로 가기</string>
