@@ -904,6 +904,7 @@
   <string name="older">Vanem</string>
   <string name="on">Sees</string>
   <string name="only_articles_can_be_previewed"><strong>NB:</strong> eelvaade töötab ainult artikli vormidega.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Leht</string>
   <string name="pages">Lehed</string>
   <string name="paragraph">lõik</string>
