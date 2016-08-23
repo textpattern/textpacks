@@ -75,7 +75,7 @@
   <string name="your_login_info">Vos informations de connexion</string>
   <string name="your_login_is">Votre nom de connexion (login) est</string>
   <string name="your_new_password">Votre nouveau mot de passe</string>
-  <string name="your_password_is">Votre mot de passe est </string>
+  <string name="your_password_is">Votre mot de passe est</string>
   <string name="you_have_been_registered">Vous avez été enregistré comme contributeur du site</string>
   <string name="add_new_article">Créer un article</string>
   <string name="advanced_options">Configuration avancée</string>
@@ -195,7 +195,7 @@
   <string name="changesection">Changer la section</string>
   <string name="changestatus">Changer le statut</string>
   <string name="close">Fermer</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Réduire tout</string>
   <string name="comment">Commentaire</string>
   <string name="comments_expired">Les commentaires sont expirés pour cet article.</string>
   <string name="confirm_delete_popup">Voulez-vous vraiment, vraiment supprimer ?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Brouillon</string>
   <string name="duplicate">Dupliquer</string>
   <string name="excerpt">Résumé</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Déployer tout</string>
   <string name="expired">Expiré</string>
   <string name="expire_date">Date d’expiration</string>
   <string name="expire_time">Heure d’expiration</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Bonjour {name},</string>
   <string name="save_new">Enregistrer le nouveau</string>
   <string name="search_all">Cocher tous les choix</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Effacer la recherche</string>
   <string name="search_options">Options de recherche</string>
   <string name="showing_search_results">Résultats {from} à {to} sur {total}</string>
   <string name="site_slogan">Slogan du site</string>
@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">Les URL « propres » ne sont vraiment supportées que par Apache, vous les utilisez à vos propres risques.</string>
   <string name="clean_url_data_failed">Le test d’URL propres a échoué</string>
   <string name="clean_url_test_failed">Impossible de tester si le mode d’URL optimisées est applicable.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Fuseau horaire du serveur de base de données</string>
+  <string name="db_server_time">Heure du serveur de base de données</string>
+  <string name="db_server_timeoffset">Décalage horaire du serveur de base de données</string>
+  <string name="db_session_timezone">Fuseau horaire de session de la base de données</string>
   <string name="detail">Détails</string>
   <string name="dev_version_live">Vous utilisez des fichiers en développement sur un serveur public.</string>
   <string name="diagnostic_info">Informations de diagnostic</string>
@@ -704,7 +704,7 @@
   <string name="messy">brutes (?=paramètres)</string>
   <string name="never_display_email">Toujours masquer les adresses email ?</string>
   <string name="new_textpattern_version_available">Une nouvelle version de Textpattern est disponible. <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern">Voulez-vous la télécharger</a> ?</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Aucune préférence disponible.</string>
   <string name="no_popup">fenêtre actuelle</string>
   <string name="override_emailcharset">Transformer les emails en Latin 1 (ISO-8859-1) ?</string>
   <string name="path_from_root">Sous répertoire (s’il existe)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">Permaliens : forme des titres d’URL</string>
   <string name="permlink_hyphenated">Avec traits d’union (titre-comme-cela)</string>
   <string name="permlink_intercapped">Casse de chameau (TitreCommeCela)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">Format des URL</string>
   <string name="ping_textpattern_com">Automatiquement prévenir textpattern.com ?</string>
   <string name="ping_weblogsdotcom">Automatiquement prévenir pingomatic.com ?</string>
   <string name="plugin_cache_dir">Chemin du répertoire de cache des plugins</string>
@@ -895,23 +895,23 @@
   <string name="next">Suivant</string>
   <string name="no">Non</string>
   <string name="none">Aucun</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">sans popup</string>
   <string name="no_comments">Pas encore de commentaire pour cet article.</string>
   <string name="no_search_matches">Désolé, il n’y a aucun résultat correspondant à votre recherche…</string>
   <string name="numeric_list">Liste ordonnée</string>
-  <string name="of">of</string>
+  <string name="of">sur</string>
   <string name="off">Désactivés</string>
   <string name="older">Plus anciens</string>
   <string name="on">Activés</string>
   <string name="only_articles_can_be_previewed"><strong>Note</strong> : seuls les modules d’article peuvent être prévisualisés.</string>
-  <string name="page">Gabarit</string>
-  <string name="pages">Gabarits</string>
+  <string name="page">Page</string>
+  <string name="pages">Pages</string>
   <string name="paragraph">paragraphe</string>
   <string name="permanent_link">Permalien vers l’article</string>
   <string name="permlink">URL permanente (permalien)</string>
   <string name="plugin_load_error">Erreur lors du chargement du plugin :</string>
   <string name="plugin_load_error_above">Les erreurs ci-dessus ont été causées par le plugin :</string>
-  <string name="popup">popup window</string>
+  <string name="popup">en popup</string>
   <string name="post">Poster</string>
   <string name="posted">Publié</string>
   <string name="posted_by">Posté par</string>
