@@ -904,6 +904,7 @@
   <string name="older">예전글</string>
   <string name="on">켬</string>
   <string name="only_articles_can_be_previewed">주의: 오직 게시물 폼만 미리보기할 수 있습니다.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">페이지</string>
   <string name="pages">페이지</string>
   <string name="paragraph">단락</string>
