@@ -904,6 +904,7 @@
   <string name="older">παλαιότερα</string>
   <string name="on">ναι</string>
   <string name="only_articles_can_be_previewed">Σημ.: Μόνο οι φόρμες άρθρων μπορούν να προεπισκοπηθούν.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Σελίδα</string>
   <string name="pages">Σελίδες</string>
   <string name="paragraph">παράγραφος</string>
