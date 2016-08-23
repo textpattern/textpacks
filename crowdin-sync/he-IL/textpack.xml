@@ -827,6 +827,7 @@
   <string name="deprecated_function">הפונקציה <strong>{name}</strong> מועמדת לביטול.</string>
   <string name="deprecated_function_with">הפונקציה <strong>{name}</strong> מועמדת לביטול: התשמש בפונקציה <strong>{with}</strong> במקומה.</string>
   <string name="deprecated_tag">התג מועמד לביטול</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">מספר הורדות</string>
   <string name="edit">ערוך</string>
   <string name="email">דואל</string>
@@ -848,6 +849,7 @@
   <string name="form">טופס</string>
   <string name="forms">טפסים</string>
   <string name="go">עבור</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">עבור לתוכן</string>
   <string name="go_nav">עבור לניווט</string>
   <string name="go_search">עבור לחיפוש</string>
@@ -904,6 +906,7 @@
   <string name="older">ישן יותר</string>
   <string name="on">מופעל</string>
   <string name="only_articles_can_be_previewed">הערה: רק טפסי מאמרים יכולים להיות מוצגים בתצוגה מקדימה.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">דף</string>
   <string name="pages">דפים</string>
   <string name="paragraph">פיסקה</string>

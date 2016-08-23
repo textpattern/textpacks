@@ -827,6 +827,7 @@
   <string name="deprecated_function">Hàm <strong>{name}</strong> đã lỗi thời.</string>
   <string name="deprecated_function_with">Hàm <strong>{name}</strong> đã lỗi thời: dùng <strong>{with}</strong> để thay thế.</string>
   <string name="deprecated_tag">thẻ đã lạc hậu</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Số lượt tải</string>
   <string name="edit">Sửa</string>
   <string name="email">Thư điện tử</string>
@@ -848,6 +849,7 @@
   <string name="form">Mẫu đơn</string>
   <string name="forms">Mẫu đơn</string>
   <string name="go">Tiếp</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Chuyển tới phần nội dung</string>
   <string name="go_nav">Chuyển tới phần điều hướng</string>
   <string name="go_search">Chuyển tới phần tìm kiếm</string>
@@ -904,6 +906,7 @@
   <string name="older">Cũ hơn</string>
   <string name="on">Bật</string>
   <string name="only_articles_can_be_previewed">Chú ý: Chỉ có thể xem trước dạng của bài viết</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Trang</string>
   <string name="pages">Trang</string>
   <string name="paragraph">đoạn</string>

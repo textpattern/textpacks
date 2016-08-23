@@ -827,6 +827,7 @@
   <string name="deprecated_function">Funktio <strong>{name}</strong> on vanhentunut.</string>
   <string name="deprecated_function_with">Funktio <strong>{name}</strong> on vanhentunut; korvaa <strong>{name}</strong>-funktiolla.</string>
   <string name="deprecated_tag">tagi on vanhentunut</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Latausten määrä</string>
   <string name="edit">Muokkaa</string>
   <string name="email">Sähköposti</string>
@@ -848,6 +849,7 @@
   <string name="form">Lomake</string>
   <string name="forms">Lomakkeet</string>
   <string name="go">Siirry</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Siirry sisältöön</string>
   <string name="go_nav">Siirry navigaatioon</string>
   <string name="go_search">Siirry hakuun</string>
@@ -904,6 +906,7 @@
   <string name="older">Vanhemmat</string>
   <string name="on">Päällä</string>
   <string name="only_articles_can_be_previewed"><strong>Huom:</strong> esikatselu toimii vain artikkeli-tyyppisillä lomakkeilla.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Sivu</string>
   <string name="pages">Sivut</string>
   <string name="paragraph">kappale</string>

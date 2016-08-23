@@ -827,6 +827,7 @@
   <string name="deprecated_function">Η λειτουργία <strong>{name}</strong> έχει καταργηθεί.</string>
   <string name="deprecated_function_with">Η λειτουργία <strong>{name}</strong> έχει καταργηθεί.: Χρησιμοποιήστε <strong>{with}</strong>.</string>
   <string name="deprecated_tag">Η υποστήριξή του Tag θα καταργηθεί</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Αριθμός μεταφορτώσεων</string>
   <string name="edit">επεξεργασία</string>
   <string name="email">email</string>
@@ -848,6 +849,7 @@
   <string name="form">Φόρμα</string>
   <string name="forms">Φόρμες</string>
   <string name="go">πήγαινε</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Mετάβαση στο περιεχόμενο</string>
   <string name="go_nav">Μετάβαση στο «menu» επιλογής</string>
   <string name="go_search">Mετάβαση στην αναζήτηση</string>
@@ -904,6 +906,7 @@
   <string name="older">παλαιότερα</string>
   <string name="on">ναι</string>
   <string name="only_articles_can_be_previewed">Σημ.: Μόνο οι φόρμες άρθρων μπορούν να προεπισκοπηθούν.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Σελίδα</string>
   <string name="pages">Σελίδες</string>
   <string name="paragraph">παράγραφος</string>

@@ -827,6 +827,7 @@
   <string name="deprecated_function">Funkcia <strong>{name}</strong> je zastaraná.</string>
   <string name="deprecated_function_with">Funkcia <strong>{name}</strong> je zastaraná: použi namiesto nej <strong>{with}</strong>.</string>
   <string name="deprecated_tag">nepodporovaný tag</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Počet stiahnutí</string>
   <string name="edit">Upraviť</string>
   <string name="email">E-mail</string>
@@ -848,6 +849,7 @@
   <string name="form">Šablóna</string>
   <string name="forms">Šablóny</string>
   <string name="go">OK</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Prejsť na obsah</string>
   <string name="go_nav">Prejsť na navigáciu</string>
   <string name="go_search">Prejsť na vyhľadávanie</string>
@@ -904,6 +906,7 @@
   <string name="older">staršie</string>
   <string name="on">zapnuté</string>
   <string name="only_articles_can_be_previewed">Pozn.: náhľad je možný len pre šablóny článkov.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Stránka</string>
   <string name="pages">Stránky</string>
   <string name="paragraph">odstavec</string>

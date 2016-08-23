@@ -827,6 +827,7 @@
   <string name="deprecated_function">Funktionen <strong>{name}</strong> används inte längre</string>
   <string name="deprecated_function_with">Funktionen <strong>{name}</strong> används inte längre, använd <strong>{with}</strong> istället</string>
   <string name="deprecated_tag">taggen är ogiltlig</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Nedladdningsräknare</string>
   <string name="edit">Redigera</string>
   <string name="email">E-post</string>
@@ -848,6 +849,7 @@
   <string name="form">Siddel</string>
   <string name="forms">Siddelar</string>
   <string name="go">Starta</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Hoppa till innehåll</string>
   <string name="go_nav">Hoppa till navigering</string>
   <string name="go_search">Hoppa till sökrutan</string>
@@ -904,6 +906,7 @@
   <string name="older">Äldre</string>
   <string name="on">På</string>
   <string name="only_articles_can_be_previewed">OBS: Bara artikelsiddelar kan förhandsvisas.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Sida</string>
   <string name="pages">Sidor</string>
   <string name="paragraph">stycke</string>

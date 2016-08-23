@@ -827,6 +827,7 @@
   <string name="deprecated_function">функція <strong>{name}</strong> застаріла.</string>
   <string name="deprecated_function_with">функція <strong>{name}</strong> застаріла: використовуйте замість неї <strong>{with}</strong>.</string>
   <string name="deprecated_tag">тег є застарілим</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Лічильник завантажень</string>
   <string name="edit">Редагувати</string>
   <string name="email">Email</string>
@@ -848,6 +849,7 @@
   <string name="form">Шаблон</string>
   <string name="forms">Шаблони</string>
   <string name="go">Перейти</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Перейти до змісту</string>
   <string name="go_nav">Перейти до навігації</string>
   <string name="go_search">Перейти до пошуку</string>
@@ -904,6 +906,7 @@
   <string name="older">старше</string>
   <string name="on">вкл.</string>
   <string name="only_articles_can_be_previewed"><strong>Зазначати:</strong> тільки шаблони статей можуть бути попередньо переглянуті.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Сторінка</string>
   <string name="pages">Сторінки</string>
   <string name="paragraph">параграф</string>

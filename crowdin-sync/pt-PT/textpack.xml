@@ -827,6 +827,7 @@
   <string name="deprecated_function">A função <strong>{name}</strong> está obsoleta.</string>
   <string name="deprecated_function_with">A função <strong>{name}</strong> está obsoleta: use antes <strong>{with}</strong></string>
   <string name="deprecated_tag">Etiqueta em desuso</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Contagem de descarga</string>
   <string name="edit">Editar</string>
   <string name="email">Email</string>
@@ -848,6 +849,7 @@
   <string name="form">Módulo</string>
   <string name="forms">Módulos</string>
   <string name="go">ok</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Ir para o Conteúdo</string>
   <string name="go_nav">Ir para a Navegação</string>
   <string name="go_search">Ir para a Pesquisa</string>
@@ -904,6 +906,7 @@
   <string name="older">mais velho</string>
   <string name="on">Sim</string>
   <string name="only_articles_can_be_previewed">NOTA: Só os módulos de artigo podem ser pré-visualizados.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Página</string>
   <string name="pages">Páginas</string>
   <string name="paragraph">parágrafo</string>

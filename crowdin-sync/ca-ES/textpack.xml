@@ -827,6 +827,7 @@
   <string name="deprecated_function">Function <strong>{name}</strong> is deprecated.</string>
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Download count</string>
   <string name="edit">edita</string>
   <string name="email">correu</string>
@@ -848,6 +849,7 @@
   <string name="form">Formulari</string>
   <string name="forms">Formularis</string>
   <string name="go">Ves-hi</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Ves al contingut</string>
   <string name="go_nav">Ves a la navegació</string>
   <string name="go_search">Ves a la cerca</string>
@@ -904,6 +906,7 @@
   <string name="older">més antic</string>
   <string name="on">si</string>
   <string name="only_articles_can_be_previewed"><strong>Nota:</strong> només es poden previsualitzar els formularis d’article.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Pàgina</string>
   <string name="pages">Pàgines</string>
   <string name="paragraph">paràgraf</string>

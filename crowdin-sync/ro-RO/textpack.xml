@@ -827,6 +827,7 @@
   <string name="deprecated_function">Function <strong>{name}</strong> is deprecated.</string>
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag-ul a fost abandonat</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Download count</string>
   <string name="edit">Editeaza</string>
   <string name="email">E-mail</string>
@@ -848,6 +849,7 @@
   <string name="form">Form</string>
   <string name="forms">Forms-uri</string>
   <string name="go">du-te</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Du-te la continut</string>
   <string name="go_nav">Du-te la navigare</string>
   <string name="go_search">Du-te la cautare</string>
@@ -904,6 +906,7 @@
   <string name="older">Mai vechi</string>
   <string name="on">Deschis</string>
   <string name="only_articles_can_be_previewed">PS: doar formele \"articol\" pot fi previzualizate.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Pagina</string>
   <string name="pages">Pagini</string>
   <string name="paragraph">paragraf</string>

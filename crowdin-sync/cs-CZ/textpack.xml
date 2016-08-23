@@ -195,7 +195,7 @@
   <string name="changesection">Změnit rubriku</string>
   <string name="changestatus">Změnit stav</string>
   <string name="close">Zavřít</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Sbalit vše</string>
   <string name="comment">Komentář</string>
   <string name="comments_expired">Možnost komentovat článek skončila.</string>
   <string name="confirm_delete_popup">Opravdu odstranit?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Návrh</string>
   <string name="duplicate">Duplikovat</string>
   <string name="excerpt">Anotace</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Rozbalit vše</string>
   <string name="expired">Prošlé</string>
   <string name="expire_date">Datum expirace</string>
   <string name="expire_time">Čas expirace</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Vážený {name},</string>
   <string name="save_new">Uložit nový</string>
   <string name="search_all">Hledat vše</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Vymazat vyhledávání</string>
   <string name="search_options">Možnosti hledání</string>
   <string name="showing_search_results">Zobrazeny výsledky {from} až {to} z {total}</string>
   <string name="site_slogan">Motto serveru?</string>
@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">Hezké URL jsou podporovány pouze na serverech Apache, používej tedy na vlastní riziko.</string>
   <string name="clean_url_data_failed">Test dat hezkých URL adres selhal</string>
   <string name="clean_url_test_failed">Test hezkých URL selhal.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Časové pásmo serveru databáze</string>
+  <string name="db_server_time">Čas serveru databáze</string>
+  <string name="db_server_timeoffset">Časový posun serveru databáze</string>
+  <string name="db_session_timezone">Časové pásmo relace databáze</string>
   <string name="detail">Množství údajů</string>
   <string name="dev_version_live">Používáš vývojovou verzi v ostrém provozu.</string>
   <string name="diagnostic_info">Diagnostika</string>
@@ -704,7 +704,7 @@
   <string name="messy">\?=ošklivé</string>
   <string name="never_display_email">Skrývat emailové adresy?</string>
   <string name="new_textpattern_version_available">Existuje zcela nová verze Textpattern. Chceš ji <a href="http://textpattern.com/download" rel="external">vyzkoušet</a>?</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Žádné předvolby k dispozici.</string>
   <string name="no_popup">do stránky</string>
   <string name="override_emailcharset">Použít v emailech znakovou sadu ISO-8859-1 (výchozí je UTF-8)?</string>
   <string name="path_from_root">Složka (je-li nějaká)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">Formát adresy URL</string>
   <string name="permlink_hyphenated">s pomlčkami (nazev-clanku)</string>
   <string name="permlink_intercapped">velká a malá písmena (NazevClanku)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">Vzor adresy URL článku</string>
   <string name="ping_textpattern_com">Posílat ping na textpattern.com?</string>
   <string name="ping_weblogsdotcom">Posílat ping na pingomatic.com?</string>
   <string name="plugin_cache_dir">Adresář pro cache pluginů</string>
@@ -827,6 +827,7 @@
   <string name="deprecated_function">Funkce <strong>{name}</strong> je zastaralá.</string>
   <string name="deprecated_function_with">Funkce <strong>{name}</strong> je zastaralá: použij místo ní <strong>{with}</strong>.</string>
   <string name="deprecated_tag">značka je zastaralá</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Počet stažení</string>
   <string name="edit">Upravit</string>
   <string name="email">Email</string>
@@ -848,6 +849,7 @@
   <string name="form">Forma</string>
   <string name="forms">Formy</string>
   <string name="go">OK</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Přejít na obsah</string>
   <string name="go_nav">Přejít na navigaci</string>
   <string name="go_search">Přejít na hledání</string>
@@ -895,15 +897,16 @@
   <string name="next">Další</string>
   <string name="no">Ne</string>
   <string name="none">Žádné</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">aktuální okno</string>
   <string name="no_comments">Tento článek zatím nemá komentáře.</string>
   <string name="no_search_matches">Bohužel nebyly nalezeny žádné výsledky odpovídající zadání</string>
   <string name="numeric_list">Číslovaný seznam</string>
-  <string name="of">of</string>
+  <string name="of">z</string>
   <string name="off">Vypnuto</string>
   <string name="older">Starší</string>
   <string name="on">Zapnuto</string>
   <string name="only_articles_can_be_previewed">Náhled je možný jen pro formy článků.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Stránka</string>
   <string name="pages">Stránky</string>
   <string name="paragraph">odstavec</string>
@@ -911,7 +914,7 @@
   <string name="permlink">Stálý odkaz</string>
   <string name="plugin_load_error">Při spouštění pluginu došlo k chybě:</string>
   <string name="plugin_load_error_above">K výše uvedeným chybám došlo při spouštění pluginu:</string>
-  <string name="popup">popup window</string>
+  <string name="popup">vyskakovací okno</string>
   <string name="post">Odeslat</string>
   <string name="posted">Vydáno</string>
   <string name="posted_by">Vydal</string>

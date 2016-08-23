@@ -827,6 +827,7 @@
   <string name="deprecated_function">функция <strong>{name}</strong> устарела.</string>
   <string name="deprecated_function_with">функция <strong>{name}</strong> устарела: используйте вместо нее <strong>{with}</strong>.</string>
   <string name="deprecated_tag">тег является устаревшим</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Счетчик загрузок</string>
   <string name="edit">Редактировать</string>
   <string name="email">Email</string>
@@ -848,6 +849,7 @@
   <string name="form">Форма</string>
   <string name="forms">Формы</string>
   <string name="go">Перейти</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">К содержанию</string>
   <string name="go_nav">К навигации</string>
   <string name="go_search">К поиску</string>
@@ -904,6 +906,7 @@
   <string name="older">Старые</string>
   <string name="on">Вкл.</string>
   <string name="only_articles_can_be_previewed"><strong>Внимание:</strong> только формы статьи могут быть предпросмотрены.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Страница</string>
   <string name="pages">Страницы</string>
   <string name="paragraph">параграф</string>

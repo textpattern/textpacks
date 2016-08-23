@@ -827,6 +827,7 @@
   <string name="deprecated_function">Function <strong>{name}</strong> is deprecated.</string>
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Download count</string>
   <string name="edit">Izmeni</string>
   <string name="email">E-mail</string>
@@ -848,6 +849,7 @@
   <string name="form">Forma</string>
   <string name="forms">Forme</string>
   <string name="go">OK</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Idi na sadržaj</string>
   <string name="go_nav">Idi na navigaciju</string>
   <string name="go_search">Idi na pretraživanje</string>
@@ -904,6 +906,7 @@
   <string name="older">Starije</string>
   <string name="on">Uključen</string>
   <string name="only_articles_can_be_previewed">Napomena: samo forme unosa mogu biti pregledane.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Stranica</string>
   <string name="pages">Stranice</string>
   <string name="paragraph">paragraf</string>

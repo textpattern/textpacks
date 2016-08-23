@@ -704,7 +704,7 @@
   <string name="messy">\?=rommelig</string>
   <string name="never_display_email">Emailadressen altijd verbergen?</string>
   <string name="new_textpattern_version_available">Er is een nieuwe versie van Textpattern beschikbaar. Wil je deze proberen?</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Geen voorkeuren beschikbaar.</string>
   <string name="no_popup">huidig window</string>
   <string name="override_emailcharset">ISO-8859-1 gebruiken voor email? (standaard is UTF-8)?</string>
   <string name="path_from_root">Submap (indien van toepassing)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">URL van de permanente link naar de titel</string>
   <string name="permlink_hyphenated">Streepjes (titel-zoals-dit)</string>
   <string name="permlink_intercapped">Hoofdletters (TitelZoalsDit)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">URL-vorm voor het artikel</string>
   <string name="ping_textpattern_com">Ping textpattern.com?</string>
   <string name="ping_weblogsdotcom">Ping pingomatic.com?</string>
   <string name="plugin_cache_dir">Pad naar de plugincache</string>
@@ -795,7 +795,7 @@
   <string name="comments_permlink">Permanente link</string>
   <string name="comment_comment">Reactie</string>
   <string name="comment_duplicate">Dubbele reacties kunnen niet geplaatst worden.</string>
-  <string name="comment_email">Email</string>
+  <string name="comment_email">E-mail</string>
   <string name="comment_email_required">Je hebt nog geen geldig email adres ingevuld.</string>
   <string name="comment_invitation">Uitnodiging</string>
   <string name="comment_message">Tekst</string>
@@ -827,9 +827,10 @@
   <string name="deprecated_function">Functie <strong>{name}</strong> is verouderd en wordt afgeraden.</string>
   <string name="deprecated_function_with">Functie <strong>{name}</strong> is verouderd en wordt afgeraden: gebruik <strong>{with}</strong> in plaats hiervan.</string>
   <string name="deprecated_tag">verouderde tag, gebruik wordt afgeraden</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Aantal downloads</string>
   <string name="edit">Wijzigen</string>
-  <string name="email">Email</string>
+  <string name="email">E-mail</string>
   <string name="email_address">Email adres</string>
   <string name="emphasis">nadruk</string>
   <string name="enter_comment_here"><strong>Schrijf je reactie hier.</strong> De met een <b class="required" title="Vereist">*</b> gemarkeerde velden zijn verplicht. Je ziet eerst een voorbeeld en daarna kun je de reactie definitief plaatsen.</string>
@@ -848,6 +849,7 @@
   <string name="form">Module</string>
   <string name="forms">Modules</string>
   <string name="go">OK</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Ga naar de inhoud</string>
   <string name="go_nav">Ga naar de navigatie</string>
   <string name="go_search">Ga naar zoeken</string>
@@ -895,15 +897,16 @@
   <string name="next">Volgende</string>
   <string name="no">Nee</string>
   <string name="none">Geen</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">huidig venster</string>
   <string name="no_comments">Er zijn nog geen reacties op dit artikel.</string>
   <string name="no_search_matches">Sorry, er zijn geen resultaten gevonden op je zoekvraag</string>
   <string name="numeric_list">Genummerde lijst</string>
-  <string name="of">of</string>
+  <string name="of">van</string>
   <string name="off">Uit</string>
   <string name="older">Ouder</string>
   <string name="on">Aan</string>
   <string name="only_articles_can_be_previewed"><strong>NB:</strong> alleen van artikelmodules kan een voorbeeld getoond worden.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Pagina</string>
   <string name="pages">Pagina’s</string>
   <string name="paragraph">alinea</string>
@@ -911,7 +914,7 @@
   <string name="permlink">Permanente link</string>
   <string name="plugin_load_error">Er is een probleem bij het laden van plugin:</string>
   <string name="plugin_load_error_above">Bovenstaande problemen zijn ontstaan bij het laden van de plugin:</string>
-  <string name="popup">popup window</string>
+  <string name="popup">popup venster</string>
   <string name="post">Publiceren</string>
   <string name="posted">Publicatiedatum</string>
   <string name="posted_by">Gepubliceerd door</string>
@@ -937,7 +940,7 @@
   <string name="selected">Selectie</string>
   <string name="site">Site</string>
   <string name="sitename">Sitenaam</string>
-  <string name="siteurl">Site URL</string>
+  <string name="siteurl">URL van de site</string>
   <string name="skip_to_main_content">Direct naar de hoofdinhoud</string>
   <string name="status">Status</string>
   <string name="strong">vet</string>
@@ -963,7 +966,7 @@
   <string name="unknown_tag">deze tag bestaat niet</string>
   <string name="untitled">Zonder titel</string>
   <string name="update">Vernieuwen</string>
-  <string name="upload">Upload</string>
+  <string name="upload">Uploaden</string>
   <string name="uploaded">ge-upload</string>
   <string name="url">URL</string>
   <string name="value">Waarde</string>
@@ -1055,7 +1058,7 @@
   <string name="set_db_details">Databasegegevens invoeren</string>
   <string name="set_temp_dir_prefs">Helaas, er is geen toegankelijke map gevonden om tijdelijke bestanden in op te slaan. Onder de tab “beheer, voorkeuren, uitgebreid” kun je het pad naar de “tijdelijke bestandenmap” opgeven.</string>
   <string name="site_config">Siteconfiguratie</string>
-  <string name="site_url">Site URL</string>
+  <string name="site_url">URL van de site</string>
   <string name="tables_exist">De tabellen in <strong>{dbname}</strong> blijken al te bestaan. Als je door wilt gaan met de installatie, verwijder dan de bestaande tabellen, of kies een ander tabelvoorvoegsel.</string>
   <string name="table_prefix">Tabel voorvoegsel (facultatief)</string>
   <string name="thanks_for_interest">Hartelijk dank voor je belangstelling voor Textpattern</string>
@@ -1176,7 +1179,7 @@
   <string name="tag_comment_web">Reactie: website</string>
   <string name="tag_comment_web_input">Reactie: website invoer</string>
   <string name="tag_css">CSS link (<code>&lt;head&gt;</code>)</string>
-  <string name="tag_email">Email link (spam-resistant)</string>
+  <string name="tag_email">E-mail link (spam resistent)</string>
   <string name="tag_excerpt">Samenvatting</string>
   <string name="tag_feed_link">Artikel feed</string>
   <string name="tag_file_download">Link naar download</string>

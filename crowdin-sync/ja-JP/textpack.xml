@@ -827,6 +827,7 @@
   <string name="deprecated_function">関数 <strong>{name}</strong> は非推奨です</string>
   <string name="deprecated_function_with">関数 <strong>{name}</strong> は非推奨です: <strong>{with}</strong> を代わりに使用してください</string>
   <string name="deprecated_tag">タグは非推奨です</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">ダウンロード数</string>
   <string name="edit">編集</string>
   <string name="email">メールアドレス</string>
@@ -848,6 +849,7 @@
   <string name="form">フォーム</string>
   <string name="forms">フォーム</string>
   <string name="go">実行</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">コンテントへ</string>
   <string name="go_nav">ナビゲーションへ</string>
   <string name="go_search">検索へ</string>
@@ -904,6 +906,7 @@
   <string name="older">旧着</string>
   <string name="on">有効</string>
   <string name="only_articles_can_be_previewed">注意：記事のフォームのみプレビューできます</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">ページ</string>
   <string name="pages">ページ</string>
   <string name="paragraph">段落</string>

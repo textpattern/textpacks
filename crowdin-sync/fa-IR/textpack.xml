@@ -827,6 +827,7 @@
   <string name="deprecated_function">تابع <strong>{name}</strong> نامناسب است</string>
   <string name="deprecated_function_with">تابع <strong>{name}</strong> نامناسب است : به جای آن از <strong>{with}</strong> استفاده کنید</string>
   <string name="deprecated_tag">تگ نامناسب است</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">شمارنده دانلود</string>
   <string name="edit">ویرایش</string>
   <string name="email">ایمیل</string>
@@ -848,6 +849,7 @@
   <string name="form">فرم</string>
   <string name="forms">فرم‌ها</string>
   <string name="go">برو</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">برو به محتوا</string>
   <string name="go_nav">برو به پیمایشگر</string>
   <string name="go_search">برو به جستجو</string>
@@ -904,6 +906,7 @@
   <string name="older">قدیمی‌تر</string>
   <string name="on">روشن</string>
   <string name="only_articles_can_be_previewed">توجه : تنها فرم‌های مربوط به نوشته‌ها می‌توانند پیش‌نمایش داده شوند.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">صفحه</string>
   <string name="pages">صفحات</string>
   <string name="paragraph">پاراگراف</string>
