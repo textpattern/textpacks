@@ -849,6 +849,7 @@
   <string name="form">Шаблон</string>
   <string name="forms">Шаблони</string>
   <string name="go">Перейти</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Перейти до змісту</string>
   <string name="go_nav">Перейти до навігації</string>
   <string name="go_search">Перейти до пошуку</string>
