@@ -827,6 +827,7 @@
   <string name="deprecated_function">功能 <strong>{name}</strong> 已经不推荐使用</string>
   <string name="deprecated_function_with">功能 <strong>{name}</strong> 已经不推荐使用，请使用 <strong>{with}</strong> 代替</string>
   <string name="deprecated_tag">此标签已经不推荐使用</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">下载计数</string>
   <string name="edit">编辑</string>
   <string name="email">E-mail</string>
