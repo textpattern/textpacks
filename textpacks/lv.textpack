@@ -844,6 +844,7 @@ deprecated_configuration => Novecojusi konfigurācijas iespēja: <strong>{name}<
 deprecated_function => funkcija <strong>{name}</strong> ir novecojusi.
 deprecated_function_with => Funkcija <strong>{name}</strong> ir novecojusi: tā vietā izmantojiet <strong>{with}</strong>.
 deprecated_tag => iezīme ir novecojusi
+documentation =>
 download_count => Lejupielāžu skaits
 edit => Labot
 email => E-pasts

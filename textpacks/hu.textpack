@@ -844,6 +844,7 @@ deprecated_configuration =>
 deprecated_function =>
 deprecated_function_with =>
 deprecated_tag => a címke érvénytelenítve
+documentation =>
 download_count =>
 edit => szerkeszt
 email => Email

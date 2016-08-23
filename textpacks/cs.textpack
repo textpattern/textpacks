@@ -844,6 +844,7 @@ deprecated_configuration => Odmítnutá volba nastavení: <strong>{name}</strong
 deprecated_function => Funkce <strong>{name}</strong> je zastaralá.
 deprecated_function_with => Funkce <strong>{name}</strong> je zastaralá: použij místo ní <strong>{with}</strong>.
 deprecated_tag => značka je zastaralá
+documentation =>
 download_count => Počet stažení
 edit => Upravit
 email => Email

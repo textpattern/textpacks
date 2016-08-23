@@ -844,6 +844,7 @@ deprecated_configuration => Veraltete Konfigurationsoption: <strong>{name}</stro
 deprecated_function => Veraltete Funktion <strong>{name}</strong>.
 deprecated_function_with => Veraltete Funktion <strong>{name}</strong>. Verwende <strong>{with}</strong> als Ersatz.
 deprecated_tag => Veraltetes Tag
+documentation =>
 download_count => Download-Zähler
 edit => Bearbeiten
 email => E-Mail

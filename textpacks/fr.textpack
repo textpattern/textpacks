@@ -844,6 +844,7 @@ deprecated_configuration => Option de configuration dépréciée : <strong>{nam
 deprecated_function => La fonction <strong>{name}</strong> est obsolète.
 deprecated_function_with => La fonction <strong>{name}</strong> est obsolète : utilisez <strong>{with}</strong> à sa place.
 deprecated_tag => Balise obsolète
+documentation =>
 download_count => Décompte des téléchargements
 edit => Éditer
 email => Adresse email

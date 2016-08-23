@@ -844,6 +844,7 @@ deprecated_configuration => Niewspierana opcja konfiguracyjna: <strong>{name}</s
 deprecated_function => Funkcja <strong>{name}</strong> nie jest już wspierana.
 deprecated_function_with => Funkcja <strong>{name}</strong> nie jest już wspierana, użyj <strong>{with}</strong>.
 deprecated_tag => znacznik nie zalecany
+documentation =>
 download_count => Licznik pobrań
 edit => Edytuj
 email => Email

@@ -844,6 +844,7 @@ deprecated_configuration => 不建议使用的配置选项：<strong>{name}</str
 deprecated_function => 功能 <strong>{name}</strong> 已经不推荐使用
 deprecated_function_with => 功能 <strong>{name}</strong> 已经不推荐使用，请使用 <strong>{with}</strong> 代替
 deprecated_tag => 此标签已经不推荐使用
+documentation =>
 download_count => 下载计数
 edit => 编辑
 email => E-mail

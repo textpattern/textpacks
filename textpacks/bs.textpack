@@ -844,6 +844,7 @@ deprecated_configuration =>
 deprecated_function =>
 deprecated_function_with =>
 deprecated_tag => oznaka(tag) je neodobrena
+documentation =>
 download_count =>
 edit => Ispravke
 email => E-pošta

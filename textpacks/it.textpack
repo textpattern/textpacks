@@ -844,6 +844,7 @@ deprecated_configuration => Opzione configurazione deprecata: <strong>{name}</st
 deprecated_function => La funzione <strong>{name}</strong> è deprecata.
 deprecated_function_with => La funzione <strong>{name}</strong> è deprecata: al suo posto usa <strong>{with}</strong>.
 deprecated_tag => il tag è deprecato
+documentation =>
 download_count => Conteggio download
 edit => Modifica
 email => E-mail

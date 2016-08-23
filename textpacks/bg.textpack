@@ -844,6 +844,7 @@ deprecated_configuration => Остаряла конфигурационна оп
 deprecated_function => Функцията <strong>{name}</strong> е остаряла
 deprecated_function_with => Функцията <strong>{name}</strong> е остаряла: ползвайте <strong>{with}</strong> вместо нея.
 deprecated_tag => Осарял таг
+documentation =>
 download_count => Брой сваляния
 edit => Редактирай
 email => Електронна поща

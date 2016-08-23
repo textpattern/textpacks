@@ -844,6 +844,7 @@ deprecated_configuration =>
 deprecated_function => Funktionen <strong>{name}</strong> bruges ikke længere.
 deprecated_function_with => Funktionen <strong>{name}</strong> bruges ikke længere: brug <strong>{with}</strong> i stedet.
 deprecated_tag => tag bruges ikke længere
+documentation =>
 download_count =>
 edit => Redigér
 email => Email

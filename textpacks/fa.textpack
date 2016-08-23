@@ -844,6 +844,7 @@ deprecated_configuration => انتخاب تنظیم توصیه شده : <strong>
 deprecated_function => تابع <strong>{name}</strong> نامناسب است
 deprecated_function_with => تابع <strong>{name}</strong> نامناسب است : به جای آن از <strong>{with}</strong> استفاده کنید
 deprecated_tag => تگ نامناسب است
+documentation =>
 download_count => شمارنده دانلود
 edit => ویرایش
 email => ایمیل

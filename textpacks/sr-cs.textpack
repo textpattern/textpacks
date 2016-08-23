@@ -844,6 +844,7 @@ deprecated_configuration =>
 deprecated_function =>
 deprecated_function_with =>
 deprecated_tag => tag is deprecated
+documentation =>
 download_count =>
 edit => Измени
 email => E-mail

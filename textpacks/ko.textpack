@@ -844,6 +844,7 @@ deprecated_configuration =>
 deprecated_function => 기능 <strong>{name}</strong> 은 더이상 쓸 수 없습니다.
 deprecated_function_with => 기능 <strong>{name}</strong> 은 더이상 쓸 수 없습니다. 대신 <strong>{with}</strong> 를 사용해봅니다.
 deprecated_tag => 태그는 더이상 쓸 수 없습니다.
+documentation =>
 download_count =>
 edit => 편집
 email => 전자우편

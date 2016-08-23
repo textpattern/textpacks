@@ -844,6 +844,7 @@ deprecated_configuration =>
 deprecated_function =>
 deprecated_function_with =>
 deprecated_tag => แท็กนี้จะเลิกใช้ในอนาคต
+documentation =>
 download_count =>
 edit => แก้ไข
 email => อีเมล์

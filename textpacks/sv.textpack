@@ -844,6 +844,7 @@ deprecated_configuration => Föråldrat konfigurations-tillval: <strong>{name}</
 deprecated_function => Funktionen <strong>{name}</strong> används inte längre
 deprecated_function_with => Funktionen <strong>{name}</strong> används inte längre, använd <strong>{with}</strong> istället
 deprecated_tag => taggen är ogiltlig
+documentation =>
 download_count => Nedladdningsräknare
 edit => Redigera
 email => E-post

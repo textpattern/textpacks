@@ -844,6 +844,7 @@ deprecated_configuration => Verouderde configuratie-optie: <strong>{name}</stron
 deprecated_function => Functie <strong>{name}</strong> is verouderd en wordt afgeraden.
 deprecated_function_with => Functie <strong>{name}</strong> is verouderd en wordt afgeraden: gebruik <strong>{with}</strong> in plaats hiervan.
 deprecated_tag => verouderde tag, gebruik wordt afgeraden
+documentation =>
 download_count => Aantal downloads
 edit => Wijzigen
 email => Email

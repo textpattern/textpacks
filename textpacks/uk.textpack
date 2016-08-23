@@ -844,6 +844,7 @@ deprecated_configuration => Застарілі опції конфігураці
 deprecated_function => функція <strong>{name}</strong> застаріла.
 deprecated_function_with => функція <strong>{name}</strong> застаріла: використовуйте замість неї <strong>{with}</strong>.
 deprecated_tag => тег є застарілим
+documentation =>
 download_count => Лічильник завантажень
 edit => Редагувати
 email => Email

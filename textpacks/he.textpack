@@ -844,6 +844,7 @@ deprecated_configuration =>
 deprecated_function => הפונקציה <strong>{name}</strong> מועמדת לביטול.
 deprecated_function_with => הפונקציה <strong>{name}</strong> מועמדת לביטול: התשמש בפונקציה <strong>{with}</strong> במקומה.
 deprecated_tag => התג מועמד לביטול
+documentation =>
 download_count => מספר הורדות
 edit => ערוך
 email => דואל

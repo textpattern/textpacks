@@ -844,6 +844,7 @@ deprecated_configuration => Устаревшая опция конфигурац
 deprecated_function => функция <strong>{name}</strong> устарела.
 deprecated_function_with => функция <strong>{name}</strong> устарела: используйте вместо нее <strong>{with}</strong>.
 deprecated_tag => тег является устаревшим
+documentation =>
 download_count => Счетчик загрузок
 edit => Редактировать
 email => Email
