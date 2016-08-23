@@ -904,6 +904,7 @@
   <string name="older">Eldre</string>
   <string name="on">På</string>
   <string name="only_articles_can_be_previewed">NB: kun artikkelskjemaer kan forhåndsvises.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Side</string>
   <string name="pages">Sider</string>
   <string name="paragraph">avsnitt</string>
