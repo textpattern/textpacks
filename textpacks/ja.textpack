@@ -921,6 +921,7 @@ off => 無効
 older => 旧着
 on => 有効
 only_articles_can_be_previewed => 注意：記事のフォームのみプレビューできます
+opens_external_link =>
 page => ページ
 pages => ページ
 paragraph => 段落

@@ -921,6 +921,7 @@ off => 끔
 older => 예전글
 on => 켬
 only_articles_can_be_previewed => 주의: 오직 게시물 폼만 미리보기할 수 있습니다.
+opens_external_link =>
 page => 페이지
 pages => 페이지
 paragraph => 단락

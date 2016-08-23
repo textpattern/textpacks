@@ -921,6 +921,7 @@ off => Off
 older => Older
 on => On
 only_articles_can_be_previewed => <strong>Note:</strong> only article forms can be previewed.
+opens_external_link =>
 page => Page
 pages => Pages
 paragraph => paragraph

@@ -921,6 +921,7 @@ off => No
 older => Anteriores
 on => Sí
 only_articles_can_be_previewed => <strong>Nota:</strong> sólo se pueden previsualizar los bloques de artículo.
+opens_external_link =>
 page => Página
 pages => Páginas
 paragraph => párrafo

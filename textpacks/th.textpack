@@ -921,6 +921,7 @@ off => ปิด
 older => เก่ากว่า
 on => เปิด
 only_articles_can_be_previewed => หมายเหตุ: แสดงตัวอย่างได้เฉพาะฟอร์มบทความเท่านั้น
+opens_external_link =>
 page => หน้า
 pages => หน้า
 paragraph => ย่อหน้า

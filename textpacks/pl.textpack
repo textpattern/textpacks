@@ -921,6 +921,7 @@ off => Wyłączać
 older => Starsze
 on => Włączać
 only_articles_can_be_previewed => <strong>Uwaga:</strong> tylko formy artykułów mogą być podglądane.
+opens_external_link =>
 page => Strona
 pages => Strony
 paragraph => paragraf

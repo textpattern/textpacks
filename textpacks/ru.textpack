@@ -921,6 +921,7 @@ off => Выкл.
 older => Старые
 on => Вкл.
 only_articles_can_be_previewed => <strong>Внимание:</strong> только формы статьи могут быть предпросмотрены.
+opens_external_link =>
 page => Страница
 pages => Страницы
 paragraph => параграф

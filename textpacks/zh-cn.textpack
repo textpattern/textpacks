@@ -921,6 +921,7 @@ off => 关闭
 older => 较早的
 on => 开启
 only_articles_can_be_previewed => 注意：只能预览文章模块。
+opens_external_link =>
 page => 页面
 pages => 页面
 paragraph => 段落

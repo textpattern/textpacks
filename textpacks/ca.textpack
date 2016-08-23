@@ -921,6 +921,7 @@ off => no
 older => més antic
 on => si
 only_articles_can_be_previewed => <strong>Nota:</strong> només es poden previsualitzar els formularis d’article.
+opens_external_link =>
 page => Pàgina
 pages => Pàgines
 paragraph => paràgraf

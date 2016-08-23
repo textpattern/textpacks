@@ -921,6 +921,7 @@ off => مبطل التفعيل
 older =>
 on =>
 only_articles_can_be_previewed => يمكن استعراض أجزاء فقط من المقال
+opens_external_link =>
 page => صفحة
 pages =>
 paragraph => فقرة

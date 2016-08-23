@@ -921,6 +921,7 @@ off => 關閉
 older => 舊的
 on => 開啟
 only_articles_can_be_previewed => 注意：只能預覽文章模型
+opens_external_link =>
 page => 頁面
 pages => 頁面
 paragraph => 段落
