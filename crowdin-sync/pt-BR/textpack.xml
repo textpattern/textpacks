@@ -827,6 +827,7 @@
   <string name="deprecated_function">Função <strong>{name}</strong> esta depreciada.</string>
   <string name="deprecated_function_with">Função <strong>{name}</strong> esta depreciada: use <strong>{with}</strong> estanciado.</string>
   <string name="deprecated_tag">\"tag\" esta depreciada.</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">contagem de transferências</string>
   <string name="edit">Editar</string>
   <string name="email">Email</string>
