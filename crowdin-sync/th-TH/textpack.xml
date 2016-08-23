@@ -849,6 +849,7 @@
   <string name="form">ฟอร์ม</string>
   <string name="forms">ฟอร์ม</string>
   <string name="go">ไป</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">ไปที่เนื้อหา</string>
   <string name="go_nav">ไปส่วนนำทาง</string>
   <string name="go_search">ไปค้นหา</string>
