@@ -827,6 +827,7 @@
   <string name="deprecated_function">הפונקציה <strong>{name}</strong> מועמדת לביטול.</string>
   <string name="deprecated_function_with">הפונקציה <strong>{name}</strong> מועמדת לביטול: התשמש בפונקציה <strong>{with}</strong> במקומה.</string>
   <string name="deprecated_tag">התג מועמד לביטול</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">מספר הורדות</string>
   <string name="edit">ערוך</string>
   <string name="email">דואל</string>
