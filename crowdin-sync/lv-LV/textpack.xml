@@ -827,6 +827,7 @@
   <string name="deprecated_function">funkcija <strong>{name}</strong> ir novecojusi.</string>
   <string name="deprecated_function_with">Funkcija <strong>{name}</strong> ir novecojusi: tā vietā izmantojiet <strong>{with}</strong>.</string>
   <string name="deprecated_tag">iezīme ir novecojusi</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Lejupielāžu skaits</string>
   <string name="edit">Labot</string>
   <string name="email">E-pasts</string>
