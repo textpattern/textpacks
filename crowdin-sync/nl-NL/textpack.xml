@@ -827,6 +827,7 @@
   <string name="deprecated_function">Functie <strong>{name}</strong> is verouderd en wordt afgeraden.</string>
   <string name="deprecated_function_with">Functie <strong>{name}</strong> is verouderd en wordt afgeraden: gebruik <strong>{with}</strong> in plaats hiervan.</string>
   <string name="deprecated_tag">verouderde tag, gebruik wordt afgeraden</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Aantal downloads</string>
   <string name="edit">Wijzigen</string>
   <string name="email">E-mail</string>
