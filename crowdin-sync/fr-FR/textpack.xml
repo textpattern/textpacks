@@ -849,6 +849,7 @@
   <string name="form">Module</string>
   <string name="forms">Modules</string>
   <string name="go">Appliquer</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Aller au contenu</string>
   <string name="go_nav">Aller à la navigation</string>
   <string name="go_search">Aller à la recherche</string>
