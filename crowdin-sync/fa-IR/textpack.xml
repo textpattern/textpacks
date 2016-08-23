@@ -827,6 +827,7 @@
   <string name="deprecated_function">تابع <strong>{name}</strong> نامناسب است</string>
   <string name="deprecated_function_with">تابع <strong>{name}</strong> نامناسب است : به جای آن از <strong>{with}</strong> استفاده کنید</string>
   <string name="deprecated_tag">تگ نامناسب است</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">شمارنده دانلود</string>
   <string name="edit">ویرایش</string>
   <string name="email">ایمیل</string>
