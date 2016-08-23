@@ -827,6 +827,7 @@
   <string name="deprecated_function">Funkcia <strong>{name}</strong> je zastaraná.</string>
   <string name="deprecated_function_with">Funkcia <strong>{name}</strong> je zastaraná: použi namiesto nej <strong>{with}</strong>.</string>
   <string name="deprecated_tag">nepodporovaný tag</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Počet stiahnutí</string>
   <string name="edit">Upraviť</string>
   <string name="email">E-mail</string>
