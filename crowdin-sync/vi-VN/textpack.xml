@@ -827,6 +827,7 @@
   <string name="deprecated_function">Hàm <strong>{name}</strong> đã lỗi thời.</string>
   <string name="deprecated_function_with">Hàm <strong>{name}</strong> đã lỗi thời: dùng <strong>{with}</strong> để thay thế.</string>
   <string name="deprecated_tag">thẻ đã lạc hậu</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Số lượt tải</string>
   <string name="edit">Sửa</string>
   <string name="email">Thư điện tử</string>
