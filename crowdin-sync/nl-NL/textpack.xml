@@ -704,7 +704,7 @@
   <string name="messy">\?=rommelig</string>
   <string name="never_display_email">Emailadressen altijd verbergen?</string>
   <string name="new_textpattern_version_available">Er is een nieuwe versie van Textpattern beschikbaar. Wil je deze proberen?</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Geen voorkeuren beschikbaar.</string>
   <string name="no_popup">huidig window</string>
   <string name="override_emailcharset">ISO-8859-1 gebruiken voor email? (standaard is UTF-8)?</string>
   <string name="path_from_root">Submap (indien van toepassing)</string>
