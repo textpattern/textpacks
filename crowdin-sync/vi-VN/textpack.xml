@@ -849,6 +849,7 @@
   <string name="form">Mẫu đơn</string>
   <string name="forms">Mẫu đơn</string>
   <string name="go">Tiếp</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Chuyển tới phần nội dung</string>
   <string name="go_nav">Chuyển tới phần điều hướng</string>
   <string name="go_search">Chuyển tới phần tìm kiếm</string>
