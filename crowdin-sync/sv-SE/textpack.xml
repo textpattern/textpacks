@@ -904,6 +904,7 @@
   <string name="older">Äldre</string>
   <string name="on">På</string>
   <string name="only_articles_can_be_previewed">OBS: Bara artikelsiddelar kan förhandsvisas.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Sida</string>
   <string name="pages">Sidor</string>
   <string name="paragraph">stycke</string>
