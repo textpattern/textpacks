@@ -849,6 +849,7 @@
   <string name="form">フォーム</string>
   <string name="forms">フォーム</string>
   <string name="go">実行</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">コンテントへ</string>
   <string name="go_nav">ナビゲーションへ</string>
   <string name="go_search">検索へ</string>
