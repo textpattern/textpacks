@@ -904,6 +904,7 @@
   <string name="older">Anteriores</string>
   <string name="on">Sí</string>
   <string name="only_articles_can_be_previewed"><strong>Nota:</strong> sólo se pueden previsualizar los bloques de artículo.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Página</string>
   <string name="pages">Páginas</string>
   <string name="paragraph">párrafo</string>
