@@ -827,6 +827,7 @@
   <string name="deprecated_function">A função <strong>{name}</strong> está obsoleta.</string>
   <string name="deprecated_function_with">A função <strong>{name}</strong> está obsoleta: use antes <strong>{with}</strong></string>
   <string name="deprecated_tag">Etiqueta em desuso</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Contagem de descarga</string>
   <string name="edit">Editar</string>
   <string name="email">Email</string>
