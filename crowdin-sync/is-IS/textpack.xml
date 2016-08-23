@@ -904,6 +904,7 @@
   <string name="older">eldri</string>
   <string name="on">Á</string>
   <string name="only_articles_can_be_previewed"><strong>NB:</strong> aðeins greina snið geta verið forskoðuð.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Síða</string>
   <string name="pages">Síður</string>
   <string name="paragraph">málsgrein</string>
