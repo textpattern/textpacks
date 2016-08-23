@@ -904,6 +904,7 @@
   <string name="older">Ouder</string>
   <string name="on">Aan</string>
   <string name="only_articles_can_be_previewed"><strong>NB:</strong> alleen van artikelmodules kan een voorbeeld getoond worden.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Pagina</string>
   <string name="pages">Pagina’s</string>
   <string name="paragraph">alinea</string>
