@@ -849,6 +849,7 @@
   <string name="form">Vorm</string>
   <string name="forms">Vormid</string>
   <string name="go">Mine</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Go to content</string>
   <string name="go_nav">Go to navigation</string>
   <string name="go_search">Go to search</string>
