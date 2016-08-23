@@ -849,6 +849,7 @@
   <string name="form">Baustein</string>
   <string name="forms">Bausteine</string>
   <string name="go">Los</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Gehe zum Inhalt</string>
   <string name="go_nav">Gehe zur Navigation</string>
   <string name="go_search">Gehe zur Suche</string>
