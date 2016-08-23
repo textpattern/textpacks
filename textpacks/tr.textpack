@@ -866,6 +866,7 @@ forget => Unut
 form => Form
 forms => Formlar
 go => Gir
+go_back =>
 go_content => İçeriğe git
 go_nav => Menüye git
 go_search => Aramaya git

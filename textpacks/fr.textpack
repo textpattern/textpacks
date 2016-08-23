@@ -866,6 +866,7 @@ forget => Effacer les informations mémorisées
 form => Module
 forms => Modules
 go => Appliquer
+go_back =>
 go_content => Aller au contenu
 go_nav => Aller à la navigation
 go_search => Aller à la recherche

@@ -866,6 +866,7 @@ forget => Glöm
 form => Siddel
 forms => Siddelar
 go => Starta
+go_back =>
 go_content => Hoppa till innehåll
 go_nav => Hoppa till navigering
 go_search => Hoppa till sökrutan

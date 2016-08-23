@@ -866,6 +866,7 @@ forget => Glem
 form => Skjema
 forms => Skjemaer
 go => Gå
+go_back =>
 go_content =>
 go_nav =>
 go_search =>

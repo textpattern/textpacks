@@ -866,6 +866,7 @@ forget => 내 정보 기억하지 않음
 form => 폼
 forms => 폼
 go => 실행
+go_back =>
 go_content => 글로 가기
 go_nav => 네이게이션으로 가기
 go_search => 검색으로 가기

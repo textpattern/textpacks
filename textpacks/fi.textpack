@@ -866,6 +866,7 @@ forget => Unohda
 form => Lomake
 forms => Lomakkeet
 go => Siirry
+go_back =>
 go_content => Siirry sisältöön
 go_nav => Siirry navigaatioon
 go_search => Siirry hakuun

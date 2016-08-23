@@ -866,6 +866,7 @@ forget => Zaboravi
 form => Forma
 forms => Forme
 go => Traži
+go_back =>
 go_content => Idi na sadržaj
 go_nav => Idi na navigaciju
 go_search => Idi na pretraživanje

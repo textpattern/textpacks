@@ -866,6 +866,7 @@ forget => Pamiršti
 form => Forma
 forms => Formos
 go => Eiti
+go_back =>
 go_content => Grįžti į turinį
 go_nav => Pereiti prie navigacijos
 go_search => Grįžti į paiešką

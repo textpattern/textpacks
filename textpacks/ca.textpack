@@ -866,6 +866,7 @@ forget => Oblida
 form => Formulari
 forms => Formularis
 go => Ves-hi
+go_back =>
 go_content => Ves al contingut
 go_nav => Ves a la navegació
 go_search => Ves a la cerca

@@ -866,6 +866,7 @@ forget => Esquecer
 form => Módulo
 forms => Módulos
 go => ok
+go_back =>
 go_content => Ir para o conteúdo
 go_nav => Ir para a navegação
 go_search => Ir para a pesquisa

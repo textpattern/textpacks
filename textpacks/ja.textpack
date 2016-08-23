@@ -866,6 +866,7 @@ forget =>
 form => フォーム
 forms => フォーム
 go => 実行
+go_back =>
 go_content => コンテントへ
 go_nav => ナビゲーションへ
 go_search => 検索へ

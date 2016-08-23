@@ -866,6 +866,7 @@ forget => Vergessen
 form => Baustein
 forms => Bausteine
 go => Los
+go_back =>
 go_content => Gehe zum Inhalt
 go_nav => Gehe zur Navigation
 go_search => Gehe zur Suche

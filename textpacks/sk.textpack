@@ -866,6 +866,7 @@ forget => Nezapamätať si údaje
 form => Šablóna
 forms => Šablóny
 go => OK
+go_back =>
 go_content => Prejsť na obsah
 go_nav => Prejsť na navigáciu
 go_search => Prejsť na vyhľadávanie

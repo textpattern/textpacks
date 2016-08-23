@@ -866,6 +866,7 @@ forget => Забыть
 form => Форма
 forms => Формы
 go => Перейти
+go_back =>
 go_content => К содержанию
 go_nav => К навигации
 go_search => К поиску

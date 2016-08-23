@@ -866,6 +866,7 @@ forget => 忘记
 form => 模块
 forms => 模块
 go => 搜索
+go_back =>
 go_content => 跳到内容
 go_nav => 跳到导航
 go_search => 跳到搜索

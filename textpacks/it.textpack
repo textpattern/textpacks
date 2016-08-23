@@ -866,6 +866,7 @@ forget => Dimentica i dati
 form => Modulo
 forms => Moduli
 go => Vai
+go_back =>
 go_content => Vai a contenuto
 go_nav => Vai a navigazione
 go_search => Vai a ricerca

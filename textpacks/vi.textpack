@@ -866,6 +866,7 @@ forget => Quên đi
 form => Mẫu đơn
 forms => Mẫu đơn
 go => Tiếp
+go_back =>
 go_content => Chuyển tới phần nội dung
 go_nav => Chuyển tới phần điều hướng
 go_search => Chuyển tới phần tìm kiếm

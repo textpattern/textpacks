@@ -866,6 +866,7 @@ forget => Uita
 form => Form
 forms => Forms-uri
 go => du-te
+go_back =>
 go_content => Du-te la continut
 go_nav => Du-te la navigare
 go_search => Du-te la cautare

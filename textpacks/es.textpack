@@ -866,6 +866,7 @@ forget => Olvidar
 form => Bloque
 forms => Bloques
 go => OK
+go_back =>
 go_content => Ir al contenido
 go_nav => Ir a la navegación
 go_search => Ir al buscador

@@ -866,6 +866,7 @@ forget => محو المعلومات المحفوظة
 form => جزء من نظام
 forms => أجزاء من نظام
 go => إثبات
+go_back =>
 go_content =>
 go_nav =>
 go_search =>

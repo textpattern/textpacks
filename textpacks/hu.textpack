@@ -866,6 +866,7 @@ forget => Felejtsd el
 form => Sablon
 forms => Sablonok
 go => Menj
+go_back =>
 go_content => Ugrás a tartalomhoz
 go_nav => Ugrás a navigávióhoz
 go_search => Ugrás a kereséshez

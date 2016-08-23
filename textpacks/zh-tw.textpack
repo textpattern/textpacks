@@ -866,6 +866,7 @@ forget => 不要記憶
 form => 模型
 forms => 模型
 go => go
+go_back =>
 go_content => 前往內容
 go_nav => 前往導覽
 go_search => 前往搜尋

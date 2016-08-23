@@ -866,6 +866,7 @@ forget => Vergeet me
 form => Module
 forms => Modules
 go => OK
+go_back =>
 go_content => Ga naar de inhoud
 go_nav => Ga naar de navigatie
 go_search => Ga naar zoeken
