@@ -827,6 +827,7 @@
   <string name="deprecated_function">Function <strong>{name}</strong> is deprecated.</string>
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">a címke érvénytelenítve</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Download count</string>
   <string name="edit">szerkeszt</string>
   <string name="email">Email</string>
