@@ -904,6 +904,7 @@
   <string name="older">ישן יותר</string>
   <string name="on">מופעל</string>
   <string name="only_articles_can_be_previewed">הערה: רק טפסי מאמרים יכולים להיות מוצגים בתצוגה מקדימה.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">דף</string>
   <string name="pages">דפים</string>
   <string name="paragraph">פיסקה</string>
