@@ -827,6 +827,7 @@
   <string name="deprecated_function">関数 <strong>{name}</strong> は非推奨です</string>
   <string name="deprecated_function_with">関数 <strong>{name}</strong> は非推奨です: <strong>{with}</strong> を代わりに使用してください</string>
   <string name="deprecated_tag">タグは非推奨です</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">ダウンロード数</string>
   <string name="edit">編集</string>
   <string name="email">メールアドレス</string>
