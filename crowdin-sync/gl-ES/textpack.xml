@@ -827,6 +827,7 @@
   <string name="deprecated_function">Desaconséllase a función <strong>{name}</strong></string>
   <string name="deprecated_function_with">Desaconséllase a función <strong>{name}</strong>: usa <strong>{with}</strong> no seu lugar</string>
   <string name="deprecated_tag">a etiqueta está desaconsellada</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Número de descargas realizadas</string>
   <string name="edit">Editar</string>
   <string name="email">Email</string>
