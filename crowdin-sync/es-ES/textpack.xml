@@ -849,6 +849,7 @@
   <string name="form">Bloque</string>
   <string name="forms">Bloques</string>
   <string name="go">OK</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Ir al contenido</string>
   <string name="go_nav">Ir a la navegación</string>
   <string name="go_search">Ir al buscador</string>
