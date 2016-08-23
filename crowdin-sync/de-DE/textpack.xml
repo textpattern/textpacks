@@ -827,6 +827,7 @@
   <string name="deprecated_function">Veraltete Funktion <strong>{name}</strong>.</string>
   <string name="deprecated_function_with">Veraltete Funktion <strong>{name}</strong>. Verwende <strong>{with}</strong> als Ersatz.</string>
   <string name="deprecated_tag">Veraltetes Tag</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Download-Zähler</string>
   <string name="edit">Bearbeiten</string>
   <string name="email">E-Mail</string>
