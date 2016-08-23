@@ -827,6 +827,7 @@
   <string name="deprecated_function">기능 <strong>{name}</strong> 은 더이상 쓸 수 없습니다.</string>
   <string name="deprecated_function_with">기능 <strong>{name}</strong> 은 더이상 쓸 수 없습니다. 대신 <strong>{with}</strong> 를 사용해봅니다.</string>
   <string name="deprecated_tag">태그는 더이상 쓸 수 없습니다.</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Download count</string>
   <string name="edit">편집</string>
   <string name="email">전자우편</string>
