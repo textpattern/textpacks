@@ -827,6 +827,7 @@
   <string name="deprecated_function">Funktionen <strong>{name}</strong> bruges ikke længere.</string>
   <string name="deprecated_function_with">Funktionen <strong>{name}</strong> bruges ikke længere: brug <strong>{with}</strong> i stedet.</string>
   <string name="deprecated_tag">tag bruges ikke længere</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Download count</string>
   <string name="edit">Redigér</string>
   <string name="email">Email</string>
