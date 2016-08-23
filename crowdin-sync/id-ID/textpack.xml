@@ -827,6 +827,7 @@
   <string name="deprecated_function"><strong>{name}</strong> fungsi telah tidak diakui (deprecated).</string>
   <string name="deprecated_function_with"><strong>{name}</strong> fungsi telah tidak diakui (deprecated): gunakan <strong>{with}</strong>.</string>
   <string name="deprecated_tag">tag telah tidak diakui (deprecated)</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Hitungan unduhan</string>
   <string name="edit">Edit</string>
   <string name="email">Email</string>
