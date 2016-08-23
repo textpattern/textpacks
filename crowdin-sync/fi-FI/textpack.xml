@@ -904,6 +904,7 @@
   <string name="older">Vanhemmat</string>
   <string name="on">Päällä</string>
   <string name="only_articles_can_be_previewed"><strong>Huom:</strong> esikatselu toimii vain artikkeli-tyyppisillä lomakkeilla.</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Sivu</string>
   <string name="pages">Sivut</string>
   <string name="paragraph">kappale</string>
