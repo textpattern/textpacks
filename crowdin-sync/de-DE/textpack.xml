@@ -904,6 +904,7 @@
   <string name="older">Älter</string>
   <string name="on">Ein</string>
   <string name="only_articles_can_be_previewed">Anmerkung: Vorschau nur für den Typ article verfügbar</string>
+  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Seite</string>
   <string name="pages">Seiten</string>
   <string name="paragraph">Absatz</string>
