@@ -827,6 +827,7 @@
   <string name="deprecated_function">функція <strong>{name}</strong> застаріла.</string>
   <string name="deprecated_function_with">функція <strong>{name}</strong> застаріла: використовуйте замість неї <strong>{with}</strong>.</string>
   <string name="deprecated_tag">тег є застарілим</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Лічильник завантажень</string>
   <string name="edit">Редагувати</string>
   <string name="email">Email</string>
