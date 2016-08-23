@@ -1176,7 +1176,7 @@
   <string name="tag_comment_web">Reactie: website</string>
   <string name="tag_comment_web_input">Reactie: website invoer</string>
   <string name="tag_css">CSS link (<code>&lt;head&gt;</code>)</string>
-  <string name="tag_email">Email link (spam-resistant)</string>
+  <string name="tag_email">E-mail link (spam resistent)</string>
   <string name="tag_excerpt">Samenvatting</string>
   <string name="tag_feed_link">Artikel feed</string>
   <string name="tag_file_download">Link naar download</string>
