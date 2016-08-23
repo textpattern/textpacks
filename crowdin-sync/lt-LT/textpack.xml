@@ -827,6 +827,7 @@
   <string name="deprecated_function">Funkcija <strong>{name}</strong> yra nenaudotina.</string>
   <string name="deprecated_function_with">Funkcija <strong>{name}</strong> yra pasenusi: naudokite <strong>{with}</strong>.</string>
   <string name="deprecated_tag">žymė yra nenaudotina</string>
+  <string name="documentation">Documentation</string>
   <string name="download_count">Atsiuntimo skaičius</string>
   <string name="edit">Redaguoti</string>
   <string name="email">El. paštas</string>
