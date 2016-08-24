@@ -827,7 +827,7 @@
   <string name="deprecated_function">Se desaconseja la función <strong>{name}</strong>.</string>
   <string name="deprecated_function_with">Se desaconseja la función <strong>{name}</strong>: usa <strong>{with}</strong> en su lugar.</string>
   <string name="deprecated_tag">la etiqueta está desaconsejada</string>
-  <string name="documentation">Documentation</string>
+  <string name="documentation">Documentación</string>
   <string name="download_count">Número de descargas realizadas</string>
   <string name="edit">Editar</string>
   <string name="email">Email</string>
@@ -849,7 +849,7 @@
   <string name="form">Bloque</string>
   <string name="forms">Bloques</string>
   <string name="go">OK</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Ir atrás</string>
   <string name="go_content">Ir al contenido</string>
   <string name="go_nav">Ir a la navegación</string>
   <string name="go_search">Ir al buscador</string>
@@ -906,7 +906,7 @@
   <string name="older">Anteriores</string>
   <string name="on">Sí</string>
   <string name="only_articles_can_be_previewed"><strong>Nota:</strong> sólo se pueden previsualizar los bloques de artículo.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(se abre un enlace externo en una nueva ventana)</string>
   <string name="page">Página</string>
   <string name="pages">Páginas</string>
   <string name="paragraph">párrafo</string>
