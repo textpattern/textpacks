@@ -849,7 +849,7 @@
   <string name="form">Module</string>
   <string name="forms">Modules</string>
   <string name="go">Appliquer</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Retour</string>
   <string name="go_content">Aller au contenu</string>
   <string name="go_nav">Aller à la navigation</string>
   <string name="go_search">Aller à la recherche</string>
@@ -906,7 +906,7 @@
   <string name="older">Plus anciens</string>
   <string name="on">Activés</string>
   <string name="only_articles_can_be_previewed"><strong>Note</strong> : seuls les modules d’article peuvent être prévisualisés.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(ouvre le lien externe dans une nouvelle fenêtre)</string>
   <string name="page">Page</string>
   <string name="pages">Pages</string>
   <string name="paragraph">paragraphe</string>
