@@ -195,7 +195,7 @@
   <string name="changesection">Sectie wijzigen</string>
   <string name="changestatus">Status wijzigen</string>
   <string name="close">Sluiten</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Alles inklappen</string>
   <string name="comment">Reactie</string>
   <string name="comments_expired">Het is niet meer mogelijk op dit artikel te reageren.</string>
   <string name="confirm_delete_popup">Echt verwijderen?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Klad</string>
   <string name="duplicate">Dupliceren</string>
   <string name="excerpt">Samenvatting</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Alles uitklappen</string>
   <string name="expired">Verlopen</string>
   <string name="expire_date">Vervaldatum</string>
   <string name="expire_time">Vervaltijd</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Beste {name},</string>
   <string name="save_new">Opslaan</string>
   <string name="search_all">Alles doorzoeken</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Zoekvraag wissen</string>
   <string name="search_options">Zoekopties</string>
   <string name="showing_search_results">Resultaten {from} tot {to} van {total}</string>
   <string name="site_slogan">Siteslagzin</string>
