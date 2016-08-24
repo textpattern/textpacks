@@ -265,7 +265,7 @@
   <string name="tab_file">Bestanden</string>
   <string name="tab_forms">Modules</string>
   <string name="tab_image">Afbeeldingen</string>
-  <string name="tab_import">Import</string>
+  <string name="tab_import">Importeren</string>
   <string name="tab_languages">Talen</string>
   <string name="tab_link">Links</string>
   <string name="tab_list">Artikelen</string>
@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">‘Nette’ URLs werken alleen met Apache, gebruik hier is op eigen risico.</string>
   <string name="clean_url_data_failed">‘Schone URL’ weergave is niet mogelijk</string>
   <string name="clean_url_test_failed">De test voor schone URLs is niet goed doorstaan.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Tijdzone van de database</string>
+  <string name="db_server_time">Tijdzone van de server</string>
+  <string name="db_server_timeoffset">Verschil met de tijdzone van de database</string>
+  <string name="db_session_timezone">Tijdzone van de database sessie</string>
   <string name="detail">Detail</string>
   <string name="dev_version_live">Je gebruikt bestanden die nog ‘in ontwikkeling’ zijn op een ‘live’ server.</string>
   <string name="diagnostic_info">Diagnostische info</string>
@@ -410,7 +410,7 @@
   <string name="txp_path">Pad naar textpattern</string>
   <string name="txp_version">Textpattern versie</string>
   <string name="warn_register_globals_or_update">De PHP versie die je gebruikt kan een veiligheids risico veroorzaken. Zet <code>register_globals</code> uit of gebruik een nieuwere versie van PHP.</string>
-  <string name="web_domain">Site URL</string>
+  <string name="web_domain">URL van de site</string>
   <string name="article_deleted">Artikel verwijderd.</string>
   <string name="ban">Blokkeren</string>
   <string name="banned_for">Geblokkeerd voor</string>
@@ -827,7 +827,7 @@
   <string name="deprecated_function">Functie <strong>{name}</strong> is verouderd en wordt afgeraden.</string>
   <string name="deprecated_function_with">Functie <strong>{name}</strong> is verouderd en wordt afgeraden: gebruik <strong>{with}</strong> in plaats hiervan.</string>
   <string name="deprecated_tag">verouderde tag, gebruik wordt afgeraden</string>
-  <string name="documentation">Documentation</string>
+  <string name="documentation">Documentatie</string>
   <string name="download_count">Aantal downloads</string>
   <string name="edit">Wijzigen</string>
   <string name="email">E-mail</string>
@@ -849,7 +849,7 @@
   <string name="form">Module</string>
   <string name="forms">Modules</string>
   <string name="go">OK</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Terug</string>
   <string name="go_content">Ga naar de inhoud</string>
   <string name="go_nav">Ga naar de navigatie</string>
   <string name="go_search">Ga naar zoeken</string>
@@ -906,7 +906,7 @@
   <string name="older">Ouder</string>
   <string name="on">Aan</string>
   <string name="only_articles_can_be_previewed"><strong>NB:</strong> alleen van artikelmodules kan een voorbeeld getoond worden.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(er opent een externe link in een nieuw venster)</string>
   <string name="page">Pagina</string>
   <string name="pages">Pagina’s</string>
   <string name="paragraph">alinea</string>
