@@ -38,8 +38,8 @@
   <string name="new_email">Nový email</string>
   <string name="new_password">Nové heslo</string>
   <string name="password_changed">Heslo změněno.</string>
-  <string name="password_changed_mailed">Heslo změněno na odesláno na <strong>{email}</strong>.</string>
-  <string name="password_change_confirmation">Tvoje heslo bylo změněno. Jestliže jsi o změnu hesla nežádal, kontraktuj administrátora.</string>
+  <string name="password_changed_mailed">Heslo bylo změněno a odesláno na <strong>{email}</strong>.</string>
+  <string name="password_change_confirmation">Tvoje heslo bylo změněno. Jestliže jsi o změnu hesla nežádal, kontaktuj administrátora.</string>
   <string name="password_confirm_button">Nastavit heslo</string>
   <string name="password_forgotten">Zapomenuté heslo?</string>
   <string name="password_invalid">Toto heslo není správné.</string>
@@ -490,7 +490,7 @@
   <string name="forms_deleted">Formy odstraněny: <strong>{list}</strong>.</string>
   <string name="form_already_exists">Forma <strong>{name}</strong> již existuje.</string>
   <string name="form_clone">Duplikovat formu</string>
-  <string name="form_code">Kód formuláře</string>
+  <string name="form_code">Kód formy</string>
   <string name="form_created">Forma <strong>{name}</strong> vytvořena.</string>
   <string name="form_name">Název (povinný)</string>
   <string name="form_name_invalid">Neplatný název formy.</string>
@@ -582,7 +582,7 @@
   <string name="page_already_exists">Strana <strong>{name}</strong> již existuje.</string>
   <string name="page_article_hed">Výpis článků</string>
   <string name="page_article_nav_hed">Navigace pro články</string>
-  <string name="page_code">Stránka kód</string>
+  <string name="page_code">Kód stránky</string>
   <string name="page_created">Stránka <strong>{name}</strong> vytvořena.</string>
   <string name="page_deleted">Stránka <strong>{name}</strong> odstraněna.</string>
   <string name="page_misc_hed">Různé</string>
@@ -827,7 +827,7 @@
   <string name="deprecated_function">Funkce <strong>{name}</strong> je zastaralá.</string>
   <string name="deprecated_function_with">Funkce <strong>{name}</strong> je zastaralá: použij místo ní <strong>{with}</strong>.</string>
   <string name="deprecated_tag">značka je zastaralá</string>
-  <string name="documentation">Documentation</string>
+  <string name="documentation">Dokumentace</string>
   <string name="download_count">Počet stažení</string>
   <string name="edit">Upravit</string>
   <string name="email">Email</string>
@@ -849,7 +849,7 @@
   <string name="form">Forma</string>
   <string name="forms">Formy</string>
   <string name="go">OK</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Zpět</string>
   <string name="go_content">Přejít na obsah</string>
   <string name="go_nav">Přejít na navigaci</string>
   <string name="go_search">Přejít na hledání</string>
@@ -906,7 +906,7 @@
   <string name="older">Starší</string>
   <string name="on">Zapnuto</string>
   <string name="only_articles_can_be_previewed">Náhled je možný jen pro formy článků.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(otevře se externí odkaz v novém okně)</string>
   <string name="page">Stránka</string>
   <string name="pages">Stránky</string>
   <string name="paragraph">odstavec</string>
