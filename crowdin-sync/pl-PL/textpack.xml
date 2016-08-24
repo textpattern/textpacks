@@ -195,7 +195,7 @@
   <string name="changesection">Zmień sekcję</string>
   <string name="changestatus">Zmień status</string>
   <string name="close">Domknąć</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Zwiń wszystkie</string>
   <string name="comment">Komentarz</string>
   <string name="comments_expired">Nie można już komentować tego artykułu.</string>
   <string name="confirm_delete_popup">Czy na pewno chcesz usunąć?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Wersja robocza</string>
   <string name="duplicate">Duplikat</string>
   <string name="excerpt">Zajawka</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Rozwiń wszystkie</string>
   <string name="expired">Wygasł</string>
   <string name="expire_date">Data wygaśnięcia</string>
   <string name="expire_time">Czas wygaśnięcia</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Witaj {name},</string>
   <string name="save_new">Zapisz</string>
   <string name="search_all">Przeszukaj wszystko</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Wyczyść wyszukiwanie</string>
   <string name="search_options">Opcje wyszukiwania</string>
   <string name="showing_search_results">Pozycje od {from} do {to} z {total}</string>
   <string name="site_slogan">Motto witryny</string>
@@ -279,7 +279,7 @@
   <string name="tab_site_admin">Użytkownicy</string>
   <string name="tab_skins">Tematy</string>
   <string name="tab_start">Strona główna</string>
-  <string name="tab_style">Styles</string>
+  <string name="tab_style">Style</string>
   <string name="tab_view_site">Pokaż witrynę</string>
   <string name="tab_write">Redaguj</string>
   <string name="thumbnail">Miniaturka</string>
