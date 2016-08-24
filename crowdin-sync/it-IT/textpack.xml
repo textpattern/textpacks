@@ -827,7 +827,7 @@
   <string name="deprecated_function">La funzione <strong>{name}</strong> è deprecata.</string>
   <string name="deprecated_function_with">La funzione <strong>{name}</strong> è deprecata: al suo posto usa <strong>{with}</strong>.</string>
   <string name="deprecated_tag">il tag è deprecato</string>
-  <string name="documentation">Documentation</string>
+  <string name="documentation">Documentazione</string>
   <string name="download_count">Conteggio download</string>
   <string name="edit">Modifica</string>
   <string name="email">E-mail</string>
@@ -849,7 +849,7 @@
   <string name="form">Modulo</string>
   <string name="forms">Moduli</string>
   <string name="go">Vai</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Indietro</string>
   <string name="go_content">Vai a contenuto</string>
   <string name="go_nav">Vai a navigazione</string>
   <string name="go_search">Vai a ricerca</string>
@@ -906,7 +906,7 @@
   <string name="older">I più vecchi</string>
   <string name="on">Acceso</string>
   <string name="only_articles_can_be_previewed"><strong>Nota:</strong> anteprima disponibile solo per moduli di tipo aricolo.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(apre un link esterno in una nuova finestra)</string>
   <string name="page">Pagina</string>
   <string name="pages">Pagine</string>
   <string name="paragraph">paragrafo</string>
