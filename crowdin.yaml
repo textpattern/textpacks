@@ -1,4 +1,4 @@
 files:
   -
-    source: '/crowdin-sync/en-GB/textpack.xml'
+    source: '/crowdin-sync/en-GB/*.xml'
     translation: '/crowdin-sync/%locale%/%original_file_name%'
