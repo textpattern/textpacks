@@ -195,7 +195,7 @@
   <string name="changesection">Zmień sekcję</string>
   <string name="changestatus">Zmień status</string>
   <string name="close">Domknąć</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Zwiń wszystkie</string>
   <string name="comment">Komentarz</string>
   <string name="comments_expired">Nie można już komentować tego artykułu.</string>
   <string name="confirm_delete_popup">Czy na pewno chcesz usunąć?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Wersja robocza</string>
   <string name="duplicate">Duplikat</string>
   <string name="excerpt">Zajawka</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Rozwiń wszystkie</string>
   <string name="expired">Wygasł</string>
   <string name="expire_date">Data wygaśnięcia</string>
   <string name="expire_time">Czas wygaśnięcia</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Witaj {name},</string>
   <string name="save_new">Zapisz</string>
   <string name="search_all">Przeszukaj wszystko</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Wyczyść wyszukiwanie</string>
   <string name="search_options">Opcje wyszukiwania</string>
   <string name="showing_search_results">Pozycje od {from} do {to} z {total}</string>
   <string name="site_slogan">Motto witryny</string>
@@ -279,7 +279,7 @@
   <string name="tab_site_admin">Użytkownicy</string>
   <string name="tab_skins">Tematy</string>
   <string name="tab_start">Strona główna</string>
-  <string name="tab_style">Styles</string>
+  <string name="tab_style">Style</string>
   <string name="tab_view_site">Pokaż witrynę</string>
   <string name="tab_write">Redaguj</string>
   <string name="thumbnail">Miniaturka</string>
@@ -341,7 +341,7 @@
   <string name="delete_declaration">Usuń tę deklarację</string>
   <string name="delete_entire_selector">Usuń cały selektor</string>
   <string name="delete_this_declaration">Usuń tę deklarację</string>
-  <string name="edit_css">Styles</string>
+  <string name="edit_css">Style</string>
   <string name="edit_css_file">Edytuj plik CSS</string>
   <string name="edit_css_in_form">Przejdź do edytora CSS</string>
   <string name="edit_raw_css">Edytuj kod CSS</string>
@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">Przyjazne adresy URL obsługiwane są jedynie przez serwer Apache. Na innych serwerach używasz ich na własną odpowiedzialność.</string>
   <string name="clean_url_data_failed">Test przyjaznych adresów URL nie powiódł się (dane)</string>
   <string name="clean_url_test_failed">Test przyjaznych adresów URL nie powiódł się.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Strefa czasowa serwera bazy danych</string>
+  <string name="db_server_time">Czas serwera bazy danych</string>
+  <string name="db_server_timeoffset">Przesunięcie czasu serwera bazy danych</string>
+  <string name="db_session_timezone">Strefa czasowa sesji bazy danych</string>
   <string name="detail">Szczegółowość</string>
   <string name="dev_version_live">Używasz developerskiej wersji Textpattern na serwerze produkcyjnym.</string>
   <string name="diagnostic_info">Informacje diagnostyczne</string>
@@ -704,7 +704,7 @@
   <string name="messy">\?=bałagan</string>
   <string name="never_display_email">Nigdy nie pokazywać adresów email?</string>
   <string name="new_textpattern_version_available">Dostępna jest nowa wersja Textpattern. Chcesz ją <a href="http://textpattern.com/download" rel="external">wypróbować</a>?</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Brak dostępnych preferencji.</string>
   <string name="no_popup">w tym samym oknie</string>
   <string name="override_emailcharset">Używać ISO-8859-1 w emailach (domyślnie jest UTF-8)?</string>
   <string name="path_from_root">Podkatalog (jeśli istnieje)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">Format trwałych odsyłaczy</string>
   <string name="permlink_hyphenated">Z myślnikami (tytuł-wygląda-tak)</string>
   <string name="permlink_intercapped">Z dużymi literami (TytułWyglądaTak)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">Wzór adresu URL artykułu</string>
   <string name="ping_textpattern_com">Wysyłać ping do textpattern.com?</string>
   <string name="ping_weblogsdotcom">Wysyłać ping do pingomatic.com?</string>
   <string name="plugin_cache_dir">Ścieżka do katalogu pamięci podręcznej pluginów</string>
@@ -827,7 +827,7 @@
   <string name="deprecated_function">Funkcja <strong>{name}</strong> nie jest już wspierana.</string>
   <string name="deprecated_function_with">Funkcja <strong>{name}</strong> nie jest już wspierana, użyj <strong>{with}</strong>.</string>
   <string name="deprecated_tag">znacznik nie zalecany</string>
-  <string name="documentation">Documentation</string>
+  <string name="documentation">Dokumentacja</string>
   <string name="download_count">Licznik pobrań</string>
   <string name="edit">Edytuj</string>
   <string name="email">Email</string>
@@ -849,7 +849,7 @@
   <string name="form">Forma</string>
   <string name="forms">Formy</string>
   <string name="go">idź</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Wstecz</string>
   <string name="go_content">Idź do treści</string>
   <string name="go_nav">Idź do menu</string>
   <string name="go_search">Idź do wyszukiwarki</string>
@@ -897,7 +897,7 @@
   <string name="next">Następny</string>
   <string name="no">Nie</string>
   <string name="none">Żadne</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">bieżące okno</string>
   <string name="no_comments">Nie ma żadnych komentarzy do tego artykułu.</string>
   <string name="no_search_matches">Brak wyników wyszukiwania</string>
   <string name="numeric_list">Ponumerowana lista</string>
@@ -906,7 +906,7 @@
   <string name="older">Starsze</string>
   <string name="on">Włączać</string>
   <string name="only_articles_can_be_previewed"><strong>Uwaga:</strong> tylko formy artykułów mogą być podglądane.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(otwiera zewnętrzny link w nowym oknie)</string>
   <string name="page">Strona</string>
   <string name="pages">Strony</string>
   <string name="paragraph">paragraf</string>
@@ -914,7 +914,7 @@
   <string name="permlink">Trwały odsyłacz</string>
   <string name="plugin_load_error">Wystąpił błąd podczas wczytywania pluginu:</string>
   <string name="plugin_load_error_above">Powyższe błędy spowodowane były przez plugin:</string>
-  <string name="popup">popup window</string>
+  <string name="popup">wyskakujące okno</string>
   <string name="post">Wyślij</string>
   <string name="posted">Opublikowany</string>
   <string name="posted_by">Opublikowany przez</string>
