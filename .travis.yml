@@ -1,0 +1,6 @@
+# http://docs.travis-ci.com
+
+language: php
+php:
+  - "7.0"
+script: phpunit
