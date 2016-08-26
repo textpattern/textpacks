@@ -69,8 +69,7 @@
     <li>can manage sections</li>
     <li>can manage pages, forms and style</li>
 </ul></string>
-  <string name="add_new_author"><h1>Users: Add new author</h1>
-<p>A password, welcome message and login instructions will be emailed to the new author.</p></string>
+  <string name="add_new_author"><h1>Użytkownicy: dodaj nowego autora</h1> <p>Hasło, wiadomość powitalna i instrukcje logowania zostaną wysłane do nowego autora.</p></string>
   <string name="admin_side_plugins"><h1>Preferences: Use admin-side plugins?</h1>
 <p>Admin-side plugins can change the operation of the administration interface. They might hook into already existing actions, like editing or publishing articles, or they might add new panels for added/extended functionality.</p>
 <p>If you would like to learn more about admin-side plugins, please see the <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Extending Textpattern</a> page in <a rel="external" target="_blank" href="http://docs.textpattern.io/">Textpattern User Documentation</a>. Plugins of all sorts are listed in the <a rel="external" target="_blank" href="http://textpattern.org/">Textpattern Resources</a> site.</p></string>
