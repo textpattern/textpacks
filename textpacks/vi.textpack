@@ -720,8 +720,8 @@ mentions => Tuyên dương
 messy => ?=số má lằng nhằng
 never_display_email => Không hiện địa chỉ thư điện tử?
 new_textpattern_version_available => Đã có phiên bản Textpattern mới. Bạn có muốn dùng thử không?
-no_preferences =>
 no_popup => cửa sổ hiện thời
+no_preferences =>
 override_emailcharset => Dùng bảng mã ISO-8859-1 trong thư điện tử gửi đi (mặc định là UTF-8)?
 path_from_root => Thư mục con (nếu có)
 path_to_site_missing => Chưa có giá trị <code>$path_to_site</code> (hãy cập nhật <code>index.php</code>)

@@ -720,8 +720,8 @@ mentions => Nimetused
 messy => ?=sassis
 never_display_email => Ära kunagi näita emaili?
 new_textpattern_version_available => Täiesti uus Textpatterni versioon on saadaval. Kas soovid <a href="http://textpattern.com/download" rel="external">seda proovida</a>?
-no_preferences =>
 no_popup => Samas aknas
+no_preferences =>
 override_emailcharset => Kasuta emailides ISO-8559-1? (vaikimisi UTF-8)?
 path_from_root => Alamkataloog (kui on)
 path_to_site_missing => <code>$path_to_site</code> ei ole seatud (uuenda <code>index.php</code>)

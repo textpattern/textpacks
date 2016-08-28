@@ -720,8 +720,8 @@ mentions => 提示
 messy => ?=messy
 never_display_email => 永不顯示 Email 信箱？
 new_textpattern_version_available => 有全新的 Textpattern 版本，您想試試它嗎？
-no_preferences =>
 no_popup => 同一頁面
+no_preferences =>
 override_emailcharset => 電子郵件使用 ISO-8859-1 編碼？ (預設為utf-8編碼)
 path_from_root => 子目錄 (若有的話)
 path_to_site_missing => <code>$path_to_site</code> 沒有設定 (請更新 <code>index.php</code>)

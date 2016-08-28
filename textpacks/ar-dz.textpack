@@ -720,8 +720,8 @@ mentions =>
 messy =>
 never_display_email => لا تستعرض أبدا عنوان البريد الإلكتروني؟
 new_textpattern_version_available =>
-no_preferences =>
 no_popup => النافذة الحالية
+no_preferences =>
 override_emailcharset => Latin 1 (ISO-8859-1) تحويل رسا~ل البريد الإلكتروني إلى الغة اللاتينية
 path_from_root => ملف فرعي إن كان متوفرا
 path_to_site_missing => <code dir="ltr">$path_to_site</code> غير موجود، اضبط

@@ -720,8 +720,8 @@ mentions => Mencions
 messy => ?=brut
 never_display_email => No mostrar mai l’adreça de correu?
 new_textpattern_version_available => Hi ha disponible una nova versió de Textpattern.
-no_preferences =>
 no_popup => finestra actual
+no_preferences =>
 override_emailcharset => Utilitzar ISO-8859-1 pels correus electrònics? (Per defecte es UTF-8)?
 path_from_root => Subdirectori (si en hi ha)
 path_to_site_missing => No s’ha establert <code>$path_to_site</code> (actualitza <code>index.php</code>)

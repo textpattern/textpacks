@@ -720,8 +720,8 @@ mentions => Maininnat
 messy => ?=sotkuinen
 never_display_email => Älä näytä sähköpostiosoitteita?
 new_textpattern_version_available => Uusi Textpatternin versio on saatavilla. <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">Haluatko kokeilla sitä?</a>
-no_preferences => Asetuksia ei ole saatavilla.
 no_popup => nykyinen ikkuna
+no_preferences => Asetuksia ei ole saatavilla.
 override_emailcharset => ISO-8859-1 sähköposteissa (oletuksena UTF-8)?
 path_from_root => Alihakemisto (jos on)
 path_to_site_missing => <code>$path_to_site</code> on määrittelemättä (päivitä <code>index.php</code>)

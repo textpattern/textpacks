@@ -720,8 +720,8 @@ mentions => Згадування
 messy => ?=безлад
 never_display_email => Не показувати email?
 new_textpattern_version_available => Доступна нова версія Textpattern. Бажаєте її випробувати?
-no_preferences =>
 no_popup => в тому ж вікні
+no_preferences =>
 override_emailcharset => Використовувати кодування ISO-8859-1 для email? (за замовчуванням: UTF-8)?
 path_from_root => Субдиректорія (якщо є)
 path_to_site_missing => <code>$path_to_site</code> не вказано (оновить <code>index.php</code>)

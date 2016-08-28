@@ -720,8 +720,8 @@ mentions => Mentiuni
 messy => ?=dezordonat
 never_display_email => Nu afisa adresa de mail?
 new_textpattern_version_available => Este disponibila o versiune complet noua a Textpattern-ului. Vrei sa o incerci?
-no_preferences =>
 no_popup => fereastra curenta
+no_preferences =>
 override_emailcharset => Foloseste ISO-8859-1 pentru email-uri? (default-ul este utf-8)
 path_from_root => Subdirectoriu (daca este cazul)
 path_to_site_missing => <code>$path_to_site</code> nu este setat (update-uieste <code>index.php</code>)

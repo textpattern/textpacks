@@ -720,8 +720,8 @@ mentions => یادآوری ها
 messy => ?=آشفته
 never_display_email => مخفی‌کردن نشانی ایمیل؟
 new_textpattern_version_available => نسخه کاملاً جدیدی از Textpattern موجود است. می‌خواهید امتحان کنید؟
-no_preferences =>
 no_popup => پنجره فعلی
+no_preferences =>
 override_emailcharset => در ایمیل‌های ارسالی از رمزگذاری ISO-8859-1 استفاده شود (پیش‌فرض UTF-8 است)؟
 path_from_root => پوشه زیرمجموعه (اگر موجود است)
 path_to_site_missing => متغیر path_to_site$ تنظیم نشده است (فایل index.php را بهنگام کنید)

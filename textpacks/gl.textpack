@@ -720,8 +720,8 @@ mentions => Mencións
 messy => ?=suxo
 never_display_email => ¿Non mostrar nunca o email?
 new_textpattern_version_available => Hai unha nova versión do Textpattern disponíbel
-no_preferences =>
 no_popup => sen abrir outra xanela
+no_preferences =>
 override_emailcharset => Sobreescribir o xogo de caracteres do email
 path_from_root => Subdirectorio (se o hai)
 path_to_site_missing => <code>$path_to_site</code> non se fixou (actualiza o <code>index.php</code>)

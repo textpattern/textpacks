@@ -720,8 +720,8 @@ mentions => Mentions
 messy => ?=messy
 never_display_email => לעולם לא להציג דואל?
 new_textpattern_version_available => גירסה חדשה של <a href="http://textpattern.com/download" rel="external">Textpattern</a> שוחררה. האם ברצונך לנסות אותה?
-no_preferences =>
 no_popup => החלון הנוכחי
+no_preferences =>
 override_emailcharset => להשתמש בקידוד ISO-8859-1 לדואל? (ברירת המחדל היא UTF-8)?
 path_from_root => תת ספרייה (אם קיימת)
 path_to_site_missing => <code dir="ltr">$path_to_site</code> לא מוגדר(עדכן <code dir="ltr">index.php</code>)
