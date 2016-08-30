@@ -1,16 +1,15 @@
-#@version 4.5.7;1472293369
+#@version 4.5.7;1472560101
 #@admin
 account_activation =>
 account_activation_confirmation =>
 add_new_author => ایک نۓ مصنف کو شامل کریں
 and_mailed_to => اور یہاں ای میل بھیجو
 assign_assets_to => صارف کے اشیا یہاں تفویض کریں
-author_deleted =>
-author_deleted =>مصنف <strong>{name}</strong> کو حذف کیا گیا =>
-author_updated =>
-author_updated =>مصنف <strong>{name}</strong> کا تازہ کاری کیا گ =>
+author_already_exists =>
+author_deleted => مصنف <strong>{name}</strong> کو حذف کیا گیا
+author_updated => مصنف <strong>{name}</strong> کا تازہ کاری کیا گ
 a_message_will_be_sent_with_login => لاگان معلومات ای میل بذریعہ بھیجے جائنگے
-a_new_password_will_be_mailed => ایک نیا  ‏پاس ورڈ‏ ای مل بذریعہ بھیجا جایگا
+a_new_password_will_be_mailed => ایک نیا ‏پاس ورڈ‏ ای مل بذریعہ بھیجا جایگا
 cannot_assign_assets_to_deletee =>
 changeprivilege => استہقاق تبدیل کریں
 change_email_address => آپ کا ای میل کا پتا تبدیل کریں
@@ -21,7 +20,7 @@ could_not_update_author => مصنف کے معلومات تازہ کرنے میں
 current_password =>
 designer => ڈیزائنر
 edit_author => مصنف کے معلومات تدوین کریں
-email_changed =>
+email_changed => ای میل کا پتہ <strong>{email}</strong> کو بدلہ گیا
 email_changed =>ای میل کا پتہ {email} کو بدلہ گیا =>
 error_adding_new_author => نۓ مصنف کو شامل کرنے میں نقص !
 freelancer => مصنف آزاد
@@ -34,19 +33,19 @@ mail_it => ای میل بذریعہ بھیجیں
 managing_editor => تدوین کار
 must_reassign_assets => بارہ کرم، صارف کے اشیا کو دوبارہ تفویض کریں
 new_email => نیا ای میل
-new_password => نیا  ‏پاس ورڈ‏
+new_password => نیا ‏پاس ورڈ‏
 password_changed => ‏پاس ورڈ‏ تبدیل کیا
 password_changed_mailed => ‏پاس ورڈ‏ تبدیل کیا گیا اور ای میل بذریعہ <strong>{email}</strong> کو بھیجا گیا
 password_change_confirmation =>
 password_confirm_button =>
 password_forgotten => کیا آپ اپنا ‏پاس ورڈ‏ بھول گئے ؟
 password_invalid =>
-password_required => بارہ کرم، ایک نیا  ‏پاس ورڈ‏ داخل کریں
-password_reset =>  ‏پاس ورڈ‏ پھر سیٹ کریں
-password_reset_button =>  ‏پاس ورڈ پھر سیٹ کریں
+password_required => بارہ کرم، ایک نیا ‏پاس ورڈ‏ داخل کریں
+password_reset => ‏پاس ورڈ‏ پھر سیٹ کریں
+password_reset_button => ‏پاس ورڈ پھر سیٹ کریں
 password_reset_confirmation => کسی نے (شاید آپ نے) اپنے پاس ورڈ پھر سیٹ کروانے کی درخواست کی. بارہ مہربانی، نیچے ربط پر کلک کریں اور اس درخواست کی آپ تصدیق کریں
 password_reset_confirmation_request => بارہ مہربانی، آپ کے پاس ورڈ پھر سیٹ کروانے کی درخواست کو تصدیق کریں
-password_reset_confirmation_request_sent => آپ کو ایک تصدیق کردہ ای میل بھیجا گیا، بارہ مہربانی اس ای میل در ہدایتوں  کو اپنائیں،
+password_reset_confirmation_request_sent => آپ کو ایک تصدیق کردہ ای میل بھیجا گیا، بارہ مہربانی اس ای میل در ہدایتوں کو اپنائیں،
 password_sent_to => پاس ورڈ یہاں بھیجا گیا
 password_set =>
 password_set_confirmation =>
@@ -61,7 +60,7 @@ publisher => ناشر
 real_name => اصلی نام
 resend_activation =>
 resend_activation_request_sent =>
-resetpassword =>  ‏پاس ورڈ‏ پھر سیٹ کریں
+resetpassword => ‏پاس ورڈ‏ پھر سیٹ کریں
 reset_author_password => مصنف کا ‏پاس ورڈ‏ پھر سیٹ کریں
 search_users =>
 set_password =>
@@ -100,7 +99,7 @@ article_save_failed =>
 article_second => سیکنڈ
 article_year => سال
 comment_settings =>
-concurrent_edit_by => مضمون محفوظ نہیں کیا، {author} مضمون کو ترمیم کر رہے تھے جب آپ بھی اس پر تدوین کر رہے تھے، اگر آپ  ‏بلاشبہ‏ ہے تو اور ایک بار 'محفوظ کریں
+concurrent_edit_by => مضمون محفوظ نہیں کیا، {author} مضمون کو ترمیم کر رہے تھے جب آپ بھی اس پر تدوین کر رہے تھے، اگر آپ ‏بلاشبہ‏ ہے تو اور ایک بار 'محفوظ کریں
 date_settings =>
 excerpt_markup => اختصار وضع
 expires => خاتمہ مدت
@@ -409,7 +408,7 @@ apache_modules => Apache ماڈیول
 apache_version => Apache ورژن
 cleanurl_only_apache => صفاکار URLs کو صرف Apache معاونت کرتا ہے، اپنے تقدیر سے استمعال کریں
 clean_url_data_failed =>
-clean_url_test_failed => سافکار URL کے جانچ کرنے میں  میں ناکامی
+clean_url_test_failed => سافکار URL کے جانچ کرنے میں میں ناکامی
 db_global_timezone =>
 db_server_time =>
 db_server_timeoffset =>
@@ -421,7 +420,7 @@ dir_not_writable => {dirtype} قبل تحریر نہیں
 dns_lookup_fails => Web Domain DNS lookup میں ناکامی
 document_root => اساسی پوشہ کا پتہ
 file_uploads_disabled => فائل کے اپ لوڈ کرنا نا اہل ہے
-gd_info => {version} کی معاونت شدہ قسمیں: {supported}.
+gd_info => {version} کی معاونت شدہ قسمیں: {supported}
 gd_library => GD Graphics Library
 high => اعلٰی
 htaccess_contents => .htaccess فائل کی متن
@@ -433,18 +432,18 @@ low => پست
 magic_quotes => Magic quotes
 missing_files => غائب‏ فائل
 modified_files => کچھ Textpattern کے فائل ترمیم کیے گئے ہیں
-mod_rewrite_missing => Apache module <code>mod_rewrite</code> نسب نہیں
+mod_rewrite_missing => Apache module <code dir="ltr">mod_rewrite</code> نسب نہیں
 mysql_table_errors =>
 no_temp_dir =>
 old_files => کئی Textpattern کے فائل متروک ہے
 old_placeholder => پرانی جگہ دار فائل اب بھی موجود ہے
 os_version => سرور کا نظام عمل
-path_to_site_inacc => $path_to_site نا پذیری ہے
+path_to_site_inacc => <code dir="ltr">$path_to_site</code> نا پذیری ہے
 php_extensions => PHP اضافی
 php_sapi_mode => PHP سرور API موڈ
 php_version => PHP ورژن
 php_version_required =>
-preflight_check => Pre-flight check
+preflight_check =>
 register_globals => Register globals موڈ
 rfc2616_headers => RFC 2616 headers موڈ
 rfc_2616_headers => CGI Header موڈ
@@ -452,13 +451,13 @@ server => سرور
 server_time => سرور کا مقامی وقت
 site_trailing_slash => سائٹ کے URL میں پشت بندی سلیش '/' ہے
 site_url_mismatch => سائٹ کے URL کی اختیارات شاید غیر صحیح ہے
-some_php_functions_disabled => مندرجہ ذیل PHP functions (جو شاید Textpattern کا چلت کریں میں اہم ہونگے) اس سرور پر نا اہل  ہے
+some_php_functions_disabled => مندرجہ ذیل PHP functions (جو شاید Textpattern کا چلت کریں میں اہم ہونگے) اس سرور پر نا اہل ہے
 still_exists => اب بھی موجود ہے
 textpattern_update_available =>
 tmp_plugin_paths_match => عارضی پوشہ کی راہ اور پلگ ان کے پوشہ کی راہ مشابہ <strong>نہیں</strong> ہونا چاہئے
 txp_path => Textpattern کا پتہ
 txp_version => Textpattern ورژن
-warn_register_globals_or_update => آپ کے حلیہ PHP کے ورژن میں سلامتی کے خطرے ہیں، بارہ کرم register_globals آپ کے کو بند کریں یا PHP کو تجدید کریں
+warn_register_globals_or_update => آپ کے حلیہ PHP کے ورژن میں سلامتی کے خطرے ہیں، بارہ کرم <code dir="ltr">register_globals</code> آپ کے کو بند کریں یا PHP کو تجدید کریں
 web_domain => سائٹ کا URL پتہ
 #@discuss
 article_deleted => یہ مضمون حذف ہے
@@ -508,7 +507,7 @@ file_category => زمرہ
 file_deleted => فائل <strong>{name}</strong> کو حذف کیا
 file_delete_failed => فائل کو حذف کرنے میں ناکام
 file_dir_not_writeable => تنبیہ: یہ پوشا قابل تحریر نہیں <code dir="ltr">{filedir}</code>
-file_download_count => ڈاؤن لوڈ  ‏گنتی
+file_download_count => ڈاؤن لوڈ ‏گنتی
 file_name => نام
 file_not_found => فائل(یں) ملا نہیں
 file_not_updated => فائل <strong>{name}</strong> کو تازہ کرنے میں ناکام
@@ -522,7 +521,7 @@ file_uploaded => فائل <strong>{name}</strong> کو اپ لوڈ کیا
 file_upload_failed => فائل اپ لوڈ کرنے میں ناکامی
 invalid_filename => ناجائز نام فائل
 invalid_id => ناجائز ID
-linked_to_file => Linked record to file
+linked_to_file =>
 no_files_recorded => کوئی فائل یہاں دستیاب نہیں
 permissions => اجازتیں
 private => نجی
@@ -540,20 +539,20 @@ create_new_form => ایک نیا فارم بناۓ
 delete_form_confirmation => فارم (form) کو حذف کرنے کی تصدیق کریں
 edit_forms => فارم ٹیمپلیٹ
 forms_deleted => فارم حذف کیا: <strong>{list}</strong>
-form_already_exists =>  فارم <strong>{name}</strong> پہلے سے موجود ہے
+form_already_exists => فارم <strong>{name}</strong> پہلے سے موجود ہے
 form_clone =>
 form_code =>
-form_created =>  فارم <strong>{name}</strong> بنا ہوا
+form_created => فارم <strong>{name}</strong> بنا ہوا
 form_name => نام (‏لازمی‏)
 form_name_invalid => فارم نام ناجائز
 form_save_failed =>
 form_type => قسم (‏لازمی‏)
 form_type_missing => فارم کی قسم خالی نہیں رہ سٹکی
-form_updated =>  فارم <strong>{name}</strong> تازہ کیا
-list_forms => list forms
+form_updated => فارم <strong>{name}</strong> تازہ کیا
+list_forms =>
 you_are_editing_form => آپ یہ فارم تدوین کر رہے ہیں
 #@image
-add_magnify_icon => Magnifier
+add_magnify_icon =>
 alt_text => ‏مختلف‏ عنوان
 cannot_write_directory => اس پوشہ میں محفوظ کرنا ناممکن
 choose_either_width_height_or_both => چوڑائی، اونچائی یا دونوں انتخاب کریں
@@ -561,7 +560,7 @@ create_thumbnail => تصویر صغیر بناۓ
 edit_image => تصویر تدوین کریں
 extension =>
 images => تصاویر
-image_deleted => تصویر <strong>{name}</strong> حذف کیا:
+image_deleted => تصویر <strong>{name}</strong> حذف کیا
 image_delete_failed => تصویر <strong>{name}</strong> مکمل طور پر حذف نہیں ہوا
 image_details =>
 image_name => تصویر نام
@@ -579,7 +578,7 @@ replace_image => تصویر بدلیں
 save_these_settings_as_default => کیا ان سیٹنگ کو ترجیح دیں ؟
 search_images =>
 thumbnail_deleted => تصویر صغیر حذف کیا
-thumbnail_not_saved => تصویر صغیر <strong>{id}</strong> محفوظ <em>نہیں</em> !
+thumbnail_not_saved => تصویر صغیر <strong>{id}</strong> محفوظ نہیں
 thumbnail_saved => تصویر صغیر <strong>{id}</strong> محفوظ کیا
 thumb_height => اونچائی
 thumb_width => چوڑائی
@@ -592,7 +591,7 @@ continue => آگے چلیں
 database_stuff => ڈیٹابیس معلومات
 import_blogid => بلاگ ID
 import_database => ڈیٹابیس نام
-import_file_not_found => درآمد فائل موجود نہیں، بارہ مہربانی اس فائل کا نام import.txt رکھیں اور /textpattern/include/import/ پوشہ میں شامل کریں
+import_file_not_found => درآمد فائل موجود نہیں، بارہ مہربانی اس فائل کا نام <code dir="ltr">import.txt</code> رکھیں اور <code dir="ltr">/textpattern/include/import/</code> پوشہ میں شامل کریں
 import_host => MySQL سرور
 import_invite => تبصرہ کرنے کی ‏طمع
 import_login => MySQL نام صارف
@@ -638,19 +637,19 @@ edit_page => صفہ تدوین کریں
 edit_pages => صفہ ٹیمپلیٹ
 name_for_this_page =>
 page_already_exists => صفہ <strong>{name}</strong> پہلے سے موجود ہے
-page_article_hed => Article Output
-page_article_nav_hed => Article Navigation
+page_article_hed =>
+page_article_nav_hed =>
 page_code =>
 page_created => صفہ <strong>{name}</strong> بنا ہوا
 page_deleted => صفہ <strong>{name}</strong> حذف کیا
-page_misc_hed => Miscellaneous
+page_misc_hed =>
 page_name =>  صفہ نام
 page_name_invalid => صفہ نام ناجائز
-page_nav_hed => Site Navigation
+page_nav_hed =>
 page_save_failed =>
 page_updated => صفہ <strong>{name}</strong> تازہ کیا
 page_used_by_section => صفہ <strong>{name}</strong> حذف نہیں کیا; {count} منتخب اشیا اس کا استمعال کر رہے ہیں
-page_xml_hed => XML Feeds
+page_xml_hed =>
 you_are_editing_div => آپ یہ div تدوین کر رہے ہیں
 you_are_editing_page => آپ یہ صفہ ٹیمپلیٹ تدوین کر رہے ہیں
 #@plugin
@@ -662,15 +661,15 @@ edit_plugins => پلگ ان
 help => مدد
 install => نصب کریں
 install_plugin => پلگ ان نصب کریں
-old_plugin => Old-style (text file) plugin installer
+old_plugin =>
 order => ترتیب
 plugin => پلگ ان
 plugins => پلگ ان
-plugin_compression_unsupported => Plugin decompression is not supported by your server. Contact the plugin author for an uncompressed version.
+plugin_compression_unsupported =>
 plugin_deleted => پلگ ان <strong>{name}</strong> حذف کیا
 plugin_help => پلگ ان مدد
 plugin_installed => پلگ ان <strong>{name}</strong> نصب کیا
-plugin_install_failed => پلگ ان  <strong>{name}</strong> نصب <em>نہیں ہوا</em>!
+plugin_install_failed => پلگ ان <strong>{name}</strong> نصب نہیں ہوا
 plugin_modified => ترمیم کیا ؟
 plugin_prefs => اختیارات
 plugin_saved => پلگ ان <strong>{name}</strong> محفوظ کیا
@@ -696,7 +695,7 @@ auto_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> سیٹنگ خو
 category_subcategory => /category/subcategory
 check_for_txp_updates => تجدید ورژن کی جانچ کریں
 clean => /clean/
-comments_are_ol => کیا تبصرے عدد وار فہرست <ol> میں پیش کیا جاۓ ؟
+comments_are_ol => کیا تبصرے عدد وار فہرست <code>ol</code> میں پیش کیا جاۓ ؟
 comments_auto_append => کیا تبصرے کو خود کار طور پر مضامین کے ساتھ جوڑے ؟
 comments_dateformat => تاریخ تبصرہ کی وضع
 comments_default_invite => تبصرہ کرنے کی ‏طمع
@@ -711,7 +710,7 @@ comments_sendmail => کیا نۓ تبصرے مضمون کا مصنف کو ای �
 comments_use_fat_textile => کی اضافی Textile کی اجازت ہے ؟
 comment_means_site_updated => کیا نیا تبصرہ داخل ہونے پر یہ مطلب ہوگا کی پورا سائٹ تازہ کیا ؟
 comment_nofollow => کیا تبصرے میں <code dir="ltr">rel="nofollow"</code> لگایا جاۓ ؟
-convert_linebreaks => Convert linebreaks
+convert_linebreaks =>
 css => طرز (سٹائل
 custom => قطعات مخصوص
 custom_10_set => نام قطعہ مخصوص ١٠
@@ -729,7 +728,7 @@ default_publish_status =>
 doctype => Doctype
 edit_preferences => ترجیحات
 edit_raw_css_by_default => کیا سٹائل تبدیل کرنے کے لیے ہمیشہ خام CSS تدوین کریں ؟
-enable_xmlrpc_server => کیا  XML-RPC server کا استمعال کریں ؟
+enable_xmlrpc_server => کیا XML-RPC server کا استمعال کریں ؟
 experts_only => صرف ماہر صارف
 expire_logs_after => سرگامی کتنے دیں بعد حذف کریں ؟
 feeds => سندیکت
@@ -745,30 +744,30 @@ img_dir => تصاویر کا پوشہ
 include_email_atom => کیا آٹوم فیڈ میں مصنف کا ای میل پتہ شامل کریں ؟
 installing_language =>
 install_from_textpack =>
-install_langfile =>  نئے زبان آپ {url} سے ڈاونلوڈ کر سکتے ہیں ور پھر  /textpattern/lang/ پوشہ میں دستیاب کریں
+install_langfile => نئے زبان آپ <code dir="ltr">{url}</code> سے ڈاونلوڈ کر سکتے ہیں ور پھر <code dir="ltr">/textpattern/lang/</code> پوشہ میں دستیاب کریں
 install_language => زبان تنصیب کریں
-install_textpack => Install Textpack
+install_textpack =>
 is_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> اہل بنا ہے ؟
 language => زبان
-lastmod_keepalive => کیا mod_deflate میں گڑبڑ کی وجہ سے مسلسل اتصال روکا جاۓ ؟
-leave_text_untouched => Leave text untouched
+lastmod_keepalive => ا <code dir="ltr">mod_deflate</code> میں گڑبڑ کی وجہ سے مسلسل اتصال روکا جاۓ ؟
+leave_text_untouched =>
 link => روابط
 locale => مقامیت
 locale_not_available_for_language =>
 logging => سرگمی
 logs_expire => سرگامی کتنے دیں بعد حذف کریں ؟
 manage_languages => زبان
-markup_default => Default Markup
+markup_default =>
 max_url_len => URL کی زیادہ سے زیادہ‏ لمبائی (حروف میں)
-mentions => Mentions
+mentions =>
 messy => ?=messy
 never_display_email => کیا تبصرہ نگار کا‏ ای میل پتہ پوشیدہ رکھیں ؟
-new_textpattern_version_available => There is a completely new Textpattern version available. Do you want to try it?
+new_textpattern_version_available =>
 no_popup => فعال دریچہ میں
 no_preferences =>
 override_emailcharset => کیا مرسلہ ای میل میں ISO-8859-1 ضابطہ بندی استمعال کریں ؟ (خودکار طور پر  UTF-8 استمعال کیا جاۓ گا)
-path_from_root => Sub-directory (if any)
-path_to_site_missing => $path_to_site is not set (update index.php)
+path_from_root =>
+path_to_site_missing =>
 permalink_title_format => مستقل روابط میں‏ title-like-this (ورنہ TitleLikeThis) ؟
 permlink_format =>
 permlink_hyphenated =>
@@ -786,7 +785,7 @@ production_status => سائٹ کا صورت حال
 production_test => جانچ کاری
 publisher_email =>
 publish_expired_articles => زائدالمدت مضامین کی شائع کریں ؟
-record_mentions => Record mentions
+record_mentions =>
 referrers_only => صرف کہاں سے آئے
 remove_lang =>
 rpc_connect_error => نئے زبان نصب کرنے کے لیے بعید سرور سے ربط نہیں ہوا، پھر کبھی دوبارہ کوشس کریں
@@ -800,21 +799,21 @@ site_prefs => بنیادی ترجیحات
 skin_base_path =>
 smtp_from => SMTP بزریے ای میل بھیجنے کے لیے مرسل کا ای میل کا پتہ
 spam_blacklists => بیکار تبصرے (spam) کے فہرست (comma-separated)
-syndicate_body_or_excerpt => کیا  <strong>صرف</strong> اختصار سندیکت کریں ؟
+syndicate_body_or_excerpt => کیا <strong>صرف</strong> اختصار سندیکت کریں ؟
 tempdir => عارضی پوشہ کی راہ
-textile_links => Textile link descriptions by default?
+textile_links =>
 textpack_strings_installed =>
 theme_name => انتظامیہ کی خیالیہ
 timeoffset => وقت آفسیٹ (گھنٹے میں)
 title_no_widow => مضامین کے عنوان میں ‏الفاظ‏ کے بیوہ ہونے سے روکے
 title_only => /title
 updated => تازہ کیا
-updated_branch_version_available => There is an update for this Textpattern version series (4.0.x) available.
+updated_branch_version_available =>
 update_languages => زبان کی فائل تازہ کریں
 up_to_date =>
 urls_to_ping => اشاعت کرتے یہ URLs کو بھی اطلاعت کریں (comma-separated)
 url_mode => URL موڈ
-use_comments =>  کیا تبصرہ کرنے کی اجازت ہے ؟
+use_comments => کیا تبصرہ کرنے کی اجازت ہے ؟
 use_dns => سرگمی کے لیے DNS کا نظر کریں ؟
 use_mail_on_feeds_id => کیا فیڈ ID بنانے کے لیے ای میل پتہ استمعال کریں ؟ (‏خودکار طور پر‏ سائٹ کا URL استمعال کیا جاتا ہے)
 use_plugins => کیا پلگ ان استمعال کریں ؟
@@ -833,7 +832,7 @@ articles_found => مضامین ملے
 article_context =>
 article_found => مضمون ملا
 atom_feed_title => آٹوم فیڈ
-attribute_values_must_be_quoted => Attribute values must be quoted
+attribute_values_must_be_quoted =>
 author => مصنف
 authors => مصنفین
 a_few_seconds => چند سیکنڈ
@@ -865,7 +864,7 @@ comment_name => نام
 comment_name_required => بارہ مہربانی ، آپ کا نام داخل کریں
 comment_posted => آپ کا تبصرہ عنایات کرنے پر آپ کا بہت شکریہ
 comment_received => [{site}] موصولہ تبصرہ: {title}
-comment_recorded => آپ کا مضمون  "{title}" پر ایک تبصرہ شامل کیا گیا
+comment_recorded => آپ کا مضمون "{title}" پر ایک تبصرہ شامل کیا گیا
 comment_required => بارہ مہربانی، تبصرہ تو لکھے
 comment_web => ویب سائٹ
 contact => رابطہ
@@ -883,11 +882,11 @@ definition_list =>
 delete => حذف کریں
 deleted => حذف کردہ
 deleted_text => حذف شدہ متن
-deprecated_attribute => {name} attribute is deprecated
+deprecated_attribute =>
 deprecated_configuration =>
-deprecated_function => function {name} is deprecated
-deprecated_function_with => function {name} is deprecated: use {with} instead
-deprecated_tag => tag is deprecated
+deprecated_function =>
+deprecated_function_with =>
+deprecated_tag =>
 documentation =>
 download_count =>
 edit => تدوین کریں
@@ -895,14 +894,14 @@ email => ای میل
 email_address => ای میل پتہ
 emphasis => زور اصرار
 enter_comment_here =>
-error_article_context => Article tags cannot be used outside an article context
+error_article_context =>
 error_category_context =>
-error_comment_context => Comment tags cannot be used outside a comment context
-error_file_context => File tags cannot be used outside a file context
-error_link_context => Link tags cannot be used outside a link context
+error_comment_context =>
+error_file_context =>
+error_link_context =>
 error_section_context =>
 exact =>
-extensions => Extensions
+extensions =>
 file_context =>
 file_size =>
 forget => میرے معلومات بھول جاؤ
@@ -910,9 +909,9 @@ form => فارم Form
 forms => فارم Forms
 go => جائیں
 go_back =>
-go_content => Go to content
-go_nav => Go to navigation
-go_search => Go to search
+go_content =>
+go_nav =>
+go_search =>
 go_to => یہاں جایں
 go_txp_com =>
 header => سرخی
@@ -926,7 +925,7 @@ image => تصویر
 imageurl => تصویر کا URL
 image_context =>
 inserted_text => داخل کردہ متن
-invalid_attribute_value => {name} is not a valid attribute value
+invalid_attribute_value =>
 keywords => کلیدی الفاظ
 label => لیبل
 last_modification => پچھلا ترمیم
@@ -947,7 +946,7 @@ message_preview => پیگام کا پیشے منظر
 message_saved => پیگام محفوظ کیا
 minute => منٹ
 minutes => منٹوں
-missing_article_tag => Page template {page} does not contain a txp:article tag
+missing_article_tag =>
 modified_by => پچھلا ترمیم کردہ
 month => مہینہ
 more => مزید
@@ -975,7 +974,7 @@ permlink => مستقل‏ ربط
 plugin_load_error => پلگ ان نصب کرنے میں نقص
 plugin_load_error_above => اپر نقائص کا سبب یہ پلگ ان ہے:
 popup => برخیزہ میں
-post => Post
+post =>
 posted => تاریخ اشاعت
 posted_by => شائع کردہ
 press_preview_then_submit =>
@@ -983,7 +982,7 @@ prev => پچھلا
 preview => پیش منظر
 publish => اشاعت
 published_at => کب شائع کیا
-raw_php_deprecated => Raw PHP tags are deprecated
+raw_php_deprecated =>
 recently => حالیہ
 recent_articles => حالیہ مضامین
 recent_posts => حالیہ مسودے
@@ -1010,8 +1009,8 @@ superscript => بالائی تحریر
 tag_error => Tag error:
 textile_help => Textile مدد
 textile_lite_help => Textile Lite مدد
-text_conversion => Text conversion
-text_handling => Text handling
+text_conversion =>
+text_handling =>
 time => وقت
 time_ago => {time} پہلے
 title => ‏عنوان‏
@@ -1019,11 +1018,11 @@ tooltip => ربط کا ٹوٹکا
 too_common_search_term =>
 type => قسم
 undefined => غیر واضع
-unknown_attribute => Unknown tag attribute: {att}
+unknown_attribute =>
 unknown_callback_function =>
 unknown_image => نامعلوم تصویر
 unknown_section => نامعلوم صیغہ
-unknown_tag => tag does not exist
+unknown_tag =>
 untitled => بلاعنوان
 update => تازہ کریں
 upload => اپ لوڈ کریں
@@ -1038,7 +1037,7 @@ weeks => ہفتے
 while_parsing_page_form =>
 yes => ہاں
 your_branch_is_updated => اس شاخ میں آپ کا Textpattern ورژن سب سے جدید ہے
-your_ip_is_blacklisted_by => تمہارا  IPپتہ اس ‏'Blacklist' میں شامل ہے
+your_ip_is_blacklisted_by => تمہارا IPپتہ اس ‏'Blocklist' میں شامل ہے
 you_have_been_banned => تبصرہ کرنے سے تم پر بندش لگائی گئی
 yyyy-mm => yyyy-mm
 #@section
@@ -1054,14 +1053,14 @@ on_front_page => ابتدائی صفحہ پر شامل کریں
 search_sections =>
 section => صیغہ
 sections => صیغہ
-section_created => صیغہ <strong><a href="#section-{name}">{name}</a></strong> بنا ہوا
+section_created => صیغہ <strong>{name}</strong> بنا ہوا
 section_deleted => صیغہ <strong>{name}</strong> حذف کیا
 section_head => سائٹ کے صیغہ
 section_longtitle => صیغہ کا عنوان
 section_name => صیغہ کا نام
-section_name_already_exists => صیغہ <strong><a href="#section-{name}">{name}</a></strong> پہلے سے موجود ہے
+section_name_already_exists => صیغہ <strong>{name}</strong> پہلے سے موجود ہے
 section_save_failed =>
-section_updated =>  صیغہ <strong><a href="#section-{name}">{name}</a></strong> تازہ کیا
+section_updated => صیغہ <strong>{name}</strong> تازہ کیا
 section_used_by_article => صیغہ <strong>{name}</strong> حذف کرنا ناممکن; {count} مضمون اسے استمعال کر رہے ہیں
 selected_by_default => خود کار طور پر منتخب شدہ
 style => سٹائل
@@ -1072,7 +1071,7 @@ uses_style => یہ سٹائل استمعال کریں
 about_to_create => اب ڈیٹابیس کے جدول بھریں جاینگے
 add_config_file =>
 admin_theme =>
-already_installed =>  Textpattern لگتا ہے کی <br />کو نصب کرنا چاہتے ہیں تو Textpattern اگر آپ پھر تازہ <br />پوشہ سے حذف کرے <code>Textpattern</code> فائل کو <code>config.php</code><br />اور پھر کوشس کریں
+already_installed => Textpattern لگتا ہے کی کو نصب کرنا چاہتے ہیں تو Textpattern اگر آپ پھر تازہ پوشہ سے حذف کرے <code dir="ltr">Textpattern</code> فائل کو <code dir="ltr">config.php</code> اور پھر کوشس کریں
 back =>
 before_you_proceed => آگے جانے سے پہلے <br />
 checking_database => ڈیٹابیس مع ربط کر رہا ہے
@@ -1080,16 +1079,16 @@ choose_password => ایک پاسورڈ انتخاب کریں
 config_php_does_not_match_input =>
 config_php_not_found =>
 core_theme =>
-create_config => نام کی ایک فائل بناۓ اور اس میں مندرجہ ذیل کوڈ داخل کریں <code>config.php</code> پوشہ میں <code>/textpattern/</code> اب
+create_config => نام کی ایک فائل بناۓ اور اس میں مندرجہ ذیل کوڈ داخل کریں <code dir="ltr">config.php</code> پوشہ میں <code dir="ltr">/textpattern/</code> اب
 creating_config =>
 creating_db_tables =>
 db_cant_connect => ڈیٹابیس مع ربط نہیں ہو سکا
 db_connected => ڈیٹابیس مع مربوط ہوا
-db_doesnt_exist => دستیاب نہیں یا آپ کا اختصاصی صارف کو اس سے رسائی کرنے کی اجازت نہیں {dbname} ڈیٹابیس
+db_doesnt_exist => دستیاب نہیں یا آپ کا اختصاصی صارف کو اس سے رسائی کرنے کی اجازت نہیں <strong>{dbname}</strong> ڈیٹابیس
 db_must_exist => اسے نہیں بناۓ گا Textpattern آپکا انتخاب کردہ ڈیٹابیس پہلے سے ہی موجود ہونا چاہیے
 did_it => عمل مکمل
 email_required => بارہ کرم، ایک جائز ای میل پتہ داخل کریں
-errors_during_install => کے فورم میں پوچھ سکتے ہیں Textpattern نقص ‏مڈبھیڑ‏ ہوئے، مدد کے لیے آپ {num} نصب کرتے
+errors_during_install => کے فورم میں پوچھ سکتے ہیں Textpattern نقص ‏مڈبھیڑ‏ ہوئے، مدد کے لیے آپ <strong>{num}</strong> نصب کرتے
 get_started =>
 go_to_login =>
 installation_postamble =>
@@ -1106,7 +1105,7 @@ pass_required =>
 please_enter_url => بارہ کرم آپ کی سائٹ کا ویب پہنچنا پتہ داخل کریں
 please_go_back =>
 populate_db =>
-prefix_bad_characters =>  میں کئی حروف ہیں جس کی اجازت نہیں {dbprefix} جدول سابقہ <br /> کے ساتھ مشابہ ہونا چاہئے <b>a-zA-Z_</b> کے ساتھ مشابہ ہونا چاہئے اور بقیہ حروف کسی بھی <strong>a-zA</strong>
+prefix_bad_characters => میں کئی حروف ہیں جس کی اجازت نہیں {dbprefix} جدول سابقہ کے ساتھ مشابہ ہونا چاہئے <strong>a-zA-Z_</strong> کے ساتھ مشابہ ہونا چاہئے اور بقیہ حروف کسی بھی <strong>a-zA</strong>
 prefix_warning => (نصب کرنا چاہتے ہے Textpattern تب استمعال کریں جب ایک ہی ڈیٹابیس میں ایک سے زیادہ <strong>صرف</strong>)
 progress_steps =>
 setup_comment_invite => تبصرہ
@@ -1118,19 +1117,19 @@ setup_password_strength_3 =>
 setup_password_strength_4 =>
 setup_show_password =>
 set_db_details =>
-set_temp_dir_prefs => عارضی فائل ذخیرہ کرنے کے لیے کوئی قابل تحریر پوشہ نہیں ملا <br /> بارہ مہربانی &#8220;اعلیٰ ترجیحات &#8221; میں &#8220; عارضی پوشہ کی راہ &#8221; کو نباہ کریں
+set_temp_dir_prefs => عارضی فائل ذخیرہ کرنے کے لیے کوئی قابل تحریر پوشہ نہیں ملا بارہ مہربانی “اعلیٰ ترجیحات ” میں “ عارضی پوشہ کی راہ ” کو نباہ کریں
 site_config =>
 site_url => URL ویب سائٹ کا
 tables_exist =>
 table_prefix => جدول سابقہ
-thanks_for_interest => میں دلچسپی لینے کے لئے آپ کا شکریہ Textpattern.
+thanks_for_interest => میں دلچسپی لینے کے لئے آپ کا شکریہ Textpattern
 that_went_well => ہر کام کامیابی سے مکممل! - ڈیٹابیس کے جدول کی بناوٹ اور بھرائی مکمل
 using_db => استمعال کیا جا رہا ہے {dbname}
-warn_mail_unavailable => سے کوئی ای میل نہیں بھیجے جاینگے Textpattern دستیاب نہیں، اس لیے mail() میں PHP آپ کے
+warn_mail_unavailable => سے کوئی ای میل نہیں بھیجے جاینگے Textpattern دستیاب نہیں، اس لیے <code dir="ltr">mail()</code> میں PHP آپ کے
 welcome_to_textpattern => میں خوش آمدید Textpattern
 your_email => آپکا ای میل پتہ
 your_full_name => آپ کا پورا نام
-you_can_access => میں انتخاب کردہ لاگ ان معلومات کے ساتھ داخل ہو سکتے ہیں <a href="index.php"> انتظامیہ</a> اب آپ
+you_can_access => میں انتخاب کردہ لاگ ان معلومات کے ساتھ داخل ہو سکتے ہیں <a href="index.php">انتظامیہ</a> اب آپ
 #@skin
 create_skin =>
 edit_skin =>
@@ -1171,7 +1170,7 @@ has_excerpt =>
 hilight =>
 hilight_limit =>
 html_id =>
-id =>
+id => ID#
 include_default =>
 inline_style =>
 input_size =>
@@ -1188,7 +1187,7 @@ match_type =>
 media =>
 msgcols =>
 msgrows =>
-n =>
+n => نام
 next_page_link =>
 no_categories_available =>
 no_forms_available =>
