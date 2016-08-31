@@ -19,7 +19,7 @@ GitHub's [web based editing features](https://help.github.com/articles/creating-
 To contribute to a translation directly from GitHub.com website:
 
 1. [Sign in](https://github.com/login) with your GitHub account
-2. Navigate to a Textpack file you want to alter, e.g. [textpacks/en-gb.textpack](https://github.com/textpattern/textpacks/blob/master/textpacks/en-gb.textpack).
+2. Navigate to a Textpack file you want to alter, e.g. [textpacks/en-gb.txt](https://github.com/textpattern/textpacks/blob/master/textpacks/en-gb.txt).
 3. Click or tap the **Edit** button above the presented file contents.
 4. Make some alterations to existing strings. Please, don't remove or add any string.
 5. After you've done, fill in the short commit message describing the change, e.g. *"Fixed typo in the name string"*.
@@ -43,7 +43,7 @@ Once your pull request is processed and marked closed (merged or denied), go bac
 
 ### Adding and removing strings
 
-Adding and removing strings happens through the main translation file, `en.textpack`. Open up the file and add or remove strings as needed (remember to place new strings where they belong). Once you are done, run the sync tool:
+Adding and removing strings happens through the main translation file, `en.txt`. Open up the file and add or remove strings as needed (remember to place new strings where they belong). Once you are done, run the sync tool:
 
 ```ShellSession
 $ ./textpack
@@ -53,14 +53,14 @@ The Textpack tool will sync your alterations to all other Textpack files. It cre
 
 ### Creating new translation
 
-When creating entirely new translations, always use the `en.textpack` as your template and reference point - this file is always up-to-date.
+When creating entirely new translations, always use the `en.txt` as your template and reference point - this file is always up-to-date.
 
 ### Creating new empty template
 
 Start by creating a new empty Textpack file:
 
 ```ShellSession
-$ touch textpacks/xx-xx.textpack
+$ touch textpacks/xx-xx.txt
 ```
 
 Then run the Textpack sync tool:
@@ -69,27 +69,27 @@ Then run the Textpack sync tool:
 $ ./textpack
 ```
 
-This will populate your empty `xx-xx.textpack` file with an empty Textpack template.
+This will populate your empty `xx-xx.txt` file with an empty Textpack template.
 
 ### Updating an existing translation
 
-After running the sync tool, any new strings will be empty - you have to compare it with `en.textpack` in order to review and update it, which can prove laborious. The tip below will help you translate new strings. **Note:** Commit everything before you do it!
+After running the sync tool, any new strings will be empty - you have to compare it with `en.txt` in order to review and update it, which can prove laborious. The tip below will help you translate new strings. **Note:** Commit everything before you do it!
 
 First, filter all new strings:
 
 ```ShellSession
-$ grep " =>[[:blank:]]*$" xx-xx.textpack | \
-xargs -n1 printf "grep '^%s =>' en.textpack\n" | \
+$ grep " =>[[:blank:]]*$" xx-xx.txt | \
+xargs -n1 printf "grep '^%s =>' en.txt\n" | \
 bash > xx-xx.txt
 ```
 
 Then, delete untranslated lines:
 
 ```ShellSession
-$ sed -i '/ =>[[:blank:]]*$/d' xx-xx.textpack
+$ sed -i '/ =>[[:blank:]]*$/d' xx-xx.txt
 ```
 
-This will leave you with just the new/empty strings. Edit `xx-xx.txt` in your favourite editor, then append the strings at the end of the original `xx-xx.textpack`. Finally, run the sync tool and test:
+This will leave you with just the new/empty strings. Edit `xx-xx.txt` in your favourite editor, then append the strings at the end of the original `xx-xx.txt`. Finally, run the sync tool and test:
 
 ```ShellSession
 $ ./textpack
