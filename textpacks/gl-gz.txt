@@ -1,4 +1,4 @@
-#@version 4.5.7;1471956219
+#@version 4.5.7;1472732512
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -175,6 +175,7 @@ parent => Pai
 active => Activo
 add => Engadir
 admin => Administrador
+ar-ar => عربي
 ar-dz => جزائري عربي
 are_you_sure => Estás seguro?
 article => artigo
