@@ -1,4 +1,4 @@
-#@version 4.5.7;1472560101
+#@version 4.5.7;1472734794
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -898,6 +898,7 @@ error_article_context =>
 error_category_context =>
 error_comment_context =>
 error_file_context =>
+error_image_context =>
 error_link_context =>
 error_section_context =>
 exact =>
