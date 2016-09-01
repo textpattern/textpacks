@@ -101,7 +101,7 @@ $ ./vendor/bin/phpunit
 The project uses [PHPunit](http://phpunit.de) for running its unit tests. Before running the tests, make sure you have installed dev-requirements using [Composer](http://getcomposer.org):
 
 ```ShellSession
-$ composer install --dev
+$ composer install
 ```
 
 To run a test:
