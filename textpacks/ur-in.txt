@@ -21,7 +21,6 @@ current_password =>
 designer => ڈیزائنر
 edit_author => مصنف کے معلومات تدوین کریں
 email_changed => ای میل کا پتہ <strong>{email}</strong> کو بدلہ گیا
-email_changed =>ای میل کا پتہ {email} کو بدلہ گیا =>
 error_adding_new_author => نۓ مصنف کو شامل کرنے میں نقص !
 freelancer => مصنف آزاد
 last_login => پچھلا لاگ ان
