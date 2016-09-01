@@ -1,4 +1,4 @@
-#@version 4.5.7;1471956219
+#@version 4.5.7;1472732125
 #@admin
 account_activation => الرجاء تنشيط حسابك
 account_activation_confirmation => الرجاء استخدام الرابط أدناه لتنشيط حسابك وقم بإعداد كلمة السر.
@@ -175,6 +175,7 @@ parent => فئة الأصل
 active => نشيط
 add => إضافة
 admin => إدارة
+ar-ar => عربي
 ar-dz => جزائري عربي
 are_you_sure => هل أنت متأكد؟
 article => مقال
