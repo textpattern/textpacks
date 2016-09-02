@@ -431,7 +431,7 @@ low => کم
 magic_quotes => Magic quotes
 missing_files => فایل های یافت نشده
 modified_files => برخی از فایل‌های Textpattern نغییر یافته‌اند
-mod_rewrite_missing => ماژول <code>mod_rewrite</code> بر روی آپاچی نصب نیست
+mod_rewrite_missing => ماژول <code dir="ltr">mod_rewrite</code> بر روی آپاچی نصب نیست
 mysql_table_errors => این اشکالات در جدول‌های MySQL شما یافت شد
 no_temp_dir => هیچ پوشه‌ای برای فایل‌های موقت تعریف نشده است
 old_files => برخی از فایل‌های Textpattern قدیمی‌اند
