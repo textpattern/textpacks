@@ -63,7 +63,7 @@
   <string name="real_name">Rigtigt navn</string>
   <string name="resend_activation">Resend activation link</string>
   <string name="resend_activation_request_sent">Activation message sent to {name}.</string>
-  <string name="resetpassword">Nulstil kodeord</string>
+  <string name="resetpassword">Reset password</string>
   <string name="reset_author_password">Nulstil forfatter kodeord</string>
   <string name="search_users">Search users</string>
   <string name="set_password">Set your password</string>
@@ -350,7 +350,7 @@
   <string name="save_css_as">Gem stilark som:</string>
   <string name="save_this_declaration">Gem denne deklaration</string>
   <string name="save_this_selector">Gem denne selector</string>
-  <string name="selector">Vælger</string>
+  <string name="selector">Selector</string>
   <string name="style_sheet">Style sheet</string>
   <string name="style_sheet_saved">Style sheet gemt</string>
   <string name="you_are_editing_css">Du redigerer CSS</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Funktionen <strong>{name}</strong> bruges ikke længere: brug <strong>{with}</strong> i stedet.</string>
   <string name="deprecated_tag">tag bruges ikke længere</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Antal downloads</string>
+  <string name="download_count">Download count</string>
   <string name="edit">Redigér</string>
   <string name="email">Email</string>
   <string name="email_address">Email adresse</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">hyperlink</string>
   <string name="image">billede</string>
   <string name="imageurl">billedurl</string>
-  <string name="image_context">billede</string>
+  <string name="image_context">image</string>
   <string name="inserted_text">indsat tekst</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Nøgleord</string>
@@ -897,7 +897,7 @@
   <string name="next">Næste</string>
   <string name="no">Nej</string>
   <string name="none">Ingen</string>
-  <string name="nopopup">nuværende vindue</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Nummereret liste</string>
@@ -1009,7 +1009,7 @@
   <string name="uses_style">Bruger style</string>
   <string name="about_to_create">You are about to create and populate database tables. At this stage you will also need to set up an administrator user account.</string>
   <string name="add_config_file">Add config file</string>
-  <string name="admin_theme">Admin tema</string>
+  <string name="admin_theme">Admin-side theme</string>
   <string name="already_installed">It looks like Textpattern is already installed. If you want to make a clean install, please remove <code>config.php</code> from your <code>/textpattern/</code> directory and try again.</string>
   <string name="back">Go back</string>
   <string name="before_you_proceed">Before you proceed:</string>
@@ -1033,13 +1033,13 @@
   <string name="installation_postamble">For security, you should now remove the <code>setup</code> directory from your <code>/textpattern/</code> directory. Please check the Admin Diagnostics panel from time to time for update announcements or troubleshooting hints.</string>
   <string name="mysql_database">MySQL database</string>
   <string name="mysql_login">MySQL user name</string>
-  <string name="mysql_password">MySQL kodeord</string>
+  <string name="mysql_password">MySQL password</string>
   <string name="mysql_server">MySQL server</string>
   <string name="my_site">My site</string>
   <string name="my_slogan">My pithy slogan</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Inevitably, we need a few details&#8230;</string>
-  <string name="next_step">Næste</string>
+  <string name="next_step">Next</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Please enter the URL of your site.</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1047,7 +1047,7 @@
   <string name="prefix_bad_characters">The table prefix <strong>{dbprefix}</strong> contains characters that are not allowed. The first character must match one of <strong>a-zA-Z_</strong> and all following characters must match one of <strong>a-zA-Z0-9_</strong>.</string>
   <string name="prefix_warning">(use <strong>only</strong> if you require multiple installations in one database)</string>
   <string name="progress_steps">There are 4 steps to this installation process:</string>
-  <string name="setup_comment_invite">kommentar</string>
+  <string name="setup_comment_invite">Comment</string>
   <string name="setup_login">Choose a login name</string>
   <string name="setup_password_strength_0">Poor</string>
   <string name="setup_password_strength_1">Weak</string>
@@ -1097,7 +1097,7 @@
   <string name="default_title">Text to use for default section link</string>
   <string name="escape">Escape</string>
   <string name="exclude">Exclude</string>
-  <string name="filename">Filnavn</string>
+  <string name="filename">Name</string>
   <string name="file_download_tags">Fil downloads</string>
   <string name="flavor">Syndication format</string>
   <string name="flavour">version</string>
@@ -1111,7 +1111,7 @@
   <string name="include_default">Include default section?</string>
   <string name="inline_style">Inline style (CSS)</string>
   <string name="input_size">Input størrelse</string>
-  <string name="isize">Input størrelse</string>
+  <string name="isize">Input size</string>
   <string name="labeltag">Label tag</string>
   <string name="limit">Grænse</string>
   <string name="linkclass">CSS class for links</string>
@@ -1159,8 +1159,8 @@
   <string name="tag_category1">Kategori 1</string>
   <string name="tag_category2">Kategori 2</string>
   <string name="tag_category_list">Kategoriliste</string>
-  <string name="tag_comments">Kommentarer</string>
-  <string name="tag_comments_form">Kommentarer form</string>
+  <string name="tag_comments">Comments</string>
+  <string name="tag_comments_form">Comments form</string>
   <string name="tag_comments_invite">Kommentar invitation</string>
   <string name="tag_comments_preview">Comments preview</string>
   <string name="tag_comment_anchor">Comment anchor</string>
