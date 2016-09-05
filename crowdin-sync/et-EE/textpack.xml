@@ -507,7 +507,7 @@
   <string name="create_thumbnail">Loo pisipilt</string>
   <string name="edit_image">Edit image</string>
   <string name="extension">Extension</string>
-  <string name="images">Images</string>
+  <string name="images">Pildid</string>
   <string name="image_deleted">Image(s) <strong>{name}</strong> deleted.</string>
   <string name="image_delete_failed">Image(s) <strong>{name}</strong> could not be completely deleted.</string>
   <string name="image_details">Image details</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download count</string>
+  <string name="download_count">Kokku allalaetud</string>
   <string name="edit">Toimeta</string>
   <string name="email">E-mail</string>
   <string name="email_address">E-maili aadress</string>
@@ -849,14 +849,14 @@
   <string name="form">Vorm</string>
   <string name="forms">Vormid</string>
   <string name="go">Mine</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Tagasi</string>
   <string name="go_content">Go to content</string>
   <string name="go_nav">Go to navigation</string>
   <string name="go_search">Go to search</string>
   <string name="go_to">Liigu</string>
   <string name="go_txp_com">Go to the Textpattern website</string>
   <string name="header">Pealkiri</string>
-  <string name="home">Home</string>
+  <string name="home">Kodu</string>
   <string name="host">Host</string>
   <string name="hour">tund</string>
   <string name="hours">tundi</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">link</string>
   <string name="image">pilt</string>
   <string name="imageurl">pildiurl</string>
-  <string name="image_context">image</string>
+  <string name="image_context">pilt</string>
   <string name="inserted_text">sisestatud tekst</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Võtmesõnad</string>
@@ -897,7 +897,7 @@
   <string name="next">Järgmine</string>
   <string name="no">Ei</string>
   <string name="none">ükski</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">Samas aknas</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Numbriline loetelu</string>
@@ -1087,7 +1087,7 @@
   <string name="build">Ehita tag</string>
   <string name="button_text">Nupu tekst</string>
   <string name="category_list_section">Link to specific section?</string>
-  <string name="category_tags">Category</string>
+  <string name="category_tags">Kategooria</string>
   <string name="class">CSS class</string>
   <string name="comments_form">Vorm</string>
   <string name="comment_details">Comment details</string>
@@ -1111,7 +1111,7 @@
   <string name="include_default">Include default section?</string>
   <string name="inline_style">Inline style (CSS)</string>
   <string name="input_size">Sisendsuurus</string>
-  <string name="isize">Input size</string>
+  <string name="isize">Sisendsuurus</string>
   <string name="labeltag">HTML tag sildile</string>
   <string name="limit">Limiit</string>
   <string name="linkclass">CSS class for links</string>
@@ -1138,7 +1138,7 @@
   <string name="searchsticky">Search sticky articles?</string>
   <string name="search_input_form">Otsinguväli</string>
   <string name="search_results_form">Otsingu tulemused</string>
-  <string name="section_tags">Section</string>
+  <string name="section_tags">Sektsioon</string>
   <string name="showalways">Show always</string>
   <string name="showcount">Show count?</string>
   <string name="size_format">Size format</string>
@@ -1155,12 +1155,12 @@
   <string name="tag_body">Sisu</string>
   <string name="tag_body_excerpt">Sisu kokkuvõte</string>
   <string name="tag_breadcrumb">Navigeerimisriba</string>
-  <string name="tag_category">Category</string>
+  <string name="tag_category">Kategooria</string>
   <string name="tag_category1">Kategooria 1</string>
   <string name="tag_category2">Kategooria 2</string>
   <string name="tag_category_list">Kategooria loetelu</string>
-  <string name="tag_comments">Comments</string>
-  <string name="tag_comments_form">Comments form</string>
+  <string name="tag_comments">Kommentaarid</string>
+  <string name="tag_comments_form">Vorm</string>
   <string name="tag_comments_invite">Kommentaaride nimetus</string>
   <string name="tag_comments_preview">Comments preview</string>
   <string name="tag_comment_anchor">Comment anchor</string>
