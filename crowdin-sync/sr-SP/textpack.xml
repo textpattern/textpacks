@@ -81,7 +81,7 @@
   <string name="advanced_options">Напредне опције</string>
   <string name="article_day">Дан</string>
   <string name="article_expires_before_postdate">Грешка: Унос истиче <strong>пре</strong> датума објаве.</string>
-  <string name="article_exp_day">Day</string>
+  <string name="article_exp_day">Дан</string>
   <string name="article_exp_hour">Hour</string>
   <string name="article_exp_minute">Minute</string>
   <string name="article_exp_month">Month</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download count</string>
+  <string name="download_count">Download Бројач</string>
   <string name="edit">Измени</string>
   <string name="email">E-mail</string>
   <string name="email_address">E-mail адреса</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">hyperlink</string>
   <string name="image">слика</string>
   <string name="imageurl">imageurl</string>
-  <string name="image_context">image</string>
+  <string name="image_context">слика</string>
   <string name="inserted_text">уметнути текст</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Кључне речи</string>
@@ -897,7 +897,7 @@
   <string name="next">Следећи</string>
   <string name="no">Не</string>
   <string name="none">Ниједан</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">тренутни прозор</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Нумеричка листа</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">Мој слоган</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Неоспорно, потребно нам је неколико детаља</string>
-  <string name="next_step">Next</string>
+  <string name="next_step">Следећи</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Унесите web адресу Вашег site-a</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
