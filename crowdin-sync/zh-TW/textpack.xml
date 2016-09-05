@@ -81,7 +81,7 @@
   <string name="advanced_options">進階選項</string>
   <string name="article_day">日</string>
   <string name="article_expires_before_postdate">Error: article expires <strong>before</strong> post date.</string>
-  <string name="article_exp_day">Day</string>
+  <string name="article_exp_day">日</string>
   <string name="article_exp_hour">Hour</string>
   <string name="article_exp_minute">Minute</string>
   <string name="article_exp_month">Month</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">超連結</string>
   <string name="image">圖片</string>
   <string name="imageurl">圖片網址</string>
-  <string name="image_context">image</string>
+  <string name="image_context">圖片</string>
   <string name="inserted_text">新增的文字</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">關鍵字</string>
@@ -897,7 +897,7 @@
   <string name="next">下一頁</string>
   <string name="no">否</string>
   <string name="none">無</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">同一頁面</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">數字列表</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">網站敘述</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">請進行網站細部設定</string>
-  <string name="next_step">Next</string>
+  <string name="next_step">下一頁</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">請輸入您的網站網址</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1087,7 +1087,7 @@
   <string name="build">建立標籤</string>
   <string name="button_text">按鈕文字</string>
   <string name="category_list_section">連結至指定版區？</string>
-  <string name="category_tags">Category</string>
+  <string name="category_tags">分類</string>
   <string name="class">CSS Class</string>
   <string name="comments_form">表單</string>
   <string name="comment_details">迴響細節</string>
@@ -1138,7 +1138,7 @@
   <string name="searchsticky">列出置頂文章</string>
   <string name="search_input_form">搜尋區塊</string>
   <string name="search_results_form">搜尋結果</string>
-  <string name="section_tags">Section</string>
+  <string name="section_tags">版區</string>
   <string name="showalways">永遠顯示</string>
   <string name="showcount">顯示篇數</string>
   <string name="size_format">Size format</string>
@@ -1155,7 +1155,7 @@
   <string name="tag_body">文章內容</string>
   <string name="tag_body_excerpt">內容摘要</string>
   <string name="tag_breadcrumb">導覽列</string>
-  <string name="tag_category">Category</string>
+  <string name="tag_category">分類</string>
   <string name="tag_category1">分類一</string>
   <string name="tag_category2">分類二</string>
   <string name="tag_category_list">分類列表</string>
