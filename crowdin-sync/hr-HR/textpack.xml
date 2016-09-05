@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download count</string>
+  <string name="download_count">Download brojač</string>
   <string name="edit">Uredi</string>
   <string name="email">Email</string>
   <string name="email_address">Email adresa</string>
@@ -897,7 +897,7 @@
   <string name="next">Sljedeće</string>
   <string name="no">Ne</string>
   <string name="none">Nijedan</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">trenutni prozor</string>
   <string name="no_comments">Trenutno nema komentara na ovaj članak.</string>
   <string name="no_search_matches">Žao mi je, nema rezultata za vaš traženi pojam</string>
   <string name="numeric_list">Numerička lista</string>
@@ -972,7 +972,7 @@
   <string name="value">Vrijednost</string>
   <string name="version">Verzija</string>
   <string name="view">Pogledaj</string>
-  <string name="website">Website</string>
+  <string name="website">Web</string>
   <string name="week">tjedan</string>
   <string name="weeks">tjedana</string>
   <string name="while_parsing_page_form">while parsing form <strong>{form}</strong> on page <strong>{page}</strong></string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">Moj jaki slogan</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Neosporno, potrebno nam je nekoliko detalja&#8230;</string>
-  <string name="next_step">Next</string>
+  <string name="next_step">Sljedeće</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Unesite web adresu vašeg site-a.</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1087,7 +1087,7 @@
   <string name="build">Build tag</string>
   <string name="button_text">Button text</string>
   <string name="category_list_section">Link na specifičnu sekciju?</string>
-  <string name="category_tags">Category</string>
+  <string name="category_tags">Kategorija</string>
   <string name="class">CSS klasa</string>
   <string name="comments_form">Forme komentara</string>
   <string name="comment_details">Detalji komentara</string>
@@ -1138,7 +1138,7 @@
   <string name="searchsticky">Pretraži sticky unose?</string>
   <string name="search_input_form">Search input</string>
   <string name="search_results_form">Rezultati pretraživanja</string>
-  <string name="section_tags">Section</string>
+  <string name="section_tags">Sekcija</string>
   <string name="showalways">Show always</string>
   <string name="showcount">Prikaži zbroj?</string>
   <string name="size_format">Size format</string>
@@ -1155,7 +1155,7 @@
   <string name="tag_body">Sadržaj</string>
   <string name="tag_body_excerpt">Sažetak sadržaja</string>
   <string name="tag_breadcrumb">Breadcrumb</string>
-  <string name="tag_category">Category</string>
+  <string name="tag_category">Kategorija</string>
   <string name="tag_category1">Kategorija 1</string>
   <string name="tag_category2">Kategorija 2</string>
   <string name="tag_category_list">Lista kategorija</string>
