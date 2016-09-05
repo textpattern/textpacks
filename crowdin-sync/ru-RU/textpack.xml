@@ -849,7 +849,7 @@
   <string name="form">Форма</string>
   <string name="forms">Формы</string>
   <string name="go">Перейти</string>
-  <string name="go_back">Назад</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">К содержанию</string>
   <string name="go_nav">К навигации</string>
   <string name="go_search">К поиску</string>
@@ -897,7 +897,7 @@
   <string name="next">Следующая</string>
   <string name="no">Нет</string>
   <string name="none">Нет</string>
-  <string name="nopopup">в том же окне</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">Нет комментариев к данной статье.</string>
   <string name="no_search_matches">Извините, не найдено результатов соответствующих Вашему запросу</string>
   <string name="numeric_list">Нумерованный список</string>
