@@ -849,7 +849,7 @@
   <string name="form">Forma</string>
   <string name="forms">Formos</string>
   <string name="go">Eiti</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Atgal</string>
   <string name="go_content">Grįžti į turinį</string>
   <string name="go_nav">Pereiti prie navigacijos</string>
   <string name="go_search">Grįžti į paiešką</string>
@@ -897,7 +897,7 @@
   <string name="next">Tolesnis</string>
   <string name="no">Ne</string>
   <string name="none">Nėra</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">veikiamasis langas</string>
   <string name="no_comments">Nėra jokių šio straipsnio komentarų.</string>
   <string name="no_search_matches">Atsiprašome, bet nebuvo rasta jokių rezultatų, atitinkančių jūsų užklausą</string>
   <string name="numeric_list">Skaitinis sąrašas</string>
