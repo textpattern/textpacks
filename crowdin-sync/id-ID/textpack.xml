@@ -87,19 +87,19 @@
   <string name="article_exp_month">Bulan</string>
   <string name="article_exp_second">Detik</string>
   <string name="article_exp_year">Tahun</string>
-  <string name="article_hour">Jam</string>
+  <string name="article_hour">Hour</string>
   <string name="article_image">Gambar artikel</string>
   <string name="article_markup">Article markup</string>
-  <string name="article_minute">Menit</string>
-  <string name="article_month">Bulan</string>
+  <string name="article_minute">Minute</string>
+  <string name="article_month">Month</string>
   <string name="article_posted">Artikel dimuat.</string>
   <string name="article_saved">Artikel disimpan</string>
   <string name="article_saved_draft">Artikel disimpan sebagai konsep.</string>
   <string name="article_saved_hidden">Artikel disimpan sebagai tersembunyi.</string>
   <string name="article_saved_pending">Artikel disimpan sebagai tertunda</string>
   <string name="article_save_failed">The article was not saved due to an error. Please try again.</string>
-  <string name="article_second">Detik</string>
-  <string name="article_year">Tahun</string>
+  <string name="article_second">Second</string>
+  <string name="article_year">Year</string>
   <string name="comment_settings">Comment options</string>
   <string name="concurrent_edit_by">Artikel TIDAK disimpan. {author} telah memodifikasi artikel saat Anda mengeditnya. Jika Anda yakin, tekan tombol ‘simpan’ tombol sekali lagi.</string>
   <string name="date_settings">Date and time</string>
@@ -257,7 +257,7 @@
   <string name="stay_logged_in">Tetap di-log masuk dengan browser ini</string>
   <string name="sticky">Lengket</string>
   <string name="structure">Struktur</string>
-  <string name="tab_admin">Manage</string>
+  <string name="tab_admin">Admin</string>
   <string name="tab_comments">Komentar</string>
   <string name="tab_content">Isi</string>
   <string name="tab_diagnostics">Diagnostik</string>
@@ -507,7 +507,7 @@
   <string name="create_thumbnail">Buat gambar-kecil</string>
   <string name="edit_image">Edit image</string>
   <string name="extension">Extension</string>
-  <string name="images">Gambar</string>
+  <string name="images">Images</string>
   <string name="image_deleted">Image(s) <strong>{name}</strong> deleted.</string>
   <string name="image_delete_failed">Gambar <strong>{name}</strong> tidak sepenuhnya dapat dihapus.</string>
   <string name="image_details">Image details</string>
@@ -612,7 +612,7 @@
   <string name="plugin_help">Bantuan Plugin</string>
   <string name="plugin_installed">Plugin <strong>{name}</strong> installed.</string>
   <string name="plugin_install_failed">Plugin <strong>{name}</strong> install failed!</string>
-  <string name="plugin_modified">Diubah</string>
+  <string name="plugin_modified">Modified</string>
   <string name="plugin_prefs">Opsi</string>
   <string name="plugin_saved">Plugin <strong>{name}</strong> saved.</string>
   <string name="plugin_updated">Plugin <strong>{name}</strong> updated.</string>
@@ -692,7 +692,7 @@
   <string name="language">Bahasa</string>
   <string name="lastmod_keepalive">Kompensasi untuk koneksi persistent <code>mod_deflate</code> bug?</string>
   <string name="leave_text_untouched">Biarkan teks apa adanya</string>
-  <string name="link">Tautan</string>
+  <string name="link">Links</string>
   <string name="locale">Lokal</string>
   <string name="locale_not_available_for_language">No locale available for language <strong>{name}</strong>. Using default locale instead.</string>
   <string name="logging">Pencatatan</string>
@@ -897,7 +897,7 @@
   <string name="next">Berikutnya</string>
   <string name="no">Tidak</string>
   <string name="none">Tak-satupun</string>
-  <string name="nopopup">jendela aktif</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">Saat ini tidak ada komentar di artikel ini.</string>
   <string name="no_search_matches">Maaf, tidak ada hasil yang sesuai dengan permintaan pencarianmu</string>
   <string name="numeric_list">Daftar numerik</string>
@@ -1009,7 +1009,7 @@
   <string name="uses_style">Menggunakan gaya</string>
   <string name="about_to_create">Anda akan membuat dan menempatkan tabel basis data.</string>
   <string name="add_config_file">Add config file</string>
-  <string name="admin_theme">Tema sisi admin</string>
+  <string name="admin_theme">Admin-side theme</string>
   <string name="already_installed">Sepertinya Textpattern sudah terinstal. Jika Anda ingin membuat instalasi baru, silakan hapus <code>config.php</code> dari direktori <code>/textpattern/</code> Anda dan coba lagi.</string>
   <string name="back">Go back</string>
   <string name="before_you_proceed">Sebelum Anda memproses:</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">Sloganku yang penuh makna</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Tak pelak, kita memerlukan beberapa rincian</string>
-  <string name="next_step">Berikutnya</string>
+  <string name="next_step">Next</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Harap masukkan alamat web yang dapat dijangkau dari situs Anda</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
