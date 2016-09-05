@@ -849,7 +849,7 @@
   <string name="form">Módulo</string>
   <string name="forms">Módulos</string>
   <string name="go">ok</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Atrás</string>
   <string name="go_content">Ir para o Conteúdo</string>
   <string name="go_nav">Ir para a Navegação</string>
   <string name="go_search">Ir para a Pesquisa</string>
@@ -897,7 +897,7 @@
   <string name="next">seguinte</string>
   <string name="no">Não</string>
   <string name="none">Nenhum</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">janela actual</string>
   <string name="no_comments">Não existem actualmente comentarios a este artigo</string>
   <string name="no_search_matches">lamentamos, mas não existem resultados para a sua busca</string>
   <string name="numeric_list">Lista numérica</string>
