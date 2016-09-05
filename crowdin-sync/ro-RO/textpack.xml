@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag-ul a fost abandonat</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download count</string>
+  <string name="download_count">Numarul download-urilor</string>
   <string name="edit">Editeaza</string>
   <string name="email">E-mail</string>
   <string name="email_address">Adresa de email</string>
@@ -849,7 +849,7 @@
   <string name="form">Form</string>
   <string name="forms">Forms-uri</string>
   <string name="go">du-te</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Inapoi</string>
   <string name="go_content">Du-te la continut</string>
   <string name="go_nav">Du-te la navigare</string>
   <string name="go_search">Du-te la cautare</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">hyperlink</string>
   <string name="image">imagine</string>
   <string name="imageurl">URL-ul imaginii</string>
-  <string name="image_context">image</string>
+  <string name="image_context">imagine</string>
   <string name="inserted_text">text inserat</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Cuvinte cheie</string>
@@ -897,7 +897,7 @@
   <string name="next">Urmatorul</string>
   <string name="no">Nu</string>
   <string name="none">Nimic</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">fereastra curenta</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Lista Cardinala</string>
