@@ -81,7 +81,7 @@
   <string name="advanced_options">Részletes beállítások</string>
   <string name="article_day">Nap</string>
   <string name="article_expires_before_postdate">Hiba: A cikk lejárati dátuma <strong>előbb van</strong>, mint a beküldés dátuma.</string>
-  <string name="article_exp_day">Day</string>
+  <string name="article_exp_day">Nap</string>
   <string name="article_exp_hour">Hour</string>
   <string name="article_exp_minute">Minute</string>
   <string name="article_exp_month">Month</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">a címke érvénytelenítve</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download count</string>
+  <string name="download_count">Letöltés számláló</string>
   <string name="edit">szerkeszt</string>
   <string name="email">Email</string>
   <string name="email_address">Email cím</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">hyperlink</string>
   <string name="image">kép</string>
   <string name="imageurl">imageurl</string>
-  <string name="image_context">image</string>
+  <string name="image_context">kép</string>
   <string name="inserted_text">beillesztett szöveg</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Kulcsszavak</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">Az én kis jelmondatom</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Néhány részletres beállításra elkerülhetetlenül szükségünk van&#8230;</string>
-  <string name="next_step">Next</string>
+  <string name="next_step">Következő</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Kérlek add meg az oldalad webről elérhető útvonalát.</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
