@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Comptador de descàrregues</string>
+  <string name="download_count">Download count</string>
   <string name="edit">edita</string>
   <string name="email">correu</string>
   <string name="email_address">Adreça de correu</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">hiperenllaç</string>
   <string name="image">imatge</string>
   <string name="imageurl">URL de la imatge</string>
-  <string name="image_context">imatge</string>
+  <string name="image_context">image</string>
   <string name="inserted_text">text afegit</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Paraules clau</string>
@@ -897,7 +897,7 @@
   <string name="next">Següent</string>
   <string name="no">no</string>
   <string name="none">Cap</string>
-  <string name="nopopup">finestra actual</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Llista numèrica</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">El meu eslògan genial</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Inevitablement, ens calen alguns detalls&#8230;</string>
-  <string name="next_step">Següent</string>
+  <string name="next_step">Next</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Indica sisplau l’adreça URL del teu lloc web.</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1087,7 +1087,7 @@
   <string name="build">Construeix etiqueta</string>
   <string name="button_text">Botó de text</string>
   <string name="category_list_section">Enllaç a una secció específica?</string>
-  <string name="category_tags">Categoria</string>
+  <string name="category_tags">Category</string>
   <string name="class">Classe CSS</string>
   <string name="comments_form">Formulari</string>
   <string name="comment_details">Detalls del comentari</string>
@@ -1138,7 +1138,7 @@
   <string name="searchsticky">Cerca articles fixos?</string>
   <string name="search_input_form">Camp de cerca</string>
   <string name="search_results_form">Formulari de resultats de la cerca</string>
-  <string name="section_tags">Secció</string>
+  <string name="section_tags">Section</string>
   <string name="showalways">Show always</string>
   <string name="showcount">Mostra el nombre?</string>
   <string name="size_format">Format de tamany</string>
@@ -1155,7 +1155,7 @@
   <string name="tag_body">Cos</string>
   <string name="tag_body_excerpt">Extracte del cos</string>
   <string name="tag_breadcrumb">Ubicació</string>
-  <string name="tag_category">Categoria</string>
+  <string name="tag_category">Category</string>
   <string name="tag_category1">Categoria 1</string>
   <string name="tag_category2">Categoria 2</string>
   <string name="tag_category_list">Llista de categories</string>
