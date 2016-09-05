@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download brojač</string>
+  <string name="download_count">Download count</string>
   <string name="edit">Izmeni</string>
   <string name="email">E-mail</string>
   <string name="email_address">E-mail adresa</string>
@@ -856,7 +856,7 @@
   <string name="go_to">Idi na</string>
   <string name="go_txp_com">Go to the Textpattern website</string>
   <string name="header">Heading</string>
-  <string name="home">Početna</string>
+  <string name="home">Home</string>
   <string name="host">Host</string>
   <string name="hour">sat</string>
   <string name="hours">sati</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">hyperlink</string>
   <string name="image">slika</string>
   <string name="imageurl">imageurl</string>
-  <string name="image_context">slika</string>
+  <string name="image_context">image</string>
   <string name="inserted_text">umetnuti tekst</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Ključne reči</string>
@@ -897,7 +897,7 @@
   <string name="next">Sledeći</string>
   <string name="no">Ne</string>
   <string name="none">Nijedan</string>
-  <string name="nopopup">trenutni prozor</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Numerička lista</string>
@@ -940,7 +940,7 @@
   <string name="selected">Odabrano</string>
   <string name="site">Sajt</string>
   <string name="sitename">Ime sajta</string>
-  <string name="siteurl">URL sajta</string>
+  <string name="siteurl">Site URL</string>
   <string name="skip_to_main_content">Skip to main content</string>
   <string name="status">Status</string>
   <string name="strong">jako</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">Moj slogan</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Neosporno, potrebno nam je nekoliko detalja</string>
-  <string name="next_step">Sledeći</string>
+  <string name="next_step">Next</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Unesite web adresu Vašeg site-a</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1238,7 +1238,7 @@
   <string name="tag_section_list">Lista sekcije</string>
   <string name="tag_sitename">Ime sajta</string>
   <string name="tag_site_name">Ime sajta</string>
-  <string name="tag_site_slogan">Slogan sajta</string>
+  <string name="tag_site_slogan">Site slogan</string>
   <string name="tag_title">Naslov</string>
   <string name="tag__inline">Inline na početku</string>
   <string name="textonly">Samo text?</string>
