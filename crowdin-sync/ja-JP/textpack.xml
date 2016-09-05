@@ -849,7 +849,7 @@
   <string name="form">フォーム</string>
   <string name="forms">フォーム</string>
   <string name="go">実行</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">戻る</string>
   <string name="go_content">コンテントへ</string>
   <string name="go_nav">ナビゲーションへ</string>
   <string name="go_search">検索へ</string>
@@ -897,7 +897,7 @@
   <string name="next">次へ</string>
   <string name="no">いいえ</string>
   <string name="none">無し</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">ポップアップを無効にする</string>
   <string name="no_comments">この記事のコメントはまだありません。</string>
   <string name="no_search_matches">検索に合致する結果は見つかりませんでした。</string>
   <string name="numeric_list">順序付きリスト</string>
@@ -1180,7 +1180,7 @@
   <string name="tag_comment_web_input">コメントウェブサイト入力</string>
   <string name="tag_css">CSS リンク (<code>&lt;head&gt;</code>)</string>
   <string name="tag_email">メールアドレスリンク (Spam対策済)</string>
-  <string name="tag_excerpt">Excerpt</string>
+  <string name="tag_excerpt">概要</string>
   <string name="tag_feed_link">記事 Feed リンク</string>
   <string name="tag_file_download">ファイルダウンロード</string>
   <string name="tag_file_download_category">ファイルカテゴリ</string>
