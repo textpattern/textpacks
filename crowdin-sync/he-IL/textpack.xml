@@ -897,7 +897,7 @@
   <string name="next">הבא</string>
   <string name="no">לא</string>
   <string name="none">ללא</string>
-  <string name="nopopup">החלון הנוכחי</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">רשימה ממוספרת</string>
@@ -1009,7 +1009,7 @@
   <string name="uses_style">משתמש בסגנון</string>
   <string name="about_to_create">אתה עומד ליצור טבלאות ולמלא אותם בנתונים.</string>
   <string name="add_config_file">Add config file</string>
-  <string name="admin_theme">עיצוב איזור הניהול</string>
+  <string name="admin_theme">Admin-side theme</string>
   <string name="already_installed">נראה כי Textpattern כבר מותקנת. אם ברצונך להתקין אותה מחדש, אנא מחק <code dir="ltr">config.php</code> מספרייה <code dir="ltr">/textpattern/</code> ונסה שוב.</string>
   <string name="back">Go back</string>
   <string name="before_you_proceed">לפני שתמשיך</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">הסלוגן התמציתי שלי</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">באופן בלתי נמנע, אנו זקוקים למספר פרטים</string>
-  <string name="next_step">הבא</string>
+  <string name="next_step">Next</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">אנא רשום את כתובת האתר שלך.</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
