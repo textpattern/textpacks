@@ -696,7 +696,7 @@
   <string name="locale">Lokalt språk</string>
   <string name="locale_not_available_for_language">No locale available for language <strong>{name}</strong>. Using default locale instead.</string>
   <string name="logging">Logging</string>
-  <string name="logs_expire">Logs expire after how many days?</string>
+  <string name="logs_expire">Dager til loggene utløper?</string>
   <string name="manage_languages">Språk</string>
   <string name="markup_default">Default markup</string>
   <string name="max_url_len">Maks. lengde på URL’er (i tegn)</string>
@@ -793,14 +793,14 @@
   <string name="comments_closed">Kommentarer er låst for denne artikkelen.</string>
   <string name="comments_on">Kommentarer på</string>
   <string name="comments_permlink">Permanent link</string>
-  <string name="comment_comment">Comment</string>
+  <string name="comment_comment">Kommentar</string>
   <string name="comment_duplicate">Duplicate comments are not accepted.</string>
   <string name="comment_email">Email</string>
   <string name="comment_email_required">Vennligst fyll inn gyldig epostadresse.</string>
   <string name="comment_invitation">Invitasjon</string>
   <string name="comment_message">Melding</string>
   <string name="comment_moderated">Kommentaren din venter på moderasjon. Den vil vises når den har blitt godkjent.</string>
-  <string name="comment_name">Name</string>
+  <string name="comment_name">Navn</string>
   <string name="comment_name_required">Vennligst fyll inn navnet ditt.</string>
   <string name="comment_posted">Takk for at du kommenterte.</string>
   <string name="comment_received">[{site}] comment received: {title}</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">taggen er ikke lenger i bruk</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download count</string>
+  <string name="download_count">Totalt nedlastinger</string>
   <string name="edit">Endre</string>
   <string name="email">Epost</string>
   <string name="email_address">Epostadresse</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">lenke</string>
   <string name="image">bilde</string>
   <string name="imageurl">bildeadresse</string>
-  <string name="image_context">image</string>
+  <string name="image_context">bilde</string>
   <string name="inserted_text">innfyllt text</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Nøkkelord</string>
@@ -897,7 +897,7 @@
   <string name="next">Neste</string>
   <string name="no">Nei</string>
   <string name="none">Ingen</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">aktivt vindu</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Numerisk liste</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">Mitt flotte slagord</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Inevitably, we need a few details&#8230;</string>
-  <string name="next_step">Next</string>
+  <string name="next_step">Neste</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Vennligst skriv inn internettadressen til siden din.</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1047,7 +1047,7 @@
   <string name="prefix_bad_characters">Tabellprefikset {dbprefix} inneholder ulovlige tegn. Det første tegnet må være blandt <strong>a-zA-Z_</strong> og alle andre tegn må være blandt <strong>a-zA-Z0-9_</strong>.</string>
   <string name="prefix_warning">(bruk dette feltet <strong>kun</strong> hvis du trenger flere installasjoner i én database)</string>
   <string name="progress_steps">There are 4 steps to this installation process:</string>
-  <string name="setup_comment_invite">Comment</string>
+  <string name="setup_comment_invite">Kommentar</string>
   <string name="setup_login">Choose a login name</string>
   <string name="setup_password_strength_0">Poor</string>
   <string name="setup_password_strength_1">Weak</string>
@@ -1058,7 +1058,7 @@
   <string name="set_db_details">Set database details</string>
   <string name="set_temp_dir_prefs">Sorry, but Textpattern failed to find a writable directory to hold temporary files. Please visit the <strong>Preferences</strong> administration panel and adjust the <strong>Temporary directory path</strong> setting to suit your needs.</string>
   <string name="site_config">Site configuration</string>
-  <string name="site_url">Site URL</string>
+  <string name="site_url">Sidens URL-adresse</string>
   <string name="tables_exist">It appears the tables in <strong>{dbname}</strong> already exist. If you wish to continue setup, either delete the existing tables, or choose a different table prefix.</string>
   <string name="table_prefix">Table prefix (optional)</string>
   <string name="thanks_for_interest">Takk for din interesse i Textpattern</string>
@@ -1087,7 +1087,7 @@
   <string name="build">Lag tagg</string>
   <string name="button_text">Knappetekst</string>
   <string name="category_list_section">Link to specific section?</string>
-  <string name="category_tags">Category</string>
+  <string name="category_tags">Kategori</string>
   <string name="class">CSS class</string>
   <string name="comments_form">Skjema</string>
   <string name="comment_details">Comment details</string>
@@ -1097,7 +1097,7 @@
   <string name="default_title">Text to use for default section link</string>
   <string name="escape">Escape</string>
   <string name="exclude">Exclude</string>
-  <string name="filename">Name</string>
+  <string name="filename">Navn</string>
   <string name="file_download_tags">File downloads</string>
   <string name="flavor">Syndication format</string>
   <string name="flavour">Utseende</string>
@@ -1111,7 +1111,7 @@
   <string name="include_default">Include default section?</string>
   <string name="inline_style">Inline style (CSS)</string>
   <string name="input_size">Størrelse på inndata</string>
-  <string name="isize">Input size</string>
+  <string name="isize">Størrelse på inndata</string>
   <string name="labeltag">Label tag</string>
   <string name="limit">Grense?</string>
   <string name="linkclass">CSS class for links</string>
