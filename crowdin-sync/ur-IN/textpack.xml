@@ -81,7 +81,7 @@
   <string name="advanced_options">اعلیٰ اختیارات</string>
   <string name="article_day">دن</string>
   <string name="article_expires_before_postdate">نقص: مضمون کی مدت شائع کرنے کی تاریخ سے <strong>پہلے</strong> ختم نہیں ہو سکتی</string>
-  <string name="article_exp_day">دن</string>
+  <string name="article_exp_day">Day</string>
   <string name="article_exp_hour">Hour</string>
   <string name="article_exp_minute">Minute</string>
   <string name="article_exp_month">Month</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">ڈاؤن لوڈ ‏گنتی</string>
+  <string name="download_count">Download count</string>
   <string name="edit">تدوین کریں</string>
   <string name="email">ای میل</string>
   <string name="email_address">ای میل پتہ</string>
@@ -842,7 +842,7 @@
   <string name="error_link_context">Link tags cannot be used outside a link context.</string>
   <string name="error_section_context">Section tags cannot be used outside a section context.</string>
   <string name="exact">Exact</string>
-  <string name="extensions">اضافی‏ ترجیحات</string>
+  <string name="extensions">Extensions</string>
   <string name="file_context">file</string>
   <string name="file_size">File size</string>
   <string name="forget">میرے معلومات بھول جاؤ</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">بالا ربط</string>
   <string name="image">تصویر</string>
   <string name="imageurl">تصویر کا URL</string>
-  <string name="image_context">تصویر</string>
+  <string name="image_context">image</string>
   <string name="inserted_text">داخل کردہ متن</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">کلیدی الفاظ</string>
@@ -897,7 +897,7 @@
   <string name="next">اگلا</string>
   <string name="no">ناں</string>
   <string name="none">کوچہ نہیں</string>
-  <string name="nopopup">فعال دریچہ میں</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">عدد وار فہرست</string>
@@ -1009,7 +1009,7 @@
   <string name="uses_style">یہ سٹائل استمعال کریں</string>
   <string name="about_to_create">اب ڈیٹابیس کے جدول بھریں جاینگے</string>
   <string name="add_config_file">Add config file</string>
-  <string name="admin_theme">انتظامیہ کی خیالیہ</string>
+  <string name="admin_theme">Admin-side theme</string>
   <string name="already_installed">Textpattern لگتا ہے کی کو نصب کرنا چاہتے ہیں تو Textpattern اگر آپ پھر تازہ پوشہ سے حذف کرے <code dir="ltr">Textpattern</code> فائل کو <code dir="ltr">config.php</code> اور پھر کوشس کریں</string>
   <string name="back">Go back</string>
   <string name="before_you_proceed">آگے جانے سے پہلے</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">میرا مختصر سا نعرہ</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">یقیناً‏، ہمیں کچھ تفاصیل کی ضرورت ہے\'</string>
-  <string name="next_step">اگلا</string>
+  <string name="next_step">Next</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">بارہ کرم آپ کی سائٹ کا ویب پہنچنا پتہ داخل کریں</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1087,7 +1087,7 @@
   <string name="build">Build tag</string>
   <string name="button_text">Button text</string>
   <string name="category_list_section">Link to specific section?</string>
-  <string name="category_tags">زمرہ</string>
+  <string name="category_tags">Category</string>
   <string name="class">CSS class</string>
   <string name="comments_form">Comments form</string>
   <string name="comment_details">Comment details</string>
@@ -1097,7 +1097,7 @@
   <string name="default_title">Text to use for default section link</string>
   <string name="escape">Escape</string>
   <string name="exclude">Exclude</string>
-  <string name="filename">نام</string>
+  <string name="filename">Name</string>
   <string name="file_download_tags">File downloads</string>
   <string name="flavor">Syndication format</string>
   <string name="flavour">Syndication format</string>
@@ -1137,8 +1137,8 @@
   <string name="searchall">Search all sections?</string>
   <string name="searchsticky">Search sticky articles?</string>
   <string name="search_input_form">Search input</string>
-  <string name="search_results_form">تلاش کے نتائج</string>
-  <string name="section_tags">صیغہ</string>
+  <string name="search_results_form">Search results</string>
+  <string name="section_tags">Section</string>
   <string name="showalways">Show always</string>
   <string name="showcount">Show count?</string>
   <string name="size_format">Size format</string>
@@ -1150,16 +1150,16 @@
   <string name="tags">Tags</string>
   <string name="tag_article">Articles (single or list)</string>
   <string name="tag_article_custom">Articles (custom list)</string>
-  <string name="tag_article_image">مضمون کا منسلک تصویر</string>
-  <string name="tag_author">مصنف</string>
-  <string name="tag_body">بیان</string>
+  <string name="tag_article_image">Article image</string>
+  <string name="tag_author">Author</string>
+  <string name="tag_body">Body</string>
   <string name="tag_body_excerpt">Body excerpt</string>
   <string name="tag_breadcrumb">Breadcrumb</string>
-  <string name="tag_category">زمرہ</string>
-  <string name="tag_category1">١ زمرہ</string>
-  <string name="tag_category2">٢ زمرہ</string>
+  <string name="tag_category">Category</string>
+  <string name="tag_category1">Category 1</string>
+  <string name="tag_category2">Category 2</string>
   <string name="tag_category_list">Category list</string>
-  <string name="tag_comments">تبصرہ</string>
+  <string name="tag_comments">Comments</string>
   <string name="tag_comments_form">Comments form</string>
   <string name="tag_comments_invite">Comments invite</string>
   <string name="tag_comments_preview">Comments preview</string>
@@ -1180,7 +1180,7 @@
   <string name="tag_comment_web_input">Comment website input</string>
   <string name="tag_css">CSS link (<code>&lt;head&gt;</code>)</string>
   <string name="tag_email">Email link (spam-resistant)</string>
-  <string name="tag_excerpt">اختصار</string>
+  <string name="tag_excerpt">Excerpt</string>
   <string name="tag_feed_link">Articles feed link</string>
   <string name="tag_file_download">File download</string>
   <string name="tag_file_download_category">File category</string>
@@ -1198,7 +1198,7 @@
   <string name="tag_if_section">If section</string>
   <string name="tag_image">Image</string>
   <string name="tag_inline_">Inline at end</string>
-  <string name="tag_lang">زبان</string>
+  <string name="tag_lang">Language</string>
   <string name="tag_link">Link</string>
   <string name="tag_linkdesctitle">Link, title=description</string>
   <string name="tag_linklist">Links list</string>
@@ -1211,7 +1211,7 @@
   <string name="tag_link_to_home">Homepage link</string>
   <string name="tag_link_to_next">Next article link</string>
   <string name="tag_link_to_prev">Previous article link</string>
-  <string name="tag_message">آپ کا تبصرہ</string>
+  <string name="tag_message">Message</string>
   <string name="tag_name">Commenter name</string>
   <string name="tag_newer">Newer articles link</string>
   <string name="tag_next_article">Next article</string>
@@ -1221,12 +1221,12 @@
   <string name="tag_page_title">Page title</string>
   <string name="tag_paging_link">Next page link</string>
   <string name="tag_password_protect">Password protection</string>
-  <string name="tag_permlink">‏مستقل‏ ربط</string>
+  <string name="tag_permlink">Permanent link</string>
   <string name="tag_popup">Popup list</string>
-  <string name="tag_posted">تاریخ اشاعت</string>
+  <string name="tag_posted">Posted</string>
   <string name="tag_prev_article">Previous article</string>
   <string name="tag_prev_title">Previous article title</string>
-  <string name="tag_recent_articles">حالیہ مضامین</string>
+  <string name="tag_recent_articles">Recent articles</string>
   <string name="tag_recent_comments">Recent comments</string>
   <string name="tag_related_articles">Related articles</string>
   <string name="tag_search_input">Search input form</string>
@@ -1234,12 +1234,12 @@
   <string name="tag_search_result_excerpt">Search result excerpt</string>
   <string name="tag_search_result_title">Search result title</string>
   <string name="tag_search_result_url">Search result URL</string>
-  <string name="tag_section">صیغہ</string>
+  <string name="tag_section">Section</string>
   <string name="tag_section_list">Section list</string>
-  <string name="tag_sitename">سائٹ کا نام</string>
-  <string name="tag_site_name">سائٹ کا نام</string>
-  <string name="tag_site_slogan">سائٹ کا نعرہ</string>
-  <string name="tag_title">‏عنوان‏</string>
+  <string name="tag_sitename">Site name</string>
+  <string name="tag_site_name">Site name</string>
+  <string name="tag_site_slogan">Site slogan</string>
+  <string name="tag_title">Title</string>
   <string name="tag__inline">Inline at beginning</string>
   <string name="textonly">Text only?</string>
   <string name="text_or_tag">* text or tag here *</string>
