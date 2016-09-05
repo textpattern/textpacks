@@ -81,7 +81,7 @@
   <string name="advanced_options">ตัวเลือกระดับสูง</string>
   <string name="article_day">วัน</string>
   <string name="article_expires_before_postdate">Error: บทความหมดอายุ<strong>ก่อน</strong>วันโพสต์</string>
-  <string name="article_exp_day">Day</string>
+  <string name="article_exp_day">วัน</string>
   <string name="article_exp_hour">Hour</string>
   <string name="article_exp_minute">Minute</string>
   <string name="article_exp_month">Month</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">แท็กนี้จะเลิกใช้ในอนาคต</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download count</string>
+  <string name="download_count">จำนวนดาวน์โหลด</string>
   <string name="edit">แก้ไข</string>
   <string name="email">อีเมล์</string>
   <string name="email_address">อีเมล์แอดเดรส</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">ไฮเปอร์ลิงก์</string>
   <string name="image">รูป</string>
   <string name="imageurl">url รูปภาพ</string>
-  <string name="image_context">image</string>
+  <string name="image_context">รูป</string>
   <string name="inserted_text">ข้อความแทรก</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">คำค้น</string>
@@ -897,7 +897,7 @@
   <string name="next">ถัดไป</string>
   <string name="no">ไม่</string>
   <string name="none">ว่างเปล่า</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">หน้าต่างปัจจุบัน</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">รายชื่อแบบเรียงเลข</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">คำขวัญสั้นๆ ของฉัน</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">ก่อนอื่น คุณจำเป็นต้องให้รายละเอียดบางอย่างกับเรา</string>
-  <string name="next_step">Next</string>
+  <string name="next_step">ถัดไป</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">โปรดใส่ที่อยู่เว็บของเว็บไซต์</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1087,7 +1087,7 @@
   <string name="build">สร้างแท็ก</string>
   <string name="button_text">ข้อความบนปุ่ม</string>
   <string name="category_list_section">Link to specific section?</string>
-  <string name="category_tags">Category</string>
+  <string name="category_tags">หมวดหมู่</string>
   <string name="class">CSS class</string>
   <string name="comments_form">ฟอร์ม</string>
   <string name="comment_details">Comment details</string>
@@ -1097,7 +1097,7 @@
   <string name="default_title">Text to use for default section link</string>
   <string name="escape">Escape</string>
   <string name="exclude">Exclude</string>
-  <string name="filename">Name</string>
+  <string name="filename">ชื่อไฟล์</string>
   <string name="file_download_tags">การดาวน์โหลดไฟล์</string>
   <string name="flavor">Syndication format</string>
   <string name="flavour">Syndication format</string>
@@ -1111,7 +1111,7 @@
   <string name="include_default">Include default section?</string>
   <string name="inline_style">Inline style (CSS)</string>
   <string name="input_size">ขนาดข้อมูลที่ป้อน</string>
-  <string name="isize">Input size</string>
+  <string name="isize">ขนาดข้อมูลที่ป้อน</string>
   <string name="labeltag">Label tag</string>
   <string name="limit">Display how many?</string>
   <string name="linkclass">CSS class for links</string>
@@ -1138,7 +1138,7 @@
   <string name="searchsticky">Search sticky articles?</string>
   <string name="search_input_form">คำที่ค้นหา</string>
   <string name="search_results_form">ผลการค้นหา</string>
-  <string name="section_tags">Section</string>
+  <string name="section_tags">ส่วน</string>
   <string name="showalways">Show always</string>
   <string name="showcount">Show count?</string>
   <string name="size_format">Size format</string>
@@ -1155,12 +1155,12 @@
   <string name="tag_body">เนื้อความ</string>
   <string name="tag_body_excerpt">สรุปใจความ</string>
   <string name="tag_breadcrumb">ที่นำทาง</string>
-  <string name="tag_category">Category</string>
+  <string name="tag_category">หมวดหมู่</string>
   <string name="tag_category1">หมวดหมู่ 1</string>
   <string name="tag_category2">หมวดหมู่ 2</string>
   <string name="tag_category_list">รายการหมวดหมู่</string>
-  <string name="tag_comments">Comments</string>
-  <string name="tag_comments_form">Comments form</string>
+  <string name="tag_comments">ความคิดเห็น</string>
+  <string name="tag_comments_form">ฟอร์ม</string>
   <string name="tag_comments_invite">คำเชิญแสดงความคิดเห็น</string>
   <string name="tag_comments_preview">Comments preview</string>
   <string name="tag_comment_anchor">Comment anchor</string>
