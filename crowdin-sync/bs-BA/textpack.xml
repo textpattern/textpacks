@@ -63,7 +63,7 @@
   <string name="real_name">Stvarno ime</string>
   <string name="resend_activation">Resend activation link</string>
   <string name="resend_activation_request_sent">Activation message sent to {name}.</string>
-  <string name="resetpassword">Poništavanje lozinke</string>
+  <string name="resetpassword">Reset password</string>
   <string name="reset_author_password">Poništavanje autorove lozinke</string>
   <string name="search_users">Search users</string>
   <string name="set_password">Set your password</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">oznaka(tag) je neodobrena</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Brojač skidanja</string>
+  <string name="download_count">Download count</string>
   <string name="edit">Ispravke</string>
   <string name="email">E-pošta</string>
   <string name="email_address">Adresa e-pošte</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">hiperveza</string>
   <string name="image">slika</string>
   <string name="imageurl">imageurl</string>
-  <string name="image_context">slika</string>
+  <string name="image_context">image</string>
   <string name="inserted_text">ubačeni tekst</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Ključne riječi</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">Moj jadni slogan</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Neizbježno, treba nam nekoliko detalja</string>
-  <string name="next_step">Slijedeći</string>
+  <string name="next_step">Next</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Molomo unesite adresu Vašewg sajta do koje se može doći na Internetu</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1087,7 +1087,7 @@
   <string name="build">Izgradi oznaku</string>
   <string name="button_text">Tekst dugmeta</string>
   <string name="category_list_section">Veza na određenu sekciju?</string>
-  <string name="category_tags">Kategorija</string>
+  <string name="category_tags">Category</string>
   <string name="class">CSS klasa</string>
   <string name="comments_form">Formular za komentare</string>
   <string name="comment_details">Detalji komentara</string>
@@ -1138,7 +1138,7 @@
   <string name="searchsticky">Pretraži ljepljive članke?</string>
   <string name="search_input_form">Pretraži ulaz</string>
   <string name="search_results_form">Rezultati pretrage</string>
-  <string name="section_tags">Sekcija</string>
+  <string name="section_tags">Section</string>
   <string name="showalways">Prikaži uvijek</string>
   <string name="showcount">Prikaži brojač?</string>
   <string name="size_format">Format veličine</string>
@@ -1155,7 +1155,7 @@
   <string name="tag_body">Tijelo</string>
   <string name="tag_body_excerpt">Isječak tijela</string>
   <string name="tag_breadcrumb">Mrvica</string>
-  <string name="tag_category">Kategorija</string>
+  <string name="tag_category">Category</string>
   <string name="tag_category1">Kategorija 1</string>
   <string name="tag_category2">Kategorija 2</string>
   <string name="tag_category_list">Spisak kategorija</string>
