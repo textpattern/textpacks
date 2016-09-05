@@ -507,7 +507,7 @@
   <string name="create_thumbnail">إنشاء مصغرة</string>
   <string name="edit_image">Edit image</string>
   <string name="extension">Extension</string>
-  <string name="images">Images</string>
+  <string name="images">صور</string>
   <string name="image_deleted">Image(s) <strong>{name}</strong> deleted.</string>
   <string name="image_delete_failed">Image(s) <strong>{name}</strong> could not be completely deleted.</string>
   <string name="image_details">Image details</string>
@@ -606,7 +606,7 @@
   <string name="old_plugin">منزل البلوغين القديمة</string>
   <string name="order">Order</string>
   <string name="plugin">Plugin</string>
-  <string name="plugins">Plugins</string>
+  <string name="plugins">ملحقات</string>
   <string name="plugin_compression_unsupported">Plugin decompression is not supported by your server. Contact the plugin author for an uncompressed version.</string>
   <string name="plugin_deleted">Plugin <strong>{name}</strong> deleted.</string>
   <string name="plugin_help">plugin مسعاد</string>
@@ -692,7 +692,7 @@
   <string name="language">لغة</string>
   <string name="lastmod_keepalive">Compensate for persistent connection <code>mod_deflate</code> bug?</string>
   <string name="leave_text_untouched">ترك النص كما هو</string>
-  <string name="link">Links</string>
+  <string name="link">الروابط</string>
   <string name="locale">محلية</string>
   <string name="locale_not_available_for_language">No locale available for language <strong>{name}</strong>. Using default locale instead.</string>
   <string name="logging">التسجيل بصحيقفة النشاطات</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download count</string>
+  <string name="download_count">عدد التحميلات</string>
   <string name="edit">تغيير</string>
   <string name="email">عنوان البريد</string>
   <string name="email_address">عنوان البريد</string>
@@ -856,7 +856,7 @@
   <string name="go_to">Go to</string>
   <string name="go_txp_com">Go to the Textpattern website</string>
   <string name="header">العناوين الفرعية</string>
-  <string name="home">Home</string>
+  <string name="home">الصفحة الرئيسية</string>
   <string name="host">host</string>
   <string name="hour">الساعة</string>
   <string name="hours">الساعات</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">رابط</string>
   <string name="image">صورة</string>
   <string name="imageurl">عنوان موقع الصورة</string>
-  <string name="image_context">image</string>
+  <string name="image_context">صورة</string>
   <string name="inserted_text">نص مدرج</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">الكلمات المفاتييح</string>
@@ -897,7 +897,7 @@
   <string name="next">الموالي</string>
   <string name="no">لا</string>
   <string name="none">لا شيء</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">النافذة الحالية</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">قائمة مرتبة</string>
@@ -908,10 +908,10 @@
   <string name="only_articles_can_be_previewed">يمكن استعراض أجزاء فقط من المقال</string>
   <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">صفحة</string>
-  <string name="pages">Pages</string>
+  <string name="pages">بنية</string>
   <string name="paragraph">فقرة</string>
   <string name="permanent_link">Permanent link to this article</string>
-  <string name="permlink">Permanent link</string>
+  <string name="permlink">عنوان ثابت</string>
   <string name="plugin_load_error">حدث خطأ خلال التحميل لـ البلوغين</string>
   <string name="plugin_load_error_above">The above errors were caused by the plugin:</string>
   <string name="popup">popup window</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">شعاري الصغير</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">نحتاج لبعض التفاصيل</string>
-  <string name="next_step">Next</string>
+  <string name="next_step">الموالي</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">شكرا على الإخبار بـ الذي بيتم الدخول به إلى الموقع</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1058,7 +1058,7 @@
   <string name="set_db_details">Set database details</string>
   <string name="set_temp_dir_prefs">Sorry, but Textpattern failed to find a writable directory to hold temporary files. Please visit the <strong>Preferences</strong> administration panel and adjust the <strong>Temporary directory path</strong> setting to suit your needs.</string>
   <string name="site_config">Site configuration</string>
-  <string name="site_url">Site URL</string>
+  <string name="site_url">عنوان الموقع</string>
   <string name="tables_exist">It appears the tables in <strong>{dbname}</strong> already exist. If you wish to continue setup, either delete the existing tables, or choose a different table prefix.</string>
   <string name="table_prefix">Table prefix (optional)</string>
   <string name="thanks_for_interest">Textpattern. شكرا على الاهتمام الذي تولونه لتكست بترن</string>
@@ -1087,7 +1087,7 @@
   <string name="build">إقامة المعلم</string>
   <string name="button_text">نص الزر</string>
   <string name="category_list_section">Link to specific section?</string>
-  <string name="category_tags">Category</string>
+  <string name="category_tags">فئة</string>
   <string name="class">CSS class</string>
   <string name="comments_form">Comments form</string>
   <string name="comment_details">Comment details</string>
@@ -1097,7 +1097,7 @@
   <string name="default_title">Text to use for default section link</string>
   <string name="escape">Escape</string>
   <string name="exclude">Exclude</string>
-  <string name="filename">Name</string>
+  <string name="filename">اسم الملف</string>
   <string name="file_download_tags">تحميل الملفات</string>
   <string name="flavor">Syndication format</string>
   <string name="flavour">Syndication format</string>
@@ -1138,7 +1138,7 @@
   <string name="searchsticky">Search sticky articles?</string>
   <string name="search_input_form">كتابة موضوع البحث</string>
   <string name="search_results_form">نتائج البحث</string>
-  <string name="section_tags">Section</string>
+  <string name="section_tags">قسم</string>
   <string name="showalways">Show always</string>
   <string name="showcount">Show count?</string>
   <string name="size_format">Size format</string>
@@ -1155,11 +1155,11 @@
   <string name="tag_body">لنص</string>
   <string name="tag_body_excerpt">مقطع من النص</string>
   <string name="tag_breadcrumb">Breadcrumb</string>
-  <string name="tag_category">Category</string>
+  <string name="tag_category">فئة</string>
   <string name="tag_category1">فئة 1</string>
   <string name="tag_category2">فئة 2</string>
   <string name="tag_category_list">قائمة الفئات</string>
-  <string name="tag_comments">Comments</string>
+  <string name="tag_comments">تعليقات</string>
   <string name="tag_comments_form">Comments form</string>
   <string name="tag_comments_invite">الداعي للتعليق</string>
   <string name="tag_comments_preview">Comments preview</string>
