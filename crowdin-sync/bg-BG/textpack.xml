@@ -849,7 +849,7 @@
   <string name="form">Форма</string>
   <string name="forms">Форми</string>
   <string name="go">Търси</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Обратно</string>
   <string name="go_content">Иди при съдържанието</string>
   <string name="go_nav">Иди при навигацията</string>
   <string name="go_search">Иди при търсенето</string>
@@ -897,7 +897,7 @@
   <string name="next">Следващ</string>
   <string name="no">Не</string>
   <string name="none">Никой</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">текущ прозорец</string>
   <string name="no_comments">Няма коментари към тази статия.</string>
   <string name="no_search_matches">Няма попадения отговарящи на Вашето търсене.</string>
   <string name="numeric_list">Номериран списък</string>
