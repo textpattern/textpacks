@@ -849,7 +849,7 @@
   <string name="form">Forma</string>
   <string name="forms">Formas</string>
   <string name="go">Aiziet</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Atpakaļ</string>
   <string name="go_content">Iet uz saturu</string>
   <string name="go_nav">Iet uz navigāciju</string>
   <string name="go_search">Iet uz meklēšanu</string>
@@ -897,7 +897,7 @@
   <string name="next">Nākamais</string>
   <string name="no">Nē</string>
   <string name="none">Nevienu</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">esošā logā</string>
   <string name="no_comments">Šim rakstam šobrīd nav neviena komentāra.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Numurēts saraksts</string>
