@@ -849,7 +849,7 @@
   <string name="form">Formulario</string>
   <string name="forms">Formularios</string>
   <string name="go">Ir</string>
-  <string name="go_back">Atrás</string>
+  <string name="go_back">Go back</string>
   <string name="go_content">Ir ao contido</string>
   <string name="go_nav">Ir á navegación</string>
   <string name="go_search">Ir ao buscador</string>
@@ -897,7 +897,7 @@
   <string name="next">Seguinte</string>
   <string name="no">Non</string>
   <string name="none">Ningún</string>
-  <string name="nopopup">sen abrir outra xanela</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">Actualmente non hai comentarios a este artigo.</string>
   <string name="no_search_matches">Síntoo, non hai resultados que coincidan co criterio de procura.</string>
   <string name="numeric_list">Lista numérica</string>
