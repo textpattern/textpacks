@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">기능 <strong>{name}</strong> 은 더이상 쓸 수 없습니다. 대신 <strong>{with}</strong> 를 사용해봅니다.</string>
   <string name="deprecated_tag">태그는 더이상 쓸 수 없습니다.</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">다운로드 횟수</string>
+  <string name="download_count">Download count</string>
   <string name="edit">편집</string>
   <string name="email">전자우편</string>
   <string name="email_address">전자우편 주소</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">하이퍼링크</string>
   <string name="image">이미지</string>
   <string name="imageurl">이미지 주소</string>
-  <string name="image_context">이미지</string>
+  <string name="image_context">image</string>
   <string name="inserted_text">삽입한 텍스트</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">키워드</string>
@@ -897,7 +897,7 @@
   <string name="next">다음</string>
   <string name="no">아니오</string>
   <string name="none">없음</string>
-  <string name="nopopup">현재창</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">번호 목록</string>
@@ -1009,7 +1009,7 @@
   <string name="uses_style">사용할 스타일</string>
   <string name="about_to_create">지금 데이터베이스 테이블을 만들고 채워야 합니다.</string>
   <string name="add_config_file">Add config file</string>
-  <string name="admin_theme">관리화면 테마</string>
+  <string name="admin_theme">Admin-side theme</string>
   <string name="already_installed">Textpattern이 이미 설치되어 있습니다. 새롭게 설치하려면 <code>/textpattern/</code>에 있는 <code>config.php</code> 를 지우고 다시 해보세요.</string>
   <string name="back">Go back</string>
   <string name="before_you_proceed">진행하기 전에</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">사이트 설명</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">불가피하게도 조금 더 많은 정보가 필요합니다.</string>
-  <string name="next_step">다음</string>
+  <string name="next_step">Next</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">웹을 통해 접근 가능한 사이트 주소를 입력해 주세요</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
