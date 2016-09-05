@@ -81,7 +81,7 @@
   <string name="advanced_options">Gelişmiş Seçenekler</string>
   <string name="article_day">Gün</string>
   <string name="article_expires_before_postdate">Error: article expires <strong>before</strong> post date.</string>
-  <string name="article_exp_day">Gün</string>
+  <string name="article_exp_day">Day</string>
   <string name="article_exp_hour">Hour</string>
   <string name="article_exp_minute">Minute</string>
   <string name="article_exp_month">Month</string>
@@ -781,7 +781,7 @@
   <string name="browse">Gözat</string>
   <string name="bulleted_list">Bulleted list</string>
   <string name="caption">Başlık</string>
-  <string name="categories">Kategoriler</string>
+  <string name="categories">Categories</string>
   <string name="categorize">Sınıflandırma</string>
   <string name="category1">Kategori 1</string>
   <string name="category2">Kategori 2</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">İndirme sayısı</string>
+  <string name="download_count">Download count</string>
   <string name="edit">Düzenle</string>
   <string name="email">E-posta</string>
   <string name="email_address">E-posta adresi</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">hyperlink</string>
   <string name="image">görsel</string>
   <string name="imageurl">görsel URL</string>
-  <string name="image_context">görsel</string>
+  <string name="image_context">image</string>
   <string name="inserted_text">yapıştırılan metin</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Anahtar kelimeler</string>
@@ -897,7 +897,7 @@
   <string name="next">Sonraki</string>
   <string name="no">Hayır</string>
   <string name="none">Yok</string>
-  <string name="nopopup">varsayılan pencere</string>
+  <string name="nopopup">current window</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Nümerik liste</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">Bu bölüme sitenizin sloganını yazın</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Davet edilebilir, bazı ayrıntılara ihtiyacımız var</string>
-  <string name="next_step">Sonraki</string>
+  <string name="next_step">Next</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Lütfen web üzerinden erişilebilir bir adres girin</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1087,7 +1087,7 @@
   <string name="build">Build Tag</string>
   <string name="button_text">Buton metni</string>
   <string name="category_list_section">Link to specific section?</string>
-  <string name="category_tags">Kategori</string>
+  <string name="category_tags">Category</string>
   <string name="class">CSS sınıfı</string>
   <string name="comments_form">Yorum Formu</string>
   <string name="comment_details">Yorum Ayrıntıları</string>
@@ -1138,7 +1138,7 @@
   <string name="searchsticky">Yapışkan makaleleri aramaya dahil edilsin mi?</string>
   <string name="search_input_form">Arama</string>
   <string name="search_results_form">Arama Sonuçları</string>
-  <string name="section_tags">Bölüm</string>
+  <string name="section_tags">Section</string>
   <string name="showalways">Show always</string>
   <string name="showcount">Sayı gösterilsin mi?</string>
   <string name="size_format">Boyut biçimi</string>
@@ -1155,7 +1155,7 @@
   <string name="tag_body">Body</string>
   <string name="tag_body_excerpt">Body Excerpt</string>
   <string name="tag_breadcrumb">Kırıntı</string>
-  <string name="tag_category">Kategori</string>
+  <string name="tag_category">Category</string>
   <string name="tag_category1">Kategori 1</string>
   <string name="tag_category2">Kategori 2</string>
   <string name="tag_category_list">Kategori Listesi</string>
