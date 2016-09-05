@@ -507,7 +507,7 @@
   <string name="create_thumbnail">Skapa smámynd</string>
   <string name="edit_image">Edit image</string>
   <string name="extension">Extension</string>
-  <string name="images">Images</string>
+  <string name="images">Myndir</string>
   <string name="image_deleted">Image(s) <strong>{name}</strong> deleted.</string>
   <string name="image_delete_failed">Image(s) <strong>{name}</strong> could not be completely deleted.</string>
   <string name="image_details">Image details</string>
@@ -692,7 +692,7 @@
   <string name="language">Tungumál</string>
   <string name="lastmod_keepalive">Compensate for persistent connection <code>mod_deflate</code> bug?</string>
   <string name="leave_text_untouched">Ekki breyta texta</string>
-  <string name="link">Links</string>
+  <string name="link">Tenglar</string>
   <string name="locale">Locale</string>
   <string name="locale_not_available_for_language">No locale available for language <strong>{name}</strong>. Using default locale instead.</string>
   <string name="logging">Logga</string>
@@ -828,7 +828,7 @@
   <string name="deprecated_function_with">Function <strong>{name}</strong> is deprecated: use <strong>{with}</strong> instead.</string>
   <string name="deprecated_tag">tag is deprecated</string>
   <string name="documentation">Documentation</string>
-  <string name="download_count">Download count</string>
+  <string name="download_count">Hversu oft niðurhlaðað</string>
   <string name="edit">Breyta</string>
   <string name="email">Póstfang</string>
   <string name="email_address">Póstfang</string>
@@ -856,7 +856,7 @@
   <string name="go_to">Fara til</string>
   <string name="go_txp_com">Go to the Textpattern website</string>
   <string name="header">Haus</string>
-  <string name="home">Home</string>
+  <string name="home">Forsíða</string>
   <string name="host">Host</string>
   <string name="hour">tími</string>
   <string name="hours">tímar</string>
@@ -864,7 +864,7 @@
   <string name="hyperlink">síðutengill</string>
   <string name="image">mynd</string>
   <string name="imageurl">myndaslóð</string>
-  <string name="image_context">image</string>
+  <string name="image_context">mynd</string>
   <string name="inserted_text">innsettur texti</string>
   <string name="invalid_attribute_value"><strong>{name}</strong> is not a valid attribute value</string>
   <string name="keywords">Lykilorð</string>
@@ -897,7 +897,7 @@
   <string name="next">Næst</string>
   <string name="no">Nei</string>
   <string name="none">Neitt</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">Þessi gluggi</string>
   <string name="no_comments">There are currently no comments on this article.</string>
   <string name="no_search_matches">Sorry, no results found matching your search request</string>
   <string name="numeric_list">Númeraður listi</string>
@@ -1039,7 +1039,7 @@
   <string name="my_slogan">Slagorðið!</string>
   <string name="name_required">Please provide a valid login name.</string>
   <string name="need_details">Við þurfum alveg óhjákvæmilega nokkur smáatriði&#8230;</string>
-  <string name="next_step">Next</string>
+  <string name="next_step">Næst</string>
   <string name="pass_required">Please provide a strong password.</string>
   <string name="please_enter_url">Vinsamlegast sláðu inn hvernig nálgast má síðuna á internetinu.</string>
   <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
@@ -1087,7 +1087,7 @@
   <string name="build">Byggja tag</string>
   <string name="button_text">Takka texti</string>
   <string name="category_list_section">Link to specific section?</string>
-  <string name="category_tags">Category</string>
+  <string name="category_tags">Flokkur</string>
   <string name="class">CSS class</string>
   <string name="comments_form">Snið</string>
   <string name="comment_details">Comment details</string>
@@ -1097,7 +1097,7 @@
   <string name="default_title">Text to use for default section link</string>
   <string name="escape">Escape</string>
   <string name="exclude">Exclude</string>
-  <string name="filename">Name</string>
+  <string name="filename">Skráarnafn</string>
   <string name="file_download_tags">Skráa niðurhlöðun</string>
   <string name="flavor">Syndication format</string>
   <string name="flavour">Bragð</string>
@@ -1111,7 +1111,7 @@
   <string name="include_default">Include default section?</string>
   <string name="inline_style">Inline style (CSS)</string>
   <string name="input_size">Innsettningarreitur stærð</string>
-  <string name="isize">Input size</string>
+  <string name="isize">Innsettningarreitur stærð</string>
   <string name="labeltag">Merking</string>
   <string name="limit">Takmörkun?</string>
   <string name="linkclass">CSS class for links</string>
@@ -1138,7 +1138,7 @@
   <string name="searchsticky">Search sticky articles?</string>
   <string name="search_input_form">Leitar reitur</string>
   <string name="search_results_form">Niðurstöður leitar</string>
-  <string name="section_tags">Section</string>
+  <string name="section_tags">Hluti</string>
   <string name="showalways">Show always</string>
   <string name="showcount">Show count?</string>
   <string name="size_format">Size format</string>
@@ -1155,12 +1155,12 @@
   <string name="tag_body">Texti</string>
   <string name="tag_body_excerpt">Inngangur</string>
   <string name="tag_breadcrumb">Tengil fyrir tengil(stýring)</string>
-  <string name="tag_category">Category</string>
+  <string name="tag_category">Flokkur</string>
   <string name="tag_category1">Flokkur 1</string>
   <string name="tag_category2">Flokkur 2</string>
   <string name="tag_category_list">Flokka listi</string>
-  <string name="tag_comments">Comments</string>
-  <string name="tag_comments_form">Comments form</string>
+  <string name="tag_comments">Skoðanir</string>
+  <string name="tag_comments_form">Snið</string>
   <string name="tag_comments_invite">Innboð skoðana</string>
   <string name="tag_comments_preview">Comments preview</string>
   <string name="tag_comment_anchor">Comment anchor</string>
