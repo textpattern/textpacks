@@ -849,7 +849,7 @@
   <string name="form">Шаблон</string>
   <string name="forms">Шаблони</string>
   <string name="go">Перейти</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Повернутися</string>
   <string name="go_content">Перейти до змісту</string>
   <string name="go_nav">Перейти до навігації</string>
   <string name="go_search">Перейти до пошуку</string>
@@ -897,7 +897,7 @@
   <string name="next">Наступна</string>
   <string name="no">Ні</string>
   <string name="none">нічого</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">в тому ж вікні</string>
   <string name="no_comments">Немає коментарів до цієї статті.</string>
   <string name="no_search_matches">Вибачте, результатів не знайдено що відповідають Вашому запиту.</string>
   <string name="numeric_list">Нумерований список</string>
