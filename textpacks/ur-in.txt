@@ -1,4 +1,4 @@
-#@version 4.6.0;1472815113
+#@version 4.6.0;1473179404
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -1073,7 +1073,7 @@ add_config_file =>
 admin_theme =>
 already_installed => Textpattern لگتا ہے کی کو نصب کرنا چاہتے ہیں تو Textpattern اگر آپ پھر تازہ پوشہ سے حذف کرے <code dir="ltr">Textpattern</code> فائل کو <code dir="ltr">config.php</code> اور پھر کوشس کریں
 back =>
-before_you_proceed => آگے جانے سے پہلے <br />
+before_you_proceed => آگے جانے سے پہلے
 checking_database => ڈیٹابیس مع ربط کر رہا ہے
 choose_password => ایک پاسورڈ انتخاب کریں
 config_php_does_not_match_input =>
