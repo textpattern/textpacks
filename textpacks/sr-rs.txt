@@ -1,4 +1,4 @@
-#@version 4.6.0;1472475416
+#@version 4.6.0;1473180399
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -766,7 +766,7 @@ no_popup => тренутни прозор
 no_preferences =>
 override_emailcharset => Употреби ISO-8859-1 енкодинг код посланих e-mail-ова (default je UTF-8)?
 path_from_root => Sub-directory (ако има)
-path_to_site_missing => <code>$path_to_site</code> није постављен (update code>index.php</code>)
+path_to_site_missing => <code>$path_to_site</code> није постављен (update <code>index.php</code>)
 permalink_title_format => Пермалинкови title-like-this (default je TitleLikeThis)?
 permlink_format =>
 permlink_hyphenated =>
