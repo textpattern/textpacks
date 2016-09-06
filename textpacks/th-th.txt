@@ -1040,7 +1040,6 @@ your_branch_is_updated => คุณมีรุ่นล่าสุดของ
 your_ip_is_blacklisted_by => ไอพีแอดเดรสของคุณถูกใส่ในบัญชีดำโดย
 you_have_been_banned => คุณถูกห้ามแสดงความคิดเห็น
 yyyy-mm => ปปปป-ดด
-หมวดหมู่ => หมวดหมู่
 #@section
 article_count =>
 create_section =>
