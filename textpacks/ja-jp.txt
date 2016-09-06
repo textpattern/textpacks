@@ -865,7 +865,6 @@ comment_posted => コメントを有難うございます。
 comment_received => [{site}] コメントを受け取りました: {title}
 comment_recorded => "{title}" の投稿にてコメントが追加されました。
 comment_required => コメントを入力して下さい。
-comment_required =>コメントを入力して下さい。 =>
 comment_web => ウェブサイト
 contact => コンタクト
 copy => コピー
