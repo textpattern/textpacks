@@ -1,4 +1,4 @@
-#@version 4.5.7;1472732125
+#@version 4.6.0;1472732125
 #@admin
 account_activation => الرجاء تنشيط حسابك
 account_activation_confirmation => الرجاء استخدام الرابط أدناه لتنشيط حسابك وقم بإعداد كلمة السر.

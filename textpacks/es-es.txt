@@ -1,4 +1,4 @@
-#@version 4.5.7;1472026245
+#@version 4.6.0;1472026245
 #@admin
 account_activation => Por favor, active su cuenta
 account_activation_confirmation => Por favor utilice el siguiente enlace para activar tu cuenta y crear una contraseña.

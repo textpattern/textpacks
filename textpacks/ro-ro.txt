@@ -1,4 +1,4 @@
-#@version 4.5.7;1471956219
+#@version 4.6.0;1473178848
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -441,7 +441,7 @@ path_to_site_inacc => Calea catre site (<code>$path_to_site</code>) nu este acce
 php_extensions => Extensii PHP
 php_sapi_mode => PHP Server API
 php_version => Versiunea PHP
-php_version_required => Textpattern are nevoie de PHP >={version}.
+php_version_required => Textpattern are nevoie de PHP {version}.
 preflight_check => Verificari initiale
 register_globals => Globale de registru
 rfc2616_headers => Headere RFC 2616

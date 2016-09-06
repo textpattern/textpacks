@@ -1,4 +1,4 @@
-#@version 4.5.7;1472810838
+#@version 4.6.0;1473178428
 #@admin
 account_activation => Aktivera ditt konto
 account_activation_confirmation => Använd länken nedan för att aktivera ditt konto och ställa in ett lösenord.
@@ -323,7 +323,7 @@ tab_write => Skriv
 th-th => ภาษาไทย
 thumbnail => Tumnagel
 title_body => Rubrik och brödtext
-title_body_excerpt => Rubrik, Brödtext och Ingress
+title_body_excerpt => Rubrik, brödtext och ingress
 toggle_all_selected => Välj alla/ingen
 tr-tr => Türkçe
 txpnl2br => Enbart radbrytningar
