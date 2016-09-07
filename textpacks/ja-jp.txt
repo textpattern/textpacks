@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473236141
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => 公開日時
 raw_php_deprecated => PHP タグの使用は非推奨です。
 recently => 最近
 recent_articles => 最近の記事
+recent_comments => 最近のコメント
 recent_posts => 最近の投稿
+related_articles => 関連する記事
 remember => 記憶する
 required => 必須
 revert => 取り消し

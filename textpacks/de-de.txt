@@ -1,4 +1,4 @@
-#@version 4.6.0;1471966604
+#@version 4.6.0;1473181114
 #@admin
 account_activation => Bitte aktivieren Sie Ihren Account
 account_activation_confirmation => Bitte verwenden Sie den unten stehenden Link, um Ihren Account zu aktivieren und ein Passwort anzulegen.
@@ -985,7 +985,9 @@ published_at => Veröffentlicht am
 raw_php_deprecated => Die direkte Verwendung von PHP-Tags ist nicht erwünscht.
 recently => kürzlich
 recent_articles => Neueste Artikel
+recent_comments => Neuesten Kommentare
 recent_posts => Neueste Einträge
+related_articles => Ähnlichen Artikel
 remember => Merken
 required => Erforderlich
 revert => umkehren

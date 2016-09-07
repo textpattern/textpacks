@@ -1,4 +1,4 @@
-#@version 4.6.0;1473178428
+#@version 4.6.0;1473237082
 #@admin
 account_activation => Aktivera ditt konto
 account_activation_confirmation => Använd länken nedan för att aktivera ditt konto och ställa in ett lösenord.
@@ -985,7 +985,9 @@ published_at => Publicera den
 raw_php_deprecated => Rena PHP-taggar ogillas
 recently => Nyligen
 recent_articles => Senaste artiklarna
+recent_comments => Senaste kommentarerna
 recent_posts => Senaste inläggen
+related_articles => Relaterade artiklar
 remember => Kom ihåg
 required => Krävs
 revert => Återgå

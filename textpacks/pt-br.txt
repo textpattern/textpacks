@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473236336
 #@admin
 account_activation => Por favor ative sua conta
 account_activation_confirmation => Por favor, use o link abaixo para ativar sua conta e configurar uma senha.
@@ -985,7 +985,9 @@ published_at => Publicado em:
 raw_php_deprecated => A utilização direta de código PHP deixou de ser suportada
 recently => Recentemente
 recent_articles => Artigos recentes
+recent_comments => Comentários recentes
 recent_posts => Artigos recentes
+related_articles => Artigos relacionados
 remember => Recordar
 required => Obrigatório
 revert => Voltar

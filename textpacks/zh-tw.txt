@@ -1,4 +1,4 @@
-#@version 4.6.0;1472391352
+#@version 4.6.0;1473237235
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => 發表時間
 raw_php_deprecated => PHP 代碼標籤不適用
 recently => 最新
 recent_articles => 最新文章
+recent_comments => 最新迴響
 recent_posts => 最新發表
+related_articles => 相關文章
 remember => Cookie
 required =>
 revert => 還原

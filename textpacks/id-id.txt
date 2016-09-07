@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473236071
 #@admin
 account_activation => Silakan mengaktifkan akun Anda
 account_activation_confirmation => Silahkan mengunakan tautan dibawah ini untuk mengaktifkan akun anda dan mengatur sebuah kata sandi.
@@ -985,7 +985,9 @@ published_at => Diterbitkan pada
 raw_php_deprecated =>
 recently => Terbaru
 recent_articles => Artikel Terbaru
+recent_comments => Komentar terbaru
 recent_posts => Tulisan Terbaru
+related_articles => Artikel terkait
 remember => Ingat
 required =>
 revert => Balikkan

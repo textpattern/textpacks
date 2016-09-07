@@ -1,4 +1,4 @@
-#@version 4.6.0;1472732512
+#@version 4.6.0;1473233868
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Publicado ás
 raw_php_deprecated => As etiquetas de PHP en cru están desaconselladas
 recently => Recentemente
 recent_articles => Artigos recentes
+recent_comments => Comentarios recentes
 recent_posts => Artigos recentes
+related_articles => Artigos relacionados
 remember => Recordar
 required => Requirido
 revert => Volver

@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473180988
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Publicat a les
 raw_php_deprecated => Les etiquetes de PHP en cru han estat abandonades
 recently => Recentment
 recent_articles => Articles recents
+recent_comments => Comentaris recents
 recent_posts => Articles recents
+related_articles => Articles relacionats
 remember => Recorda-ho
 required =>
 revert => Torna

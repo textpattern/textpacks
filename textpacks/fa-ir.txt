@@ -1,4 +1,4 @@
-#@version 4.6.0;1472815054
+#@version 4.6.0;1473181207
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => منتشر شده در
 raw_php_deprecated => کد های خام PHP ممنوع شناخته می شود
 recently => اخیراً
 recent_articles => آخرین نوشته‌ها
+recent_comments => آخرین نظرها
 recent_posts => آخرین ارسال‌ها
+related_articles => نوشته‌های مرتبط
 remember => به یادآوری
 required => ضروری
 revert => برگشت

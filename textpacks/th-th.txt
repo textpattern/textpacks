@@ -1,4 +1,4 @@
-#@version 4.6.0;1472476453
+#@version 4.6.0;1473237102
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => ตีพิมพ์เมื่อ
 raw_php_deprecated => แท็ก PHP เปล่าๆ จะถูกเลิกใช้ในอนาคต
 recently => ล่าสุด
 recent_articles => บทความที่ผ่านมา
+recent_comments => ความคิดเห็นที่ผ่านมา
 recent_posts => โพสต์ที่ผ่านมา
+related_articles => บทความที่เกี่ยวข้อง
 remember => จำ
 required =>
 revert => ย้อนกลับรุ่นก่อน

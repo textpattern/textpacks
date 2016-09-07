@@ -1,4 +1,4 @@
-#@version 4.6.0;1473180399
+#@version 4.6.0;1473236512
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Публиковано
 raw_php_deprecated => Сирови PHP тагови су забрањени.
 recently => Недавно
 recent_articles => Недавни уноси
+recent_comments => Недавни коментари
 recent_posts => Недавни коментари
+related_articles => Слични уноси
 remember => Запамти
 required =>
 revert =>

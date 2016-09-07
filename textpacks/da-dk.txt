@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473181034
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Udgivet den
 raw_php_deprecated => Rå PHP tags er forældet
 recently => For nylig
 recent_articles => Nye artikler
+recent_comments => Nyere kommentarer
 recent_posts => Nye posts
+related_articles => Relaterede artikler
 remember => Husk
 required =>
 revert => Fortryd

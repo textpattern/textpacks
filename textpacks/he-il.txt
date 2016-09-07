@@ -1,4 +1,4 @@
-#@version 4.6.0;1472815085
+#@version 4.6.0;1473233891
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => פורסם בתאריך
 raw_php_deprecated => תגי PHP נקי מועמדים לביטול
 recently => לאחרונה
 recent_articles => מאמרים אחרונים
+recent_comments => תגובות אחרונות
 recent_posts => שליחות אחרונות
+related_articles =>  מאמרים קשורים
 remember => זכור
 required =>
 revert => בטל שינויים

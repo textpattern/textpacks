@@ -1,4 +1,4 @@
-#@version 4.6.0;1472734624
+#@version 4.6.0;1473237130
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Yayınla
 raw_php_deprecated =>
 recently => Güncel
 recent_articles => Son Makaleler
+recent_comments => Son yorumlar
 recent_posts =>
+related_articles => İlgili makaleler
 remember => Hatırla
 required =>
 revert => Geri al

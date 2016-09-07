@@ -1,4 +1,4 @@
-#@version 4.6.0;1473179404
+#@version 4.6.0;1473180728
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => کب شائع کیا
 raw_php_deprecated =>
 recently => حالیہ
 recent_articles => حالیہ مضامین
+recent_comments =>
 recent_posts => حالیہ مسودے
+related_articles =>
 remember => میرے معلومات یاد رکھو
 required =>
 revert => ‏پچھلی حالت پر واپس لائیں

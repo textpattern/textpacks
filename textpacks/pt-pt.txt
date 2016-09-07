@@ -1,4 +1,4 @@
-#@version 4.6.0;1472400145
+#@version 4.6.0;1473236354
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Publicado em:
 raw_php_deprecated => A utilização directa de código PHP deixou de ser suportada
 recently => Recentemente
 recent_articles => Artigos Recentes
+recent_comments => Comentários recentes
 recent_posts => Artigos recentes
+related_articles => Artigos relacionados
 remember => Recordar
 required => Exigido
 revert => Voltar

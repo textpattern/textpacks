@@ -1,4 +1,4 @@
-#@version 4.6.0;1472214843
+#@version 4.6.0;1473236316
 #@admin
 account_activation => Prosimy aktywować swoje konto
 account_activation_confirmation => Użyj poniższego linku, aby aktywować swoje konto i ustawić hasło.
@@ -985,7 +985,9 @@ published_at => Opublikowane o
 raw_php_deprecated => Znaczniki PHP są nie zalecane
 recently => Ostatnio
 recent_articles => Ostatnio dodane artykuły
+recent_comments => Ostatnio dodane komentarze
 recent_posts => Ostatnio dodane posty
+related_articles => Podobne artykuły
 remember => Zapamiętaj moje dane
 required => Wymagany
 revert => Przywróć

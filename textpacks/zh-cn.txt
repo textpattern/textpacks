@@ -1,4 +1,4 @@
-#@version 4.6.0;1472392082
+#@version 4.6.0;1473237220
 #@admin
 account_activation => 请激活您的帐号
 account_activation_confirmation => 请点击下面的链接来激活您的帐号并且设置密码
@@ -985,7 +985,9 @@ published_at => 发表时间
 raw_php_deprecated => 原始 PHP 已不赞成使用
 recently => 最近
 recent_articles => 近期文章
+recent_comments => 近期评论
 recent_posts => 近期文章
+related_articles => 相关文章
 remember => 记住
 required => 必填
 revert => 还原

@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473180947
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Objavljeno u
 raw_php_deprecated => Sirove PHP oznake (tags) su nedozvoljeni
 recently => Skorašnji
 recent_articles => Skorašnji članci
+recent_comments => Skorašnji komentari
 recent_posts => Skorašnje objave
+related_articles => Povezani članci
 remember => Zapamti
 required =>
 revert => Vrati

@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473236089
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Birt þann
 raw_php_deprecated =>
 recently => Nýlegt
 recent_articles => Nýlegar greinar
+recent_comments => Nýlegar skoðanir
 recent_posts => Nýlegar greinar
+related_articles => Skildar greinar
 remember => Muna
 required =>
 revert => Hverfa aftur til

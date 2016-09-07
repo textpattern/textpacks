@@ -1,4 +1,4 @@
-#@version 4.6.0;1472027936
+#@version 4.6.0;1473236275
 #@admin
 account_activation => Account activeren
 account_activation_confirmation => Gebruik onderstaande link om je account te activeren.
@@ -985,7 +985,9 @@ published_at => Gepubliceerd op
 raw_php_deprecated => Ruwe PHP tags worden niet toegestaan
 recently => Recent
 recent_articles => Recente Artikelen
+recent_comments => Recente reacties
 recent_posts => Recente Bijdragen
+related_articles => Gerelateerde artikelen
 remember => Onthouden
 required => Vereist
 revert => Terug

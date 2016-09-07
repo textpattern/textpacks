@@ -1,4 +1,4 @@
-#@version 4.6.0;1473178848
+#@version 4.6.0;1473236374
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Publicat la
 raw_php_deprecated => Folosirea codului PHP "pe viu" este descurajata
 recently => Recent
 recent_articles => Articole Recente
+recent_comments => Comentarii recente
 recent_posts => Post-uri Recente
+related_articles => Articole asemanatoare
 remember => Tine minte
 required =>
 revert => Revino

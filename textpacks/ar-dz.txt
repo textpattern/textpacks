@@ -1,4 +1,4 @@
-#@version 4.6.0;1472732125
+#@version 4.6.0;1473180848
 #@admin
 account_activation => الرجاء تنشيط حسابك
 account_activation_confirmation => الرجاء استخدام الرابط أدناه لتنشيط حسابك وقم بإعداد كلمة السر.
@@ -985,7 +985,9 @@ published_at => نشر يوم
 raw_php_deprecated =>
 recently => مؤخرا
 recent_articles => مقالات منشورة مؤخرا
+recent_comments => التعليقات الأخيرة
 recent_posts => نشر مؤخرا
+related_articles => المقالات حول نفس الموضوع
 remember => حفظ المعلومات المستلمة
 required =>
 revert => العودة إلى الوراء

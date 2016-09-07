@@ -1,4 +1,4 @@
-#@version 4.6.0;1472400669
+#@version 4.6.0;1473236478
 #@admin
 account_activation => Aktiviraj svoj nalog
 account_activation_confirmation => Aktiviraj svoj nalog i podesi lozinku putem linka.
@@ -985,7 +985,9 @@ published_at => Publikovano
 raw_php_deprecated => Sirovi PHP tagovi su zabranjeni
 recently => Nedavno
 recent_articles => Nedavni unosi
+recent_comments => Nedavni komentari
 recent_posts => Nedavni komentari
+related_articles => Slični unosi
 remember => Zapamti
 required =>
 revert =>

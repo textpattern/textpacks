@@ -1,4 +1,4 @@
-#@version 4.6.0;1472036804
+#@version 4.6.0;1473181231
 #@admin
 account_activation => Ole hyvä ja aktivoi tilisi
 account_activation_confirmation => Ole hyvä ja käytä alla sijaitsevaa linkkiä aktivoidaksesi tilisi ja asettaaksesi salasanan.
@@ -985,7 +985,9 @@ published_at => Julkaistu
 raw_php_deprecated => Paljaat PHP tagit eivät ole enää tuettuja
 recently => Äskettäin
 recent_articles => Viime artikkelit
+recent_comments => Viime kommentit
 recent_posts => Viime postitukset
+related_articles => Aiheeseen liittyvät artikkelit
 remember => Muista minut?
 required => Vaaditaan
 revert => Palauta

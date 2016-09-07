@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473236179
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => 발행 시간
 raw_php_deprecated => Raw PHP 태그는 더이상 쓸 수 없음
 recently => 최근
 recent_articles => 최근 글
+recent_comments => 최근 댓글
 recent_posts => 최근 글
+related_articles => 관련 글
 remember => 내 정보 기억하기
 required => 필수
 revert => 되돌리기

@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473236294
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Publisert på
 raw_php_deprecated =>
 recently =>
 recent_articles => Siste artikler
+recent_comments => Siste kommentarer
 recent_posts => Siste innlegg
+related_articles => Relaterte artikler
 remember => Husk
 required =>
 revert => Gå tilbake

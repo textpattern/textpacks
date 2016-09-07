@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473237152
 #@admin
 account_activation => Будь ласка, активуйте Ваш аккаунт
 account_activation_confirmation => Будь ласка, використовуйте посилання нижче, щоб активувати обліковий запис і встановити пароль.
@@ -985,7 +985,9 @@ published_at => Опубліковано
 raw_php_deprecated => Пряме включення PHP не рекомендується
 recently => Недавно
 recent_articles => Недавні статті
+recent_comments => Недавні коментарі
 recent_posts => Недавні повідомлення
+related_articles => Схожі статті
 remember => Пам'ятати
 required => Потрібно
 revert => Повернути

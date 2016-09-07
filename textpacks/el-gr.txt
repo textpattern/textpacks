@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473181138
 #@admin
 account_activation => Παρακαλούμε να ενεργοποιήσετε το λογαριασμό σας
 account_activation_confirmation => Παρακαλούμε χρησιμοποιήστε την παρακάτω σύνδεση για να ενεργοποιήσετε το λογαριασμό και τον κωδικό πρόσβασης σας.
@@ -985,7 +985,9 @@ published_at => Δημοσιεύτηκε στις
 raw_php_deprecated => Ο ακατέργαστος κώδικας PHP έχει καταργηθεί
 recently => Πρόσφατα
 recent_articles => Πρόσφατα άρθρα
+recent_comments => Πρόσφατα σχόλια
 recent_posts => Πρόσφατες δημοσιεύσεις
+related_articles => Σχετικά άρθρα
 remember => θυμήσου
 required => Υποχρεωτικό
 revert => Αναίρεση αλλαγών

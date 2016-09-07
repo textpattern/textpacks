@@ -1,4 +1,4 @@
-#@version 4.6.0;1472399938
+#@version 4.6.0;1473236237
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -985,7 +985,9 @@ published_at => Paskelbta
 raw_php_deprecated => PHP žymės nebenaudotinos
 recently => Neseniai
 recent_articles => Paskiausiai naudoti straipsniai
+recent_comments => Naujausi komentarai
 recent_posts => Naujausios žinutės
+related_articles => Susiję straipsniai
 remember => Prisiminti
 required => Reikalinga
 revert => Grąžinti

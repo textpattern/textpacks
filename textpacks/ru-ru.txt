@@ -1,4 +1,4 @@
-#@version 4.6.0;1471956219
+#@version 4.6.0;1473236395
 #@admin
 account_activation => Пожалуйста, активируйте свой аккаунт
 account_activation_confirmation => Пожалуйста, используйте ссылку ниже, чтобы активировать аккаунт и установить пароль.
@@ -985,7 +985,9 @@ published_at => Опубликовано
 raw_php_deprecated => Использование прямых PHP тегов устарело и не поддерживается.
 recently => Недавно
 recent_articles => Недавние статьи
+recent_comments => Недавние комментарии
 recent_posts => Недавние сообщения
+related_articles => Похожие статьи
 remember => Запомнить
 required => Обязательно
 revert => Вернуть

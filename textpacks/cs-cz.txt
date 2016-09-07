@@ -1,4 +1,4 @@
-#@version 4.6.0;1473180227
+#@version 4.6.0;1473181015
 #@admin
 account_activation => Aktivujte svůj účet, prosím
 account_activation_confirmation => Použijte níže uvedený odkaz k aktivaci vašeho účtu a nastavení hesla.
@@ -985,7 +985,9 @@ published_at => Datum a čas vydání
 raw_php_deprecated => PHP značky jsou zastaralé
 recently => Nedávno
 recent_articles => Poslední články
+recent_comments => Poslední komentáře
 recent_posts => Poslední příspěvky
+related_articles => Podobné články
 remember => Zapamatovat
 required => Povinné
 revert => Vrátit zpět
