@@ -195,7 +195,7 @@
   <string name="changesection">Сменить секцию</string>
   <string name="changestatus">Изменить статус</string>
   <string name="close">Закрыть</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Свернуть все</string>
   <string name="comment">Комментарий</string>
   <string name="comments_expired">Время комментирования этой статьи истекло.</string>
   <string name="confirm_delete_popup">Правда удалить?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Набросок</string>
   <string name="duplicate">Дублировать</string>
   <string name="excerpt">Выдержка</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Развернуть все</string>
   <string name="expired">Истекшая</string>
   <string name="expire_date">Дата истекает</string>
   <string name="expire_time">Время истекает</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Уважаемый {name},</string>
   <string name="save_new">Сохранить как новую</string>
   <string name="search_all">Искать все</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Очистить поиск</string>
   <string name="search_options">Параметры поиска</string>
   <string name="showing_search_results">Показывается с {from} по {to} (всего {total})</string>
   <string name="site_slogan">Подзаголовок (слоган) сайта</string>
@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">\"Чистые\" (clean) URL поддерживаются только для Apache, используйте на ваш страх и риск.</string>
   <string name="clean_url_data_failed">Проверка чистых URL-ов не пройдена</string>
   <string name="clean_url_test_failed">Тест \"чистых\" (clean) URL не пройден.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Часовой пояс сервера базы данных</string>
+  <string name="db_server_time">Время сервера базы данных</string>
+  <string name="db_server_timeoffset">Смещение времени сервера базы данных</string>
+  <string name="db_session_timezone">Часовой пояс сессии базы данных</string>
   <string name="detail">Детальность</string>
   <string name="dev_version_live">Установка содержит рабочие версии некоторых файлов.</string>
   <string name="diagnostic_info">Результат диагностики</string>
@@ -704,7 +704,7 @@
   <string name="messy">\?=беспорядок</string>
   <string name="never_display_email">Скрывать email?</string>
   <string name="new_textpattern_version_available">Доступна совершенно новая версия Textpattern. Хотите попробовать?</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Нет доступных настроек.</string>
   <string name="no_popup">в том же окне</string>
   <string name="override_emailcharset">Использовать кодировку ISO-8859-1 для email? (по умолчанию: UTF-8)</string>
   <string name="path_from_root">Поддиректория (если есть)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">Формат постоянной ссылки</string>
   <string name="permlink_hyphenated">Через дефис (title-like-this)</string>
   <string name="permlink_intercapped">Слитно (TitleLikeThis)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">Шаблон URL-адреса статьи</string>
   <string name="ping_textpattern_com">Пинговать textpattern.com?</string>
   <string name="ping_weblogsdotcom">Пинговать pingomatic.com?</string>
   <string name="plugin_cache_dir">Путь к директории кэша плагинов</string>
@@ -827,7 +827,7 @@
   <string name="deprecated_function">функция <strong>{name}</strong> устарела.</string>
   <string name="deprecated_function_with">функция <strong>{name}</strong> устарела: используйте вместо нее <strong>{with}</strong>.</string>
   <string name="deprecated_tag">тег является устаревшим</string>
-  <string name="documentation">Documentation</string>
+  <string name="documentation">Документация</string>
   <string name="download_count">Счетчик загрузок</string>
   <string name="edit">Редактировать</string>
   <string name="email">Email</string>
@@ -849,7 +849,7 @@
   <string name="form">Форма</string>
   <string name="forms">Формы</string>
   <string name="go">Перейти</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Вернуться</string>
   <string name="go_content">К содержанию</string>
   <string name="go_nav">К навигации</string>
   <string name="go_search">К поиску</string>
@@ -897,16 +897,16 @@
   <string name="next">Следующая</string>
   <string name="no">Нет</string>
   <string name="none">Нет</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">в том же окне</string>
   <string name="no_comments">Нет комментариев к данной статье.</string>
   <string name="no_search_matches">Извините, не найдено результатов соответствующих Вашему запросу</string>
   <string name="numeric_list">Нумерованный список</string>
-  <string name="of">of</string>
+  <string name="of">из</string>
   <string name="off">Выкл.</string>
   <string name="older">Старые</string>
   <string name="on">Вкл.</string>
   <string name="only_articles_can_be_previewed"><strong>Внимание:</strong> только формы статьи могут быть предпросмотрены.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(открывает внешнюю ссылку в новом окне)</string>
   <string name="page">Страница</string>
   <string name="pages">Страницы</string>
   <string name="paragraph">параграф</string>
@@ -914,7 +914,7 @@
   <string name="permlink">Постоянная ссылка</string>
   <string name="plugin_load_error">При загрузке плагина произошла ошибка:</string>
   <string name="plugin_load_error_above">Вышеперечисленные ошибки произошли из-за плагина:</string>
-  <string name="popup">popup window</string>
+  <string name="popup">всплывающее окно</string>
   <string name="post">Опубликовать</string>
   <string name="posted">Опубликовано</string>
   <string name="posted_by">Опубликовано</string>
