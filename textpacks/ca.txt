@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Català
 lang_code => ca
@@ -943,7 +943,9 @@ published_at => Publicat a les
 raw_php_deprecated => Les etiquetes de PHP en cru han estat abandonades
 recently => Recentment
 recent_articles => Articles recents
+recent_comments => Comentaris recents
 recent_posts => Articles recents
+related_articles => Articles relacionats
 remember => Recorda-ho
 required =>
 revert => Torna
@@ -1145,6 +1147,7 @@ match_type =>
 media => Atribut HTML <code>media</code>
 msgcols => Columnes de l’àrea de text del missatge
 msgrows => Fileres de l’àrea de text del missatge
+n => Nom
 next_page_link => Enllaç a pàgina següent
 no_categories_available => No hi ha cap categoria disponible.
 no_forms_available => No hi ha cap formulari disponible.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Botó “envia”
 tag_comment_time => Hora
 tag_comment_web => Lloc web
 tag_comment_web_input => Entrada web
-tag_css => Enllaç CSS (<code>&lt;head&gt;</code>)
+tag_css => Enllaç CSS (<code>head</code>)
 tag_email => Enllaç email (anti-spam)
 tag_excerpt => Extracte
 tag_feed_link => Font (feed) dels articles

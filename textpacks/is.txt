@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Íslenska
 lang_code => is
@@ -943,7 +943,9 @@ published_at => Birt þann
 raw_php_deprecated =>
 recently => Nýlegt
 recent_articles => Nýlegar greinar
+recent_comments => Nýlegar skoðanir
 recent_posts => Nýlegar greinar
+related_articles => Skildar greinar
 remember => Muna
 required =>
 revert => Hverfa aftur til
@@ -1145,6 +1147,7 @@ match_type =>
 media => HTML eigenleiki <code>media</code>
 msgcols =>
 msgrows =>
+n => Nafn
 next_page_link => Tengill á næstu síðu
 no_categories_available =>
 no_forms_available =>
@@ -1199,7 +1202,7 @@ tag_comment_submit => Skrá skoðun takki
 tag_comment_time => Tími
 tag_comment_web =>
 tag_comment_web_input => Innsettningarreitur vefur
-tag_css => CSS tengill (<code>&lt;head&gt;</code>)
+tag_css => CSS tengill (<code>head</code>)
 tag_email => Póstfang tengill (spam-reyndur)
 tag_excerpt => Inngangur
 tag_feed_link => Fæði til greina

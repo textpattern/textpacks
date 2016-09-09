@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Galego
 lang_code => gl
@@ -943,7 +943,9 @@ published_at => Publicado ás
 raw_php_deprecated => As etiquetas de PHP en cru están desaconselladas
 recently => Recentemente
 recent_articles => Artigos recentes
+recent_comments => Comentarios recentes
 recent_posts => Artigos recentes
+related_articles => Artigos relacionados
 remember => Recordar
 required => Requirido
 revert => Volver
@@ -1145,6 +1147,7 @@ match_type => Tipo de investigación
 media => Atributo <code>media</code> HTML
 msgcols => Columnas da área de texto da mensaxe
 msgrows => Filas da área de texto da mensaxe
+n => Nome
 next_page_link => Seguinte páxina
 no_categories_available => Non hai categorías dispoñibles.
 no_forms_available => Non hai bloques dispoñibles.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Botón enviar
 tag_comment_time => Hora
 tag_comment_web => Sitio web de comentario
 tag_comment_web_input => Entrada web
-tag_css => Ligazón á folla de estilos CSS (<code>&lt;head&gt;</code>)
+tag_css => Ligazón á folla de estilos CSS (<code>head</code>)
 tag_email => Ligazón ó mail (anti-spam)
 tag_excerpt => Resumo
 tag_feed_link => Sumario de artigos

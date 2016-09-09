@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Čeština
 lang_code => cs
@@ -943,7 +943,9 @@ published_at => Datum a čas vydání
 raw_php_deprecated => PHP značky jsou zastaralé
 recently => Nedávno
 recent_articles => Poslední články
+recent_comments => Poslední komentáře
 recent_posts => Poslední příspěvky
+related_articles => Podobné články
 remember => Zapamatovat
 required => Povinné
 revert => Vrátit zpět
@@ -1145,6 +1147,7 @@ match_type => Typ shody
 media => <code>media</code> podle HTML
 msgcols => Sloupce v poli
 msgrows => Řádky v poli
+n => Název
 next_page_link => Odkaz na další
 no_categories_available => Neexistují kategorie.
 no_forms_available => Neexistují formy.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Odeslat
 tag_comment_time => Čas
 tag_comment_web => Web
 tag_comment_web_input => Pole pro web
-tag_css => Odkaz na CSS (<code>&lt;head&gt;</code>)
+tag_css => Odkaz na CSS (<code>head</code>)
 tag_email => Odkaz na email (proti spamu)
 tag_excerpt => Anotace
 tag_feed_link => Pramen XML pro články

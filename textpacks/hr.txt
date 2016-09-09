@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Hrvatski
 lang_code => hr
@@ -943,7 +943,9 @@ published_at => Publicirano
 raw_php_deprecated => Sirovi PHP tagovi su zabranjeni
 recently => Nedavno
 recent_articles => Nedavni članci
+recent_comments => Nedavni komentari
 recent_posts => Nedavni komentari
+related_articles => Slični unosi
 remember => Zapamti
 required => Potrebno
 revert => Vratiti se
@@ -1145,6 +1147,7 @@ match_type =>
 media => <code>media</code> HTML attribute
 msgcols => Message textarea columns
 msgrows => Message textarea rows
+n => Ime
 next_page_link => Sljedeća stranica link
 no_categories_available => Nema dostupnih kategorija.
 no_forms_available => Nema dostupnih formi.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Gumb za podnošenje komentara
 tag_comment_time => Vrijeme komentara
 tag_comment_web => Website komentara
 tag_comment_web_input => Web input komentara
-tag_css => CSS link (<code>&lt;head&gt;</code>)
+tag_css => CSS link (<code>head</code>)
 tag_email => Email link (spam-otporno)
 tag_excerpt => Sažetak
 tag_feed_link => Feed link članka

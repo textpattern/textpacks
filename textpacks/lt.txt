@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Lietuvių
 lang_code => lt
@@ -943,7 +943,9 @@ published_at => Paskelbta
 raw_php_deprecated => PHP žymės nebenaudotinos
 recently => Neseniai
 recent_articles => Paskiausiai naudoti straipsniai
+recent_comments => Naujausi komentarai
 recent_posts => Naujausios žinutės
+related_articles => Susiję straipsniai
 remember => Prisiminti
 required => Reikalinga
 revert => Grąžinti
@@ -1145,6 +1147,7 @@ match_type =>
 media => <code>media</code> HTML atributas
 msgcols => Pranešimo tekstinio lauko stulpelių skaičius
 msgrows => Pranešimo tekstinio lauko eilučių skaičius
+n => Vardas
 next_page_link => Kito puslapio nuoroda
 no_categories_available => Nėra jokių kategorijų.
 no_forms_available => Nėra jokių formų.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Komentaro išsiuntimo mygtukas
 tag_comment_time => Komentaro laikas
 tag_comment_web => Komentaro svetainė
 tag_comment_web_input => Komentaro svetainės įvestis
-tag_css => CSS nuoroda (<code>&lt;head&gt;</code>)
+tag_css => CSS nuoroda (<code>head</code>)
 tag_email => El. pašto nuoroda (Apsaugotas nuo brukalų)
 tag_excerpt => Ištrauka
 tag_feed_link => Straipsnių srauto nuoroda

@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => български
 lang_code => bg
@@ -943,7 +943,9 @@ published_at => Публикувано от
 raw_php_deprecated => Raw PHP тагове са отхвърлени
 recently => Последни
 recent_articles => Последни Статии
+recent_comments => Последни коментари
 recent_posts => Последни публикации
+related_articles => Свързани статии
 remember => Запомни
 required => Задължително
 revert => Към предишно състояние
@@ -1145,6 +1147,7 @@ match_type => Вид на търсенето
 media => <code>media</code>-атрибут (HTML)
 msgcols => Широчина (колони) на полето за съобщения
 msgrows => Височина (редове) на полето за съобщения
+n => Име
 next_page_link => Връзка към следващата страница
 no_categories_available => Не са намерени категории файлове.
 no_forms_available => Няма форми.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Бутон изпрати
 tag_comment_time => Време
 tag_comment_web => Сайт
 tag_comment_web_input => Поле за web
-tag_css => Линк към CSS файл (<code>&lt;head&gt;</code>)
+tag_css => Линк към CSS файл (<code>head</code>)
 tag_email => Email линк (устойчив на спам)
 tag_excerpt => Извадка
 tag_feed_link => Връзка към XML Feed за Статиите

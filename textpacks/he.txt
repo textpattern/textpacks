@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => עברית
 lang_code => he
@@ -389,7 +389,7 @@ low => נמוך
 magic_quotes => Magic quotes
 missing_files => קבצים חסרים
 modified_files => מספר קבצי Textpattern שונו
-mod_rewrite_missing => רכיב Apache <code>mod_rewrite</code> לא מותקן
+mod_rewrite_missing => רכיב Apache <code dir="ltr">mod_rewrite</code> לא מותקן
 mysql_table_errors => השגיאות הבאות זוהו בטבלאות MySQL שלך
 no_temp_dir => לא הוגדרה ספריית קבציפ זמניים(temp)
 old_files => מספר קבצי Textpattern אינם מעודכנים
@@ -943,7 +943,9 @@ published_at => פורסם בתאריך
 raw_php_deprecated => תגי PHP נקי מועמדים לביטול
 recently => לאחרונה
 recent_articles => מאמרים אחרונים
+recent_comments => תגובות אחרונות
 recent_posts => שליחות אחרונות
+related_articles =>  מאמרים קשורים
 remember => זכור
 required =>
 revert => בטל שינויים
@@ -1145,6 +1147,7 @@ match_type =>
 media => תכונת HTML <code dir="ltr">media</code>
 msgcols => עמודות תיבת הטקסט של ההודעה
 msgrows => שורות תיבת הטקסט של ההודעה
+n => שם
 next_page_link => קישור לעמוד הבא
 no_categories_available => .אין קטגוריות
 no_forms_available => .אין תבניות
@@ -1199,7 +1202,7 @@ tag_comment_submit => כפתור שליחה
 tag_comment_time => זמן
 tag_comment_web => אתר
 tag_comment_web_input => קלט אתר
-tag_css => קישור CSS (<code dir="ltr">&lt;head&gt;</code>)
+tag_css => קישור CSS (<code dir="ltr">head</code>)
 tag_email => קישור דואל (חסין ספאם)
 tag_excerpt => תוכן נוסף
 tag_feed_link => הזן מאמרים

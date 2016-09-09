@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => اردو
 lang_code => ur
@@ -377,7 +377,7 @@ dir_not_writable => {dirtype} قبل تحریر نہیں
 dns_lookup_fails => Web Domain DNS lookup میں ناکامی
 document_root => اساسی پوشہ کا پتہ
 file_uploads_disabled => فائل کے اپ لوڈ کرنا نا اہل ہے
-gd_info => {version} کی معاونت شدہ قسمیں: {supported}.
+gd_info => {version} کی معاونت شدہ قسمیں: {supported}
 gd_library => GD Graphics Library
 high => اعلٰی
 htaccess_contents => .htaccess فائل کی متن
@@ -389,7 +389,7 @@ low => پست
 magic_quotes => Magic quotes
 missing_files => غائب‏ فائل
 modified_files => کچھ Textpattern کے فائل ترمیم کیے گئے ہیں
-mod_rewrite_missing => Apache module <code>mod_rewrite</code> نسب نہیں
+mod_rewrite_missing => Apache module <code dir="ltr">mod_rewrite</code> نسب نہیں
 mysql_table_errors =>
 no_temp_dir =>
 old_files => کئی Textpattern کے فائل متروک ہے
@@ -506,7 +506,7 @@ form_save_failed =>
 form_type => قسم (‏لازمی‏)
 form_type_missing => فارم کی قسم خالی نہیں رہ سٹکی
 form_updated => فارم <strong>{name}</strong> تازہ کیا
-list_forms => list forms
+list_forms =>
 you_are_editing_form => آپ یہ فارم تدوین کر رہے ہیں
 #@image
 add_magnify_icon =>
@@ -517,7 +517,7 @@ create_thumbnail => تصویر صغیر بناۓ
 edit_image => تصویر تدوین کریں
 extension =>
 images => تصاویر
-image_deleted => تصویر <strong>{name}</strong> حذف کیا:
+image_deleted => تصویر <strong>{name}</strong> حذف کیا
 image_delete_failed => تصویر <strong>{name}</strong> مکمل طور پر حذف نہیں ہوا
 image_details =>
 image_name => تصویر نام
@@ -535,7 +535,7 @@ replace_image => تصویر بدلیں
 save_these_settings_as_default => کیا ان سیٹنگ کو ترجیح دیں ؟
 search_images =>
 thumbnail_deleted => تصویر صغیر حذف کیا
-thumbnail_not_saved => تصویر صغیر <strong>{id}</strong> محفوظ <em>نہیں</em> !
+thumbnail_not_saved => تصویر صغیر <strong>{id}</strong> محفوظ نہیں
 thumbnail_saved => تصویر صغیر <strong>{id}</strong> محفوظ کیا
 thumb_height => اونچائی
 thumb_width => چوڑائی
@@ -600,7 +600,7 @@ page_code =>
 page_created => صفہ <strong>{name}</strong> بنا ہوا
 page_deleted => صفہ <strong>{name}</strong> حذف کیا
 page_misc_hed =>
-page_name => صفہ نام
+page_name =>  صفہ نام
 page_name_invalid => صفہ نام ناجائز
 page_nav_hed =>
 page_save_failed =>
@@ -626,7 +626,7 @@ plugin_compression_unsupported =>
 plugin_deleted => پلگ ان <strong>{name}</strong> حذف کیا
 plugin_help => پلگ ان مدد
 plugin_installed => پلگ ان <strong>{name}</strong> نصب کیا
-plugin_install_failed => پلگ ان <strong>{name}</strong> نصب <em>نہیں ہوا</em>!
+plugin_install_failed => پلگ ان <strong>{name}</strong> نصب نہیں ہوا
 plugin_modified => ترمیم کیا ؟
 plugin_prefs => اختیارات
 plugin_saved => پلگ ان <strong>{name}</strong> محفوظ کیا
@@ -652,7 +652,7 @@ auto_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> سیٹنگ خو
 category_subcategory => /category/subcategory
 check_for_txp_updates => تجدید ورژن کی جانچ کریں
 clean => /clean/
-comments_are_ol => کیا تبصرے عدد وار فہرست &lt;ol&gt; میں پیش کیا جاۓ ؟
+comments_are_ol => کیا تبصرے عدد وار فہرست <code dir="ltr">ol</code> میں پیش کیا جاۓ ؟
 comments_auto_append => کیا تبصرے کو خود کار طور پر مضامین کے ساتھ جوڑے ؟
 comments_dateformat => تاریخ تبصرہ کی وضع
 comments_default_invite => تبصرہ کرنے کی ‏طمع
@@ -701,12 +701,12 @@ img_dir => تصاویر کا پوشہ
 include_email_atom => کیا آٹوم فیڈ میں مصنف کا ای میل پتہ شامل کریں ؟
 installing_language =>
 install_from_textpack =>
-install_langfile => نئے زبان آپ {url} سے ڈاونلوڈ کر سکتے ہیں ور پھر /textpattern/lang/ پوشہ میں دستیاب کریں
+install_langfile => نئے زبان آپ <code dir="ltr">{url}</code> سے ڈاونلوڈ کر سکتے ہیں ور پھر <code dir="ltr">/textpattern/lang/</code> پوشہ میں دستیاب کریں
 install_language => زبان تنصیب کریں
 install_textpack =>
 is_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> اہل بنا ہے ؟
 language => زبان
-lastmod_keepalive => کیا <code>mod_deflate</code> میں گڑبڑ کی وجہ سے مسلسل اتصال روکا جاۓ ؟
+lastmod_keepalive => ا <code dir="ltr">mod_deflate</code> میں گڑبڑ کی وجہ سے مسلسل اتصال روکا جاۓ ؟
 leave_text_untouched =>
 link => روابط
 locale => مقامیت
@@ -714,16 +714,16 @@ locale_not_available_for_language =>
 logging => سرگمی
 logs_expire => سرگامی کتنے دیں بعد حذف کریں ؟
 manage_languages => زبان
-markup_default => Default Markup
+markup_default =>
 max_url_len => URL کی زیادہ سے زیادہ‏ لمبائی (حروف میں)
-mentions => Mentions
+mentions =>
 messy => ?=messy
 never_display_email => کیا تبصرہ نگار کا‏ ای میل پتہ پوشیدہ رکھیں ؟
 new_textpattern_version_available =>
 no_popup => فعال دریچہ میں
 no_preferences =>
-override_emailcharset => کیا مرسلہ ای میل میں ISO-8859-1 ضابطہ بندی استمعال کریں ؟ (خودکار طور پر UTF-8 استمعال کیا جاۓ گا)
-path_from_root => Sub-directory (if any)
+override_emailcharset => کیا مرسلہ ای میل میں ISO-8859-1 ضابطہ بندی استمعال کریں ؟ (خودکار طور پر  UTF-8 استمعال کیا جاۓ گا)
+path_from_root =>
 path_to_site_missing =>
 permalink_title_format => مستقل روابط میں‏ title-like-this (ورنہ TitleLikeThis) ؟
 permlink_format =>
@@ -932,7 +932,7 @@ permlink => مستقل‏ ربط
 plugin_load_error => پلگ ان نصب کرنے میں نقص
 plugin_load_error_above => اپر نقائص کا سبب یہ پلگ ان ہے:
 popup => برخیزہ میں
-post => Post
+post =>
 posted => تاریخ اشاعت
 posted_by => شائع کردہ
 press_preview_then_submit =>
@@ -943,7 +943,9 @@ published_at => کب شائع کیا
 raw_php_deprecated =>
 recently => حالیہ
 recent_articles => حالیہ مضامین
+recent_comments =>
 recent_posts => حالیہ مسودے
+related_articles =>
 remember => میرے معلومات یاد رکھو
 required =>
 revert => ‏پچھلی حالت پر واپس لائیں
@@ -964,7 +966,7 @@ strong => جلی
 submit => بھیجیں
 subscript => ذیلی تحریر
 superscript => بالائی تحریر
-tag_error =>
+tag_error => Tag error:
 textile_help => Textile مدد
 textile_lite_help => Textile Lite مدد
 text_conversion =>
@@ -995,7 +997,7 @@ weeks => ہفتے
 while_parsing_page_form =>
 yes => ہاں
 your_branch_is_updated => اس شاخ میں آپ کا Textpattern ورژن سب سے جدید ہے
-your_ip_is_blacklisted_by => تمہارا IPپتہ اس ‏'Blacklist' میں شامل ہے
+your_ip_is_blacklisted_by => تمہارا IPپتہ اس ‏'Blocklist' میں شامل ہے
 you_have_been_banned => تبصرہ کرنے سے تم پر بندش لگائی گئی
 yyyy-mm => yyyy-mm
 #@section
@@ -1011,14 +1013,14 @@ on_front_page => ابتدائی صفحہ پر شامل کریں
 search_sections =>
 section => صیغہ
 sections => صیغہ
-section_created => صیغہ <strong><a href="#section-{name}">{name}</a></strong> بنا ہوا
+section_created => صیغہ <strong>{name}</strong> بنا ہوا
 section_deleted => صیغہ <strong>{name}</strong> حذف کیا
 section_head => سائٹ کے صیغہ
 section_longtitle => صیغہ کا عنوان
 section_name => صیغہ کا نام
-section_name_already_exists => صیغہ <strong><a href="#section-{name}">{name}</a></strong> پہلے سے موجود ہے
+section_name_already_exists => صیغہ <strong>{name}</strong> پہلے سے موجود ہے
 section_save_failed =>
-section_updated => صیغہ <strong><a href="#section-{name}">{name}</a></strong> تازہ کیا
+section_updated => صیغہ <strong>{name}</strong> تازہ کیا
 section_used_by_article => صیغہ <strong>{name}</strong> حذف کرنا ناممکن; {count} مضمون اسے استمعال کر رہے ہیں
 selected_by_default => خود کار طور پر منتخب شدہ
 style => سٹائل
@@ -1042,7 +1044,7 @@ creating_config =>
 creating_db_tables =>
 db_cant_connect => ڈیٹابیس مع ربط نہیں ہو سکا
 db_connected => ڈیٹابیس مع مربوط ہوا
-db_doesnt_exist => دستیاب نہیں یا آپ کا اختصاصی صارف کو اس سے رسائی کرنے کی اجازت نہیں {dbname} ڈیٹابیس
+db_doesnt_exist => دستیاب نہیں یا آپ کا اختصاصی صارف کو اس سے رسائی کرنے کی اجازت نہیں <strong>{dbname}</strong> ڈیٹابیس
 db_must_exist => اسے نہیں بناۓ گا Textpattern آپکا انتخاب کردہ ڈیٹابیس پہلے سے ہی موجود ہونا چاہیے
 did_it => عمل مکمل
 email_required => بارہ کرم، ایک جائز ای میل پتہ داخل کریں
@@ -1080,14 +1082,14 @@ site_config =>
 site_url => URL ویب سائٹ کا
 tables_exist =>
 table_prefix => جدول سابقہ
-thanks_for_interest => میں دلچسپی لینے کے لئے آپ کا شکریہ Textpattern.
+thanks_for_interest => میں دلچسپی لینے کے لئے آپ کا شکریہ Textpattern
 that_went_well => ہر کام کامیابی سے مکممل! - ڈیٹابیس کے جدول کی بناوٹ اور بھرائی مکمل
 using_db => استمعال کیا جا رہا ہے {dbname}
 warn_mail_unavailable => سے کوئی ای میل نہیں بھیجے جاینگے Textpattern دستیاب نہیں، اس لیے <code dir="ltr">mail()</code> میں PHP آپ کے
 welcome_to_textpattern => میں خوش آمدید Textpattern
 your_email => آپکا ای میل پتہ
 your_full_name => آپ کا پورا نام
-you_can_access => میں انتخاب کردہ لاگ ان معلومات کے ساتھ داخل ہو سکتے ہیں <a href="index.php"> انتظامیہ</a> اب آپ
+you_can_access => میں انتخاب کردہ لاگ ان معلومات کے ساتھ داخل ہو سکتے ہیں <a href="index.php">انتظامیہ</a> اب آپ
 #@skin
 create_skin =>
 edit_skin =>
@@ -1145,6 +1147,7 @@ match_type =>
 media =>
 msgcols =>
 msgrows =>
+n => نام
 next_page_link =>
 no_categories_available =>
 no_forms_available =>

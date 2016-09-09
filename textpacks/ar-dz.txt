@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => جزائري عربي
 lang_code => ar-DZ
@@ -943,7 +943,9 @@ published_at => نشر يوم
 raw_php_deprecated =>
 recently => مؤخرا
 recent_articles => مقالات منشورة مؤخرا
+recent_comments => التعليقات الأخيرة
 recent_posts => نشر مؤخرا
+related_articles => المقالات حول نفس الموضوع
 remember => حفظ المعلومات المستلمة
 required =>
 revert => العودة إلى الوراء
@@ -1145,6 +1147,7 @@ match_type =>
 media =>
 msgcols =>
 msgrows =>
+n => اسم
 next_page_link => رابط يؤدي إلى الصفحة الموالية
 no_categories_available =>
 no_forms_available =>
@@ -1199,7 +1202,7 @@ tag_comment_submit => زر التسجيل
 tag_comment_time => الساعة
 tag_comment_web =>
 tag_comment_web_input => كتابة عنوان الموقع
-tag_css => <code dir="ltr">&lt;head&gt;</code> سي إس إس رابط
+tag_css => <code dir="ltr">head</code> سي إس إس رابط
 tag_email =>
 tag_excerpt => ملخص
 tag_feed_link => تدفق المقالات

@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Norsk (Bokmål)
 lang_code => nb
@@ -943,7 +943,9 @@ published_at => Publisert på
 raw_php_deprecated =>
 recently =>
 recent_articles => Siste artikler
+recent_comments => Siste kommentarer
 recent_posts => Siste innlegg
+related_articles => Relaterte artikler
 remember => Husk
 required =>
 revert => Gå tilbake
@@ -1145,6 +1147,7 @@ match_type =>
 media => HTML attribut <code>media</code>
 msgcols =>
 msgrows =>
+n => Navn
 next_page_link => Neste sidelink
 no_categories_available => Ingen kategorier tilgjengelig.
 no_forms_available => Ingen skjemaer tilgjengelig.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Sendknapp
 tag_comment_time => Kommentar tid
 tag_comment_web => Kommentar hjemmeside
 tag_comment_web_input => Web inndata
-tag_css => CSS-lenke (<code>&lt;head&gt;</code>)
+tag_css => CSS-lenke (<code>head</code>)
 tag_email => Epostlenke (sikker mot søppelepost)
 tag_excerpt => Utdrag
 tag_feed_link => Feed til artikler

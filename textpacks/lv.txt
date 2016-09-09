@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Latviešu
 lang_code => lv
@@ -943,7 +943,9 @@ published_at => Publicēts
 raw_php_deprecated =>
 recently => Pēdējie
 recent_articles => Pēdējie ieraksti
+recent_comments => Pēdējie komentāri
 recent_posts => Pēdējie ieraksti
+related_articles => Līdzīgi ieraksti
 remember => Atcerēties manus datus
 required => Obligāts
 revert => Atgriezt
@@ -1145,6 +1147,7 @@ match_type =>
 media => <code>media</code> HTML atribūts
 msgcols => Ziņojuma lauka kolonnas
 msgrows => Ziņojuma lauka rindas
+n => Nosaukums
 next_page_link => Saite uz nākamo lapu
 no_categories_available => Nav pieejama neviena kategorija.
 no_forms_available => Nav pieejama neviena forma.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Komentāra nosūtīšanas poga
 tag_comment_time => Komentāra datums
 tag_comment_web => Komentāra vietne
 tag_comment_web_input => Komentētāja mājaslapa
-tag_css => Saite uz stilu lapu (<code>&lt;head&gt;</code>)
+tag_css => Saite uz stilu lapu (<code>head</code>)
 tag_email => E-pasta saite (droša pret mēstulēm)
 tag_excerpt => Ievadteksts
 tag_feed_link => Ierakstu padeve

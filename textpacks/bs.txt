@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Bosanski
 lang_code => bs
@@ -943,7 +943,9 @@ published_at => Objavljeno u
 raw_php_deprecated => Sirove PHP oznake (tags) su nedozvoljeni
 recently => Skorašnji
 recent_articles => Skorašnji članci
+recent_comments => Skorašnji komentari
 recent_posts => Skorašnje objave
+related_articles => Povezani članci
 remember => Zapamti
 required =>
 revert => Vrati
@@ -1145,6 +1147,7 @@ match_type =>
 media => <code>media</code> HTML atribut
 msgcols => Kolone tekst područja poruka
 msgrows => Redovi tekst područja poruka
+n => Ime
 next_page_link => Veza ka slijedećoj strani
 no_categories_available => Ni jedna kategorija nije dostupna.
 no_forms_available => Ni jedan formular nije dostupan.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Dugme za slanje komentara
 tag_comment_time => Vrijeme komentara
 tag_comment_web => Web sajt komentara
 tag_comment_web_input => Ulaz sa Interneta za komentar
-tag_css => CSS veza (<code>&lt;head&gt;</code>)
+tag_css => CSS veza (<code>head</code>)
 tag_email => Veza na adresu e-pošte (otporna na spam)
 tag_excerpt => Isječak
 tag_feed_link => Veza na feed (obavještenja) za članke

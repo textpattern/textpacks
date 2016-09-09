@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Français
 lang_code => fr
@@ -943,7 +943,9 @@ published_at => Publié le
 raw_php_deprecated => Les lignes de code PHP brutes ne sont plus supportées
 recently => Récemment
 recent_articles => Articles récents
+recent_comments => Commentaires récents
 recent_posts => Posts récents
+related_articles => Articles sur le même sujet
 remember => Mémoriser les informations saisies
 required => Requis
 revert => Revenir en arrière
@@ -1145,6 +1147,7 @@ match_type => Type de relation
 media => Attribut HTML <code>media</code>
 msgcols => Nombre de colonnes de la zone de saisie des messages
 msgrows => Nombre de lignes de la zone de saisie des messages
+n => Nom
 next_page_link => Lien vers la page suivante
 no_categories_available => Pas de catégories disponibles.
 no_forms_available => Pas de modules disponibles.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Bouton d’enregistrement
 tag_comment_time => Heure
 tag_comment_web => Site web
 tag_comment_web_input => Saisie web
-tag_css => Lien CSS (<code>&lt;head&gt;</code>)
+tag_css => Lien CSS (<code>head</code>)
 tag_email => Hyperlien d’email
 tag_excerpt => Résumé
 tag_feed_link => Flux des articles

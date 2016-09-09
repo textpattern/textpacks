@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Українська
 lang_code => uk
@@ -943,7 +943,9 @@ published_at => Опубліковано
 raw_php_deprecated => Пряме включення PHP не рекомендується
 recently => Недавно
 recent_articles => Недавні статті
+recent_comments => Недавні коментарі
 recent_posts => Недавні повідомлення
+related_articles => Схожі статті
 remember => Пам'ятати
 required => Потрібно
 revert => Повернути
@@ -994,7 +996,7 @@ week => тиждень
 weeks => тижні
 while_parsing_page_form => під час обробки форми <strong>{form}</strong> на сторінці <strong>{page}</strong>
 yes => Так
-your_branch_is_updated => Ви використовуєте Textpattern останньої версії
+your_branch_is_updated => Ви використовуєте Textpattern останньої версії.
 your_ip_is_blacklisted_by => Ваша IP адреса була занесена в чорний список
 you_have_been_banned => Вам заборонено коментувати.
 yyyy-mm => yyyy-mm
@@ -1145,6 +1147,7 @@ match_type => Тип співпадання
 media => <code>media</code> HTML атрибут
 msgcols => Кількість колонок у полі повідомлення
 msgrows => Кількість рядів в полі повідомлення
+n => Ім'я
 next_page_link => Посилання на наступну сторінку
 no_categories_available => Немає категорій.
 no_forms_available => Немає шаблонів.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Кнопка "Зберегти"
 tag_comment_time => Час
 tag_comment_web => Сайт автора коментаря
 tag_comment_web_input => Поле для веб-посилання
-tag_css => CSS посилання (<code>&lt;head&gt;</code>)
+tag_css => CSS посилання (<code>head</code>)
 tag_email => Email посилання (spam-захищено)
 tag_excerpt => Цитата
 tag_feed_link => Посилання на XML Feed до статей

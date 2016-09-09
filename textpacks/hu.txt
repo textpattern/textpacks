@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Magyar
 lang_code => hu
@@ -943,7 +943,9 @@ published_at => Publikálás ideje
 raw_php_deprecated => Az egyszerüsített PHP tagek érvénytelenítése
 recently => Utóbbi
 recent_articles => Legfrissebb cikkek
+recent_comments => Legfrissebb megjegyzések
 recent_posts => Legfrissebb posztok
+related_articles => Kapcsolódó cikkek
 remember => Jegyezd meg
 required =>
 revert => Visszatér
@@ -1145,6 +1147,7 @@ match_type =>
 media => HTML tulajdonság <code>media</code>
 msgcols => Az üzenet beviteli mezőjének oszlopszáma
 msgrows => Az üzenet beviteli mezője sorainak száma
+n => Név
 next_page_link => Link a következő oldalra
 no_categories_available => Nincsenek elérhető kategóriák
 no_forms_available => Nincsenek elérhető sablonok.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Elküldés gomb
 tag_comment_time => Idő
 tag_comment_web => Weblap
 tag_comment_web_input => Web beviteli mező
-tag_css => CSS link (<code>&lt;head&gt;</code>)
+tag_css => CSS link (<code>head</code>)
 tag_email => Email link (spam-védett)
 tag_excerpt => Kiemelés
 tag_feed_link => Visszacsatolás a cikkekhez

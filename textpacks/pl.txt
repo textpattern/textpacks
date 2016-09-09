@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Polski
 lang_code => pl
@@ -943,7 +943,9 @@ published_at => Opublikowane o
 raw_php_deprecated => Znaczniki PHP są nie zalecane
 recently => Ostatnio
 recent_articles => Ostatnio dodane artykuły
+recent_comments => Ostatnio dodane komentarze
 recent_posts => Ostatnio dodane posty
+related_articles => Podobne artykuły
 remember => Zapamiętaj moje dane
 required => Wymagany
 revert => Przywróć
@@ -1145,6 +1147,7 @@ match_type => Rodzaj powiązania
 media => Atrybut HTML <code>media</code>
 msgcols => Liczba kolumn
 msgrows => Liczba wierszy
+n => Nazwa
 next_page_link => Następna strona - odsyłacz
 no_categories_available => Brak dostępnych kategorii.
 no_forms_available => Brak dostępnych form.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Przycisk: Wyślij
 tag_comment_time => Data
 tag_comment_web => Adres strona internetowa
 tag_comment_web_input => Pole: Adres strona internetowa
-tag_css => Odsyłacz do CSS (<code>&lt;head&gt;</code>)
+tag_css => Odsyłacz do CSS (<code>head</code>)
 tag_email => Odsyłacz email (odporny na spam)
 tag_excerpt => Zajawka
 tag_feed_link => Kanał z artykułami

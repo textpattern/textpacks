@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => 한국말 (대한민국)
 lang_code => ko
@@ -943,7 +943,9 @@ published_at => 발행 시간
 raw_php_deprecated => Raw PHP 태그는 더이상 쓸 수 없음
 recently => 최근
 recent_articles => 최근 글
+recent_comments => 최근 댓글
 recent_posts => 최근 글
+related_articles => 관련 글
 remember => 내 정보 기억하기
 required => 필수
 revert => 되돌리기
@@ -1145,6 +1147,7 @@ match_type =>
 media => <code>media</code> HTML 속성
 msgcols => 메시지 영역 칸
 msgrows => 메시지 영역 열
+n => 이름
 next_page_link => 다음 페이지 링크
 no_categories_available => 가능한 분류가 없습니다.
 no_forms_available => 가능한 폼이 없습니다.
@@ -1199,7 +1202,7 @@ tag_comment_submit => 댓글 확인 버튼
 tag_comment_time => 댓글 시각
 tag_comment_web => 댓글 웹사이트
 tag_comment_web_input => 댓글 웹사이트 입력
-tag_css => CSS 링크 (<code>&lt;head&gt;</code>)
+tag_css => CSS 링크 (<code>head</code>)
 tag_email => 전자우편 링크 (스팸방지용)
 tag_excerpt => 요약
 tag_feed_link => 글 피드 링크

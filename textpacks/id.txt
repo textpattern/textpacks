@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Bahasa Indonesia
 lang_code => id
@@ -943,7 +943,9 @@ published_at => Diterbitkan pada
 raw_php_deprecated =>
 recently => Terbaru
 recent_articles => Artikel Terbaru
+recent_comments => Komentar terbaru
 recent_posts => Tulisan Terbaru
+related_articles => Artikel terkait
 remember => Ingat
 required =>
 revert => Balikkan
@@ -1145,6 +1147,7 @@ match_type =>
 media => Atribut <code>media</code> HTML
 msgcols => Kolom untuk textarea pesan
 msgrows => Baris untuk textarea pesan
+n => Nama
 next_page_link => Tautan halaman berikutnya
 no_categories_available => Kategori tidak tersedia.
 no_forms_available => Bentuk tidak tersedia.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Tombol kirim komentar
 tag_comment_time => Waktu komentar
 tag_comment_web => Situs-web komentar
 tag_comment_web_input => Input situs komentar
-tag_css => Tautan CSS (<code>&lt;head&gt;</code>)
+tag_css => Tautan CSS (<code>head</code>)
 tag_email => Tautan email (anti-spam)
 tag_excerpt => Kutipan
 tag_feed_link => Tautan umpan artikel

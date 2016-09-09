@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Eesti
 lang_code => et
@@ -943,7 +943,9 @@ published_at => Avaldatud
 raw_php_deprecated =>
 recently => Hiljuti
 recent_articles => Värsked artiklid
+recent_comments => Värsked kommentaarid
 recent_posts => Värsked postitused
+related_articles => Seonduvad artiklid
 remember => Mäleta
 required => Nõutav
 revert => Pööratud
@@ -1145,6 +1147,7 @@ match_type =>
 media => HTML atribuudi <code>media</code>
 msgcols =>
 msgrows =>
+n => Nimi
 next_page_link => Link järgmisele lehele
 no_categories_available =>
 no_forms_available =>
@@ -1199,7 +1202,7 @@ tag_comment_submit => Saatmisnupp
 tag_comment_time => Aeg
 tag_comment_web =>
 tag_comment_web_input => WWW väli
-tag_css => CSS link (<code>&lt;head&gt;</code>)
+tag_css => CSS link (<code>head</code>)
 tag_email => Emaili link (spämmikindel)
 tag_excerpt => Kokkuvõte
 tag_feed_link => Artiklite voog

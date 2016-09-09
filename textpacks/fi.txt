@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Suomi
 lang_code => fi
@@ -943,7 +943,9 @@ published_at => Julkaistu
 raw_php_deprecated => Paljaat PHP tagit eivät ole enää tuettuja
 recently => Äskettäin
 recent_articles => Viime artikkelit
+recent_comments => Viime kommentit
 recent_posts => Viime postitukset
+related_articles => Aiheeseen liittyvät artikkelit
 remember => Muista minut?
 required => Vaaditaan
 revert => Palauta
@@ -1145,6 +1147,7 @@ match_type => Hae hakutermit
 media => <code>media</code> (HTML attribuutti)
 msgcols => Viestin tekstikentän sarakkeet
 msgrows => Viestin tekstikentän rivit
+n => Nimi
 next_page_link => Seuraavan sivun linkki
 no_categories_available => Kategorioita ei ole saatavilla.
 no_forms_available => Lomakkeita ei ole saatavilla.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Lähetä-nappi
 tag_comment_time => Aika
 tag_comment_web => Website
 tag_comment_web_input => WWW-kenttä
-tag_css => Linkki tyylisivuun (<code>&lt;head&gt;</code>)
+tag_css => Linkki tyylisivuun (head)
 tag_email => Email-linkki (estää roskapostin)
 tag_excerpt => Johdanto
 tag_feed_link => Syöte artikkeleihin

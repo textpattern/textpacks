@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => فارسی
 lang_code => fa
@@ -389,7 +389,7 @@ low => کم
 magic_quotes => Magic quotes
 missing_files => فایل های یافت نشده
 modified_files => برخی از فایل‌های Textpattern نغییر یافته‌اند
-mod_rewrite_missing => ماژول <code>mod_rewrite</code> بر روی آپاچی نصب نیست
+mod_rewrite_missing => ماژول <code dir="ltr">mod_rewrite</code> بر روی آپاچی نصب نیست
 mysql_table_errors => این اشکالات در جدول‌های MySQL شما یافت شد
 no_temp_dir => هیچ پوشه‌ای برای فایل‌های موقت تعریف نشده است
 old_files => برخی از فایل‌های Textpattern قدیمی‌اند
@@ -943,7 +943,9 @@ published_at => منتشر شده در
 raw_php_deprecated => کد های خام PHP ممنوع شناخته می شود
 recently => اخیراً
 recent_articles => آخرین نوشته‌ها
+recent_comments => آخرین نظرها
 recent_posts => آخرین ارسال‌ها
+related_articles => نوشته‌های مرتبط
 remember => به یادآوری
 required => ضروری
 revert => برگشت
@@ -1145,6 +1147,7 @@ match_type => نوع جستجو
 media => <code dir="ltr">media</code> HTML صفت
 msgcols => ستون‌های (طول) ورودی پیام
 msgrows => سطرهای (ارتفاع) ورودی پیام
+n => نام
 next_page_link => لینک صفحه بعدی
 no_categories_available => هیچ رده‌ای موجود نیست.
 no_forms_available => هیچ فرمی موجود نیست.
@@ -1199,7 +1202,7 @@ tag_comment_submit => دکمه ارسال نظر
 tag_comment_time => زمان نظر
 tag_comment_web => وب‌سایت نظردهنده
 tag_comment_web_input => ورودی وب‌سایت نظردهنده
-tag_css => لینک CSS (<code dir="ltr">&lt;head&gt;</code>)
+tag_css => لینک CSS (<code dir="ltr">head</code>)
 tag_email => لینک ایمیل (محافظ در برابر اسپم)
 tag_excerpt => منتخب
 tag_feed_link => لینک فید نوشته‌ها

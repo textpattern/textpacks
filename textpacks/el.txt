@@ -1,4 +1,4 @@
-#@version 4.5.4;1361790486
+#@version 4.7.0
 #@common
 lang_name => Ελληνικά
 lang_code => el
@@ -328,7 +328,7 @@ add_new_selector => Προσθήκη νέου επιλογέα
 all_stylesheets => Όλα τα στυλ
 bulkload_existing_css => Δημιουργία ή μεταφόρτωση νέου CSS
 cannot_delete_default_css => Το προκαθορισμένο στυλ <strong>default</strong> δεν μπορεί να διαγραφεί.
-copy_css_as => …ή αντιγράψετε το στυλ ως
+copy_css_as => Αντιγραφή του CSS ως:
 create_new_css => Δημιουργία νέου CSS
 css_already_exists => Το φύλλο στυλ <strong>{name}</strong> ήδη υπάρχει.
 css_code => Στυλ κώδικα
@@ -943,7 +943,9 @@ published_at => Δημοσιεύτηκε στις
 raw_php_deprecated => Ο ακατέργαστος κώδικας PHP έχει καταργηθεί
 recently => Πρόσφατα
 recent_articles => Πρόσφατα άρθρα
+recent_comments => Πρόσφατα σχόλια
 recent_posts => Πρόσφατες δημοσιεύσεις
+related_articles => Σχετικά άρθρα
 remember => θυμήσου
 required => Υποχρεωτικό
 revert => Αναίρεση αλλαγών
@@ -1145,6 +1147,7 @@ match_type => Αντιστοιχίες
 media => Ιδιότητα <code>media</code> HTML
 msgcols => Στήλες πεδίου εισαγωγής μηνύματος
 msgrows => Σειρές πεδίου εισαγωγής μηνύματος
+n => Όνομα
 next_page_link => Σύνδεση επόμενης σελίδας
 no_categories_available => Δεν υπάρχουν διαθέσιμες κατηγορίες.
 no_forms_available => Δεν υπάρχουν διαθέσιμες φόρμες.
@@ -1199,7 +1202,7 @@ tag_comment_submit => Κουμπί υποβολής
 tag_comment_time => Ώρα
 tag_comment_web => Ιστότοπος
 tag_comment_web_input => Εισαγωγή ιστότοπου
-tag_css => Σύνδεση CSS (<code>&lt;head&gt;</code>)
+tag_css => Σύνδεση CSS (<code>head</code>)
 tag_email => Σύνδεση email (αντι-spam)
 tag_excerpt => Απόσπασμα
 tag_feed_link => Σύνδεση ροής ειδήσεων άρθρων
