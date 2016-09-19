@@ -26,7 +26,7 @@
   <string name="edit_author">Upraviť autora</string>
   <string name="email_changed">E-mailová adresa zmenená na <strong>{email}</strong>.</string>
   <string name="error_adding_new_author">Chyba pri pridávaní autora</string>
-  <string name="freelancer">Freelancer</string>
+  <string name="freelancer">Prispievateľ</string>
   <string name="last_login">Posledné prihlásenie</string>
   <string name="link_expires">Máte čas reagovať do {day} {month} {year}, {time} pred vypršaním platnosti tohoto odkazu.</string>
   <string name="login_name">Užívateľ</string>
@@ -195,7 +195,7 @@
   <string name="changesection">Zmeniť rubriku</string>
   <string name="changestatus">Zmeniť status</string>
   <string name="close">Zatvoriť</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Zbaliť všetko</string>
   <string name="comment">komentar</string>
   <string name="comments_expired">Možnosť komentovať článok skončila.</string>
   <string name="confirm_delete_popup">Naozaj odstrániť?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Koncept</string>
   <string name="duplicate">Duplikovať</string>
   <string name="excerpt">Anotácia</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Rozbaliť všetko</string>
   <string name="expired">Expirované</string>
   <string name="expire_date">Dátum expirácie</string>
   <string name="expire_time">Čas expirácie</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Vážený {name},</string>
   <string name="save_new">Uložiť nový</string>
   <string name="search_all">Hľadať všetko</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Vymazať vyhľadávanie</string>
   <string name="search_options">Nastavenie vyhľadávania</string>
   <string name="showing_search_results">Zobrazené výsledky {from} až {to} z {total}</string>
   <string name="site_slogan">Slogan stránky</string>
@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">Čisté URL sú podporované iba na serveroch Apache, používajte na vlastný risk</string>
   <string name="clean_url_data_failed">Test dát pekných URL adries zlyhal.</string>
   <string name="clean_url_test_failed">Test pekných URL adries zlyhal.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Časové pásmo serveru databázy</string>
+  <string name="db_server_time">Čas serveru databázy</string>
+  <string name="db_server_timeoffset">Časový posun serveru databázy</string>
+  <string name="db_session_timezone">Časové pásmo relácie databáze</string>
   <string name="detail">Podrobnosti</string>
   <string name="dev_version_live">Používate vývojársku verziu Textpattern na serveri v ostrej prevádzke.</string>
   <string name="diagnostic_info">Diagnostika</string>
@@ -600,7 +600,7 @@
   <string name="changeorder">Zmeniť poradie</string>
   <string name="edit_plugin">Upraviť rozšírenie <strong>{name}</strong></string>
   <string name="edit_plugins">Úpravy pluginov</string>
-  <string name="help">Pomocník</string>
+  <string name="help">Nápoveda</string>
   <string name="install">Nainštalovať</string>
   <string name="install_plugin">Nainštalovať plugin</string>
   <string name="old_plugin">Starý inštalátor pluginov (textové súbory)</string>
@@ -704,7 +704,7 @@
   <string name="messy">\?=škaredé</string>
   <string name="never_display_email">Nikdy nezobraziť email?</string>
   <string name="new_textpattern_version_available">Existuje úplne nová verzia Textpattern systému. Chcete ju vyskúšať?</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Žiadné predvolby k dispozícii.</string>
   <string name="no_popup">do stránky</string>
   <string name="override_emailcharset">Používať kódovanie ISO-8859-1 v emailoch? (prednastavené je utf-8)</string>
   <string name="path_from_root">Priečinok (ak je nejaký)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">Formát adresy URL</string>
   <string name="permlink_hyphenated">S pomlčkami (nazov-clanku)</string>
   <string name="permlink_intercapped">Veľké a malé písmena (NazovClanku)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">Vzor URL adresy článku</string>
   <string name="ping_textpattern_com">Posielať ping na textpattern.com?</string>
   <string name="ping_weblogsdotcom">Posielať ping na pingomatic.com?</string>
   <string name="plugin_cache_dir">Zložka pre cache (vyrovnávaciu pamäť) rozšírení</string>
@@ -827,7 +827,7 @@
   <string name="deprecated_function">Funkcia <strong>{name}</strong> je zastaraná.</string>
   <string name="deprecated_function_with">Funkcia <strong>{name}</strong> je zastaraná: použi namiesto nej <strong>{with}</strong>.</string>
   <string name="deprecated_tag">nepodporovaný tag</string>
-  <string name="documentation">Documentation</string>
+  <string name="documentation">Dokumentácia</string>
   <string name="download_count">Počet stiahnutí</string>
   <string name="edit">Upraviť</string>
   <string name="email">E-mail</string>
@@ -849,7 +849,7 @@
   <string name="form">Šablóna</string>
   <string name="forms">Šablóny</string>
   <string name="go">OK</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Naspäť</string>
   <string name="go_content">Prejsť na obsah</string>
   <string name="go_nav">Prejsť na navigáciu</string>
   <string name="go_search">Prejsť na vyhľadávanie</string>
@@ -897,16 +897,16 @@
   <string name="next">nasledujúce</string>
   <string name="no">nie</string>
   <string name="none">Nič</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">aktuálne okno</string>
   <string name="no_comments">Tento článok zatiaľ nemá komentáre.</string>
   <string name="no_search_matches">Neboli nájdené žiadné výsledky</string>
   <string name="numeric_list">Číslovaný zoznam</string>
-  <string name="of">of</string>
+  <string name="of">z</string>
   <string name="off">vypnuté</string>
   <string name="older">staršie</string>
   <string name="on">zapnuté</string>
   <string name="only_articles_can_be_previewed">Pozn.: náhľad je možný len pre šablóny článkov.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(externý odkaz sa otvorí v novom okne)</string>
   <string name="page">Stránka</string>
   <string name="pages">Stránky</string>
   <string name="paragraph">odstavec</string>
@@ -914,7 +914,7 @@
   <string name="permlink">Trvalý odkaz</string>
   <string name="plugin_load_error">Počas načítania pluginy sa vyskytol problém:</string>
   <string name="plugin_load_error_above">Hore uvedené chyby spôsobil plugin:</string>
-  <string name="popup">popup window</string>
+  <string name="popup">vyskakovacie okno</string>
   <string name="post">Odoslať</string>
   <string name="posted">Vydané</string>
   <string name="posted_by">Vydal</string>
