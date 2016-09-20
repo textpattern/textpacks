@@ -684,7 +684,7 @@
     <string name="file_max_upload_size">Maximum file size of uploads (in bytes)</string>
     <string name="from_file">Install from file</string>
     <string name="from_server">Install from remote server</string>
-    <string name="gmtoffset">Time zone</string>
+    <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
     <string name="ham">All but spam</string>
     <string name="hours_days_ago">hours/days ago</string>
     <string name="id_title">/id/title</string>
