@@ -358,6 +358,14 @@
   <string name="all_checks_passed">全部檢查通過!</string>
   <string name="apache_modules">Apache模組</string>
   <string name="apache_version">Apache版本</string>
+  <string name="character_set_client">Client charset</string>
+  <string name="character_set_connection">Database connection charset</string>
+  <string name="character_set_database">Database charset</string>
+  <string name="character_set_filesystem">File system charset</string>
+  <string name="character_set_results">Results charset</string>
+  <string name="character_set_server">Server charset</string>
+  <string name="character_set_system">System charset</string>
+  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">只有 Apache 支援簡潔網址，需手動設置</string>
   <string name="clean_url_data_failed">Clean URL data test failed</string>
   <string name="clean_url_test_failed">簡潔網址測試失敗。</string>
@@ -677,7 +685,7 @@
   <string name="file_max_upload_size">最大上傳檔案大小(bytes)</string>
   <string name="from_file">從檔案安裝</string>
   <string name="from_server">從遠端伺服器安裝</string>
-  <string name="gmtoffset">時區</string>
+  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
   <string name="ham">All but spam</string>
   <string name="hours_days_ago">hours/days ago</string>
   <string name="id_title">/id/title</string>
