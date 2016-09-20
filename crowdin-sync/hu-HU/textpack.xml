@@ -358,6 +358,14 @@
   <string name="all_checks_passed">Minden ellenőrzés teljesítve!</string>
   <string name="apache_modules">Apache modulok</string>
   <string name="apache_version">Apache verzió</string>
+  <string name="character_set_client">Client charset</string>
+  <string name="character_set_connection">Database connection charset</string>
+  <string name="character_set_database">Database charset</string>
+  <string name="character_set_filesystem">File system charset</string>
+  <string name="character_set_results">Results charset</string>
+  <string name="character_set_server">Server charset</string>
+  <string name="character_set_system">System charset</string>
+  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">A tiszta URLeket csak az apache támogatja, csak saját felelősségedre használd.</string>
   <string name="clean_url_data_failed">Clean URL data test failed</string>
   <string name="clean_url_test_failed">Probléma az URL ellenőrzés során.</string>
@@ -677,7 +685,7 @@
   <string name="file_max_upload_size">A feltölthető állomány maximális mérete (byte-okban)</string>
   <string name="from_file">Telepítés állományból</string>
   <string name="from_server">Telepítés távoli szerverről</string>
-  <string name="gmtoffset">Időzóna</string>
+  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
   <string name="ham">All but spam</string>
   <string name="hours_days_ago">órával/nappal ezelőtt</string>
   <string name="id_title">/id/cim</string>
