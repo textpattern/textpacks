@@ -358,6 +358,14 @@
   <string name="all_checks_passed">모든 검사를 통과했습니다!</string>
   <string name="apache_modules">아파치 모듈</string>
   <string name="apache_version">아파치 버전</string>
+  <string name="character_set_client">Client charset</string>
+  <string name="character_set_connection">Database connection charset</string>
+  <string name="character_set_database">Database charset</string>
+  <string name="character_set_filesystem">File system charset</string>
+  <string name="character_set_results">Results charset</string>
+  <string name="character_set_server">Server charset</string>
+  <string name="character_set_system">System charset</string>
+  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Clean URL은 아파치에서만 지원됩니다.</string>
   <string name="clean_url_data_failed">Clean URL data test failed</string>
   <string name="clean_url_test_failed">Clean URL 테스트를 실패했습니다.</string>
@@ -677,7 +685,7 @@
   <string name="file_max_upload_size">업로드할 수 있는 최대 파일 크기(in bytes)</string>
   <string name="from_file">파일로부터 설치</string>
   <string name="from_server">원격 서버로부터설치</string>
-  <string name="gmtoffset">시간대</string>
+  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
   <string name="ham">스팸 외 전부</string>
   <string name="hours_days_ago">시간/일 전</string>
   <string name="id_title">/id/제목</string>
