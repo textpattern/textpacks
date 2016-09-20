@@ -358,6 +358,14 @@
   <string name="all_checks_passed">Toutes les vérifications sont OK !</string>
   <string name="apache_modules">Modules Apache</string>
   <string name="apache_version">Version d’Apache</string>
+  <string name="character_set_client">Client charset</string>
+  <string name="character_set_connection">Database connection charset</string>
+  <string name="character_set_database">Database charset</string>
+  <string name="character_set_filesystem">File system charset</string>
+  <string name="character_set_results">Results charset</string>
+  <string name="character_set_server">Server charset</string>
+  <string name="character_set_system">System charset</string>
+  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Les URL « propres » ne sont vraiment supportées que par Apache, vous les utilisez à vos propres risques.</string>
   <string name="clean_url_data_failed">Le test d’URL propres a échoué</string>
   <string name="clean_url_test_failed">Impossible de tester si le mode d’URL optimisées est applicable.</string>
@@ -677,7 +685,7 @@
   <string name="file_max_upload_size">Taille maximale d’un fichier envoyé sur le serveur (octets)</string>
   <string name="from_file">Installation depuis un fichier</string>
   <string name="from_server">Installation depuis un serveur</string>
-  <string name="gmtoffset">Fuseau horaire <abbr title="Greenwich Mean Time">GMT</abbr></string>
+  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
   <string name="ham">Non spam</string>
   <string name="hours_days_ago">heures / jours auparavant</string>
   <string name="id_title">/id/titre</string>
