@@ -358,6 +358,14 @@
   <string name="all_checks_passed">Todos os testes realizados estão OK!</string>
   <string name="apache_modules">Módulos de Apache</string>
   <string name="apache_version">Versão do Apache</string>
+  <string name="character_set_client">Client charset</string>
+  <string name="character_set_connection">Database connection charset</string>
+  <string name="character_set_database">Database charset</string>
+  <string name="character_set_filesystem">File system charset</string>
+  <string name="character_set_results">Results charset</string>
+  <string name="character_set_server">Server charset</string>
+  <string name="character_set_system">System charset</string>
+  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">As URLs \"limpas\" só são suportados pelo Apache, use-os por sua conta e risco.</string>
   <string name="clean_url_data_failed">A limpeza da URL de dados de teste falhou</string>
   <string name="clean_url_test_failed">O teste ao funcionamento das URLs \"limpas\" falhou!</string>
@@ -677,7 +685,7 @@
   <string name="file_max_upload_size">Tamanho Máximo dos arquivos para upload (bytes)</string>
   <string name="from_file">Instalar a partir de arquivo</string>
   <string name="from_server">Instalar/atualizar através do servidor remoto</string>
-  <string name="gmtoffset">Fuso horário</string>
+  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
   <string name="ham">Todos, menos spam</string>
   <string name="hours_days_ago">horas/dias atrás</string>
   <string name="id_title">/id/titulo</string>
