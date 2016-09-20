@@ -358,6 +358,14 @@
   <string name="all_checks_passed">Visas pārbaudes izietas veiksmīgi!</string>
   <string name="apache_modules">Apache moduļi</string>
   <string name="apache_version">Apache versija</string>
+  <string name="character_set_client">Client charset</string>
+  <string name="character_set_connection">Database connection charset</string>
+  <string name="character_set_database">Database charset</string>
+  <string name="character_set_filesystem">File system charset</string>
+  <string name="character_set_results">Results charset</string>
+  <string name="character_set_server">Server charset</string>
+  <string name="character_set_system">System charset</string>
+  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Pastāvīgo adrešu režīms ir iespējams tikai ar Apache serveri, lietojiet uz savu atbildību.</string>
   <string name="clean_url_data_failed">URL datu tīrīšanas tests neizdevās</string>
   <string name="clean_url_test_failed">Tīro URL pārbaude neizdecās.</string>
@@ -677,7 +685,7 @@
   <string name="file_max_upload_size">Maks. augšuplādējāmā faila izmērs (baitos)</string>
   <string name="from_file">Instalēt no faila</string>
   <string name="from_server">Instalēt no servera</string>
-  <string name="gmtoffset">Laika josla</string>
+  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
   <string name="ham">Visu, izņemot spamu</string>
   <string name="hours_days_ago">pirms stundām/dienām</string>
   <string name="id_title">/id/virsraksts</string>
