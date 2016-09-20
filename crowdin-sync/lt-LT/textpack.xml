@@ -358,6 +358,14 @@
   <string name="all_checks_passed">Visi patikrinimai praėjo!</string>
   <string name="apache_modules">Apache moduliai</string>
   <string name="apache_version">Apache versija</string>
+  <string name="character_set_client">Client charset</string>
+  <string name="character_set_connection">Database connection charset</string>
+  <string name="character_set_database">Database charset</string>
+  <string name="character_set_filesystem">File system charset</string>
+  <string name="character_set_results">Results charset</string>
+  <string name="character_set_server">Server charset</string>
+  <string name="character_set_system">System charset</string>
+  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Švarus URL adresai veikia tik su Apache, naudokite savo pačių rizika.</string>
   <string name="clean_url_data_failed">Švaraus universalaus adreso duomenų testas nepavyko</string>
   <string name="clean_url_test_failed">Švaraus URL testas nepavyko.</string>
@@ -677,7 +685,7 @@
   <string name="file_max_upload_size">Maksimalus siunčiamos rinkmenos dydis (baitais)</string>
   <string name="from_file">Įdiegti iš rinkmenos</string>
   <string name="from_server">Įdiegti iš nuotolinio serverio</string>
-  <string name="gmtoffset">Laiko juosta</string>
+  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
   <string name="ham">Viskas išskyrus brukalus</string>
   <string name="hours_days_ago">valandų/dienų atgal</string>
   <string name="id_title">/id/pavadinimas</string>
