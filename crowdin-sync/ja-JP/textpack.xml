@@ -358,6 +358,14 @@
   <string name="all_checks_passed">システムチェックはすべて正常!</string>
   <string name="apache_modules">Apache モジュール</string>
   <string name="apache_version">Apache バージョン</string>
+  <string name="character_set_client">Client charset</string>
+  <string name="character_set_connection">Database connection charset</string>
+  <string name="character_set_database">Database charset</string>
+  <string name="character_set_filesystem">File system charset</string>
+  <string name="character_set_results">Results charset</string>
+  <string name="character_set_server">Server charset</string>
+  <string name="character_set_system">System charset</string>
+  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Clean URLは Apache でのみサポートされています。自己責任で使用して下さい。</string>
   <string name="clean_url_data_failed">クリーンURLデータのテストに失敗</string>
   <string name="clean_url_test_failed">Clean URL テストに失敗しました。</string>
@@ -677,7 +685,7 @@
   <string name="file_max_upload_size">ファイルのアップロード可能最大容量(バイト)</string>
   <string name="from_file">ファイルからインストール</string>
   <string name="from_server">リモートサーバからインストール</string>
-  <string name="gmtoffset">タイムゾーン</string>
+  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
   <string name="ham">Spam以外すべて</string>
   <string name="hours_days_ago">時間/日</string>
   <string name="id_title">/id/タイトル</string>
