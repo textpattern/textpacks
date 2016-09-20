@@ -358,6 +358,14 @@
   <string name="all_checks_passed">Всички проверки преминаха!</string>
   <string name="apache_modules">Модули за Apache</string>
   <string name="apache_version">Версия на Apache</string>
+  <string name="character_set_client">Client charset</string>
+  <string name="character_set_connection">Database connection charset</string>
+  <string name="character_set_database">Database charset</string>
+  <string name="character_set_filesystem">File system charset</string>
+  <string name="character_set_results">Results charset</string>
+  <string name="character_set_server">Server charset</string>
+  <string name="character_set_system">System charset</string>
+  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Clean URL се поддържат само от apache, използвайте на своя отговорност</string>
   <string name="clean_url_data_failed">Тестът на данни за Clean URL не премина</string>
   <string name="clean_url_test_failed">Тестът за Clean URL не премина.</string>
@@ -677,7 +685,7 @@
   <string name="file_max_upload_size">Максимално допустим размер за файла (в байтове)</string>
   <string name="from_file">Инсталирай от файл</string>
   <string name="from_server">Инсталирай от отдалечен сървър</string>
-  <string name="gmtoffset">Часова зона</string>
+  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
   <string name="ham">Всичко освен спам</string>
   <string name="hours_days_ago">преди часове/дни</string>
   <string name="id_title">/id/title</string>
