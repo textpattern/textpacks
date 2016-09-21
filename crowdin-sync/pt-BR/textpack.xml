@@ -184,7 +184,7 @@
   <string name="bad_cookie">Cookie inválida. Por favor, insira os seus dados de acesso.</string>
   <string name="body">Corpo</string>
   <string name="cancel">Cancelar</string>
-  <string name="cannot_instantiate_theme">Tema <strong>{name}</strong> ({class}) falhou ao ser carregado a partir do arquivo {path}. O tema clássico será utilizado nesta ocasião.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Categoria</string>
   <string name="changeauthor">Alterar autor</string>
   <string name="changecategory">Alterar categoria</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=confuso</string>
   <string name="never_display_email">Nunca mostar endereço de email?</string>
   <string name="new_textpattern_version_available">Está disponível uma versão completamente nova do Textpattern. Quer experimenta-la?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">janela atual</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">No email usar ISO-8859-1 (UTF-8 por padrão)?</string>
   <string name="path_from_root">Subdiretório (se existir)</string>
   <string name="path_to_site_missing">O Caminho para o Site <code>$path_to_site</code> não está definido (atualizar <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">A utilização direta de código PHP deixou de ser suportada</string>
   <string name="recently">Recentemente</string>
   <string name="recent_articles">Artigos recentes</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Artigos recentes</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Recordar</string>
   <string name="required">Obrigatório</string>
   <string name="revert">Voltar</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Hora</string>
   <string name="tag_comment_web">Site web</string>
   <string name="tag_comment_web_input">Introduzir endereço web</string>
-  <string name="tag_css">Link à CSS (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Link ao email (anti-spam)</string>
   <string name="tag_excerpt">Resumo</string>
   <string name="tag_feed_link">Feed de artigos</string>
