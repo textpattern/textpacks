@@ -184,7 +184,7 @@
   <string name="bad_cookie">Cookie inválida.</string>
   <string name="body">Corpo</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">O tema <strong>{name}</strong> ({class}) non se cargou correctamente desde o arquivo {path}. Volverase a usar de novo o tema clásico.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Categorí­a</string>
   <string name="changeauthor">Cambiar autor</string>
   <string name="changecategory">Cambiar categoría</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=suxo</string>
   <string name="never_display_email">¿Non mostrar nunca o email?</string>
   <string name="new_textpattern_version_available">Hai unha nova versión do Textpattern disponíbel</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">sen abrir outra xanela</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Sobreescribir o xogo de caracteres do email</string>
   <string name="path_from_root">Subdirectorio (se o hai)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> non se fixou (actualiza o <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">As etiquetas de PHP en cru están desaconselladas</string>
   <string name="recently">Recentemente</string>
   <string name="recent_articles">Artigos recentes</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Artigos recentes</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Recordar</string>
   <string name="required">Requirido</string>
   <string name="revert">Volver</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Hora</string>
   <string name="tag_comment_web">Sitio web de comentario</string>
   <string name="tag_comment_web_input">Entrada web</string>
-  <string name="tag_css">Ligazón á folla de estilos CSS (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Ligazón ó mail (anti-spam)</string>
   <string name="tag_excerpt">Resumo</string>
   <string name="tag_feed_link">Sumario de artigos</string>
