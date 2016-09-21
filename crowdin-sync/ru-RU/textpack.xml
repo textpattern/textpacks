@@ -184,7 +184,7 @@
   <string name="bad_cookie">Ваша сессия истекла. Пожалуйста, пройдите авторизацию снова.</string>
   <string name="body">Тело</string>
   <string name="cancel">Отмена</string>
-  <string name="cannot_instantiate_theme">Тема оформления <strong>{name}</strong> не смогла загрузиться из файла {path}. До устранения ошибки будет использоваться стандартная тема.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Категория</string>
   <string name="changeauthor">Сменить автора</string>
   <string name="changecategory">Сменить категорию</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=беспорядок</string>
   <string name="never_display_email">Скрывать email?</string>
   <string name="new_textpattern_version_available">Доступна совершенно новая версия Textpattern. Хотите попробовать?</string>
-  <string name="no_preferences">Нет доступных настроек.</string>
   <string name="no_popup">в том же окне</string>
+  <string name="no_preferences">Нет доступных настроек.</string>
   <string name="override_emailcharset">Использовать кодировку ISO-8859-1 для email? (по умолчанию: UTF-8)</string>
   <string name="path_from_root">Поддиректория (если есть)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> не указан (обновите <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Использование прямых PHP тегов устарело и не поддерживается.</string>
   <string name="recently">Недавно</string>
   <string name="recent_articles">Недавние статьи</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Недавние сообщения</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Запомнить</string>
   <string name="required">Обязательно</string>
   <string name="revert">Вернуть</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Время</string>
   <string name="tag_comment_web">Сайт автора комментария</string>
   <string name="tag_comment_web_input">Поле для веб-ссылки</string>
-  <string name="tag_css">CSS ссылка (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Email ссылка (spam-защищенная)</string>
   <string name="tag_excerpt">Выдержка</string>
   <string name="tag_feed_link">Ссылка на XML потоки к статьям</string>
