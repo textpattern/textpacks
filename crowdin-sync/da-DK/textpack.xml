@@ -184,7 +184,7 @@
   <string name="bad_cookie">Dårlig cookie.</string>
   <string name="body">Body</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">Temaet <strong>{name}</strong> ({class}) loader ikke korrekt fra filen {path}. „Classic“ temaet vil blive brugt i stedet.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Kategori</string>
   <string name="changeauthor">Ændre forfatter</string>
   <string name="changecategory">Ændre kategori</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=rodet</string>
   <string name="never_display_email">Vis aldrig email adresser?</string>
   <string name="new_textpattern_version_available">There is a new Textpattern version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">nuværende vindue</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Brug iso-8859-1 koding i udsendte emails (standard er UTF-8)?</string>
   <string name="path_from_root">Undermappe (hvis findes)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> er ikke indstillet (opdatér <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Rå PHP tags er forældet</string>
   <string name="recently">For nylig</string>
   <string name="recent_articles">Nye artikler</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Nye posts</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Husk</string>
   <string name="required">Required</string>
   <string name="revert">Fortryd</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Tid</string>
   <string name="tag_comment_web">Comment website</string>
   <string name="tag_comment_web_input">Web input</string>
-  <string name="tag_css">CSS link (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Email link (spam-resistant)</string>
   <string name="tag_excerpt">Uddrag</string>
   <string name="tag_feed_link">Feed til artikler</string>
