@@ -358,14 +358,6 @@
   <string name="all_checks_passed">全部檢查通過!</string>
   <string name="apache_modules">Apache模組</string>
   <string name="apache_version">Apache版本</string>
-  <string name="character_set_client">Client charset</string>
-  <string name="character_set_connection">Database connection charset</string>
-  <string name="character_set_database">Database charset</string>
-  <string name="character_set_filesystem">File system charset</string>
-  <string name="character_set_results">Results charset</string>
-  <string name="character_set_server">Server charset</string>
-  <string name="character_set_system">System charset</string>
-  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">只有 Apache 支援簡潔網址，需手動設置</string>
   <string name="clean_url_data_failed">Clean URL data test failed</string>
   <string name="clean_url_test_failed">簡潔網址測試失敗。</string>
