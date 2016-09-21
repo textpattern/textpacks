@@ -358,14 +358,6 @@
   <string name="all_checks_passed">Všechny kontroly proběhly!</string>
   <string name="apache_modules">Moduly Apache</string>
   <string name="apache_version">Verze Apache</string>
-  <string name="character_set_client">Client charset</string>
-  <string name="character_set_connection">Database connection charset</string>
-  <string name="character_set_database">Database charset</string>
-  <string name="character_set_filesystem">File system charset</string>
-  <string name="character_set_results">Results charset</string>
-  <string name="character_set_server">Server charset</string>
-  <string name="character_set_system">System charset</string>
-  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Hezké URL jsou podporovány pouze na serverech Apache, používej tedy na vlastní riziko.</string>
   <string name="clean_url_data_failed">Test dat hezkých URL adres selhal</string>
   <string name="clean_url_test_failed">Test hezkých URL selhal.</string>
