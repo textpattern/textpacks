@@ -184,7 +184,7 @@
   <string name="bad_cookie">Slæm cookie.</string>
   <string name="body">Body</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Flokkur</string>
   <string name="changeauthor">Change author</string>
   <string name="changecategory">Change category</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=sull</string>
   <string name="never_display_email">Aldrei sýna póstfang?</string>
   <string name="new_textpattern_version_available">Það er alveg ný útgáfa að Textpattern fáanleg, viltu reyna hana?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">Þessi gluggi</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Nota ISO-8859-1 fyrir vefpóst (sjálfgefið er UTF-8)?</string>
   <string name="path_from_root">Undirmappa (ef er)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> er ekki réttur (uppfæra <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Raw PHP tags are deprecated</string>
   <string name="recently">Nýlegt</string>
   <string name="recent_articles">Nýlegar greinar</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Nýlegar greinar</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Muna</string>
   <string name="required">Required</string>
   <string name="revert">Hverfa aftur til</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Tími</string>
   <string name="tag_comment_web">Comment website</string>
   <string name="tag_comment_web_input">Innsettningarreitur vefur</string>
-  <string name="tag_css">CSS tengill (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Póstfang tengill (spam-reyndur)</string>
   <string name="tag_excerpt">Inngangur</string>
   <string name="tag_feed_link">Fæði til greina</string>
