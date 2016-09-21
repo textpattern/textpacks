@@ -183,7 +183,7 @@
     <string name="bad_cookie">Your session has expired. Please log in again.</string>
     <string name="body">Body</string>
     <string name="cancel">Cancel</string>
-    <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback.</string>
+    <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
     <string name="category">Category</string>
     <string name="changeauthor">Change author</string>
     <string name="changecategory">Change category</string>
@@ -703,8 +703,8 @@
     <string name="messy">?=messy</string>
     <string name="never_display_email">Hide commenter email address?</string>
     <string name="new_textpattern_version_available">There is a new Textpattern version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
-    <string name="no_preferences">No preferences available.</string>
     <string name="no_popup">current window</string>
+    <string name="no_preferences">No preferences available.</string>
     <string name="override_emailcharset">Use ISO-8859-1 encoding in emails (default is UTF-8)?</string>
     <string name="path_from_root">Sub-directory (if any)</string>
     <string name="path_to_site_missing"><code>$path_to_site</code> is not set (update <code>index.php</code>)</string>
@@ -925,7 +925,9 @@
     <string name="raw_php_deprecated">Raw PHP tags are deprecated</string>
     <string name="recently">Recently</string>
     <string name="recent_articles">Recent articles</string>
+    <string name="recent_comments">Recent comments</string>
     <string name="recent_posts">Recent posts</string>
+    <string name="related_articles">Related articles</string>
     <string name="remember">Remember</string>
     <string name="required">Required</string>
     <string name="revert">Revert</string>
@@ -1177,7 +1179,7 @@
     <string name="tag_comment_time">Comment time</string>
     <string name="tag_comment_web">Comment website</string>
     <string name="tag_comment_web_input">Comment website input</string>
-    <string name="tag_css">CSS link (<code>&lt;head&gt;</code>)</string>
+    <string name="tag_css">CSS link (<code>head</code>)</string>
     <string name="tag_email">Email link (spam-resistant)</string>
     <string name="tag_excerpt">Excerpt</string>
     <string name="tag_feed_link">Articles feed link</string>
