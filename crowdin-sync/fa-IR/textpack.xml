@@ -184,7 +184,7 @@
   <string name="bad_cookie">لطفاً مجدداً وارد سیستم شوید.</string>
   <string name="body">بدنه</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">بارگزاری تم <strong>{name}</strong> از مسیر {path} ناموفق بود. از تم Classic به عنوان جایگزین استفاده خواهد شد.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">رده</string>
   <string name="changeauthor">تغییر نویسنده</string>
   <string name="changecategory">تغییر رده</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=آشفته</string>
   <string name="never_display_email">مخفی‌کردن نشانی ایمیل؟</string>
   <string name="new_textpattern_version_available">نسخه کاملاً جدیدی از Textpattern موجود است. می‌خواهید امتحان کنید؟</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">پنجره فعلی</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">در ایمیل‌های ارسالی از رمزگذاری ISO-8859-1 استفاده شود (پیش‌فرض UTF-8 است)؟</string>
   <string name="path_from_root">پوشه زیرمجموعه (اگر موجود است)</string>
   <string name="path_to_site_missing">متغیر path_to_site$ تنظیم نشده است (فایل index.php را بهنگام کنید)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">کد های خام PHP ممنوع شناخته می شود</string>
   <string name="recently">اخیراً</string>
   <string name="recent_articles">آخرین نوشته‌ها</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">آخرین ارسال‌ها</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">به یادآوری</string>
   <string name="required">ضروری</string>
   <string name="revert">برگشت</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">زمان نظر</string>
   <string name="tag_comment_web">وب‌سایت نظردهنده</string>
   <string name="tag_comment_web_input">ورودی وب‌سایت نظردهنده</string>
-  <string name="tag_css">لینک CSS (<code dir="ltr">&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">لینک ایمیل (محافظ در برابر اسپم)</string>
   <string name="tag_excerpt">منتخب</string>
   <string name="tag_feed_link">لینک فید نوشته‌ها</string>
