@@ -184,7 +184,7 @@
   <string name="bad_cookie">セッションが失効しました。再度ログインしてください。</string>
   <string name="body">本文</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">テーマ名 <strong>{name}</strong> ({class}) は正しく読み込まれませんでした（{path}）。Classic theme を代替として適応しました。</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">カテゴリ</string>
   <string name="changeauthor">ユーザの変更</string>
   <string name="changecategory">カテゴリの変更</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=messy</string>
   <string name="never_display_email">メールアドレスを隠しますか？</string>
   <string name="new_textpattern_version_available">Textpatternをバージョンアップ可能です。<a href="http://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">使用</a>してみますか？</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">ポップアップを無効にする</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">メールのエンコードにISO-8859-1使用しますか(初期設定：UTF-8)？</string>
   <string name="path_from_root">サブディレクトリ (任意)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> が設定されていません(<code>index.php</code>を更新してください)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">PHP タグの使用は非推奨です。</string>
   <string name="recently">最近</string>
   <string name="recent_articles">最近の記事</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">最近の投稿</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">記憶する</string>
   <string name="required">必須</string>
   <string name="revert">取り消し</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">コメント時間</string>
   <string name="tag_comment_web">コメントウェブサイト</string>
   <string name="tag_comment_web_input">コメントウェブサイト入力</string>
-  <string name="tag_css">CSS リンク (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">メールアドレスリンク (Spam対策済)</string>
   <string name="tag_excerpt">Excerpt</string>
   <string name="tag_feed_link">記事 Feed リンク</string>
