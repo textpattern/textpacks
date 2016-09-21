@@ -184,7 +184,7 @@
   <string name="bad_cookie">Chybné cookie</string>
   <string name="body">Telo článku</string>
   <string name="cancel">Zrušiť</string>
-  <string name="cannot_instantiate_theme">Inštalácia témy/vzhľadu <strong>{name}</strong> ({class}) zo súboru {path} zlyhala. Bude použitá štandardná téma/vzhľad.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">kategoria</string>
   <string name="changeauthor">Zmeniť autora</string>
   <string name="changecategory">Zmeniť kategóriu</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=škaredé</string>
   <string name="never_display_email">Nikdy nezobraziť email?</string>
   <string name="new_textpattern_version_available">Existuje úplne nová verzia Textpattern systému. Chcete ju vyskúšať?</string>
-  <string name="no_preferences">Žiadné predvolby k dispozícii.</string>
   <string name="no_popup">do stránky</string>
+  <string name="no_preferences">Žiadné predvolby k dispozícii.</string>
   <string name="override_emailcharset">Používať kódovanie ISO-8859-1 v emailoch? (prednastavené je utf-8)</string>
   <string name="path_from_root">Priečinok (ak je nejaký)</string>
   <string name="path_to_site_missing">Hodnota <code>$path_to_site</code> nie je nastavená (stará verzia <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">PHP značky sú zastaralé</string>
   <string name="recently">Prednedávnom</string>
   <string name="recent_articles">Nedávno publikované články</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Posledné príspevky</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Zapamätať si údaje</string>
   <string name="required">Povinné</string>
   <string name="revert">Vrátiť späť</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Čas</string>
   <string name="tag_comment_web">Web stránka</string>
   <string name="tag_comment_web_input">Pole pre URL adresu</string>
-  <string name="tag_css">Odkaz na CSS (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Odkaz na email (proti spamu)</string>
   <string name="tag_excerpt">Anotácia</string>
   <string name="tag_feed_link">Zdroj XML článkov</string>
