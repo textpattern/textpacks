@@ -358,14 +358,6 @@
   <string name="all_checks_passed">כל הבדיקות עברו בהצלחה!</string>
   <string name="apache_modules">רכיבי Apache</string>
   <string name="apache_version">גירסת Apache</string>
-  <string name="character_set_client">Client charset</string>
-  <string name="character_set_connection">Database connection charset</string>
-  <string name="character_set_database">Database charset</string>
-  <string name="character_set_filesystem">File system charset</string>
-  <string name="character_set_results">Results charset</string>
-  <string name="character_set_server">Server charset</string>
-  <string name="character_set_system">System charset</string>
-  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">כתובות נקיות נתמכות רק ב-apache, השימוש הוא באחריותך.</string>
   <string name="clean_url_data_failed">בדיקה כתובות נקיות נכשלה</string>
   <string name="clean_url_test_failed">בדיקת כתובות נקיות נכשלה.</string>
