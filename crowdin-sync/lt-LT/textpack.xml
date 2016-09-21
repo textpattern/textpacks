@@ -184,7 +184,7 @@
   <string name="bad_cookie">Jūsų prisijungimo sesija baigėsi. Prašome prisijungti vėl.</string>
   <string name="body">Tekstas</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">Šios temos <strong>{name}</strong> ({class}) nepavyko užkrauti iš bylos {path}. Klasikinė tema bus panaudota kaip atsarginė.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Kategorija</string>
   <string name="changeauthor">Pakeisti autorių</string>
   <string name="changecategory">Pakeisti kategoriją</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=netvarkingas</string>
   <string name="never_display_email">Slėpti el. pašto adresą?</string>
   <string name="new_textpattern_version_available">Yra visiškai nauja Textpattern versiją. Ar norėtumėte pabandyti?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">veikiamasis langas</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Ar naudoti ISO-8859-1 kodavimą išsiunčiamuose el. laiškuose (numatytas yra UTF-8)?</string>
   <string name="path_from_root">Pakatalogis (jei yra)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> nėra nustatytas (atnaujinti <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">PHP žymės nebenaudotinos</string>
   <string name="recently">Neseniai</string>
   <string name="recent_articles">Paskiausiai naudoti straipsniai</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Naujausios žinutės</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Prisiminti</string>
   <string name="required">Reikalinga</string>
   <string name="revert">Grąžinti</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Komentaro laikas</string>
   <string name="tag_comment_web">Komentaro svetainė</string>
   <string name="tag_comment_web_input">Komentaro svetainės įvestis</string>
-  <string name="tag_css">CSS nuoroda (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">El. pašto nuoroda (Apsaugotas nuo brukalų)</string>
   <string name="tag_excerpt">Ištrauka</string>
   <string name="tag_feed_link">Straipsnių srauto nuoroda</string>
