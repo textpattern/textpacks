@@ -184,7 +184,7 @@
   <string name="bad_cookie">Nederīga sīkdatne.</string>
   <string name="body">Pamatteksts</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">Tēmai <strong>{name}</strong> ({class}) neizdevās ielādēties no faila {path}. Tā vietā tika izmantota klasiskā tēma.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Kategorija</string>
   <string name="changeauthor">Mainīt autoru</string>
   <string name="changecategory">Mainīt kategoriju</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=nekārtīgi-virsraksti</string>
   <string name="never_display_email">Nerādīt e-pasta adreses?</string>
   <string name="new_textpattern_version_available">Ir pieejama pilnīgi jauna Textpattern versija. Vai vēlies to izmēģināt?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">esošā logā</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Lietot ISO-8859-1 e-pasta ziņās? (noklusēti UTF-8)</string>
   <string name="path_from_root">Apakšmape (ja tādas pastāv)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> nav uzstādīts (jālabo <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Raw PHP tags are deprecated</string>
   <string name="recently">Pēdējie</string>
   <string name="recent_articles">Pēdējie ieraksti</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Pēdējie ieraksti</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Atcerēties manus datus</string>
   <string name="required">Obligāts</string>
   <string name="revert">Atgriezt</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Komentāra datums</string>
   <string name="tag_comment_web">Komentāra vietne</string>
   <string name="tag_comment_web_input">Komentētāja mājaslapa</string>
-  <string name="tag_css">Saite uz stilu lapu (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">E-pasta saite (droša pret mēstulēm)</string>
   <string name="tag_excerpt">Ievadteksts</string>
   <string name="tag_feed_link">Ierakstu padeve</string>
