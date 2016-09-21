@@ -358,14 +358,6 @@
   <string name="all_checks_passed">Alle testen goed doorstaan!</string>
   <string name="apache_modules">Apache modules</string>
   <string name="apache_version">Apache versie</string>
-  <string name="character_set_client">Client charset</string>
-  <string name="character_set_connection">Database connection charset</string>
-  <string name="character_set_database">Database charset</string>
-  <string name="character_set_filesystem">File system charset</string>
-  <string name="character_set_results">Results charset</string>
-  <string name="character_set_server">Server charset</string>
-  <string name="character_set_system">System charset</string>
-  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">‘Nette’ URLs werken alleen met Apache, gebruik hier is op eigen risico.</string>
   <string name="clean_url_data_failed">‘Schone URL’ weergave is niet mogelijk</string>
   <string name="clean_url_test_failed">De test voor schone URLs is niet goed doorstaan.</string>
