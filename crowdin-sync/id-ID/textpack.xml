@@ -184,7 +184,7 @@
   <string name="bad_cookie">Sesi login Anda telah kadaluarsa. Silakan login lagi.</string>
   <string name="body">Body</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">Tema <strong>{name}</strong> ({class}) gagal dipanggil sebagaimana mestinya dari berkas {path}. Tema Klasik akan digunakan sebagai kembali.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Kategori</string>
   <string name="changeauthor">Change author</string>
   <string name="changecategory">Ubah kategori</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=berantakan</string>
   <string name="never_display_email">Sembunyikan alamat email?</string>
   <string name="new_textpattern_version_available">Ada versi terbaru Textpattern yang tersedia. Apakah Anda ingin mencobanya?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">jendela aktif</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Gunakan ISO-8859-1 untuk email (standarnya UTF-8)?</string>
   <string name="path_from_root">Sub-direktori (jika ada)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> belum diatur (ganti <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Raw PHP tags are deprecated</string>
   <string name="recently">Terbaru</string>
   <string name="recent_articles">Artikel Terbaru</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Tulisan Terbaru</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Ingat</string>
   <string name="required">Required</string>
   <string name="revert">Balikkan</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Waktu komentar</string>
   <string name="tag_comment_web">Situs-web komentar</string>
   <string name="tag_comment_web_input">Input situs komentar</string>
-  <string name="tag_css">Tautan CSS (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Tautan email (anti-spam)</string>
   <string name="tag_excerpt">Kutipan</string>
   <string name="tag_feed_link">Tautan umpan artikel</string>
