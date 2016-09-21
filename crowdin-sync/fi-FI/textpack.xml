@@ -184,7 +184,7 @@
   <string name="bad_cookie">Istuntosi on vanhentunut. Ole hyvä ja kirjaudu uudelleen.</string>
   <string name="body">Leipäteksti</string>
   <string name="cancel">Peruuta</string>
-  <string name="cannot_instantiate_theme">Teemaa <strong>{name}</strong> ({class}) ei pystytty latamaan tiedostosta {path}. Teema vaihdetaan oletukseen.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Kategoria</string>
   <string name="changeauthor">Muuta tekijä</string>
   <string name="changecategory">Muuta kategoria</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=sotkuinen</string>
   <string name="never_display_email">Älä näytä sähköpostiosoitteita?</string>
   <string name="new_textpattern_version_available">Uusi Textpatternin versio on saatavilla. <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">Haluatko kokeilla sitä?</a></string>
-  <string name="no_preferences">Asetuksia ei ole saatavilla.</string>
   <string name="no_popup">nykyinen ikkuna</string>
+  <string name="no_preferences">Asetuksia ei ole saatavilla.</string>
   <string name="override_emailcharset">ISO-8859-1 sähköposteissa (oletuksena UTF-8)?</string>
   <string name="path_from_root">Alihakemisto (jos on)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> on määrittelemättä (päivitä <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Paljaat PHP tagit eivät ole enää tuettuja</string>
   <string name="recently">Äskettäin</string>
   <string name="recent_articles">Viime artikkelit</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Viime postitukset</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Muista minut?</string>
   <string name="required">Vaaditaan</string>
   <string name="revert">Palauta</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Aika</string>
   <string name="tag_comment_web">Website</string>
   <string name="tag_comment_web_input">WWW-kenttä</string>
-  <string name="tag_css">Linkki tyylisivuun (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Email-linkki (estää roskapostin)</string>
   <string name="tag_excerpt">Johdanto</string>
   <string name="tag_feed_link">Syöte artikkeleihin</string>
