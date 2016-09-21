@@ -358,14 +358,6 @@
   <string name="all_checks_passed">Tüm denetimler yapıldı!</string>
   <string name="apache_modules">Apache modulleri</string>
   <string name="apache_version">Apache sürümü</string>
-  <string name="character_set_client">Client charset</string>
-  <string name="character_set_connection">Database connection charset</string>
-  <string name="character_set_database">Database charset</string>
-  <string name="character_set_filesystem">File system charset</string>
-  <string name="character_set_results">Results charset</string>
-  <string name="character_set_server">Server charset</string>
-  <string name="character_set_system">System charset</string>
-  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Temiz URL(SEO) özelliği sadece Apache destekleyen suncularda çalışmaktadır. Kullanımı halinde tüm sorumluluk size aittir.</string>
   <string name="clean_url_data_failed">Clean URL data test failed</string>
   <string name="clean_url_test_failed">Temiz URL(SEO) denetimi başarısızlıkla sonuçlandı.</string>
