@@ -358,14 +358,6 @@
   <string name="all_checks_passed">تمام آزمون‌ها موفق بود!</string>
   <string name="apache_modules">ماژول‌های آپاچی</string>
   <string name="apache_version">نسخه آپاچی</string>
-  <string name="character_set_client">Client charset</string>
-  <string name="character_set_connection">Database connection charset</string>
-  <string name="character_set_database">Database charset</string>
-  <string name="character_set_filesystem">File system charset</string>
-  <string name="character_set_results">Results charset</string>
-  <string name="character_set_server">Server charset</string>
-  <string name="character_set_system">System charset</string>
-  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Clean URL تنها در Apache پشتیبانی می‌شود. با مسئولیت خود از آن استفاده کنید.</string>
   <string name="clean_url_data_failed">تست داده‌های Clean URL ناموفق بود</string>
   <string name="clean_url_test_failed">تست Clean URL ناموفق بود.</string>
