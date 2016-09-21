@@ -184,7 +184,7 @@
   <string name="bad_cookie">Sesiunea a expirat. Te rog re-autentifica.</string>
   <string name="body">Continut</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">Tema <strong>{name}</strong> ({class}) nu poate fi incarcata din fisierul {path}. Tema clasica va fi folosita in schimb.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Categorie</string>
   <string name="changeauthor">Modifica autor</string>
   <string name="changecategory">Modifica categoria</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=dezordonat</string>
   <string name="never_display_email">Nu afisa adresa de mail?</string>
   <string name="new_textpattern_version_available">Este disponibila o versiune complet noua a Textpattern-ului. Vrei sa o incerci?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">fereastra curenta</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Foloseste ISO-8859-1 pentru email-uri? (default-ul este utf-8)</string>
   <string name="path_from_root">Subdirectoriu (daca este cazul)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> nu este setat (update-uieste <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Folosirea codului PHP \"pe viu\" este descurajata</string>
   <string name="recently">Recent</string>
   <string name="recent_articles">Articole Recente</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Post-uri Recente</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Tine minte</string>
   <string name="required">Required</string>
   <string name="revert">Revino</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Ora</string>
   <string name="tag_comment_web">Site</string>
   <string name="tag_comment_web_input">Continut web</string>
-  <string name="tag_css">Link CSS (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Link adresa mail (invizibil pentru boti)</string>
   <string name="tag_excerpt">Rezumat</string>
   <string name="tag_feed_link">Feed-ul articolelor</string>
