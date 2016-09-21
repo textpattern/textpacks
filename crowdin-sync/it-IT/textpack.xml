@@ -358,14 +358,6 @@
   <string name="all_checks_passed">Controlli superati con successo!</string>
   <string name="apache_modules">Moduli Apache</string>
   <string name="apache_version">Versione di Apache</string>
-  <string name="character_set_client">Client charset</string>
-  <string name="character_set_connection">Database connection charset</string>
-  <string name="character_set_database">Database charset</string>
-  <string name="character_set_filesystem">File system charset</string>
-  <string name="character_set_results">Results charset</string>
-  <string name="character_set_server">Server charset</string>
-  <string name="character_set_system">System charset</string>
-  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">Gli URL puliti sono supportati esclusivamente da Apache. Usali a tuo rischio e pericolo.</string>
   <string name="clean_url_data_failed">Verifica dati URL puliti fallita</string>
   <string name="clean_url_test_failed">Verifica degli URL puliti fallita.</string>
