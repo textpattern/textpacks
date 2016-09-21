@@ -184,7 +184,7 @@
   <string name="bad_cookie">Korrupt cookie. Vennligst skriv inn logindetaljer.</string>
   <string name="body">Body</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">Tema <strong>{name}</strong> ({class}) ble ikke lastet riktig fra fil {path}. Standardtemaet vil bli brukt som en reserveløsning.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Kategori</string>
   <string name="changeauthor">Endre forfatter</string>
   <string name="changecategory">Endre kategori</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=rotete</string>
   <string name="never_display_email">Hide commenter email address?</string>
   <string name="new_textpattern_version_available">There is a new Textpattern version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">aktivt vindu</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Use ISO-8859-1 encoding in emails (default is UTF-8)?</string>
   <string name="path_from_root">Underkatalog (derom den eksisterer)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> er ikke satt (oppdater <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Raw PHP tags are deprecated</string>
   <string name="recently">Recently</string>
   <string name="recent_articles">Siste artikler</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Siste innlegg</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Husk</string>
   <string name="required">Required</string>
   <string name="revert">Gå tilbake</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Kommentar tid</string>
   <string name="tag_comment_web">Kommentar hjemmeside</string>
   <string name="tag_comment_web_input">Web inndata</string>
-  <string name="tag_css">CSS-lenke (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Epostlenke (sikker mot søppelepost)</string>
   <string name="tag_excerpt">Utdrag</string>
   <string name="tag_feed_link">Feed til artikler</string>
