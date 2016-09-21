@@ -184,7 +184,7 @@
   <string name="bad_cookie">Ogiltig cookiefil. Var god ange dina inloggningsuppgifter.</string>
   <string name="body">Brödtext</string>
   <string name="cancel">Avbryt</string>
-  <string name="cannot_instantiate_theme">Temat <strong>{name}</strong> ({class}) kan inte laddas ordentligt från {path}. Classic-temat kommer att användas istället.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Kategori</string>
   <string name="changeauthor">Byt författare</string>
   <string name="changecategory">Byt kategori</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=rörig</string>
   <string name="never_display_email">Visa aldrig e-postadress?</string>
   <string name="new_textpattern_version_available">En ny version av Textpattern finns tillgänglig! Vill du pröva den?</string>
-  <string name="no_preferences">Inga inställningar tillgängliga.</string>
   <string name="no_popup">nuvarande fönster</string>
+  <string name="no_preferences">Inga inställningar tillgängliga.</string>
   <string name="override_emailcharset">Använd iso-8859-1 i e-postmeddelanden (utf-8 är förvalt)?</string>
   <string name="path_from_root">Ev. underkatalog</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> är inte angett (uppdatera <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Rena PHP-taggar ogillas</string>
   <string name="recently">Nyligen</string>
   <string name="recent_articles">Senaste artiklarna</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Senaste inläggen</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Kom ihåg</string>
   <string name="required">Krävs</string>
   <string name="revert">Återgå</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Tidpunkt</string>
   <string name="tag_comment_web">Hemsida</string>
   <string name="tag_comment_web_input">URL-fält</string>
-  <string name="tag_css">CSS-länk (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">E-postlänk (spam-säker)</string>
   <string name="tag_excerpt">Ingress</string>
   <string name="tag_feed_link">Ström-länk för artiklar</string>
