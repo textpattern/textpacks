@@ -358,14 +358,6 @@
   <string name="all_checks_passed">Totul este OK!</string>
   <string name="apache_modules">Modulele Apache</string>
   <string name="apache_version">Versiunea Apache</string>
-  <string name="character_set_client">Client charset</string>
-  <string name="character_set_connection">Database connection charset</string>
-  <string name="character_set_database">Database charset</string>
-  <string name="character_set_filesystem">File system charset</string>
-  <string name="character_set_results">Results charset</string>
-  <string name="character_set_server">Server charset</string>
-  <string name="character_set_system">System charset</string>
-  <string name="character_sets_dir">Charsets directory</string>
   <string name="cleanurl_only_apache">URL-uri \"curate\" functioneaza doar pe apache</string>
   <string name="clean_url_data_failed">Testul pentru URL-uri curate a esuat</string>
   <string name="clean_url_test_failed">Testul pentru URL-uri curate a esuat.</string>
