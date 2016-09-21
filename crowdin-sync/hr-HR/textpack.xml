@@ -184,7 +184,7 @@
   <string name="bad_cookie">Neispravan cookie. Molimo unesite logon detalje.</string>
   <string name="body">Tijelo</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Kategorija</string>
   <string name="changeauthor">Promijeni autora</string>
   <string name="changecategory">Promijeni kategoriju</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=messy</string>
   <string name="never_display_email">Nikad ne prikazuj email adrese?</string>
   <string name="new_textpattern_version_available">Postoji kompletno nova verzija Textpatterna. Da li je želite probati?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">trenutni prozor</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Upotrijebi ISO-8859-1 encoding kod poslanih emailova (default je UTF-8)?</string>
   <string name="path_from_root">Sub-directory (ako ima)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> nije postavljen (update <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Sirovi PHP tagovi su zabranjeni</string>
   <string name="recently">Nedavno</string>
   <string name="recent_articles">Nedavni članci</string>
+  <string name="recent_comments">Recent comments</string>
   <string name="recent_posts">Nedavni komentari</string>
+  <string name="related_articles">Related articles</string>
   <string name="remember">Zapamti</string>
   <string name="required">Potrebno</string>
   <string name="revert">Vratiti se</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Vrijeme komentara</string>
   <string name="tag_comment_web">Website komentara</string>
   <string name="tag_comment_web_input">Web input komentara</string>
-  <string name="tag_css">CSS link (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS link (<code>head</code>)</string>
   <string name="tag_email">Email link (spam-otporno)</string>
   <string name="tag_excerpt">Sažetak</string>
   <string name="tag_feed_link">Feed link članka</string>
