@@ -184,7 +184,7 @@
   <string name="bad_cookie">Chybné cookie</string>
   <string name="body">Telo článku</string>
   <string name="cancel">Zrušiť</string>
-  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
+  <string name="cannot_instantiate_theme">Tému vzhľadu <strong>{name}</strong> ({class}) sa zo súboru {path} nepodarilo správne načítať. Po aktualizácii stránky bude použité východzia téma vzhľadu.</string>
   <string name="category">kategoria</string>
   <string name="changeauthor">Zmeniť autora</string>
   <string name="changecategory">Zmeniť kategóriu</string>
@@ -677,7 +677,7 @@
   <string name="file_max_upload_size">Maximálna veľkosť súborov (v Bajtoch)</string>
   <string name="from_file">Nainštalovať zo súboru</string>
   <string name="from_server">Nainštalovať zo vzdialeného serveru</string>
-  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
+  <string name="gmtoffset">Časové pásmo (posun GMT v sekundách)</string>
   <string name="ham">Všetko okrem spam-u</string>
   <string name="hours_days_ago">dní/hodín pred</string>
   <string name="id_title">/id/titulok</string>
@@ -926,9 +926,9 @@
   <string name="raw_php_deprecated">PHP značky sú zastaralé</string>
   <string name="recently">Prednedávnom</string>
   <string name="recent_articles">Nedávno publikované články</string>
-  <string name="recent_comments">Recent comments</string>
+  <string name="recent_comments">Posledné komentáre</string>
   <string name="recent_posts">Posledné príspevky</string>
-  <string name="related_articles">Related articles</string>
+  <string name="related_articles">Súvisiace články</string>
   <string name="remember">Zapamätať si údaje</string>
   <string name="required">Povinné</string>
   <string name="revert">Vrátiť späť</string>
@@ -1180,7 +1180,7 @@
   <string name="tag_comment_time">Čas</string>
   <string name="tag_comment_web">Web stránka</string>
   <string name="tag_comment_web_input">Pole pre URL adresu</string>
-  <string name="tag_css">CSS link (<code>head</code>)</string>
+  <string name="tag_css">Odkaz na súbor CSS do (<code>head</code>)</string>
   <string name="tag_email">Odkaz na email (proti spamu)</string>
   <string name="tag_excerpt">Anotácia</string>
   <string name="tag_feed_link">Zdroj XML článkov</string>
