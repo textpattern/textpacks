@@ -184,7 +184,7 @@
   <string name="bad_cookie">Votre session de connexion a expiré. Merci de bien vouloir vous reconnecter.</string>
   <string name="body">Corps</string>
   <string name="cancel">Annuler</string>
-  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
+  <string name="cannot_instantiate_theme">Le thème <strong>{name}</strong> ({class}) n\'a pu être chargé correctement depuis le fichier {path}. Le thème par défaut sera utilisé en remplacement.</string>
   <string name="category">Categorie</string>
   <string name="changeauthor">Changer l’auteur</string>
   <string name="changecategory">Modifier la catégorie</string>
@@ -677,7 +677,7 @@
   <string name="file_max_upload_size">Taille maximale d’un fichier envoyé sur le serveur (octets)</string>
   <string name="from_file">Installation depuis un fichier</string>
   <string name="from_server">Installation depuis un serveur</string>
-  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
+  <string name="gmtoffset">Fuseau horaire (GMT compensé en secondes)</string>
   <string name="ham">Non spam</string>
   <string name="hours_days_ago">heures / jours auparavant</string>
   <string name="id_title">/id/titre</string>
@@ -926,9 +926,9 @@
   <string name="raw_php_deprecated">Les lignes de code PHP brutes ne sont plus supportées</string>
   <string name="recently">Récemment</string>
   <string name="recent_articles">Articles récents</string>
-  <string name="recent_comments">Recent comments</string>
+  <string name="recent_comments">Commentaires récents</string>
   <string name="recent_posts">Posts récents</string>
-  <string name="related_articles">Related articles</string>
+  <string name="related_articles">Articles associés</string>
   <string name="remember">Mémoriser les informations saisies</string>
   <string name="required">Requis</string>
   <string name="revert">Revenir en arrière</string>
@@ -1180,7 +1180,7 @@
   <string name="tag_comment_time">Heure</string>
   <string name="tag_comment_web">Site web</string>
   <string name="tag_comment_web_input">Saisie web</string>
-  <string name="tag_css">CSS link (<code>head</code>)</string>
+  <string name="tag_css">Lien CSS (<code>head</code>)</string>
   <string name="tag_email">Hyperlien d’email</string>
   <string name="tag_excerpt">Résumé</string>
   <string name="tag_feed_link">Flux des articles</string>
