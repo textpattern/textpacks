@@ -69,12 +69,12 @@
     <li>môže spravovať  kategórie</li>
     <li>môže spravovať stránky, formy a štýly</li>
 </ul></string>
-  <string name="add_new_author"><h1>Users: Add new author</h1>
-<p>A password, welcome message and login instructions will be emailed to the new author.</p></string>
-  <string name="admin_side_plugins"><h1>Preferences: Use admin-side plugins?</h1>
-<p>Admin-side plugins can change the operation of the administration interface. They might hook into already existing actions, like editing or publishing articles, or they might add new panels for added/extended functionality.</p>
-<p>If you would like to learn more about admin-side plugins, please see the <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Extending Textpattern</a> page in <a rel="external" target="_blank" href="http://docs.textpattern.io/">Textpattern User Documentation</a>. Plugins of all sorts are listed in the <a rel="external" target="_blank" href="http://textpattern.org/">Textpattern Resources</a> site.</p></string>
-  <string name="allow_article_php_scripting"><h1>Preferences: Allow PHP in articles?</h1>
-<p>When enabled, this setting will allow use of PHP within articles. The author must have sufficient privileges to do so (by default, only <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Publishers’</a> and <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Managing Editors’</a> can).</p>
-<p>PHP code must have opening and closing PHP tags omitted, and also be enclosed within <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/php"><code>&lt;txp:php&gt;</code> tags</a>.</p></string>
+  <string name="add_new_author"><h1>Užívateľ: Pridať nového užívateľa</h1>
+<p>Heslo, uvítacia správa a informácie ohľadne prihlásenia budú zaslané mailom novému užívateľovi.</p></string>
+  <string name="admin_side_plugins"><h1>Nastavenia: Použitie pluginov v administrácii?</h1>
+<p>Pluginy pre administráciu môžu zmeniť správanie sa a vzhľad administrácie. Môžu pridať do už existujúcich akcií, ako napríklad editácia alebo publikovanie článkov nové fukcionality. Môžu pridať aj nové panely pre rozšírenie funkcií v administrácii.
+<p>Ak chcete vedieť viac o rozšíreniach pre administráciu, prosím pozrite si <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Rozšírenia pre Textpattern</a> na stránke <a rel="external" target="_blank" href="http://docs.textpattern.io/">Užívateľská dokumentácia Textpatternu</a>. Pluginy rôzneho druhu sa nachádzajú na stránke <a rel="external" target="_blank" href="http://textpattern.org/">Pluginy Textpattern</a>.</p></string>
+  <string name="allow_article_php_scripting"><h1>Nastavenie: Povoliť PHP v článkoch?</h1>
+<p>Ak je toto nastavenie povolené, bude možné v článkoch používať PHP. Užívateľ musí mať požadované práva (predvolení sú iba <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Vydavateľ’</a> a <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Šéfredaktor’</a>).</p> 
+<p>PHP kód musí mať vynechané párové tagy, a uzatvoirený musí byť s <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/php"><code>&lt;txp:php&gt;</code> tagmi</a>.</p></string>
 </resources>
