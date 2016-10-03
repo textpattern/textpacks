@@ -184,7 +184,7 @@
   <string name="bad_cookie">Istuntosi on vanhentunut. Ole hyvä ja kirjaudu uudelleen.</string>
   <string name="body">Leipäteksti</string>
   <string name="cancel">Peruuta</string>
-  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
+  <string name="cannot_instantiate_theme">Teema <strong>{name}</strong> ({class}) ei latautunut kunnolla tiedostopolusta {path}. Päivittäessäsi tämän sivun tullaan käyttämään oletusteemaa.</string>
   <string name="category">Kategoria</string>
   <string name="changeauthor">Muuta tekijä</string>
   <string name="changecategory">Muuta kategoria</string>
@@ -677,7 +677,7 @@
   <string name="file_max_upload_size">Suurin siirrettävä tiedostokoko (tavua)</string>
   <string name="from_file">Asenna tiedostosta</string>
   <string name="from_server">Asenna etäpalvelimelta</string>
-  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
+  <string name="gmtoffset">Aikavyöhyke (GMT:n offset-arvo sekunteina)</string>
   <string name="ham">Kaikki mutta roskaposti</string>
   <string name="hours_days_ago">tuntia/päivää sitten</string>
   <string name="id_title">/id/otsikko</string>
@@ -926,9 +926,9 @@
   <string name="raw_php_deprecated">Paljaat PHP tagit eivät ole enää tuettuja</string>
   <string name="recently">Äskettäin</string>
   <string name="recent_articles">Viime artikkelit</string>
-  <string name="recent_comments">Recent comments</string>
+  <string name="recent_comments">Viimeaikaisia kommentteja</string>
   <string name="recent_posts">Viime postitukset</string>
-  <string name="related_articles">Related articles</string>
+  <string name="related_articles">Aiheeseen liittyviä artikkeleita</string>
   <string name="remember">Muista minut?</string>
   <string name="required">Vaaditaan</string>
   <string name="revert">Palauta</string>
@@ -1180,7 +1180,7 @@
   <string name="tag_comment_time">Aika</string>
   <string name="tag_comment_web">Website</string>
   <string name="tag_comment_web_input">WWW-kenttä</string>
-  <string name="tag_css">CSS link (<code>head</code>)</string>
+  <string name="tag_css">CSS-linkki (<code>head</code>)</string>
   <string name="tag_email">Email-linkki (estää roskapostin)</string>
   <string name="tag_excerpt">Johdanto</string>
   <string name="tag_feed_link">Syöte artikkeleihin</string>
