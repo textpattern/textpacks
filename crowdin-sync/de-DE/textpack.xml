@@ -184,7 +184,7 @@
   <string name="bad_cookie">Ungültiges Cookie. Bitte geben Sie Ihre Anmeldeinformationen ein.</string>
   <string name="body">Haupttext</string>
   <string name="cancel">Abbrechen</string>
-  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
+  <string name="cannot_instantiate_theme">Das Theme <strong>{name}</strong> ({class}) konnte nicht richtig von der Datei {path} geladen werden. Wenn Sie diese Seite aktualisieren, wird das Standard-Theme als Ersatz verwendet.</string>
   <string name="category">Kategorie</string>
   <string name="changeauthor">Autor ändern</string>
   <string name="changecategory">Kategorie ändern</string>
@@ -677,7 +677,7 @@
   <string name="file_max_upload_size">Maximale Upload-Dateigröße (in Bytes)</string>
   <string name="from_file">Installation einer lokalen Sprachdatei</string>
   <string name="from_server">Installation über Remote-Server</string>
-  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
+  <string name="gmtoffset">Zeitzone (Differenz zu GMT in Sekunden)</string>
   <string name="ham">Alle außer Spam</string>
   <string name="hours_days_ago">vor Stunden/Tagen</string>
   <string name="id_title">/id/titel</string>
@@ -926,9 +926,9 @@
   <string name="raw_php_deprecated">Die direkte Verwendung von PHP-Tags ist nicht erwünscht.</string>
   <string name="recently">kürzlich</string>
   <string name="recent_articles">Neueste Artikel</string>
-  <string name="recent_comments">Recent comments</string>
+  <string name="recent_comments">Neueste Kommentare</string>
   <string name="recent_posts">Neueste Einträge</string>
-  <string name="related_articles">Related articles</string>
+  <string name="related_articles">Verwandte Artikel</string>
   <string name="remember">Merken</string>
   <string name="required">Erforderlich</string>
   <string name="revert">umkehren</string>
@@ -1180,7 +1180,7 @@
   <string name="tag_comment_time">Erstellungsdatum des Kommentars</string>
   <string name="tag_comment_web">Webseite des Kommentierenden</string>
   <string name="tag_comment_web_input">Homepage-Eingabefeld</string>
-  <string name="tag_css">CSS link (<code>head</code>)</string>
+  <string name="tag_css">Link zur CSS-Datei (<code>head</code>)</string>
   <string name="tag_email">Kontaktlink (spamgeschützte E-Mail)</string>
   <string name="tag_excerpt">Exzerpt</string>
   <string name="tag_feed_link">Newsfeed der Artikel</string>
