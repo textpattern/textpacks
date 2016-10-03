@@ -184,7 +184,7 @@
   <string name="bad_cookie">La tua sessione è scaduta. Effettua di nuovo il login.</string>
   <string name="body">Corpo</string>
   <string name="cancel">Annulla</string>
-  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
+  <string name="cannot_instantiate_theme">Il tema <strong>{name}</strong> ({class}) non è stato caricato correttamente dal file {path}. Al suo posto verrà usato il tema predefinito una volta aggiornata la pagina.</string>
   <string name="category">Categoria</string>
   <string name="changeauthor">Cambia autore</string>
   <string name="changecategory">Cambia categoria</string>
@@ -677,7 +677,7 @@
   <string name="file_max_upload_size">Dimensione massima consentita per i file (in byte)</string>
   <string name="from_file">Installa da file</string>
   <string name="from_server">Installa da server remoto</string>
-  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
+  <string name="gmtoffset">Fuso orario (differenza con GTM in secondi)</string>
   <string name="ham">Sì, tranne quelli indesiderati (spam)</string>
   <string name="hours_days_ago">ore/giorni fa</string>
   <string name="id_title">/id/titolo</string>
@@ -926,9 +926,9 @@
   <string name="raw_php_deprecated">Il codice PHP grezzo è deprecato</string>
   <string name="recently">Di recente</string>
   <string name="recent_articles">Articoli recenti</string>
-  <string name="recent_comments">Recent comments</string>
+  <string name="recent_comments">Commenti recenti</string>
   <string name="recent_posts">Post recenti</string>
-  <string name="related_articles">Related articles</string>
+  <string name="related_articles">Articoli correlati</string>
   <string name="remember">Ricorda</string>
   <string name="required">Obbligatorio</string>
   <string name="revert">Ripristina</string>
@@ -1180,7 +1180,7 @@
   <string name="tag_comment_time">Orario commento</string>
   <string name="tag_comment_web">Sito web commento</string>
   <string name="tag_comment_web_input">Campo sito web commento</string>
-  <string name="tag_css">CSS link (<code>head</code>)</string>
+  <string name="tag_css">Link CSS (<code>head</code>)</string>
   <string name="tag_email">Link email (a prova di spam)</string>
   <string name="tag_excerpt">Sommario</string>
   <string name="tag_feed_link">Flusso articoli</string>
