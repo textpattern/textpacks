@@ -184,7 +184,7 @@
   <string name="bad_cookie">Špatné cookie.</string>
   <string name="body">Tělo</string>
   <string name="cancel">Zrušit</string>
-  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
+  <string name="cannot_instantiate_theme">Téma vzhledu <strong>{name}</strong> ({class}) se ze souboru {path} nepodařilo správně načíst. Po aktualizaci stránky bude použito výchozí téma vzhledu.</string>
   <string name="category">Kategorie</string>
   <string name="changeauthor">Změnit autora</string>
   <string name="changecategory">Změnit kategorii</string>
@@ -677,7 +677,7 @@
   <string name="file_max_upload_size">Mez velikosti souborů (v bajtech)</string>
   <string name="from_file">Instalovat ze souboru</string>
   <string name="from_server">Instalovat ze serveru</string>
-  <string name="gmtoffset">Time zone (GMT offset in seconds)</string>
+  <string name="gmtoffset">Časové pásmo (posun GMT v sekundách)</string>
   <string name="ham">Vše vyjma spam</string>
   <string name="hours_days_ago">hodin/dnů uplynulo</string>
   <string name="id_title">/id/název</string>
@@ -926,9 +926,9 @@
   <string name="raw_php_deprecated">PHP značky jsou zastaralé</string>
   <string name="recently">Nedávno</string>
   <string name="recent_articles">Poslední články</string>
-  <string name="recent_comments">Recent comments</string>
+  <string name="recent_comments">Poslední komentáře</string>
   <string name="recent_posts">Poslední příspěvky</string>
-  <string name="related_articles">Related articles</string>
+  <string name="related_articles">Související články</string>
   <string name="remember">Zapamatovat</string>
   <string name="required">Povinné</string>
   <string name="revert">Vrátit zpět</string>
@@ -1180,7 +1180,7 @@
   <string name="tag_comment_time">Čas</string>
   <string name="tag_comment_web">Web</string>
   <string name="tag_comment_web_input">Pole pro web</string>
-  <string name="tag_css">CSS link (<code>head</code>)</string>
+  <string name="tag_css">Odkaz na soubor CSS do (<code>head</code>)</string>
   <string name="tag_email">Odkaz na email (proti spamu)</string>
   <string name="tag_excerpt">Anotace</string>
   <string name="tag_feed_link">Pramen XML pro články</string>
