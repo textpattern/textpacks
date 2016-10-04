@@ -187,7 +187,7 @@ back_to_login => Retour : connexion à Textpattern CMS
 bad_cookie => Votre session de connexion a expiré. Merci de bien vouloir vous reconnecter.
 body => Corps
 cancel => Annuler
-cannot_instantiate_theme => Le thème <strong>{name}</strong> ({class}) n’a pu être chargé correctement depuis le fichier {path}. Le thème classique sera utilisé en remplacement.
+cannot_instantiate_theme => Le thème <strong>{name}</strong> ({class}) n\'a pu être chargé correctement depuis le fichier {path}. Le thème par défaut sera utilisé en remplacement.
 category => Categorie
 changeauthor => Changer l’auteur
 changecategory => Modifier la catégorie
@@ -693,7 +693,7 @@ file_base_path => Chemin du répertoire des fichiers téléchargés
 file_max_upload_size => Taille maximale d’un fichier envoyé sur le serveur (octets)
 from_file => Installation depuis un fichier
 from_server => Installation depuis un serveur
-gmtoffset => Fuseau horaire <abbr title="Greenwich Mean Time">GMT</abbr>
+gmtoffset => Fuseau horaire (GMT compensé en secondes)
 ham => Non spam
 hours_days_ago => heures / jours auparavant
 id_title => /id/titre
