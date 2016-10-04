@@ -184,7 +184,7 @@
   <string name="bad_cookie">Cookie invàlida</string>
   <string name="body">Cos</string>
   <string name="cancel">Cancel</string>
-  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback.</string>
+  <string name="cannot_instantiate_theme">Theme <strong>{name}</strong> ({class}) failed to load properly from file {path}. The default theme will be used as a fallback when you refresh this page.</string>
   <string name="category">Categoria</string>
   <string name="changeauthor">Canvia autor</string>
   <string name="changecategory">Canvia categoria</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=brut</string>
   <string name="never_display_email">No mostrar mai l’adreça de correu?</string>
   <string name="new_textpattern_version_available">Hi ha disponible una nova versió de Textpattern.</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">finestra actual</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Utilitzar ISO-8859-1 pels correus electrònics? (Per defecte es UTF-8)?</string>
   <string name="path_from_root">Subdirectori (si en hi ha)</string>
   <string name="path_to_site_missing">No s’ha establert <code>$path_to_site</code> (actualitza <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Les etiquetes de PHP en cru han estat abandonades</string>
   <string name="recently">Recentment</string>
   <string name="recent_articles">Articles recents</string>
+  <string name="recent_comments">Comentaris recents</string>
   <string name="recent_posts">Articles recents</string>
+  <string name="related_articles">Articles relacionats</string>
   <string name="remember">Recorda-ho</string>
   <string name="required">Required</string>
   <string name="revert">Torna</string>

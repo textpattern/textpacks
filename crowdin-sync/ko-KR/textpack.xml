@@ -704,8 +704,8 @@
   <string name="messy">\?=messy</string>
   <string name="never_display_email">전자우편 주소를 감춥니까?</string>
   <string name="new_textpattern_version_available">텍스트패턴의 새로운 버전이 나왔습니다. 설치하시겠습니까?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">현재창</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">전자우편에 ISO-8859-1을 사용하겠습니까? (기본은 utf-8)</string>
   <string name="path_from_root">하위 경로(있다면)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code>을 정하지 않았습니다.(<code>index.php</code>을 업데이트해야 합니다)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Raw PHP 태그는 더이상 쓸 수 없음</string>
   <string name="recently">최근</string>
   <string name="recent_articles">최근 글</string>
+  <string name="recent_comments">최근 댓글</string>
   <string name="recent_posts">최근 글</string>
+  <string name="related_articles">관련 글</string>
   <string name="remember">내 정보 기억하기</string>
   <string name="required">필수</string>
   <string name="revert">되돌리기</string>

@@ -704,8 +704,8 @@
   <string name="messy">\?=bałagan</string>
   <string name="never_display_email">Nigdy nie pokazywać adresów email?</string>
   <string name="new_textpattern_version_available">Dostępna jest nowa wersja Textpattern. Chcesz ją <a href="http://textpattern.com/download" rel="external">wypróbować</a>?</string>
-  <string name="no_preferences">Brak dostępnych preferencji.</string>
   <string name="no_popup">w tym samym oknie</string>
+  <string name="no_preferences">Brak dostępnych preferencji.</string>
   <string name="override_emailcharset">Używać ISO-8859-1 w emailach (domyślnie jest UTF-8)?</string>
   <string name="path_from_root">Podkatalog (jeśli istnieje)</string>
   <string name="path_to_site_missing">Zmienna <code>$path_to_site</code> nie jest ustawiona (uaktualnij <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Znaczniki PHP są nie zalecane</string>
   <string name="recently">Ostatnio</string>
   <string name="recent_articles">Ostatnio dodane artykuły</string>
+  <string name="recent_comments">Ostatnio dodane komentarze</string>
   <string name="recent_posts">Ostatnio dodane posty</string>
+  <string name="related_articles">Podobne artykuły</string>
   <string name="remember">Zapamiętaj moje dane</string>
   <string name="required">Wymagany</string>
   <string name="revert">Przywróć</string>

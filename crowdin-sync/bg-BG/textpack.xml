@@ -704,8 +704,8 @@
   <string name="messy">\?=messy</string>
   <string name="never_display_email">Никога не показвай email-a?</string>
   <string name="new_textpattern_version_available">Има нова версия на Textpattern. Искате ли да я пробвате?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">текущ прозорец</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Използвай ISO-8859-1 кодировка за email-ите? (по подразбиране е UTF-8)</string>
   <string name="path_from_root">Поддиректория (ако има)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> не е зададена (обновете <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Raw PHP тагове са отхвърлени</string>
   <string name="recently">Последни</string>
   <string name="recent_articles">Последни Статии</string>
+  <string name="recent_comments">Последни коментари</string>
   <string name="recent_posts">Последни публикации</string>
+  <string name="related_articles">Свързани статии</string>
   <string name="remember">Запомни</string>
   <string name="required">Задължително</string>
   <string name="revert">Към предишно състояние</string>

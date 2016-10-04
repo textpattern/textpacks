@@ -704,8 +704,8 @@
   <string name="messy">\?=messy</string>
   <string name="never_display_email">لا تستعرض أبدا عنوان البريد الإلكتروني؟</string>
   <string name="new_textpattern_version_available">There is a new Textpattern version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">النافذة الحالية</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Latin 1 (ISO-8859-1) تحويل رسا~ل البريد الإلكتروني إلى الغة اللاتينية</string>
   <string name="path_from_root">ملف فرعي إن كان متوفرا</string>
   <string name="path_to_site_missing"><code dir="ltr">$path_to_site</code> غير موجود، اضبط</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Raw PHP tags are deprecated</string>
   <string name="recently">مؤخرا</string>
   <string name="recent_articles">مقالات منشورة مؤخرا</string>
+  <string name="recent_comments">التعليقات الأخيرة</string>
   <string name="recent_posts">نشر مؤخرا</string>
+  <string name="related_articles">المقالات حول نفس الموضوع</string>
   <string name="remember">حفظ المعلومات المستلمة</string>
   <string name="required">Required</string>
   <string name="revert">العودة إلى الوراء</string>

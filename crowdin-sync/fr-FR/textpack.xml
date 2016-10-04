@@ -184,7 +184,7 @@
   <string name="bad_cookie">Votre session de connexion a expiré. Merci de bien vouloir vous reconnecter.</string>
   <string name="body">Corps</string>
   <string name="cancel">Annuler</string>
-  <string name="cannot_instantiate_theme">Le thème <strong>{name}</strong> ({class}) n’a pu être chargé correctement depuis le fichier {path}. Le thème classique sera utilisé en remplacement.</string>
+  <string name="cannot_instantiate_theme">Le thème <strong>{name}</strong> ({class}) n\'a pu être chargé correctement depuis le fichier {path}. Le thème par défaut sera utilisé en remplacement.</string>
   <string name="category">Categorie</string>
   <string name="changeauthor">Changer l’auteur</string>
   <string name="changecategory">Modifier la catégorie</string>
@@ -677,7 +677,7 @@
   <string name="file_max_upload_size">Taille maximale d’un fichier envoyé sur le serveur (octets)</string>
   <string name="from_file">Installation depuis un fichier</string>
   <string name="from_server">Installation depuis un serveur</string>
-  <string name="gmtoffset">Fuseau horaire <abbr title="Greenwich Mean Time">GMT</abbr></string>
+  <string name="gmtoffset">Fuseau horaire (GMT compensé en secondes)</string>
   <string name="ham">Non spam</string>
   <string name="hours_days_ago">heures / jours auparavant</string>
   <string name="id_title">/id/titre</string>
@@ -704,8 +704,8 @@
   <string name="messy">brutes (?=paramètres)</string>
   <string name="never_display_email">Toujours masquer les adresses email ?</string>
   <string name="new_textpattern_version_available">Une nouvelle version de Textpattern est disponible. <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern">Voulez-vous la télécharger</a> ?</string>
-  <string name="no_preferences">Aucune préférence disponible.</string>
   <string name="no_popup">fenêtre actuelle</string>
+  <string name="no_preferences">Aucune préférence disponible.</string>
   <string name="override_emailcharset">Transformer les emails en Latin 1 (ISO-8859-1) ?</string>
   <string name="path_from_root">Sous répertoire (s’il existe)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> n’est pas configuré (mettez <code>index.php</code> à jour)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Les lignes de code PHP brutes ne sont plus supportées</string>
   <string name="recently">Récemment</string>
   <string name="recent_articles">Articles récents</string>
+  <string name="recent_comments">Commentaires récents</string>
   <string name="recent_posts">Posts récents</string>
+  <string name="related_articles">Articles associés</string>
   <string name="remember">Mémoriser les informations saisies</string>
   <string name="required">Requis</string>
   <string name="revert">Revenir en arrière</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Heure</string>
   <string name="tag_comment_web">Site web</string>
   <string name="tag_comment_web_input">Saisie web</string>
-  <string name="tag_css">Lien CSS (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">Lien CSS (<code>head</code>)</string>
   <string name="tag_email">Hyperlien d’email</string>
   <string name="tag_excerpt">Résumé</string>
   <string name="tag_feed_link">Flux des articles</string>

@@ -704,8 +704,8 @@
   <string name="messy">\?=messy</string>
   <string name="never_display_email">メールアドレスを隠しますか？</string>
   <string name="new_textpattern_version_available">Textpatternをバージョンアップ可能です。<a href="http://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">使用</a>してみますか？</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">ポップアップを無効にする</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">メールのエンコードにISO-8859-1使用しますか(初期設定：UTF-8)？</string>
   <string name="path_from_root">サブディレクトリ (任意)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> が設定されていません(<code>index.php</code>を更新してください)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">PHP タグの使用は非推奨です。</string>
   <string name="recently">最近</string>
   <string name="recent_articles">最近の記事</string>
+  <string name="recent_comments">最近のコメント</string>
   <string name="recent_posts">最近の投稿</string>
+  <string name="related_articles">関連する記事</string>
   <string name="remember">記憶する</string>
   <string name="required">必須</string>
   <string name="revert">取り消し</string>

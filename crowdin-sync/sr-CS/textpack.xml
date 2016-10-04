@@ -704,8 +704,8 @@
   <string name="messy">\?=messy</string>
   <string name="never_display_email">Nikad ne prikazuj email adrese?</string>
   <string name="new_textpattern_version_available">Postoji kompletno nova verzija Textpattern-a. Da li je želite probati?</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">trenutni prozor</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Upotrebi ISO-8859-1 enkoding kod poslanih emailova (default je UTF-8)?</string>
   <string name="path_from_root">Sub-directory (ako ima)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> nije postavljen (update <code>index.php</code>)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Sirovi PHP tagovi su zabranjeni</string>
   <string name="recently">Nedavno</string>
   <string name="recent_articles">Nedavni unosi</string>
+  <string name="recent_comments">Nedavni komentari</string>
   <string name="recent_posts">Nedavni komentari</string>
+  <string name="related_articles">Slični unosi</string>
   <string name="remember">Zapamti</string>
   <string name="required">Required</string>
   <string name="revert">Revert</string>

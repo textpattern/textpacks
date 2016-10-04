@@ -37,8 +37,8 @@
   <string name="must_reassign_assets">Ange på nytt användarens innehåll</string>
   <string name="new_email">Ny e-postadress</string>
   <string name="new_password">Nytt lösenord</string>
-  <string name="password_changed">Lösenordet ändrades.</string>
-  <string name="password_changed_mailed">Lösenordet ändrades och skickades till <strong>{email}</strong>.</string>
+  <string name="password_changed">Lösenord ändrat.</string>
+  <string name="password_changed_mailed">Lösenordet ändrades och e-postades till <strong>{email}</strong>.</string>
   <string name="password_change_confirmation">Ditt lösenord har ändrats. Om du inte har begärt en ändring på ditt lösenord, kontakta webbplatsadministratören.</string>
   <string name="password_confirm_button">Ange lösenord</string>
   <string name="password_forgotten">Glömt ditt lösenord?</string>
@@ -58,7 +58,7 @@
   <string name="password_strength_3">Bra</string>
   <string name="password_strength_4">Väldigt bra</string>
   <string name="privileges">Rättigheter</string>
-  <string name="privs_none">Inga</string>
+  <string name="privs_none">Ingen</string>
   <string name="publisher">Utgivare</string>
   <string name="real_name">Namn</string>
   <string name="resend_activation">Skicka aktiveringslänken igen</string>
@@ -184,7 +184,7 @@
   <string name="bad_cookie">Ogiltig cookiefil. Var god ange dina inloggningsuppgifter.</string>
   <string name="body">Brödtext</string>
   <string name="cancel">Avbryt</string>
-  <string name="cannot_instantiate_theme">Temat <strong>{name}</strong> ({class}) kan inte laddas ordentligt från {path}. Classic-temat kommer att användas istället.</string>
+  <string name="cannot_instantiate_theme">Temat <strong>{name}</strong> ({class}) gick inte att öppna från filen {path}. Standardtemat kommer att användas i stället när du uppdaterar sidan.</string>
   <string name="category">Kategori</string>
   <string name="changeauthor">Byt författare</string>
   <string name="changecategory">Byt kategori</string>
@@ -251,7 +251,7 @@
   <string name="search_clear">Rensa sök</string>
   <string name="search_options">Sökalternativ</string>
   <string name="showing_search_results">Visar {from} till {to} av {total}</string>
-  <string name="site_slogan">Sajtslogan</string>
+  <string name="site_slogan">Webbplatsens slogan</string>
   <string name="sort_value">Sorteringsvärde</string>
   <string name="spam">Skräppost</string>
   <string name="stay_logged_in">Förbli inloggad med denna webbläsare</string>
@@ -280,7 +280,7 @@
   <string name="tab_skins">Skal</string>
   <string name="tab_start">Hem</string>
   <string name="tab_style">Stilmallar</string>
-  <string name="tab_view_site">Se sajten</string>
+  <string name="tab_view_site">Visa webbplats</string>
   <string name="tab_write">Skriv</string>
   <string name="thumbnail">Tumnagel</string>
   <string name="title_body">Rubrik och brödtext</string>
@@ -314,7 +314,7 @@
   <string name="upload_err_tmp_dir">Tillfällig mapp är inte angiven, var god uppdatera dina Avancerade inställningar.</string>
   <string name="upload_file">Ladda upp fil</string>
   <string name="use_textile">Använd Textile</string>
-  <string name="viewsite">Visa sajten</string>
+  <string name="viewsite">Visa webbplats</string>
   <string name="view_per_page">Visa {page} per sida</string>
   <string name="visible">Visas</string>
   <string name="with_selected">Välj åtgärd:</string>
@@ -366,7 +366,7 @@
   <string name="db_server_timeoffset">Databasens servertidsförskjutning</string>
   <string name="db_session_timezone">Databasens sessiontidszon</string>
   <string name="detail">Detalj</string>
-  <string name="dev_version_live">Du använder filer som är under utveckling på en live-sajt</string>
+  <string name="dev_version_live">Du kör en utvecklingsversion av Textpattern på en aktiv server.</string>
   <string name="diagnostic_info">Diagnostisk info</string>
   <string name="dir_not_writable">{dirtype} är inte skrivbar</string>
   <string name="dns_lookup_fails">Domännamnsuppslag misslyckas</string>
@@ -401,8 +401,8 @@
   <string name="rfc_2616_headers">CGI Header-läge</string>
   <string name="server">Server</string>
   <string name="server_time">Serverns klocka</string>
-  <string name="site_trailing_slash">Sajt-URL har ett avslutande snedstreck (/)</string>
-  <string name="site_url_mismatch">Sajt-URL-inställningen kan vara felaktigt ifylld</string>
+  <string name="site_trailing_slash">Webbplats-URL har ett avslutande snedstreck</string>
+  <string name="site_url_mismatch">Inställningar för webbplats-URL kan vara felaktiga</string>
   <string name="some_php_functions_disabled">Följande PHP-funktioner (som kan vara nödvändiga för att kunna köra Textpattern) är avstängda på din server</string>
   <string name="still_exists">existerar fortfarande</string>
   <string name="textpattern_update_available">Ny Textpattern-version {version} <a href="http://textpattern.com/download" rel="external" title="Gå till Textpattern-webbplatsen">tillgänglig för nedladdning</a></string>
@@ -588,7 +588,7 @@
   <string name="page_misc_hed">Blandat</string>
   <string name="page_name">Sidmallsnamn (obligatoriskt)</string>
   <string name="page_name_invalid">Sidmallens namn är ogiltligt</string>
-  <string name="page_nav_hed">Sajt-navigering</string>
+  <string name="page_nav_hed">Navigering på webbplatsen</string>
   <string name="page_save_failed">Sidan sparades inte på grund av ett fel. Var god försök igen.</string>
   <string name="page_updated">Sidmallen <strong>{name}</strong> uppdaterades.</string>
   <string name="page_used_by_section">Sidan <strong>{name}</strong> togs inte bort eftersom den användas av {count} avdelning(ar).</string>
@@ -649,7 +649,7 @@
   <string name="comments_require_name">Kommentarer kräver namn?</string>
   <string name="comments_sendmail">E-posta kommentarer till skribenten?</string>
   <string name="comments_use_fat_textile">Tillåt utökad Textile-markup?</string>
-  <string name="comment_means_site_updated">Ny kommentar innebär att sajten uppdaterats?</string>
+  <string name="comment_means_site_updated">Ny kommentar innebär att webbplatsen uppdaterats?</string>
   <string name="comment_nofollow">Applicera <code>rel="nofollow"</code> på kommentarer?</string>
   <string name="convert_linebreaks">Konvertera radbrytningar</string>
   <string name="css">Stilmallar</string>
@@ -677,7 +677,7 @@
   <string name="file_max_upload_size">Maxstorlek på filuppladdningar (bytes)</string>
   <string name="from_file">Installera från fil</string>
   <string name="from_server">Installera från RPC-servern</string>
-  <string name="gmtoffset">Tidszon</string>
+  <string name="gmtoffset">Tidszone zone (GMT offset i sekunder)</string>
   <string name="ham">Allt utom spam</string>
   <string name="hours_days_ago">timmar/dagar sedan</string>
   <string name="id_title">/id/titel</string>
@@ -704,8 +704,8 @@
   <string name="messy">\?=rörig</string>
   <string name="never_display_email">Visa aldrig e-postadress?</string>
   <string name="new_textpattern_version_available">En ny version av Textpattern finns tillgänglig! Vill du pröva den?</string>
-  <string name="no_preferences">Inga inställningar tillgängliga.</string>
   <string name="no_popup">nuvarande fönster</string>
+  <string name="no_preferences">Inga inställningar tillgängliga.</string>
   <string name="override_emailcharset">Använd iso-8859-1 i e-postmeddelanden (utf-8 är förvalt)?</string>
   <string name="path_from_root">Ev. underkatalog</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> är inte angett (uppdatera <code>index.php</code>)</string>
@@ -827,7 +827,7 @@
   <string name="deprecated_function">Funktionen <strong>{name}</strong> används inte längre</string>
   <string name="deprecated_function_with">Funktionen <strong>{name}</strong> används inte längre, använd <strong>{with}</strong> istället</string>
   <string name="deprecated_tag">taggen är ogiltlig</string>
-  <string name="documentation">Documentation</string>
+  <string name="documentation">Dokumentation</string>
   <string name="download_count">Nedladdningsräknare</string>
   <string name="edit">Redigera</string>
   <string name="email">E-post</string>
@@ -849,7 +849,7 @@
   <string name="form">Siddel</string>
   <string name="forms">Siddelar</string>
   <string name="go">Starta</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Baka</string>
   <string name="go_content">Hoppa till innehåll</string>
   <string name="go_nav">Hoppa till navigering</string>
   <string name="go_search">Hoppa till sökrutan</string>
@@ -906,7 +906,7 @@
   <string name="older">Äldre</string>
   <string name="on">På</string>
   <string name="only_articles_can_be_previewed">OBS: Bara artikelsiddelar kan förhandsvisas.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(öppnar externa länkar i ett nytt fönster)</string>
   <string name="page">Sida</string>
   <string name="pages">Sidor</string>
   <string name="paragraph">stycke</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">Rena PHP-taggar ogillas</string>
   <string name="recently">Nyligen</string>
   <string name="recent_articles">Senaste artiklarna</string>
+  <string name="recent_comments">Senaste kommentarerna</string>
   <string name="recent_posts">Senaste inläggen</string>
+  <string name="related_articles">Relaterade artiklar</string>
   <string name="remember">Kom ihåg</string>
   <string name="required">Krävs</string>
   <string name="revert">Återgå</string>
@@ -939,8 +941,8 @@
   <string name="select">Välj</string>
   <string name="selected">Markerad(e)</string>
   <string name="site">Webbplats</string>
-  <string name="sitename">Sajtnamn</string>
-  <string name="siteurl">Sajt-URL</string>
+  <string name="sitename">Webbplatsens namn</string>
+  <string name="siteurl">Webbplats-URL</string>
   <string name="skip_to_main_content">Gå till huvudsaklig innehåll</string>
   <string name="status">Status</string>
   <string name="strong">stark betoning</string>
@@ -988,14 +990,14 @@
   <string name="edit_default_section">Redigera förvald avdelning</string>
   <string name="edit_section">Redigera avdelning</string>
   <string name="edit_sections">redigera avdelningar</string>
-  <string name="include_in_search">Inkludera i sökning på sajten</string>
+  <string name="include_in_search">Inkludera i sökning på webbplatsen?</string>
   <string name="on_front_page">På startsidan</string>
   <string name="search_sections">Sök i sektionerna</string>
   <string name="section">Avdelning</string>
   <string name="sections">Avdelningar</string>
   <string name="section_created">Avdelningen <strong>{name}</strong> skapades.</string>
   <string name="section_deleted">Avdelningen <strong>{name}</strong> togs bort.</string>
-  <string name="section_head">Sajtavdelningar</string>
+  <string name="section_head">Webbplatsavdelningar</string>
   <string name="section_longtitle">Avdelningens långa titel</string>
   <string name="section_name">Avdelningens namn</string>
   <string name="section_name_already_exists">Avdelningen <strong>{name}</strong> finns redan.</string>
@@ -1041,7 +1043,7 @@
   <string name="need_details">Ofrånkomligen så behöver vi några detaljer</string>
   <string name="next_step">Nästa</string>
   <string name="pass_required">Var god ange ett \"starkt\" lösenord.</string>
-  <string name="please_enter_url">Var god ange den från webben nåbara adressen till din sajt</string>
+  <string name="please_enter_url">Ange webbadressen till din webbplats.</string>
   <string name="please_go_back">Var god backa, ändra eventuella fel och försök igen.</string>
   <string name="populate_db">Fyll på databasen</string>
   <string name="prefix_bad_characters">Tabellprefixet {dbprefix} innehåller icke tillåtna tecken. Det första tecknet måste matcha någon av <strong>a-zA-Z_</strong> och alla följande tecken måste matcha någon av <strong>a-zA-Z0-9_</strong></string>
@@ -1057,8 +1059,8 @@
   <string name="setup_show_password">Visa lösenord</string>
   <string name="set_db_details">Ange databasdetaljer</string>
   <string name="set_temp_dir_prefs">Ledsen, kunde inte hitta en skrivbar katalog att lagra tillfälliga filer. Var god använd fliken ”Avancerade inställningar” och ändra ”Tillfällig katalog” där.</string>
-  <string name="site_config">Sajtkonfiguration</string>
-  <string name="site_url">Sajt-URL</string>
+  <string name="site_config">Webbplatskonfiguration</string>
+  <string name="site_url">Webbplats-URL</string>
   <string name="tables_exist">Det verkar som att tabellerna i <strong>{dbname}</strong> redan finns. Vill du ändå fortsätta måste du antingen ta bort dem först eller ange ett annat tabell-prefix för den här installationen.</string>
   <string name="table_prefix">Tabell-prefix</string>
   <string name="thanks_for_interest">Tack för ditt intresse för Textpattern</string>
@@ -1178,7 +1180,7 @@
   <string name="tag_comment_time">Tidpunkt</string>
   <string name="tag_comment_web">Hemsida</string>
   <string name="tag_comment_web_input">URL-fält</string>
-  <string name="tag_css">CSS-länk (<code>&lt;head&gt;</code>)</string>
+  <string name="tag_css">CSS-länk (<code>head</code>)</string>
   <string name="tag_email">E-postlänk (spam-säker)</string>
   <string name="tag_excerpt">Ingress</string>
   <string name="tag_feed_link">Ström-länk för artiklar</string>

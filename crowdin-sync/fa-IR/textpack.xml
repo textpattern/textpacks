@@ -704,8 +704,8 @@
   <string name="messy">\?=آشفته</string>
   <string name="never_display_email">مخفی‌کردن نشانی ایمیل؟</string>
   <string name="new_textpattern_version_available">نسخه کاملاً جدیدی از Textpattern موجود است. می‌خواهید امتحان کنید؟</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="no_popup">پنجره فعلی</string>
+  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">در ایمیل‌های ارسالی از رمزگذاری ISO-8859-1 استفاده شود (پیش‌فرض UTF-8 است)؟</string>
   <string name="path_from_root">پوشه زیرمجموعه (اگر موجود است)</string>
   <string name="path_to_site_missing">متغیر path_to_site$ تنظیم نشده است (فایل index.php را بهنگام کنید)</string>
@@ -926,7 +926,9 @@
   <string name="raw_php_deprecated">کد های خام PHP ممنوع شناخته می شود</string>
   <string name="recently">اخیراً</string>
   <string name="recent_articles">آخرین نوشته‌ها</string>
+  <string name="recent_comments">آخرین نظرها</string>
   <string name="recent_posts">آخرین ارسال‌ها</string>
+  <string name="related_articles">نوشته‌های مرتبط</string>
   <string name="remember">به یادآوری</string>
   <string name="required">ضروری</string>
   <string name="revert">برگشت</string>
