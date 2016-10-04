@@ -1,4 +1,4 @@
-#@version 4.6.0;1473181015
+#@version 4.6.0;1475579326
 #@admin
 account_activation => Aktivujte svůj účet, prosím
 account_activation_confirmation => Použijte níže uvedený odkaz k aktivaci vašeho účtu a nastavení hesla.
@@ -188,7 +188,7 @@ body => Tělo
 bs-ba => Bosanski
 ca-es => Català
 cancel => Zrušit
-cannot_instantiate_theme => Instalace motivu <strong>{name}</strong> ({class}) ze souboru {path} selhala. Místo toho bude použit motiv standardní.
+cannot_instantiate_theme => Téma vzhledu <strong>{name}</strong> ({class}) se ze souboru {path} nepodařilo správně načíst. Po aktualizaci stránky bude použito výchozí téma vzhledu.
 category => Kategorie
 changeauthor => Změnit autora
 changecategory => Změnit kategorii
@@ -735,7 +735,7 @@ file_base_path => Cesta pro soubory
 file_max_upload_size => Mez velikosti souborů (v bajtech)
 from_file => Instalovat ze souboru
 from_server => Instalovat ze serveru
-gmtoffset => Zdejší časové pásmo
+gmtoffset => Časové pásmo (posun GMT v sekundách)
 ham => Vše vyjma spam
 hours_days_ago => hodin/dnů uplynulo
 id_title => /id/název

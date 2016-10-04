@@ -1,4 +1,4 @@
-#@version 4.6.0;1473181251
+#@version 4.6.0;1475579879
 #@admin
 account_activation => Veuillez activer votre compte
 account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
@@ -188,7 +188,7 @@ body => Corps
 bs-ba => Bosanski
 ca-es => Català
 cancel => Annuler
-cannot_instantiate_theme => Le thème <strong>{name}</strong> ({class}) n’a pu être chargé correctement depuis le fichier {path}. Le thème classique sera utilisé en remplacement.
+cannot_instantiate_theme => Le thème <strong>{name}</strong> ({class}) n\'a pu être chargé correctement depuis le fichier {path}. Le thème par défaut sera utilisé en remplacement.
 category => Categorie
 changeauthor => Changer l’auteur
 changecategory => Modifier la catégorie
@@ -735,7 +735,7 @@ file_base_path => Chemin du répertoire des fichiers téléchargés
 file_max_upload_size => Taille maximale d’un fichier envoyé sur le serveur (octets)
 from_file => Installation depuis un fichier
 from_server => Installation depuis un serveur
-gmtoffset => Fuseau horaire <abbr title="Greenwich Mean Time">GMT</abbr>
+gmtoffset => Fuseau horaire (GMT compensé en secondes)
 ham => Non spam
 hours_days_ago => heures / jours auparavant
 id_title => /id/titre

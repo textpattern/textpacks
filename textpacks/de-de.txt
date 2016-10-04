@@ -1,4 +1,4 @@
-#@version 4.6.0;1473181114
+#@version 4.6.0;1475579421
 #@admin
 account_activation => Bitte aktivieren Sie Ihren Account
 account_activation_confirmation => Bitte verwenden Sie den unten stehenden Link, um Ihren Account zu aktivieren und ein Passwort anzulegen.
@@ -188,7 +188,7 @@ body => Haupttext
 bs-ba => Bosanski
 ca-es => Català
 cancel => Abbrechen
-cannot_instantiate_theme => Das Theme <strong>{name}</strong> ({class}) kann nicht von {path} geladen werden. Das Classic-Theme wird als Ersatz verwendet.
+cannot_instantiate_theme => Das Theme <strong>{name}</strong> ({class}) konnte nicht richtig von der Datei {path} geladen werden. Wenn Sie diese Seite aktualisieren, wird das Standard-Theme als Ersatz verwendet.
 category => Kategorie
 changeauthor => Autor ändern
 changecategory => Kategorie ändern
@@ -735,7 +735,7 @@ file_base_path => Datei-Upload-Pfad
 file_max_upload_size => Maximale Upload-Dateigröße (in Bytes)
 from_file => Installation einer lokalen Sprachdatei
 from_server => Installation über Remote-Server
-gmtoffset => Zeitzone
+gmtoffset => Zeitzone (Differenz zu GMT in Sekunden)
 ham => Alle außer Spam
 hours_days_ago => vor Stunden/Tagen
 id_title => /id/titel

@@ -1,4 +1,4 @@
-#@version 4.6.0;1474375123
+#@version 4.6.0;1475580360
 #@admin
 account_activation => Aktivujte svoj účet, prosím
 account_activation_confirmation => Použite nižšie uvedený odkaz k aktivácii vášho účtu a nastaveniu hesla.
@@ -188,7 +188,7 @@ body => Telo článku
 bs-ba => Bosanski
 ca-es => Català
 cancel => Zrušiť
-cannot_instantiate_theme => Inštalácia témy/vzhľadu <strong>{name}</strong> ({class}) zo súboru {path} zlyhala. Bude použitá štandardná téma/vzhľad.
+cannot_instantiate_theme => Tému vzhľadu <strong>{name}</strong> ({class}) sa zo súboru {path} nepodarilo správne načítať. Po aktualizácii stránky bude použité východzia téma vzhľadu.
 category => Kategoria
 changeauthor => Zmeniť autora
 changecategory => Zmeniť kategóriu
@@ -735,7 +735,7 @@ file_base_path => Cesta k súborom
 file_max_upload_size => Maximálna veľkosť súborov (v Bajtoch)
 from_file => Nainštalovať zo súboru
 from_server => Nainštalovať zo vzdialeného serveru
-gmtoffset => Časové pásmo
+gmtoffset => Časové pásmo (posun GMT v sekundách)
 ham => Všetko okrem spam-u
 hours_days_ago => dní/hodín pred
 id_title => /id/titulok

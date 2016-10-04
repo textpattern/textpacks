@@ -1,4 +1,4 @@
-#@version 4.6.0;1473236117
+#@version 4.6.0;1475580022
 #@admin
 account_activation => Sei pregato di attivare il tuo account
 account_activation_confirmation => Sei pregato di utilizzare il link qui sotto per attivare il tuo account e impostare una password.
@@ -188,7 +188,7 @@ body => Corpo
 bs-ba => Bosanski
 ca-es => Català
 cancel => Annulla
-cannot_instantiate_theme => Il tema <strong>{name}</strong> ({class}) non è stato caricato correttamente dal file {path}. Al suo posto verrà usato il tema predefinito.
+cannot_instantiate_theme => Il tema <strong>{name}</strong> ({class}) non è stato caricato correttamente dal file {path}. Al suo posto verrà usato il tema predefinito una volta aggiornata la pagina.
 category => Categoria
 changeauthor => Cambia autore
 changecategory => Cambia categoria
@@ -735,7 +735,7 @@ file_base_path => Percorso cartella per caricare i file
 file_max_upload_size => Dimensione massima consentita per i file (in byte)
 from_file => Installa da file
 from_server => Installa da server remoto
-gmtoffset => Fuso Orario
+gmtoffset => Fuso orario (differenza con GTM in secondi)
 ham => Sì, tranne quelli indesiderati (spam)
 hours_days_ago => ore/giorni fa
 id_title => /id/titolo

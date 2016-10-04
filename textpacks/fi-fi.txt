@@ -1,4 +1,4 @@
-#@version 4.6.0;1473181231
+#@version 4.6.0;1475579919
 #@admin
 account_activation => Ole hyvä ja aktivoi tilisi
 account_activation_confirmation => Ole hyvä ja käytä alla sijaitsevaa linkkiä aktivoidaksesi tilisi ja asettaaksesi salasanan.
@@ -188,7 +188,7 @@ body => Leipäteksti
 bs-ba => Bosanski
 ca-es => Català
 cancel => Peruuta
-cannot_instantiate_theme => Teemaa <strong>{name}</strong> ({class}) ei pystytty latamaan tiedostosta {path}. Teema vaihdetaan oletukseen.
+cannot_instantiate_theme => Teema <strong>{name}</strong> ({class}) ei latautunut kunnolla tiedostopolusta {path}. Päivittäessäsi tämän sivun tullaan käyttämään oletusteemaa.
 category => Kategoria
 changeauthor => Muuta tekijä
 changecategory => Muuta kategoria
@@ -735,7 +735,7 @@ file_base_path => Polku tiedostonsiirtoon
 file_max_upload_size => Suurin siirrettävä tiedostokoko (tavua)
 from_file => Asenna tiedostosta
 from_server => Asenna etäpalvelimelta
-gmtoffset => Aikavyöhyke
+gmtoffset => Aikavyöhyke (GMT:n offset-arvo sekunteina)
 ham => Kaikki mutta roskaposti
 hours_days_ago => tuntia/päivää sitten
 id_title => /id/otsikko
