@@ -1,4 +1,4 @@
-#@version 4.6.0;1473237220
+#@version 4.6.1;1473237220
 #@admin
 account_activation => 请激活您的帐号
 account_activation_confirmation => 请点击下面的链接来激活您的帐号并且设置密码

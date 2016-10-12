@@ -1,4 +1,4 @@
-#@version 4.6.0;1475579879
+#@version 4.6.1;1475579879
 #@admin
 account_activation => Veuillez activer votre compte
 account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
