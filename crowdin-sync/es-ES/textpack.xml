@@ -833,7 +833,7 @@
   <string name="email">Email</string>
   <string name="email_address">Dirección de email</string>
   <string name="emphasis">énfasis</string>
-  <string name="enter_comment_here"><strong>Escribe debajo tu comentario</strong>. Los campos marcados con <b class="required" title="Requerido">*</b>son obligatorios. Tienes que previsualizar tu comentario antes de enviarlo definitivamente.</string>
+  <string name="enter_comment_here"><strong>Escribe debajo tu comentario</strong>. Los campos marcados con <b class="required" title="Requerido">*</b> son obligatorios. Tienes que previsualizar tu comentario antes de enviarlo definitivamente.</string>
   <string name="error_article_context">Las etiquetas de artículo no se pueden usar fuera del contexto de un artículo.</string>
   <string name="error_category_context">Las etiquetas de categoría no se pueden usar fuera del contexto de una categoría.</string>
   <string name="error_comment_context">Las etiquetas de comentario no se pueden usar fuera del contexto de un comentario.</string>
