@@ -1,4 +1,4 @@
-#@version 4.6.1;1475580360
+#@version 4.6.2;1475580360
 #@admin
 account_activation => Aktivujte svoj účet, prosím
 account_activation_confirmation => Použite nižšie uvedený odkaz k aktivácii vášho účtu a nastaveniu hesla.

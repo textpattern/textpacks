@@ -1,4 +1,4 @@
-#@version 4.6.1;1473236478
+#@version 4.6.2;1473236478
 #@admin
 account_activation => Aktiviraj svoj nalog
 account_activation_confirmation => Aktiviraj svoj nalog i podesi lozinku putem linka.

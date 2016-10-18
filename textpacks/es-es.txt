@@ -1,4 +1,4 @@
-#@version 4.6.1;1475579713
+#@version 4.6.2;1476784265
 #@admin
 account_activation => Por favor, active su cuenta
 account_activation_confirmation => Por favor utilice el siguiente enlace para activar tu cuenta y crear una contraseña.
@@ -892,7 +892,7 @@ edit => Editar
 email => Email
 email_address => Dirección de email
 emphasis => énfasis
-enter_comment_here => <strong>Escribe debajo tu comentario</strong>. Los campos marcados con <b class="required" title="Requerido">*</b>son obligatorios. Tienes que previsualizar tu comentario antes de enviarlo definitivamente.
+enter_comment_here => <strong>Escribe debajo tu comentario</strong>. Los campos marcados con <b class="required" title="Requerido">*</b> son obligatorios. Tienes que previsualizar tu comentario antes de enviarlo definitivamente.
 error_article_context => Las etiquetas de artículo no se pueden usar fuera del contexto de un artículo.
 error_category_context => Las etiquetas de categoría no se pueden usar fuera del contexto de una categoría.
 error_comment_context => Las etiquetas de comentario no se pueden usar fuera del contexto de un comentario.

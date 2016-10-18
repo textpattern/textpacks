@@ -1,4 +1,4 @@
-#@version 4.6.1;1476259557
+#@version 4.6.2;1476259557
 #@admin
 account_activation => Lūdzu, aktivizējiet savu kontu
 account_activation_confirmation => Lūdzu izmantojiet saiti zemāk, lai aktivizētu savu kontu un iestatītu paroli.

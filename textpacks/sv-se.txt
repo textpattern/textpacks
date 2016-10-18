@@ -1,4 +1,4 @@
-#@version 4.6.1;1475581115
+#@version 4.6.2;1475581115
 #@admin
 account_activation => Aktivera ditt konto
 account_activation_confirmation => Använd länken nedan för att aktivera ditt konto och ställa in ett lösenord.

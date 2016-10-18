@@ -1,4 +1,4 @@
-#@version 4.6.1;1473236071
+#@version 4.6.2;1473236071
 #@admin
 account_activation => Silakan mengaktifkan akun Anda
 account_activation_confirmation => Silahkan mengunakan tautan dibawah ini untuk mengaktifkan akun anda dan mengatur sebuah kata sandi.
