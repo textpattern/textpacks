@@ -1,4 +1,4 @@
-#@version 4.6.2;1476259557
+#@version 4.6.2;1476949019
 #@admin
 account_activation => Lūdzu, aktivizējiet savu kontu
 account_activation_confirmation => Lūdzu izmantojiet saiti zemāk, lai aktivizētu savu kontu un iestatītu paroli.
@@ -121,7 +121,7 @@ url_title_is_multiple => Identisks URL virsraksts ir izmantots {count} citos ier
 view_html => Apskatīt HTML atzīmes
 view_html_short => HTML
 view_preview => Apskatīt rakstu
-view_preview_short => Priekšskatīt
+view_preview_short => Priekšskatījums
 view_text => Labot raksta tekstu
 view_text_short => Teksta
 write => Rakstīt
@@ -977,7 +977,7 @@ popup => uznirstošā logā
 post => Ieraksts
 posted => Ierakstīts
 posted_by => Ierakstīja
-press_preview_then_submit =>
+press_preview_then_submit => Šis ir tava komentāra priekšskatījums. Kad viss izskatās kārtībā, spied uz <strong><a href="#txpCommentSubmit" title="Pāriet uz iesniegšanas pogu">iesniegšanas</a></strong> pogas.
 prev => Iepriekšējais
 preview => Priekšskatīt
 publish => Publicēt
