@@ -124,7 +124,7 @@
   <string name="view_html">Apskatīt HTML atzīmes</string>
   <string name="view_html_short">HTML</string>
   <string name="view_preview">Apskatīt rakstu</string>
-  <string name="view_preview_short">Priekšskatīt</string>
+  <string name="view_preview_short">Priekšskatījums</string>
   <string name="view_text">Labot raksta tekstu</string>
   <string name="view_text_short">Teksta</string>
   <string name="write">Rakstīt</string>
@@ -918,7 +918,7 @@
   <string name="post">Ieraksts</string>
   <string name="posted">Ierakstīts</string>
   <string name="posted_by">Ierakstīja</string>
-  <string name="press_preview_then_submit">The following is a preview of what your comment will look like. When you are happy with your comment, use the <strong><a href="#txpCommentSubmit" title="Go to the submit button">submit</a></strong> button.</string>
+  <string name="press_preview_then_submit">Šis ir tava komentāra priekšskatījums. Kad viss izskatās kārtībā, spied uz <strong><a href="#txpCommentSubmit" title="Pāriet uz iesniegšanas pogu">iesniegšanas</a></strong> pogas.</string>
   <string name="prev">Iepriekšējais</string>
   <string name="preview">Priekšskatīt</string>
   <string name="publish">Publicēt</string>
