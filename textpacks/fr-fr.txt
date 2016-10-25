@@ -1,4 +1,4 @@
-#@version 4.6.2;1475579879
+#@version 4.6.2;1477398240
 #@admin
 account_activation => Veuillez activer votre compte
 account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
@@ -592,7 +592,7 @@ import_blogid => ID du Blog
 import_database => Nom de la base de données
 import_file_not_found => Fichier d’importation non trouvé. Veuillez renommer le fichier en <code>import.txt</code> et le placer dans le répertoire <code>/textpattern/include/import/</code>.
 import_host => Adresse du serveur MySQL
-import_invite => Invite à commenter
+import_invite => Invitación a comentar por defecto
 import_login => Nom d’utilisateur MySQL
 import_password => Mot de passe MySQL
 import_section => Choix de la section
@@ -950,7 +950,7 @@ missing_article_tag => Le gabarit <strong>{page}</strong> ne contient pas de bal
 modified_by => Dernière modification par
 month => Mois
 more => Plus
-name => Nom
+name => Identifiant
 never => jamais
 newer => Plus récents
 next => Suivant
@@ -1227,7 +1227,7 @@ tag_category2 => Catégorie 2
 tag_category_list => Liste des catégories
 tag_comments => Commentaires
 tag_comments_form => Module
-tag_comments_invite => Invite de commentaires
+tag_comments_invite => Invitación a comentar
 tag_comments_preview => Prévisualisation
 tag_comment_anchor => Ancre
 tag_comment_email => Email
