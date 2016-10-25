@@ -540,7 +540,7 @@
   <string name="import_database">Nombre de la base de datos</string>
   <string name="import_file_not_found">Archivo a importar no encontrado. Por favor, llama al archivo <code>import.txt</code> y colócalo en <code>/textpattern/include/import/</code>.</string>
   <string name="import_host">Host MySQL</string>
-  <string name="import_invite">Invitación por defecto para los comentarios</string>
+  <string name="import_invite">Invitación a comentar por defecto</string>
   <string name="import_login">Usuario MySQL</string>
   <string name="import_password">Contraseña MySQL</string>
   <string name="import_section">Sección a la que quieres importar</string>
@@ -1163,7 +1163,7 @@
   <string name="tag_category_list">Lista de categorías</string>
   <string name="tag_comments">Comentarios</string>
   <string name="tag_comments_form">Bloque de comentarios</string>
-  <string name="tag_comments_invite">Invitación a comentarios</string>
+  <string name="tag_comments_invite">Invitación a comentar</string>
   <string name="tag_comments_preview">Previsualización de comentarios</string>
   <string name="tag_comment_anchor">Ancla de comentario</string>
   <string name="tag_comment_email">Email de comentario</string>

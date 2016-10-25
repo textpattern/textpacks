@@ -419,7 +419,7 @@
   <string name="cant_ban_blank_ip">Nevar liegt pieeju tukšai IP adresei.</string>
   <string name="comments_deleted">Komentāri dzēsti: <strong>{list}</strong>.</string>
   <string name="comments_marked_spam">Komentāri paslēpti un atzīmēti kā mēstules: <strong>{list}</strong>.</string>
-  <string name="comments_marked_unmoderated">Comments hidden and marked as unmoderated: <strong>{list}</strong>.</string>
+  <string name="comments_marked_unmoderated">Paslēptie un nemoderētie komentāri: <strong>{list}</strong>.</string>
   <string name="comments_marked_visible">Komentāri padarīti redzami: <strong>{list}</strong>.</string>
   <string name="comment_not_found">Komentārs neeksistē, tas jau var būt dzēsts.</string>
   <string name="comment_save_failed">Komentārs netika saglabāts, jo gadījās kļūda. Lūdzu, mēģiniet vēlreiz.</string>
@@ -1044,7 +1044,7 @@
   <string name="next_step">Nākamais</string>
   <string name="pass_required">Lūdzu, ievadiet sarežģītu paroli.</string>
   <string name="please_enter_url">Lūdzu, norādiet adresi, pēc kuras lapa būs sasniedzama.</string>
-  <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
+  <string name="please_go_back">Lūdzu, atgriezieties, salabojiet nepareizo informāciju un mēģiniet procesu vēlreiz.</string>
   <string name="populate_db">Aizpildiet datubāzi</string>
   <string name="prefix_bad_characters">Tabulu priedēklis {dbprefix} satur simbolus, kas nav atļauti. Pirmajam simbolam ir jābūt latīņu burtam no <strong>a-zA-Z_</strong> (ieskaitot mazos burtus) un turpmāki simboli bez latīņu burtiem drīkst saturēt arī ciparus <strong>a-zA-Z0-9_</strong>.</string>
   <string name="prefix_warning">(Izmantojiet priedēkli TIKAI gadījumā, ja lietojat datubāzi dažādiem mērķiem)</string>
