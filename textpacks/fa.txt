@@ -138,7 +138,6 @@ article_category_invalid => رده‌نوشته <strong>{name}</strong> نامع
 article_category_name => نام رده نوشته
 article_category_title => عنوان رده نوشته
 article_category_updated => رده‌نوشته <strong>{name}</strong> بهنگام شد.
-article_head => رده‌های مربوط به نوشته‌ها
 categories_set_parent => {list} اختصاص داده شده به {type} دسته مادر {parent}
 category_not_found => رده یافت نشد
 category_save_failed => رده به دلیل بروز خطا ذخیره نشد. لطفا دوباره تلاش کنید.
@@ -152,7 +151,6 @@ file_category_invalid => رده‌فایل <strong>{name}</strong> نامعتب�
 file_category_name => نام رده فایل
 file_category_title => عنوان رده فایل
 file_category_updated => رده‌فایل <strong>{name}</strong> بهنگام شد.
-file_head => رده‌های مربوط به فایل‌ها
 image_categories_deleted => این رده‌های تصاویر پاک شدند : <strong>{list}</strong>
 image_category_already_exists => رده‌تصویر <strong>{name}</strong> از پیش موجود است.
 image_category_created => رده‌تصویر <strong>{name}</strong> ساخته شد.
@@ -161,7 +159,6 @@ image_category_invalid => رده‌تصویر <strong>{name}</strong> نامعت
 image_category_name => نام رده تصویر
 image_category_title => عنوان رده تصویر
 image_category_updated => رده تصویر <strong>{name}</strong> بهنگام شد.
-image_head => رده‌های مربوط به تصاویر
 link_categories_deleted => این رده‌های لینک پاک شدند : <strong>{list}</strong>
 link_category_already_exists => رده‌لینک <strong>{name}</strong> از پیش موجود است.
 link_category_created => رده‌لینک <strong>{name}</strong> ساخته شد.
@@ -170,7 +167,6 @@ link_category_invalid => رده‌لینک <strong>{name}</strong> نامعتب�
 link_category_name => نام رده لینک
 link_category_title => عنوان رده لینک
 link_category_updated => رده‌لینک <strong>{name}</strong> بهنگام شد.
-link_head => رده‌های مربوط به لینک‌ها
 no_categories_exist => چیزی وجود ندارد.
 no_other_categories_exist => رده دیگری موجود نیست.
 parent => والد
