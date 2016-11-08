@@ -110,7 +110,6 @@ invalid_postdate => Neispravan datum i vreme.
 linktext => linktext(title)
 meta => Meta
 no_articles_recorded => Nijedan unos nije snimljen.
-or_publish_at => …ili objavi dana
 override_default_form => Forma samo za ovaj unos
 pending => Čeka odobrenje
 reset_time => Resetuj vreme za trenutno

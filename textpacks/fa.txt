@@ -110,7 +110,6 @@ invalid_postdate =>
 linktext => linktext
 meta => متاتگ
 no_articles_recorded => هیچ نوشته‌ای ثبت نشده است.
-or_publish_at => … یا منتشر شود در
 override_default_form => تحریف فرم با
 pending => منتظر برای ارسال
 reset_time => تغییر زمان به حال

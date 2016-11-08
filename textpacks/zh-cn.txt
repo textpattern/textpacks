@@ -110,7 +110,6 @@ invalid_postdate => 无效时间和日期
 linktext => 链接说明（链接的 title）
 meta => 元数据（HTML 中的 Meta）
 no_articles_recorded => 没有文章记录。
-or_publish_at => ……或以下列时间发表
 override_default_form => 覆盖默认文章模块
 pending => 待审
 reset_time => 重设时间到此刻……

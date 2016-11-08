@@ -110,7 +110,6 @@ invalid_postdate =>
 linktext => ربطی متن
 meta => Meta
 no_articles_recorded => کوئی مضمون دستیاب نہیں
-or_publish_at => یا یہ وقت پر شائع کریں
 override_default_form => فارم زیر کریں
 pending => تذبذب حالیہ
 reset_time => حالیہ وقت پر پھر سیٹ کریں

@@ -110,7 +110,6 @@ invalid_postdate => Ugyldig dato eller klokkeslett.
 linktext => lenketekst
 meta => Meta
 no_articles_recorded => Ingen artikler finnes.
-or_publish_at => …eller publiser til
 override_default_form => Overstyr skjema
 pending => Publiseringsklar
 reset_time => Nullstill tid til nå

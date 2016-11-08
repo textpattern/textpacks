@@ -110,7 +110,6 @@ invalid_postdate =>
 linktext => 鏈結文字
 meta => Meta
 no_articles_recorded => 目前沒有文章.
-or_publish_at => 或以自訂時間發佈
 override_default_form => 覆蓋預設模型
 pending => 待審
 reset_time => 重設發表時間為現在

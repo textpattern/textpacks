@@ -110,7 +110,6 @@ invalid_postdate => 無効な投稿日時
 linktext => リンクテキスト
 meta => メタ
 no_articles_recorded => 記事が保存されていません。
-or_publish_at => …投稿日時
 override_default_form => デフォルトフォームの上書き
 pending => 保留
 reset_time => 現時刻にリセット…
