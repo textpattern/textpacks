@@ -71,7 +71,6 @@ show_password => Mostrar contraseña
 site_administration => Usuarios
 staff_writer => Redactor de plantilla
 unknown_author => Autor desconocido: <strong>{name}</strong>.
-writer => Redactor
 your_login_info => Tu información de acceso
 your_login_is => Tu nombre de acceso es
 your_new_password => Tu nueva contraseña

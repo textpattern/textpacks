@@ -71,7 +71,6 @@ show_password => 显示密码
 site_administration => 用户
 staff_writer => 撰稿人
 unknown_author => 未知作者： <strong>{name}</strong> 。
-writer => 作家
 your_login_info => 您的登录信息
 your_login_is => 您的登录帐号
 your_new_password => 您的新密码

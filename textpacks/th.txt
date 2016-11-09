@@ -71,7 +71,6 @@ show_password =>
 site_administration => ดูแลเว็บไซต์
 staff_writer => นักเขียนสต๊าฟ
 unknown_author => ไม่ทราบผู้แต่ง: <strong>{name}</strong>
-writer => ผู้เขียน
 your_login_info => ข้อมูลเพื่อเข้าระบบ
 your_login_is => ชื่อล็อกอินของคุณคือ
 your_new_password => รหัสผ่านใหม่ของคุณคือ

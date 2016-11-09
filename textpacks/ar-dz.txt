@@ -71,7 +71,6 @@ show_password => إظهار كلمة السر
 site_administration => إدارة
 staff_writer => محرر متقدم
 unknown_author => مؤلف مجهول :{name}
-writer => مؤلف
 your_login_info => معلوماتكم الخاصة بالاتصال
 your_login_is => اسم الاتصال الخاص بكم هو
 your_new_password => كلمة السر الجديدة الخاصة بكم

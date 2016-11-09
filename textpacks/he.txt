@@ -71,7 +71,6 @@ show_password =>
 site_administration => ניהול האתר
 staff_writer => צוות הכותבים
 unknown_author => כותב לא ידוע: <strong>{name}</strong>.
-writer => כותב
 your_login_info => מידע ההתחברות שלך
 your_login_is => שם המשתמש שלך הוא
 your_new_password => הסיסמה החדשה שלך היא

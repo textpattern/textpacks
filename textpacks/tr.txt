@@ -71,7 +71,6 @@ show_password =>
 site_administration => Kullanıcılar
 staff_writer => Yardımcı yazar
 unknown_author =>
-writer => Yazar
 your_login_info => Giriş bilgileriniz
 your_login_is => Your login is
 your_new_password => Yeni şifreniz

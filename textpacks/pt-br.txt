@@ -71,7 +71,6 @@ show_password => Mostrar senha
 site_administration => Configuração
 staff_writer => Escritor
 unknown_author => Autor desconhecido: <strong>{name}</strong>.
-writer => Escritor
 your_login_info => A sua informação de acesso
 your_login_is => O seu nome de acesso é
 your_new_password => A sua nova senha

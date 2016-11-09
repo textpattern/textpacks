@@ -71,7 +71,6 @@ show_password => Pokaż hasło
 site_administration => Administracja witryny
 staff_writer => Redaktor
 unknown_author => Nieznany autor: <strong>{name}</strong>.
-writer => Autor
 your_login_info => Informacja o Twoim koncie
 your_login_is => Twoja nazwa użytkownika:
 your_new_password => Twoje nowe hasło:

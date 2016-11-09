@@ -71,7 +71,6 @@ show_password =>
 site_administration => Người dùng
 staff_writer => Người viết chuyên trách
 unknown_author => Không biết tác giả: <strong>{name}</strong>.
-writer => Người viết
 your_login_info => Thông tin đăng nhập của bạn
 your_login_is => Tên đăng nhập là
 your_new_password => Mật khẩu mới của bạn

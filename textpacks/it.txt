@@ -71,7 +71,6 @@ show_password => Mostra la password
 site_administration => Gestione sito (Utenti)
 staff_writer => Editorialista
 unknown_author => Autore sconosciuto: <strong>{name}</strong>.
-writer => Redattore
 your_login_info => I tuoi dati di accesso
 your_login_is => Il tuo nome utente è
 your_new_password => La tua nuova password

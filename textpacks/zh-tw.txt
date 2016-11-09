@@ -71,7 +71,6 @@ show_password =>
 site_administration => 作者
 staff_writer => 撰稿人
 unknown_author =>
-writer => 作家
 your_login_info => 您的註冊訊息
 your_login_is => 您註冊帳號
 your_new_password => 您的新密碼

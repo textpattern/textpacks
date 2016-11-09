@@ -71,7 +71,6 @@ show_password => Εμφάνιση κωδικού
 site_administration => Χρήστες
 staff_writer => Μόνιμος συντάκτης
 unknown_author => Άγνωστος χρήστης: <strong>{name}</strong>.
-writer => Συγγραφέας
 your_login_info => Οι πληροφορίες για την πρόσβασή σας
 your_login_is => Το όνομα χρήστη σας είναι
 your_new_password => Ο νέος σας κωδικός πρόσβασης

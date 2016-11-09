@@ -71,7 +71,6 @@ show_password =>
 site_administration => Weblap adminsztráció
 staff_writer => Író tag
 unknown_author => Ismeretlen szerző: <strong>{name}</strong>
-writer => Író
 your_login_info => Belépési adataid
 your_login_is => Login neved
 your_new_password => Új jelszavad

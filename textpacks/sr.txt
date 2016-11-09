@@ -71,7 +71,6 @@ show_password => Prikaži lozinku
 site_administration => Korisnici
 staff_writer =>
 unknown_author => Nepoznati autor: <strong>{name}</strong>.
-writer => Pisac
 your_login_info => Vaš login info
 your_login_is => Vaš login je
 your_new_password => Vaša nova lozinka

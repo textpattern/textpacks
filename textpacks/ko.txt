@@ -71,7 +71,6 @@ show_password =>
 site_administration => 글쓴이
 staff_writer => 전담 필자
 unknown_author => 알수 없는 글쓴이 : <strong>{name}</strong>
-writer => 필자
 your_login_info => 로그인 정보
 your_login_is => 로그인 id
 your_new_password => 새 비밀번호

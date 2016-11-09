@@ -71,7 +71,6 @@ show_password =>
 site_administration => صارفین
 staff_writer => اندرونی مصنف
 unknown_author => نامعلوم مصنف: <strong>{name}</strong>
-writer => مصنف
 your_login_info => آپ کے لاگ ان معلومات
 your_login_is => آپ کا لاگ ان نام
 your_new_password => آپ کا نیا ‏پاس ورڈ‏

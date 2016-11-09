@@ -71,7 +71,6 @@ show_password => Visa lösenord
 site_administration => Användare
 staff_writer => Redaktionsmedarbetare
 unknown_author => Okänd skribent: {name}
-writer => Skribent
 your_login_info => Din inloggningsinformation
 your_login_is => Ditt inloggning är
 your_new_password => Ditt nya lösenord

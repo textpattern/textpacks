@@ -71,7 +71,6 @@ show_password => Показати пароль
 site_administration => Користувачі
 staff_writer => Штатний дописувач
 unknown_author => Невідомий автор: <strong>{name}</strong>.
-writer => Дописувач
 your_login_info => Ваша реєстраційна інформація
 your_login_is => Ваш логін
 your_new_password => Ваш новий пароль

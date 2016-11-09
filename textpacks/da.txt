@@ -71,7 +71,6 @@ show_password =>
 site_administration => Side Administration
 staff_writer => Fast skribent
 unknown_author => Ukendt forfatter: <strong>{name}</strong>.
-writer => Skribent
 your_login_info => Dine logind info
 your_login_is => Dit brugernavn er
 your_new_password => Dit nye kodeord

@@ -71,7 +71,6 @@ show_password =>
 site_administration => Usuaris
 staff_writer => Redactor en plantilla
 unknown_author => Autor desconegut: <strong>{name}</strong>.
-writer => Redactor
 your_login_info => La teva informació d’accés
 your_login_is => El teu nom d’usuari és
 your_new_password => La teva nova contrasenya

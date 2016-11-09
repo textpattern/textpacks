@@ -71,7 +71,6 @@ show_password => Zobraziť heslo
 site_administration => Správa stránok
 staff_writer => Redakčný autor
 unknown_author => Neznámy autor: <strong>{name}</strong>.
-writer => Autor
 your_login_info => Prihlasovacie údaje
 your_login_is => Meno užívateľa je
 your_new_password => Nové heslo je

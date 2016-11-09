@@ -71,7 +71,6 @@ show_password => Afficher le mot de passe
 site_administration => Administration
 staff_writer => Rédacteur avancé
 unknown_author => Auteur <strong>{name}</strong> inconnu.
-writer => Auteur
 your_login_info => Vos informations de connexion
 your_login_is => Votre nom de connexion (login) est
 your_new_password => Votre nouveau mot de passe

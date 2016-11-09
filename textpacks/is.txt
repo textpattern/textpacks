@@ -71,7 +71,6 @@ show_password =>
 site_administration => Stjórnandi vefs
 staff_writer => Innanhúss höfundur
 unknown_author =>
-writer => Höfundur
 your_login_info => Þínar aðgangsupplýsingar
 your_login_is => Þinn aðgangur er
 your_new_password => Nýja aðgangsorðið þitt

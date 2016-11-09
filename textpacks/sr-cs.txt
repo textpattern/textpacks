@@ -71,7 +71,6 @@ show_password =>
 site_administration => Корисници
 staff_writer => Редакцијски писац
 unknown_author => Непознати аутор: <strong>{name}</strong>.
-writer => Писац
 your_login_info => Ваш login инфо
 your_login_is => Ваша пријава је
 your_new_password => Ваша нова лозинка

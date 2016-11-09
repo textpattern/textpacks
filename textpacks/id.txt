@@ -71,7 +71,6 @@ show_password =>
 site_administration => Pengguna
 staff_writer => Staf penulis
 unknown_author => Penulis tak dikenal: <strong>{name}</strong>.
-writer => Penulis
 your_login_info => Informasi login Anda
 your_login_is => Login Anda adalah
 your_new_password => Katasandi baru Anda

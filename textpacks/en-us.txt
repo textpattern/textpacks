@@ -71,7 +71,6 @@ show_password => Show password
 site_administration => Users
 staff_writer => Staff Writer
 unknown_author => Unknown author: <strong>{name}</strong>.
-writer => Writer
 your_login_info => Your login info
 your_login_is => Your login is
 your_new_password => Your new password

@@ -71,7 +71,6 @@ show_password =>
 site_administration => Naudotojai
 staff_writer => Etatinis rašytojas
 unknown_author => Nežinomas autorius: <strong>{name}</strong>.
-writer => Rašytojas
 your_login_info => Jūsų prisijungimo informacija
 your_login_is => Jūsų prisijungimo vardas yra
 your_new_password => Jūsų naujas slaptažodis

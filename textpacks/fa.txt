@@ -71,7 +71,6 @@ show_password =>
 site_administration => کاربران
 staff_writer => عضو تحریریه
 unknown_author => نویسنده ناشناس : <strong>{name}</strong>
-writer => نویسنده
 your_login_info => اطلاعات ورود شما
 your_login_is => مشخصات ورود شما
 your_new_password => گذرواژه جدید شما

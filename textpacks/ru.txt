@@ -71,7 +71,6 @@ show_password => Показать пароль
 site_administration => Администрирование сайтом
 staff_writer => Штатный писатель
 unknown_author => Неизвестный автор: <strong>{name}</strong>.
-writer => Писатель
 your_login_info => Ваша регистрационная информация
 your_login_is => Ваш логин
 your_new_password => Ваш новый пароль

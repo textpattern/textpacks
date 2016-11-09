@@ -71,7 +71,6 @@ show_password =>
 site_administration => Adminstración da bitácora
 staff_writer => Escritor en plantel
 unknown_author => Autor descoñecido: <strong>{name}</strong>
-writer => Escritor
 your_login_info => A túa información de acceso
 your_login_is => O teu nome de acceso
 your_new_password => O teu novo contrasinal

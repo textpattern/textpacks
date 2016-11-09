@@ -71,7 +71,6 @@ show_password =>
 site_administration => Utilizatori
 staff_writer => Autor Sef
 unknown_author => Autor necunoscut: <strong>{name}</strong>.
-writer => Autor
 your_login_info => Detaliile tale de autentificare
 your_login_is => Username-ul tau este
 your_new_password => Noua ta parola este

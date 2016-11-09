@@ -71,7 +71,6 @@ show_password =>
 site_administration => Korisnici
 staff_writer => Redakcijski Pisac
 unknown_author =>
-writer => Pisac
 your_login_info => Vaš login info
 your_login_is => Vaša prijava je
 your_new_password => Vaša nova lozinka

@@ -71,7 +71,6 @@ show_password =>
 site_administration => Lehe administreerimine
 staff_writer => Asjade kirjutaja
 unknown_author =>
-writer => Kirjutaja
 your_login_info => Sinu login info
 your_login_is => Sinu login on
 your_new_password => Sinu uus parool on

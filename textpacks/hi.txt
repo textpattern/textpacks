@@ -71,7 +71,6 @@ show_password =>
 site_administration =>
 staff_writer =>
 unknown_author =>
-writer =>
 your_login_info =>
 your_login_is =>
 your_new_password =>

@@ -71,7 +71,6 @@ show_password =>
 site_administration => ユーザの管理
 staff_writer => 執筆スタッフ
 unknown_author => 不明なユーザ: <strong>{name}</strong>
-writer => 執筆者
 your_login_info => あなたのログイン情報
 your_login_is => あなたのログインは
 your_new_password => 新しいパスワード

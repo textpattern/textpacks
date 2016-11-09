@@ -71,7 +71,6 @@ show_password =>
 site_administration => Потребители
 staff_writer => Щатен писател
 unknown_author => Неизвестен автор: <strong>{name}</strong>
-writer => Писател
 your_login_info => Вашата потребителска информация
 your_login_is => Вашето потребителско име е
 your_new_password => Вашата нова парола е

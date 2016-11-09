@@ -71,7 +71,6 @@ show_password => Rādīt paroli
 site_administration => Lapas administrācija
 staff_writer => Štata rakstnieks
 unknown_author => Nezināms autors: <strong>{name}</strong>.
-writer => Rakstnieks
 your_login_info => Jūsu pieejas dati
 your_login_is => Jūsu lietotāja vārds ir
 your_new_password => Jūsu jaunā parole

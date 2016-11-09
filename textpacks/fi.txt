@@ -71,7 +71,6 @@ show_password => Näytä salasana
 site_administration => Sivuston hallinta
 staff_writer => Rivitoimittaja
 unknown_author => Tuntematon tekijä: <strong>{name}</strong>.
-writer => Toimittaja
 your_login_info => Kirjautumistietosi
 your_login_is => Kirjautumisnimesi on
 your_new_password => Uusi salasanasi

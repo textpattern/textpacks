@@ -71,7 +71,6 @@ show_password => Zobrazit heslo
 site_administration => Správa serveru
 staff_writer => Redakční autor
 unknown_author => Neznámý autor: <strong>{name}</strong>.
-writer => Autor
 your_login_info => Přihlašovací údaje
 your_login_is => Jméno uživatele je
 your_new_password => Nové heslo je
