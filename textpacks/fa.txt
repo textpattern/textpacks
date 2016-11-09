@@ -538,22 +538,6 @@ upload_category => رده
 upload_dir_perms => نیاز به چک کردن مجوزهای پوشه
 upload_image => آپلود تصویر
 upload_thumbnail => آپلود تصویر کوچک
-#@import
-continue => ادامه
-database_stuff => داده پایگاه داده
-import_blogid => شناسه وبلاگ
-import_database => نام پایگاه داده
-import_file_not_found => فایل ورودی یافت نشد. لطفاً نام فایل را <code dir="ltr">import.txt</code> گذاشته و آن را در مسیر <code dir="ltr">/textpattern/include/import/</code> قرار دهید.
-import_host => میزبان MySQL
-import_invite => متن پیش‌فرض دعوت به نظردهی
-import_login => نام کاربری MySQL
-import_password => گذرواژه MySQL
-import_section => بخشی که باید در آن وارد شود
-import_status => وضعیت پیش‌فرض نوشته‌ها
-import_wpdbcharset => مجموعه نویسه پایگاه داده
-import_wpprefix => پیشوند جدول‌ها (if any)
-select_tool => وارد ساختن از
-txp_import => وارد کردن محتوا از دیگر ابزارهای نشر
 #@link
 add_new_link => افزودن لینک نو
 edit_link => ویرایش لینک

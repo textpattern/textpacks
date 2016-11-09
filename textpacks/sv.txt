@@ -538,22 +538,6 @@ upload_category => Kategori
 upload_dir_perms => Katalogrättigheter behöver kontrolleras
 upload_image => Ladda upp bild
 upload_thumbnail => Ladda upp tumnagelbild
-#@import
-continue => Fortsätt
-database_stuff => Databasdata
-import_blogid => Webblog-ID
-import_database => Databasnamn
-import_file_not_found => Importfil hittades inte. Var god namnge filen <code>import.txt</code> och placera den i <code>/textpattern/include/import/</code>
-import_host => MySQL-värd
-import_invite => Förvald kommentarsinbjudan
-import_login => MySQL-användare
-import_password => MySQL-lösenord
-import_section => Avdelning att importera till
-import_status => Förvald artikelstatus
-import_wpdbcharset => Databas-teckenkodning
-import_wpprefix => Ev. tabellprefix
-select_tool => Importera från
-txp_import => Importera innehåll från andra publiceringsverktyg
 #@link
 add_new_link => Lägg till ny länk
 edit_link => Redigera länk

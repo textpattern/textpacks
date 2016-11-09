@@ -538,22 +538,6 @@ upload_category => Категория
 upload_dir_perms => проверьте права доступа к директории.
 upload_image => Загрузить картинку
 upload_thumbnail => Загрузить уменьшенную картинку
-#@import
-continue => Далее
-database_stuff => Данные базы данных
-import_blogid => Блог ID
-import_database => Название базы данных
-import_file_not_found => Файл для импорта не найден. Назовите файл <code>import.txt</code> и поместите его в <code>/textpattern/include/import/</code>.
-import_host => MySQL хост
-import_invite => Приглашение для комментариев по умолчанию
-import_login => MySQL пользователь
-import_password => MySQL пароль
-import_section => Секция в которую импортировать
-import_status => Статус статьи по умолчанию
-import_wpdbcharset => Кодировка базы данных
-import_wpprefix => Префикс таблиц (если есть)
-select_tool => Импортировать из
-txp_import => Импортировать содержание из другой системы публикации
 #@link
 add_new_link => Добавить новую ссылку
 edit_link => Редактировать ссылку

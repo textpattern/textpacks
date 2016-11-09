@@ -538,22 +538,6 @@ upload_category => Kategori
 upload_dir_perms => perizinan direktori perlu diperiksa.
 upload_image =>
 upload_thumbnail => Unggah gambar-kecil
-#@import
-continue => Lanjutkan
-database_stuff => Data Basis-data
-import_blogid => ID blog
-import_database => Nama Basis-data
-import_file_not_found => Berkas diimpor tidak ketemu. Mohon beri nama berkas dengan <code>import.txt</code> dan tempatkan di <code>/textpattern/include/import/</code>.
-import_host => Host MySQL
-import_invite => Undangan komentar standar
-import_login => User MySQL
-import_password => Katasandi MySQL
-import_section => Seksi tempat impor ke
-import_status => Status artikel standar
-import_wpdbcharset =>
-import_wpprefix => Awalan tabel (jika ada)
-select_tool => Impor dari
-txp_import => Impor konten dari alat publikasi lain
 #@link
 add_new_link =>
 edit_link =>

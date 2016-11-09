@@ -538,22 +538,6 @@ upload_category => Flokkur
 upload_dir_perms =>
 upload_image =>
 upload_thumbnail => Uphlaða smámynd
-#@import
-continue =>
-database_stuff => Gagnagrunns data
-import_blogid => Blog ID
-import_database => Nafn gagnagrunns
-import_file_not_found => Innfluttningsskrá fannst ekki. Vinsamlegast skýrðu skránna <code>import.txt</code> og settu hana í <code>/textpattern/include/import/</code>.
-import_host => MySQL host
-import_invite => Sjálfgildi innboðs í skoðanir
-import_login => MySQL notandi
-import_password => MySQL aðgangsorð
-import_section => Hluti til að innfæra í
-import_status => Sjálfgildi greina stöðu
-import_wpdbcharset =>
-import_wpprefix => Töflu prefix (ef er)
-select_tool => Innfæra frá
-txp_import => Innfæra efni frá öðrum vefumsjónarkerfum
 #@link
 add_new_link =>
 edit_link =>

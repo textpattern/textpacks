@@ -538,22 +538,6 @@ upload_category => زمرہ
 upload_dir_perms => پوشہ کی اجازت پڑتال کر رہا ہے
 upload_image => تصویر اپ لوڈ کریں
 upload_thumbnail => تصویر صغیر اپ لوڈ کریں
-#@import
-continue => آگے چلیں
-database_stuff => ڈیٹابیس معلومات
-import_blogid => بلاگ ID
-import_database => ڈیٹابیس نام
-import_file_not_found => درآمد فائل موجود نہیں، بارہ مہربانی اس فائل کا نام <code dir="ltr">import.txt</code> رکھیں اور <code dir="ltr">/textpattern/include/import/</code> پوشہ میں شامل کریں
-import_host => MySQL سرور
-import_invite => تبصرہ کرنے کی ‏طمع
-import_login => MySQL نام صارف
-import_password => MySQL پاس ورڈ
-import_section => کس صیغہ میں درآمد کریں ؟
-import_status => مضامین کے صورت حال
-import_wpdbcharset =>
-import_wpprefix => جدول سابقہ - اگر ہو تو
-select_tool => کس اشاعت کار سے درآمد کریں ؟
-txp_import => دوسرے اشاعت کار سے درآمد کریں
 #@link
 add_new_link =>
 edit_link =>

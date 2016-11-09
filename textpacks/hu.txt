@@ -538,22 +538,6 @@ upload_category => Kategória
 upload_dir_perms => könytár hozzáférési jogait ellenőrizd, kérlek.
 upload_image => Kép feltöltése
 upload_thumbnail => Előkép feltöltése
-#@import
-continue => Folytatás
-database_stuff => Adatbáis adat
-import_blogid => Blog ID
-import_database => Adatbázis név
-import_file_not_found => Az importálandó állomány nem létezik. Kérlek, az állomány neve <code>import.txt</code> legyen és a <code>/textpattern/include/import/</code> könyvtárban legyen!
-import_host => MySQL hoszt
-import_invite => Alapértelmezett meghívó a megjegyzésekhez
-import_login => MySQL felhasználónév
-import_password => MySQL jelszó
-import_section => Szekció importálása a következő helyre:
-import_status => Alapértelmezett cikk állapot
-import_wpdbcharset =>
-import_wpprefix => Táblanév prefix (ha szükséges)
-select_tool => Importálás innen:
-txp_import => Tartalom importálása más publikáció kezelő rendszerekből
 #@link
 add_new_link =>
 edit_link =>

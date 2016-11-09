@@ -538,22 +538,6 @@ upload_category => Categorie
 upload_dir_perms => De toegangsrechten voor deze map moeten gecontroleerd worden.
 upload_image => Afbeelding uploaden
 upload_thumbnail => Upload mini-afbeelding
-#@import
-continue => Ga door
-database_stuff => Databasegegevens
-import_blogid => Blog ID
-import_database => Databasenaam
-import_file_not_found => Importbestand niet gevonden. Noem het bestand <code>import.txt</code> en plaats het in <code>/textpattern/include/import/</code>.
-import_host => MySQL host
-import_invite => Standaard uitnodiging voor reacties
-import_login => MySQL gebruiker
-import_password => MySQL wachtwoord
-import_section => Importeren naar sectie
-import_status => Status artikelen na import
-import_wpdbcharset => Tekenset van de database
-import_wpprefix => Tabel prefix (indien nodig)
-select_tool => Importeren van
-txp_import => Inhoud van ander (blog) CMS importeren
 #@link
 add_new_link => Nieuwe link toevoegen
 edit_link => Link wijzigen

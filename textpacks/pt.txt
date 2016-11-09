@@ -538,22 +538,6 @@ upload_category => Categoria de imagem
 upload_dir_perms => As permissões da pasta precisam de ser verificadas.
 upload_image => Subir imagem
 upload_thumbnail => Subir miniatura
-#@import
-continue => Continuar
-database_stuff => Dados da base de dados
-import_blogid => Blog ID
-import_database => Nome da base de dados
-import_file_not_found => Ficheiro de importação não encontrado. Por favor, mude o nome do ficheiro para <code>import.txt</code> e coloque-o em <code>/textpattern/include/import/</code>.
-import_host => Servidor MySQL
-import_invite => Convite para os comentários (por defeito)
-import_login => Utilizador MySQL
-import_password => Senha MySQL
-import_section => Secção para a qual quer importar
-import_status => Estado dos artigos importados (por defeito)
-import_wpdbcharset => Conjunto de caracteres da base de dados
-import_wpprefix => Prefixo das tabelas (caso as use)
-select_tool => Importar desde
-txp_import => Importar contéudos a partir de outras ferramentas de publicação
 #@link
 add_new_link => Adiciona novo link
 edit_link => Edita link

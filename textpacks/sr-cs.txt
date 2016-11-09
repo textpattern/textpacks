@@ -538,22 +538,6 @@ upload_category => Категорија
 upload_dir_perms =>
 upload_image => Замени слику
 upload_thumbnail => Замени малу слику
-#@import
-continue => Настави
-database_stuff => Подаци базе
-import_blogid => Blog ID
-import_database => Име базе
-import_file_not_found => Импорт фајл није пронађен. Молимо назовите датотеку <code>import.txt</code> и сачувајте је у <code>/textpattern/include/import/</code>.
-import_host => MySQL host
-import_invite => Default позив за коментаре
-import_login => MySQL корисник
-import_password => MySQL лозинка
-import_section => Секција у коју направити унос
-import_status => Default статус уноса
-import_wpdbcharset =>
-import_wpprefix => Префикс таблице (ако има)
-select_tool => Унеси из
-txp_import => Унеси садржај из других публикацијских алата
 #@link
 add_new_link =>
 edit_link =>

@@ -538,22 +538,6 @@ upload_category => カテゴリ
 upload_dir_perms => ディレクトリの属性を確認する必要があります。
 upload_image => 画像のアップロード
 upload_thumbnail => サムネイルのアップロード
-#@import
-continue => 次へ
-database_stuff => データベース
-import_blogid =>
-import_database => データベース名
-import_file_not_found => 参照するファイルが見つかりませんでした。ファイルを <code>import.txt</code> へ名前を変更し、<code>/textpattern/include/import/</code>へ保存下さい。
-import_host => MySQLホスト
-import_invite => 招待コメントの初期設定
-import_login => MySQLユーザ
-import_password => MySQLパスワード
-import_section => 保存するセクション
-import_status => 記事の初期状態
-import_wpdbcharset => データベース文字コード
-import_wpprefix => テーブル接頭辞(任意)
-select_tool => 取り込み元
-txp_import => その他の形式より取り込み
 #@link
 add_new_link => リンクを追加
 edit_link => リンクを編集

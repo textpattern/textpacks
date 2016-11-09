@@ -538,22 +538,6 @@ upload_category =>
 upload_dir_perms =>
 upload_image =>
 upload_thumbnail =>
-#@import
-continue =>
-database_stuff =>
-import_blogid =>
-import_database =>
-import_file_not_found =>
-import_host =>
-import_invite =>
-import_login =>
-import_password =>
-import_section =>
-import_status =>
-import_wpdbcharset =>
-import_wpprefix =>
-select_tool =>
-txp_import =>
 #@link
 add_new_link =>
 edit_link =>

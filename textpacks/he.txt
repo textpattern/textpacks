@@ -538,22 +538,6 @@ upload_category => קטגורייה
 upload_dir_perms => הרשאות הספרייה צריכות להיבדק.
 upload_image => העלה תמונה
 upload_thumbnail => העלה תמונה מוקטנת
-#@import
-continue => המשך
-database_stuff => נתוני בסיס הנתונים
-import_blogid => מזהה blog
-import_database => שם בסיס הנתונים
-import_file_not_found => קובץ הייבוא לא נמצא. אנא שנה את שם הקובץ ל-<code dir="ltr">import.txt</code> ומקם אותו תחת הספרייה <code dir="ltr">/textpattern/include/import/</code>.
-import_host => מארח MySQL
-import_invite => ברירת המחדל של הזמנת תגובות
-import_login => משתמש MySQL
-import_password => סיסמת MySQL
-import_section => איזור לייבא אליו
-import_status => מצב ברירת המחדל של מאמר
-import_wpdbcharset => ערכת האותיות של בסיס הנתונים
-import_wpprefix => תחילית הטבלאות (אם קיימת)
-select_tool => ייבא מקובץ
-txp_import => ייבא תוכן מכלים אחרים
 #@link
 add_new_link => הוסף קישור חדש
 edit_link => ערוך קישור

@@ -538,22 +538,6 @@ upload_category => Категория
 upload_dir_perms => Правата за достъп трябва да бъдат проверени.
 upload_image => Качи изображение
 upload_thumbnail => Качи умалено изображение
-#@import
-continue => Продължи
-database_stuff => Данни в базата данни
-import_blogid => Blog ID
-import_database => Име на базата данни
-import_file_not_found => Файла за импорт не е намерен. Именувайте файла <code>import.txt</code> и го поставете в <code>/textpattern/include/import/</code>.
-import_host => MySQL host
-import_invite => Приемане на коментари по подразбиране
-import_login => MySQL user
-import_password => MySQL password
-import_section => Секция в която да се импортира
-import_status => Статус на статия по подразбиране
-import_wpdbcharset => Database character set
-import_wpprefix => Префикс на таблицата (ако съществува)
-select_tool => Импортирай от
-txp_import => Импортирай съдържание от други системи за публикуване
 #@link
 add_new_link => Добави нова връзка
 edit_link => Редактирай връзката

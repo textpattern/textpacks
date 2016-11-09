@@ -538,22 +538,6 @@ upload_category => 分類
 upload_dir_perms =>
 upload_image => 上傳圖片
 upload_thumbnail => 上傳縮圖
-#@import
-continue => 繼續
-database_stuff => 資料庫設定
-import_blogid => Blog ID
-import_database => 資料庫名稱
-import_file_not_found => 匯入檔案失敗. 請將檔案名稱改為 <code>import.txt</code> 並存放於 <code>/textpattern/include/import/</code>
-import_host => MySQL 主機
-import_invite => 迴響標示
-import_login => MySQL帳號
-import_password => MySQL密碼
-import_section => 指定版區
-import_status => 預設文章狀態
-import_wpdbcharset =>
-import_wpprefix => 資料表前飾詞 (如果有的話)
-select_tool => 匯入類型
-txp_import => 從其它出版工具匯入內容
 #@link
 add_new_link =>
 edit_link =>

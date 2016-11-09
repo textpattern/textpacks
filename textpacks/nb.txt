@@ -538,22 +538,6 @@ upload_category => Kategori
 upload_dir_perms => sjekk rettigheter på filbanen.
 upload_image => Last opp bilde
 upload_thumbnail => Last opp lite bilde
-#@import
-continue => Fortsett
-database_stuff => Database data
-import_blogid => Blog ID
-import_database => Databasenavn
-import_file_not_found => Import fil ikke funnet. Vennligst gi filen navnet <code>import.txt</code> og plasser den i <code>/textpattern/include/import/</code>.
-import_host => MySQL-server
-import_invite => Standard kommentar invitt
-import_login => MySQL-brukernavn
-import_password => MySQL-passord
-import_section => Seksjon å importere til
-import_status => Standard artikkelstatus
-import_wpdbcharset =>
-import_wpprefix => Tabellprefiks (hvis brukes)
-select_tool => Importer fra
-txp_import => Importer innhold fra et annet publiserings verktøy
 #@link
 add_new_link => Opprette en ny lenke
 edit_link => Endre lenker

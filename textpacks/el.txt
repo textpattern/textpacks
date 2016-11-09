@@ -538,22 +538,6 @@ upload_category => Κατηγορία
 upload_dir_perms => Πρέπει να ελεγχτούν τα chmod δικαιώματα του φακέλου.
 upload_image => Eπιφόρτωση εικόνας
 upload_thumbnail => Επιφόρτωση εικονιδίου
-#@import
-continue => Συνέχεια
-database_stuff => Δεδομένα βάσης
-import_blogid => ΑΑ ιστοημερολογίου
-import_database => Όνομα βάσης δεδομένων
-import_file_not_found => Δεν βρέθηκε το αρχείο προς ενσωμάτωση. Παρακαλούμε ονομάστε το αρχείο <code>import.txt</code> και τοποθετήστε το στον κατάλογο <code>/textpattern/include/import/</code>.
-import_host => Δ/νση διακομιστή MySQL
-import_invite => Προκαθορισμένη πρόσκληση για σχολιασμό
-import_login => Όνομα χρήστη MySQL
-import_password => Κωδικός πρόσβασης MySQL
-import_section => Ενσωμάτωση περιεχομένου στον τομέα
-import_status => Προκαθορισμένη κατάσταση άρθρου
-import_wpdbcharset => Χαρακτήρας βάσης δεδομένων
-import_wpprefix => Πρόθεμα πινάκων MySQL (αν υπάρχει)
-select_tool => Εισαγωγή από
-txp_import => Ενσωμάτωση περιεχομένου από άλλα εργαλεία δημοσίευσης
 #@link
 add_new_link => Δημιουργήσετε νέα σύνδεση
 edit_link => Επεξεργαστείτε τη σύνδεση

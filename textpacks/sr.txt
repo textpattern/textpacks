@@ -538,22 +538,6 @@ upload_category => Kategorija
 upload_dir_perms => directory permissions need to be checked.
 upload_image => Upload-uj sliku
 upload_thumbnail => Upload-uj thumbnail
-#@import
-continue => Nastavi
-database_stuff => Podaci Baze
-import_blogid => Blog ID
-import_database => Ime baze podataka
-import_file_not_found => Import datoteka nije pronađena. Molimo nazovite datoteku <code>import.txt</code> i sačuvajte je <code>/textpattern/include/import/</code>.
-import_host => MySQL host
-import_invite => Default poziv za komentare
-import_login => MySQL korisnik
-import_password => MySQL lozinka
-import_section => Sekcija u koju napraviti unos
-import_status => Default status unosa
-import_wpdbcharset => Baza znakova
-import_wpprefix => Prefiks tablice (ako ima)
-select_tool => Importuj od
-txp_import => Unesi sadržaj iz drugih publikacijskih alata
 #@link
 add_new_link =>
 edit_link =>

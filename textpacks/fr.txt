@@ -538,22 +538,6 @@ upload_category => Catégorie
 upload_dir_perms => les droits du répertoire doivent être vérifiés.
 upload_image => Envoyer une image
 upload_thumbnail => Envoyer une miniature
-#@import
-continue => Continuer
-database_stuff => Informations de la base de données
-import_blogid => ID du Blog
-import_database => Nom de la base de données
-import_file_not_found => Fichier d’importation non trouvé. Veuillez renommer le fichier en <code>import.txt</code> et le placer dans le répertoire <code>/textpattern/include/import/</code>.
-import_host => Adresse du serveur MySQL
-import_invite => Invite à commenter
-import_login => Nom d’utilisateur MySQL
-import_password => Mot de passe MySQL
-import_section => Choix de la section
-import_status => Statut des articles
-import_wpdbcharset => Jeu de caractères de la base de données
-import_wpprefix => Préfixes des tables SQL (optionnel)
-select_tool => Importer depuis
-txp_import => Importation depuis un autre outil de publication
 #@link
 add_new_link => Ajout d’un lien
 edit_link => Édition du lien

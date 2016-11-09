@@ -538,22 +538,6 @@ upload_category => Kategorija
 upload_dir_perms => ir jāpārbauda direktoriju atļaujas.
 upload_image => Augšuplādēt attēlu
 upload_thumbnail => Augšuplādēt sīktēlu
-#@import
-continue => Turpināt
-database_stuff => Datubāzes dati
-import_blogid => Bloga ID
-import_database => Datubāzes nosaukums
-import_file_not_found => Importējamais fails nav atrasts. Lūdzu, nosauciet failu par <code>import.txt</code> un ievietojiet to mapē <code>/textpattern/include/import/</code>.
-import_host => MySQL serveris
-import_invite => Noklusētais uzaicinājums komentēt
-import_login => MySQL lietotājvārds
-import_password => MySQL parole
-import_section => Sadaļa, kurā importēt
-import_status => Noklusētais ieraksta statuss
-import_wpdbcharset => Datubāzes kodējums
-import_wpprefix => Datubāzes nosaukuma priedēklis (ja nepieciešams)
-select_tool => Importēt no
-txp_import => Importēt saturu no citas publicēšanas sistēmas
 #@link
 add_new_link => Pievienot jaunu saiti
 edit_link => Labot saiti

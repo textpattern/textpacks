@@ -538,22 +538,6 @@ upload_category => Kategorie
 upload_dir_perms => Je nutno ověřit práva k adresáři.
 upload_image => Nahrát obrázek
 upload_thumbnail => Nahrát náhled
-#@import
-continue => Pokračovat
-database_stuff => Údaje o databázi
-import_blogid => ID blogu
-import_database => Název databáze
-import_file_not_found => Soubor k importu nebyl nalezen. Nazvi jej <code>import.txt</code> a ulož do <code>/textpattern/include/import/</code>.
-import_host => Server MySQL
-import_invite => Výchozí výzva pro komentáře
-import_login => Uživatel MySQL
-import_password => Heslo do MySQL
-import_section => Rubrika, do níž má být import proveden
-import_status => Výchozí stav článků
-import_wpdbcharset => Nastavení znakové sady databáze
-import_wpprefix => Předpona tabulek (je-li nějaká)
-select_tool => Importovat z
-txp_import => Importovat obsah z jiných redakčních systémů
 #@link
 add_new_link => Přidat nový odkaz
 edit_link => Editovat odkaz

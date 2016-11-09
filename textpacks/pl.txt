@@ -538,22 +538,6 @@ upload_category => Kategoria
 upload_dir_perms => Należy zmienić uprawnienia katalogu obrazków.
 upload_image => Wgraj obrazek
 upload_thumbnail => Wgraj miniaturkę
-#@import
-continue => Dalej
-database_stuff => Dane z bazy danych
-import_blogid => ID bloga
-import_database => Nazwa bazy danych MySQL
-import_file_not_found => Nie znaleziono pliku do importowania. Nadaj plikowi nazwę <code>import.txt</code> i umieścić go w katalogu <code>/textpattern/include/import/</code>.
-import_host => Hosta MySQL
-import_invite => Domyślne zaproszenie do komentowania
-import_login => MySQL użytkownik
-import_password => MySQL hasło
-import_section => Sekcja, do której mają być zaimportowane dane
-import_status => Status zaimportowanych artykułów
-import_wpdbcharset => Kodowanie znaków w bazie danych
-import_wpprefix => Prefiks (o ile istnieje) nazw tabel
-select_tool => Importuj z
-txp_import => Importowanie danych z innego systemu
 #@link
 add_new_link => Dodaj odsyłacz
 edit_link => Zmień odsyłacz

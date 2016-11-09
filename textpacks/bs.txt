@@ -538,22 +538,6 @@ upload_category => Kategorija
 upload_dir_perms => dozvole na mapi moraju biti 777
 upload_image => Postavi sliku
 upload_thumbnail => Postavi sličicu
-#@import
-continue => Nastavak
-database_stuff => Podaci o bazi podataka
-import_blogid => Web dnevnik ID
-import_database => Ime baze podataka
-import_file_not_found => Datoteka za uvoz nije pronađena. Molimo imenujte datoteku <code>import.txt</code> i smjestite je u <code>/textpattern/include/import/</code>.
-import_host => MySQL host(server)
-import_invite => Podrazumijevana pozivnica za komentare
-import_login => MySQL korisnik
-import_password => MySQL lozinka
-import_section => Sekcija u koju će se uvoziti
-import_status => Podrazumijevani status članka
-import_wpdbcharset =>
-import_wpprefix => Prefiksi tabela (ako postoje)
-select_tool => Uvezi iz
-txp_import => Uvezi sadržaj iz drugog alata za objavljivanje
 #@link
 add_new_link =>
 edit_link =>

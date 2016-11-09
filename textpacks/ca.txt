@@ -538,22 +538,6 @@ upload_category => Categoria
 upload_dir_perms =>
 upload_image => Puja imatge
 upload_thumbnail => Puja miniatura
-#@import
-continue => Continua
-database_stuff => Informació de la base de dades
-import_blogid => ID del blog
-import_database => Nom de la base de dades
-import_file_not_found => No s’ha trobat el fitxer per importar. Sisplau, posa-li <code>import.txt</code> per nom i desa’l a <code>/textpattern/include/import/</code>.
-import_host => Host MySQL
-import_invite => Invitació predeterminada pels comentaris
-import_login => Usuari MySQL
-import_password => Contrasenya MySQL
-import_section => Secció a la que vols importar
-import_status => Estat predeterminat dels articles importats
-import_wpdbcharset =>
-import_wpprefix => Prefix de les taules (si en tenen)
-select_tool => Importa des de
-txp_import => Importa contingut d’altres eines de publicació
 #@link
 add_new_link =>
 edit_link =>

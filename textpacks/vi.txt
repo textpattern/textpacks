@@ -538,22 +538,6 @@ upload_category => Thể loại
 upload_dir_perms => cần kiểm tra lại quyền của thư mục.
 upload_image => Tải ảnh lên
 upload_thumbnail => Tải ảnh nhỏ lên
-#@import
-continue => Tiếp tục
-database_stuff => Thông tin về cơ sở dữ liệu
-import_blogid => Blog ID
-import_database => Tên cơ sở dữ liệu
-import_file_not_found => Không thấy tập tin cần nhập. Hãy đổi tên tập tin cần nhập thành <code>import.txt</code> và đặt vào thư mục <code>/textpattern/include/import/</code>.
-import_host => Tên máy phục vụ MySQL
-import_invite => Lời mời bình chú mặc định
-import_login => Tài khoản MySQL
-import_password => Mật khẩu MySQL
-import_section => Mục sẽ nhập vào
-import_status => Trạng thái bài viết mặc định
-import_wpdbcharset => Bộ mã ký tự cơ sở dữ liệu
-import_wpprefix => Tiền tố bảng (nếu có)
-select_tool => Nhập từ
-txp_import => Nhập nội dung từ các công cụ xuất bản khác
 #@link
 add_new_link => Thêm liên kết mới
 edit_link => Sửa liên kết

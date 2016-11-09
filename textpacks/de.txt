@@ -538,22 +538,6 @@ upload_category => Kategorie
 upload_dir_perms => Verzeichnisrechte müssen überprüft werden.
 upload_image => Bild hochladen
 upload_thumbnail => Vorschaubild hochladen
-#@import
-continue => Fortfahren
-database_stuff => Datenbankdaten
-import_blogid => Blog-ID
-import_database => Name der Datenbank
-import_file_not_found => Die zu importierende Datei konnte nicht gefunden werden. Bitte nennen Sie die Datei <code>import.txt</code> und hinterlegen Sie sie im Ordner <code>/textpattern/include/import/</code>.
-import_host => MySQL-Host
-import_invite => Standardeinladung für Kommentare
-import_login => MySQL-Benutzer
-import_password => MySQL-Passwort
-import_section => Sektion, in die importiert werden soll
-import_status => Status der importierten Artikel
-import_wpdbcharset => Zeichensatz der Datenbank
-import_wpprefix => Tabellen-Präfix (wenn vorhanden)
-select_tool => Importquelle
-txp_import => Importiere Inhalte aus einem anderen Redaktionssystem
 #@link
 add_new_link => Neuen Link anlegen
 edit_link => Link bearbeiten

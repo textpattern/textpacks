@@ -538,22 +538,6 @@ upload_category => Kategooria
 upload_dir_perms =>
 upload_image =>
 upload_thumbnail => Lae üles pisipilt
-#@import
-continue => Jätka
-database_stuff => Andmebaasi andmed
-import_blogid => Blogi ID
-import_database => Andmebaasi nimi
-import_file_not_found => Imporditavat faili ei leitud. Anna failile nimeks <code>import.txt</code> ja vii see <code>/textpattern/include/import/</code> kataloogi.
-import_host => MySQL aadress
-import_invite => Vaikimisi kommentaari nimetus
-import_login => MySQL kasutaja
-import_password => MySQL parool
-import_section => Sektsioon kuhu importida
-import_status => Vaikimisi artikli olek
-import_wpdbcharset =>
-import_wpprefix => Tabeli eesliides (kui on)
-select_tool => Allikas
-txp_import => Impordi andmeid teistest allikatest
 #@link
 add_new_link =>
 edit_link =>

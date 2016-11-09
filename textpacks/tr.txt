@@ -538,22 +538,6 @@ upload_category => Kategori
 upload_dir_perms =>
 upload_image => Görsel yükle
 upload_thumbnail => Küçük görsel (thumbnail) yükle
-#@import
-continue => Devam et
-database_stuff => Database bilgileri
-import_blogid => Blog ID
-import_database => Database adı
-import_file_not_found => İçe akatarılacak dosya bulunamadı.Lütfen dosyanın adını <code>import.txt</code> olarka değişitirin ve belirtilen klasörün <code>/textpattern/include/import/</code> içien aktarın.
-import_host => MySQL sunucusu
-import_invite => Varsayılan makale daveti
-import_login => MySQL kullanıcı adı
-import_password => MySQL şifresi
-import_section => Section to import into
-import_status => Varsayılan makale durumuDefault article status
-import_wpdbcharset =>
-import_wpprefix => Tablo öneki (varsa)
-select_tool => Belirtilen konumdan yükle
-txp_import => Diğer yayınlama araçlarından içerik al
 #@link
 add_new_link =>
 edit_link =>

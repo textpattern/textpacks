@@ -538,22 +538,6 @@ upload_category => تصنيف
 upload_dir_perms =>
 upload_image =>
 upload_thumbnail => إرسال مصغرة
-#@import
-continue => الاستمرار
-database_stuff => معلومات من بنك المعلومات
-import_blogid => ID blog
-import_database => اسم بنك المعلومات
-import_file_not_found => <code dir="ltr">import.txt</code> <code dir="ltr">/textpattern/include/import/</code>.الرجاة إعادة التسمية للملف ووضعه ضمن القائمة
-import_host => MySQL عنوان الموزع
-import_invite =>
-import_login => MySQL اسم المستخدم
-import_password => MySQL كلمة السر
-import_section => القسم الذي يتم فيه وضع المقالات المستوردة
-import_status => وضع المقالات المستوردة بعد نقلها
-import_wpdbcharset =>
-import_wpprefix =>
-select_tool => برامج الكمبيوتر التي يتم من خلالها الاستيراد
-txp_import => استيراد محتوى عن طريق أداة أخرى للنشر
 #@link
 add_new_link =>
 edit_link =>

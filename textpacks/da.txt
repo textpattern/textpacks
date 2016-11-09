@@ -538,22 +538,6 @@ upload_category => Kategori
 upload_dir_perms => mappe rettigheder skal tjekkes.
 upload_image => Upload billede
 upload_thumbnail => Upload miniatur
-#@import
-continue => Fortsæt
-database_stuff => Database Data
-import_blogid => Blog ID
-import_database => Database navn
-import_file_not_found => Import fil blev ikke fundet. Giv filen navnet <code>import.txt</code> og placer den i <code>/textpattern/include/import</code>.
-import_host => MySQL vært
-import_invite => Standard kommentar anmodning
-import_login => MySQL bruger
-import_password => MySQL kodeord
-import_section => Afsnit at importere til
-import_status => Standard artikel status
-import_wpdbcharset =>
-import_wpprefix => Tabel præfiks (hvis nogen)
-select_tool => Importer fra
-txp_import => Importer indhold fra andet udgivnings-værktøj
 #@link
 add_new_link =>
 edit_link =>

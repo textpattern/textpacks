@@ -538,22 +538,6 @@ upload_category => Kategoria
 upload_dir_perms => hakemisto-oikeudet täytyy tarkastaa.
 upload_image => Siirrä kuva
 upload_thumbnail => Lataa pienoiskuva
-#@import
-continue => Jatka
-database_stuff => Tietokannan tiedot
-import_blogid => Blogin ID
-import_database => Tietokannan nimi
-import_file_not_found => Tuotavaa tiedostoa ei löytynyt. Anna tiedoston nimeksi <code>import.txt</code> ja siirrä se kansioon <code>/textpattern/include/import/</code>.
-import_host => MySQL host
-import_invite => Kommenttien oletuskehoite
-import_login => MySQL käyttäjä
-import_password => MySQL salasana
-import_section => Osio johon tuodaan
-import_status => Artikkelin oletustila
-import_wpdbcharset => Tietokannan merkistö
-import_wpprefix => Taulujen etuliite (jos on)
-select_tool => Tuo sisältö
-txp_import => Tuo sisältö muista julkaisuvälineistä
 #@link
 add_new_link => Lisää uusi linkki
 edit_link => Muokkaa linkkiä

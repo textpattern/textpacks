@@ -538,22 +538,6 @@ upload_category => 분류
 upload_dir_perms => 디렉토리 권한을 777로 설정해야 합니다
 upload_image => 이미지 올리기
 upload_thumbnail => 썸네일 올리기
-#@import
-continue => 계속
-database_stuff => 데이터베이스 데이터
-import_blogid => 웹로그 ID
-import_database => 데이터베이스 이름
-import_file_not_found => 가져오기 파일을 발견할 수 없습니다. 파일 이름을 <code>import.txt</code>로 바꾼 다음에 <code>/textpattern/include/import/</code>에 위치시켜보세요.
-import_host => MySQL 호스트
-import_invite => 댓글 안내
-import_login => MySQL 사용자
-import_password => MySQL 비밀번호
-import_section => 저장할 섹션
-import_status => 글 기본 상태
-import_wpdbcharset =>
-import_wpprefix => 테이블 접두어 (있을 경우만)
-select_tool => 프로그램 선택
-txp_import => 다른 CMS 프로그램에서 가져오기
 #@link
 add_new_link =>
 edit_link =>

@@ -538,22 +538,6 @@ upload_category => 分类
 upload_dir_perms => 请检查目录权限。
 upload_image => 上传图像
 upload_thumbnail => 上传缩略图
-#@import
-continue => 继续
-database_stuff => 数据库数据
-import_blogid => 博客 ID
-import_database => 数据库名称
-import_file_not_found => 导入文件失败。请将文件名改为 <code>import.txt</code> 并放到 <code>/textpattern/include/import/</code> 目录下。
-import_host => MySQL 服务器
-import_invite => 默认评论邀请
-import_login => MySQL 帐号
-import_password => MySQL 密码
-import_section => 导入至版块
-import_status => 默认文章状态
-import_wpdbcharset => 数据库字符集
-import_wpprefix => 资料表前缀（如果存在）
-select_tool => 导入自
-txp_import => 从其他出版工具导入内容
 #@link
 add_new_link => 增加新链接
 edit_link => 编辑链接

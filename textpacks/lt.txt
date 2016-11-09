@@ -538,22 +538,6 @@ upload_category => Kategorija
 upload_dir_perms => katalogų leidimai turi būti tikrinami.
 upload_image => Siųsti atvaizdą
 upload_thumbnail => Siųsti miniatiūrą
-#@import
-continue => Tęsti
-database_stuff => Duombazės duomenys
-import_blogid => Tinklaraščio ID
-import_database => Duombazės vardas
-import_file_not_found => Importo rinkmena nerasta. Prašome pavadinti rinkmeną <code>import.txt</code> vardu ir patalpinti jį <code>/textpattern/include/import/</code>.
-import_host => MySQL serveris
-import_invite => Numatytasis komentarų pakvietimas
-import_login => MySQL vartotojas
-import_password => MySQL slaptažodis
-import_section => Importuojama į skyrių
-import_status => Numatytoji straipsnio būsena
-import_wpdbcharset => Duomenų bazės ženklų rinkinys
-import_wpprefix => Lentelių priešdėlis (jei reikalingas)
-select_tool => Importuoti iš
-txp_import => Importuoti turinį iš kitų publikavimo įrankių
 #@link
 add_new_link => Įdėti naują nuorodą
 edit_link => Keisti nuorodą
