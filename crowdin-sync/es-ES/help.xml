@@ -72,54 +72,56 @@
   <string name="add_new_author"><h2>Usuarios: Añadir nuevo autor</h2>
 <p>Se enviará al autor un mensaje de bienvenida e intrucciones de acceso.</p></string>
   <string name="admin_side_plugins"><h1>Preferencias: ¿usar plugins de administración?</h1> <p>Los plugins de administración pueden cambiar el modo en que funciona la interfaz de administración. Podría afectar a acciones ya existentes, como editar o publicar artículos, o agregar nuevos paneles para funciones añadidas o ampliadas.</p> <p>Si quieres saber más sobre los plugins de administración, consulta la página <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Extending Textpattern</a> en la <a rel="external" target="_blank" href="http://docs.textpattern.io/">documentación de usuario de Textpattern</a>. En el sitio <a rel="external" target="_blank" href="http://textpattern.org/">Textpattern Resources</a> se listan plugins de todo tipo.</p></string>
-  <string name="remember_login"><h2>Remember login</h2>
-<p>When checked, you will remain logged in to your Textpattern account with the current web browser, until you choose to log out. If left unchecked, you will be automatically logged out after a period of inactivity.</p>
-<p>Requires cookies to be enabled in your browser.</p></string>
-  <string name="article_image"><h2>Write: Article image</h2>
-<p>If you would like to associate a single image with this article, place one of the following here:</p>
+  <string name="remember_login"><h2>Recordar acceso</h2>
+<p>Si está marcado, seguirás conectado a tu cuenta de Textpattern con el navegador actual hasta que elijas desconectarte. Si se deja sin marcar, serás desconectado automáticamente después de un periodo de inactividad.</p>
+<p>Requiere que las cookies estén activadas en tu navegador.</p></string>
+  <string name="article_image"><h2>Escribir: Imagen de artículo</h2>
+<p>Si quieres asociar una imagen con este artículo, escribe aquí uno de estos tres contenidos posibles:</p>
 <ol>
-    <li>a Textpattern image ID</li>
-    <li>a relative URL to the image (e.g. <code>/images/my_pic.jpg</code>)</li>
-    <li>a fully-qualified URL (e.g. <code>http://example.com/path/to/images/my_pic.jpg</code>)</li>
+  <li>la ID Texpattern de una imagen</li>
+  <li>una URL relativa a la imagen (por ej. <code>/imagenes/mi_imagen.jpg</code>)</li>
+  <li>una URL completa (por ej. <code>http://ejemplo.com/ruta/a/imagenes/mi_imagen.jpg</code>)</li>
 </ol>
-<p>The image can be displayed by placing a <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/article_image"><code>&lt;txp:article_image /&gt;</code> tag <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> inside an article form. It will output a complete HTML <code>&lt;img&gt;</code> tag to your chosen image.</p></string>
-  <string name="body"><h2>Write: Body</h2>
-<p>The main content of an article is contained within the article body.</p>
-<p>When composing or preparing articles for publication in Textpattern, you can switch between three views of the article: plain text, HTML markup (the code with which a web browser renders the article), and a rendered preview.</p></string>
-  <string name="description"><h2>Write: Description</h2>
-<p>The article description is an optional component that can help search engines and website crawlers better identify and sort content.</p>
-<p>The article description is limited to a maximum of 255 characters. Note that some search engines place character limits on the length of a page’s <code>meta description</code> for practicality of display in search engine results pages (SERPs) and this may be less than the 255 character limit in Textpattern.</p>
-<p>Note that the article description differs from the article excerpt, though they both accept similar content. The article description should be primarily intended for use with search engines and crawlers, whereas the the article excerpt is more suited for a human-readable article summary where desired.</p></string>
-  <string name="excerpt"><h2>Write: Excerpt</h2>
-<p>Article excerpts are optional. Excerpts could be used as a short summary of the article that is displayed as part of a table of contents, used in place of the full article body in the site’s RSS/Atom feeds, or a number of other uses.</p></string>
-  <string name="expire_date"><h2>Write: Expire date</h2>
-<p>The time an article is labelled as expired. The time is optional and can be set to an arbitrary time in the past or future.</p>
-<p>The boxes correspond to the following information:</p>
+<p>La imagen se puede hacer visible poniendo una etiqueta <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/article_image"><code>&lt;txp:article_image /&gt;</code> <span class="ui-icon ui-icon-extlink">(abre un enlace externo en una ventana nueva)</span></a>  dentro de un bloque de artículo. Proporcionará una etiqueta de HTML <code>&lt;img&gt;</code> a la imagen que elijas.</p></string>
+  <string name="body"><h2>Escribir: Cuerpo</h2>
+<p>El contenido principal de un artículo está en el cuerpo del artículo.</p>
+<p>Mientras escribes o respasas artículos para publicarlos con Textpattern, puedes elegir tres formas de ver el artículo: texto llano, código HTML (el código que usa el navegador para mostrar el artículo) y una previsualización.</p></string>
+  <string name="description"><h2>Escribir: Descripción</h2>
+<p>La descripción del artículo es un componente opcional que puede ayudar a los buscadores y rastreadores de la web a identificar y clasificar mejor el contenido.</p>
+<p>La descripción del artículo está limitada a un máximo de 255 caracteres. Ten en cuenta que algunos buscadores ponen límites a la longitud de la <code>meta description</code> para mejorar la presentación en las páginas de resultados de los buscadores (Search Engine Results Pages, SERP) y pueden ser inferiores al límite de 255 caracteres de textpattern.</p>
+<p>Ten en cuenta que la descripción del artículo no es lo mismo que el resumen del artículo, aunque se pueda poner el mismo contenido en ambos. La descripción del artículo va dirigida a los buscadores y rastreadores, en tanto que el resumen del artículo es más bien una sinopsis del artículo apta para un lector humano, y se puede colocar en cualquier lugar.</p></string>
+  <string name="excerpt"><h2>Write: Resumen</h2>
+
+<p>Los resúmenes de artículo son opcionales. Pueden usarse como un pequeño resumen del artículo, que se muestra dentro de una tabla de contenidos, o usarse en lugar del contenido completo del artículo en los feeds RSS/Atom, entre otros numerosos usos.</p></string>
+  <string name="expire_date"><h2>Escribir: Fecha de caducidad</h2>
+<p>El momento en que un artículo se etiqueta como caducado. El momento es opcional y puede fijarse en cualquier momento del pasado o del futuro.</p>
+<p>Las cajas corresponden a la siguiente información:</p>
 <ul>
-    <li>Year / Month / Day</li>
-    <li>Hour (24-hour format) : Minute : Second</li>
+    <li>Año / Mes / Día</li>
+    <li>Hora (formato 24 horas) : Minuto : Segundo</li>
 </ul>
-<p>When the time arrives, or in the case where a time in the past is provided, the article expires.</p>
-<p>If the option to display expired articles is enabled, the article remains visible. If the option to display expired articles is disabled, visitors to the article page will be served an HTTP 410 error in place of the article content.</p></string>
-  <string name="keywords"><h2>Write: Keywords</h2>
-<p>Keywords are useful for refining the relationships between articles beyond those provided by categories.</p>
-<p>Keywords must be individual words separated by commas.</p></string>
-  <string name="override_form"><h2>Write: Override form</h2>
-<p>If you wish for an article to use a form different from that assigned by default - for example if you want to show only an article excerpt with <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/excerpt"><code>&lt;txp:excerpt /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> where you normally show the entire article with <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/body"><code>&lt;txp:body /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> - this can be set here.</p></string>
-  <string name="publish_date"><h2>Write: Publish date</h2>
-<p>The time an article or file is published or most-recently revised. The time can be set to the moment the item is published, or to an arbitrary time in the past or future.</p>
-<p>The boxes correspond to the following information:</p>
+<p>Cuando llega el momento, o cuando se pone una fecha del pasado, el artículo caduca.</p>
+<p>Si se ha acticado la opción de mostrar artículos caducados, el artículo sigue estando visible. Si no se ha activado la opción de mostrar artículos caducados, los visitantes de la página del artículo recibirán un código de error HTTP 410 en lugar del contenido del artículo.</p></string>
+  <string name="keywords"><h2>Escribir: Palabras clave</h2>
+<p>Las palabras clave son útiles para refinar las relaciones entre artículos, más allá de las que proporcionan las categorías.</p>
+<p>Las palabras clave deben ser palabras individuales separadas por coma.</p></string>
+  <string name="override_form"><h2>Escribir: Sobrescribir bloque</h2>
+<p>Si quieres usar para un artículo un bloque diferente del que está asignado por defecto –por ejemplo, si quieres mostrar solo un resumen de artículo con <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/excerpt"><code>&lt;txp:excerpt /&gt;</code> <span class="ui-icon ui-icon-extlink">(abre un enlace externo en una ventana nueva)</span></a> donde normalmente muestras el artículo entero con <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/body"><code>&lt;txp:body /&gt;</code> <span class="ui-icon ui-icon-extlink">(abre un enlace externo en una ventana nueva)</span></a>–, aquí es donde puedes ponerlo.</p></string>
+  <string name="publish_date"><h2>Escribir: Fecha de publicación</h2>
+<p>El momento en que un artículo se ha publicado o modificado por última vez. El momento puede fijarse cuando se publica el artículo o en cualquier punto arbitrario del pasado o el futuro.</p>
+<p>Las cajas corresponden a la siguiente información:</p>
 <ul>
-    <li>Year / Month / Day</li>
-    <li>Hour (24-hour format) : Minute : Second</li>
+    <li>Año / Mes / Día</li>
+    <li>Hora (formato de 24 horas) : Minuto : Segundo</li>
 </ul>
-<p>An item with a timestamp greater than the current time (i.e. in the future) will not appear on the front end and the RSS/Atom feeds until that time arrives.</p></string>
-  <string name="title"><h2>Write: Title</h2>
-<p>Add an appropriate title for this article.</p>
-<p>An article title is limited to a maximum of 255 characters.</p></string>
-  <string name="url_title"><h2>Write: URL-only title</h2>
-<p>If you would like to have a specific title attached to the permalink URL for your article, enter it here. If it is left blank, the URL title will be automatically generated from the article title.</p>
-<p>This is particularly useful if the title of your article uses non-ASCII characters.</p></string>
+<p>Un elemento que tenga una fecha posterior al momento actual (es decir, del futuro) no aparecerá ni en los <em>feed</em> RSS/Atom hasta que llegue ese momento.</p></string>
+  <string name="title"><h2>Escribir: Título</h2>
+
+<p>Añade un título apropiado para este artículo.</p>
+<p>El título de un artículo está limitado a un másximo de 255 caracteres.</p></string>
+  <string name="url_title"><h2>Escribir: único título-URL</h2>
+<p>Si quieres tener un título en concreto asociado a la URL permanente de tu artículo, escríbelo aquí. Si lo dejas en blanco, el título URL se generará automáticamente a partir del título del artículo.</p>
+<p>Esto es particularmente útil si el título de tu artículo usa caracteres no ASCII.</p></string>
   <string name="allow_article_php_scripting"><h1>Preferencias: ¿permitir PHP en los artículos?</h1>
 <p>Cuando está activada, esta opción permite usar PHP dentro de los artículos. El autor debe tener suficientes privilegios para hacerlo (por defecto, sólo los <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Editores’</a> y los <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Editores ejecutivos’)</a>.</p>
 <p>El código PHP debe escribirse sin las etiquetas PHP de apertura y cierre, y además ir encerrado entre etiquetas <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/php"><code>&lt;txp:php&gt;</code></a>.</p></string>

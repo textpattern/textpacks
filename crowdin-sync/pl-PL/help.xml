@@ -74,20 +74,10 @@
 </ul></string>
   <string name="add_new_author"><h2>Użytkownicy: dodaj nowego autora</h2>
 <p>Hasło, wiadomość powitalna i instrukcje logowania zostaną wysłane do nowego autora.</p></string>
-  <string name="admin_side_plugins"><h1>Preferences: Use admin-side plugins?</h1>
-<p>Admin-side plugins can change the operation of the administration interface. They might hook into already existing actions, like editing or publishing articles, or they might add new panels for added/extended functionality.</p>
-<p>If you would like to learn more about admin-side plugins, please see the <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Extending Textpattern</a> page in <a rel="external" target="_blank" href="http://docs.textpattern.io/">Textpattern User Documentation</a>. Plugins of all sorts are listed in the <a rel="external" target="_blank" href="http://textpattern.org/">Textpattern Resources</a> site.</p></string>
-  <string name="remember_login"><h2>Remember login</h2>
-<p>When checked, you will remain logged in to your Textpattern account with the current web browser, until you choose to log out. If left unchecked, you will be automatically logged out after a period of inactivity.</p>
-<p>Requires cookies to be enabled in your browser.</p></string>
-  <string name="article_image"><h2>Write: Article image</h2>
-<p>If you would like to associate a single image with this article, place one of the following here:</p>
-<ol>
-    <li>a Textpattern image ID</li>
-    <li>a relative URL to the image (e.g. <code>/images/my_pic.jpg</code>)</li>
-    <li>a fully-qualified URL (e.g. <code>http://example.com/path/to/images/my_pic.jpg</code>)</li>
-</ol>
-<p>The image can be displayed by placing a <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/article_image"><code>&lt;txp:article_image /&gt;</code> tag <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> inside an article form. It will output a complete HTML <code>&lt;img&gt;</code> tag to your chosen image.</p></string>
+  <string name="admin_side_plugins"><h1>Preferencje: Używać pluginów w panelu admina?</h1> 
+<p>Pluginy w panelu admina mogą zmienić działanie interfejsu administracyjnego. Mogą korzystać z już istniejących akcji, takich jak edytowanie i publikowanie artykułów, lub mogą dodać nowe panele dla rozszerzonej funkcjonalności.</p> <p>Jeśli chcieliby Państwo dowiedzieć się więcej o pluginach do panelu administracyjnego, zobaczcie stronę <a rel="external" target="_blank" href="http://docs.textpattern.io/development/"> Rozszerzanie Textpattern</a> w <a rel="external" target="_blank" href="http://docs.textpattern.io/"> Dokumentacji użytkownika Textpattern</a>. Różne pluginy są wymienione w witrynie <a rel="external" target="_blank" href="http://textpattern.org/">Zasoby Textpattern</a>.</p></string>
+  <string name="remember_login"><h2>Zapamiętaj logowanie</h2> <p>Gdy zaznaczone, pozostaniesz zalogowany do konta Textpattern w bieżącej przeglądarce, do momentu wylogowania. Jeśli nie zaznaczone, zostaniesz automatycznie wylogowany po okresie bezczynności.</p> <p>Wymaga włączenia plików cookie w Twojej przeglądarce.</p></string>
+  <string name="article_image"><h2>Napisz: obraek do artykułu</h2> <p>Jeśli chcesz dołączyć pojedynczy obrazek do tego artykułu, umieścić tutaj jeden z następujących:</p> <ol><li>Identyfikator obrazu Textpattern</li> <li>względny adres URL do obrazu (np. <code>/images/my_pic.jpg</code>)</li> <li>pełen adres URL (np. <code>http://example.com/path/to/images/my_pic.jpg</code>)</li></ol> <p>Obraz może być wyświetlany przez umieszczenie <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/article_image"> <code>&lt; txp:article_image / &gt;</code> tag <span class="ui-icon ui-icon-extlink"> (otwiera zewnętrzny link w nowym oknie)</span></a> w formie artykułu. To wygeneruje pełen HTML <code>&lt;img&gt;</code> tag dla wybranego obrazka.</p></string>
   <string name="body"><h2>Write: Body</h2>
 <p>The main content of an article is contained within the article body.</p>
 <p>When composing or preparing articles for publication in Textpattern, you can switch between three views of the article: plain text, HTML markup (the code with which a web browser renders the article), and a rendered preview.</p></string>

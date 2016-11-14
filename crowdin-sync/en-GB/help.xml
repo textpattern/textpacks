@@ -124,7 +124,80 @@
     <string name="url_title"><h2>Write: URL-only title</h2>
 <p>If you would like to have a specific title attached to the permalink URL for your article, enter it here. If it is left blank, the URL title will be automatically generated from the article title.</p>
 <p>This is particularly useful if the title of your article uses non-ASCII characters.</p></string>
-    <string name="allow_article_php_scripting"><h2>Preferences: Allow PHP in articles?</h2>
-<p>When enabled, this setting will allow use of PHP within articles. The author must have sufficient privileges to do so (by default, only <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Publishers’ <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> and <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Managing Editors’ <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> can).</p>
-<p>PHP code must have opening and closing PHP tags omitted, and also be enclosed within <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/php"><code>&lt;txp:php&gt;</code> tags <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a>.</p></string>
+    <string name="article_category"><h2>Categories: Articles</h2>
+<p>Unlike sections, which define the navigational structure of a site, article categories allow organization of articles by their subject matter. Once categories are assigned, lists of articles belonging to particular categories can be browsed.</p>
+<p>For example, likely article categories on a site about food might be:</p>
+<ul>
+    <li>raw ingredients</li>
+    <li>shopping</li>
+    <li>recipes</li>
+    <li>presentation</li>
+    <li>restaurants</li>
+    <li>chefs</li>
+</ul></string>
+    <string name="category_description"><h2>Categories: Description</h2>
+<p>The category description is an optional component that can help search engines and website crawlers better identify and sort content.</p>
+<p>The category description is limited to a maximum of 255 characters. Note that some search engines place character limits on the length of a page’s <code>meta description</code> for practicality of display in search engine results pages (SERPs) and this may be less than the 255 character limit in Textpattern.</p></string>
+    <string name="file_category"><h2>Categories: Files</h2>
+<p>File categories are optional, and are useful if you want to group certain uploaded files together.</p></string>
+    <string name="image_category"><h2>Categories: Images</h2>
+<p>Image categories are useful both for internal organization, and for defining image sets that can be displayed using the <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_index"><code>&lt;txp:image_index /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> and <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_display"><code>&lt;txp:image_display /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> tags.</p></string>
+    <string name="link_category"><h2>Categories: Links</h2>
+<p>Link categories are optional, and are useful if you want to display different groupings of links, e.g. ‘Friends’, ‘Romans’, ‘Countrymen’.</p>
+<p>Selective link lists such as these are output with the <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/linklist"><code>&lt;txp:linklist /&gt;</code> tag <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> like so:</p>
+<pre><code>&lt;code&gt;&lt;txp:linklist category="Friends" /&gt;&lt;/code&gt;.</code></pre></string>
+    <string name="clean_url_data_failed"><h2>Diagnostics: Clean URL data failed</h2>
+<p>It appears that either your site URLs (<code>http://example.com/section/article</code>) are currently not working or your server does not support the test procedure to determine if clean URLs work or not; if clean URLs on your site work, you can safely ignore this message.</p>
+<p>If clean URLs are <em>not</em> working it may mean either:</p>
+<ul>
+    <li>your ‘Site URL’ setting is incorrect, or the page at that address is not managed by this copy of Textpattern.</li>
+    <li>your server requires some changes to <code>.htaccess</code> in order to make clean URLs work.</li>
+    <li>your server doesn’t support clean URLs at all.</li>
+</ul>
+<p>The clean URL test attempts to fetch a page from the web address specified in the ‘Site URL’ preference in order to check that all clean URL parameters are working correctly. If that URL is a different site, or has been replaced with a static page or similar, the test will fail. Until the issue is resolved you will have to use messy URLs on your site instead (<code>http://example.com?s=section&amp;id=4</code>). Ensure the ‘Permanent link mode’ in Admin Preferences is set accordingly.</p>
+<p>Note that using a plugin to put a site in ‘maintenance mode’ may trigger this warning.</p></string>
+    <string name="clean_url_test_failed"><h2>Diagnostics: Clean URL test failed</h2>
+<p>It appears that either your site URLs (<code>http://example.com/section/article</code>) are currently not working or your server does not support the test procedure to determine if clean URLs work or not; if clean URLs on your site work, you can safely ignore this message.</p>
+<p>If clean URLs are not working it may mean either:</p>
+<ul>
+    <li>your ‘Site URL’ setting is incorrect, or the page at that address is not managed by this copy of Textpattern</li>
+    <li>your server requires some changes to <code>.htaccess</code> in order to make clean URLs work</li>
+    <li>your server doesn’t support clean URLs at all</li>
+</ul>
+<p>The clean URL test attempts to fetch a page from the web address specified in the ‘Site URL’ preference in order to check that all clean URL parameters are working correctly. If that URL is a different site, or has been replaced with a static page or similar, the test will fail. Until the issue is resolved you will have to use messy URLs on your site instead (<code>http://example.com?s=section&amp;id=4</code>). Ensure the ‘Permanent link mode’ in Admin Preferences is set accordingly.</p></string>
+    <string name="cleanurl_only_apache"><h2>Diagnostics: Clean URL support</h2>
+<p>Clean URLs are only supported on Apache. If you are using another server platform, use short URLs at your own risk.</p>
+</string>
+    <string name="dev_version_live"><h2>Diagnostics: Development code on a live server</h2>
+<p>You are running in-development files on a live production site which is not recommended. If you know this already and are happy to do so, you may ignore this warning.</p></string>
+    <string name="dir_not_writable"><h2>Diagnostics: Directory is not writable</h2>
+<p>To use the file and image upload capabilities, these directories have to be writable by PHP. Usually this means you have to change permissions so the web server user has write access to the directory. This can be done with your FTP client, or alternatively on the command line by issuing a <code>chmod 755 /path/to/dir</code> command.</p></string>
+    <string name="dns_lookup_fails"><h2>Diagnostics: DNS fails</h2>
+<p>It appears the URL you specified as the address of your site is unreachable.</p></string>
+    <string name="file_uploads_disabled"><h2>Diagnostics: File uploads are disabled</h2>
+<p>Your current server configuration shows that file uploads are disabled so you will not be able to upload using Textpattern’s ‘Files’ and/or ‘Images’ panel. Please check and alter the <code>file_uploads</code> setting in <code>php.ini</code> (or ask your host to alter it).</p></string>
+    <string name="htaccess_missing"><h2>Diagnostics: .htaccess file missing</h2>
+<p>You are using a permanent link mode which requires an <code>.htaccess</code> file to be placed in your site root directory. The recommended directives are:</p>
+<pre><code>&lt;IfModule mod_rewrite.c&gt;
+    RewriteEngine On
+    #RewriteBase /relative/web/path/
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^(.+) - [PT,L]
+    RewriteCond %{REQUEST_URI} !=/favicon.ico
+    RewriteRule ^(.*) index.php
+    RewriteCond %{HTTP:Authorization}  !^$
+    RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+&lt;/IfModule&gt;</code></pre></string>
+    <string name="index_inaccessible"><h2>Diagnostics: Site index inaccessible</h2>
+<p>The main <code>index.php</code> file specified as the index for your site is unreadable by the server. Please check permissions.</p></string>
+    <string name="missing_files"><h2>Diagnostics: Missing files</h2>
+<p>Some essential files are missing from your Textpattern installation. Ensure that all the listed files are present on your server and are in the correct locations.</p></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
 </resources>

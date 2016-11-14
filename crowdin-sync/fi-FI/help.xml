@@ -77,9 +77,9 @@
   <string name="admin_side_plugins"><h1>Asetukset: Käytetäänkö ylläpito-osion liitännäisiä?</h1>
 <p>Ylläpito-osion liitännäiset voivat muuttaa hallintapaneelin käyttöliittymän toimintatapaa. Liitännäiset voivat myös vaikuttaa olemassa oleviin toiminnallisuuksiin, kuten artikkelien muokkaamiseen tai julkaisemiseen, ja ne voivat myös lisätä uusia elementtejä ulkoasuun uusien/laajennettujen toiminnallisuuksien tarjoamiseksi.</p>
 <p>Mikäli haluat oppia lisää ylläpito-osion liitännäisistä, ole hyvä ja tutustu <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Extending Textpattern</a> -sivuun <a rel="external" target="_blank" href="http://docs.textpattern.io/">Textpatternin Käyttäjädokumentaatiossa</a>. Liitännäisiä on luetteloitu <a rel="external" target="_blank" href="http://textpattern.org/">Textpattern Resources</a> -sivustolla.</p></string>
-  <string name="remember_login"><h2>Remember login</h2>
-<p>When checked, you will remain logged in to your Textpattern account with the current web browser, until you choose to log out. If left unchecked, you will be automatically logged out after a period of inactivity.</p>
-<p>Requires cookies to be enabled in your browser.</p></string>
+  <string name="remember_login"><h2>Muista kirjautuminen</h2>
+<p>Jos valittu, pysyt kirjautuneena Textpattern-tiliisi nykyisellä nettiselaimellasi kunnes päätät kirjautua ulos. Mikäli rastia ei ole valittu, kirjaudut ulos automaattisesti tietyn käyttämättömyysajan jälkeen.</p>
+<p>Toiminto edellyttää, että nettiselain sallii evästeiden käytön.</p></string>
   <string name="article_image"><h2>Write: Article image</h2>
 <p>If you would like to associate a single image with this article, place one of the following here:</p>
 <ol>
@@ -88,27 +88,27 @@
     <li>a fully-qualified URL (e.g. <code>http://example.com/path/to/images/my_pic.jpg</code>)</li>
 </ol>
 <p>The image can be displayed by placing a <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/article_image"><code>&lt;txp:article_image /&gt;</code> tag <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> inside an article form. It will output a complete HTML <code>&lt;img&gt;</code> tag to your chosen image.</p></string>
-  <string name="body"><h2>Write: Body</h2>
-<p>The main content of an article is contained within the article body.</p>
-<p>When composing or preparing articles for publication in Textpattern, you can switch between three views of the article: plain text, HTML markup (the code with which a web browser renders the article), and a rendered preview.</p></string>
+  <string name="body"><h2>Kirjoita: Leipäteksti</h2>
+<p>Artikkelin pääasiallinen sisältö sijaitsee leipätekstille varatussa alueessa.</p>
+<p>Kun Textpatternilla kirjoitetaan artikkeleita tai niitä valmistellaan julkaistavaksi, voit vaihtaa käsiteltävänä olevan artikkelin esitystapaa kolmen vaihtoehdon välillä: pelkkä teksti, HTML-merkkaus (se koodi, jonka nettiselain tulkitsee kun artikkelia katsellaan), sekä esikatselu.</p></string>
   <string name="description"><h2>Write: Description</h2>
 <p>The article description is an optional component that can help search engines and website crawlers better identify and sort content.</p>
 <p>The article description is limited to a maximum of 255 characters. Note that some search engines place character limits on the length of a page’s <code>meta description</code> for practicality of display in search engine results pages (SERPs) and this may be less than the 255 character limit in Textpattern.</p>
 <p>Note that the article description differs from the article excerpt, though they both accept similar content. The article description should be primarily intended for use with search engines and crawlers, whereas the the article excerpt is more suited for a human-readable article summary where desired.</p></string>
-  <string name="excerpt"><h2>Write: Excerpt</h2>
-<p>Article excerpts are optional. Excerpts could be used as a short summary of the article that is displayed as part of a table of contents, used in place of the full article body in the site’s RSS/Atom feeds, or a number of other uses.</p></string>
-  <string name="expire_date"><h2>Write: Expire date</h2>
-<p>The time an article is labelled as expired. The time is optional and can be set to an arbitrary time in the past or future.</p>
-<p>The boxes correspond to the following information:</p>
+  <string name="excerpt"><h2>Kirjoita: Johdanto</h2>
+<p>Artikkelien johdannot ovat vapaaehtoisia. Johdantoja voi käyttää lyhyinä yhteenvetoina artikkelissa käsiteltävistä asioista, ja johdantoteksti voidaan näyttää osana artikkelin sisältöä. Johdanto voidaan myös näyttää RSS-/Atom-syötteessä artikkelin leipätekstin sijaan. Sillä on myös muita käyttötarkoituksia.</p></string>
+  <string name="expire_date"><h2>Kirjoita: Vanhentumispäivämäärä</h2>
+<p>Aika, jolloin artikkeli merkitään vanhentuneeksi. Se on vapaaehtoinen tieto, joka voidaan asettaa haluttuun aikaan menneisyydessä tai tulevaisuudessa.</p>
+<p>Kentät tarkoittavat seuraavia tietoja:</p>
 <ul>
-    <li>Year / Month / Day</li>
-    <li>Hour (24-hour format) : Minute : Second</li>
+<li>Vuosi / Kuukausi / Päivä</li>
+<li>Tunti (24 tunnin formaatissa) : Minuutti : Sekunti</li>
 </ul>
-<p>When the time arrives, or in the case where a time in the past is provided, the article expires.</p>
-<p>If the option to display expired articles is enabled, the article remains visible. If the option to display expired articles is disabled, visitors to the article page will be served an HTTP 410 error in place of the article content.</p></string>
-  <string name="keywords"><h2>Write: Keywords</h2>
-<p>Keywords are useful for refining the relationships between articles beyond those provided by categories.</p>
-<p>Keywords must be individual words separated by commas.</p></string>
+<p>Artikkeli vanhentuu kun vanhentumispäivämäärä saapuu, tai jos se on ylitetty.</p>
+<p>Mikäli asetuksista on sallittu vanhentuneiden artikkelien näyttäminen, artikkeli pysyy esillä. Jos vanhentuneiden artikkelien näyttäminen on pois käytöstä, vanhentuneen artikkelin avaamista yrittävät käyttäjät näkevät HTTP-virheilmoituksen 410 varsinaisen artikkelin sijaan.</p></string>
+  <string name="keywords"><h2>Kirjoita: Avainsanat</h2>
+<p>Avainsanat ovat hyödyllisiä kun halutaan määritellä artikkeleiden välille yhteyksiä samaan tapaan kuin kategorioilla voi tehdä, paitsi monipuolisemmin.</p>
+<p>Avainsanojen tulee olla yksittäisiä pilkuin eroteltuja sanoja.</p></string>
   <string name="override_form"><h2>Write: Override form</h2>
 <p>If you wish for an article to use a form different from that assigned by default - for example if you want to show only an article excerpt with <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/excerpt"><code>&lt;txp:excerpt /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> where you normally show the entire article with <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/body"><code>&lt;txp:body /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> - this can be set here.</p></string>
   <string name="publish_date"><h2>Write: Publish date</h2>
@@ -119,12 +119,12 @@
     <li>Hour (24-hour format) : Minute : Second</li>
 </ul>
 <p>An item with a timestamp greater than the current time (i.e. in the future) will not appear on the front end and the RSS/Atom feeds until that time arrives.</p></string>
-  <string name="title"><h2>Write: Title</h2>
-<p>Add an appropriate title for this article.</p>
-<p>An article title is limited to a maximum of 255 characters.</p></string>
-  <string name="url_title"><h2>Write: URL-only title</h2>
-<p>If you would like to have a specific title attached to the permalink URL for your article, enter it here. If it is left blank, the URL title will be automatically generated from the article title.</p>
-<p>This is particularly useful if the title of your article uses non-ASCII characters.</p></string>
+  <string name="title"><h2>Kirjoita Otsikko</h2>
+<p>Lisää artikkeliin kuuluva otsikko.</p>
+<p>Artikkelin otsikon enimmäispituus on rajoitettu 255 merkkiin.</p></string>
+  <string name="url_title"><h2>Kirjoita URL-otsikko</h2>
+<p>Mikäli haluat artikkelin kestolinkin URL-tekstin olevan jotain tiettyä, voit kirjoittaa sen tähän. Mikäli kenttä on jätetty tyhjäksi, URL-otsikko muodostetaan automaattisesti artikkelin otsikosta.</p>
+<p>Tämä on erityisen hyödyllinen mikäli artikkelisi otsikossa käytetään ASCII-merkistön ulkopuolisia merkkejä.</p></string>
   <string name="allow_article_php_scripting"><h2>Preferences: Allow PHP in articles?</h2>
 <p>When enabled, this setting will allow use of PHP within articles. The author must have sufficient privileges to do so (by default, only <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Publishers’ <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> and <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Managing Editors’ <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> can).</p>
 <p>PHP code must have opening and closing PHP tags omitted, and also be enclosed within <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/php"><code>&lt;txp:php&gt;</code> tags <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a>.</p></string>
