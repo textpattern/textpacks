@@ -1,4 +1,4 @@
-#@version 4.6.2;1473236354
+#@version 4.6.2;1479388091
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -187,7 +187,7 @@ bg-bg => български
 body => Corpo
 bs-ba => Bosanski
 ca-es => Català
-cancel =>
+cancel => Cancelar
 cannot_instantiate_theme => O tema <strong>{name}</strong> ({class}) não foi correctamente carregado a partir de {path}. O tema Classico será usado por defeito.
 category => Categoria
 changeauthor => Mudar autor
@@ -199,7 +199,7 @@ changeparent => Mudar parente
 changesection => Mudar secção
 changestatus => Mudar de estado
 close => Fechar
-collapse_all =>
+collapse_all => Recolher todos
 comment => Comentário
 comments_expired => Expirou a data para comentar este artigo.
 confirm_delete_popup => Tem a certeza que quer apagar?
@@ -222,7 +222,7 @@ en-us => English (American)
 es-es => Español
 et-ee => Eesti
 excerpt => Resumo
-expand_all =>
+expand_all => Expandir tudo
 expired => Expirado
 expire_date =>
 expire_time =>
@@ -281,9 +281,9 @@ ro-ro => Română
 ru-ru => Русский
 salutation =>
 save_new => Guardar novo
-search_all =>
-search_clear =>
-search_options =>
+search_all => Pesquisar tudo
+search_clear => Limpar Pesquisa
+search_options => Opções de busca
 showing_search_results => A mostrar {from} a {to} de {total}
 site_slogan => Slogan do sítio
 sk-sk => Slovenčina
@@ -763,7 +763,7 @@ messy => ?=confuso
 never_display_email => Nunca mostar endereço de email?
 new_textpattern_version_available => Está disponível uma versão completamente nova do Textpattern. Quer experimenta-la?
 no_popup => janela actual
-no_preferences =>
+no_preferences => Sem preferências disponíveis.
 override_emailcharset => No email usar ISO-8859-1? (UTF-8 por defeito)
 path_from_root => Subdirectório (se existir)
 path_to_site_missing => O Caminho para o Sítio (<code>$path_to_site</code>) não está definido (actualizar <code>index.php</code>)

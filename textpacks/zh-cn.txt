@@ -1,4 +1,4 @@
-#@version 4.6.2;1473237220
+#@version 4.6.2;1479388730
 #@admin
 account_activation => 请激活您的帐号
 account_activation_confirmation => 请点击下面的链接来激活您的帐号并且设置密码
@@ -515,7 +515,7 @@ file_status => 文件状态
 file_status_missing => 遗失
 file_status_ok => 正确
 file_unsynchronized => 文件 <strong>{name}</strong> 与数据库不同步。请手动修复文件名。
-file_updated => 文件  <strong>{name}</strong> 已更新。
+file_updated => 文件 <strong>{name}</strong> 已更新。
 file_uploaded => 文件 <strong>{name}</strong> 已上传。
 file_upload_failed => 上传文件失败
 invalid_filename => 无效的文件名
