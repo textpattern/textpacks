@@ -356,13 +356,11 @@ htaccess_missing => .htaccess فائل موجود نہیں
 is_inaccessible => کی رسائی نا پذیری ہے
 last_update => پچھلا تازہ کاری
 low => پست
-magic_quotes => Magic quotes
 missing_files => غائب‏ فائل
 modified_files => کچھ Textpattern کے فائل ترمیم کیے گئے ہیں
 mod_rewrite_missing => Apache module <code dir="ltr">mod_rewrite</code> نسب نہیں
 mysql_table_errors =>
 no_temp_dir =>
-old_files => کئی Textpattern کے فائل متروک ہے
 old_placeholder => پرانی جگہ دار فائل اب بھی موجود ہے
 os_version => سرور کا نظام عمل
 path_to_site_inacc => <code dir="ltr">$path_to_site</code> نا پذیری ہے
@@ -373,7 +371,6 @@ php_version_required =>
 preflight_check =>
 register_globals => Register globals موڈ
 rfc2616_headers => RFC 2616 headers موڈ
-rfc_2616_headers => CGI Header موڈ
 server => سرور
 server_time => سرور کا مقامی وقت
 site_trailing_slash => سائٹ کے URL میں پشت بندی سلیش '/' ہے

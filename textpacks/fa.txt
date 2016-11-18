@@ -356,13 +356,11 @@ htaccess_missing => فایل .htaccess موجود نیست
 is_inaccessible => دسترس‌پذیر نیست
 last_update => آخرین بهنگام‌سازی
 low => کم
-magic_quotes => Magic quotes
 missing_files => فایل های یافت نشده
 modified_files => برخی از فایل‌های Textpattern نغییر یافته‌اند
 mod_rewrite_missing => ماژول <code dir="ltr">mod_rewrite</code> بر روی آپاچی نصب نیست
 mysql_table_errors => این اشکالات در جدول‌های MySQL شما یافت شد
 no_temp_dir => هیچ پوشه‌ای برای فایل‌های موقت تعریف نشده است
-old_files => برخی از فایل‌های Textpattern قدیمی‌اند
 old_placeholder => فایل جایگزین مناسب در راه است
 os_version => سیستم‌عامل سرور
 path_to_site_inacc => <code dir="ltr">$path_to_site</code> دسترس‌پذیر نیست.
@@ -373,7 +371,6 @@ php_version_required => سیستم مدیریت محتوای Textpattern برا�
 preflight_check => آزمون
 register_globals => Register globals
 rfc2616_headers => سرآیندهای RFC 2616
-rfc_2616_headers => CGI Header Mode
 server => سرور
 server_time => زمان محلی سرور
 site_trailing_slash => آدرس سایت یک / در انتها دارد
