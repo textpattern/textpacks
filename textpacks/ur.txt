@@ -385,11 +385,6 @@ warn_register_globals_or_update => آپ کے حلیہ PHP کے ورژن میں �
 web_domain => سائٹ کا URL پتہ
 #@discuss
 article_deleted => یہ مضمون حذف ہے
-ban => پابندی لگاؤ
-banned_for => اس جرم کی وجہ سے
-banned_ips =>
-ban_author => اس شخص پر ‏بندش لگاو‏
-cant_ban_blank_ip => آپ ایک خالی IPپتہ پر بندش نہیں لگا سکتے ہے
 comments_deleted => تبصرہ حذف کیا: <strong>{list}</strong>
 comments_marked_spam => تبصرے کو پوشیدہ کیا اور ان پر 'spam' کا نشان لگایا: <strong>{list}</strong>
 comments_marked_unmoderated => تبصرے کو پوشیدہ کیا اور ان پر 'تفتیش نہ کیا' کا نشان لگایا: <strong>{list}</strong>
@@ -397,27 +392,15 @@ comments_marked_visible => تبصرے کو نمودار کیا: <strong>{list}</
 comment_not_found => یہ تبصرہ موجود نہیں، شاید حذف کیا ہوگا
 comment_save_failed =>
 comment_updated => تبصرہ <strong>{id}</strong> تازہ کیا
-confirm_comment_deletion => تبصرہ حذف کرنے کی تصدیق کریں
-date_banned => کب بندش لگائی گیے
-displayed_comments => نمائش کردہ تبصرے
 edit_comment => تبصرہ تدوین کریں
-hide_comment => تبصرہ چھپائیں
 hide_spam => spam تبصرہ چھپائیں
 hide_unmoderated => ‏تفتیش نہ کیا تبصرہ چھپائیں
-ips_banned => IPپتے جو تبصرہ کرنے سے ممنوع ہے: <strong>{list}</strong>
-ip_already_banned => IPپتہ <strong>{ip}</strong> پر پہلے سے بندش ہے
-ip_banned => IPپتہ <strong>{ip}</strong> پر بندش لگایا گیا
-ip_ban_removed => IPپتہ <strong>{ip}</strong> سے بندش اٹھایا گیا
 just_spam_results_found =>
-list_banned_ips => بندش لگائی IPپتے دیکھایں
 list_discussions => تبصرے
-name_used => استمعال کیا نام
 no_comments_recorded => کوئی تبصرہ دستیاب نہیں
-no_ips_banned => کوئی IPپتہ پر بندش نہیں ہے
 search_comments =>
 show => نمودار کریں
 show_spam => spam تبصرے نمائش کریں
-unban => بندش اٹھاؤ
 #@file
 condition => حالت
 download => ڈاؤن لوڈ کریں

@@ -385,11 +385,6 @@ warn_register_globals_or_update => نسخه‌ی PHP شما دارای مشکل�
 web_domain => نشانی سایت
 #@discuss
 article_deleted => نوشته پاک شد!
-ban => منع
-banned_for => منع‌شده برای
-banned_ips => IPهای بسته شده
-ban_author => منع نظردهنده
-cant_ban_blank_ip => شما نمی‌توانید یک نشانی IP خالی را منع کنید.
 comments_deleted => این نظرات پاک شدند : <strong>{list}</strong>
 comments_marked_spam => این نظرات دیگر نمایش نمی‌یابند و به عنوان اسپم شناخته شدند : <strong>{list}</strong>
 comments_marked_unmoderated => نظرات علامت‌خورده به عنوان مخفی یا مدیریت نشده : <strong>{list}</strong>.
@@ -397,27 +392,15 @@ comments_marked_visible => این نظرات نمایش می‌یابند : <str
 comment_not_found => چنین نظری موجود نیست و احتمالاً پاک شده است.
 comment_save_failed => نظر شما به دلیل بروز خطا ذخیره نشد. لطفا دوباره تلاش کنید.
 comment_updated => نظر با شناسه <strong>{id}</strong> بهنگام شد.
-confirm_comment_deletion => تأیید حذف نظر
-date_banned => تاریخ ممنوعیت
-displayed_comments => نظرات نمایش داده شده
 edit_comment => ویرایش نظر
-hide_comment => مخفی‌کردن نظر
 hide_spam => مخفی کن (اسپم است)
 hide_unmoderated => مخفی کن (تأیید نشده)
-ips_banned => این IPها از نظردهی منع شده‌اند: <strong>{list}</strong>.
-ip_already_banned => نشانی IP <strong>{ip}</strong> از پیش منع شده است.
-ip_banned => نشانی IP <strong>{ip}</strong> منع شد.
-ip_ban_removed => ممنوعیت <strong>{ip}</strong> برداشته شد.
 just_spam_results_found =>
-list_banned_ips => لیست IPهای ممنوعه
 list_discussions => نظرات
-name_used => نام استفاده شده
 no_comments_recorded => هیچ نظری ثبت نشده است
-no_ips_banned => هیچ IPی منع نشده است.
 search_comments =>
 show => نمایش
 show_spam => نمایش اسپم
-unban => لغو ممنوعیت
 #@file
 condition => شرایط
 download => دانلود
