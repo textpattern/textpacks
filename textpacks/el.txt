@@ -507,12 +507,8 @@ referrer => Επίσκεψη από άλλο ιστότοπο
 search_logs => Αναζήτησης αρχείου καταγραφής
 #@page
 all_pages => Όλες οι σελίδες
-copy_page_as => Αντιγραφή της σελίδας ως:
 create_new_page => Δημιουργία νέας σελίδας
-delete_page_confirmation => επιβεβαίωση διαγραφής σελίδας
-edit_page => Επεξεργασία σελίδας
 edit_pages => επεξεργασία προτύπου σελίδας
-name_for_this_page => Όνομα σελίδας
 page_already_exists => Η σελίδα <strong>{name}</strong> ήδη υπάρχει.
 page_article_hed => Επισκόπηση άρθρου
 page_article_nav_hed => Πλοήγηση άρθρου
@@ -527,8 +523,6 @@ page_save_failed => Το άρθρο δεν αποθηκεύτηκε λόγω σ�
 page_updated => Η σελίδα <strong>{name}</strong> ενημερώθηκε.
 page_used_by_section => Η Σελίδα <strong>{name}</strong> δεν διεγράφη, χρησιμοποιείται από {count} τομείς.
 page_xml_hed => Τροφοδοσίες XML
-you_are_editing_div => Επεξεργάζεστε το div
-you_are_editing_page => Επεξεργάζεστε το πρότυπο σελίδας
 #@plugin
 bad_plugin_code => O πηγαίος κώδικας του αρθρώματος είναι άκυρος ή άδειος.
 broken_plugin => σφάλμα

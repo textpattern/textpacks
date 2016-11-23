@@ -507,12 +507,8 @@ referrer => کہاں سے آے
 search_logs =>
 #@page
 all_pages => تمام صفحات
-copy_page_as => یا صفہ کو اس نام سے نقل کریں…
 create_new_page => ایک نیا صفہ بناۓ
-delete_page_confirmation => صفہ حذف کرنے کی تصدیق کریں
-edit_page => صفہ تدوین کریں
 edit_pages => صفہ ٹیمپلیٹ
-name_for_this_page =>
 page_already_exists => صفہ <strong>{name}</strong> پہلے سے موجود ہے
 page_article_hed =>
 page_article_nav_hed =>
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => صفہ <strong>{name}</strong> تازہ کیا
 page_used_by_section => صفہ <strong>{name}</strong> حذف نہیں کیا; {count} منتخب اشیا اس کا استمعال کر رہے ہیں
 page_xml_hed =>
-you_are_editing_div => آپ یہ div تدوین کر رہے ہیں
-you_are_editing_page => آپ یہ صفہ ٹیمپلیٹ تدوین کر رہے ہیں
 #@plugin
 bad_plugin_code => خالی کوڈ یا پلگ ان کے کوڈ مے گڑبڑی
 broken_plugin => شکستہ

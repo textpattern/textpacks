@@ -507,12 +507,8 @@ referrer => Referrer
 search_logs => Logs durchsuchen
 #@page
 all_pages => Alle Seitenvorlagen
-copy_page_as => Kopiere Seitenvorlage als:
 create_new_page => Neue Seitenvorlage anlegen
-delete_page_confirmation => Löschen der Seitenvorlage bestätigen
-edit_page => Seitenvorlage bearbeiten
 edit_pages => Seitenvorlage bearbeiten
-name_for_this_page => Name der Seitenvorlage
 page_already_exists => Seitenvorlage <strong>{name}</strong> existiert bereits.
 page_article_hed => Artikelausgabe
 page_article_nav_hed => Artikelnavigation
@@ -527,8 +523,6 @@ page_save_failed => Die Seitenvorlage konnte wegen eines Fehlers nicht gespeiche
 page_updated => Seitenvorlage <strong>{name}</strong> aktualisiert.
 page_used_by_section => Seite <strong>{name}</strong> wurde nicht gelöscht. Sie wird von {count} Sektion(en) verwendet.
 page_xml_hed => XML-Feeds
-you_are_editing_div => In Bearbeitung: DIV
-you_are_editing_page => In Bearbeitung: Seitenvorlage
 #@plugin
 bad_plugin_code => Defekter oder leerer Plugin-Code
 broken_plugin => defekt

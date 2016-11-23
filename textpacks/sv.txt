@@ -507,12 +507,8 @@ referrer => Hänvisad från
 search_logs => Sök loggar
 #@page
 all_pages => Alla sidor
-copy_page_as => …eller kopiera sidmall som:
 create_new_page => Skapa ny sidmall
-delete_page_confirmation => bekräfta radering av sidmall
-edit_page => redigera sidmall
 edit_pages => Sidmallar
-name_for_this_page => Namn på denna sida
 page_already_exists => Sidmallen <strong>{name}</strong> finns redan.
 page_article_hed => Artikeltext
 page_article_nav_hed => Artikelnavigering
@@ -527,8 +523,6 @@ page_save_failed => Sidan sparades inte på grund av ett fel. Var god försök i
 page_updated => Sidmallen <strong>{name}</strong> uppdaterades.
 page_used_by_section => Sidan <strong>{name}</strong> togs inte bort eftersom den användas av {count} avdelning(ar).
 page_xml_hed => XML-strömmar
-you_are_editing_div => Du redigerar div-en
-you_are_editing_page => Du redigerar sidmallen
 #@plugin
 bad_plugin_code => Felaktigt utformad eller tom plugin-kod.
 broken_plugin => trasig

@@ -507,12 +507,8 @@ referrer => Viitaja
 search_logs =>
 #@page
 all_pages => Kõik lehed
-copy_page_as => Kopeeri leht kui:
 create_new_page =>
-delete_page_confirmation => kinnita lehe kustutamine
-edit_page => Toimeta lehte
 edit_pages => Toimeta lehemalle
-name_for_this_page =>
 page_already_exists =>
 page_article_hed => Artikli väljund
 page_article_nav_hed => Artikli navigatsioon
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section =>
 page_xml_hed => XML voog
-you_are_editing_div => div-i toimetamine
-you_are_editing_page => Lehemalli toimetamine
 #@plugin
 bad_plugin_code => Halvasti vormistatud või tühi plugin.
 broken_plugin => katki

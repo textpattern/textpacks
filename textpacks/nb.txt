@@ -507,12 +507,8 @@ referrer => Henviser
 search_logs =>
 #@page
 all_pages => Alle sider
-copy_page_as => …kopier side som
 create_new_page => Lag ny side
-delete_page_confirmation => bekreft fjerning av side
-edit_page => endre side
 edit_pages => endre sidemal
-name_for_this_page => Navnet på denne side
 page_already_exists => På denne side <strong>{name}</strong> allerede eksisterer.
 page_article_hed => Artikkelutputt
 page_article_nav_hed => Artikkelnavigasjon
@@ -527,8 +523,6 @@ page_save_failed => Siden ble ikke spart på grunn av en feil. Vær så snill, p
 page_updated => Siden <strong>{name}</strong> ble oppdatert.
 page_used_by_section => Siden <strong>{name}</strong> ble ikke slettet da den er brukt av {count} seksjon(er).
 page_xml_hed => XML feeds
-you_are_editing_div => Du endrer div
-you_are_editing_page => Du endrer side
 #@plugin
 bad_plugin_code => Feildefinert eller tom programtilleggskode.
 broken_plugin => ødelagt

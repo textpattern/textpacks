@@ -507,12 +507,8 @@ referrer => 反向链接
 search_logs => 搜索记录
 #@page
 all_pages => 全部页面
-copy_page_as => 或复制页面为：
 create_new_page => 建立新页面
-delete_page_confirmation => 确认删除页面
-edit_page => 编辑页面
 edit_pages => 页面模版
-name_for_this_page => 页面名称
 page_already_exists => 页面 <strong>{name}</strong> 已存在。
 page_article_hed => 文章输出
 page_article_nav_hed => 文章导航
@@ -527,8 +523,6 @@ page_save_failed => 页面由于一个错误没有被保存。请再试一次。
 page_updated => 页面 <strong>{name}</strong> 已更新。
 page_used_by_section => 页面 <strong>{name}</strong> 没有被删除；还有 {count} 个版块在使用它。
 page_xml_hed => XML Feeds
-you_are_editing_div => 正在编辑 div
-you_are_editing_page => 正在编辑页面模版
 #@plugin
 bad_plugin_code => 插件代码错误或空白。
 broken_plugin => 损坏

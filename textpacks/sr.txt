@@ -507,12 +507,8 @@ referrer => Referrer
 search_logs =>
 #@page
 all_pages => Sve stranice
-copy_page_as => …ili, kopiraj stranicu kao
 create_new_page => Napravi novu stranicu
-delete_page_confirmation => potvrdi brisanje stranice
-edit_page => izmeni stranicu
 edit_pages => Šabloni stranica (templates)
-name_for_this_page =>
 page_already_exists => Stranica <strong>{name}</strong> već postoji.
 page_article_hed => Prikaz (output) unosa
 page_article_nav_hed => Navigacija za unose
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => Stranica <strong>{name}</strong> osvežena.
 page_used_by_section => Stranica <strong>{name}</strong>nije izbrisana; koristi se kod {count} sekcija(e).
 page_xml_hed => XML feedovi
-you_are_editing_div => Vi uređujete div
-you_are_editing_page => Vi uređujete šablon (template) stranice
 #@plugin
 bad_plugin_code => Loše formatiran ili neispravan kod plugin-a.
 broken_plugin => neispravan

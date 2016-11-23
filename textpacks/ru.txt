@@ -507,12 +507,8 @@ referrer => Перенаправление
 search_logs => Поиск в логе
 #@page
 all_pages => Все страницы
-copy_page_as => …или копировать страницу как
 create_new_page => Создать новую страницу
-delete_page_confirmation => подтвердите удаление страницы
-edit_page => редактировать страницу
 edit_pages => Редактировать страницы
-name_for_this_page => Название этой страницы
 page_already_exists => Страница <strong>{name}</strong> уже существует.
 page_article_hed => Вывод статьи
 page_article_nav_hed => Навигация по статьям
@@ -527,8 +523,6 @@ page_save_failed => Ошибка! Страница не сохранена, по
 page_updated => Обновлена страница <strong>{name}</strong>.
 page_used_by_section => Страница <strong>{name}</strong> не удалена; используется {count} секциями.
 page_xml_hed => Потоки XML
-you_are_editing_div => Вы редактируете div
-you_are_editing_page => Вы редактируете шаблон страницы
 #@plugin
 bad_plugin_code => Неправильно оформленный или пустой код плагина
 broken_plugin => Код плагина испорчен

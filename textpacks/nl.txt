@@ -507,12 +507,8 @@ referrer => Via
 search_logs => Logs doorzoeken
 #@page
 all_pages => Alle pagina’s
-copy_page_as => …of pagina kopiëren als
 create_new_page => Nieuwe pagina maken
-delete_page_confirmation => bevestig verwijdering pagina
-edit_page => Pagina wijzigen
 edit_pages => Modelpagina wijzigen
-name_for_this_page => Paginanaam
 page_already_exists => Pagina <strong>{name}</strong> bestaat al.
 page_article_hed => Om artikelen te plaatsen
 page_article_nav_hed => Artikelnavigatie tags
@@ -527,8 +523,6 @@ page_save_failed => Door een fout is de pagina niet opgeslagen. Probeer het nogm
 page_updated => Pagina <strong>{name}</strong> vernieuwd.
 page_used_by_section => De pagina <strong>{name}</strong> kan niet worden verwijderd; ze wordt gebruikt in {count} sectie(s).
 page_xml_hed => XML feeds
-you_are_editing_div => Je bewerkt div
-you_are_editing_page => Je bewerkt modelpagina
 #@plugin
 bad_plugin_code => Foute of lege plugin code.
 broken_plugin => werkt niet

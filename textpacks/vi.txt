@@ -507,12 +507,8 @@ referrer => Referrer
 search_logs =>
 #@page
 all_pages => Tất cả các trang
-copy_page_as => …hoặc, lưu trang với tên
 create_new_page => Tạo trang mới
-delete_page_confirmation => xác nhận xóa trang
-edit_page => Sửa trang
 edit_pages => Mẫu của trang
-name_for_this_page => Tên trang này
 page_already_exists => Đã có trang <strong>{name}</strong> từ trước.
 page_article_hed => Output bài viết
 page_article_nav_hed => Di chuyển giữa các bài viết
@@ -527,8 +523,6 @@ page_save_failed => Không thể ghi lại trang bởi vì xảy ra lỗi. Vui l
 page_updated => Đã cập nhật trang <strong>{name}</strong>.
 page_used_by_section => Trang <strong>{name}</strong> không bị xóa; vì nó được dùng bởi {count} mục.
 page_xml_hed => XML Feed
-you_are_editing_div => Bạn đang sửa div
-you_are_editing_page => Bạn đang sửa mẫu của trang
 #@plugin
 bad_plugin_code => Phần bổ xung sai định dạng.
 broken_plugin => bị lỗi

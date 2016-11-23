@@ -507,12 +507,8 @@ referrer => Rujukan
 search_logs =>
 #@page
 all_pages => Semua Halaman
-copy_page_as => …atau, salin sebagai
 create_new_page =>
-delete_page_confirmation => konfirmasi penghapusan halaman
-edit_page => edit halaman
 edit_pages => Templat Halaman
-name_for_this_page => Nama untuk halaman ini
 page_already_exists =>
 page_article_hed => Keluaran artikel
 page_article_nav_hed => Navigasi artikel
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section => Halaman <strong>{name}</strong> tidak dihapus; terpakai oleh {count} seksi.
 page_xml_hed => Umpan XML
-you_are_editing_div => Anda sedang mengedit div
-you_are_editing_page => Anda sedang mengedit templat halaman
 #@plugin
 bad_plugin_code => Salah bentuk atau kode plugin kosong.
 broken_plugin => rusak

@@ -507,12 +507,8 @@ referrer => Origem dos visitantes
 search_logs => Pesquisar logs
 #@page
 all_pages => Todas as páginas
-copy_page_as => …ou copiar página como:
 create_new_page => Criar nova página
-delete_page_confirmation => confirma que quer excluir a página
-edit_page => Editar página
 edit_pages => Páginas
-name_for_this_page => Nome para esta página
 page_already_exists => A Página <strong>{name}</strong> já existe!
 page_article_hed => Mostrar artigo
 page_article_nav_hed => Navegação entre artigos
@@ -527,8 +523,6 @@ page_save_failed => A página não foi salva devido a um erro. Por favor, tente 
 page_updated => A Página <strong>{name}</strong> foi atualizada.
 page_used_by_section => Página <strong>(nome)</strong> não excluída; utilizada por {count} seção (ões).
 page_xml_hed => Feeds XML
-you_are_editing_div => Está editando um div
-you_are_editing_page => Está editando a página
 #@plugin
 bad_plugin_code => Código do plugin incorreto
 broken_plugin => Inválido

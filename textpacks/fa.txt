@@ -507,12 +507,8 @@ referrer => ارجاع‌دهنده
 search_logs =>
 #@page
 all_pages => تمام صفحات
-copy_page_as => و یا صفحه کپی شود در
 create_new_page => ساخت صفحه نو
-delete_page_confirmation => تأیید حذف صفحه
-edit_page => ویرایش صفحه
 edit_pages => قالب‌های صفحه‌ها
-name_for_this_page => نام این صفحه
 page_already_exists => صفحه <strong>{name}</strong> از پیش موجود است.
 page_article_hed => خروجی نوشته
 page_article_nav_hed => پیمایش‌گر نوشته‌ها
@@ -527,8 +523,6 @@ page_save_failed => صفحه به دلیل بروز خطا ذخیره نشد. ل
 page_updated => صفحه <strong>{name}</strong> بهنگام شد.
 page_used_by_section => صفحه <strong>{name}</strong> پاک نشد چرا که {count} صفحه از آن استفاده می‌کنند.
 page_xml_hed => فیدها
-you_are_editing_div => شما در حال ویرایش div هستید
-you_are_editing_page => در حال ویرایش قالب صفحه هستید
 #@plugin
 bad_plugin_code => کد پلاگین بدساختار یا خالی است.
 broken_plugin => شکسته

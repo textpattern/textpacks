@@ -507,12 +507,8 @@ referrer => Referents
 search_logs =>
 #@page
 all_pages => Totes les pàgines
-copy_page_as => Còpia pàgina com:
 create_new_page => Crea pàgina nova
-delete_page_confirmation => Confirma per esborrar la pàgina
-edit_page => Modifica pàgines
 edit_pages => modifica plantilla de pàgina
-name_for_this_page =>
 page_already_exists => La pàgina <strong>{name}</strong> ja existeix.
 page_article_hed => Sortida de l’article
 page_article_nav_hed => Navegació entre articles
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => S’ha actualitzat la pàgina <strong>{name}</strong>.
 page_used_by_section => No s’ha esborrat la pàgina <strong>{name}</strong> perquè hi ha {count} secció/seccions que l’utilitzen.
 page_xml_hed => Feeds XML
-you_are_editing_div => Estàs editant un DIV
-you_are_editing_page => Estàs editant la plantilla
 #@plugin
 bad_plugin_code => Codi del plugin buit o mal format.
 broken_plugin => Trencat

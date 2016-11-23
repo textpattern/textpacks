@@ -507,12 +507,8 @@ referrer => Hivatkozások
 search_logs =>
 #@page
 all_pages => Minden oldal
-copy_page_as => Oldal másolása mint:
 create_new_page => Új oldal létrehozása
-delete_page_confirmation => oldal törlés megerősítése
-edit_page => Oldal szerkesztése
 edit_pages => lap sablon szerkesztése
-name_for_this_page =>
 page_already_exists => A(z) <strong>{name}</strong> lap már létezik.
 page_article_hed => Cikk kimenetel
 page_article_nav_hed => Cikk navigáció
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => A(z) <strong>{name}</strong> lap frissítve.
 page_used_by_section => Az oldal <strong>{name}</strong> törlése nem lehetséges; {count} szekció használja.
 page_xml_hed => XML csatornák
-you_are_editing_div => Te div-et szerkesztesz
-you_are_editing_page => Te az oldal sablonját szerkeszted
 #@plugin
 bad_plugin_code => Rosszul formázott vagy üres plugin kód.
 broken_plugin => rossz

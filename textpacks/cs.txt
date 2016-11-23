@@ -507,12 +507,8 @@ referrer => Odkazující server
 search_logs => Hledat záznamy
 #@page
 all_pages => Všechny stránky
-copy_page_as => …nebo zkopírovat jako
 create_new_page => Vytvořit novou stránku
-delete_page_confirmation => potvrdit odstranění stránky
-edit_page => Upravit stránku
 edit_pages => Úpravy stránek
-name_for_this_page => Název pro tuto stránku
 page_already_exists => Strana <strong>{name}</strong> již existuje.
 page_article_hed => Výpis článků
 page_article_nav_hed => Navigace pro články
@@ -527,8 +523,6 @@ page_save_failed => Stránka nebyla uložena. Prosím, zkuste to znovu.
 page_updated => Stránka <strong>{name}</strong> upravena.
 page_used_by_section => Stránka <strong>{name}</strong> nebyla odstraněna; používá ji alespoň jedna rubrika.
 page_xml_hed => Prameny XML
-you_are_editing_div => Upravuješ oddíl
-you_are_editing_page => Upravuješ stránku
 #@plugin
 bad_plugin_code => Chybný nebo prázdný kód pluginu.
 broken_plugin => chybný

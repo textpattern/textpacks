@@ -507,12 +507,8 @@ referrer => レファラ
 search_logs =>
 #@page
 all_pages => すべてのページ
-copy_page_as => ページのコピー先:
 create_new_page => ページの新規作成
-delete_page_confirmation => ページ削除の承認
-edit_page => ページの編集
 edit_pages => テンプレートの編集
-name_for_this_page => このページの名前
 page_already_exists => ページ <strong>{name}</strong>は既に存在しています。
 page_article_hed => 記事の出力
 page_article_nav_hed => 記事のナヴィゲーション
@@ -527,8 +523,6 @@ page_save_failed => このページの保存に失敗しました。再試行く
 page_updated => ページ <strong>{name}</strong>は更新されました。
 page_used_by_section => ページ <strong>{name}</strong> を削除出来ませんでした。{count} 個のセクションで使用されています。
 page_xml_hed => XMLフィード
-you_are_editing_div => 編集中のdiv
-you_are_editing_page => 編集中のテンプレート
 #@plugin
 bad_plugin_code => 不完全または空のプラグイン。
 broken_plugin => 破損

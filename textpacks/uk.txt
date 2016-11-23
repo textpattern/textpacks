@@ -507,12 +507,8 @@ referrer => Реферер
 search_logs => Пошук в лог файлі
 #@page
 all_pages => Всі сторінки
-copy_page_as => …або копіювати сторінку як
 create_new_page => Створити нову сторінку
-delete_page_confirmation => підтвердить видалення сторінки
-edit_page => редагувати сторінку
 edit_pages => Шаблони Сторінок
-name_for_this_page => Назва для цієї сторінки
 page_already_exists => Сторінка <strong>{name}</strong> вже існує.
 page_article_hed => Вивід статті
 page_article_nav_hed => Навігація по статтях
@@ -527,8 +523,6 @@ page_save_failed => Сторінка не були збережені через
 page_updated => Сторінка <strong>{name}</strong> оновлена.
 page_used_by_section => Сторінка <strong>{name}</strong> не видалена, оскільки використовується {count} секціями.
 page_xml_hed => XML Feeds
-you_are_editing_div => Ви редагуєте div
-you_are_editing_page => Ви редагуєте шаблон сторінки
 #@plugin
 bad_plugin_code => Погано оформлений або пустий код плагіна.
 broken_plugin => не працює

@@ -507,12 +507,8 @@ referrer => Remitente
 search_logs => Buscar registros
 #@page
 all_pages => Todas las páginas
-copy_page_as => …o copiar página como
 create_new_page => Crear una página nueva
-delete_page_confirmation => confirma el borrado de la página
-edit_page => Modificar página
 edit_pages => Plantillas de página
-name_for_this_page => Nombre de esta página
 page_already_exists => La página <strong>{name}</strong> ya existe.
 page_article_hed => Salida en pantalla del artículo
 page_article_nav_hed => Navegación entre artículos
@@ -527,8 +523,6 @@ page_save_failed => Debido a un error no se ha guardado la página. Por favor, i
 page_updated => Página <strong>{name}</strong> actualizada.
 page_used_by_section => No se ha borrado la página <strong>{name}</strong>; la usan {count} sección(es).
 page_xml_hed => Feeds XML
-you_are_editing_div => Estás editando un DIV
-you_are_editing_page => Estás editando la plantilla de página
 #@plugin
 bad_plugin_code => Código del plugin vacío o incorrecto.
 broken_plugin => roto

@@ -507,12 +507,8 @@ referrer => Referrer
 search_logs =>
 #@page
 all_pages => Toate paginile
-copy_page_as => Copiaza pagina ca:
 create_new_page => Creeaza o pagina noua
-delete_page_confirmation => confirma stergerea paginii
-edit_page => editeaza pagina
 edit_pages => Editeaza template-ul paginii
-name_for_this_page => Numele acestei pagini
 page_already_exists => Pagina <strong>{name}</strong> exista deja.
 page_article_hed => Output articol
 page_article_nav_hed => Navigare articol
@@ -527,8 +523,6 @@ page_save_failed => Pagina nu a fost salvata datorita unei erori. Te rog mai inc
 page_updated => Pagina <strong>{name}</strong> a fost update-uita.
 page_used_by_section => Pagina <strong>{name}</strong> nu a fost stearsa; este folosita de {count} sectiuni.
 page_xml_hed => Feed-uri XML
-you_are_editing_div => Editezi div-ul
-you_are_editing_page => Editezi template-ul paginii
 #@plugin
 bad_plugin_code => Extensie incompleta sau neexistenta.
 broken_plugin => incompleta

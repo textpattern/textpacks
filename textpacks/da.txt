@@ -507,12 +507,8 @@ referrer => Referer
 search_logs =>
 #@page
 all_pages => Alle sider
-copy_page_as => Kopier side som:
 create_new_page => Opret ny side
-delete_page_confirmation => bekræft sletning af side
-edit_page => Rediger side
 edit_pages => Rediger side skabelon
-name_for_this_page =>
 page_already_exists => Siden <strong>{name}</strong> eksisterer allerede.
 page_article_hed => Artikel output
 page_article_nav_hed => Artikel navigation
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => Siden <strong>{name}</strong> blev opdateret.
 page_used_by_section => Side <strong>{name}</strong> ikke slettet; bruges af {count} afsnit.
 page_xml_hed => XML feeds
-you_are_editing_div => Du redigerer div
-you_are_editing_page => Du redigerer sideskabelon
 #@plugin
 bad_plugin_code => Dårligt udformet eller tom pluginkode.
 broken_plugin => defekt

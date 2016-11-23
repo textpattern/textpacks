@@ -507,12 +507,8 @@ referrer => Nosūtītājs
 search_logs => Meklēt žurnālā
 #@page
 all_pages => Visas lapas
-copy_page_as => …vai nokopēt lapu kā
 create_new_page => Izveidot jaunu lapu
-delete_page_confirmation => apstiprināt lapas dzēšanu
-edit_page => Labot lapu
 edit_pages => Lapas šabloni
-name_for_this_page => Šīs lapas nosaukums
 page_already_exists => Lapa <strong>{name}</strong> jau pastāv.
 page_article_hed => Ierasta izdruka
 page_article_nav_hed => Ieraksta navigācija
@@ -527,8 +523,6 @@ page_save_failed => Lapa netika saglabāta kļūdu dēļ. Lūdzu mēģiniet vēl
 page_updated => Lapa <strong>{name}</strong> atjaunināta.
 page_used_by_section => Lapa <strong>{name}</strong> netika dzēsta; to lieto {count} sadaļa(s).
 page_xml_hed => XML padeves
-you_are_editing_div => Jūs labojat slāni
-you_are_editing_page => Jūs labojat lapas šablonu
 #@plugin
 bad_plugin_code => Nepareizi noformēts vai tukšs spraudnis.
 broken_plugin => nederīgs

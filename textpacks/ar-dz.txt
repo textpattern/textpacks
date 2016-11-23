@@ -507,12 +507,8 @@ referrer => الموقع المصدر
 search_logs =>
 #@page
 all_pages =>
-copy_page_as =>
 create_new_page =>
-delete_page_confirmation =>
-edit_page =>
 edit_pages =>
-name_for_this_page =>
 page_already_exists =>
 page_article_hed => عرض المقال
 page_article_nav_hed =>
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section =>
 page_xml_hed => XML تدفق
-you_are_editing_div => div يتم نشر
-you_are_editing_page =>
 #@plugin
 bad_plugin_code => النظام الأصلي لـلبلوغين غير صحيح أو غائب
 broken_plugin => متعطل

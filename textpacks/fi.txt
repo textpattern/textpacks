@@ -507,12 +507,8 @@ referrer => Viittaaja
 search_logs => Hae kävijälokeja
 #@page
 all_pages => Kaikki sivut
-copy_page_as => …tai kopioi sivu nimellä:
 create_new_page => Luo uusi sivu
-delete_page_confirmation => vahvista sivun poisto
-edit_page => Muokkaa sivua
 edit_pages => Muokkaa sivupohjaa
-name_for_this_page => Sivun nimi
 page_already_exists => Sivupohja <strong>{name}</strong> on jo olemassa.
 page_article_hed => Artikkelin tulostus
 page_article_nav_hed => Artikkelien navigaatio
@@ -527,8 +523,6 @@ page_save_failed => Sivua ei tallennettu virheen seurauksena. Ole hyvä ja yrit�
 page_updated => Sivupohja <strong>{name}</strong> muutettu.
 page_used_by_section => Sivua <strong>{name}</strong> ei poistettu; se on käytössä {count} osiossa.
 page_xml_hed => XML-syötteet
-you_are_editing_div => Olet muokkaamassa div:iä
-you_are_editing_page => Olet muokkaamassa sivupohjaa
 #@plugin
 bad_plugin_code => Liitännäisen koodi on väärän muotoinen tai tyhjä
 broken_plugin => viallinen

@@ -507,12 +507,8 @@ referrer => Referrer
 search_logs =>
 #@page
 all_pages => Tüm sayfalar
-copy_page_as => …veya, farklı olarak kopyala
 create_new_page => Yeni sayfa oluştur
-delete_page_confirmation => sayfa silmeyi onayla
-edit_page => Sayfa düzenle
 edit_pages => Sayfa şablonları
-name_for_this_page =>
 page_already_exists => Sayfa <strong>{name}</strong> zaten mevcut.
 page_article_hed => Makale çıktısı
 page_article_nav_hed => Makale menüsü
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => Sayfa <strong>{name}</strong> güncellendi.
 page_used_by_section =>
 page_xml_hed => XML feeds
-you_are_editing_div =>
-you_are_editing_page => Sayfa Şablonunu düzenliyorsunuz
 #@plugin
 bad_plugin_code => Kötü biçimlendirilmiş veya boş eklenti kodu.
 broken_plugin => bozuk

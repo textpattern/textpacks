@@ -507,12 +507,8 @@ referrer => ผู้แนะนำมา
 search_logs =>
 #@page
 all_pages => หน้าทั้งหมด
-copy_page_as => คัดลอกหน้าเป็น:
 create_new_page => สร้างหน้าใหม่
-delete_page_confirmation => ยืนยันการลบหน้า
-edit_page => แก้ไขหน้า
 edit_pages => แก้ไขแม่แบบหน้า
-name_for_this_page =>
 page_already_exists => มีหน้าที่ชื่อ <strong>{name}</strong> อยู่แล้ว
 page_article_hed => ข้อมูลที่ได้จากบทความ
 page_article_nav_hed => การนำทางในบทความ
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => ปรับปรุงหน้า <strong>{name}</strong> แล้ว
 page_used_by_section =>
 page_xml_hed => XML feeds
-you_are_editing_div => คุณกำลังแก้ div
-you_are_editing_page => คุณกำลังแก้แม่แบบหน้า
 #@plugin
 bad_plugin_code => โค้ดของปลั๊กอินว่างเปล่าหรือใช้งานไม่ได้
 broken_plugin => เสียหาย

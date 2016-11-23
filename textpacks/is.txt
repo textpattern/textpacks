@@ -507,12 +507,8 @@ referrer => Tilvísun
 search_logs =>
 #@page
 all_pages => Allar síður
-copy_page_as => Afrita síðu sem:
 create_new_page =>
-delete_page_confirmation => staðfesta eyðingu síðu
-edit_page => breyta síðu
 edit_pages => breyta síðusniði
-name_for_this_page =>
 page_already_exists =>
 page_article_hed => Útsettning greinar
 page_article_nav_hed => Greina stýring
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated =>
 page_used_by_section =>
 page_xml_hed => XML fæði
-you_are_editing_div => Þú ert að breyta div
-you_are_editing_page => Þú ert að breyta síðusniði
 #@plugin
 bad_plugin_code => Slæmur eða enginn viðbótarkóði.
 broken_plugin => bilað

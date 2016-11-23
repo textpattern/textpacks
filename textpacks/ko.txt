@@ -507,12 +507,8 @@ referrer => 리퍼러
 search_logs =>
 #@page
 all_pages => 모든 페이지
-copy_page_as => 페이지를 다음 이름으로 복사
 create_new_page => 새 페이지 만들기
-delete_page_confirmation => 페이지 지우기 확인
-edit_page => 페이지 편집
 edit_pages => 페이지 템플릿 편집
-name_for_this_page =>
 page_already_exists => <strong>{name}</strong> 페이지는 이미 있습니다.
 page_article_hed => 글
 page_article_nav_hed => 글 네비게이션
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => <strong>{name}</strong> 페이지를 갱신했습니다.
 page_used_by_section => <strong>{name}</strong> 페이지를 삭제하지 않았습니다; {count} 개의 섹션에서 사용중입니다.
 page_xml_hed => XML 피드
-you_are_editing_div => div를 편집 중입니다
-you_are_editing_page => 편집 중인 페이지
 #@plugin
 bad_plugin_code => 잘못 작성되었거나 비어있는 확장기능
 broken_plugin => 깨짐

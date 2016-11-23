@@ -507,12 +507,8 @@ referrer => 逆向連結
 search_logs =>
 #@page
 all_pages => 所有頁面
-copy_page_as => 複製頁面為:
 create_new_page => 建立新頁面
-delete_page_confirmation => 確認頁面刪除
-edit_page => 編輯頁面
 edit_pages => 編輯頁面模版
-name_for_this_page =>
 page_already_exists => 頁面 <strong>{name}</strong> 已存在。
 page_article_hed => 顯示文章
 page_article_nav_hed => 瀏覽文章
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => 完成更新頁面 <strong>{name}</strong>.
 page_used_by_section =>
 page_xml_hed => XML Feeds
-you_are_editing_div => 您正在編輯 div
-you_are_editing_page => 您正在編輯頁面模版:
 #@plugin
 bad_plugin_code => 外掛程式碼錯誤或空白
 broken_plugin => 不完整

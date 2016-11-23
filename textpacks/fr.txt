@@ -507,12 +507,8 @@ referrer => Référent
 search_logs => Recherche de logs
 #@page
 all_pages => Tous les gabarits
-copy_page_as => …ou copier le gabarit sous le nom :
 create_new_page => Créer un nouveau gabarit
-delete_page_confirmation => confirmer la suppression du gabarit
-edit_page => Éditer le gabarit
 edit_pages => Éditer les gabarits
-name_for_this_page => Nom de ce gabarit
 page_already_exists => Un gabarit du nom <strong>{name}</strong> existe déjà.
 page_article_hed => Affichage des articles
 page_article_nav_hed => Navigation dans les articles
@@ -527,8 +523,6 @@ page_save_failed => Ce gabarit n’a pas été enregistré en raison d’une err
 page_updated => Gabarit <strong>{name}</strong> mis à jour.
 page_used_by_section => Le module <strong>{name}</strong> n’a pas été effacé car il est utilisé par {count} section(s).
 page_xml_hed => Flux XML
-you_are_editing_div => Édition du div en cours :
-you_are_editing_page => Édition du gabarit en cours :
 #@plugin
 bad_plugin_code => Le code source du plugin est invalide ou absent.
 broken_plugin => défaillant

@@ -507,12 +507,8 @@ referrer => Užklausų šaltiniai
 search_logs =>
 #@page
 all_pages => Visi puslapiai
-copy_page_as => …arba kopijuoti kaip
 create_new_page => Sukurti naują puslapį
-delete_page_confirmation => patvirtinti puslapio pašalinimą
-edit_page => redaguoti puslapį
 edit_pages => Puslapių šablonai
-name_for_this_page => Šio puslapio pavadinimas
 page_already_exists => Puslapis <strong>{name}</strong> jau egzistuoja.
 page_article_hed => Puslapio rezultatas
 page_article_nav_hed => Puslapio naršymas
@@ -527,8 +523,6 @@ page_save_failed => Puslapis nebuvo išsaugotas dėl klaidos. Bandykite dar kart
 page_updated => Puslapis <strong>{name}</strong> atnaujintas.
 page_used_by_section => Puslapis <strong>{name}</strong> nepašalintas; naudojamas {count} sekcijoje(se).
 page_xml_hed => XML padavimai
-you_are_editing_div => Jūs redaguojate div
-you_are_editing_page => Jūs redaguojate puslapio šabloną
 #@plugin
 bad_plugin_code => Blogai suformuotas arba tuščias papildinio kodas.
 broken_plugin => klaidingas

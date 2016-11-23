@@ -507,12 +507,8 @@ referrer => Referrer
 search_logs => Cerca accessi
 #@page
 all_pages => Tutte le pagine
-copy_page_as => …o copia pagina come
 create_new_page => Crea nuova pagina
-delete_page_confirmation => Conferma l’eliminazione della pagina
-edit_page => Modifica pagina
 edit_pages => Template di pagina
-name_for_this_page => Nome per questa pagina
 page_already_exists => Pagina <strong>{name}</strong> già esistente.
 page_article_hed => Output articolo
 page_article_nav_hed => Navigazione articoli
@@ -527,8 +523,6 @@ page_save_failed => La pagina non è stata salvata a causa di un errore. Riprova
 page_updated => Pagina <strong>{name}</strong> aggiornata.
 page_used_by_section => Pagina <strong>{name}</strong> non eliminata; in uso da {count} sezione(i).
 page_xml_hed => Flussi XML
-you_are_editing_div => Stai modificando il div
-you_are_editing_page => Stai modificando la pagina
 #@plugin
 bad_plugin_code => Codice plug-in non valido o vuoto.
 broken_plugin => rotto

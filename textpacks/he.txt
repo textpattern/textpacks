@@ -507,12 +507,8 @@ referrer => מפנה
 search_logs =>
 #@page
 all_pages => כל הדפים
-copy_page_as => העתק דף בשם:
 create_new_page => צור דף חדש
-delete_page_confirmation => אשר מחיקת דף
-edit_page => ערוך דף
 edit_pages => ערוך תבנית דף
-name_for_this_page => שם הדף הזה
 page_already_exists => הדף <strong>{name}</strong> כבר קיים.
 page_article_hed => פלט המאמר
 page_article_nav_hed => ניווט המאמר
@@ -527,8 +523,6 @@ page_save_failed =>
 page_updated => הדף <strong>{name}</strong> עודכן.
 page_used_by_section => הדף <strong>{name}</strong> לא נמחק. נעשה בו שימוש על ידי {count} איזורים.
 page_xml_hed => מזיני XML
-you_are_editing_div => אתה עורך div
-you_are_editing_page => אתה עורך תבנית דף
 #@plugin
 bad_plugin_code => קוד תוסף שגוי או ריק.
 broken_plugin => שבור

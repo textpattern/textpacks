@@ -507,12 +507,8 @@ referrer => Odsyłacz
 search_logs => Szukaj w logach
 #@page
 all_pages => Wszystkie strony
-copy_page_as => Kopiuj stronę jako:
 create_new_page => Utwórz nową stronę
-delete_page_confirmation => na pewno usunąć stronę
-edit_page => Edytuj stronę
 edit_pages => Szablony stron
-name_for_this_page => Nazwa dla tej strony
 page_already_exists => Strona <strong>{name}</strong> już istnieje.
 page_article_hed => Artykuły wyświetlanie
 page_article_nav_hed => Artykuły nawigacja
@@ -527,8 +523,6 @@ page_save_failed => Nieudane zapisywanie strony.
 page_updated => Strona <strong>{name}</strong> została uaktualniona.
 page_used_by_section => Strona <strong>{name}</strong> nie została usunięta. Aktualnie przypisana do {count} sekcji.
 page_xml_hed => Kanały XML
-you_are_editing_div => Edytujesz blok div
-you_are_editing_page => Edytujesz szablon strony
 #@plugin
 bad_plugin_code => Błąd w kodzie lub brak kodu pluginu.
 broken_plugin => Uszkodzony

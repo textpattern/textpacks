@@ -507,12 +507,8 @@ referrer => Отпращащ към
 search_logs =>
 #@page
 all_pages => Всички страници
-copy_page_as => или копирай страницата, като
 create_new_page => Създай нова страница
-delete_page_confirmation => потвърди изтриването на страницата
-edit_page => редактирай страницата
 edit_pages => Шаблони за страницата
-name_for_this_page => Име на страницата
 page_already_exists => Страницата <strong>{name}</strong> вече съществува
 page_article_hed => Начин на показване на страниците
 page_article_nav_hed => Навигация в статиите
@@ -527,8 +523,6 @@ page_save_failed => Страницата не беше записана пора
 page_updated => Страницата <strong>{name}</strong> е обновена.
 page_used_by_section => Страница <strong>{name}</strong> не беше изтрита; ползва се от {count} секции.
 page_xml_hed => XML Feeds
-you_are_editing_div => Редактирате div
-you_are_editing_page => Редактирате шаблона на страницата
 #@plugin
 bad_plugin_code => Лошо форматиран или празен код на приставката.
 broken_plugin => развален

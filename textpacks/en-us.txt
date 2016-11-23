@@ -507,12 +507,8 @@ referrer => Referrer
 search_logs => Search logs
 #@page
 all_pages => All pages
-copy_page_as => …or copy page as
 create_new_page => Create new page
-delete_page_confirmation => confirm page deletion
-edit_page => Edit page
 edit_pages => Page templates
-name_for_this_page => Name for this page
 page_already_exists => Page <strong>{name}</strong> already exists.
 page_article_hed => Article output
 page_article_nav_hed => Article navigation
@@ -527,8 +523,6 @@ page_save_failed => The page was not saved due to an error. Please try again.
 page_updated => Page <strong>{name}</strong> updated.
 page_used_by_section => Page <strong>{name}</strong> not deleted; used by {count} section(s).
 page_xml_hed => XML feeds
-you_are_editing_div => You are editing div
-you_are_editing_page => You are editing page template
 #@plugin
 bad_plugin_code => Badly formed or empty plugin code.
 broken_plugin => broken
