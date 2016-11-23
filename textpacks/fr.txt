@@ -487,11 +487,8 @@ upload_thumbnail => Envoyer une miniature
 #@link
 add_new_link => Ajout d’un lien
 edit_link => Édition du lien
-edit_links => Éditer les liens
-linkcategory => Catégories de lien
 links_deleted => Lien(s) effacé(s) : <strong>{list}</strong>.
 link_created => Lien <strong>{name}</strong> créé.
-link_deleted => Lien <strong>{name}</strong> supprimé.
 link_empty => Les liens ne peuvent être laissés vides.
 link_name => Nom du lien
 link_saved => Lien enregistré.
@@ -504,12 +501,10 @@ search_links => Recherche de liens
 article_modified => Modifié
 manage => Gérer
 #@log
-logs => Journal d’activité (logs)
 logs_deleted => Journaux supprimés : <strong>{list}</strong>.
 no_refers_recorded => Pas encore de référent enregistré.
 referrer => Référent
 search_logs => Recherche de logs
-visitor_logs => Journal d’activités des visiteurs
 #@page
 all_pages => Tous les gabarits
 copy_page_as => …ou copier le gabarit sous le nom :

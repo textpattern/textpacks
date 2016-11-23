@@ -487,11 +487,8 @@ upload_thumbnail => Επιφόρτωση εικονιδίου
 #@link
 add_new_link => Δημιουργήσετε νέα σύνδεση
 edit_link => Επεξεργαστείτε τη σύνδεση
-edit_links => Συνδέσεις
-linkcategory => Κατηγορίες συνδέσεων
 links_deleted => Διαγραφέντες συνδέσεις: <strong>{list}</strong>.
 link_created => Η σύνδεση <strong>{name}</strong> δημιουργήθηκε.
-link_deleted => Η σύνδεση <strong>{name}</strong> διαγράφηκε.
 link_empty => Οι συνδέσεις δεν πρέπει να είναι κενές.
 link_name => Όνομα σύνδεσης
 link_saved => Η σύνδεση αποθηκεύτηκε.
@@ -504,12 +501,10 @@ search_links => Αναζήτηση συνδέσεων
 article_modified => Τροποποιήθηκε
 manage => Διαχείριση
 #@log
-logs => Μητρώα επισκέψεων
 logs_deleted => Διαγραφέντα μητρώα: <strong>{list}</strong>.
 no_refers_recorded => Δεν έχουν ακόμα καταγραφεί επισκέψεις από άλλους ιστότοπους.
 referrer => Επίσκεψη από άλλο ιστότοπο
 search_logs => Αναζήτησης αρχείου καταγραφής
-visitor_logs => μητρώα επισκέψεων
 #@page
 all_pages => Όλες οι σελίδες
 copy_page_as => Αντιγραφή της σελίδας ως:

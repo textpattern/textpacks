@@ -487,11 +487,8 @@ upload_thumbnail => Siųsti miniatiūrą
 #@link
 add_new_link => Įdėti naują nuorodą
 edit_link => Keisti nuorodą
-edit_links => Nuorodos
-linkcategory => Nuorodų kategorijos
 links_deleted => Nuoroda(os) pašalinta(os): <strong>{list}</strong>.
 link_created => Nuoroda <strong>{name}</strong> sukurta.
-link_deleted => Nuoroda <strong>{name}</strong> pašalinta.
 link_empty => Nuorodos neturi būti tuščios.
 link_name => Pavadinimas
 link_saved => Nuoroda išsaugota.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => Pakeistas
 manage => Tvarkyti
 #@log
-logs => Žurnalai
 logs_deleted => Žurnalai pašalinti: <strong>{list}</strong>.
 no_refers_recorded => Nėra jokių lankytojų šaltinių.
 referrer => Užklausų šaltiniai
 search_logs =>
-visitor_logs => Lankytojų žurnalai
 #@page
 all_pages => Visi puslapiai
 copy_page_as => …arba kopijuoti kaip

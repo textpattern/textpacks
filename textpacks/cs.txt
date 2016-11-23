@@ -487,11 +487,8 @@ upload_thumbnail => Nahrát náhled
 #@link
 add_new_link => Přidat nový odkaz
 edit_link => Editovat odkaz
-edit_links => Úpravy odkazů
-linkcategory => Kategorie
 links_deleted => Odkazy odstraněny: <strong>{list}</strong>.
 link_created => Odkaz <strong>{name}</strong> vytvořen.
-link_deleted => Odkaz <strong>{name}</strong> odstraněn.
 link_empty => Odkaz nesmí být prázdný.
 link_name => Název
 link_saved => Odkaz uložen.
@@ -504,12 +501,10 @@ search_links => Hledat odkazy
 article_modified => Pozměněno
 manage => Správa
 #@log
-logs => Záznamy
 logs_deleted => Záznamy odstraněny: <strong>{list}</strong>.
 no_refers_recorded => Dosud žádné odkazující servery.
 referrer => Odkazující server
 search_logs => Hledat záznamy
-visitor_logs => Záznamy návštěv
 #@page
 all_pages => Všechny stránky
 copy_page_as => …nebo zkopírovat jako

@@ -487,11 +487,8 @@ upload_thumbnail => Завантажити зменшене зображення
 #@link
 add_new_link => Додати нове посилання
 edit_link => Редагувати посилання
-edit_links => Посилання
-linkcategory => Категорії посилань
 links_deleted => Вилучені посилання: <strong>{list}</strong>.
 link_created => Створено посилання <strong>{name}</strong>.
-link_deleted => Вилучені посилання <strong>{name}</strong>.
 link_empty => Посилання не повинні бути порожніми.
 link_name => Назва
 link_saved => Посилання збережено.
@@ -504,12 +501,10 @@ search_links => Пошук посилань
 article_modified => Зміни в статті
 manage => Керування
 #@log
-logs => Логи
 logs_deleted => Вилучені логи: <strong>{list}</strong>.
 no_refers_recorded => Поки що не записано жодного реферер.
 referrer => Реферер
 search_logs => Пошук в лог файлі
-visitor_logs => Журнал відвідувань
 #@page
 all_pages => Всі сторінки
 copy_page_as => …або копіювати сторінку як

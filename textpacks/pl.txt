@@ -487,11 +487,8 @@ upload_thumbnail => Wgraj miniaturkę
 #@link
 add_new_link => Dodaj odsyłacz
 edit_link => Zmień odsyłacz
-edit_links => Edytuj odsyłacze
-linkcategory => Kategorie odsyłaczy
 links_deleted => Usunięto odsyłacze: <strong>{list}</strong>.
 link_created => Odsyłacz <strong>{name}</strong> został utworzony.
-link_deleted => Odsyłacz <strong>{name}</strong> został usunięty.
 link_empty => Odsyłacz nie powinien być pusty.
 link_name => Nazwa
 link_saved => Odsyłacz zapisany.
@@ -504,12 +501,10 @@ search_links => Szukaj linków
 article_modified => Zmodyfikowany
 manage => Zarządzaj
 #@log
-logs => Logi odwiedzin
 logs_deleted => Usunięto logi: <strong>{list}</strong>.
 no_refers_recorded => Brak zarejestrowanych odwiedzin witryny.
 referrer => Odsyłacz
 search_logs => Szukaj w logach
-visitor_logs => Logi odwiedzin
 #@page
 all_pages => Wszystkie strony
 copy_page_as => Kopiuj stronę jako:

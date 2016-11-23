@@ -487,11 +487,8 @@ upload_thumbnail => آپلود تصویر کوچک
 #@link
 add_new_link => افزودن لینک نو
 edit_link => ویرایش لینک
-edit_links => لینک‌ها
-linkcategory => رده‌های مربوط به لینک‌ها
 links_deleted => Link(s) deleted: <strong>{list}</strong>.
 link_created => لینک <strong>{name}</strong> ساخته شد.
-link_deleted => لینک <strong>{name}</strong> پاک شد.
 link_empty => لینک‌ها نباید خالی باشند
 link_name => نام
 link_saved => لینک ذخیره شد.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => تغییر یافته
 manage => مدیریت
 #@log
-logs => گزارش‌ها
 logs_deleted => این گزارش‌ها پاک شدند : <strong>{list}</strong>
 no_refers_recorded => هیچ ارجاعی ثبت نشده است.
 referrer => ارجاع‌دهنده
 search_logs =>
-visitor_logs => گزارش بازدیدکنندگان
 #@page
 all_pages => تمام صفحات
 copy_page_as => و یا صفحه کپی شود در

@@ -487,11 +487,8 @@ upload_thumbnail =>
 #@link
 add_new_link =>
 edit_link =>
-edit_links =>
-linkcategory =>
 links_deleted =>
 link_created =>
-link_deleted =>
 link_empty =>
 link_name =>
 link_saved =>
@@ -504,12 +501,10 @@ search_links =>
 article_modified =>
 manage =>
 #@log
-logs =>
 logs_deleted =>
 no_refers_recorded =>
 referrer =>
 search_logs =>
-visitor_logs =>
 #@page
 all_pages =>
 copy_page_as =>

@@ -487,11 +487,8 @@ upload_thumbnail => Upload miniatur
 #@link
 add_new_link =>
 edit_link =>
-edit_links => Rediger links
-linkcategory => Linkkategorier
 links_deleted => Links slettet <strong>{list}</strong>.
 link_created => Link <strong>{name}</strong> oprettet.
-link_deleted => Link <strong>{name}</strong> slettet.
 link_empty =>
 link_name => Link navn
 link_saved => Link gemt.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => Ændret
 manage => Administrer
 #@log
-logs => Logs
 logs_deleted => Logs slettet: <strong>{list}</strong>.
 no_refers_recorded => Ingen referer set endnu.
 referrer => Referer
 search_logs =>
-visitor_logs => Log over besøgende
 #@page
 all_pages => Alle sider
 copy_page_as => Kopier side som:

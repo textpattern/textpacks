@@ -487,11 +487,8 @@ upload_thumbnail => 上傳縮圖
 #@link
 add_new_link =>
 edit_link =>
-edit_links => 編輯鏈結
-linkcategory => 鏈結分類
 links_deleted => 鏈結已刪除: <strong>{list}</strong>.
 link_created => 已建立鏈結 <strong>{name}</strong>.
-link_deleted => 已刪除鏈結 <strong>{name}</strong>.
 link_empty =>
 link_name => 鏈結名稱
 link_saved => 鏈結已儲存
@@ -504,12 +501,10 @@ search_links =>
 article_modified =>
 manage => 管理
 #@log
-logs => 訪問記錄
 logs_deleted => 已刪除紀錄: <strong>{list}</strong>.
 no_refers_recorded => 目前沒有逆向連結記錄
 referrer => 逆向連結
 search_logs =>
-visitor_logs => 訪客記錄
 #@page
 all_pages => 所有頁面
 copy_page_as => 複製頁面為:

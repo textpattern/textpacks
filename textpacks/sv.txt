@@ -487,11 +487,8 @@ upload_thumbnail => Ladda upp tumnagelbild
 #@link
 add_new_link => Lägg till ny länk
 edit_link => Redigera länk
-edit_links => Länkar
-linkcategory => Länk-kategorier
 links_deleted => Länk(ar) togs bort: <strong>{list}</strong>.
 link_created => Länken <strong>{name}</strong> skapades.
-link_deleted => Länken <strong>{name}</strong> togs bort.
 link_empty => Länkar ska inte vara tomma
 link_name => Länknamn
 link_saved => Länk sparad.
@@ -504,12 +501,10 @@ search_links => Sök länkar
 article_modified => Ändrad
 manage => Hantera
 #@log
-logs => Loggar
 logs_deleted => Loggar togs bort: <strong>{list}</strong>.
 no_refers_recorded => Inga hänvisningar registrerade.
 referrer => Hänvisad från
 search_logs => Sök loggar
-visitor_logs => Besökslogg
 #@page
 all_pages => Alla sidor
 copy_page_as => …eller kopiera sidmall som:

@@ -487,11 +487,8 @@ upload_thumbnail => Upload mini-afbeelding
 #@link
 add_new_link => Nieuwe link toevoegen
 edit_link => Link wijzigen
-edit_links => Links wijzigen
-linkcategory => Linkcategorie
 links_deleted => Links: <strong>{list}</strong> verwijderd.
 link_created => Link <strong>{name}</strong> toegevoegd.
-link_deleted => Link <strong>{name}</strong> verwijderd.
 link_empty => Links kunnen niet leeg zijn.
 link_name => Linknaam
 link_saved => Link opgeslagen.
@@ -504,12 +501,10 @@ search_links => Links doorzoeken
 article_modified => Wijzigingsdatum
 manage => Aanpassen
 #@log
-logs => Bezoekers-logs
 logs_deleted => Logs: <strong>{list}</strong> zijn verwijderd.
 no_refers_recorded => Er zijn nog geen gegevens.
 referrer => Via
 search_logs => Logs doorzoeken
-visitor_logs => Bezoekers logs
 #@page
 all_pages => Alle pagina’s
 copy_page_as => …of pagina kopiëren als

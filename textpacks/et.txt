@@ -487,11 +487,8 @@ upload_thumbnail => Lae üles pisipilt
 #@link
 add_new_link =>
 edit_link =>
-edit_links => Toimeta linke
-linkcategory => Lingikategooriad
 links_deleted =>
 link_created =>
-link_deleted =>
 link_empty =>
 link_name => Lingi nimi
 link_saved => Link salvestatud.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => Muudetud
 manage =>
 #@log
-logs => Statistika
 logs_deleted =>
 no_refers_recorded => Veel ei ole ühtegi viitajat.
 referrer => Viitaja
 search_logs =>
-visitor_logs => Külastuslogid
 #@page
 all_pages => Kõik lehed
 copy_page_as => Kopeeri leht kui:

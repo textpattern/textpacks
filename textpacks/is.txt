@@ -487,11 +487,8 @@ upload_thumbnail => Uphlaða smámynd
 #@link
 add_new_link =>
 edit_link =>
-edit_links => Breyta tenglum
-linkcategory => Tengla flokkar
 links_deleted =>
 link_created =>
-link_deleted =>
 link_empty =>
 link_name => Nafn tengils
 link_saved => Tengill geymdur.
@@ -504,12 +501,10 @@ search_links =>
 article_modified =>
 manage =>
 #@log
-logs => Loggar
 logs_deleted =>
 no_refers_recorded => Engin tilvísun skráð enn.
 referrer => Tilvísun
 search_logs =>
-visitor_logs => gesta loggar
 #@page
 all_pages => Allar síður
 copy_page_as => Afrita síðu sem:

@@ -487,11 +487,8 @@ upload_thumbnail => サムネイルのアップロード
 #@link
 add_new_link => リンクを追加
 edit_link => リンクを編集
-edit_links => リンクの編集
-linkcategory => リンク用カテゴリ
 links_deleted => リンクを削除しました: <strong>{list}</strong>
 link_created => リンク <strong>{name}</strong> を作成しました。
-link_deleted => リンク <strong>{name}</strong> を削除しました。
 link_empty => リンクは記入してください
 link_name => リンク名
 link_saved => リンクを保存しました。
@@ -504,12 +501,10 @@ search_links =>
 article_modified => 最終更新日
 manage => 管理
 #@log
-logs => ログ
 logs_deleted => ログを削除しました: <strong>{list}</strong>
 no_refers_recorded => 登録されたレファラがありません。
 referrer => レファラ
 search_logs =>
-visitor_logs => 訪問者ログ
 #@page
 all_pages => すべてのページ
 copy_page_as => ページのコピー先:

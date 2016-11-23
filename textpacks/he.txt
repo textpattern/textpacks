@@ -487,11 +487,8 @@ upload_thumbnail => העלה תמונה מוקטנת
 #@link
 add_new_link => הוסף קישור חדש
 edit_link => ערוך קישור
-edit_links => קישורים
-linkcategory => קטוגריות הקישור
 links_deleted => הקישורים נמחקו <strong>{list}</strong>.
 link_created => הקישור <strong>{name}</strong> נוצר.
-link_deleted => הקישור <strong>{name}</strong> נמחק.
 link_empty => קישורים אינם יכולים להיות ריקים.
 link_name => שם
 link_saved => הקישור נשמר.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => נערך
 manage => נהל
 #@log
-logs => דוחות
 logs_deleted => הדוחות נמחקו: <strong>{list}</strong>.
 no_refers_recorded => עדיין לא נרשמו מפנים.
 referrer => מפנה
 search_logs =>
-visitor_logs => דוחות מבקרים
 #@page
 all_pages => כל הדפים
 copy_page_as => העתק דף בשם:

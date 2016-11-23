@@ -487,11 +487,8 @@ upload_thumbnail => Előkép feltöltése
 #@link
 add_new_link =>
 edit_link =>
-edit_links => linkek szerkesztése
-linkcategory => Link kategóriák
 links_deleted => Linkek törölve: <strong>{list}</strong>.
 link_created => A(z) <strong>{name}</strong> link létrehozva.
-link_deleted => A(z) <strong>{name}</strong> link törölve.
 link_empty =>
 link_name => Link név
 link_saved => Link mentve.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => Módosítva
 manage => Karbantartás
 #@log
-logs => Logok
 logs_deleted => Logok törölve: <strong>{list}</strong>.
 no_refers_recorded => Még nincsenek rögzítve hivatkozások.
 referrer => Hivatkozások
 search_logs =>
-visitor_logs => Látogatók naplózása
 #@page
 all_pages => Minden oldal
 copy_page_as => Oldal másolása mint:

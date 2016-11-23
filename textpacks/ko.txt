@@ -487,11 +487,8 @@ upload_thumbnail => 썸네일 올리기
 #@link
 add_new_link =>
 edit_link =>
-edit_links => 링크 편집
-linkcategory => 링크 분류
 links_deleted => <strong>{list}</strong> 링크를 지웠습니다.
 link_created => <strong>{name}</strong> 링크를 추가했습니다.
-link_deleted => <strong>{name}</strong> 링크를 지웠습니다.
 link_empty =>
 link_name => 링크 이름
 link_saved => 링크를 저장했습니다.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => 변경함
 manage => 관리
 #@log
-logs => 기록
 logs_deleted => <strong>{list}</strong> 기록을 삭제했습니다.
 no_refers_recorded => 리퍼러가 기록되지 않았습니다.
 referrer => 리퍼러
 search_logs =>
-visitor_logs => 방문자 기록
 #@page
 all_pages => 모든 페이지
 copy_page_as => 페이지를 다음 이름으로 복사

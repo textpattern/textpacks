@@ -487,11 +487,8 @@ upload_thumbnail => Subir miniatura
 #@link
 add_new_link => Añadir un enlace nuevo
 edit_link => Editar enlace
-edit_links => Enlaces
-linkcategory => Categorías de enlaces
 links_deleted => Enlaces borrados: <strong>{list}</strong>.
 link_created => Enlace <strong>{name}</strong> creado.
-link_deleted => Enlace <strong>{name}</strong> borrado.
 link_empty => No debería estar vacío el apartado de enlaces.
 link_name => Nombre
 link_saved => Enlace guardado.
@@ -504,12 +501,10 @@ search_links => Buscar enlaces
 article_modified => Modificado
 manage => Gestionar
 #@log
-logs => Registros
 logs_deleted => Registros borrados: <strong>{list}</strong>.
 no_refers_recorded => No se ha registrado ningún remitente.
 referrer => Remitente
 search_logs => Buscar registros
-visitor_logs => Registro de visitantes
 #@page
 all_pages => Todas las páginas
 copy_page_as => …o copiar página como

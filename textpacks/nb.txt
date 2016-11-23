@@ -487,11 +487,8 @@ upload_thumbnail => Last opp lite bilde
 #@link
 add_new_link => Opprette en ny lenke
 edit_link => Endre lenker
-edit_links => Lenker
-linkcategory => Lenkekategorier
 links_deleted => Lenke(r) slettet: <strong>{list}</strong>.
 link_created => Lenke <strong>{name}</strong> ble opprettet.
-link_deleted => Lenke <strong>{name}</strong> slettet.
 link_empty => Lenke bør ikke være tomt.
 link_name => Navn på lenke
 link_saved => Lenke lagret.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => Modifisert
 manage => Administrer
 #@log
-logs => Logger
 logs_deleted => Loggene ble slettet: <strong>{list}</strong>.
 no_refers_recorded => Ingen henvisninger lagret ennå.
 referrer => Henviser
 search_logs =>
-visitor_logs => Besøkslogger
 #@page
 all_pages => Alle sider
 copy_page_as => …kopier side som

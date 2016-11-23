@@ -487,11 +487,8 @@ upload_thumbnail => Uploadeaza thumbnail-ul
 #@link
 add_new_link =>
 edit_link =>
-edit_links => Editeaza link-urile
-linkcategory => Categoriile link-urilor
 links_deleted => Link-uri sterse: <strong>{list}</strong>.
 link_created => Link-ul <strong>{name}</strong> a fost creat.
-link_deleted => Link-ul <strong>{name}</strong> a fost sters.
 link_empty =>
 link_name => Numele link-ului
 link_saved => Link salvat.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => Modificat
 manage => Intretine
 #@log
-logs => Loguri
 logs_deleted => Loguri sterse: <strong>{list}</strong>.
 no_refers_recorded => Inca nu au fost inregistrati referreri.
 referrer => Referrer
 search_logs =>
-visitor_logs => Loguri vizitatori
 #@page
 all_pages => Toate paginile
 copy_page_as => Copiaza pagina ca:

@@ -487,11 +487,8 @@ upload_thumbnail => Augšuplādēt sīktēlu
 #@link
 add_new_link => Pievienot jaunu saiti
 edit_link => Labot saiti
-edit_links => Rediģēt saites
-linkcategory => Saišu kategorijas
 links_deleted => Saites dzēstas: <strong>{list}</strong>.
 link_created => Saite <strong>{name}</strong> izveidota.
-link_deleted => Saite <strong>{name}</strong> dzēsta.
 link_empty => Saites nevar būt tukšas.
 link_name => Saites nosaukums
 link_saved => Saite saglabāta
@@ -504,12 +501,10 @@ search_links => Meklēt saites
 article_modified => Izmainīts
 manage => Pārvaldīt
 #@log
-logs => Žurnāls
 logs_deleted => Žurnāla ieraksti dzēsti: <strong>{list}</strong>.
 no_refers_recorded => Nav neviena nosūtītāja.
 referrer => Nosūtītājs
 search_logs => Meklēt žurnālā
-visitor_logs => Apmeklētāju žurnāls
 #@page
 all_pages => Visas lapas
 copy_page_as => …vai nokopēt lapu kā

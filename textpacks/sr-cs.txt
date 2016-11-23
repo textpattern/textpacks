@@ -487,11 +487,8 @@ upload_thumbnail => Замени малу слику
 #@link
 add_new_link =>
 edit_link =>
-edit_links => Линкови
-linkcategory => Категорије линкова
 links_deleted => Линкови избрисани: <strong>{list}</strong>.
 link_created => Линк <strong>{name}</strong> направљен.
-link_deleted => Линк <strong>{name}</strong> избрисан.
 link_empty =>
 link_name => Име
 link_saved => Линк сачуван.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => Промењено
 manage => Управљање
 #@log
-logs => Логови
 logs_deleted => Логови избрисани: <strong>{list}</strong>.
 no_refers_recorded => Нема снимљених referrer-а.
 referrer => Referrer
 search_logs =>
-visitor_logs => Логови посетилаца
 #@page
 all_pages => Све странице
 copy_page_as => …или, копирај страницу као

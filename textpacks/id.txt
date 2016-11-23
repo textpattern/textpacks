@@ -487,11 +487,8 @@ upload_thumbnail => Unggah gambar-kecil
 #@link
 add_new_link =>
 edit_link =>
-edit_links => Tautan
-linkcategory => Kategori Tautan
 links_deleted =>
 link_created =>
-link_deleted =>
 link_empty =>
 link_name => Nama
 link_saved => Tautan disimpan.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => Diubah
 manage => Atur
 #@log
-logs => Catatan
 logs_deleted =>
 no_refers_recorded => Tidak ada rujukan yang tercatat
 referrer => Rujukan
 search_logs =>
-visitor_logs => Catatan Pengunjung
 #@page
 all_pages => Semua Halaman
 copy_page_as => …atau, salin sebagai

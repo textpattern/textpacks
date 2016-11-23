@@ -487,11 +487,8 @@ upload_thumbnail => Качи умалено изображение
 #@link
 add_new_link => Добави нова връзка
 edit_link => Редактирай връзката
-edit_links => Редактирай връзки
-linkcategory => Категории връзки
 links_deleted => Изтрити връзки: <strong>{list}</strong>.
 link_created => Връзката <strong>{name}</strong> е създадена.
-link_deleted => Връзката <strong>{name}</strong> е изтрита.
 link_empty => Връзките не бива да са празни
 link_name => Име на връзката
 link_saved => Връзката е запазена.
@@ -504,12 +501,10 @@ search_links =>
 article_modified => Изменена
 manage => Редактирай
 #@log
-logs => Статистики
 logs_deleted => Изтрити статистики: <strong>{list}</strong>.
 no_refers_recorded => Няма записано отпращане.
 referrer => Отпращащ към
 search_logs =>
-visitor_logs => Статистики за посетителите
 #@page
 all_pages => Всички страници
 copy_page_as => или копирай страницата, като

@@ -487,11 +487,8 @@ upload_thumbnail => Upload thumbnail
 #@link
 add_new_link => Create new link
 edit_link => Edit link
-edit_links => Links
-linkcategory => Link categories
 links_deleted => Link(s) deleted: <strong>{list}</strong>.
 link_created => Link <strong>{name}</strong> created.
-link_deleted => Link <strong>{name}</strong> deleted.
 link_empty => Links should not be empty.
 link_name => Name
 link_saved => Link saved.
@@ -504,12 +501,10 @@ search_links => Search links
 article_modified => Modified
 manage => Manage
 #@log
-logs => Logs
 logs_deleted => Logs deleted: <strong>{list}</strong>.
 no_refers_recorded => No hits recorded.
 referrer => Referrer
 search_logs => Search logs
-visitor_logs => Visitor logs
 #@page
 all_pages => All pages
 copy_page_as => …or copy page as

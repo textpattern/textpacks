@@ -487,11 +487,8 @@ upload_thumbnail => إرسال مصغرة
 #@link
 add_new_link =>
 edit_link =>
-edit_links => تغيير الروابط
-linkcategory => صنف الرابط
 links_deleted =>
 link_created =>
-link_deleted =>
 link_empty =>
 link_name => اسم الرابط
 link_saved => الرابط المسجل
@@ -504,12 +501,10 @@ search_links =>
 article_modified =>
 manage =>
 #@log
-logs => صحيفة النشاطات
 logs_deleted =>
 no_refers_recorded => لم يسجل أي مصدر بعد
 referrer => الموقع المصدر
 search_logs =>
-visitor_logs => صحيفة نشاطات الزوار
 #@page
 all_pages =>
 copy_page_as =>

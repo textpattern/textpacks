@@ -487,11 +487,8 @@ upload_thumbnail => Vorschaubild hochladen
 #@link
 add_new_link => Neuen Link anlegen
 edit_link => Link bearbeiten
-edit_links => Links bearbeiten
-linkcategory => Linkkategorien
 links_deleted => Folgende Links wurden gelöscht: <strong>{list}</strong>.
 link_created => Link <strong>{name}</strong> erstellt.
-link_deleted => Link <strong>{name}</strong> gelöscht.
 link_empty => Links sollten nicht leer sein.
 link_name => Name des Links
 link_saved => Link gespeichert.
@@ -504,12 +501,10 @@ search_links => Links suchen
 article_modified => Verändert
 manage => Verwalten
 #@log
-logs => Protokolle
 logs_deleted => Folgende Einträge wurden gelöscht: <strong>{list}</strong>.
 no_refers_recorded => Kein Referrer verfügbar.
 referrer => Referrer
 search_logs => Logs durchsuchen
-visitor_logs => Besuchsprotokolle
 #@page
 all_pages => Alle Seitenvorlagen
 copy_page_as => Kopiere Seitenvorlage als:

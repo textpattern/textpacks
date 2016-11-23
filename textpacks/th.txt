@@ -487,11 +487,8 @@ upload_thumbnail => อัพโหลดรูปขนาดย่อ
 #@link
 add_new_link =>
 edit_link =>
-edit_links => แก้ไขลิงก์
-linkcategory => หมวดหมู่ลิงก์
 links_deleted => ลิงก์ที่ถูกลบทิ้ง: <strong>{list}</strong>
 link_created => สร้างลิงก์ <strong>{name}</strong> แล้ว
-link_deleted => ลบลิงก์ <strong>{name}</strong> แล้ว
 link_empty =>
 link_name => ชื่อลิงก์
 link_saved => บันทึกลิงก์แล้ว
@@ -504,12 +501,10 @@ search_links =>
 article_modified => แก้ไขเมื่อ
 manage => จัดการ
 #@log
-logs => บันทึกเหตุการณ์
 logs_deleted =>
 no_refers_recorded => ยังไม่มีผู้แนะนำมา
 referrer => ผู้แนะนำมา
 search_logs =>
-visitor_logs => บันทึกผู้เยี่ยม
 #@page
 all_pages => หน้าทั้งหมด
 copy_page_as => คัดลอกหน้าเป็น:
