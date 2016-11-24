@@ -77,9 +77,9 @@
   <string name="admin_side_plugins"><h1>Nastavenia: Použitie pluginov v administrácii?</h1>
 <p>Pluginy pre administráciu môžu zmeniť správanie sa a vzhľad administrácie. Môžu pridať do už existujúcich akcií, ako napríklad editácia alebo publikovanie článkov nové fukcionality. Môžu pridať aj nové panely pre rozšírenie funkcií v administrácii.
 <p>Ak chcete vedieť viac o rozšíreniach pre administráciu, prosím pozrite si <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Rozšírenia pre Textpattern</a> na stránke <a rel="external" target="_blank" href="http://docs.textpattern.io/">Užívateľská dokumentácia Textpatternu</a>. Pluginy rôzneho druhu sa nachádzajú na stránke <a rel="external" target="_blank" href="http://textpattern.org/">Pluginy Textpattern</a>.</p></string>
-  <string name="remember_login"><h2>Remember login</h2>
-<p>When checked, you will remain logged in to your Textpattern account with the current web browser, until you choose to log out. If left unchecked, you will be automatically logged out after a period of inactivity.</p>
-<p>Requires cookies to be enabled in your browser.</p></string>
+  <string name="remember_login"><h2>Zapamätať prihlásenie</h2>
+<p>Ak je táto voľba vybraná, zostaneš v prehliadači do Textpattern prihlásený, kým se neodhlásiš. Ak necháš pole nevybrané, dôjde po určitej dobe nečinnosti automaticky k odhláseniu.</p>
+<p>Vyžaduje, aby mal prehliadač zapnuté cookies.</p></string>
   <string name="article_image"><h2>Write: Article image</h2>
 <p>If you would like to associate a single image with this article, place one of the following here:</p>
 <ol>
