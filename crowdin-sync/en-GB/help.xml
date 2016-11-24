@@ -166,8 +166,7 @@
 </ul>
 <p>The clean URL test attempts to fetch a page from the web address specified in the ‘Site URL’ preference in order to check that all clean URL parameters are working correctly. If that URL is a different site, or has been replaced with a static page or similar, the test will fail. Until the issue is resolved you will have to use messy URLs on your site instead (<code>http://example.com?s=section&amp;id=4</code>). Ensure the ‘Permanent link mode’ in Admin Preferences is set accordingly.</p></string>
     <string name="cleanurl_only_apache"><h2>Diagnostics: Clean URL support</h2>
-<p>Clean URLs are only supported on Apache. If you are using another server platform, use short URLs at your own risk.</p>
-</string>
+<p>Clean URLs are only supported on Apache. If you are using another server platform, use short URLs at your own risk.</p></string>
     <string name="dev_version_live"><h2>Diagnostics: Development code on a live server</h2>
 <p>You are running in-development files on a live production site which is not recommended. If you know this already and are happy to do so, you may ignore this warning.</p></string>
     <string name="dir_not_writable"><h2>Diagnostics: Directory is not writable</h2>
@@ -267,8 +266,7 @@
     <string name="tmp_plugin_paths_match"><h2>Diagnostics: Temporary directory path and Plugin cache directory path should not match</h2>
 <p>Plugins should have their own directory and not share the temporary directory. This is a potential security risk and may adversely affect your site if the temporary directory is flushed. Please ensure that the temporary directory path is different to the plugin cache path.</p></string>
     <string name="update_still_exists"><h2>Diagnostics: 'update' directory still exists</h2>
-<p>When Textpattern has been upgraded, the <code>textpattern/update</code> directory and its contents are no longer needed and recommended for deletion. You will continue to receive this warning until it has been removed.</p>
-</string>
+<p>When Textpattern has been upgraded, the <code>textpattern/update</code> directory and its contents are no longer needed and recommended for deletion. You will continue to receive this warning until it has been removed.</p></string>
     <string name="warn_mail_unavailable"><h2>Diagnostics: Your PHP installation is missing the mail() function</h2>
 <p>PHP’s <a rel="external" target="_blank" href="https://secure.php.net/manual/en/function.mail.php">mail <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> function is disabled. Therefore, Textpattern cannot send emails and some functionality will not be available. For example, email notifications for new comments will not be sent, and new users will not receive a welcome email. Users can still be added, however.</p></string>
     <string name="warn_register_globals_or_update"><h2>Diagnostics: Turn register_globals off or update to a newer PHP version</h2>
