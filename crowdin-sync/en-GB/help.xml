@@ -193,11 +193,87 @@
 <p>The main <code>index.php</code> file specified as the index for your site is unreadable by the server. Please check permissions.</p></string>
     <string name="missing_files"><h2>Diagnostics: Missing files</h2>
 <p>Some essential files are missing from your Textpattern installation. Ensure that all the listed files are present on your server and are in the correct locations.</p></string>
-    <string name=""></string>
-    <string name=""></string>
-    <string name=""></string>
-    <string name=""></string>
-    <string name=""></string>
-    <string name=""></string>
-    <string name=""></string>
+    <string name="mod_rewrite_missing"><h2>Diagnostics: Apache mod_rewrite missing</h2>
+<p>Apache’s <code>mod_rewrite</code> module is not installed, or installed but not enabled. This is recommended for Textpattern to function correctly. Please check your <code>.htaccess</code> file is set up correctly, or contact your host for assistance.</p></string>
+    <string name="modified_files"><h2>Diagnostics: Modified files</h2>
+<p>Files are determined to be modified if their respective checksum differs from the known-good checksum list. If any files in the Textpattern installation are different to those expected, the files will be highlighted here. This is not necessarily a problem, but may be worth checking out if you are having problems with the functionality of your site.</p></string>
+    <string name="mysql_table_errors"><h2>Diagnostics: MySQL table errors</h2>
+<p>Something is probably corrupt or otherwise damaged in your MySQL database. If you have access to a MySQL access tool, such as <a rel="external" target="_blank" href="https://www.phpmyadmin.net">phpMyAdmin <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a>, try repairing the affected table(s).</p></string>
+    <string name="no_temp_dir"><h2>Diagnostics: No temp directory defined</h2>
+<p>While Textpattern will run without a temporary directory, some functionality may not work as expected if this preference is not set. Please visit Admin Preferences and set up the ‘Temporary directory path’.</p></string>
+    <string name="old_files"><h2>Diagnostics: Old files</h2>
+<p>Some Textpattern files are out-of-date and should be replaced with the latest versions from the relevant stable release.</p></string>
+    <string name="old_placeholder_exists"><h2>Diagnostics: Section placeholder file exists</h2>
+<p>As of Textpattern version 4.0, section placeholder files are no longer required, and will conflict with the the new <code>.htaccess</code> scheme. If the reported files are placeholders, please delete them.</p></string>
+    <string name="path_not_doc_root"><h2>Diagnostics: path_to_site does not match</h2>
+<p>Two variables set by your web server which should match, but do not.</p></string>
+    <string name="path_to_site_inacc"><h2>Diagnostics: Site directory unreadable</h2>
+<p>The directory containing the <code>index.php</code> file specified as the index for your site is unreadable by the server. Please check permissions.</p></string>
+    <string name="php_version_required"><h2>Diagnostics: Minimum version requirements</h2>
+<p>Textpattern requires certain functionality present in the PHP programming language and MySQL database server. Please consult the following table to determine the minimum system requirements for the version of Textpattern you have downloaded:</p>
+<div class="txp-listtables">
+    <table class="txp-list">
+        <thead>
+            <tr>
+                <th scope="col">Textpattern version</th>
+                <th scope="col">Minimum PHP version</th>
+                <th scope="col">Minimum MySQL version</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">4.6.x</th>
+                <td>5.3.3</td>
+                <td>4.1</td>
+            </tr>
+            <tr>
+                <th scope="row">4.5.x</th>
+                <td>5.2.3</td>
+                <td>4.1</td>
+            </tr>
+            <tr>
+                <th scope="row">4.0.1 - 4.4.1</th>
+                <td>4.3</td>
+                <td>3.23</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<p>In addition to the above system requirements, the following PHP extensions are required:</p>
+<ul>
+    <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.mysql.php">MySQL <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a></li>
+    <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.xml.php">XML <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a></li>
+    <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.json.php">JSON <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a></li>
+</ul>
+<p>Your <code>php.ini</code> file, either global or local, should contain a <code>date.timezone</code> setting.</p></string>
+    <string name="setup_still_exists"><h2>Diagnostics: 'setup' directory still exists</h2>
+<p>When Textpattern has been installed, the <code>textpattern/setup</code> directory and its contents are no longer needed and should be deleted. You will continue to receive this warning until it has been removed, as this can potentially be a security concern.</p></string>
+    <string name="site_url_mismatch"><h2>Diagnostics: Site URL mismatch</h2>
+<p>The Site URL as set in the ‘Preferences’ administration panel does not match the actual URL you use to visit your website.</p>
+<p>If your website can be reached through multiple different URLs, or if the links on your Textpattern powered website all function correctly, you can safely ignore this warning.</p>
+<p>Otherwise, you are advised to correct the ‘Site URL’ setting in Admin Preferences. An educated guess of the correct Site URL is shown in the pre-flight warning message on the ‘Diagnostics’ administration panel.</p></string>
+    <string name="some_php_functions_disabled"><h2>Diagnostics: The following PHP functions: […] are disabled on your server</h2>
+<p>This means your hosting company or server administrator has disabled one or more PHP functions, some of which may affect the running of Textpattern.</p>
+<p>Please consult the <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/diagnostics-panel">Textpattern User Documentation <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> for further information.</p></string>
+    <string name="textpattern_version_update"><h2>Diagnostics: Textpattern CMS version update</h2>
+<p>There is a newer version of Textpattern CMS available. To take advantage of the latest features and security, it is recommended you upgrade.</p>
+<p>Please note that while we strive to make the upgrade experience as seamless and pain-free as possible:</p>
+<ul>
+    <li>If only the last digit differs from your current version, the upgrade is likely to be backwards compatible with plugins and themes.</li>
+    <li>If the last two digits differ from your current version, the upgrade might require updates to some plugins and/or themes, although it will probably continue to work anyway in a limited capacity.</li>
+    <li>If the first digit is different from your current version, the upgrade is likely to require updates to most plugins and themes. If you rely heavily on a particular plugin or theme feature, please check with the author or community members before commencing the upgrade.</li>
+</ul>
+<p>If the messages reads “There is a problem trying to connect to the RPC server” it means a new version could not be checked at this time, or the server may be down. Updates are checked for every 24 hours so it is likely that next time you visit the Diagnostics panel, all will be well.</p></string>
+    <string name="tmp_plugin_paths_match"><h2>Diagnostics: Temporary directory path and Plugin cache directory path should not match</h2>
+<p>Plugins should have their own directory and not share the temporary directory. This is a potential security risk and may adversely affect your site if the temporary directory is flushed. Please ensure that the temporary directory path is different to the plugin cache path.</p></string>
+    <string name="update_still_exists"><h2>Diagnostics: 'update' directory still exists</h2>
+<p>When Textpattern has been upgraded, the <code>textpattern/update</code> directory and its contents are no longer needed and recommended for deletion. You will continue to receive this warning until it has been removed.</p>
+</string>
+    <string name="warn_mail_unavailable"><h2>Diagnostics: Your PHP installation is missing the mail() function</h2>
+<p>PHP’s <a rel="external" target="_blank" href="https://secure.php.net/manual/en/function.mail.php">mail <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> function is disabled. Therefore, Textpattern cannot send emails and some functionality will not be available. For example, email notifications for new comments will not be sent, and new users will not receive a welcome email. Users can still be added, however.</p></string>
+    <string name="warn_register_globals_or_update"><h2>Diagnostics: Turn register_globals off or update to a newer PHP version</h2>
+<p>A severe vulnerability was discovered in certain versions of PHP concerning the controversial legacy feature <a rel="external" target="_blank" href="https://secure.php.net/manual/en/security.globals.php">registered globals <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a>. This can lead to unexpected behaviour of PHP applications, which can potentially allow execution of remote PHP code in many situations.</p>
+<p>Vulnerable versions are PHP4 versions &lt;= 4.4.0 and PHP5 versions &lt;= 5.0.5. You should either update to a newer version or make sure that <code>register_globals</code> is turned off. <code>register_globals</code> was deprecated as of PHP 5.3.0 and removed as of PHP 5.4.0.</p>
+<p>You can turn off <code>register_globals</code> in the <code>php.ini</code> file. If you are in a hosted environment, you may have an option in your hosting control panel for it (ask your host). When running PHP as an Apache module, it is also possible to turn <code>register_globals</code> off via Apache’s <code>.htaccess</code> configuration files. Uncomment the following line from your <code>.htaccess</code> file by removing the leading #:</p>
+<pre><code>php_value register_globals 0</code></pre></string>
 </resources>
