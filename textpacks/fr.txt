@@ -525,17 +525,14 @@ page_used_by_section => Le module <strong>{name}</strong> n’a pas été effac�
 page_xml_hed => Flux XML
 #@plugin
 bad_plugin_code => Le code source du plugin est invalide ou absent.
-broken_plugin => défaillant
 changeorder => Modifier l’ordre de tri
 edit_plugin => Édition du plugin <strong>{name}</strong>
 edit_plugins => Éditer les plugins
 help => Aide
 install => Installer
 install_plugin => Installation de plugin
-old_plugin => Installateur de plugin « à l’ancienne »
 order => Ordre
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => Le serveur n’a pu décompresser le plugin. Veuillez contacter l’auteur du plugin pour obtenir une version décompressée.
 plugin_deleted => Plugin <strong>{name}</strong> supprimé.
 plugin_help => Aide du plugin
@@ -550,7 +547,6 @@ verify_plugin => Vérifiez le plugin
 #@prefs
 active_language => Langue actuelle :
 admin_side_plugins => Utiliser les plugins administratifs ?
-advanced_preferences => Options avancées
 allow_article_php_scripting => Autoriser l’usage de PHP dans les articles ?
 allow_form_override => Autoriser l’usage du module de remplacement par article ?
 allow_page_php_scripting => Autoriser l’usage de PHP dans les gabarits ?

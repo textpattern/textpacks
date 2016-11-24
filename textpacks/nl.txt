@@ -525,17 +525,14 @@ page_used_by_section => De pagina <strong>{name}</strong> kan niet worden verwij
 page_xml_hed => XML feeds
 #@plugin
 bad_plugin_code => Foute of lege plugin code.
-broken_plugin => werkt niet
 changeorder => Volgorde aanpassen
 edit_plugin => Bewerk plugin <strong>{name}</strong>
 edit_plugins => Plugins wijzigen
 help => Info
 install => Installeren
 install_plugin => Plugin installeren
-old_plugin => Oude-stijl (tekstbestand) plugin installer
 order => Volgorde
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => De server kan de gecomprimeerde plugin niet uitpakken. Neem contact op met de maker van de plugin voor een ongecomprimeerde versie.
 plugin_deleted => Plugin <strong>{name}</strong> verwijderd.
 plugin_help => Plugin hulp
@@ -550,7 +547,6 @@ verify_plugin => Verifieer plugin
 #@prefs
 active_language => Op dit moment ingestelde taal
 admin_side_plugins => Admin plugins toestaan?
-advanced_preferences => Uitgebreid
 allow_article_php_scripting => PHP in artikelen toestaan?
 allow_form_override => Eigen modulekeuze voor artikelen toestaan?
 allow_page_php_scripting => PHP in pagina’s toestaan?

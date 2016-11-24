@@ -525,17 +525,14 @@ page_used_by_section => Η Σελίδα <strong>{name}</strong> δεν διεγ�
 page_xml_hed => Τροφοδοσίες XML
 #@plugin
 bad_plugin_code => O πηγαίος κώδικας του αρθρώματος είναι άκυρος ή άδειος.
-broken_plugin => σφάλμα
 changeorder => Αλλαγή σειράς
 edit_plugin => Επεξεργαστείτε το άρθρωμα <strong>{name}</strong>
 edit_plugins => Επεξεργασία αρθρωμάτων
 help => Βοήθεια
 install => Εγκατάσταση
 install_plugin => Εγκατάσταση αρθρώματος
-old_plugin => Εγκατάσταση αρθρωμάτων παλαιού τύπου (αρχείο κειμένου)
 order => Ιεραρχία
 plugin => Άρθρωμα
-plugins => Αρθρώματα
 plugin_compression_unsupported => Η αποσυμπίεση του αρθρώματος δεν υποστηρίζεται τον διακομιστή σας. Παρακαλείστε όπως έρθετε σε επαφή με τον συντάκτη του αρθρώματος για τη μη συμπιεσμένη έκδοση.
 plugin_deleted => Το άρθρωμα <strong>{name}</strong> διαγράφηκε.
 plugin_help => Βοήθεια αρθρώματος
@@ -550,7 +547,6 @@ verify_plugin => Επαλήθευση του αρθρώματος
 #@prefs
 active_language => Ενεργή γλώσσα
 admin_side_plugins => Χρήση αρθρωμάτων στη πλευρά διαχείρισης;
-advanced_preferences => Προχωρημένες ρυθμίσεις
 allow_article_php_scripting => Να επιτρέπεται το PHP στα άρθρα;
 allow_form_override => Παροχή δυνατότητας παράκαμψης της προκαθορισμένης φόρμας;
 allow_page_php_scripting => Δυνατότητα χρήσης PHP μέσα στις σελίδες;

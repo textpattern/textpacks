@@ -525,17 +525,14 @@ page_used_by_section =>
 page_xml_hed => XML feeds
 #@plugin
 bad_plugin_code => โค้ดของปลั๊กอินว่างเปล่าหรือใช้งานไม่ได้
-broken_plugin => เสียหาย
 changeorder => เปลี่ยนลำดับ
 edit_plugin =>
 edit_plugins => แก้ไขปลั๊กอิน
 help => ช่วยเหลือ
 install => ติดตั้ง
 install_plugin => ติดตั้งปลั๊กอิน
-old_plugin => ที่ติดตั้งปลั๊กอินแบบเก่า (แฟ้มข้อความ)
 order => ลำดับ
 plugin => ปลั๊กอิน
-plugins => ปลั๊กอิน
 plugin_compression_unsupported => เซิร์ฟเวอร์ของคุณไม่สนับสนุนการแตกขยายปลั๊กอิน ติดต่อผู้เขียนปลั๊กอินสำหรับรุ่นที่ไม่
 plugin_deleted => ลบปลั๊กอิน<strong>{name}</strong> แล้ว
 plugin_help => วิธีใช้ปลั๊กอิน
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => ภาษาที่กำลังใช้
 admin_side_plugins => ใช้ส่วนต่อเติมสำหรับหน้าผู้ดูแล?
-advanced_preferences => ตัวเลือกระดับสูง
 allow_article_php_scripting => ใช้ PHP ในบทความ?
 allow_form_override => อนุญาตให้ใช้ฟอร์มทดแทน?
 allow_page_php_scripting => ใช้ PHP ในหน้า?

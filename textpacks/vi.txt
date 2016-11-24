@@ -525,17 +525,14 @@ page_used_by_section => Trang <strong>{name}</strong> không bị xóa; vì nó 
 page_xml_hed => XML Feed
 #@plugin
 bad_plugin_code => Phần bổ xung sai định dạng.
-broken_plugin => bị lỗi
 changeorder => Đổi thứ tự
 edit_plugin => Sửa phần bổ xung <strong>{name}</strong>
 edit_plugins => Phần bổ xung
 help => Trợ giúp
 install => Cài đặt
 install_plugin => Cài đặt phần bổ xung
-old_plugin => Bộ cài phần bổ xung kiểu cũ (tập tin văn bản)
 order => Thứ tự
 plugin => Phần bổ xung
-plugins => Phần bổ xung
 plugin_compression_unsupported => Phần bổ xung có phần giải nén không được hỗ trợ bởi máy chủ của bạn. Hãy liên hệ với tác giả phần bổ xung để hỏi phiên bản không nén.
 plugin_deleted => Đã xóa phần bổ xung <strong>{name}</strong>.
 plugin_help => Trợ giúp về phần bổ xung
@@ -550,7 +547,6 @@ verify_plugin => Thẩm tra phần bổ xung
 #@prefs
 active_language => Ngôn ngữ đang sử dụng:
 admin_side_plugins => Dùng phần bổ xung phía-quản-trị?
-advanced_preferences => Nâng cao
 allow_article_php_scripting => Cho phép PHP trong bài viết?
 allow_form_override => Cho phép đè mẫu đơn override?
 allow_page_php_scripting => Cho phép PHP trong trang?

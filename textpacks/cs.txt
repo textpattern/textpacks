@@ -525,17 +525,14 @@ page_used_by_section => Stránka <strong>{name}</strong> nebyla odstraněna; pou
 page_xml_hed => Prameny XML
 #@plugin
 bad_plugin_code => Chybný nebo prázdný kód pluginu.
-broken_plugin => chybný
 changeorder => Změnit pořadí
 edit_plugin => Editovat plugin <strong>{name}</strong>
 edit_plugins => Úpravy pluginů
 help => Nápověda
 install => Instalovat
 install_plugin => Instalovat plugin
-old_plugin => Starý instalátor pluginů (z textových souborů)
 order => Pořadí
 plugin => Plugin
-plugins => Pluginy
 plugin_compression_unsupported => Server nepodporuje dekomprimaci pluginů. Obrať se na autora pluginu, zda nemá nekomprimovanou formu.
 plugin_deleted => Plugin <strong>{name}</strong> odstraněn.
 plugin_help => Nápověda
@@ -550,7 +547,6 @@ verify_plugin => Ověřit plugin
 #@prefs
 active_language => Nastavený jazyk
 admin_side_plugins => Používat pluginy pro správu?
-advanced_preferences => Pokročilá nastavení
 allow_article_php_scripting => Používat PHP v článcích?
 allow_form_override => Povolit ruční volbu forem?
 allow_page_php_scripting => Používat PHP na stránkách?

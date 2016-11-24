@@ -525,17 +525,14 @@ page_used_by_section =>
 page_xml_hed => XML fæði
 #@plugin
 bad_plugin_code => Slæmur eða enginn viðbótarkóði.
-broken_plugin => bilað
 changeorder =>
 edit_plugin =>
 edit_plugins => Breyta viðbót
 help =>
 install => Setja upp
 install_plugin => Setja upp viðbót
-old_plugin => Gamla leiðin (texta skrá) viðbótar uppsettning
 order =>
 plugin => Viðbót
-plugins => Viðbætur
 plugin_compression_unsupported =>
 plugin_deleted =>
 plugin_help => Hjálp viðbóta
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Tungumál í notkun
 admin_side_plugins => Nota stjórnborðs viðbætur?
-advanced_preferences => Flóknari stillingar
 allow_article_php_scripting => Leyfa PHP í greinum?
 allow_form_override => Leyfa yfirskrif sniðs?
 allow_page_php_scripting => Leyfa PHP í síðum?

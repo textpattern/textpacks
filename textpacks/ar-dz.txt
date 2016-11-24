@@ -525,17 +525,14 @@ page_used_by_section =>
 page_xml_hed => XML تدفق
 #@plugin
 bad_plugin_code => النظام الأصلي لـلبلوغين غير صحيح أو غائب
-broken_plugin => متعطل
 changeorder =>
 edit_plugin =>
 edit_plugins => تغيير
 help =>
 install => تنزيل
 install_plugin => تنزيل البلوغين
-old_plugin => منزل البلوغين القديمة
 order =>
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported =>
 plugin_deleted =>
 plugin_help => plugin مسعاد
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => اللغة المستخدمة حاليا
 admin_side_plugins => استخدام مجموعة البلوغين الإدارية؟
-advanced_preferences => خيارات متقدمة
 allow_article_php_scripting => (PHP) ترخيص نظام .. في المقالات؟
 allow_form_override => (Form) ترخيص استعمال ؟ في المقال الواحد؟
 allow_page_php_scripting => (PHP) ترخيص نظام .. في ؟؟؟

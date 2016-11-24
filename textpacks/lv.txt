@@ -525,17 +525,14 @@ page_used_by_section => Lapa <strong>{name}</strong> netika dzēsta; to lieto {c
 page_xml_hed => XML padeves
 #@plugin
 bad_plugin_code => Nepareizi noformēts vai tukšs spraudnis.
-broken_plugin => nederīgs
 changeorder => Mainīt kārtību
 edit_plugin => Labot spraudni <strong>{name}</strong>
 edit_plugins => Labot spraudņus
 help => Palīdzība
 install => Uzstādīt
 install_plugin => Uzstādīt spraudni
-old_plugin => Iepriekšējais spraudņu uzstādītājs (teksta fails)
 order => Secība
 plugin => Spraudnis
-plugins => Spraudņi
 plugin_compression_unsupported => Tavs serveris neatbalsta spraudņu kompresiju. Sazinies ar spraudņa autoru, lai iegūtu nekompresētu versiju.
 plugin_deleted => Spraudnis <strong>{name}</strong> dzēsts.
 plugin_help => Palīdzība ar spraudni
@@ -550,7 +547,6 @@ verify_plugin => Pārbaudīt spraudni
 #@prefs
 active_language => Šobrīd aktīvā valoda
 admin_side_plugins => Lietot administrācijas daļas spraudņus?
-advanced_preferences => Paplašināti uzstādījumi
 allow_article_php_scripting => Atļaujt PHP ierakstos?
 allow_form_override => Atļaut pašizvēlētās formas ierakstos?
 allow_page_php_scripting => Atļaut PHP lapās?

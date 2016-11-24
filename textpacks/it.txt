@@ -525,17 +525,14 @@ page_used_by_section => Pagina <strong>{name}</strong> non eliminata; in uso da 
 page_xml_hed => Flussi XML
 #@plugin
 bad_plugin_code => Codice plug-in non valido o vuoto.
-broken_plugin => rotto
 changeorder => Modifica ordine
 edit_plugin => Modifica plug-in <strong>{name}</strong>
 edit_plugins => Modifica plug-in
 help => Aiuto
 install => Installa
 install_plugin => Installa plug-in
-old_plugin => Installatore plug-in vecchio stile (file di testo)
 order => Ordine
 plugin => Plug-in
-plugins => Plug-in
 plugin_compression_unsupported => Il tuo server non supporta la decompressione dei plug-in. Contatta l’autore del plug-in per richiedere una versione non compressa.
 plugin_deleted => Plug-in <strong>{name}</strong> eliminato.
 plugin_help => Aiuto plug-in
@@ -550,7 +547,6 @@ verify_plugin => Verifica plug-in
 #@prefs
 active_language => Lingue attivate
 admin_side_plugins => Consenti plug-in per la parte di amministrazione?
-advanced_preferences => Preferenze avanzate
 allow_article_php_scripting => Accetta codice PHP negli articoli?
 allow_form_override => Consenti di forzare i moduli?
 allow_page_php_scripting => Accetta codice PHP nelle pagine?

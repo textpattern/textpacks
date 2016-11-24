@@ -525,17 +525,14 @@ page_used_by_section =>
 page_xml_hed =>
 #@plugin
 bad_plugin_code =>
-broken_plugin =>
 changeorder =>
 edit_plugin =>
 edit_plugins =>
 help =>
 install =>
 install_plugin =>
-old_plugin =>
 order =>
 plugin =>
-plugins =>
 plugin_compression_unsupported =>
 plugin_deleted =>
 plugin_help =>
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language =>
 admin_side_plugins =>
-advanced_preferences =>
 allow_article_php_scripting =>
 allow_form_override =>
 allow_page_php_scripting =>

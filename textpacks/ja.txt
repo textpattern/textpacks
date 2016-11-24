@@ -525,17 +525,14 @@ page_used_by_section => ページ <strong>{name}</strong> を削除出来ませ�
 page_xml_hed => XMLフィード
 #@plugin
 bad_plugin_code => 不完全または空のプラグイン。
-broken_plugin => 破損
 changeorder => 並び替え
 edit_plugin => プラグインの編集 <strong>{name}</strong>
 edit_plugins => プラグイン
 help => ヘルプ
 install => インストール
 install_plugin => プラグインのインストール
-old_plugin => 古い(text file) プラグインインストーラー
 order => 順序
 plugin => プラグイン
-plugins => プラグイン
 plugin_compression_unsupported => プラグインの解凍がサーバで許可されていません。プラグイン製作者へ連絡を取り、解凍済みの物を入手してください。
 plugin_deleted => プラグイン <strong>{name}</strong> を削除しました。
 plugin_help => プラグインヘルプ
@@ -550,7 +547,6 @@ verify_plugin => プラグインの検証
 #@prefs
 active_language => 現在の言語設定
 admin_side_plugins => 管理画面のプラグインを使用しますか？
-advanced_preferences => 詳細設定
 allow_article_php_scripting => PHPを記事内で許可しますか？
 allow_form_override => フォームの上書きを許可しますか？
 allow_page_php_scripting => PHPをページ内で許可しますか？

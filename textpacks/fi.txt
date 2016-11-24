@@ -525,17 +525,14 @@ page_used_by_section => Sivua <strong>{name}</strong> ei poistettu; se on käyt�
 page_xml_hed => XML-syötteet
 #@plugin
 bad_plugin_code => Liitännäisen koodi on väärän muotoinen tai tyhjä
-broken_plugin => viallinen
 changeorder => Vaihda järjestys
 edit_plugin => Muokkaa liitännäistä <strong>{name}</strong>
 edit_plugins => Muokkaa liitännäisiä
 help => Ohje
 install => Asenna
 install_plugin => Asenna liitännäinen
-old_plugin => Vanha (tekstitiedosto) liitännäisasennus
 order => Järjestys
 plugin => Liitännäinen
-plugins => Liitännäiset
 plugin_compression_unsupported => Palvelin ei tue liitännäisten pakkausta. Pyydä liitännäisen tekijältä pakkaamatonta versiota.
 plugin_deleted => Liitännäinen <strong>{name}</strong> poistettu.
 plugin_help => Liitännäisen ohje
@@ -550,7 +547,6 @@ verify_plugin => Varmista liitännäinen
 #@prefs
 active_language => Tällä hetkellä käytössä oleva kieli
 admin_side_plugins => Käytä admin-puolen liitännäisiä?
-advanced_preferences => Lisäasetukset
 allow_article_php_scripting => Salli PHP artikkeleissa?
 allow_form_override => Salli erilaisen lomakkeen käyttö yksittäisessä artikkelissa?
 allow_page_php_scripting => Salli PHP sivupohjissa?

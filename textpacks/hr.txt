@@ -525,17 +525,14 @@ page_used_by_section =>
 page_xml_hed => XML feedovi
 #@plugin
 bad_plugin_code => Loše formatiran ili neispravan kod plugina.
-broken_plugin => puknut
 changeorder =>
 edit_plugin =>
 edit_plugins => Plugini
 help => Pomoć
 install => Instaliraj
 install_plugin => Instaliraj plugin
-old_plugin =>
 order =>
 plugin => Plugin
-plugins => Plugini
 plugin_compression_unsupported =>
 plugin_deleted => Plugin <strong>{name}</strong> izbrisan.
 plugin_help => Plugin pomoć
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Trenutno aktivni jezik
 admin_side_plugins => Koristi admin-side plugine?
-advanced_preferences => Napredno
 allow_article_php_scripting => Dozvoli PHP u unosima?
 allow_form_override => Dozvoli zanemarivanje forme?
 allow_page_php_scripting => Dozvoli PHP u stranicama?

@@ -525,17 +525,14 @@ page_used_by_section => Siden <strong>{name}</strong> ble ikke slettet da den er
 page_xml_hed => XML feeds
 #@plugin
 bad_plugin_code => Feildefinert eller tom programtilleggskode.
-broken_plugin => ødelagt
 changeorder => Endre prioritet
 edit_plugin => Endre tilleggsprogram <strong>{name}</strong>
 edit_plugins => Endre tilleggsprogrammer
 help => Hjelp
 install => Installer
 install_plugin => Installer tilleggsprogram
-old_plugin => Gammeldags (tekstfil) installasjon av tilleggsprogrammer
 order => Sorter
 plugin => Tilleggsprogram
-plugins => Tilleggsprogrammer
 plugin_compression_unsupported => Pluginutpakking er ikke støttet av din server. Kontakt den som har laget plugin’en for å få en ukomprimert versjon.
 plugin_deleted => Tilleggsprogram <strong>{name}</strong> sletter.
 plugin_help => Tilleggsprogram hjelp
@@ -550,7 +547,6 @@ verify_plugin => Verifisere tilleggsprogram
 #@prefs
 active_language => Språk i bruk
 admin_side_plugins =>
-advanced_preferences => Avansert
 allow_article_php_scripting => Tillat PHP i artikler?
 allow_form_override => Tillat overstyring av skjemaer?
 allow_page_php_scripting => Tillat PHP i sider?

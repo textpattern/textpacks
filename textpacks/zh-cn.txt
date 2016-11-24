@@ -525,17 +525,14 @@ page_used_by_section => 页面 <strong>{name}</strong> 没有被删除；还有 
 page_xml_hed => XML Feeds
 #@plugin
 bad_plugin_code => 插件代码错误或空白。
-broken_plugin => 损坏
 changeorder => 更改顺序
 edit_plugin => 编辑插件 <strong>{name}</strong>
 edit_plugins => 插件
 help => 帮助
 install => 安装
 install_plugin => 安装插件
-old_plugin => 旧式（文本文件）插件安装
 order => 顺序
 plugin => 插件
-plugins => 插件
 plugin_compression_unsupported => 你的服务器不支持插件解压。请联系插件作者要取未压缩的版本。
 plugin_deleted => 插件 <strong>{name}</strong> 已删除。
 plugin_help => 插件帮助
@@ -550,7 +547,6 @@ verify_plugin => 验证插件
 #@prefs
 active_language => 当前启用的语言
 admin_side_plugins => 使用管理端插件？
-advanced_preferences => 高级
 allow_article_php_scripting => 允许在文章中使用 PHP？
 allow_form_override => 允许模块覆盖？
 allow_page_php_scripting => 允许在页面中使用 PHP？

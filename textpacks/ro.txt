@@ -525,17 +525,14 @@ page_used_by_section => Pagina <strong>{name}</strong> nu a fost stearsa; este f
 page_xml_hed => Feed-uri XML
 #@plugin
 bad_plugin_code => Extensie incompleta sau neexistenta.
-broken_plugin => incompleta
 changeorder => Modifica ordinea
 edit_plugin =>
 edit_plugins => Editeaza plugin-urile
 help => Ajutor
 install => Instaleaza
 install_plugin => Instaleaza plugin
-old_plugin => Instaleaza plugin in stil vechi (fisier text)
 order => Ordinea
 plugin => Plugin
-plugins => Plugin-uri
 plugin_compression_unsupported => Decomprimarea plugin-ului nu este suportata de server. Ia legatura cu autorul plugin-ului pentru o versiune necomprimata.
 plugin_deleted => Plugin-ul <strong>{name}</strong> a fost sters.
 plugin_help => Ajutor plugin
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Limba curent activa
 admin_side_plugins => Foloseste plugin-uri admin?
-advanced_preferences => Preferinte avansate
 allow_article_php_scripting => Accepta cod PHP in articole?
 allow_form_override => Accepta inlocuirea forms-urilor?
 allow_page_php_scripting => Accepta cod PHP in pagini?

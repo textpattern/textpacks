@@ -525,17 +525,14 @@ page_used_by_section => Side <strong>{name}</strong> ikke slettet; bruges af {co
 page_xml_hed => XML feeds
 #@plugin
 bad_plugin_code => Dårligt udformet eller tom pluginkode.
-broken_plugin => defekt
 changeorder =>
 edit_plugin =>
 edit_plugins => rediger plugins
 help => Hjælp
 install => Installer
 install_plugin => Installer plugin
-old_plugin => Gammel (tekst fil) plugin installerings metode
 order =>
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => Plugin kompression er ikke understøttet af din server. Kontakt plugin forfatteren for en ikke komprimeret version.
 plugin_deleted => Plugin <strong>{name}</strong> slettet.
 plugin_help => Plugin hjælp
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Nuværende aktive sprog
 admin_side_plugins => Brug administrations plugins?
-advanced_preferences => Avanceret
 allow_article_php_scripting => Tillad PHP i artikler?
 allow_form_override => Tillad at tilsidesætte forme?
 allow_page_php_scripting => Tillad PHP på sider?

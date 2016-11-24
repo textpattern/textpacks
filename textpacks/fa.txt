@@ -525,17 +525,14 @@ page_used_by_section => صفحه <strong>{name}</strong> پاک نشد چرا ک
 page_xml_hed => فیدها
 #@plugin
 bad_plugin_code => کد پلاگین بدساختار یا خالی است.
-broken_plugin => شکسته
 changeorder => تغییر اولویت
 edit_plugin => ویرایش پلاگین <strong>{name}</strong>
 edit_plugins => پلاگین‌ها
 help => راهنمایی
 install => نصب
 install_plugin => نصب پلاگین
-old_plugin => نصاب پلاگین قدیمی (مبتنی بر متن)
 order => اولویت
 plugin => پلاگین
-plugins => پلاگین‌ها
 plugin_compression_unsupported => بازکردن بسته ی پلاگین ها رو سرور شما میسر نیست. با سازنده پلاگین تماس بگیرید و درخواست نسخه ی فشرده نشده را کنید.
 plugin_deleted => پلاگین <strong>{name}</strong> پاک شد.
 plugin_help => راهنمای پلاگین
@@ -550,7 +547,6 @@ verify_plugin => تایید پلاگین
 #@prefs
 active_language => زبان فعال
 admin_side_plugins => از پلاگین‌های سمت مدیر استفاده شود؟
-advanced_preferences => پیشرفته
 allow_article_php_scripting => استفاده از PHP در نوشته‌ها مجاز باشد؟
 allow_form_override => تحریف فرم مجاز باشد؟
 allow_page_php_scripting => استفاده از PHP در صفحات مجاز باشد؟

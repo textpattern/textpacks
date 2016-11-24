@@ -525,17 +525,14 @@ page_used_by_section => Sidan <strong>{name}</strong> togs inte bort eftersom de
 page_xml_hed => XML-strömmar
 #@plugin
 bad_plugin_code => Felaktigt utformad eller tom plugin-kod.
-broken_plugin => trasig
 changeorder => Ändra ordning
 edit_plugin => Redigera plugin {name}
 edit_plugins => Plugins
 help => Hjälp
 install => Installera
 install_plugin => Installera plugin
-old_plugin => Äldre (textfil-)plugin-installerare
 order => Ordning
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => Plugin-uppackning stöds inte av din server. Kontakta författaren till denna plugin för en okomprimerad version.
 plugin_deleted => Tillägget <strong>{name}</strong> togs bort.
 plugin_help => Plugin-hjälp
@@ -550,7 +547,6 @@ verify_plugin => Verifiera plugin
 #@prefs
 active_language => Aktivt språk
 admin_side_plugins => Använd admin-plugins?
-advanced_preferences => Avancerade
 allow_article_php_scripting => Tillåt PHP-script i artiklar?
 allow_form_override => Tillåt att åsidosätta siddelar?
 allow_page_php_scripting => Tillåt PHP-script i sidmallar?

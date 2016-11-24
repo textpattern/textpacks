@@ -525,17 +525,14 @@ page_used_by_section => No s’ha esborrat la pàgina <strong>{name}</strong> pe
 page_xml_hed => Feeds XML
 #@plugin
 bad_plugin_code => Codi del plugin buit o mal format.
-broken_plugin => Trencat
 changeorder => Canvia l’ordre
 edit_plugin =>
 edit_plugins => edita plugins
 help => Ajuda
 install => Instal·la
 install_plugin => Instal·la plugin
-old_plugin => Plugin a l’antiga (fitxer de text)
 order => Ordena
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => El teu servidor no suporta descompressió de plugins. Demana-li a l’autor del plugin una versió sense comprimir.
 plugin_deleted => S’ha esborrat el plugin <strong>{name}</strong>.
 plugin_help => Ajuda del plugin
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Idioma actiu
 admin_side_plugins => Utilitzar els plugins administratius?
-advanced_preferences => Preferències avançades
 allow_article_php_scripting => Permetre PHP en els articles?
 allow_form_override => Permetre la sobreescritura de formularis?
 allow_page_php_scripting => Permetre PHP en les pàgines?

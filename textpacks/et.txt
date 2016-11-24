@@ -525,17 +525,14 @@ page_used_by_section =>
 page_xml_hed => XML voog
 #@plugin
 bad_plugin_code => Halvasti vormistatud või tühi plugin.
-broken_plugin => katki
 changeorder =>
 edit_plugin =>
 edit_plugins => Toimeta pluginaid
 help =>
 install => Installeeri
 install_plugin => Installeeri plugin
-old_plugin => Vanas-stiilis (tekstifailina) plugina paigaldaja
 order =>
 plugin => Plugin
-plugins => Pluginad
 plugin_compression_unsupported =>
 plugin_deleted =>
 plugin_help => Plugina abi
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Hetkel aktiivne keel
 admin_side_plugins => Kasuta admin-ala plugnaid?
-advanced_preferences => Keerulisemad seaded
 allow_article_php_scripting => Luba PHP artiklites?
 allow_form_override => Luba vormide ülekirjutamist?
 allow_page_php_scripting => Luba PHP lehtedel?

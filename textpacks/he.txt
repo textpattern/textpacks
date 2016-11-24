@@ -525,17 +525,14 @@ page_used_by_section => הדף <strong>{name}</strong> לא נמחק. נעשה �
 page_xml_hed => מזיני XML
 #@plugin
 bad_plugin_code => קוד תוסף שגוי או ריק.
-broken_plugin => שבור
 changeorder => שנה סדר
 edit_plugin => ערןך תוסף <strong>{name}</strong>
 edit_plugins => ערוך תוספים
 help => עזרה
 install => התקן
 install_plugin => התקן תוסף
-old_plugin => התקנת תוסף מהסגנון הישן (קובץ טקסט)
 order => סדר
 plugin => תוסף
-plugins => תוספים
 plugin_compression_unsupported => פתיחת כיווץ תוסף לא נתמך בשרת שלך. צור קשר עם כותב התוסף לגירסה לא מכווצת שלו.
 plugin_deleted => התוסף <strong>{name}</strong> עודכן.
 plugin_help => עזרת התוסף
@@ -550,7 +547,6 @@ verify_plugin => אמת תוסף
 #@prefs
 active_language => השפה הפעילה כרגע
 admin_side_plugins => להשתמש בתוספי של צד המנהל?
-advanced_preferences => הגדרות מתקדמות
 allow_article_php_scripting => לאפשר PHP במאמרים?
 allow_form_override => לאפשר דריסת טפסים?
 allow_page_php_scripting => לאפשר PHP בעמודים?

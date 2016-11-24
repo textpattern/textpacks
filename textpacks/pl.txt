@@ -525,17 +525,14 @@ page_used_by_section => Strona <strong>{name}</strong> nie została usunięta. A
 page_xml_hed => Kanały XML
 #@plugin
 bad_plugin_code => Błąd w kodzie lub brak kodu pluginu.
-broken_plugin => Uszkodzony
 changeorder => Zmień kolejność
 edit_plugin => Edytuj pluginy <strong>{name}</strong>
 edit_plugins => Edytuj pluginy
 help => Pomoc
 install => Instaluj
 install_plugin => Zainstaluj plugin
-old_plugin => Instalator pluginów w starym stylu
 order => Kolejność
 plugin => Plugin
-plugins => Pluginy
 plugin_compression_unsupported => Dekompresja pluginów nie jest wspierana przez Twój serwer. Zapytaj autora pluginu o nieskompresowaną wersję.
 plugin_deleted => Plugin <strong>{name}</strong> został usunięty.
 plugin_help => Pomoc plugin
@@ -550,7 +547,6 @@ verify_plugin => Zweryfikuj plugin
 #@prefs
 active_language => Aktualnie używany język
 admin_side_plugins => Używać pluginów dla administracji?
-advanced_preferences => Ustawienia zaawansowane
 allow_article_php_scripting => Czy kod PHP jest dozwolony w artykułach?
 allow_form_override => Nadpisywanie form dozwolone?
 allow_page_php_scripting => Czy kod PHP jest dozwolony na stronach?

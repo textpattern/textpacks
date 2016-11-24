@@ -525,17 +525,14 @@ page_used_by_section =>
 page_xml_hed => XML feeds
 #@plugin
 bad_plugin_code => Kötü biçimlendirilmiş veya boş eklenti kodu.
-broken_plugin => bozuk
 changeorder =>
 edit_plugin =>
 edit_plugins => Eklentiler
 help => Yardım
 install => Yükle
 install_plugin => Eklenti yükle
-old_plugin => Eski stil(metin dosyası) eklenti yükleyici
 order =>
 plugin => Eklenti
-plugins => Eklentiler
 plugin_compression_unsupported =>
 plugin_deleted => Eklenti <strong>{name}</strong> silindi.
 plugin_help => Eklenti yardımı
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Etkin dil
 admin_side_plugins => Yönetici (Admin) eklentilerini kullanmak istiyormusunuz?
-advanced_preferences => Gelişmiş
 allow_article_php_scripting => Makalelerde PHP betiklere izin vermek istiyormusunuz?
 allow_form_override => Geçersiz kılmaya izin ver?
 allow_page_php_scripting => Sayfalarda PHP betiklere izin vermek istiyormusunuz?

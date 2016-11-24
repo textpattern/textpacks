@@ -525,17 +525,14 @@ page_used_by_section => Strana <strong>{name}</strong> nije obrisana; koristi se
 page_xml_hed => XML Feeds
 #@plugin
 bad_plugin_code => Loše formatiran ili prazan kod za dodatak.
-broken_plugin => pokidan
 changeorder =>
 edit_plugin =>
 edit_plugins => Dodaci
 help => Pomoć
 install => Instaliraj (postavi)
 install_plugin => Instaliraj dodatak
-old_plugin => Instalater za dodatke starog stila (tekst datoteke)
 order =>
 plugin => Dodatak
-plugins => Dodaci
 plugin_compression_unsupported => Dekompresija dodataka nije podržana na Vašem serveru. Kontaktirajte autora za dekomprimiranu verziju.
 plugin_deleted => Dodatak <strong>{name}</strong> obrisan.
 plugin_help => Pomoć za dodatak
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Trenutni aktivni jezik
 admin_side_plugins => Koristi administratorske dodatke?
-advanced_preferences => Napredno
 allow_article_php_scripting => Dozvoli PHP u člancima?
 allow_form_override => Dozvoli zaobilaženje formulara?
 allow_page_php_scripting => Dozvoli PHP u stranicama?

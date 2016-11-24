@@ -525,17 +525,14 @@ page_used_by_section => Página <strong>(nome)</strong> não excluída; utilizad
 page_xml_hed => Feeds XML
 #@plugin
 bad_plugin_code => Código do plugin incorreto
-broken_plugin => Inválido
 changeorder => Alterar a ordem
 edit_plugin => Editar Plugin <strong>{name}</strong>
 edit_plugins => Plugins
 help => Ajuda
 install => Instalar
 install_plugin => Instalar plugin
-old_plugin => Instalador de plugins (arquivo de texto)
 order => Ordem
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => Descompressão do plugin não é suportado pelo seu servidor. Contate o autor do plugin para solicitar uma versão descompactado.
 plugin_deleted => O Plugin <strong>{name}</strong> foi excluído.
 plugin_help => Ajuda do Plugin
@@ -550,7 +547,6 @@ verify_plugin => Verifique plug-in
 #@prefs
 active_language => Idioma atualmente selecionado
 admin_side_plugins => Usar plugins de administração?
-advanced_preferences => Preferências avançadas
 allow_article_php_scripting => Aceitar código PHP nos artigos?
 allow_form_override => Permitir o uso de módulo alternativo?
 allow_page_php_scripting => Aceitar código PHP nas páginas?

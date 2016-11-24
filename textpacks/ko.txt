@@ -525,17 +525,14 @@ page_used_by_section => <strong>{name}</strong> 페이지를 삭제하지 않았
 page_xml_hed => XML 피드
 #@plugin
 bad_plugin_code => 잘못 작성되었거나 비어있는 확장기능
-broken_plugin => 깨짐
 changeorder => 순서 바꾸기
 edit_plugin =>
 edit_plugins => 확장기능
 help => 도움말
 install => 설치
 install_plugin => 확장기능 설치
-old_plugin => 예전 스타일(텍스트 형태) 확장기능 인스톨러
 order => 순서
 plugin => 확장기능
-plugins => 확장기능
 plugin_compression_unsupported => 본 서버에서는 확장기능 압축해제가 지원되지 않습니다. 확장기능 제작자에게 압축 해제된 버전을 요청하세요.
 plugin_deleted => <strong>{name}</strong> 확장기능이 삭제됨
 plugin_help => 확장기능 도움말
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => 현재 사용중인 언어
 admin_side_plugins => 관리화면 확장기능을 사용합니까?
-advanced_preferences => 고급 설정
 allow_article_php_scripting => 게시물에 PHP를 사용합니까?
 allow_form_override => 폼 오버라이드를 허용합니까?
 allow_page_php_scripting => 페이지에 PHP를 사용합니까?

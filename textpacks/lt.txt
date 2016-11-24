@@ -525,17 +525,14 @@ page_used_by_section => Puslapis <strong>{name}</strong> nepašalintas; naudojam
 page_xml_hed => XML padavimai
 #@plugin
 bad_plugin_code => Blogai suformuotas arba tuščias papildinio kodas.
-broken_plugin => klaidingas
 changeorder => Pakeisti rikiuotę
 edit_plugin => Keisti įskiepį <strong>{name}</strong>
 edit_plugins => Papildiniai
 help => Pagalba
 install => Įdiegti
 install_plugin => Įdiegti papildinį
-old_plugin => Seno stiliaus (tekstinė rinkmena) papildinio diegimo programa
 order => Rikiuotė
 plugin => Papildinys
-plugins => Papildiniai
 plugin_compression_unsupported => Papildinių išskleidimas yra neįmanomas jūsų serveryje. Susisiekite su papildinio autoriumi norėdami gauti nesuspaustą versiją.
 plugin_deleted => Papildinys <strong>{name}</strong> pašalintas.
 plugin_help => Papildinio žinynas
@@ -550,7 +547,6 @@ verify_plugin => Patikrinti įskiepį
 #@prefs
 active_language => Šiuo metu aktyvi kalba
 admin_side_plugins => Ar naudoti administravimo pusės papildinius?
-advanced_preferences => Papildomos
 allow_article_php_scripting => Leisti naudoti PHP straipsniuose?
 allow_form_override => Leisti formos keitimą?
 allow_page_php_scripting => Leisti naudoti PHP puslapiuose?

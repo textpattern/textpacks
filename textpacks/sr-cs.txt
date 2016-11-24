@@ -525,17 +525,14 @@ page_used_by_section => Страница <strong>{name}</strong> није изб
 page_xml_hed => XML feeds
 #@plugin
 bad_plugin_code => Лоше форматиран или неисправан код plugin-a.
-broken_plugin => неисправан
 changeorder => Измени редослед
 edit_plugin =>
 edit_plugins => Plugin-i
 help => Помоћ
 install => Инсталирај
 install_plugin => Инсталирај plugin
-old_plugin =>
 order =>
 plugin => Plugin
-plugins => Plugin-и
 plugin_compression_unsupported =>
 plugin_deleted => Plugin <strong>{name}</strong> избрисан.
 plugin_help => Plugin помоћ
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Тренутно активни језик
 admin_side_plugins => Користи admin-side plugin-e?
-advanced_preferences => Напредно
 allow_article_php_scripting => Дозволи PHP у уносима?
 allow_form_override => Дозволи занемаривање форме?
 allow_page_php_scripting => Дозволи PHP у страницама?

@@ -525,17 +525,14 @@ page_used_by_section => Seite <strong>{name}</strong> wurde nicht gelöscht. Sie
 page_xml_hed => XML-Feeds
 #@plugin
 bad_plugin_code => Defekter oder leerer Plugin-Code
-broken_plugin => defekt
 changeorder => Reihenfolge ändern
 edit_plugin => Plugin <strong>{name}</strong> bearbeiten
 edit_plugins => Plugins
 help => Hilfe
 install => Installation
 install_plugin => Plugin installieren
-old_plugin => Plugins im alten Format (Textdatei) installieren
 order => Reihenfolge
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => Komprimierte Plugins werden von diesem Server nicht unterstützt. Bitte kontaktieren Sie den Autor des Plugins wegen einer unkomprimierten Fassung.
 plugin_deleted => Plugin <strong>{name}</strong> gelöscht.
 plugin_help => Plugin-Hilfe
@@ -550,7 +547,6 @@ verify_plugin => Plugin-Vorschau
 #@prefs
 active_language => Aktuell verwendete Sprache
 admin_side_plugins => Adminplugins verwenden?
-advanced_preferences => Erweiterte Einstellungen
 allow_article_php_scripting => PHP in Artikeln erlauben?
 allow_form_override => Zulassen, dass alternative Bausteine verwendet werden?
 allow_page_php_scripting => PHP in Seiten erlauben?

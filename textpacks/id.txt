@@ -525,17 +525,14 @@ page_used_by_section => Halaman <strong>{name}</strong> tidak dihapus; terpakai 
 page_xml_hed => Umpan XML
 #@plugin
 bad_plugin_code => Salah bentuk atau kode plugin kosong.
-broken_plugin => rusak
 changeorder => Ubah urutan
 edit_plugin =>
 edit_plugins => Plugins
 help =>
 install => Instal
 install_plugin => Instal plugin
-old_plugin => Instalatur plugin (berkas teks) adalah bentuk-lama
 order => Urutan
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => Dekompresi plugin tidak didukung oleh server Anda. Kontak penulis plugin untuk versi yang tidak terkompresi.
 plugin_deleted =>
 plugin_help => Bantuan Plugin
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Bahasa yang sedang aktif
 admin_side_plugins => Gunakan plugin sisi admin?
-advanced_preferences => Lanjutan
 allow_article_php_scripting => Biarkan PHP di artikel?
 allow_form_override => Biarkan penimpaan bentuk?
 allow_page_php_scripting => Biarkan PHP di halaman?

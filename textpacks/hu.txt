@@ -525,17 +525,14 @@ page_used_by_section => Az oldal <strong>{name}</strong> törlése nem lehetség
 page_xml_hed => XML csatornák
 #@plugin
 bad_plugin_code => Rosszul formázott vagy üres plugin kód.
-broken_plugin => rossz
 changeorder => Sorrend megváltoztatása
 edit_plugin =>
 edit_plugins => Pluginok szerkesztése
 help => Segítség
 install => Telepítés
 install_plugin => Plugin telepítése
-old_plugin => Oldszkúl (text file) plugin telepítő
 order => Sorrend
 plugin => Bővítmény
-plugins => Bővítmények
 plugin_compression_unsupported => A bővítmény kicsomagolása a szervereden nem lehetséges. Lépj kapcsolatba a bővítény szerzőjével a tömörítetlen változatért.
 plugin_deleted => A(z) <strong>{name}</strong> bővítmény törölve.
 plugin_help => Plugin leírás
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => Jelenleg aktív nyelvi környezet
 admin_side_plugins => Akarsz használni admin-oldali pluginokat?
-advanced_preferences => Részletes beállítások
 allow_article_php_scripting => Meg akarod engedni a PHP használatát a cikkekben?
 allow_form_override => Megengeded a formok megsemmisítését?
 allow_page_php_scripting => Meg akarod engedni a PHP használatát az oldalakban?

@@ -525,17 +525,14 @@ page_used_by_section => No se ha borrado la página <strong>{name}</strong>; la 
 page_xml_hed => Feeds XML
 #@plugin
 bad_plugin_code => Código del plugin vacío o incorrecto.
-broken_plugin => roto
 changeorder => Cambiar orden
 edit_plugin => Editar plugin <strong>{name}</strong>
 edit_plugins => Plugins
 help => Ayuda
 install => Instalar
 install_plugin => Instalar plugin
-old_plugin => Instalador de plugins al modo antiguo (archivo de texto)
 order => Orden
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => Tu servidor no soporta la descompresión del plugin. Contacta con el autor del plugin para pedirle una versión sin comprimir.
 plugin_deleted => Plugin <strong>{name}</strong> borradp.
 plugin_help => Ayuda del plugin
@@ -550,7 +547,6 @@ verify_plugin => Verificar plugin
 #@prefs
 active_language => Idioma activo
 admin_side_plugins => ¿Usar plugins administrativos?
-advanced_preferences => Avanzadas
 allow_article_php_scripting => ¿Permitir PHP en los artículos?
 allow_form_override => ¿Permitir sobrescritura de bloques?
 allow_page_php_scripting => ¿Permitir PHP en las páginas?

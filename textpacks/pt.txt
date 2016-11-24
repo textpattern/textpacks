@@ -525,17 +525,14 @@ page_used_by_section => A página <strong>{name}</strong> não foi apagada porqu
 page_xml_hed => Feeds XML
 #@plugin
 bad_plugin_code => Código do plugin incorrecto.
-broken_plugin => inválido
 changeorder => Mudar a ordem
 edit_plugin => Edita o plugin <strong>{name}</strong>
 edit_plugins => Edita plugin
 help => Ajuda
 install => Instalar
 install_plugin => Instalar plugin
-old_plugin => Instalador de plugins (ficheiro de texto)
 order => Ordem
 plugin => Plugin
-plugins => Plugins
 plugin_compression_unsupported => A descompactação de plugins não é suportada pelo seu servidor. Contacte o autor do plugin para obter uma versão decompactada.
 plugin_deleted => O plugin <strong>{name}</strong> foi apagado.
 plugin_help => Ajuda do plugin
@@ -550,7 +547,6 @@ verify_plugin => Verificar plugin
 #@prefs
 active_language => Idioma actualmente seleccionado
 admin_side_plugins => Usar plugins de administração?
-advanced_preferences => Preferências Avançadas
 allow_article_php_scripting => Aceitar código PHP nos artigos?
 allow_form_override => Permitir o uso de módulo alternativo?
 allow_page_php_scripting => Aceitar código PHP nas páginas?

@@ -525,17 +525,14 @@ page_used_by_section => صفہ <strong>{name}</strong> حذف نہیں کیا; {
 page_xml_hed =>
 #@plugin
 bad_plugin_code => خالی کوڈ یا پلگ ان کے کوڈ مے گڑبڑی
-broken_plugin => شکستہ
 changeorder => ترتیب بدلیں
 edit_plugin =>
 edit_plugins => پلگ ان
 help => مدد
 install => نصب کریں
 install_plugin => پلگ ان نصب کریں
-old_plugin =>
 order => ترتیب
 plugin => پلگ ان
-plugins => پلگ ان
 plugin_compression_unsupported =>
 plugin_deleted => پلگ ان <strong>{name}</strong> حذف کیا
 plugin_help => پلگ ان مدد
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => فعال زبان
 admin_side_plugins => کیا انتظامی پلگ ان (admin-plugins) استمعال کریں ؟
-advanced_preferences => اعلٰی ترجیحات
 allow_article_php_scripting => کیا مضامین میں PHP کی اجازت ہے ؟
 allow_form_override => کیا فارم (Form) زیر کرنے کی اجازت ہے ؟
 allow_page_php_scripting => کیا صفحات (Pages) میں PHP کی اجازت ہے ؟

@@ -525,17 +525,14 @@ page_used_by_section =>
 page_xml_hed => XML Feeds
 #@plugin
 bad_plugin_code => 外掛程式碼錯誤或空白
-broken_plugin => 不完整
 changeorder =>
 edit_plugin =>
 edit_plugins => 編輯外掛
 help => 說明
 install => 安裝
 install_plugin => 安裝外掛
-old_plugin => 舊式 (文字檔 .txt) 外掛安裝
 order =>
 plugin => 外掛
-plugins => 外掛
 plugin_compression_unsupported =>
 plugin_deleted => 已刪除外掛 <strong>{name}</strong>.
 plugin_help => 外掛說明
@@ -550,7 +547,6 @@ verify_plugin =>
 #@prefs
 active_language => 目前語系
 admin_side_plugins => 啟用管理介面外掛？
-advanced_preferences => 網站進階設定
 allow_article_php_scripting => 允許在文章中使用PHP？
 allow_form_override => 允許覆蓋模型？
 allow_page_php_scripting => 允許在頁面中使用PHP？

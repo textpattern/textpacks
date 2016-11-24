@@ -525,17 +525,14 @@ page_used_by_section => Non se borrou a páxina <strong>{name}</strong>; úsana 
 page_xml_hed => Sumarios XML
 #@plugin
 bad_plugin_code => Código do engadido vacío ou erroneo
-broken_plugin => Roto
 changeorder => Cambiar orde
 edit_plugin => Editar plugin <strong>{name}</strong>
 edit_plugins => modificar engadidos
 help => Axuda
 install => Instalar
 install_plugin => Instalar engadido
-old_plugin => Intalador de engadidos á maneira antiga (arquivo de texto)
 order => Orde
 plugin => Engadido
-plugins => Engadidos
 plugin_compression_unsupported => O teu servidor non soporta a descompresión do plugin. Contacta co autor do plugin para pedirlle unha versión sen comprimir.
 plugin_deleted => Plugin <strong>{name}</strong> borradp.
 plugin_help => Axuda do engadido
@@ -550,7 +547,6 @@ verify_plugin => Verificar plugin
 #@prefs
 active_language => Idioma Activo
 admin_side_plugins => ¿Usar engadidos administrativos?
-advanced_preferences => Preferencias avanzadas
 allow_article_php_scripting => ¿Permitir PHP nos artigos?
 allow_form_override => ¿Permitir sobreescritura de formularios?
 allow_page_php_scripting => ¿Permitir PHP nas páxinas?

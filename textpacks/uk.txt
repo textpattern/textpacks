@@ -525,17 +525,14 @@ page_used_by_section => Сторінка <strong>{name}</strong> не видал
 page_xml_hed => XML Feeds
 #@plugin
 bad_plugin_code => Погано оформлений або пустий код плагіна.
-broken_plugin => не працює
 changeorder => Зміна порядку
 edit_plugin => Редагувати плагін <strong>{name}</strong>
 edit_plugins => Редагувати плагіни
 help => Допомога
 install => Встановити
 install_plugin => Встановити плагін
-old_plugin => Старий інсталятор плагінів (текстовий файл)
 order => Порядок
 plugin => Плагін
-plugins => Плагіни
 plugin_compression_unsupported => Розпаковування плагіна не підтримується вашим сервером. Зв'яжіться з автором плагіна для отримання незапакованої версії.
 plugin_deleted => Плагін <strong>{name}</strong> видалений.
 plugin_help => Допомога по плагіну
@@ -550,7 +547,6 @@ verify_plugin => Перевірка плагіна
 #@prefs
 active_language => Поточна мова
 admin_side_plugins => Використовувати плагіни, які впливають на адмін панель?
-advanced_preferences => Розширені налаштування
 allow_article_php_scripting => Дозволити PHP в статтях?
 allow_form_override => Дозволити змінювати шаблон подання статті?
 allow_page_php_scripting => Дозволити PHP в сторінках?
