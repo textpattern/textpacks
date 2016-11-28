@@ -674,6 +674,7 @@ theme_name => Tema de administración
 timeoffset => Diferencia horaria (horas)
 title_no_widow => Evitar palabras viúvas nos títulos dos artigos?
 title_only => /tí­tulo
+tz_timezone =>
 updated => actualizado
 updated_branch_version_available => Nova versión disponíbel
 update_languages => Actualizar linguaxes

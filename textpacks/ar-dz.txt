@@ -674,6 +674,7 @@ theme_name =>
 timeoffset => الفارق الزمني
 title_no_widow =>
 title_only => عنوان/
+tz_timezone =>
 updated => محدث
 updated_branch_version_available =>
 update_languages => تحديث اللغات

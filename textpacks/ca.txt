@@ -674,6 +674,7 @@ theme_name =>
 timeoffset => Diferència horària (hores)
 title_no_widow => Impedir viudes en els títols d’article?
 title_only => /títol
+tz_timezone =>
 updated => Actualitzat
 updated_branch_version_available => Nova versió disponible.
 update_languages => Actualitzar idiomes

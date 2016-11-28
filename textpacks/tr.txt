@@ -674,6 +674,7 @@ theme_name =>
 timeoffset =>
 title_no_widow =>
 title_only =>
+tz_timezone =>
 updated =>
 updated_branch_version_available => Textpattern için daha güncel bir sürüm mevcut.
 update_languages => Dil dosyaalrını güncelle

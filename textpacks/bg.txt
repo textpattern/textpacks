@@ -674,6 +674,7 @@ theme_name => Тема на админ. панела
 timeoffset => Времево отместване (в часове)
 title_no_widow => Предотврати оставането на единични думи на ред (За повече от един ред в заглавието)?
 title_only => /title
+tz_timezone =>
 updated => Обновена
 updated_branch_version_available => Налична е обновена версия на Textpattern.
 update_languages => Обновяване на езиците

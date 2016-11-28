@@ -674,6 +674,7 @@ theme_name => Tema do admin
 timeoffset => Diferença horária (horas)
 title_no_widow => Impedir que nos títulos dos artigos as palavras sejam truncadas?
 title_only => /titulo
+tz_timezone =>
 updated => atualizado
 updated_branch_version_available => Está disponível uma versão atualizada do Textpattern.
 update_languages => Gerenciar idiomas

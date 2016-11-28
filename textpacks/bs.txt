@@ -674,6 +674,7 @@ theme_name =>
 timeoffset => Vremenska popravka (sati)
 title_no_widow => Onemogući izolovane riječi u naslovima članaka?
 title_only => /naslov
+tz_timezone =>
 updated => Ažuriran
 updated_branch_version_available => There is an update for this Textpattern version series (4.0.x) available.
 update_languages => Osvježi jezike

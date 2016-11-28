@@ -674,6 +674,7 @@ theme_name =>
 timeoffset => 時區(小時)
 title_no_widow => 避免文章標題為單一文字？
 title_only => /title
+tz_timezone =>
 updated => 已更新
 updated_branch_version_available => 取得 Textpattern 最新的發佈版本
 update_languages => 更新語系

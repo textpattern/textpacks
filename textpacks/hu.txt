@@ -674,6 +674,7 @@ theme_name =>
 timeoffset => Idő eltolás (órákban)
 title_no_widow => Prevent widowed words in article titles?
 title_only => /cim
+tz_timezone =>
 updated => frissítve
 updated_branch_version_available => Jelenleg ez a legfrissebb Textpattern. Használd egészséggel!
 update_languages => Nyelvek frissítése

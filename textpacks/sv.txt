@@ -674,6 +674,7 @@ theme_name => Admin-tema
 timeoffset => Tidsförskjutning (timmar)
 title_no_widow => Förhindra horungar i artikeltitlar?
 title_only => /titel
+tz_timezone =>
 updated => Uppdaterad
 updated_branch_version_available => En uppdatering av denna version av Textpattern (4.0.x) finns tillgänglig!
 update_languages => Uppdatera språk

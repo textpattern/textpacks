@@ -674,6 +674,7 @@ theme_name => Admin-Oberfläche
 timeoffset => Zeitverschiebung (Stunden)
 title_no_widow => Verhindere Witwen ("Hurenkinder") in Artikeltiteln?
 title_only => /titel
+tz_timezone =>
 updated => aktualisiert
 updated_branch_version_available => Für diesen Entwicklungszweig ist eine aktualisierte Version von Textpattern verfügbar.
 update_languages => Sprachen aktualisieren

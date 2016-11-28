@@ -674,6 +674,7 @@ theme_name => Chủ đề của phần quản trị
 timeoffset => Múi giờ (giờ)
 title_no_widow => Đảm bảo tiêu đề bài viết không bị lỗi “widow words”?
 title_only => /tiêu đề
+tz_timezone =>
 updated => Đã cập nhật
 updated_branch_version_available => Đã có phiên bản cập nhật của Textpattern.
 update_languages => Cập nhật ngôn ngữ

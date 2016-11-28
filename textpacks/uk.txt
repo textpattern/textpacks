@@ -674,6 +674,7 @@ theme_name => Тема адмінки
 timeoffset => Різниця в часі (години)
 title_no_widow => Уникати одиноких слів в заголовках?
 title_only => /title
+tz_timezone =>
 updated => Оновлено
 updated_branch_version_available => Доступне оновлення цієї версії <a href="http://textpattern.com/download" rel="external" title="Переглянути сайт Textpattern"> Textpattern</a>.
 update_languages => Оновити мови

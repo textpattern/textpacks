@@ -674,6 +674,7 @@ theme_name => Tema sisi admin
 timeoffset => Selisih waktu (jam)
 title_no_widow =>
 title_only => /judul
+tz_timezone =>
 updated => dimutakhirkan
 updated_branch_version_available => Pemutakhiran cabang versi Textpattern ini (4.2.x) tersedia.
 update_languages => Pemutakhiran bahasa

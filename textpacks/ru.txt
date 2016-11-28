@@ -674,6 +674,7 @@ theme_name => Тема оформления панели управления
 timeoffset => Разница во времени (в часах)
 title_no_widow => Убирать висячие слова в заголовках?
 title_only => /заголовок
+tz_timezone =>
 updated => Обновлено
 updated_branch_version_available => Доступно обновление этой версии <a href="http://textpattern.com/download" rel="external" title="Перейти на сайт Textpattern">Textpattern</a>.
 update_languages => Обновить языки
