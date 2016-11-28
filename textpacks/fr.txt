@@ -545,7 +545,7 @@ plugin_updated => Plugin <strong>{name}</strong> mis à jour.
 previewing_plugin => Prévisualisation du plugin :
 verify_plugin => Vérifiez le plugin
 #@prefs
-active_language => Langue actuelle :
+active_language => Langue par défaut active :
 admin_side_plugins => Utiliser les plugins administratifs ?
 allow_article_php_scripting => Autoriser l’usage de PHP dans les articles ?
 allow_form_override => Autoriser l’usage du module de remplacement par article ?
