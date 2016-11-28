@@ -674,7 +674,7 @@ theme_name => Volba vzhledu administrace
 timeoffset => Časový posun oproti serveru (v hodinách)
 title_no_widow => Zabránit sirotkům v názvech článků?
 title_only => /název
-tz_timezone =>
+tz_timezone => Časové pásmo
 updated => upraven(a/o)
 updated_branch_version_available => Existuje novější verze této větve Textpattern. Chceš ji <a href="http://textpattern.com/download" rel="external">vyzkoušet</a>?
 update_languages => Stáhnout poslední překlady

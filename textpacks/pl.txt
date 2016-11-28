@@ -674,7 +674,7 @@ theme_name => Nazwa motywu stron administracyjnych
 timeoffset => Różnica czasu (godziny)
 title_no_widow => Zapobiegać wdowom w tytułach artykułów (typografia)?
 title_only => /tytuł
-tz_timezone =>
+tz_timezone => Strefa czasowa
 updated => Uaktualniony
 updated_branch_version_available => Dostępna jest nowa wersja Textpattern. Chcesz ją <a href="http://textpattern.com/download" rel="external">wypróbować</a>?
 update_languages => Zaktualizuj języki

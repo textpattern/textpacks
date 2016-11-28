@@ -674,7 +674,7 @@ theme_name => Θέμα εμφάνισης πλευράς διαχείρισης
 timeoffset => Διαφορά ώρας
 title_no_widow => Να ενεργοποιηθεί η αποφυγή «widowed words» σε τίτλους άρθρων;
 title_only => /τίτλος
-tz_timezone =>
+tz_timezone => Χρονική ζώνη
 updated => ανανεώθηκε
 updated_branch_version_available => Μια μερικώς ανανεωμένη έκδοση του Textpattern είναι διαθέσιμη. Θέλετε να το <a href="http://textpattern.com/download" rel="external">κατεβάσετε</a>;
 update_languages => Ανανέωση γλωσσών

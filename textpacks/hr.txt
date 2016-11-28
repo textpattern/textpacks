@@ -674,7 +674,7 @@ theme_name =>
 timeoffset =>
 title_no_widow => Spriječi riječi udovice, kod naslova unosa?
 title_only => /naslov
-tz_timezone =>
+tz_timezone => Vremenska zona
 updated => Osvježeno
 updated_branch_version_available => Postoji nova obnova za ovu <a href="http://textpattern.com/download" rel="external">verziju Textpatterna</a>.
 update_languages => Obnovi jezike

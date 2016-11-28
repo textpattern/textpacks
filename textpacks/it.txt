@@ -674,7 +674,7 @@ theme_name => Tema per l’interfaccia di amministrazione
 timeoffset => Fuso orario (ore)
 title_no_widow => Previeni parole ‘vedove’ nei titoli degli articoli?
 title_only => /titolo
-tz_timezone =>
+tz_timezone => Fuso orario
 updated => aggiornato
 updated_branch_version_available => È disponibile un aggiornamento di questa serie di Textpattern CMS. Vuoi <a href="http://textpattern.com/download" rel="external" title="Vai all’area download del sito Textpattern">scaricarlo</a>?
 update_languages => Aggiorna le lingue

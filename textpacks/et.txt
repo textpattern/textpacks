@@ -674,7 +674,7 @@ theme_name =>
 timeoffset => Ajanihe (tundides)
 title_no_widow =>
 title_only => /pealkiri
-tz_timezone =>
+tz_timezone => Ajatsoon
 updated => Uuendatud
 updated_branch_version_available => Uuendatud versioon Textpatternist on saadaval. Kas soovid <a href="http://textpattern.com/download" rel="external">seda proovida</a>?
 update_languages => Uuenda keel

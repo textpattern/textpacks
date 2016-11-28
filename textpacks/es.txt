@@ -674,7 +674,7 @@ theme_name => Tema de administración
 timeoffset => Diferencia horaria (horas)
 title_no_widow => ¿Evitar palabras viudas en los títulos de los artículos?
 title_only => /titulo
-tz_timezone =>
+tz_timezone => Zona horaria
 updated => Actualizado
 updated_branch_version_available => Está disponible una actualización de esta versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">descargarla</a>?
 update_languages => Actualizar idiomas

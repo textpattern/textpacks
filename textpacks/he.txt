@@ -674,7 +674,7 @@ theme_name => עיצוב איזור הניהול
 timeoffset => איזור הזמן(בשעות)
 title_no_widow => לא לאפשר מילים בודדות ככותרות המאמר?
 title_only => /title
-tz_timezone =>
+tz_timezone => איזור זמן
 updated => עודכן
 updated_branch_version_available => שוחררה גירסה מעודכנת של ענף <a href="http://textpattern.com/download" rel="external">Textpattern</a> זה.
 update_languages => קבצים שעודכנו
