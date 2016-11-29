@@ -484,6 +484,9 @@ thumb_width => 寬
 upload_dir_perms =>
 upload_image => 上傳圖片
 upload_thumbnail => 上傳縮圖
+#@lang
+active_language => 目前語系
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => 已更新外掛<strong>{name}</strong>.
 previewing_plugin => 預覽外掛:
 verify_plugin =>
 #@prefs
-active_language => 目前語系
 admin_side_plugins => 啟用管理介面外掛？
 allow_article_php_scripting => 允許在文章中使用PHP？
 allow_form_override => 允許覆蓋模型？

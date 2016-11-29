@@ -484,6 +484,9 @@ thumb_width => Breedte mini-afbeelding
 upload_dir_perms => De toegangsrechten voor deze map moeten gecontroleerd worden.
 upload_image => Afbeelding uploaden
 upload_thumbnail => Upload mini-afbeelding
+#@lang
+active_language => Op dit moment ingestelde taal
+active_language_ui =>
 #@link
 add_new_link => Nieuwe link toevoegen
 edit_link => Link wijzigen
@@ -545,7 +548,6 @@ plugin_updated => Plugin <strong>{name}</strong> vernieuwd.
 previewing_plugin => Voorbeeld plugin:
 verify_plugin => Verifieer plugin
 #@prefs
-active_language => Op dit moment ingestelde taal
 admin_side_plugins => Admin plugins toestaan?
 allow_article_php_scripting => PHP in artikelen toestaan?
 allow_form_override => Eigen modulekeuze voor artikelen toestaan?

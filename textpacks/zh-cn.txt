@@ -484,6 +484,9 @@ thumb_width => 宽
 upload_dir_perms => 请检查目录权限。
 upload_image => 上传图像
 upload_thumbnail => 上传缩略图
+#@lang
+active_language => 当前启用的语言
+active_language_ui =>
 #@link
 add_new_link => 增加新链接
 edit_link => 编辑链接
@@ -545,7 +548,6 @@ plugin_updated => 插件 <strong>{name}</strong> 已更新。
 previewing_plugin => 预览插件：
 verify_plugin => 验证插件
 #@prefs
-active_language => 当前启用的语言
 admin_side_plugins => 使用管理端插件？
 allow_article_php_scripting => 允许在文章中使用 PHP？
 allow_form_override => 允许模块覆盖？

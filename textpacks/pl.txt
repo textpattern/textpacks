@@ -484,6 +484,9 @@ thumb_width => Szerokość
 upload_dir_perms => Należy zmienić uprawnienia katalogu obrazków.
 upload_image => Wgraj obrazek
 upload_thumbnail => Wgraj miniaturkę
+#@lang
+active_language => Aktualnie używany język
+active_language_ui =>
 #@link
 add_new_link => Dodaj odsyłacz
 edit_link => Zmień odsyłacz
@@ -545,7 +548,6 @@ plugin_updated => Plugin <strong>{name}</strong> został zmieniony.
 previewing_plugin => Podgląd pluginu:
 verify_plugin => Zweryfikuj plugin
 #@prefs
-active_language => Aktualnie używany język
 admin_side_plugins => Używać pluginów dla administracji?
 allow_article_php_scripting => Czy kod PHP jest dozwolony w artykułach?
 allow_form_override => Nadpisywanie form dozwolone?

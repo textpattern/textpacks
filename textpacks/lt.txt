@@ -484,6 +484,9 @@ thumb_width => Plotis
 upload_dir_perms => katalogų leidimai turi būti tikrinami.
 upload_image => Siųsti atvaizdą
 upload_thumbnail => Siųsti miniatiūrą
+#@lang
+active_language => Šiuo metu aktyvi kalba
+active_language_ui =>
 #@link
 add_new_link => Įdėti naują nuorodą
 edit_link => Keisti nuorodą
@@ -545,7 +548,6 @@ plugin_updated => Papildinys <strong>{name}</strong> atnaujintas.
 previewing_plugin => Papildinio peržiūra:
 verify_plugin => Patikrinti įskiepį
 #@prefs
-active_language => Šiuo metu aktyvi kalba
 admin_side_plugins => Ar naudoti administravimo pusės papildinius?
 allow_article_php_scripting => Leisti naudoti PHP straipsniuose?
 allow_form_override => Leisti formos keitimą?

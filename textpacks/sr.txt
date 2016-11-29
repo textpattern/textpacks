@@ -484,6 +484,9 @@ thumb_width => Širina
 upload_dir_perms => directory permissions need to be checked.
 upload_image => Upload-uj sliku
 upload_thumbnail => Upload-uj thumbnail
+#@lang
+active_language => Trenutno aktivni jezik
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => Plugin <strong>{name}</strong> osvežen.
 previewing_plugin => Pregled plugina:
 verify_plugin =>
 #@prefs
-active_language => Trenutno aktivni jezik
 admin_side_plugins => Koristi admin-side plugine?
 allow_article_php_scripting => Dozvoli PHP u unosima?
 allow_form_override => Dozvoli zanemarivanje forme?

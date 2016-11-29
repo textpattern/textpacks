@@ -484,6 +484,9 @@ thumb_width => 横幅
 upload_dir_perms => ディレクトリの属性を確認する必要があります。
 upload_image => 画像のアップロード
 upload_thumbnail => サムネイルのアップロード
+#@lang
+active_language => 現在の言語設定
+active_language_ui =>
 #@link
 add_new_link => リンクを追加
 edit_link => リンクを編集
@@ -545,7 +548,6 @@ plugin_updated => プラグイン <strong>{name}</strong>は更新されまし�
 previewing_plugin => プレビュー中のプラグイン:
 verify_plugin => プラグインの検証
 #@prefs
-active_language => 現在の言語設定
 admin_side_plugins => 管理画面のプラグインを使用しますか？
 allow_article_php_scripting => PHPを記事内で許可しますか？
 allow_form_override => フォームの上書きを許可しますか？

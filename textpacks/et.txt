@@ -484,6 +484,9 @@ thumb_width => Laius
 upload_dir_perms =>
 upload_image =>
 upload_thumbnail => Lae üles pisipilt
+#@lang
+active_language => Hetkel aktiivne keel
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated =>
 previewing_plugin => Plugina eelvaade:
 verify_plugin =>
 #@prefs
-active_language => Hetkel aktiivne keel
 admin_side_plugins => Kasuta admin-ala plugnaid?
 allow_article_php_scripting => Luba PHP artiklites?
 allow_form_override => Luba vormide ülekirjutamist?

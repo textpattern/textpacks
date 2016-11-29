@@ -484,6 +484,9 @@ thumb_width => عرض المصغرة بـ
 upload_dir_perms =>
 upload_image =>
 upload_thumbnail => إرسال مصغرة
+#@lang
+active_language => اللغة المستخدمة حاليا
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated =>
 previewing_plugin => Plugin : عرض
 verify_plugin =>
 #@prefs
-active_language => اللغة المستخدمة حاليا
 admin_side_plugins => استخدام مجموعة البلوغين الإدارية؟
 allow_article_php_scripting => (PHP) ترخيص نظام .. في المقالات؟
 allow_form_override => (Form) ترخيص استعمال ؟ في المقال الواحد؟

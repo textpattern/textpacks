@@ -484,6 +484,9 @@ thumb_width => Chiều rộng
 upload_dir_perms => cần kiểm tra lại quyền của thư mục.
 upload_image => Tải ảnh lên
 upload_thumbnail => Tải ảnh nhỏ lên
+#@lang
+active_language => Ngôn ngữ đang sử dụng:
+active_language_ui =>
 #@link
 add_new_link => Thêm liên kết mới
 edit_link => Sửa liên kết
@@ -545,7 +548,6 @@ plugin_updated => Đã cập nhật phần bổ xung <strong>{name}</strong>.
 previewing_plugin => Xem trước nội dung phần bổ xung:
 verify_plugin => Thẩm tra phần bổ xung
 #@prefs
-active_language => Ngôn ngữ đang sử dụng:
 admin_side_plugins => Dùng phần bổ xung phía-quản-trị?
 allow_article_php_scripting => Cho phép PHP trong bài viết?
 allow_form_override => Cho phép đè mẫu đơn override?

@@ -484,6 +484,9 @@ thumb_width => Širina
 upload_dir_perms => dozvole na mapi moraju biti 777
 upload_image => Postavi sliku
 upload_thumbnail => Postavi sličicu
+#@lang
+active_language => Trenutni aktivni jezik
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => Dodatak <strong>{name}</strong> ažuriran.
 previewing_plugin => Pregledanje dodatka:
 verify_plugin =>
 #@prefs
-active_language => Trenutni aktivni jezik
 admin_side_plugins => Koristi administratorske dodatke?
 allow_article_php_scripting => Dozvoli PHP u člancima?
 allow_form_override => Dozvoli zaobilaženje formulara?

@@ -484,6 +484,9 @@ thumb_width => Lebar
 upload_dir_perms => perizinan direktori perlu diperiksa.
 upload_image =>
 upload_thumbnail => Unggah gambar-kecil
+#@lang
+active_language => Bahasa yang sedang aktif
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated =>
 previewing_plugin => Pratayang plugin:
 verify_plugin =>
 #@prefs
-active_language => Bahasa yang sedang aktif
 admin_side_plugins => Gunakan plugin sisi admin?
 allow_article_php_scripting => Biarkan PHP di artikel?
 allow_form_override => Biarkan penimpaan bentuk?

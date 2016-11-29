@@ -484,6 +484,9 @@ thumb_width => Amplada
 upload_dir_perms =>
 upload_image => Puja imatge
 upload_thumbnail => Puja miniatura
+#@lang
+active_language => Idioma actiu
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => S’ha actualitzat el plugin <strong>{name}</strong>.
 previewing_plugin => Previsualització del plugin:
 verify_plugin =>
 #@prefs
-active_language => Idioma actiu
 admin_side_plugins => Utilitzar els plugins administratius?
 allow_article_php_scripting => Permetre PHP en els articles?
 allow_form_override => Permetre la sobreescritura de formularis?

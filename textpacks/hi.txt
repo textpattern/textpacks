@@ -484,6 +484,9 @@ thumb_width =>
 upload_dir_perms =>
 upload_image =>
 upload_thumbnail =>
+#@lang
+active_language =>
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated =>
 previewing_plugin =>
 verify_plugin =>
 #@prefs
-active_language =>
 admin_side_plugins =>
 allow_article_php_scripting =>
 allow_form_override =>

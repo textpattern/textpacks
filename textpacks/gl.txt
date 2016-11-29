@@ -484,6 +484,9 @@ thumb_width => Ancho
 upload_dir_perms => hai que comprobar os permisos do directorio.
 upload_image => Subir imaxe
 upload_thumbnail => Subir miniatura
+#@lang
+active_language => Idioma Activo
+active_language_ui =>
 #@link
 add_new_link => Engadir unha ligazón nova
 edit_link => Editar ligazón
@@ -545,7 +548,6 @@ plugin_updated => Plugin <strong>{name}</strong> actualizado.
 previewing_plugin => Previsualizando o engadido:
 verify_plugin => Verificar plugin
 #@prefs
-active_language => Idioma Activo
 admin_side_plugins => ¿Usar engadidos administrativos?
 allow_article_php_scripting => ¿Permitir PHP nos artigos?
 allow_form_override => ¿Permitir sobreescritura de formularios?

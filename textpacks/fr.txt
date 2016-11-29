@@ -484,6 +484,9 @@ thumb_width => Largeur
 upload_dir_perms => les droits du répertoire doivent être vérifiés.
 upload_image => Envoyer une image
 upload_thumbnail => Envoyer une miniature
+#@lang
+active_language => Langue par défaut active :
+active_language_ui =>
 #@link
 add_new_link => Ajout d’un lien
 edit_link => Édition du lien
@@ -545,7 +548,6 @@ plugin_updated => Plugin <strong>{name}</strong> mis à jour.
 previewing_plugin => Prévisualisation du plugin :
 verify_plugin => Vérifiez le plugin
 #@prefs
-active_language => Langue par défaut active :
 admin_side_plugins => Utiliser les plugins administratifs ?
 allow_article_php_scripting => Autoriser l’usage de PHP dans les articles ?
 allow_form_override => Autoriser l’usage du module de remplacement par article ?

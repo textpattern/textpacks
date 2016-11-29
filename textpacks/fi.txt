@@ -484,6 +484,9 @@ thumb_width => Leveys
 upload_dir_perms => hakemisto-oikeudet täytyy tarkastaa.
 upload_image => Siirrä kuva
 upload_thumbnail => Lataa pienoiskuva
+#@lang
+active_language => Tällä hetkellä käytössä oleva kieli
+active_language_ui =>
 #@link
 add_new_link => Lisää uusi linkki
 edit_link => Muokkaa linkkiä
@@ -545,7 +548,6 @@ plugin_updated => Liitännäinen <strong>{name}</strong> muutettu.
 previewing_plugin => Liitännäisen esikatselu:
 verify_plugin => Varmista liitännäinen
 #@prefs
-active_language => Tällä hetkellä käytössä oleva kieli
 admin_side_plugins => Käytä admin-puolen liitännäisiä?
 allow_article_php_scripting => Salli PHP artikkeleissa?
 allow_form_override => Salli erilaisen lomakkeen käyttö yksittäisessä artikkelissa?

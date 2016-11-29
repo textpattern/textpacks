@@ -484,6 +484,9 @@ thumb_width => Ширина
 upload_dir_perms => проверьте права доступа к директории.
 upload_image => Загрузить картинку
 upload_thumbnail => Загрузить уменьшенную картинку
+#@lang
+active_language => Текущий язык
+active_language_ui =>
 #@link
 add_new_link => Добавить новую ссылку
 edit_link => Редактировать ссылку
@@ -545,7 +548,6 @@ plugin_updated => Плагин <strong>{name}</strong> обновлён.
 previewing_plugin => Предпросмотр плагина:
 verify_plugin => Проверить плагин
 #@prefs
-active_language => Текущий язык
 admin_side_plugins => Использовать плагины, влияющие на панель администратора?
 allow_article_php_scripting => Разрешить PHP в статьях?
 allow_form_override => Разрешить изменять форму вывода статьи?

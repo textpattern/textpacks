@@ -484,6 +484,9 @@ thumb_width => عرض
 upload_dir_perms => نیاز به چک کردن مجوزهای پوشه
 upload_image => آپلود تصویر
 upload_thumbnail => آپلود تصویر کوچک
+#@lang
+active_language => زبان فعال
+active_language_ui =>
 #@link
 add_new_link => افزودن لینک نو
 edit_link => ویرایش لینک
@@ -545,7 +548,6 @@ plugin_updated => پلاگین <strong>{name}</strong> بهنگام شد.
 previewing_plugin => پیش‌نمایش پلاگین
 verify_plugin => تایید پلاگین
 #@prefs
-active_language => زبان فعال
 admin_side_plugins => از پلاگین‌های سمت مدیر استفاده شود؟
 allow_article_php_scripting => استفاده از PHP در نوشته‌ها مجاز باشد؟
 allow_form_override => تحریف فرم مجاز باشد؟

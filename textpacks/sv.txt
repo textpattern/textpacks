@@ -484,6 +484,9 @@ thumb_width => Tumnagel-bredd
 upload_dir_perms => Katalogrättigheter behöver kontrolleras
 upload_image => Ladda upp bild
 upload_thumbnail => Ladda upp tumnagelbild
+#@lang
+active_language => Aktivt språk
+active_language_ui =>
 #@link
 add_new_link => Lägg till ny länk
 edit_link => Redigera länk
@@ -545,7 +548,6 @@ plugin_updated => Pluginen <strong>{name}</strong> uppdaterades.
 previewing_plugin => Förhandsvisning av plugin:
 verify_plugin => Verifiera plugin
 #@prefs
-active_language => Aktivt språk
 admin_side_plugins => Använd admin-plugins?
 allow_article_php_scripting => Tillåt PHP-script i artiklar?
 allow_form_override => Tillåt att åsidosätta siddelar?

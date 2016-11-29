@@ -484,6 +484,9 @@ thumb_width => Latime
 upload_dir_perms => permisiunile folder-ului trebuie verificate.
 upload_image => Uploadeaza imaginea
 upload_thumbnail => Uploadeaza thumbnail-ul
+#@lang
+active_language => Limba curent activa
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => Plugin-ul <strong>{name}</strong> a fost update-uit.
 previewing_plugin => Previzualizeaza plugin:
 verify_plugin =>
 #@prefs
-active_language => Limba curent activa
 admin_side_plugins => Foloseste plugin-uri admin?
 allow_article_php_scripting => Accepta cod PHP in articole?
 allow_form_override => Accepta inlocuirea forms-urilor?

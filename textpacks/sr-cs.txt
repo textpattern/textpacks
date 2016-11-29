@@ -484,6 +484,9 @@ thumb_width => Ширина
 upload_dir_perms =>
 upload_image => Замени слику
 upload_thumbnail => Замени малу слику
+#@lang
+active_language => Тренутно активни језик
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => Plugin <strong>{name}</strong> освежен.
 previewing_plugin => Преглед plugin-a:
 verify_plugin =>
 #@prefs
-active_language => Тренутно активни језик
 admin_side_plugins => Користи admin-side plugin-e?
 allow_article_php_scripting => Дозволи PHP у уносима?
 allow_form_override => Дозволи занемаривање форме?

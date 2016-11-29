@@ -484,6 +484,9 @@ thumb_width => Šířka
 upload_dir_perms => Je nutno ověřit práva k adresáři.
 upload_image => Nahrát obrázek
 upload_thumbnail => Nahrát náhled
+#@lang
+active_language => Nastavený jazyk
+active_language_ui =>
 #@link
 add_new_link => Přidat nový odkaz
 edit_link => Editovat odkaz
@@ -545,7 +548,6 @@ plugin_updated => Plugin <strong>{name}</strong> upraven.
 previewing_plugin => Náhled pluginu:
 verify_plugin => Ověřit plugin
 #@prefs
-active_language => Nastavený jazyk
 admin_side_plugins => Používat pluginy pro správu?
 allow_article_php_scripting => Používat PHP v článcích?
 allow_form_override => Povolit ruční volbu forem?

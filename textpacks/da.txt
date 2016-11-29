@@ -484,6 +484,9 @@ thumb_width => Bredde
 upload_dir_perms => mappe rettigheder skal tjekkes.
 upload_image => Upload billede
 upload_thumbnail => Upload miniatur
+#@lang
+active_language => Nuværende aktive sprog
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => Plugin <strong>{name}</strong> opdateret.
 previewing_plugin => Previewing plugin:
 verify_plugin =>
 #@prefs
-active_language => Nuværende aktive sprog
 admin_side_plugins => Brug administrations plugins?
 allow_article_php_scripting => Tillad PHP i artikler?
 allow_form_override => Tillad at tilsidesætte forme?

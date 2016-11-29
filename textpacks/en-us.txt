@@ -484,6 +484,9 @@ thumb_width => Width
 upload_dir_perms => directory permissions need to be checked.
 upload_image => Upload image
 upload_thumbnail => Upload thumbnail
+#@lang
+active_language => Site language
+active_language_ui => User language
 #@link
 add_new_link => Create new link
 edit_link => Edit link
@@ -545,7 +548,6 @@ plugin_updated => Plugin <strong>{name}</strong> updated.
 previewing_plugin => Previewing plugin:
 verify_plugin => Verify plugin
 #@prefs
-active_language => Currently active language
 admin_side_plugins => Use admin-side plugins?
 allow_article_php_scripting => Allow PHP in articles?
 allow_form_override => Allow form override?

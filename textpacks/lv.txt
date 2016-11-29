@@ -484,6 +484,9 @@ thumb_width => Platums
 upload_dir_perms => ir jāpārbauda direktoriju atļaujas.
 upload_image => Augšuplādēt attēlu
 upload_thumbnail => Augšuplādēt sīktēlu
+#@lang
+active_language => Šobrīd aktīvā valoda
+active_language_ui =>
 #@link
 add_new_link => Pievienot jaunu saiti
 edit_link => Labot saiti
@@ -545,7 +548,6 @@ plugin_updated => Spraudnis <strong>{name}</strong> izmainīts.
 previewing_plugin => Spraudņa priekšskats:
 verify_plugin => Pārbaudīt spraudni
 #@prefs
-active_language => Šobrīd aktīvā valoda
 admin_side_plugins => Lietot administrācijas daļas spraudņus?
 allow_article_php_scripting => Atļaujt PHP ierakstos?
 allow_form_override => Atļaut pašizvēlētās formas ierakstos?

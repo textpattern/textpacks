@@ -484,6 +484,9 @@ thumb_width => 너비
 upload_dir_perms => 디렉토리 권한을 777로 설정해야 합니다
 upload_image => 이미지 올리기
 upload_thumbnail => 썸네일 올리기
+#@lang
+active_language => 현재 사용중인 언어
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => <strong>{name}</strong> 확장기능을 갱신했습니다.
 previewing_plugin => 확장기능 미리보기 :
 verify_plugin =>
 #@prefs
-active_language => 현재 사용중인 언어
 admin_side_plugins => 관리화면 확장기능을 사용합니까?
 allow_article_php_scripting => 게시물에 PHP를 사용합니까?
 allow_form_override => 폼 오버라이드를 허용합니까?

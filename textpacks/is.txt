@@ -484,6 +484,9 @@ thumb_width => Breidd
 upload_dir_perms =>
 upload_image =>
 upload_thumbnail => Uphlaða smámynd
+#@lang
+active_language => Tungumál í notkun
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated =>
 previewing_plugin => Skoða viðbót:
 verify_plugin =>
 #@prefs
-active_language => Tungumál í notkun
 admin_side_plugins => Nota stjórnborðs viðbætur?
 allow_article_php_scripting => Leyfa PHP í greinum?
 allow_form_override => Leyfa yfirskrif sniðs?

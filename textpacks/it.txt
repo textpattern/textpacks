@@ -484,6 +484,9 @@ thumb_width => Larghezza
 upload_dir_perms => verificare i permessi della directory.
 upload_image => Carica immagine
 upload_thumbnail => Carica miniatura
+#@lang
+active_language => Lingue attivate
+active_language_ui =>
 #@link
 add_new_link => Aggiungi un nuovo link
 edit_link => Modifica link
@@ -545,7 +548,6 @@ plugin_updated => Plug-in <strong>{name}</strong> aggiornato.
 previewing_plugin => Anteprima plug-in:
 verify_plugin => Verifica plug-in
 #@prefs
-active_language => Lingue attivate
 admin_side_plugins => Consenti plug-in per la parte di amministrazione?
 allow_article_php_scripting => Accetta codice PHP negli articoli?
 allow_form_override => Consenti di forzare i moduli?

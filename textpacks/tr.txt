@@ -484,6 +484,9 @@ thumb_width => Genişlik
 upload_dir_perms =>
 upload_image => Görsel yükle
 upload_thumbnail => Küçük görsel (thumbnail) yükle
+#@lang
+active_language => Etkin dil
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => Eklenti <strong>{name}</strong> güncellendi.
 previewing_plugin => Eklenti önizleme:
 verify_plugin =>
 #@prefs
-active_language => Etkin dil
 admin_side_plugins => Yönetici (Admin) eklentilerini kullanmak istiyormusunuz?
 allow_article_php_scripting => Makalelerde PHP betiklere izin vermek istiyormusunuz?
 allow_form_override => Geçersiz kılmaya izin ver?

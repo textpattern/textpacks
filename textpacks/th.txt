@@ -484,6 +484,9 @@ thumb_width => กว้าง
 upload_dir_perms => ต้องเช็คสิทธิของไดเรคทอรี
 upload_image => อัพโหลดภาพ
 upload_thumbnail => อัพโหลดรูปขนาดย่อ
+#@lang
+active_language => ภาษาที่กำลังใช้
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => ปรับปรุงปลั๊กอิน <strong>{name
 previewing_plugin => แสดงตัวอย่างปลั๊กอิน:
 verify_plugin =>
 #@prefs
-active_language => ภาษาที่กำลังใช้
 admin_side_plugins => ใช้ส่วนต่อเติมสำหรับหน้าผู้ดูแล?
 allow_article_php_scripting => ใช้ PHP ในบทความ?
 allow_form_override => อนุญาตให้ใช้ฟอร์มทดแทน?

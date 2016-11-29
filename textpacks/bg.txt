@@ -484,6 +484,9 @@ thumb_width => Широчина
 upload_dir_perms => Правата за достъп трябва да бъдат проверени.
 upload_image => Качи изображение
 upload_thumbnail => Качи умалено изображение
+#@lang
+active_language => Активен език в момента
+active_language_ui =>
 #@link
 add_new_link => Добави нова връзка
 edit_link => Редактирай връзката
@@ -545,7 +548,6 @@ plugin_updated => Приставката <strong>{name}</strong> е обнове
 previewing_plugin => Преглеждане на приставка:
 verify_plugin => Прегледай приставката
 #@prefs
-active_language => Активен език в момента
 admin_side_plugins => Използвай приставки за админ. панела?
 allow_article_php_scripting => Позволи PHP в статиите?
 allow_form_override => Позволи промяна на формата?

@@ -484,6 +484,9 @@ thumb_width => רוחב
 upload_dir_perms => הרשאות הספרייה צריכות להיבדק.
 upload_image => העלה תמונה
 upload_thumbnail => העלה תמונה מוקטנת
+#@lang
+active_language => השפה הפעילה כרגע
+active_language_ui =>
 #@link
 add_new_link => הוסף קישור חדש
 edit_link => ערוך קישור
@@ -545,7 +548,6 @@ plugin_updated => התוסף <strong>{name}</strong> עודכן.
 previewing_plugin => תצוגה מקדימה של התוסף:
 verify_plugin => אמת תוסף
 #@prefs
-active_language => השפה הפעילה כרגע
 admin_side_plugins => להשתמש בתוספי של צד המנהל?
 allow_article_php_scripting => לאפשר PHP במאמרים?
 allow_form_override => לאפשר דריסת טפסים?

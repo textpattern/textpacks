@@ -484,6 +484,9 @@ thumb_width => چوڑائی
 upload_dir_perms => پوشہ کی اجازت پڑتال کر رہا ہے
 upload_image => تصویر اپ لوڈ کریں
 upload_thumbnail => تصویر صغیر اپ لوڈ کریں
+#@lang
+active_language => فعال زبان
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => پلگ ان <strong>{name}</strong> تازہ کیا
 previewing_plugin => پلگ ان کا پیش منظر:
 verify_plugin =>
 #@prefs
-active_language => فعال زبان
 admin_side_plugins => کیا انتظامی پلگ ان (admin-plugins) استمعال کریں ؟
 allow_article_php_scripting => کیا مضامین میں PHP کی اجازت ہے ؟
 allow_form_override => کیا فارم (Form) زیر کرنے کی اجازت ہے ؟

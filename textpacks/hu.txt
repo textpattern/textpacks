@@ -484,6 +484,9 @@ thumb_width => Szélesség
 upload_dir_perms => könytár hozzáférési jogait ellenőrizd, kérlek.
 upload_image => Kép feltöltése
 upload_thumbnail => Előkép feltöltése
+#@lang
+active_language => Jelenleg aktív nyelvi környezet
+active_language_ui =>
 #@link
 add_new_link =>
 edit_link =>
@@ -545,7 +548,6 @@ plugin_updated => A(z) <strong>{name}</strong> bővítmény frissítve.
 previewing_plugin => Plugin előnézet:
 verify_plugin =>
 #@prefs
-active_language => Jelenleg aktív nyelvi környezet
 admin_side_plugins => Akarsz használni admin-oldali pluginokat?
 allow_article_php_scripting => Meg akarod engedni a PHP használatát a cikkekben?
 allow_form_override => Megengeded a formok megsemmisítését?

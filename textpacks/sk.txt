@@ -484,6 +484,9 @@ thumb_width => Šírka
 upload_dir_perms => je potrebné overiť nastavenia práva zložky.
 upload_image => Nahrať obrázok
 upload_thumbnail => Nahrať náhľad
+#@lang
+active_language => Aktuálne používaný jazyk
+active_language_ui =>
 #@link
 add_new_link => Pridať nový odkaz
 edit_link => Upraviť odkaz
@@ -545,7 +548,6 @@ plugin_updated => Plugin {name} aktualizovaný.
 previewing_plugin => Náhľad pluginu:
 verify_plugin => Overiť/skontrolovať rozšírenie
 #@prefs
-active_language => Aktuálne používaný jazyk
 admin_side_plugins => Používať administračné "bočné" pluginy?
 allow_article_php_scripting => Povoliť PHP kód v článkoch?
 allow_form_override => Povoliť prepísanie šablóny?

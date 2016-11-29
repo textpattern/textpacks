@@ -484,6 +484,9 @@ thumb_width => Bredde
 upload_dir_perms => sjekk rettigheter på filbanen.
 upload_image => Last opp bilde
 upload_thumbnail => Last opp lite bilde
+#@lang
+active_language => Språk i bruk
+active_language_ui =>
 #@link
 add_new_link => Opprette en ny lenke
 edit_link => Endre lenker
@@ -545,7 +548,6 @@ plugin_updated => Tilleggsprogram <strong>{name}</strong> oppdatert.
 previewing_plugin => Forhåndsvisning av plugin:
 verify_plugin => Verifisere tilleggsprogram
 #@prefs
-active_language => Språk i bruk
 admin_side_plugins =>
 allow_article_php_scripting => Tillat PHP i artikler?
 allow_form_override => Tillat overstyring av skjemaer?
