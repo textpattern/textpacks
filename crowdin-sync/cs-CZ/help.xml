@@ -124,28 +124,26 @@
   <string name="url_title"><h2>Write: URL-only title</h2>
 <p>Chceš-li do trvalého odkazu na článek vložit vlastní název, zadej jej zde. Necháš-li pole prázné, název do odkazu bude automaticky odvozen z názvu článku.</p>
 <p>Používej malá písmena bez diakritiky, slova odděluj pomlčkami, nebo podtržítky.</p></string>
-  <string name="article_category"><h2>Categories: Articles</h2>
-<p>Unlike sections, which define the navigational structure of a site, article categories allow organization of articles by their subject matter. Once categories are assigned, lists of articles belonging to particular categories can be browsed.</p>
-<p>For example, likely article categories on a site about food might be:</p>
+  <string name="article_category"><h2>Kategorie: Články</h2>
+<p>Na rozdíl od rubrik, jež určují navigační strukturu serveru, slouží kategorie spíše k roztřídění článků podle tématu. Jsou-li články zařazeny do kategorí, lze procházet seznamy článků v jednotlivých kategoriích.</p>
+<p>Příklady kategorií na stránkách o jídle:</p>
 <ul>
-    <li>raw ingredients</li>
-    <li>shopping</li>
-    <li>recipes</li>
-    <li>presentation</li>
-    <li>restaurants</li>
-    <li>chefs</li>
+    <li>suroviny</li>
+    <li>nákupy</li>
+    <li>recepty</li>
+    <li>servírování</li>
+    <li>restarurace</li>
+    <li>šéfkuchaři</li>
 </ul></string>
-  <string name="category_description"><h2>Categories: Description</h2>
-<p>The category description is an optional component that can help search engines and website crawlers better identify and sort content.</p>
-<p>The category description is limited to a maximum of 255 characters. Note that some search engines place character limits on the length of a page’s <code>meta description</code> for practicality of display in search engine results pages (SERPs) and this may be less than the 255 character limit in Textpattern.</p></string>
-  <string name="file_category"><h2>Categories: Files</h2>
-<p>File categories are optional, and are useful if you want to group certain uploaded files together.</p></string>
-  <string name="image_category"><h2>Categories: Images</h2>
-<p>Image categories are useful both for internal organization, and for defining image sets that can be displayed using the <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_index"><code>&lt;txp:image_index /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> and <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_display"><code>&lt;txp:image_display /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> tags.</p></string>
-  <string name="link_category"><h2>Categories: Links</h2>
-<p>Link categories are optional, and are useful if you want to display different groupings of links, e.g. ‘Friends’, ‘Romans’, ‘Countrymen’.</p>
-<p>Selective link lists such as these are output with the <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/linklist"><code>&lt;txp:linklist /&gt;</code> tag <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> like so:</p>
-<pre><code>&lt;code&gt;&lt;txp:linklist category="Friends" /&gt;&lt;/code&gt;.</code></pre></string>
+  <string name="category_description"><h2>Kategorie: Popis</h2> <p>Popis kategorie je volitelná část, která může pomoci vyhledávačům a robotům lépe určit a uspořádat obsah.</p> <p>Popis je omezen na maximálně 255 znaků. Některé vyhledávače mohou mít pro <code>meta description</code> nastaven jiný limit znaků kvůli praktičnosti stránky výsledků zobrazené internetovým vyhledávačem (SERPs), a ten může být menší než limit 255 znaků v Textpatternu.</p></string>
+  <string name="file_category"><h2>Kategorie: Soubory</h2>
+<p>Volitelná možnost. Kategorie souborů ti umožní snažší správu a seskupování nahraných souborů.</p></string>
+  <string name="image_category"><h2>Kategorie: Obrázky</h2>
+<p>Kategorie obrázků jsou užitečné jak pro organizaci obrázků, tak pro určení skupin obrázků, jež lze podle kategorie zobrazit najednou pomocí značek <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_index"><code>&lt;txp:image_index /&gt;</code> <span class="ui-icon ui-icon-extlink">(odkaz se otevře v novém okně)</span></a> a <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_display"><code>&lt;txp:image_display /&gt;</code> <span class="ui-icon ui-icon-extlink">(odkaz se otevře v novém okně)</span></a></p></string>
+  <string name="link_category"><h2>Kategorie: Odkazy</h2>
+<p>Volitelná možnost. Kategorie odkazů jsou užitečné pro členění odkazů  do skupin, např. „Přátelé”, „Římané”, „Krajané”, atd.</p>
+<p>Vybraný seznam odkazů lze zobrazit pomocí tagu <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/linklist"><code>&lt;txp:linklist /&gt;</code><span class="ui-icon ui-icon-extlink">(otevře odkaz v novém okně)</span></a> např. takto:</p>
+<pre><code>&lt;code&gt;&lt;txp:linklist category="pratele" /&gt;&lt;/code&gt;.</code></pre></string>
   <string name="clean_url_data_failed"><h2>Diagnostics: Clean URL data failed</h2>
 <p>It appears that either your site URLs (<code>http://example.com/section/article</code>) are currently not working or your server does not support the test procedure to determine if clean URLs work or not; if clean URLs on your site work, you can safely ignore this message.</p>
 <p>If clean URLs are <em>not</em> working it may mean either:</p>
