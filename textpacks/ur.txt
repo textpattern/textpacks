@@ -550,17 +550,13 @@ admin_side_plugins => کیا انتظامی پلگ ان (admin-plugins) استم
 allow_article_php_scripting => کیا مضامین میں PHP کی اجازت ہے ؟
 allow_form_override => کیا فارم (Form) زیر کرنے کی اجازت ہے ؟
 allow_page_php_scripting => کیا صفحات (Pages) میں PHP کی اجازت ہے ؟
-allow_raw_php_scripting => کیا خام PHP کی اجازت ہے ؟
 all_hits => تمام ‏سرگرمی
 all_preferences =>
 archive_dateformat => تاریخ محفوظہ کی وضع
-archive_date_case => تاریک محفوظہ کی حرفی شکل
-archive_dir => پوشہ محفوظہ
 articles_use_excerpts => کیا مضامین میں اختصار استمعال کریں ؟
 attach_titles_to_permalinks => کیا مضامین کے عنوان مستقل روابط میں استمعال کریں ؟
 auto_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> سیٹنگ خودکار طور پر نباہ کیا جاۓ ؟
 category_subcategory => /category/subcategory
-check_for_txp_updates => تجدید ورژن کی جانچ کریں
 clean => /clean/
 comments_are_ol => کیا تبصرے عدد وار فہرست <code dir="ltr">ol</code> میں پیش کیا جاۓ ؟
 comments_auto_append => کیا تبصرے کو خود کار طور پر مضامین کے ساتھ جوڑے ؟
@@ -593,10 +589,7 @@ custom_9_set => نام قطعہ مخصوص ٩
 default_event => لاگ ان کرنے پر کون سا ٹیب دیکھیں ؟
 default_publish_status =>
 doctype => Doctype
-edit_preferences => ترجیحات
-edit_raw_css_by_default => کیا سٹائل تبدیل کرنے کے لیے ہمیشہ خام CSS تدوین کریں ؟
 enable_xmlrpc_server => کیا XML-RPC server کا استمعال کریں ؟
-experts_only => صرف ماہر صارف
 expire_logs_after => سرگامی کتنے دیں بعد حذف کریں ؟
 feeds => سندیکت
 file_base_path => فائل کے پوشہ کی راہ
@@ -616,7 +609,6 @@ install_language => زبان تنصیب کریں
 install_textpack =>
 is_dst => کیا <abbr title="Daylight Saving Time">DST</abbr> اہل بنا ہے ؟
 language => زبان
-lastmod_keepalive => ا <code dir="ltr">mod_deflate</code> میں گڑبڑ کی وجہ سے مسلسل اتصال روکا جاۓ ؟
 leave_text_untouched =>
 link => روابط
 locale => مقامیت
