@@ -163,18 +163,18 @@
     <li>your server doesn’t support clean URLs at all</li>
 </ul>
 <p>The clean URL test attempts to fetch a page from the web address specified in the ‘Site URL’ preference in order to check that all clean URL parameters are working correctly. If that URL is a different site, or has been replaced with a static page or similar, the test will fail. Until the issue is resolved you will have to use messy URLs on your site instead (<code>http://example.com?s=section&amp;id=4</code>). Ensure the ‘Permanent link mode’ in Admin Preferences is set accordingly.</p></string>
-  <string name="cleanurl_only_apache"><h2>Diagnostics: Clean URL support</h2>
-<p>Clean URLs are only supported on Apache. If you are using another server platform, use short URLs at your own risk.</p></string>
+  <string name="cleanurl_only_apache"><h2>Diagnostik: Clean URL support</h2>
+<p>Det är endast Apache som stöder rena URL:er. Om du använder en annan serverplattform, använd korta URL: er på egen risk.</p></string>
   <string name="dev_version_live"><h2>Diagnostics: Development code on a live server</h2>
 <p>You are running in-development files on a live production site which is not recommended. If you know this already and are happy to do so, you may ignore this warning.</p></string>
   <string name="dir_not_writable"><h2>Diagnostics: Directory is not writable</h2>
 <p>To use the file and image upload capabilities, these directories have to be writable by PHP. Usually this means you have to change permissions so the web server user has write access to the directory. This can be done with your FTP client, or alternatively on the command line by issuing a <code>chmod 755 /path/to/dir</code> command.</p></string>
-  <string name="dns_lookup_fails"><h2>Diagnostics: DNS fails</h2>
-<p>It appears the URL you specified as the address of your site is unreachable.</p></string>
+  <string name="dns_lookup_fails"><h2>Diagnostik: DNS-fel</h2>
+<p>Det verkar som om URL:en du angav till din webbplats inte är tillgänglig.</p></string>
   <string name="file_uploads_disabled"><h2>Diagnostics: File uploads are disabled</h2>
 <p>Your current server configuration shows that file uploads are disabled so you will not be able to upload using Textpattern’s ‘Files’ and/or ‘Images’ panel. Please check and alter the <code>file_uploads</code> setting in <code>php.ini</code> (or ask your host to alter it).</p></string>
-  <string name="htaccess_missing"><h2>Diagnostics: .htaccess file missing</h2>
-<p>You are using a permanent link mode which requires an <code>.htaccess</code> file to be placed in your site root directory. The recommended directives are:</p>
+  <string name="htaccess_missing"><h2>Diagnostik: filen .htaccess saknas</h2>
+<p>Du använder ett permanent länkläge som kräver en <code>.htaccess</code>-fil som ska placeras i rotkatalogen på din webbplats. De rekommenderade direktiven är:</p>
 <pre><code>&lt;IfModule mod_rewrite.c&gt;
     RewriteEngine On
     #RewriteBase /relative/web/path/
