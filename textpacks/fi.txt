@@ -620,21 +620,16 @@ logs_expire => Lokit säilyvät
 manage_languages => Hallitse kieliä
 markup_default => Oletusmerkintäkieli
 max_url_len => URLin maksimipituus
-mentions => Maininnat
 messy => ?=sotkuinen
 never_display_email => Älä näytä sähköpostiosoitteita?
 new_textpattern_version_available => Uusi Textpatternin versio on saatavilla. <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">Haluatko kokeilla sitä?</a>
-no_popup => nykyinen ikkuna
 no_preferences => Asetuksia ei ole saatavilla.
 override_emailcharset => ISO-8859-1 sähköposteissa (oletuksena UTF-8)?
 path_from_root => Alihakemisto (jos on)
-path_to_site_missing => <code>$path_to_site</code> on määrittelemättä (päivitä <code>index.php</code>)
-permalink_title_format => Kestolinkin otsikosta-tulee-tallainen (oletuksena OtsikostaTuleeTallainen)?
 permlink_format => Kestolinkin URL-muoto
 permlink_hyphenated => Väliviivoitettu (otsikko-on-kuten-tassa)
 permlink_intercapped => Sumpussa (OtsikkoOnKutenTassa)
 permlink_mode => Artikkelin URL-muoto
-ping_textpattern_com => Pingaa textpattern.comia?
 ping_weblogsdotcom => Pingaa pingomatic.comia?
 plugin_cache_dir => Polku plugin cache -hakemistoon
 preferences_saved => Asetukset tallennettu

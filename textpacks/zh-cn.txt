@@ -620,21 +620,16 @@ logs_expire => 记录终止于
 manage_languages => 语言
 markup_default => 默认标记语言
 max_url_len => 最大 URL 长度
-mentions => 提示
 messy => ?=messy
 never_display_email => 不显示 E-mail 地址
 new_textpattern_version_available => 有一个全新的 Textpattern CMS 版本，您想 <a href="http://textpattern.com/download" rel="external" title="转到 Textpattern 官网下载区">下载它</a> 吗?
-no_popup => 当前窗口
 no_preferences =>
 override_emailcharset => E-mail 使用 ISO-8859-1 编码？（默认为 UTF-8）
 path_from_root => 子目录（如果存在）
-path_to_site_missing => <code>$path_to_site</code> 没有设置（请更新 <code>index.php</code>）
-permalink_title_format => 永久链接形式为 title-like-this （默认为 TitleLikeThis）。
 permlink_format => 永久链接标题 URL 模式
 permlink_hyphenated => 使用连字符
 permlink_intercapped => 使用首字母大写
 permlink_mode => 永久链接模式
-ping_textpattern_com => Ping 到 textpattern.com？
 ping_weblogsdotcom => Ping 到 pingomatic.com?
 plugin_cache_dir => 插件储存目录
 preferences_saved => 设置己保存

@@ -620,21 +620,16 @@ logs_expire => Logs expire after how many days?
 manage_languages => Language
 markup_default => Default markup
 max_url_len => Maximum URL length (in characters)
-mentions => Mentions
 messy => ?=messy
 never_display_email => Hide commenter email address?
 new_textpattern_version_available => There is a new Textpattern version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?
-no_popup => current window
 no_preferences => No preferences available.
 override_emailcharset => Use ISO-8859-1 encoding in emails (default is UTF-8)?
 path_from_root => Sub-directory (if any)
-path_to_site_missing => <code>$path_to_site</code> is not set (update <code>index.php</code>)
-permalink_title_format => Permalink title-like-this (instead of TitleLikeThis)?
 permlink_format => Permalink title URL pattern
 permlink_hyphenated => Hyphenated (title-like-this)
 permlink_intercapped => Intercapped (TitleLikeThis)
 permlink_mode => Article URL pattern
-ping_textpattern_com => Ping textpattern.com?
 ping_weblogsdotcom => Ping pingomatic.com?
 plugin_cache_dir => Plugin cache directory path
 preferences_saved => Preferences saved

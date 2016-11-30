@@ -620,21 +620,16 @@ logs_expire => Σε πόσες μέρες λήγουν οι καταχωρήσε
 manage_languages => Διαχείριση γλωσσών
 markup_default => Προκαθορισμένη μορφοποίηση
 max_url_len => Μέγιστο μήκος URL
-mentions => Αναφορές
 messy => ?=μπερδεμένο
 never_display_email => Αποκρύψτε το email του σχολιαστή;
 new_textpattern_version_available => Η νέα έκδοση του Textpattern είναι διαθέσιμη! Θέλετε να την <a href="http://textpattern.com/download" rel="external">κατεβάσετε</a>;
-no_popup => στο τρέχον παράθυρο
 no_preferences => Δεν υπάρχουν διαθέσιμες προτιμήσεις.
 override_emailcharset => Κωδικοποίηση ISO-8859-1 για email (η προκαθορισμένη είναι UTF-8);
 path_from_root => Υποκατάλογος (αν υπάρχει)
-path_to_site_missing => Η μεταβλητή <code>$path_to_site</code> δεν έχει οριστεί (ανανεώστε το <code>index.php</code>)
-permalink_title_format => Μορφή τίτλων μόνιμων συνδέσεων να είναι: (τίτλος-σαν-και-αυτό);
 permlink_format => Μοτίβο του URL permalink
 permlink_hyphenated => Ενωτικό (τίτλος-όπως-αυτός)
 permlink_intercapped => Με Κεφαλαία (TitleLikeThis)
 permlink_mode => Μορφή μόνιμων συνδέσεων
-ping_textpattern_com => Ενημέρωση του textpattern.com;
 ping_weblogsdotcom => Ενημέρωση pingomatic.com;
 plugin_cache_dir => Διαδρομή φακέλου αρφρωμάτων «plugin cache»
 preferences_saved => Οι επιλογές σας αποθηκεύτηκαν

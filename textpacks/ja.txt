@@ -620,21 +620,16 @@ logs_expire => ログの有効期限
 manage_languages => 言語
 markup_default => 記法の初期設定
 max_url_len => URLの最大長さ (文字数)
-mentions => 発言数
 messy => ?=messy
 never_display_email => メールアドレスを隠しますか？
 new_textpattern_version_available => Textpatternをバージョンアップ可能です。<a href="http://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">使用</a>してみますか？
-no_popup => ポップアップを無効にする
 no_preferences =>
 override_emailcharset => メールのエンコードにISO-8859-1使用しますか(初期設定：UTF-8)？
 path_from_root => サブディレクトリ (任意)
-path_to_site_missing => <code>$path_to_site</code> が設定されていません(<code>index.php</code>を更新してください)
-permalink_title_format => タイトルのパーマリンクをtitle-like-thisにしますか？(もしくはTitleLikeThis)?
 permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => パーマリンク設定
-ping_textpattern_com => textpattern.com へ ping を送りますか？
 ping_weblogsdotcom => pingomatic.com へ ping を贈りますか？
 plugin_cache_dir => プラグインのキャッシュディレクトリパス
 preferences_saved => 設定は保存されました。

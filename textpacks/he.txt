@@ -620,21 +620,16 @@ logs_expire => דוחות פג תוקפן אחרי?
 manage_languages => נהל שפות
 markup_default => פורמט ברירת המחדל
 max_url_len => אורך מקסימלי של כתובת
-mentions => Mentions
 messy => ?=messy
 never_display_email => לעולם לא להציג דואל?
 new_textpattern_version_available => גירסה חדשה של <a href="http://textpattern.com/download" rel="external">Textpattern</a> שוחררה. האם ברצונך לנסות אותה?
-no_popup => החלון הנוכחי
 no_preferences =>
 override_emailcharset => להשתמש בקידוד ISO-8859-1 לדואל? (ברירת המחדל היא UTF-8)?
 path_from_root => תת ספרייה (אם קיימת)
-path_to_site_missing => <code dir="ltr">$path_to_site</code> לא מוגדר(עדכן <code dir="ltr">index.php</code>)
-permalink_title_format => קישור-קבוע title-like-this (ברירת המחדל TitleLikeThis)?
 permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => מצב קישור-קבוע
-ping_textpattern_com => לבדוק את textpattern.com?
 ping_weblogsdotcom => לבדוק את pingomatic.com?
 plugin_cache_dir => מסלול למאגר התופסים
 preferences_saved => ההגדרות נשמרו

@@ -620,21 +620,16 @@ logs_expire => ¿En cuántos días caducan los registros?
 manage_languages => Idioma
 markup_default => Marcado predeterminado
 max_url_len => Longitud máxima de las URLs (en caracteres)
-mentions => Menciones
 messy => ?=sucio
 never_display_email => ¿Ocultar email del autor del comentario?
 new_textpattern_version_available => Está disponible una nueva versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga de Textpattern">descargarla</a>?
-no_popup => ventana actual
 no_preferences => No hay preferencias disponibles.
 override_emailcharset => ¿Codificación ISO-8859-1 en envíos de email? Por defecto UTF-8
 path_from_root => Subdirectorio (si lo hay)
-path_to_site_missing => No se ha indicado <code>$path_to_site</code> (actualiza <code>index.php</code>)
-permalink_title_format => ¿Enlaces permanentes con titulo-asi (en vez de TituloAsi)?
 permlink_format => Modelo de URL
 permlink_hyphenated => Con guiones (titulo-asi)
 permlink_intercapped => Con mayúsculas (TituloAsi)
 permlink_mode => Esquema del URL del artículo
-ping_textpattern_com => ¿Actualizar en textpattern.com?
 ping_weblogsdotcom => ¿Actualizar en pingomatic.com?
 plugin_cache_dir => Ruta del directorio del caché de plugins
 preferences_saved => Se han guardado las preferencias

@@ -620,21 +620,16 @@ logs_expire => Lösche Protokolle nach
 manage_languages => Sprachen verwalten
 markup_default => Standard-Formatierung
 max_url_len => Maximale URL-Länge
-mentions => Verweise
 messy => ?=unordentlich
 never_display_email => E-Mail in Kommentaren verbergen?
 new_textpattern_version_available => Eine neue Version von Textpattern ist verfügbar! Sie können diese <a href="http://textpattern.com/download" rel="external">hier herunterladen</a>.
-no_popup => aktuelles Fenster
 no_preferences => Keine Einstellungen verfügbar.
 override_emailcharset => E-Mails mit ISO-8559-1 versenden? (Standard ist utf-8)
 path_from_root => Unterverzeichnis (falls vorhanden)
-path_to_site_missing => <code>$path_to_site</code> nicht definiert (bitte <code>index.php</code> aktualisieren)
-permalink_title_format => Permalink-Format: ‘ein-titel’ (anstatt: ‘EinTitel’)?
 permlink_format => Permalink-Format
 permlink_hyphenated => Getrennt (ein-titel)
 permlink_intercapped => Angrenzend (EinTitel)
 permlink_mode => Schema der URLs
-ping_textpattern_com => textpattern.com anpingen?
 ping_weblogsdotcom => pingomatic.com aktualisieren?
 plugin_cache_dir => Pfad des Pluginzwischenspeichers
 preferences_saved => Einstellungen gespeichert

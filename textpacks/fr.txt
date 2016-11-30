@@ -620,21 +620,16 @@ logs_expire => Le journal d’activités (log) expire après ?
 manage_languages => Gérer les langues
 markup_default => Balises par défaut
 max_url_len => Taille maximum d’une URL (en caractères)
-mentions => Mentions
 messy => brutes (?=paramètres)
 never_display_email => Toujours masquer les adresses email ?
 new_textpattern_version_available => Une nouvelle version de Textpattern est disponible. <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern">Voulez-vous la télécharger</a> ?
-no_popup => fenêtre actuelle
 no_preferences => Aucune préférence disponible.
 override_emailcharset => Transformer les emails en Latin 1 (ISO-8859-1) ?
 path_from_root => Sous répertoire (s’il existe)
-path_to_site_missing => <code>$path_to_site</code> n’est pas configuré (mettez <code>index.php</code> à jour)
-permalink_title_format => Permaliens titre-comme-cela (au lieu de TitreCommeCela) ?
 permlink_format => Permaliens : forme des titres d’URL
 permlink_hyphenated => Avec traits d’union (titre-comme-cela)
 permlink_intercapped => Casse de chameau (TitreCommeCela)
 permlink_mode => Format des URL
-ping_textpattern_com => Automatiquement prévenir textpattern.com ?
 ping_weblogsdotcom => Automatiquement prévenir pingomatic.com ?
 plugin_cache_dir => Chemin du répertoire de cache des plugins
 preferences_saved => Préférences enregistrées
