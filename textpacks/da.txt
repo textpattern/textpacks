@@ -476,6 +476,7 @@ no_images_recorded =>
 only_graphic_files_allowed => Kun .jpg, .gif eller .png filer er tilladt.
 replace_image => Erstat billede
 search_images =>
+swap_values =>
 thumbnail_deleted => Miniatur slettet.
 thumbnail_not_saved =>
 thumbnail_saved =>

@@ -476,6 +476,7 @@ no_images_recorded => Nema snimljenih slika.
 only_graphic_files_allowed => Samo .jpg, .gif ili .png format slike je dozvoljen.
 replace_image => Zameni sliku
 search_images =>
+swap_values =>
 thumbnail_deleted => Thumbnail izbrisan.
 thumbnail_not_saved => Thumbnail <strong>{id}</strong> <em>nije</em> sačuvan!
 thumbnail_saved => Thumbnail <strong>{id}</strong> sačuvan.

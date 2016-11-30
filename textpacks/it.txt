@@ -476,6 +476,7 @@ no_images_recorded => Nessun immagine registrata.
 only_graphic_files_allowed => I formati file consentiti sono .jpg, .gif o .png
 replace_image => Sostituisci immagine
 search_images => Cerca immagini
+swap_values =>
 thumbnail_deleted => Miniatura eliminata.
 thumbnail_not_saved => Miniatura <strong>{id}</strong> <em>non</em> salvata!
 thumbnail_saved => Miniatura <strong>{id}</strong> salvata.

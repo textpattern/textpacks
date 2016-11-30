@@ -476,6 +476,7 @@ no_images_recorded => Brak obrazków.
 only_graphic_files_allowed => Dozwolone formaty plików graficznych: .jpg, .gif, .png
 replace_image => Podmień obrazek
 search_images => Szukaj obrazków
+swap_values =>
 thumbnail_deleted => Miniaturka usunięta.
 thumbnail_not_saved => Miniaturka <strong>{id}</strong> <em>nie została</em> zapisana!
 thumbnail_saved => Miniaturka <strong>{id}</strong> została zapisana.

@@ -476,6 +476,7 @@ no_images_recorded => Немає зображень.
 only_graphic_files_allowed => Дозволені графічні формати: .jpg, .gif, .png
 replace_image => Замінити зображення
 search_images => Пошук зображень
+swap_values =>
 thumbnail_deleted => Зменшене зображення видалено.
 thumbnail_not_saved => Зменшене зображення <strong>№{id}</strong> не збережено!
 thumbnail_saved => Зменшене зображення <strong>№{id}</strong> збережено.

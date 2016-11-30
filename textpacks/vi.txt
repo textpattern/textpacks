@@ -476,6 +476,7 @@ no_images_recorded => Không có ảnh nào.
 only_graphic_files_allowed => chỉ cho phép tập tin ảnh dạng .jpg, .gif hoặc .png
 replace_image => Thay thế ảnh
 search_images =>
+swap_values =>
 thumbnail_deleted => Ảnh thu nhỏ đã bị xóa.
 thumbnail_not_saved => <em>Chưa</em> lưu thumbnail <strong>{id}</strong>!
 thumbnail_saved => Đã lưu ảnh thu nhỏ <strong>{id}</strong>.

@@ -476,6 +476,7 @@ no_images_recorded => לא נשמרו תמונות.
 only_graphic_files_allowed => קבצי הגרפיקה המותרים .jpg, .gif או .png
 replace_image => שנה תמונה
 search_images =>
+swap_values =>
 thumbnail_deleted => התמונה המוקטנת נמחקה.
 thumbnail_not_saved => תמונה מוקטנת <strong>{id}</strong> לא נשמרה!
 thumbnail_saved => תמונה מוקטנת <strong>{id}</strong> נשמרה.

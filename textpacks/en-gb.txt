@@ -476,6 +476,7 @@ no_images_recorded => No images recorded.
 only_graphic_files_allowed => Only .jpg, .gif or .png file types allowed.
 replace_image => Replace image
 search_images => Search images
+swap_values => Swap values
 thumbnail_deleted => Thumbnail deleted.
 thumbnail_not_saved => Thumbnail <strong>{id}</strong> not saved!
 thumbnail_saved => Thumbnail <strong>{id}</strong> saved.

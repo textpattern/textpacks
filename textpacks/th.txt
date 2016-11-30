@@ -476,6 +476,7 @@ no_images_recorded => ไม่มีการบันทึกภาพ
 only_graphic_files_allowed => อนุญาตให้ใช้แฟ้มกราฟฟิกแบบ .jpg, .gif, .png
 replace_image => แทนรูปภาพ
 search_images =>
+swap_values =>
 thumbnail_deleted => ลบภาพย่อแล้ว
 thumbnail_not_saved => <em>ไม่ได้</em> บันทึกภาพย่อ <strong>{id}</strong>
 thumbnail_saved => บันทึกภาพย่อ <strong>{id}</strong> แล้ว

@@ -476,6 +476,7 @@ no_images_recorded => Nenhuma imagem até agora.
 only_graphic_files_allowed => Somente se admitem estes tipos de ficheiro: .jpg, .gif ou .png
 replace_image => Substituir imagem
 search_images =>
+swap_values =>
 thumbnail_deleted => Miniatura apagada.
 thumbnail_not_saved => A miniatura <strong>{id}</strong> não foi guardada!
 thumbnail_saved => A miniatura <strong>{id}</strong> foi guardada.

@@ -476,6 +476,7 @@ no_images_recorded => Aucune image enregistrée.
 only_graphic_files_allowed => Seuls les fichiers d’images .jpg, .gif ou .png sont autorisés.
 replace_image => Remplacer l’image
 search_images => Recherche d’images
+swap_values =>
 thumbnail_deleted => Miniature effacée.
 thumbnail_not_saved => La miniature <strong>{id}</strong> n’a <strong>pas</strong> pu être enregistrée !
 thumbnail_saved => Miniature <strong>{id}</strong> enregistrée.

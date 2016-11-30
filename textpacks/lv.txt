@@ -476,6 +476,7 @@ no_images_recorded => Nav neviena attēla.
 only_graphic_files_allowed => Atļautas ir tikai .jpg, .gif vai .png formāta bildes.
 replace_image => Nomainīt bildi
 search_images => Meklēt attēlus
+swap_values =>
 thumbnail_deleted => Sīktēls dzēsts.
 thumbnail_not_saved => Sīkattēls <strong>{id}</strong> <em>nav</em> saglabāts!
 thumbnail_saved => Sīkattēls <strong>{id}</strong> saglabāts.

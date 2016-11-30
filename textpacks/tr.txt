@@ -476,6 +476,7 @@ no_images_recorded => Görsel kaydına rastlanmadı.
 only_graphic_files_allowed => Sadece .jpg, .gif, .png dosya türlerine izin veriliyor.
 replace_image => Görsel değiştir
 search_images =>
+swap_values =>
 thumbnail_deleted => Küçük görsel (thumbnail) silindi.
 thumbnail_not_saved => Küçük görsel (thumbnail) <strong>{id}</strong> kaydedilemedi!
 thumbnail_saved => Küçük görsel (thumbnail) <strong>{id}</strong> kaydedildi.

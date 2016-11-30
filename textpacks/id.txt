@@ -476,6 +476,7 @@ no_images_recorded =>
 only_graphic_files_allowed => Hanya berkas tipe .jpg, .gif atau .png diperbolehkan.
 replace_image => Timpa gambar
 search_images =>
+swap_values =>
 thumbnail_deleted => Gambar kecil dihapus.
 thumbnail_not_saved =>
 thumbnail_saved =>

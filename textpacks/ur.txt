@@ -476,6 +476,7 @@ no_images_recorded => کوئی تصویر دستیاب نہیں
 only_graphic_files_allowed => صرف .jpg, .gif, .png فائل کے قسمیں کی اجازت ہے
 replace_image => تصویر بدلیں
 search_images =>
+swap_values =>
 thumbnail_deleted => تصویر صغیر حذف کیا
 thumbnail_not_saved => تصویر صغیر <strong>{id}</strong> محفوظ نہیں
 thumbnail_saved => تصویر صغیر <strong>{id}</strong> محفوظ کیا

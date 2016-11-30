@@ -476,6 +476,7 @@ no_images_recorded => Neexistujú žiadne obrázky.
 only_graphic_files_allowed => Povolené sú len súbory .jpg, .gif alebo .png
 replace_image => Nahradiť obrázok
 search_images => Hľadať obrázky
+swap_values =>
 thumbnail_deleted => Náhľad vymazaný.
 thumbnail_not_saved => Náhľad <strong>{id}</strong> nebol uložený!
 thumbnail_saved => Náhľad <strong>{id}</strong> uložený.

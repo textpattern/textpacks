@@ -476,6 +476,7 @@ no_images_recorded => Nijedna slika nije snimljena.
 only_graphic_files_allowed => Samo .jpg, .gif, .png tipovi datoteka su dozvoljeni.
 replace_image => Zamijeni sliku
 search_images =>
+swap_values =>
 thumbnail_deleted => Sličica obrisana.
 thumbnail_not_saved => Sličica <strong>{id}</strong> <em>not</em> snimljena!
 thumbnail_saved => Sličica <strong>{id}</strong> snimljena.

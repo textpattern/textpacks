@@ -476,6 +476,7 @@ no_images_recorded => Inga bilder inlagda.
 only_graphic_files_allowed => Endast .jpg, .gif eller .png tillåts.
 replace_image => Ersätt bild
 search_images => Sök bilder
+swap_values =>
 thumbnail_deleted => Miniatyrbild togs bort.
 thumbnail_not_saved => Tumnageln <strong>{id}</strong> sparades inte!
 thumbnail_saved => Tumnageln <strong>{id}</strong> sparades.

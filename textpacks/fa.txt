@@ -476,6 +476,7 @@ no_images_recorded => هیچ تصویری یافت نشد.
 only_graphic_files_allowed => تنها فایل‌های jpg. یا gif. یا png. مجازند.
 replace_image => جایگزینی تصویر
 search_images =>
+swap_values =>
 thumbnail_deleted => تصویر کوچک پاک شد.
 thumbnail_not_saved => تصویر کوچک <strong>{id}</strong> ذخیره <em>نشد</em>!
 thumbnail_saved => تصویر <strong>{id}</strong> ذخیره شد.
