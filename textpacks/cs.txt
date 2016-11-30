@@ -664,7 +664,6 @@ tz_timezone => Časové pásmo
 updated => upraven(a/o)
 update_languages => Stáhnout poslední překlady
 up_to_date => Až do dnešního dne
-urls_to_ping => Posílat ping na adresy (odděluj čárkou)
 url_mode => Podoba URL
 use_comments => Povolit komentáře?
 use_dns => Dohledávat adresy návštěv pomocí DNS?
