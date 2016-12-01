@@ -29,13 +29,11 @@ link_expires =>
 login_name => نام صارف
 login_sent_to =>
 log_in_at => یہاں لاگ ان کریں
-mail_it => ای میل بذریعہ بھیجیں
 managing_editor => تدوین کار
 must_reassign_assets => بارہ کرم، صارف کے اشیا کو دوبارہ تفویض کریں
 new_email => نیا ای میل
 new_password => نیا ‏پاس ورڈ‏
 password_changed => ‏پاس ورڈ‏ تبدیل کیا
-password_changed_mailed => ‏پاس ورڈ‏ تبدیل کیا گیا اور ای میل بذریعہ <strong>{email}</strong> کو بھیجا گیا
 password_change_confirmation =>
 password_confirm_button =>
 password_forgotten => کیا آپ اپنا ‏پاس ورڈ‏ بھول گئے ؟
@@ -61,11 +59,9 @@ real_name => اصلی نام
 resend_activation =>
 resend_activation_request_sent =>
 resetpassword => ‏پاس ورڈ‏ پھر سیٹ کریں
-reset_author_password => مصنف کا ‏پاس ورڈ‏ پھر سیٹ کریں
 search_users =>
 set_password =>
 show_password =>
-site_administration => صارفین
 staff_writer => اندرونی مصنف
 unknown_author => نامعلوم مصنف: <strong>{name}</strong>
 your_login_info => آپ کے لاگ ان معلومات
@@ -76,27 +72,15 @@ you_have_been_registered => آپ کو اس ویب سائٹ پر ایک معاو�
 #@article
 add_new_article =>
 advanced_options => اعلیٰ اختیارات
-article_day => دن
 article_expires_before_postdate => نقص: مضمون کی مدت شائع کرنے کی تاریخ سے <strong>پہلے</strong> ختم نہیں ہو سکتی
-article_exp_day =>
-article_exp_hour =>
-article_exp_minute =>
-article_exp_month =>
-article_exp_second =>
-article_exp_year =>
-article_hour => گھنٹا
 article_image => مضمون کا منسلک تصویر
 article_markup => مضمون وضع
-article_minute => منٹ
-article_month => مہینہ
 article_posted => مضمون کو شائع کیا
 article_saved => مضمون محفوظ کیا
 article_saved_draft => مضمون کو نا ہموار کیا
 article_saved_hidden => مضمون پوشیدہ کیا
 article_saved_pending => مضمون کو تذبذب حالیہ کیا
 article_save_failed =>
-article_second => سیکنڈ
-article_year => سال
 comment_settings =>
 concurrent_edit_by => مضمون محفوظ نہیں کیا، {author} مضمون کو ترمیم کر رہے تھے جب آپ بھی اس پر تدوین کر رہے تھے، اگر آپ ‏بلاشبہ‏ ہے تو اور ایک بار 'محفوظ کریں
 date_settings =>
