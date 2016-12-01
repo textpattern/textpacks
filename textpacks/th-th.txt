@@ -1,4 +1,4 @@
-#@version 4.6.2;1473237102
+#@version 4.6.2;1480596679
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -1208,7 +1208,7 @@ section_tags =>
 showalways =>
 showcount =>
 size_format =>
-sort =>
+sort => เรียงโดย
 sort_by => เรียงโดย
 sort_direction => ทิศทางการเรียง
 tag => แท็ก

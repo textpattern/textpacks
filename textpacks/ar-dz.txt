@@ -1,4 +1,4 @@
-#@version 4.6.2;1473180848
+#@version 4.6.2;1480596588
 #@admin
 account_activation => الرجاء تنشيط حسابك
 account_activation_confirmation => الرجاء استخدام الرابط أدناه لتنشيط حسابك وقم بإعداد كلمة السر.
@@ -1208,7 +1208,7 @@ section_tags =>
 showalways =>
 showcount =>
 size_format =>
-sort =>
+sort => مختار من طرف
 sort_by => مختار من طرف
 sort_direction => ترتيب الاختيار
 tag => معلم

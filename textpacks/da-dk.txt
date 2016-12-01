@@ -1,4 +1,4 @@
-#@version 4.6.2;1473181034
+#@version 4.6.2;1480596611
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -1164,7 +1164,7 @@ escape => Escape
 exclude =>
 filename =>
 file_download_tags => Fil downloads
-flavor =>
+flavor => Version
 flavour => version
 format => Format
 gmt =>
@@ -1208,7 +1208,7 @@ section_tags => Afsnit
 showalways => Vis altid
 showcount =>
 size_format =>
-sort =>
+sort => Sorter efter
 sort_by => Sorter efter
 sort_direction => Sorteringsretning
 tag => Tag

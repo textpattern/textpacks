@@ -1,4 +1,4 @@
-#@version 4.6.2;1477398240
+#@version 4.6.2;1480069615
 #@admin
 account_activation => Veuillez activer votre compte
 account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
@@ -235,7 +235,7 @@ form_submission_error => Désolé, le formulaire ne peut pas être soumis. Veuil
 fr-fr => Français
 gd_unavailable => indisponible
 general_error => Erreur générale
-get_off_my_lawn => Désolé. Cette action ne peut être poursuivie. <code>{event}</code> <code>{step}</code> ne présente pas de sécurité suffisante dans ce contexte.
+get_off_my_lawn => Je suis désolé, mais je crains de ne pouvoir continuer : <code>{event}</code> <code>{step}</code> est une opération à risques.
 gl-gz => Galego
 greeting => Salutation
 he-il => עברית

@@ -1,4 +1,4 @@
-#@version 4.6.2;1473236294
+#@version 4.6.2;1480595546
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -1164,7 +1164,7 @@ escape => Escape
 exclude =>
 filename =>
 file_download_tags =>
-flavor =>
+flavor => Utseende
 flavour => Utseende
 format => Format
 gmt =>
