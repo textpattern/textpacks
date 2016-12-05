@@ -1,6 +1,6 @@
 # Textpattern CMS language files
 
-[![Build Status](https://travis-ci.org/textpattern/textpacks.svg?branch=master)](https://travis-ci.org/textpattern/textpacks)
+[![Build Status](https://img.shields.io/travis/textpattern/textpacks/master.svg)](https://travis-ci.org/textpattern/textpacks)
 
 This repository contains Textpacks for [Textpattern CMS](http://textpattern.com). Textpacks are the translation file format Textpattern will eventually use in future versions.
 
