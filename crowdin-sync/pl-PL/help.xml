@@ -265,4 +265,37 @@
 <p>Vulnerable versions are PHP4 versions &lt;= 4.4.0 and PHP5 versions &lt;= 5.0.5. You should either update to a newer version or make sure that <code>register_globals</code> is turned off. <code>register_globals</code> was deprecated as of PHP 5.3.0 and removed as of PHP 5.4.0.</p>
 <p>You can turn off <code>register_globals</code> in the <code>php.ini</code> file. If you are in a hosted environment, you may have an option in your hosting control panel for it (ask your host). When running PHP as an Apache module, it is also possible to turn <code>register_globals</code> off via Apache’s <code>.htaccess</code> configuration files. Uncomment the following line from your <code>.htaccess</code> file by removing the leading #:</p>
 <pre><code>php_value register_globals 0</code></pre></string>
+  <string name="file_reassign"><h2>Files: Reassign file</h2>
+<p>When you upload a file in place of one that is labelled ‘Missing’, your chosen file is uploaded to the server and linked to the original file information in the database. This means the file name of the original file will remain, as will all other associated information such as download count and category. The file size will, however, be updated to reflect the new file.</p></string>
+  <string name="file_replace"><h2>Files: Replace file</h2>
+<p>Uploading a file here will replace the contents of the existing file on the server but will keep the file name the same as it was before. The download count and other information associated with the file remain unaffected.</p></string>
+  <string name="upload"><h2>Files: Upload file</h2>
+<p>Use this form to upload files or images to your server.</p>
+<p>Use the Textile code to render graphics within articles, the Textpattern code to place graphics on your page templates, or HTML code to place the graphics elsewhere.</p></string>
+  <string name="forms_overview"><h2>Forms: Introduction</h2>
+<p>In Textpattern, a form is a snippet or chunk of text, HTML, and Textpattern tags that can be reused to display content.</p>
+<p>Here’s an example form which could be named <code>ordinary_list</code>:</p>
+<pre><code>&lt;li&gt;
+    &lt;txp:permlink&gt;
+        &lt;txp:title /&gt;
+    &lt;/txp:permlink&gt;
+&lt;/li&gt;</code></pre>
+<p>You could use it to display an HTML unordered list of related articles:</p>
+<pre><code>&lt;txp:related_articles form="ordinary_list" wraptag="ul" /&gt;</code></pre>
+<p>Since the role of this form is to output a list of titles, it could be applicable inside other tags, such as showing 20 articles from the current section:</p>
+<pre><code>&lt;txp:article form="ordinary_list" limit="20" wraptag="ol" /&gt;</code></pre>
+<p>You may also choose to employ a form to display repeated content, such as header and footer in your page templates. This means the content only exists in one place and if you decide to change it, you only need to do it once. Displaying content from a form is usually accomplished with:</p>
+<pre><code>&lt;txp:output_form form="your_form_name" /&gt;</code></pre>
+<p>A form can be up to 64KB in size. An example for a footer might include headings, paragraphs, links, conditional tags, and references to other forms such as <code>ordinary_list</code>.</p></string>
+  <string name="create_thumbnail"><h2>Images: Create thumbnail</h2>
+<p>Allows you to (re)create a thumbnail of the specified dimensions from the full size image.</p>
+<p>The thumbnail will be scaled to fit the dimensions you choose, unless you select the ‘Crop’ checkbox. In that case, the thumbnail will be created from the centre of the image without any scaling.</p></string>
+  <string name="replace_image_form"><h2>Images: Replace image</h2>
+<p>An image uploaded here will simply replace the existing one associated with this entry in the database.</p></string>
+  <string name="upload_image"><h2>Images: Upload image</h2>
+<p>Upload one or more images to your server.</p>
+<p>Upon upload to the <code>images</code> directory, the filename of your original image will be kept only internally in Textpattern’s database; the image file itself will be renamed to a sequential number + file extension.</p></string>
+  <string name="upload_thumbnail"><h2>Images: Upload thumbnail</h2>
+<p>Full size images can be assigned their own thumbnails. These are useful for linking to - and the indexing of - full size images.</p>
+<p>A reference to the thumbnail is exactly the same as the reference to the full size image, with <code>t</code> appended to the file name. For example, to reference a thumbnail associated with a full size image stored at <code>/images/12.jpg</code> you would use <code>/images/12t.jpg</code>.</p></string>
 </resources>
