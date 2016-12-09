@@ -1,4 +1,4 @@
-#@version 4.6.2;1479388311
+#@version 4.6.2;1481291300
 #@admin
 account_activation => Por favor ative sua conta
 account_activation_confirmation => Por favor, use o link abaixo para ativar sua conta e configurar uma senha.
@@ -1073,7 +1073,7 @@ uses_style => Usa a folha de estilos
 about_to_create => Agora vamos criar e configurar as tabelas da base de dados.
 add_config_file => Arquivo de configuração
 admin_theme => Tema da administração
-already_installed => Parece que o Textpattern já está instalado. Se quiser fazer uma instalação de nova (limpa), remova o arquivo <code>config.php</code> da sua directoria <code>/textpattern/</code> e tente de novo.
+already_installed => Parece que o Textpattern já está instalado. Se quiser fazer uma instalação de nova (limpa), remova o arquivo <code>config.php</code> do seu diretório <code>/textpattern/</code> e tente de novo.
 back => Voltar
 before_you_proceed => Antes de continuar:
 checking_database => Verificando conexão com base de dados
@@ -1105,7 +1105,7 @@ need_details => Precisamos de alguns detalhes para instalar…
 next_step => Próximo
 pass_required => Por favor, forneça uma senha mais forte.
 please_enter_url => Por favor, informe o endereço web do seu site
-please_go_back => Por favor volte, corrija quaisquer dados incorrectos e tente o processo novamente.
+please_go_back => Por favor volte, corrija quaisquer dados incorretos e tente o processo novamente.
 populate_db => Populando banco de dados
 prefix_bad_characters => O prefixo <strong>{dbprefix}</strong> da tabela contem caracteres não autorizados. O primeiro caracter deverá pertencer ao conjunto <strong>a-zA-Z_</strong> e todos os seguintes deverão pertencer ao conjunto <strong>a-zA-Z0-9_</strong>.
 prefix_warning => (Usar <strong>somente</strong> se precisar de múltiplas instalações numa única base de dados)
