@@ -144,16 +144,16 @@
 <p>Volitelná možnost. Kategorie odkazů jsou užitečné pro členění odkazů  do skupin, např. „Přátelé”, „Římané”, „Krajané”, atd.</p>
 <p>Vybraný seznam odkazů lze zobrazit pomocí tagu <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/linklist"><code>&lt;txp:linklist /&gt;</code><span class="ui-icon ui-icon-extlink">(otevře odkaz v novém okně)</span></a> např. takto:</p>
 <pre><code>&lt;code&gt;&lt;txp:linklist category="pratele" /&gt;&lt;/code&gt;.</code></pre></string>
-  <string name="clean_url_data_failed"><h2>Diagnostics: Clean URL data failed</h2>
-<p>It appears that either your site URLs (<code>http://example.com/section/article</code>) are currently not working or your server does not support the test procedure to determine if clean URLs work or not; if clean URLs on your site work, you can safely ignore this message.</p>
-<p>If clean URLs are <em>not</em> working it may mean either:</p>
+  <string name="clean_url_data_failed"><h2>Diagnostika: Test hezkých URL adres selhal</h2>
+<p>Zdá se, že hezké URL adresy (<code>example.com/rubrika/clanek</code>) v současné době nefungují, nebo váš server nepodporuje zkušební proceduru pro jejich funkčnost. Pokud hezké URL na vašich stránkách fungují, můžete tuto zprávu ignorovat.</p>
+<p>Pokud čisté URL <em>nefungují</em>, může to být způsobeno:</p>
 <ul>
-    <li>your ‘Site URL’ setting is incorrect, or the page at that address is not managed by this copy of Textpattern.</li>
-    <li>your server requires some changes to <code>.htaccess</code> in order to make clean URLs work.</li>
-    <li>your server doesn’t support clean URLs at all.</li>
+    <li>nastavení \'Podoba stálých odkazů\' není správné</li>
+    <li>váš server vyžaduje nějaké změny v <code>.htaccess</code>code> pro zprovoznění hezkých URL adres</li>
+    <li>váš server hezké URL adresy (clean URL) vůbec nepodporuje</li>
 </ul>
-<p>The clean URL test attempts to fetch a page from the web address specified in the ‘Site URL’ preference in order to check that all clean URL parameters are working correctly. If that URL is a different site, or has been replaced with a static page or similar, the test will fail. Until the issue is resolved you will have to use messy URLs on your site instead (<code>http://example.com?s=section&amp;id=4</code>). Ensure the ‘Permanent link mode’ in Admin Preferences is set accordingly.</p>
-<p>Note that using a plugin to put a site in ‘maintenance mode’ may trigger this warning.</p></string>
+<p>Test čistých URL se pokusí načíst stránku z adresy uvedené v nastavení serveru ‘Webová adresa’ (doména) s cílem ověřit, zda všechny parametry ‘hezkých’ URL fungují správně. V případě, že webová adresa je zadána chybně, nebo byla nahrazena statickou stránku apod., test selže. Dokud nebude problém vyřešen, budete muset na svých stránkách používat ošklivé adresy URL (<code>http://example.com/index.php?s=rubrika&amp;id=4</code>). Ujistěte se, že ‘Podoba stálých odkazů’ v nastavení serveru je nastavena odpovídajícím způsobem.</p>
+<p>Pozn.: použití pluginu k uvedení serveru do ‘režimu údržby’ může vyvolat toto varování.</p></string>
   <string name="clean_url_test_failed"><h2>Diagnostics: Clean URL test failed</h2>
 <p>It appears that either your site URLs (<code>http://example.com/section/article</code>) are currently not working or your server does not support the test procedure to determine if clean URLs work or not; if clean URLs on your site work, you can safely ignore this message.</p>
 <p>If clean URLs are not working it may mean either:</p>

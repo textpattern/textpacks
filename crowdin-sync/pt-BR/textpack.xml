@@ -1012,7 +1012,7 @@
   <string name="about_to_create">Agora vamos criar e configurar as tabelas da base de dados.</string>
   <string name="add_config_file">Arquivo de configuração</string>
   <string name="admin_theme">Tema da administração</string>
-  <string name="already_installed">Parece que o Textpattern já está instalado. Se quiser fazer uma instalação de nova (limpa), remova o arquivo <code>config.php</code> da sua directoria <code>/textpattern/</code> e tente de novo.</string>
+  <string name="already_installed">Parece que o Textpattern já está instalado. Se quiser fazer uma instalação de nova (limpa), remova o arquivo <code>config.php</code> do seu diretório <code>/textpattern/</code> e tente de novo.</string>
   <string name="back">Voltar</string>
   <string name="before_you_proceed">Antes de continuar:</string>
   <string name="checking_database">Verificando conexão com base de dados</string>
@@ -1044,7 +1044,7 @@
   <string name="next_step">Próximo</string>
   <string name="pass_required">Por favor, forneça uma senha mais forte.</string>
   <string name="please_enter_url">Por favor, informe o endereço web do seu site</string>
-  <string name="please_go_back">Por favor volte, corrija quaisquer dados incorrectos e tente o processo novamente.</string>
+  <string name="please_go_back">Por favor volte, corrija quaisquer dados incorretos e tente o processo novamente.</string>
   <string name="populate_db">Populando banco de dados</string>
   <string name="prefix_bad_characters">O prefixo <strong>{dbprefix}</strong> da tabela contem caracteres não autorizados. O primeiro caracter deverá pertencer ao conjunto <strong>a-zA-Z_</strong> e todos os seguintes deverão pertencer ao conjunto <strong>a-zA-Z0-9_</strong>.</string>
   <string name="prefix_warning">(Usar <strong>somente</strong> se precisar de múltiplas instalações numa única base de dados)</string>
