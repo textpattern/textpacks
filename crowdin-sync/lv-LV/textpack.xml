@@ -746,7 +746,6 @@
   <string name="textpack_strings_installed">Uzstādītas {count} rindas no Textpack</string>
   <string name="theme_name">Administrācijas lapas tēma</string>
   <string name="timeoffset">Laika starpība (stundās)</string>
-  <string name="title_no_widow">Prevent widowed words in article titles?</string>
   <string name="title_only">/virsraksts</string>
   <string name="updated">Atjaunināts</string>
   <string name="updated_branch_version_available">Ir pieejama atjaunota Textpattern versija.</string>
@@ -1058,7 +1057,6 @@
   <string name="setup_password_strength_4">Spēcīga</string>
   <string name="setup_show_password">Rādīt paroli</string>
   <string name="set_db_details">Ievadiet datubāzes datus</string>
-  <string name="set_temp_dir_prefs">Sorry, but Textpattern failed to find a writable directory to hold temporary files. Please visit the <strong>Preferences</strong> administration panel and adjust the <strong>Temporary directory path</strong> setting to suit your needs.</string>
   <string name="site_config">Vietnes konfigurācija</string>
   <string name="site_url">Lapas adrese</string>
   <string name="tables_exist">Šķiet, ka datubāzē <strong>{dbname}</strong> tabulas jau pastāv. Ja vēlaties turpināt uzstādīšanu, vai nu nodzēsiet esošās tabulas, vai arī izvēlieties atšķirīgu tabulu prefiksu.</string>

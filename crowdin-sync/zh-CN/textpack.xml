@@ -3,7 +3,6 @@
 <resources>
   <string name="lang_name">中文(简体)</string>
   <string name="lang_code">zh-CN</string>
-  <string name="lang_dir">ltr</string>
   <string name="account_activation">请激活您的帐号</string>
   <string name="account_activation_confirmation">请点击下面的链接来激活您的帐号并且设置密码</string>
   <string name="add_new_author">新增作者</string>
@@ -122,7 +121,6 @@
   <string name="url_title_is_blank">URL 标题为空白。</string>
   <string name="url_title_is_multiple">{count} 篇不同的文章使用了相同的 URL 标题。</string>
   <string name="view_html">显示 HTML 标记语言</string>
-  <string name="view_html_short">HTML</string>
   <string name="view_preview">预览文章</string>
   <string name="view_preview_short">预览</string>
   <string name="view_text">编辑文章内容</string>
@@ -195,7 +193,6 @@
   <string name="changesection">更改版块</string>
   <string name="changestatus">更改状态</string>
   <string name="close">关闭</string>
-  <string name="collapse_all">Collapse all</string>
   <string name="comment">评论</string>
   <string name="comments_expired">这篇文章的评论已过期。</string>
   <string name="confirm_delete_popup">真要删除吗？</string>
@@ -210,7 +207,6 @@
   <string name="draft">草稿</string>
   <string name="duplicate">副本</string>
   <string name="excerpt">摘要</string>
-  <string name="expand_all">Expand all</string>
   <string name="expired">过期</string>
   <string name="expire_date">过期日期</string>
   <string name="expire_time">过期时间</string>
@@ -248,8 +244,6 @@
   <string name="salutation">亲爱的 {name} ，</string>
   <string name="save_new">保存新文章</string>
   <string name="search_all">搜索全部</string>
-  <string name="search_clear">Clear search</string>
-  <string name="search_options">Search options</string>
   <string name="showing_search_results">显示 {total} 个中的第 {from} 个到第 {to} 个</string>
   <string name="site_slogan">网站标语</string>
   <string name="sort_value">排序值</string>
@@ -289,21 +283,8 @@
   <string name="txpnl2br">仅转化换行</string>
   <string name="txprawxhtml">原始 HTML</string>
   <string name="txpstriptags">Strip Tags</string>
-  <string name="txptextile">Textile</string>
   <string name="txptextilelite">精简 Textile</string>
   <string name="txt_quote_double_close">“</string>
-  <string name="txt_quote_double_open">“</string>
-  <string name="txt_quote_single_close">’</string>
-  <string name="txt_quote_single_open">‘</string>
-  <string name="units_b">B</string>
-  <string name="units_e">EB</string>
-  <string name="units_g">GB</string>
-  <string name="units_k">kB</string>
-  <string name="units_m">MB</string>
-  <string name="units_p">PB</string>
-  <string name="units_t">TB</string>
-  <string name="units_y">YB</string>
-  <string name="units_z">ZB</string>
   <string name="unmoderated">未审核</string>
   <string name="upload_err_cant_write">写入文件失败</string>
   <string name="upload_err_extension">文件上传被 PHP 扩展停止</string>
@@ -361,10 +342,6 @@
   <string name="cleanurl_only_apache">简洁 URL 只支持 Apache，自己承担使用风险。</string>
   <string name="clean_url_data_failed">简洁 URL 数据测试失败</string>
   <string name="clean_url_test_failed">简洁 URL 测试失败。</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
   <string name="detail">细节</string>
   <string name="dev_version_live">您正在一个开放的服务器上使用开发版的文件</string>
   <string name="diagnostic_info">诊断讯息</string>
@@ -373,7 +350,6 @@
   <string name="document_root">文档根目录</string>
   <string name="file_uploads_disabled">文件上传功能已禁用</string>
   <string name="gd_info">{version}；支持格式：{supported}。</string>
-  <string name="gd_library">GD Graphics Library</string>
   <string name="high">详细</string>
   <string name="htaccess_contents">.htaccess 文件内容</string>
   <string name="htaccess_missing">.htaccess 文件遗失</string>
@@ -396,8 +372,6 @@
   <string name="php_version">PHP 版本</string>
   <string name="php_version_required">Textpattern CMS 需要您的服务器的 PHP 版本至少是 {version}</string>
   <string name="preflight_check">预检</string>
-  <string name="register_globals">Register globals</string>
-  <string name="rfc2616_headers">RFC 2616 headers</string>
   <string name="rfc_2616_headers">CGI Header Mode</string>
   <string name="server">服务器</string>
   <string name="server_time">服务器本地时间</string>
@@ -633,9 +607,7 @@
   <string name="articles_use_excerpts">文章使用摘要？</string>
   <string name="attach_titles_to_permalinks">附加标题于永久链接？</string>
   <string name="auto_dst">自动调整夏时制设置？</string>
-  <string name="category_subcategory">/category/subcategory</string>
   <string name="check_for_txp_updates">检查更新</string>
-  <string name="clean">/clean/</string>
   <string name="comments_are_ol">以有序列表显示评论？</string>
   <string name="comments_auto_append">在文章后自动附加评论？</string>
   <string name="comments_dateformat">评论日期格式</string>
@@ -680,7 +652,6 @@
   <string name="gmtoffset">时区</string>
   <string name="ham">处 Spam 外所有</string>
   <string name="hours_days_ago">小时/天之前</string>
-  <string name="id_title">/id/title</string>
   <string name="img_dir">图片目录</string>
   <string name="include_email_atom">在 Atom feed 中包含 E-mail 地址？</string>
   <string name="installing_language">安装语言</string>
@@ -705,7 +676,6 @@
   <string name="never_display_email">不显示 E-mail 地址</string>
   <string name="new_textpattern_version_available">有一个全新的 Textpattern 版本，您想试试它吗？</string>
   <string name="no_popup">当前窗口</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">E-mail 使用 ISO-8859-1 编码？（默认为 UTF-8）</string>
   <string name="path_from_root">子目录（如果存在）</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> 没有设置（请更新 <code>index.php</code>）</string>
@@ -713,7 +683,6 @@
   <string name="permlink_format">永久链接标题 URL 模式</string>
   <string name="permlink_hyphenated">使用连字符</string>
   <string name="permlink_intercapped">使用首字母大写</string>
-  <string name="permlink_mode">Article URL pattern</string>
   <string name="ping_textpattern_com">Ping textpattern.com？</string>
   <string name="ping_weblogsdotcom">Ping 到 pingomatic.com?</string>
   <string name="plugin_cache_dir">插件储存目录</string>
@@ -731,8 +700,6 @@
   <string name="remove_lang">删除语言</string>
   <string name="rpc_connect_error">无法连接远端服务器检查语言文件更新，请稍后再试。</string>
   <string name="rss_how_many">Feed 中的文章数目</string>
-  <string name="section_id_title">/section/id/title</string>
-  <string name="section_title">/section/title</string>
   <string name="send_lastmod">发送“Last-Modified”文件头？</string>
   <string name="show_article_category_count">在分类中显示文章计数？</string>
   <string name="show_comment_count_in_feed">在 Feed 中显示评论计数？</string>
@@ -747,7 +714,6 @@
   <string name="theme_name">管理端主题</string>
   <string name="timeoffset">时差（小时）</string>
   <string name="title_no_widow">在文章标题中避免出现单独的字占一行？</string>
-  <string name="title_only">/title</string>
   <string name="updated">更新</string>
   <string name="updated_branch_version_available">取得 Textpattern 发布最新的版本</string>
   <string name="update_languages">更新语言</string>
@@ -758,7 +724,6 @@
   <string name="use_dns">在访问记录中使用 DNS 查询？</string>
   <string name="use_mail_on_feeds_id">使用 E-mail 地址作为 Feed ID？（默认为网站 URL）</string>
   <string name="use_plugins">使用插件？</string>
-  <string name="year_month_day_title">/year/month/day/title</string>
   <string name="403_forbidden">禁止访问。</string>
   <string name="404_not_found">您要找的网页不存在。</string>
   <string name="410_gone">您要找的网页不存在。</string>
@@ -771,7 +736,6 @@
   <string name="articles_found">找到的文章</string>
   <string name="article_context">文章</string>
   <string name="article_found">找到的文章</string>
-  <string name="atom_feed_title">Atom feed</string>
   <string name="attribute_values_must_be_quoted">属性值必须加引号</string>
   <string name="author">作者</string>
   <string name="authors">作者</string>
@@ -827,7 +791,6 @@
   <string name="deprecated_function">功能 <strong>{name}</strong> 已经不推荐使用</string>
   <string name="deprecated_function_with">功能 <strong>{name}</strong> 已经不推荐使用，请使用 <strong>{with}</strong> 代替</string>
   <string name="deprecated_tag">此标签已经不推荐使用</string>
-  <string name="documentation">Documentation</string>
   <string name="download_count">下载计数</string>
   <string name="edit">编辑</string>
   <string name="email">E-mail</string>
@@ -849,7 +812,6 @@
   <string name="form">模块</string>
   <string name="forms">模块</string>
   <string name="go">搜索</string>
-  <string name="go_back">Go back</string>
   <string name="go_content">跳到内容</string>
   <string name="go_nav">跳到导航</string>
   <string name="go_search">跳到搜索</string>
@@ -897,16 +859,13 @@
   <string name="next">下一页</string>
   <string name="no">否</string>
   <string name="none">没有</string>
-  <string name="nopopup">current window</string>
   <string name="no_comments">这篇文章目前没有评论。</string>
   <string name="no_search_matches">对不起，没有找到你要搜索的内容</string>
   <string name="numeric_list">有序列表</string>
-  <string name="of">of</string>
   <string name="off">关闭</string>
   <string name="older">较早的</string>
   <string name="on">开启</string>
   <string name="only_articles_can_be_previewed">注意：只能预览文章模块。</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">页面</string>
   <string name="pages">页面</string>
   <string name="paragraph">段落</string>
@@ -914,7 +873,6 @@
   <string name="permlink">永久链接</string>
   <string name="plugin_load_error">装载插件时出现一个问题：</string>
   <string name="plugin_load_error_above">上述错误由这个插件引起：</string>
-  <string name="popup">popup window</string>
   <string name="post">发表</string>
   <string name="posted">发表时间</string>
   <string name="posted_by">发表人为</string>
@@ -970,7 +928,6 @@
   <string name="update">更新</string>
   <string name="upload">上传</string>
   <string name="uploaded">已上传</string>
-  <string name="url">URL</string>
   <string name="value">值</string>
   <string name="version">版本</string>
   <string name="view">查看</string>
@@ -982,7 +939,6 @@
   <string name="your_branch_is_updated">您的 Textpattern 已是最新的版本</string>
   <string name="your_ip_is_blacklisted_by">您的 IP 地址被列入黑名单于</string>
   <string name="you_have_been_banned">您已经被禁止发表评论。</string>
-  <string name="yyyy-mm">yyyy-mm</string>
   <string name="article_count">本版块中文章数：{num}。点击显示</string>
   <string name="create_section">创建版块</string>
   <string name="default_write_section">默认发布版块</string>
@@ -1090,14 +1046,12 @@
   <string name="button_text">按钮文字</string>
   <string name="category_list_section">链接到特定的版块？</string>
   <string name="category_tags">分类</string>
-  <string name="class">CSS class</string>
   <string name="comments_form">评论模块</string>
   <string name="comment_details">评论细节</string>
   <string name="comment_form">评论模块</string>
   <string name="comment_name_link">链接到评论者的 E-mail 地址/网站？</string>
   <string name="decimals">小数点后显示 # 数</string>
   <string name="default_title">链接到默认版块使用的文字</string>
-  <string name="escape">Escape</string>
   <string name="exclude">不包括</string>
   <string name="filename">名称</string>
   <string name="file_download_tags">文件下载</string>
