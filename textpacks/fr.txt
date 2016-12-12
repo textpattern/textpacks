@@ -466,7 +466,7 @@ upload_image => Envoyer une image
 upload_thumbnail => Envoyer une miniature
 #@lang
 active_language => Langue par défaut active :
-active_language_ui =>
+active_language_ui => Langue individuelle active :
 #@link
 add_new_link => Ajout d’un lien
 edit_link => Édition du lien
