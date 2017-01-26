@@ -283,6 +283,21 @@
   <string name="upload"><h2>Fichiers : Téléversement de fichier</h2>
 <p>Utilisez ce formulaire afin de téléverser des fichiers ou des images sur votre serveur.</p>
 <p>Utilisez du code Textile pour illustrer vos articles, des balises Textpattern pour les disposer dans vos modèle de sites ou du code HTML pour disposer ces éléments ou bon vous semblera.</p></string>
+  <string name="forms_overview"><h2>Modules : Présentation</h2>
+<p>Dans Textpattern, un module ("form") représente du code réutilisable ("snippet") ou une fraction de texte pouvant être réutilisé afin d\'afficher du contenu.</p>
+<p>Voici l\'exemple d\'un module qui pourrait être nommé <code>liste_simple</code> :</p>
+<pre><code>&lt;li&gt;
+     &lt;txp:permlink&gt;
+         &lt;txp:title /&gt;
+     &lt;/txp:permlink&gt;
+&lt;/li&gt;</code></pre>
+<p>Vous pourriez y faire appel pour afficher une liste HTML non ordonnée de tous les articles connexes :</p>
+<pre><code>&lt;txp:related_articles form="liste_simple" wraptag="ul" /&gt;</code></pre>
+<p>Puisque la fonction de ce module est d\'afficher une liste comportant des titres d\'articles, il pourrait être modifié afin de présenter les 20 articles relatifs à la section courante :</p>
+<pre><code>&lt;txp:article form="liste_simple" limit="20" wraptag="ol" /&gt;</code></pre>
+<p>Vous pourriez également choisir d\'employer un module pour afficher du contenu répétitif, tel que le "header" et le "footer" dans les pages de votre modèle de votre site. L\'avantage est de placer ces contenus dans un seul endroit tout en permettant des corrections multiples en une seule action ! L\'affichage de contenus depuis un module est généralement accompli de la sorte :</p>
+<pre><code>&lt;txp:output_form form="nom_du_module" /&gt;</code></pre>
+<p>Un module peut contenir 64 Kb. L\'exemple d\'un "footer pourrait avoir des titres d\'articles, des paragraphes, des liens, des balises conditionnelles et se référer à d\'autres modules tel que <code>liste_simple</code>.</p></string>
   <string name="create_thumbnail"><h2>Images : Créer une vignette</h2>
 <p>Vous permet de (re)créer une vignette aux dimensions indiquées à partir son l\'image de pleines dimensions.</p>
 <p>La vignette sera retaillée pour s\'adapter aux dimensions souhaitées, à moins de cliquer sur la case à cocher "Retailler". Dans ce cas, la vignette sera coupée aux dimensions à partir du centre de l\'image initiale sans déformation.</p></string>

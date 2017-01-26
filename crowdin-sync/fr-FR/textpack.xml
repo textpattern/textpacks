@@ -228,6 +228,7 @@
   <string name="last_modified">Dernière modification</string>
   <string name="links">Liens</string>
   <string name="link_category">Catégorie du lien</string>
+  <string name="list_options">Options de la liste</string>
   <string name="logged_in_as">Connecté en tant que</string>
   <string name="login">Identifiant</string>
   <string name="login_to_textpattern">Connexion à Textpattern CMS</string>
@@ -525,6 +526,7 @@
   <string name="replace_image">Remplacer l’image</string>
   <string name="save_these_settings_as_default">Enregistrer ces paramètres comme défaut</string>
   <string name="search_images">Recherche d’images</string>
+  <string name="swap_values">Échanger des valeurs</string>
   <string name="thumbnail_deleted">Miniature effacée.</string>
   <string name="thumbnail_not_saved">La miniature <strong>{id}</strong> n’a <strong>pas</strong> pu être enregistrée !</string>
   <string name="thumbnail_saved">Miniature <strong>{id}</strong> enregistrée.</string>
@@ -619,6 +621,7 @@
   <string name="previewing_plugin">Prévisualisation du plugin :</string>
   <string name="verify_plugin">Vérifiez le plugin</string>
   <string name="active_language">Langue actuelle :</string>
+  <string name="active_language_ui">Langue individuelle active </string>
   <string name="admin_side_plugins">Utiliser les plugins administratifs ?</string>
   <string name="advanced_preferences">Options avancées</string>
   <string name="allow_article_php_scripting">Autoriser l’usage de PHP dans les articles ?</string>
@@ -748,6 +751,7 @@
   <string name="timeoffset">Décalage horaire (en heures)</string>
   <string name="title_no_widow">Éviter un mot veuf (seul) dans les titres d’articles ?</string>
   <string name="title_only">/titre</string>
+  <string name="tz_timezone">Fuseau horaire</string>
   <string name="updated">à jour</string>
   <string name="updated_branch_version_available">Une mise à jour de cette version de Textpattern est disponible. Voulez-vous la <a href="http://textpattern.com/download" rel="external" title="Accès à la zone de téléchargement du site Textpattern">télécharger</a> ?</string>
   <string name="update_languages">Mettre à jour les langues installées</string>
@@ -766,6 +770,7 @@
   <string name="ago">auparavant</string>
   <string name="all">Tous</string>
   <string name="already_exists">existe déjà</string>
+  <string name="ambiguous_tag">Fermeture de balise incorrecte :</string>
   <string name="any">N’importe</string>
   <string name="articles">Articles</string>
   <string name="articles_found">articles trouvés</string>
@@ -877,6 +882,7 @@
   <string name="list_categories">afficher les catégories</string>
   <string name="list_links">afficher les liens</string>
   <string name="live">Publié</string>
+  <string name="lonely_closing_tag">Balise de fermeture sans la balise d’ouverture correspondante :</string>
   <string name="lowercase">minuscules</string>
   <string name="main_content">Contenu principal</string>
   <string name="manual">Manuel</string>
@@ -950,6 +956,7 @@
   <string name="subscript">indice</string>
   <string name="superscript">exposant</string>
   <string name="tag_error">Erreur de balise :</string>
+  <string name="tag_mismatch">Incompatibilité entre balises d’ouverture et de fermeture :</string>
   <string name="textile_help">Aide à la rédaction avec Textile</string>
   <string name="textile_lite_help">Aide de Textile Lite</string>
   <string name="text_conversion">Conversion du texte</string>
@@ -960,12 +967,14 @@
   <string name="tooltip">Attribut info-bulle du lien</string>
   <string name="too_common_search_term">Il semblerait que votre recherche se porte sur un terme trop générique ; essayez une phrase plus précise que</string>
   <string name="type">Type</string>
+  <string name="unclosed_tag">Balise d’ouverture sans balise de fermeture correspondante :</string>
   <string name="undefined">Non défini</string>
   <string name="unknown_attribute">Attribut de balise inconnu : {att}.</string>
   <string name="unknown_callback_function">Fonction callback inconnue : {function}.</string>
   <string name="unknown_image">Image inconnue</string>
   <string name="unknown_section">Section inconnue</string>
   <string name="unknown_tag">cette balise n’existe pas</string>
+  <string name="unregistered_tag">cette balise n\'est pas répertoriée</string>
   <string name="untitled">Sans titre</string>
   <string name="update">Mettre à jour</string>
   <string name="upload">Envoi</string>
