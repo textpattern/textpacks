@@ -77,4 +77,216 @@
   <string name="admin_side_plugins"><h1>Préférences : Utiliser les pugins d\'administration ?</h1>
 <p>Les plugins d\'administration peuvent modifier les opérations de l\'interface d\'administration. Ils peuvent inter-agir avec des actions existantes, tel que éditer ou publier des articles, ou encore étendre l\'interface par l\'ajout ou l\'extension des fonctionnalités.</p>
 <p>Si vous souhaitez vous informer davantage sur les plugins d\'administration, veuillez consulter cette page : <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Extending Textpattern</a> de la <a rel="external" target="_blank" href="http://docs.textpattern.io/">Documentation utilisateur de Textpattern</a> officielle. La liste de tous les plugins est disponibles sur les site <a rel="external" target="_blank" href="http://textpattern.org/">Textpattern Resources</a>.</p></string>
+  <string name="remember_login"><h2>Se souvenir de moi</h2>
+<p>Si coché, vous resterez connecté sous cet identifiant avec votre navigateur actuel, jusqu’à ce que vous choisissiez manuellement de vous déconnecter. L’option nécessite que votre navigateur accepte les cookies.</p>
+<p>Si laissé non coché, vous serez automatiquement déconnecté, pour raisons de sécurité, au bout d’un certain temps d’inactivité. Ce dernier choix est envisageable si plusieurs personnes partagent votre ordinateur ou si vous utilisez un ordinateur sur un réseau Internet public afin d’interdire des connexions tierces indésirables.</p></string>
+  <string name="article_image"><h2>Rédiger : Image de l\'article</h2>
+<p>Si vous souhaitez associer une unique image avec cet article, renseignez ici soit :</p>
+<ol>
+<li>un numéro Textpattern #ID d\'image  ;</li>
+<li>l\'URL relative d’une image (ex. <code>/images/mon_image.jpg</code>) préalablement téléversée depuis l’entrée de menu “Contenu” → “Images” (cf. Téléversement d’images) ;</li>
+<li>l\'URL absolue d\'une image (<code>http://example.com/chemin/vers/images/mon_image.jpg</code>).</li>
+</ol>
+<p>L’image pourra être affichée en utilisant ceci <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/article_image"><code>&lt;txp:article_image /&gt;</code> <span class="ui-icon ui-icon-extlink">(ouvre un lien externe dans une nouvelle fenêtre du navigateur)</span></a> dans un module d’article, voire le corps d’un article (cf. Rédiger : corps d’article). Ce qui permettra d\'inclure une balise HTML <code>&lt;img&gt;</code> pour l\'image choisie.</p></string>
+  <string name="body"><h2>Rédiger : corps d’article</h2>
+<p>Le texte principal d’un article est contenu dans le corps de l’article.</p>
+<p>Lorsque vous rédigez ou consultez des articles destinés à une publication dans Textpattern, vous avez le choix entre trois vues d’affichage (disponibles depuis des onglets horizontaux) :</p>
+<ol>
+<li>Saisie ;</li>
+<li>HTML (le code permettant aux navigateurs Internet d’afficher l’article) ;</li>
+<li>Aperçu (pour un contrôle fidèle).</li>
+</ol>
+<p>La colonne de droite comporte un lien “Configuration avancée” permettant de choisir le mode de saisie souhaité :</p>
+<ol>
+<li>Utiliser Textile ;</li>
+<li>Convertir les retours à la ligne ;</li>
+<li>Laisser le texte tel quel (saisie avec balisage HTML).</li>
+</ol></string>
+  <string name="description"><h2>Rédiger : Description (dans le bloc "Métadonnées")</h2>
+<p>La description de l\'article est une option facultative permettant aux moteurs de recherche ainsi que les robots d\'exploration de mieux référencer et organiser les contenus textuels.</p>
+<p>Ce champ description est limité à 255 caractères maximum. Veuillez toutefois garder à l\'esprit que certains moteurs de recherche limitent le nombre de caractères des descriptions de pages pour raison de meilleur affichage dans leurs résultats (SERP) et peut donc être inférieur à cette limite de 255 caractères dans Textpattern.</p>
+<p>Notez que la description d\'article diffère du résumé d\'article, quoique tous deux acceptent des contenus similaires. Aussi, la description de l\'article doit être principalement destinée à l\'usage à destination des moteurs de recherche ou les robots d\'exploration, tandis que l\'extrait de l\'article est plus adapté pour un résumé lisible par quiconque, si nécessaire.</p></string>
+  <string name="excerpt"><h2>Rédiger : Résumé (d\'article)</h2>
+<p>Les résumés d’articles sont optionnels. Ils peuvent être utilisés sous forme d’introduction, affichée à part de l’article normal, ou plus généralement, pour introduire ou présenter l’article de façon plus synthétique lors de l’affichage d’une liste d’articles, voire dans un flux RSS/Atom de syndication ou pour tout autre usage.</p></string>
+  <string name="expire_date"><h2>Rédiger : Date d\'expiration (d\'article)</h2>
+<p>La date/heure à laquelle un article est notifié comme étant expiré. L\'heure est facultative et peut être renseignée dans le futur ou le passé.</p>
+<p>Les champs disponibles correspondent aux informations suivantes :</p>
+<ul>
+<li>Année (yyyy) / Mois (mm) / Jour (dd)</li>
+<li>hh (format 24 heures) : mm (Minutes) : ss (Secondes)</li>
+</ul>
+<p>Lorsque l\'heure survient, ou dans le cas d\'un horodatage dans le passé, l\'article expire.</p>
+<p>Si l\'option d\'affichage des articles expirés est cochée (depuis les Préférences du site), l\'article demeure visible. Si l\'option est désactivée, les visiteurs consultant la page relative à l\'article se verront afficher une page vide de type erreur 410 à la place.</p></string>
+  <string name="keywords"><h2>Rédiger : Mots-clés (dans le bloc "Métadonnées")</h2>
+<p>Les mots-clés sont utiles pour affiner les relations entre les articles au-delà de celles fournies par les catégories.</p>
+<p>Les mots-clés doivent être constitués d\'une liste de termes individuels séparés par une virgule.</p></string>
+  <string name="override_form"><h2>Rédiger : Module de remplacement (dans le bloc "Configuration avancée")</h2>
+<p>Si vous voulez qu\'un article soit affecté d\'un module différent de celui désigné par défaut - par exemple : si vous souhaitez afficher les résumés d\'article dans des liens <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/excerpt"><code>&lt;txp:excerpt /&gt;</code> <span class="ui-icon ui-icon-extlink">(ouvrir un lien externe dans une nouvelle fenêtre du navigateur)</span></a> alors qu\'ils sont affichés dans des liens de corps d\'article <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/body"><code>&lt;txp:body /&gt;</code> <span class="ui-icon ui-icon-extlink">(ouvrir un lien dans une nouvelle fenêtre du navigateur)</span></a> - cela peut être effectué ici.</p></string>
+  <string name="publish_date"><h2>Rédiger : Date de publication</h2>
+<p>L\'horodatage d\'un article ou d\'un fichier publié ou récemment modifié. Ce datage peut être affecté lorsque l\'élément est publié, ou selon une date passée voire future.</p>
+<p>Les champs de saisie correspondent aux informations suivantes :</p>
+<ul>
+<li>yyyy (Année) / mm (Mois) / dd (Jour)</li>
+<li>Heure (au format 24 heures) : Minute : Secondes</li>
+</ul>
+<p>Un élément avec un horodatage supérieur à l\'instant courant (ex. dans le futur) ne sera pas visible sur le site public ni dans les flux RSS/Atom avant sa date spécifiée.</p></string>
+  <string name="title"><h2>Rédiger : Titre (de l\'article)</h2>
+<p>Veuillez renseigner un titre approprié pour l\'article</p>
+<p>Un titre d\'article est limitée à 255 caractères, maximum.</p></string>
+  <string name="url_title"><h2>Rédiger : Titre de l\'URL (bloc "Métadonnées")</h2>
+<p>Si vous souhaitez une URL spécifique, de votre choix, pour identifier l’article en cours d’édition, vous pouvez la spécifier ici. Si le champ est laissé vide, l’URL sera automatiquement créée en se basant sur le titre de l’article (N. B. Lors d’une modification d’un titre d’article existant, cette URL ne sera pas mise à jour).</p>
+<p>Si vous renseignez une URL, n’oubliez pas que celle-ci doit être unique – aucun autre article ne peut avoir la même -, qu’elle ne doit contenir que des caractères autorisés (pas d’accents, par exemple ni d\'espaces remplacés par des traits d\'union) et qu’elle est sensible à la casse (“Mignonne” et “mignonne” sont deux choses différentes) sur la plupart des serveurs.</p></string>
+  <string name="article_category"><h2>Catégories : Articles</h2>
+<p>Contrairement aux sections, qui déterminent la structure d\'un site, les catégories d\'article permettent l\'organisation des articles selon leur sujet. Dès qu\'une catégorie est assignée, la liste d\'articles appartenant à une catégorie particulière peut être consultée.</p>
+<p>Par exemple, les catégories d\'articles envisageables  d\'un site portant sur la nourriture pourraient être les suivantes :</p>
+<ul>
+<li>Ingrédients</li>
+<li>Magasins spécialisés</li>
+<li>Recettes</li>
+<li>Dressages</li>
+<li>Restaurants</li>
+<li>Chefs cuisiniers</li>
+</ul></string>
+  <string name="category_description"><h2>Catégories : Description</h2>
+<p>La description des catégories est un champ optionnel pouvant aider les moteurs de recherche ainsi que les robots d\'exploration à mieux identifier et classer les contenus textuels d\'un site.</p>
+<p>La description de catégorie est limitée à 255 caractères, maximum. Veuillez noter que les moteurs de recherche peuvent choisir de limiter l\'affichage du contenu des <code>meta description</code> affecté aux pages pour des raisons de présentation dans leurs résultats (SERP) et donc être inférieur à cette limite de 255 caractère dans Textpattern. </p></string>
+  <string name="file_category"><h2>Catégories : Fichiers</h2>
+<p>Les catégories de fichiers sont optionnelles mais toutefois utiles si vous souhaitez regrouper certains fichiers ensemble.</p></string>
+  <string name="image_category"><h2>Catégories : Images</h2>
+<p>Les catégories d\'images sont utiles à la fois pour l\'organisation interne mais aussi pour renseigner les images pouvant être affichées à l\'aide des balises <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_index"><code>&lt;txp:image_index /&gt;</code> <span class="ui-icon ui-icon-extlink">(ouvrir le lien externe dans une nouvelle fenêtre du navigateur)</span></a> et <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_display"><code>&lt;txp:image_display /&gt;</code> <span class="ui-icon ui-icon-extlink">(ouvrir le lien externe dans une nouvelle fenêtre du navigateur)</span></a>.</p></string>
+  <string name="link_category"><h2>Catégories : Liens</h2>
+<p>Les catégories de liens sont optionnels mais utiles si vous souhaitez afficher différents groupes de liens, par exemple : \'Amis\', \'Romains\', \'Compagnons\'.</p>
+<p>Les listes sélectives de liens, telles que celles ci-avant, sont possibles à l\'aide de <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/linklist"><code>&lt;txp:linklist /&gt;</code> cette balise <span class="ui-icon ui-icon-extlink">(ouvrir le lien externe dans une nouvelle fenêtre du navigateur)</span></a>, comme ceci : </p>
+<pre><code>&lt;code&gt;&lt;txp:linklist category="Amis" /&gt;&lt;/code&gt;.</code></pre></string>
+  <string name="clean_url_data_failed"><h2>Diagnostics : Le test d’URL propres a échoué</h2>
+<p>Il semblerait que soit les URL de votre site (<code>http://example.com/section/article</code>) ne fonctionnent pas ou que votre serveur ne supporte pas le test de procédure afin de déterminer si le mode des URL propres soit actif ou non. Si le mode d\'URL propres sur votre site fonctionne, vous pouvez ignorer sans crainte ce message.</p>
+<p>Si les URL propres <em>ne peuvent</em> fonctionner, cela peut signifier que :</p>
+<ul>
+<li>le paramètre des \'URL du site\' est incorrect, ou que la page à cette adresse n\'est pas gérée directement par cette installation de Textpattern ;</li>
+<li>votre serveur nécessite des corrections dans votre fichier <code>.htaccess</code> afin de supporter les URL propres ;</li>
+<li>votre serveur est incapable de supporter les URL propres.</li>
+</ul>
+<p>Le test des URL dites "propres" cherche à récupérer l\'adresse renseignée dans les préférences (URL du site) afin de contrôler que tous les paramètres d\'URL propres fonctionnent. Si cette URL est différente de celle du site, ou si elle a été remplacée par une page statique ou autre chose de similaire, le test alors échoue. Avant que ce problème soit corrigé, vous devez utiliser le mode des URL brutes sur votre site en attendant (<code>http://example.com?s=section&amp;id=4</code>). Assurez-vous que le "mode de liens permanents" dans les préférences d\'administration soit renseigné en conséquence.</p>
+<p>Veuillez noter que l\'usage d\'un plugin de mise en maintenance du site peut occasionner ce message d\'erreur.</p></string>
+  <string name="clean_url_test_failed"><h2>Diagnostics : Le test d’URL propres a échoué</h2>
+<p>Il semblerait que soit les URL de votre site (<code>http://example.com/section/article</code>) ne fonctionnent pas ou que votre serveur ne supporte pas le test de procédure afin de déterminer si le mode des URL propres soit actif ou non. Si le mode d\'URL propres sur votre site fonctionne, vous pouvez ignorer sans crainte ce message.</p>
+<p>Si les URL propres <em>ne peuvent</em> fonctionner, cela peut signifier que :</p>
+<ul>
+<li>le paramètre des \'URL du site\' est incorrect, ou que la page à cette adresse n\'est pas gérée directement par cette installation de Textpattern ;</li>
+<li>votre serveur nécessite des corrections dans votre fichier <code>.htaccess</code> afin de supporter les URL propres ;</li>
+<li>votre serveur est incapable de supporter les URL propres.</li>
+</ul>
+<p>Le test des URL dites "propres" cherche à récupérer l\'adresse renseignée dans les préférences (URL du site) afin de contrôler que tous les paramètres d\'URL propres fonctionnent. Si cette URL est différente de celle du site, ou si elle a été remplacée par une page statique ou autre chose de similaire, le test alors échoue. Avant que ce problème soit corrigé, vous devez utiliser le mode des URL brutes sur votre site en attendant (<code>http://example.com?s=section&amp;id=4</code>). Assurez-vous que le "mode de liens permanents" dans les préférences d\'administration soit renseigné en conséquence.</p></string>
+  <string name="cleanurl_only_apache"><h2>Diagnostics : Support des URL propres</h2>
+<p>Les URL propres sont uniquement supportées par Apache. Si vous utilisez une autre plateforme de serveur, choisissez les URL courtes à vos propres risques.</p></string>
+  <string name="dev_version_live"><h2>Diagnostics : Version de développement en usage sur un site en production</h2>
+<p>Vous utilisez une version de fichiers en développement sur un site en production, ce qui n\'est pas recommandé. Toutefois, si vous savez pertinemment ce que vous faîtes et en êtes entièrement satisfait, veuillez ignorer totalement ce message d\'alerte.</p></string>
+  <string name="dir_not_writable"><h2>Diagnostics : Le répertoire n\'est pas accessible en écriture</h2>
+<p>Afin d\'utiliser le téléversement de fichiers et d\'images, ces répertoires doivent impérativement être accessibles par PHP en écriture. Généralement, ce message indique que vous devez modifier les permissions afin que les utilisateurs du serveur disposent des droits d\'accès à ces répertoires. Cela peut être configuré avec votre client FTP ou, encore, en lignes de commandes avec ce code <code>chmod 755 /chemin/du/répertoire</code>.</p></string>
+  <string name="dns_lookup_fails"><h2>Diagnostics : Échec de DNS</h2>
+<p>Il semblerait que l\'URL renseignée comme adresse de votre site soit introuvable.</p></string>
+  <string name="file_uploads_disabled"><h2>Diagnostics : le téléversement de fichiers est indisponible</h2>
+<p>Votre configuration de serveur démontre que le téléversement de fichiers n\'est pas autorisé avec les fonctionnalités de téléchargements de fichiers at/ou d\'images avec Textpattern. Veuillez vérifier et corriger le paramètre <code>file_uploads</code> depuis votre fichier <code>php.ini</code> (ou demandez cette correction à votre hébergeur).</p></string>
+  <string name="htaccess_missing"><h2>Diagnostics : Fichier .htaccess manquant</h2>
+<p>Vous utilisez le mode de liens permanents qui nécessite un fichier <code>.htaccess</code> placé à la racine de votre site. Les directives recommandées sont les suivantes :</p>
+<pre><code>&lt;IfModule mod_rewrite.c&gt;     RewriteEngine On     #RewriteBase /relative/web/path/     RewriteCond %{REQUEST_FILENAME} -f [OR]     RewriteCond %{REQUEST_FILENAME} -d     RewriteRule ^(.+) - [PT,L]     RewriteCond %{REQUEST_URI} !=/favicon.ico     RewriteRule ^(.*) index.php     RewriteCond %{HTTP:Authorization} !^$     RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}] &lt;/IfModule&gt;</code></pre></string>
+  <string name="index_inaccessible"><h2>Diagnostics : Index du site inaccessible</h2>
+<p>Le fichier principal <code>index.php</code> spécifié comme index de votre site est inaccessible sur le serveur. Veuillez corriger ses permissions d\'accès.</p></string>
+  <string name="missing_files"><h2>Diagnostics : Fichiers manquants</h2>
+<p>Certains fichiers essentiels sont absents de votre installation de Textpattern. Assurez-vous que tous les fichiers listés sont bien présents sur votre serveur et correctement placés dans leurs répertoires.</p></string>
+  <string name="mod_rewrite_missing"><h2>Diagnostics : Le module mod_rewite d’Apache n’est pas installé</h2>
+<p>Le module d\'Apache <code>mod_rewrite</code> n\'est pas installé, ou installé mais non activé. Ceci est recommandé pour le bon fonctionnement de Textpattern. Veuillez vérifier le contenu votre fichier <code>.htaccess</code> ou contactez l\'assistance de votre hébergeur.</p></string>
+  <string name="modified_files"><h2>Diagnostics : Certains fichiers de Textpattern ont été modifiés</h2>
+<p>Des fichiers ont été identifié comme ayant été modifiés si leur identifiant respectif d\'intégrité diffère de la liste d\'intégrités (fichier : checksum. txt). Si des fichiers de l\'installation de Textpattern présentent des modifications, ces fichiers sont mentionnés ici. Cette situation peut ne pas constituer de problèmes, mais mieux vaut vérifier s\'ils ne causent pas de dysfonctionnements sur votre site.</p></string>
+  <string name="mysql_table_errors"><h2>Diagnostics : Erreurs de tables MySQL</h2>
+<p>Quelque chose a dû corrompre ou endommager votre base de données MySQL. Si vous avez accès aux outils de MySQL, tel que <a rel="external" target="_blank" href="https://www.phpmyadmin.net">phpMyAdmin <span class="ui-icon ui-icon-extlink">(ouvrir le lien externe dans une nouvelle fenêtre du navigateur)</span></a>, essayez de réparer les tables correspondantes.</p></string>
+  <string name="no_temp_dir"><h2>Diagnostics : Aucun répertoire temp renseigné</h2>
+<p>Tandis que Textpattern est en mesure de fonctionner sans répertoire temporaire, certaines fonctionnalités, cependant, peuvent être inopérantes si ce paramètre des préférences n\'est pas renseigné. Veuillez consulter les Préférences d\'administration pour spécifier un "chemin de répertoire temporaire".</p></string>
+  <string name="old_files"><h2>Diagnostics : Présence de vieux fichiers d\'émulation</h2>
+<p>Certains fichiers de Textpattern sont obsolètes et doivent être remplacés par leurs versions en provenance d\'une distribution correspondante stable.</p></string>
+  <string name="old_placeholder_exists"><h2>Diagnostics : Vieux fichier d’émulation de section présent</h2>
+<p>Depuis la version 4.0 de Textpattern, les fichiers d\'émulations de sections ne sont plus requis et peuvent interférer avec le nouveau modèle <code>.htaccess</code>. Si les fichiers détectés sont de telles émulations, veuillez les supprimer.</p></string>
+  <string name="path_not_doc_root"><h2>Diagnostics : path_to_site ne correspond pas</h2>
+<p>Deux variables spécifiées par votre serveur web devraient correspondre alors qu\'elles sont dissonantes.</p></string>
+  <string name="path_to_site_inacc"><h2>Diagnostics : répertoire du site inaccessible</h2>
+<p>Le répertoire contenant le fichier <code>index.php</code> renseigné comme index de votre site est inaccessible par le serveur. Veuillez corriger ses permissions.</p></string>
+  <string name="php_version_required"><h2>Diagnostics : Configuration minimum requise</h2>
+<p>Textpattern nécessite certaines fonctionnalités présentes avec le langage de programmation PHP et le serveur de bases de données MySQL. Veuillez contrôler les informations listées ci-dessous pour vous vérifier la configuration système minimum pour la version de Textpattern que vous avez téléchargé  :</p>
+<div class="txp-listtables">
+     <table class="txp-list">
+         <thead>
+             <tr>
+                 <th scope="col">Version de Textpattern</th>
+                 <th scope="col">Version minimum de PHP</th>
+                 <th scope="col">Version minimum de MySQL</th>
+             </tr>
+         </thead>
+         <tbody>
+             <tr>
+                 <th scope="row">4.6.x</th>
+                 <td>5.3.3</td>
+                 <td>4.1</td>
+             </tr>
+             <tr>
+                 <th scope="row">4.5.x</th>
+                 <td>5.2.3</td>
+                 <td>4.1</td>
+             </tr>
+             <tr>
+                 <th scope="row">4.0.1 - 4.4.1</th>
+                 <td>4.3</td>
+                 <td>3.23</td>
+             </tr>
+         </tbody>
+     </table> 
+</div>
+<p>En complément de la configuration système minimum, les extensions PHP suivantes sont nécessaires :</p>
+<ul>
+     <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.mysql.php">MySQL <span class="ui-icon ui-icon-extlink">(ouvrir le lien externe dans une nouvelle fenêtre du navigateur)</span></a></li>
+     <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.xml.php">XML <span class="ui-icon ui-icon-extlink">(ouvrir le lien externe dans une nouvelle fenêtre du navigateur)</span></a></li>
+     <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.json.php">JSON <span class="ui-icon ui-icon-extlink">(ouvrir le lien externe dans une nouvelle fenêtre du navigateur)</span></a></li> 
+</ul> 
+<p>En outre, votre fichier <code>php.ini</code>, de portée globale ou locale, doit contenir le paramètre <code>date.timezone</code>.</p></string>
+  <string name="setup_still_exists"><h2>Diagnostics : Le répertoire "setup" existe toujours</h2>
+<p>Lors de l\'installation de Textpattern, le répertoire <code>textpattern/setup</code> et ses contenus ne sont plus nécessaires et doivent être supprimés. Vous continuerez àà recevoir ce message d\'alerte pour des raisons de sécurité tant que ce répertoire ne sera pas supprimé de votre serveur.</p></string>
+  <string name="site_url_mismatch"><h2>Diagnostics : Incompatibilité avec l\'URL du site</h2>
+<p>L\'URL du site renseignée dans les "Préférences" d\'administration ne correspond pas avec l\'URL pour accéder à votre site.</p>
+<p>Si votre site est accessible par le biais d\'URL différentes ou si les liens de votre site propulsé avec Textpattern fonctionnent parfaitement, vous pouvez ignorer ce message d\'alerte.</p>
+<p>Sinon, vous êtes invité à corriger ce paramètre "URL du site" depuis la page des "Préférences" d\'administration. Une suggestion d\'URL correcte est indiquée dans le message d\'avertissement affiché dans la page "Diagnostics".</p></string>
+  <string name="some_php_functions_disabled"><h2>Diagnostics : Les fonctions suivantes de PHP [...] sont désactivées sur votre serveur</h2>
+<p>Ce message signifie que votre hébergeur ou votre administrateur ont désactivé une ou plusieurs fonctions de PHP dont certaines peuvent affecter le bon fonctionnement de Textpattern.</p>
+<p>Veuillez consulter <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/diagnostics-panel">la documentation utilisateur de Textpattern <span class="ui-icon ui-icon-extlink">(ouvrir le lien externe dans une nouvelle fenêtre du navigateur)</span></a> pour de plus amples informations.</p></string>
+  <string name="textpattern_version_update"><h2>Diagnostics : Mise à jour de Textpattern</h2>
+<p>Une version plus récente de Textpattern CMS est disponible. Pour bénéficier des avantages des dernières améliorations et de plus de sécurité, il est recommandé d\'effectuer une mise à jour.</p>
+<p>Veuillez prendre note, tandis que nous-nous efforçons  de rendre l\'étape de mise à niveau aussi transparente et aussi simple que possible,  :</p>
+<ul>
+    <li>si seulement le dernier chiffre de version diffère de votre version installée, la mise à jour devrait être compatible avec les plugins et/ou des modèles ou thèmes ;</li>
+    <li>si les deux derniers chiffres sont différents de votre version installée, la mise à jour devrait nécessiter celles de certains plugins et/ou modèles ou thèmes, bien que tout devrait continuer à fonctionner quoique de manière incomplète ;</li>
+    <li>si le premier chiffre de version est différent de votre version installée, la mise à jour devrait nécessiter celles de la plupart des plugins et/ou modèles ou thèmes. Aussi, si vous tenez à conserver l\'usage de certains plugins et/ou thèmes, veuillez vous rapprocher des différents auteurs ou membres de la communauté d\'utilisateurs avant de procéder à cette mise à niveau.</li>
+</ul>
+<p>Si des messages d\'alerte indiquent "Problème d\'accès au serveur RPC", cela indique que l\'existence d\'une nouvelle version ne peut être vérifiée pour l\'instant, ou que le serveur peut être inactif. Les offres de mise à jour étant vérifiées à distance toutes les 24 heures, la prochaine vérification ultérieure pourrait être alors concluante.</p></string>
+  <string name="tmp_plugin_paths_match"><h2>Diagnostics : Le répertoire temporaire et le répertoire de cache des plugins ne devraient pas être identiques</h2>
+<p>Les plugins devraient disposer de leur propre répertoire et ne pas partager celui du répertoire temporaire. Cela présente un risque potentiel de sécurité et peut nuire à votre site si ce répertoire temporaire est nettoyé. Veuillez vous assurer que le chemin d\'accès au répertoire temporaire est bien différent de celui dévolu au cache des plugins.</p></string>
+  <string name="update_still_exists"><h2>Diagnostics : le répertoire "update" est encore présent</h2>
+<p>Lorsque Textpattern est mis à jour, le répertoire <code>textpattern/update</code> et ses contenus ne sont plus nécessaires et doivent être supprimés du serveur pour des raisons de sécurité. Vous continuerez à recevoir ce message d\'alerte tant que le répertoire ne sera pas supprimé.</p></string>
+  <string name="warn_mail_unavailable"><h2>Diagnostics : Votre installation de PHP ne dispose pas de la fonction mail()</h2>
+<p>La fonction de PHP <a rel="external" target="_blank" href="https://secure.php.net/manual/en/function.mail.php">mail <span class="ui-icon ui-icon-extlink">(ouvrir le lien externe dans une nouvelle fenêtre du navigateur)</span></a> est désactivée. Aussi, Textpattern ne pourra pas envoyer des e-mails et certaines fonctionnalités seront inopérantes. Par exemple, les notifications de nouveaux commentaires envoyées par e-mail et les nouveaux utilisateurs de votre site de pourront pas recevoir de message d\'inscription. Bien que tout nouvel utilisateur pourra être ajouté néanmoins.</p></string>
+  <string name="file_reassign"><h2>Fichiers : Fichier réassigné</h2>
+<p>Lorsque vous téléversez un fichier à la place d\'un autre mentionné comme étant "manquant", votre nouveau fichier est déposé sur votre serveur et associé au fichier initial dans la base de données. Cela signifie que le nom du fichier original demeurera inchangé de même que toutes les informations associées telles que le nombre de téléchargements et sa catégorie de fichier. La taille du fichier devrait, cependant, être actualisée afin de correspondre au nouveau fichier.</p></string>
+  <string name="file_replace"><h2>Fichiers : Remplacer le fichier</h2>
+<p>Le téléversement de fichier ici même remplacera le contenu du fichier existant sur votre serveur mais conservera le nom du fichier initial. Le décompte des téléchargements ainsi que toutes autres informations associées au fichier ne seront pas affectés.</p></string>
+  <string name="upload"><h2>Fichiers : Téléversement de fichier</h2>
+<p>Utilisez ce formulaire afin de téléverser des fichiers ou des images sur votre serveur.</p>
+<p>Utilisez du code Textile pour illustrer vos articles, des balises Textpattern pour les disposer dans vos modèle de sites ou du code HTML pour disposer ces éléments ou bon vous semblera.</p></string>
+  <string name="create_thumbnail"><h2>Images : Créer une vignette</h2>
+<p>Vous permet de (re)créer une vignette aux dimensions indiquées à partir son l\'image de pleines dimensions.</p>
+<p>La vignette sera retaillée pour s\'adapter aux dimensions souhaitées, à moins de cliquer sur la case à cocher "Retailler". Dans ce cas, la vignette sera coupée aux dimensions à partir du centre de l\'image initiale sans déformation.</p></string>
+  <string name="replace_image_form"><h2>Images : Remplacer l\'image</h2>
+<p>Toute image téléversée ici remplacera celle existante associée à son entrée dans la base de données.</p></string>
+  <string name="upload_image"><h2>Images : Téléversement d\'image</h2>
+<p>Téléverser une ou plusieurs images sur votre serveur.</p>
+<p>Dès le téléversement dans le répertoire <code>images</code>, le nom du fichier de votre image initiale sera conservé uniquement dans la base de données de Textpattern ; le fichier image lui-même sera renommé avec un numéro séquentiel suivi de son extension de fichier.</p></string>
+  <string name="upload_thumbnail"><h2>Images : Téléverser une vignette</h2>
+<p>Les images peuvent être associées à leur propres vignettes. Cela est particulièrement utile pour relier - et indexer - les images de pleines dimensions.</p>
+<p>Une référence à une vignette est exactement identique à une référence pour une image de pleine taille, avec la lettre <code>t</code> ajoutée au nom du fichier. Par exemple, pour faire référence à une vignette associée à son image originale <code>/images/12.jpg</code>, vous devez utiliser <code>/images/12t.jpg</code>.</p></string>
 </resources>

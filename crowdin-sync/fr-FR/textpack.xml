@@ -390,7 +390,7 @@
   <string name="old_files">Certains fichiers de Textpattern CMS ne sont plus à jour</string>
   <string name="old_placeholder">Un vieux fichier d’émulation de section existe et gène le bon fonctionnement</string>
   <string name="os_version">Système d’exploitation du serveur</string>
-  <string name="path_to_site_inacc"><code>path_to_site</code> est inaccessible.</string>
+  <string name="path_to_site_inacc"><code>path_to_site</code> ne correspond pas.</string>
   <string name="php_extensions">Extensions PHP</string>
   <string name="php_sapi_mode">API PHP du serveur</string>
   <string name="php_version">Version de PHP</string>

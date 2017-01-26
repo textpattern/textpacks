@@ -141,4 +141,6 @@
     RewriteCond %{HTTP:Authorization}  !^$
     RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
 &lt;/IfModule&gt;</code></pre></string>
+  <string name="old_files"><h2>Diagnostik: Gamla filer</h2>
+<p>Vissa Textpattern-filer är inaktuella och bör ersättas med de senaste versionerna från den aktuella stabila utgåvan.</p></string>
 </resources>
