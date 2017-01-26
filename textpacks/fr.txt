@@ -205,6 +205,7 @@ internal_error => Erreur interne
 last_modified => Dernière modification
 links => Liens
 link_category => Catégorie du lien
+list_options =>
 logged_in_as => Connecté en tant que
 login => Identifiant
 login_to_textpattern => Connexion à Textpattern CMS
