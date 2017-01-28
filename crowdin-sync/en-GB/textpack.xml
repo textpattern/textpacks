@@ -998,8 +998,8 @@
     <string name="edit_default_section">Edit default section</string>
     <string name="edit_section">Edit section</string>
     <string name="edit_sections">edit sections</string>
-    <string name="include_in_search">Include this section in site search?</string>
-    <string name="on_front_page">Section appears on front page?</string>
+    <string name="include_in_search">Searchable?</string>
+    <string name="on_front_page">On default page?</string>
     <string name="search_sections">Search sections</string>
     <string name="section">Section</string>
     <string name="sections">Sections</string>
@@ -1014,7 +1014,7 @@
     <string name="section_used_by_article">Section <strong>{name}</strong> not deleted; used by {count} article(s).</string>
     <string name="selected_by_default">Selected by default</string>
     <string name="style">Style</string>
-    <string name="syndicate">Syndicate articles in this section?</string>
+    <string name="syndicate">Syndicate articles?</string>
     <string name="uses_page">Uses page</string>
     <string name="uses_style">Uses style</string>
     <string name="about_to_create">You are about to create and populate database tables. At this stage you will also need to set up an administrator user account.</string>
