@@ -880,7 +880,7 @@
   <string name="lowercase">Kleinbuchstaben</string>
   <string name="main_content">Hauptinhalt</string>
   <string name="manual">Handbuch</string>
-  <string name="matching_search_request">passen zu Ihren Suchkriterien</string>
+  <string name="matching_search_request">passend zu Ihren Suchkriterien</string>
   <string name="message">Nachricht</string>
   <string name="message_deleted">Nachricht gelöscht</string>
   <string name="message_preview">Vorschau der Nachricht</string>
@@ -960,12 +960,14 @@
   <string name="tooltip">Link-Tooltip</string>
   <string name="too_common_search_term">Ihre Suchkriterien sind sehr allgemein gehalten. Bitte versuchen Sie etwas speziellere Suchbegriffe.</string>
   <string name="type">Typ</string>
+  <string name="unclosed_tag">Starttag ohne entsprechenden Endtag:</string>
   <string name="undefined">undefiniert</string>
   <string name="unknown_attribute">Unbekanntes Tag-Attribut: {att}.</string>
   <string name="unknown_callback_function">Unbekannte Callback-Funktion: {function}.</string>
   <string name="unknown_image">Unbekanntes Bild.</string>
   <string name="unknown_section">Unbekannte Sektion</string>
   <string name="unknown_tag">Unbekannter Tag</string>
+  <string name="unregistered_tag">Tag ist nicht registriert</string>
   <string name="untitled">Ohne Namen</string>
   <string name="update">Aktualisierung</string>
   <string name="upload">Hochladen</string>

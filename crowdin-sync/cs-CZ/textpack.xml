@@ -228,6 +228,7 @@
   <string name="last_modified">Naposledy upraveno</string>
   <string name="links">Odkazy</string>
   <string name="link_category">Kategorie odkazu</string>
+  <string name="list_options">Možnosti seznamu</string>
   <string name="logged_in_as">Přihlášen(a) jako</string>
   <string name="login">Přihlásit</string>
   <string name="login_to_textpattern">Přihlášení do Textpattern</string>
@@ -525,6 +526,7 @@
   <string name="replace_image">Nahradit obrázek</string>
   <string name="save_these_settings_as_default">Uložit nastavení jako výchozí</string>
   <string name="search_images">Hledat obrázky</string>
+  <string name="swap_values">Zaměnit hodnoty</string>
   <string name="thumbnail_deleted">Náhled byl smazán.</string>
   <string name="thumbnail_not_saved">Náhled <strong>{id}</strong> nebyl uložen!</string>
   <string name="thumbnail_saved">Náhled <strong>{id}</strong> uložen.</string>
@@ -619,6 +621,7 @@
   <string name="previewing_plugin">Náhled pluginu:</string>
   <string name="verify_plugin">Ověřit plugin</string>
   <string name="active_language">Nastavený jazyk</string>
+  <string name="active_language_ui">Uživatelský jazyk</string>
   <string name="admin_side_plugins">Používat pluginy pro správu?</string>
   <string name="advanced_preferences">Pokročilá nastavení</string>
   <string name="allow_article_php_scripting">Používat PHP v článcích?</string>
@@ -708,7 +711,7 @@
   <string name="no_preferences">Žádné předvolby k dispozici.</string>
   <string name="override_emailcharset">Použít v emailech znakovou sadu ISO-8859-1 (výchozí je UTF-8)?</string>
   <string name="path_from_root">Složka (je-li nějaká)</string>
-  <string name="path_to_site_missing">Hodnota <code>$path_to_site</code> není nastavena (stará verze <code>index.php</code>)</string>
+  <string name="path_to_site_missing"><code>$path_to_site</code> není nastavena (aktualizace <code>index.php</code>)</string>
   <string name="permalink_title_format">Název do odkazů jako-je-tento (nebo SpiseJakoTento)?</string>
   <string name="permlink_format">Formát adresy URL</string>
   <string name="permlink_hyphenated">s pomlčkami (nazev-clanku)</string>
@@ -748,6 +751,7 @@
   <string name="timeoffset">Časový posun oproti serveru (v hodinách)</string>
   <string name="title_no_widow">Zabránit sirotkům v názvech článků?</string>
   <string name="title_only">/název</string>
+  <string name="tz_timezone">Časové pásmo</string>
   <string name="updated">upraven(a/o)</string>
   <string name="updated_branch_version_available">Existuje novější verze této větve Textpattern. Chceš ji <a href="http://textpattern.com/download" rel="external">vyzkoušet</a>?</string>
   <string name="update_languages">Stáhnout poslední překlady</string>
@@ -766,6 +770,7 @@
   <string name="ago">zpět</string>
   <string name="all">Všechny</string>
   <string name="already_exists">již existuje</string>
+  <string name="ambiguous_tag">Nesprávný formát uzavíracího tagu:</string>
   <string name="any">Kdykoliv</string>
   <string name="articles">Články</string>
   <string name="articles_found">článků nalezeno</string>
@@ -877,6 +882,7 @@
   <string name="list_categories">výpis kategorií</string>
   <string name="list_links">výpis odkazů</string>
   <string name="live">Vydáno</string>
+  <string name="lonely_closing_tag">Uzavírací tag bez odpovídajícího otevíracího tagu:</string>
   <string name="lowercase">malá</string>
   <string name="main_content">Hlavní obsah</string>
   <string name="manual">Ručně</string>
@@ -950,6 +956,7 @@
   <string name="subscript">dolní index</string>
   <string name="superscript">horní index</string>
   <string name="tag_error">Chyba značky:</string>
+  <string name="tag_mismatch">Otevírací a uzavírací tag se neshodují:</string>
   <string name="textile_help">Příkazy Textile</string>
   <string name="textile_lite_help">Příkazy Textile Lite</string>
   <string name="text_conversion">Převod textu</string>
@@ -960,12 +967,14 @@
   <string name="tooltip">Nápověda odkazu</string>
   <string name="too_common_search_term">Zdá se, že vyhledávací dotaz byl formulován příliš obecně. Zkuste použít konkrétnější.</string>
   <string name="type">Druh</string>
+  <string name="unclosed_tag">Otevírací tag bez odpovídajícího uzavíracího tagu:</string>
   <string name="undefined">Nedefinován(a/o)</string>
   <string name="unknown_attribute">Neznámý parametr příkazu: {att}.</string>
   <string name="unknown_callback_function">Neznámá callback funkce: {function}.</string>
   <string name="unknown_image">Neznámý obrázek</string>
   <string name="unknown_section">Neznámá rubrika</string>
   <string name="unknown_tag">značka neexistuje</string>
+  <string name="unregistered_tag">neregistrovaný tag</string>
   <string name="untitled">Bez názvu</string>
   <string name="update">Upravit</string>
   <string name="upload">Nahrát</string>

@@ -228,6 +228,7 @@
   <string name="last_modified">Última modificación</string>
   <string name="links">Enlaces</string>
   <string name="link_category">Categoría</string>
+  <string name="list_options">Opciones de lista</string>
   <string name="logged_in_as">Has entrado como</string>
   <string name="login">Acceso</string>
   <string name="login_to_textpattern">Entrar a Textpattern</string>
@@ -525,6 +526,7 @@
   <string name="replace_image">Sustituir imagen</string>
   <string name="save_these_settings_as_default">Guardar configuración como predeterminada</string>
   <string name="search_images">Buscar imágenes</string>
+  <string name="swap_values">Intercambiar valores</string>
   <string name="thumbnail_deleted">Miniatura borrada.</string>
   <string name="thumbnail_not_saved">¡Miniatura <strong>{id}</strong> <em>no</em> guardada!</string>
   <string name="thumbnail_saved">Miniatura <strong>{id}</strong> guardada.</string>
@@ -619,6 +621,7 @@
   <string name="previewing_plugin">Previsualizando plugin:</string>
   <string name="verify_plugin">Verificar plugin</string>
   <string name="active_language">Idioma activo</string>
+  <string name="active_language_ui">Idioma de usuario</string>
   <string name="admin_side_plugins">¿Usar plugins administrativos?</string>
   <string name="advanced_preferences">Avanzadas</string>
   <string name="allow_article_php_scripting">¿Permitir PHP en los artículos?</string>
@@ -748,6 +751,7 @@
   <string name="timeoffset">Diferencia horaria (horas)</string>
   <string name="title_no_widow">¿Evitar palabras viudas en los títulos de los artículos?</string>
   <string name="title_only">/titulo</string>
+  <string name="tz_timezone">Zona horaria</string>
   <string name="updated">Actualizado</string>
   <string name="updated_branch_version_available">Está disponible una actualización de esta versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">descargarla</a>?</string>
   <string name="update_languages">Actualizar idiomas</string>
@@ -766,6 +770,7 @@
   <string name="ago">atrás</string>
   <string name="all">Todos</string>
   <string name="already_exists">ya existe</string>
+  <string name="ambiguous_tag">Etiqueta de cierre en formato incorrecto:</string>
   <string name="any">Indistinto</string>
   <string name="articles">Artículos</string>
   <string name="articles_found">artículos encontrados</string>
@@ -877,6 +882,7 @@
   <string name="list_categories">Lista de categorías</string>
   <string name="list_links">Lista de links</string>
   <string name="live">Publicado</string>
+  <string name="lonely_closing_tag">Etiqueta de cierre sin la etiqueta de apertura correspondiente:</string>
   <string name="lowercase">minúsculas</string>
   <string name="main_content">Contenido principal</string>
   <string name="manual">Instrucciones</string>
@@ -950,6 +956,7 @@
   <string name="subscript">subíndice</string>
   <string name="superscript">superíndice</string>
   <string name="tag_error">Error de etiqueta</string>
+  <string name="tag_mismatch">Etiqueta de apertura o cierre incorrecto:</string>
   <string name="textile_help">Ayuda Textile</string>
   <string name="textile_lite_help">Ayuda Textile Lite</string>
   <string name="text_conversion">Conversión de texto</string>
@@ -960,12 +967,14 @@
   <string name="tooltip">Enlace a la ayuda</string>
   <string name="too_common_search_term">Al parecer estás buscando un término demasiado común, tal vez deberías intentar hacer una búsqueda más concreta que</string>
   <string name="type">Tipo</string>
+  <string name="unclosed_tag">Etiqueta de apertura sin la correspondiente etiqueta de cierre:</string>
   <string name="undefined">Indefinido</string>
   <string name="unknown_attribute">Atributo de etiqueta desconocido: {att}.</string>
   <string name="unknown_callback_function">Función de rellamada desconocida: {función}.</string>
   <string name="unknown_image">Imagen desconocida.</string>
   <string name="unknown_section">Sección desconocida</string>
   <string name="unknown_tag">la etiqueta no existe</string>
+  <string name="unregistered_tag">Etiqueta no está registrada</string>
   <string name="untitled">Sin título</string>
   <string name="update">Actualizar</string>
   <string name="upload">Subir</string>

@@ -154,4 +154,154 @@
 </ul>
 <p>Test čistých URL se pokusí načíst stránku z adresy uvedené v nastavení serveru ‘Webová adresa’ (doména) s cílem ověřit, zda všechny parametry ‘hezkých’ URL fungují správně. V případě, že webová adresa je zadána chybně, nebo byla nahrazena statickou stránku apod., test selže. Dokud nebude problém vyřešen, budete muset na svých stránkách používat ošklivé adresy URL (<code>http://example.com/index.php?s=rubrika&amp;id=4</code>). Ujistěte se, že ‘Podoba stálých odkazů’ v nastavení serveru je nastavena odpovídajícím způsobem.</p>
 <p>Pozn.: použití pluginu k uvedení serveru do ‘režimu údržby’ může vyvolat toto varování.</p></string>
+  <string name="clean_url_test_failed"><h2>Diagnostika: Test hezkých URL adres selhal</h2>
+<p>Zdá se, že hezké URL adresy  (<code>http://example.com/rubrika/clanek</code>) v současné době nefungují, nebo váš server nepodporuje zkušební proceduru fungování. Pokud hezké URL na vašich stránkách přesto fungují, můžete tuto zprávu ignorovat.</p>
+<p>Pokud čisté URL nefungují, důvodem může být:</p>
+<ul>
+    <li>nastavení ‘Podoba stálých odkazů‘ není správné</li>
+    <li>váš server vyžaduje pro zprovoznění hezkých URL adres nějaké změny v <code>.htaccess</code></li>
+    <li>váš server hezké URL adresy (clean URL) vůbec nepodporuje</li>
+</ul>
+<p>Test čistých URL se pokusí načíst stránku z adresy uvedené v nastavení ’Webová adresa (doména)’ s cílem ověřit, zda všechny parametry hezkých URL fungují správně. V případě, že webová adresa je zadána chybně, nebo byla nahrazena statickou stránku apod., test selže. Dokud nebude problém vyřešen, budete muset na svých stránkách používat ošklivé adresy URL (<code>http://example.com?s=section&amp;id=4</code>). Ujistěte se, že ’Podoba stálých odkazů’ v nastavení serveru je nastavena odpovídajícím způsobem.</p></string>
+  <string name="cleanurl_only_apache"><h2>Diagnostika: Podpora hezkých URL adres</h2>
+<p>Hezké URL adresy (Clean URLs) jsou podporovány pouze webovým serverem Apache. Pokud váš server běží na jiné platformě, je používání hezkých URL nezaručené.</p></string>
+  <string name="dev_version_live"><h2>Diagnostika: Vývojová verze na živém serveru</h2>
+<p>Provozujete vývojovou verzi Textpattern, což se na živém webu nedoporučuje. Pokud je to záměrně, můžete toto varování ignorovat.</p></string>
+  <string name="dir_not_writable"><h2>Diagnostika: Do adresáře nelze zapisovat</h2>
+<p>Chcete-li používat funkce nahrávání souborů a obrázků, musí být adresáře ’images’ a ’files’ zapisovatelné pro PHP. Pravděpodobně budete muset změnit oprávnění pro zápis do adresářů na hodnotu 755. To lze provést pomocí FTP klienta, nebo alternativně v příkazovém řádku příkazem <code>chmod 755 /path/to/dir</code>.</p></string>
+  <string name="dns_lookup_fails"><h2>Diagnostika: DNS selhal</h2>
+<p>Zdá se, že URL adresa zadaná jako adresa vašeho webu je nedostupná.</p></string>
+  <string name="file_uploads_disabled"><h2>Diagnostika: Nahrávání souborů je zakázáno</h2>
+<p>Aktuální konfigurací serveru je nahrávání souborů zakázáno, takže nebudete moci nahrávat pomocí Textpatternu soubory ani obrázky. Zkontrolujte a změňte nastavení <code>file_uploads</code> v souboru <code>php.ini</code> (nebo o změnu požádejte svého hostitele).</p></string>
+  <string name="htaccess_missing"><h2>Diagnostika: Soubor .htaccess neexistuje</h2>
+<p>Používáte takové nastavení Podoby stálých odkazů, jež vyžaduje soubor <code>.htaccess</code>, který má být umístěný v kořenovém adresáři webu. V tomto souboru doporučujeme použít následující příkazy:</p>
+<pre><code>&lt;IfModule mod_rewrite.c&gt;
+    RewriteEngine On
+    #RewriteBase /relative/web/path/
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^(.+) - [PT,L]
+    RewriteCond %{REQUEST_URI} !=/favicon.ico
+    RewriteRule ^(.*) index.php
+    RewriteCond %{HTTP:Authorization}  !^$
+    RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+&lt;/IfModule&gt;</code></pre></string>
+  <string name="index_inaccessible"><h2>Diagnostika: Soubor index.php je nedostupný</h2>
+<p>Soubor <code>index.php</code> určený pro vaše stránky jako základní je pro server nečitelný. Zkontrolujte oprávnění.</p></string>
+  <string name="missing_files"><h2>Diagnostika: Chybějící soubory</h2>
+<p>Ve vaší instalaci systému Textpattern chybí některé základní soubory. Ujistěte se, že všechny uvedené soubory jsou na serveru k dispozici a jsou na správných místech.</p></string>
+  <string name="mod_rewrite_missing"><h2>Diagnostika: Apache mudul mod_rewrite chybí</h2>
+<p>Modul Apache <code>mod_rewrite</code> není nainstalován, nebo není povolen. Je doporučený pro správné fungování Textpatternu. Zkontrolujte správně nastavení v souboru <code>.htaccess</code>, nebo se obraťte o pomoc na svého hostitele.</p></string>
+  <string name="modified_files"><h2>Diagnostika: Změněné soubory</h2>
+<p>Soubor je označený jako pozměněný, jestliže se jeho kontrolní součet liší od posledního známého. Pokud se některé soubory v instalaci systému Textpattern liší od původního očekávání, jsou zde označeny. Nemusí se nutně jednat o problém, pokud nemáte problémy s funkčností vašeho webu, v opačném případě proveďte kontrolu.</p></string>
+  <string name="mysql_table_errors"><h2>Diagnostika: Chyby v tabulce MySQL</h2>
+<p>Něco se pravděpodobně pokazilo ve vaší MySQL databázi. Pokud máte přístup k nástrojům MySQL, jako je <a rel="external" target="_blank" href="https://www.phpmyadmin.net">phpMyAdmin <span class="ui-icon ui-icon-extlink">(otevře odkaz v novém okně)</span></a>, zkuste dotčené tabulky opravit.</p></string>
+  <string name="no_temp_dir"><h2>Diagnostika: Adresář dočasných souborů není určen</h2>
+<p>Jestliže Textpattern běží bez adresáře dočasných souborů, některé funkce nemusí pracovat podle očekávání. Podívejte se do nastavení a zadejte cestu k ‘adresáři dočasných souborů’.</p></string>
+  <string name="old_files"><h2>Diagnostika: Zastaralé soubory</h2>
+<p>Některé soubory Textpatternu jsou zastaralé a měly by být nahrazeny jejich nejnovějšími verzemi příslušné stabilní verze Textpatternu.</p></string>
+  <string name="old_placeholder_exists"><h2>Diagnostics: Section placeholder file exists</h2>
+<p>As of Textpattern version 4.0, section placeholder files are no longer required, and will conflict with the the new <code>.htaccess</code> scheme. If the reported files are placeholders, please delete them.</p></string>
+  <string name="path_not_doc_root"><h2>Diagnostika: path_to_site se neshoduje</h2>
+<p>Dvě proměnné nastavení webového serveru by se měly shodovat, ale neshodují.</p></string>
+  <string name="path_to_site_inacc"><h2>Diagnostika: Nelze číst z kořenového adresáře</h2>
+<p>Nelze číst z adresáře obsahujícího soubor <code>index.php</code>. Zkontrolujte oprávnění.</p></string>
+  <string name="php_version_required"><h2>Diagnostika: Minimální požadavky verze</h2>
+<p>Textpattern vyžaduje určité funkce programovacího jazyka PHP a databázového serveru MySQL. Prohlédněte si následující tabulku minimálních systémových požadavků pro vaši verzi systému Textpattern:</p>
+<div class="txp-listtables">
+    <table class="txp-list">
+        <thead>
+            <tr>
+                <th scope="col">Verze systému Textpattern</th>
+                <th scope="col">Minimální verze PHP</th>
+                <th scope="col">Minimální verze MySQL</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">4.6.x</th>
+                <td>5.3.3</td>
+                <td>4.1</td>
+            </tr>
+            <tr>
+                <th scope="row">4.5.x</th>
+                <td>5.2.3</td>
+                <td>4.1</td>
+            </tr>
+            <tr>
+                <th scope="row">4.0.1 - 4.4.1</th>
+                <td>4.3</td>
+                <td>3.23</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<p>Kromě výše uvedených požadavků na systém jsou požadovány následující rozšíření PHP:</p>
+<ul>
+    <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.mysql.php">MySQL <span class="ui-icon ui-icon-extlink">(otevře odkaz v novém okně)</span></a></li>
+    <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.xml.php">XML <span class="ui-icon ui-icon-extlink">(otevře odkaz v novém okně)</span></a></li>
+    <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.json.php">JSON <span class="ui-icon ui-icon-extlink">(otevře odkaz v novém okně)</span></a></li>
+</ul>
+<p>Váš soubor <code>php.ini</code> - globální nebo lokální - by měl obsahovat nastavení <code>date.timezone</code>.</p></string>
+  <string name="setup_still_exists"><h2>Diagnostika: složka \'setup\' v adresáři textpattern stále existuje</h2>
+<p>Poté co je Textpattern nainstalován, adresář <code>textpattern/setup</code> a jeho obsah již není potřeba a měl by být smazán. Toto varování bude zobrazováno, dokud složka nebude odstraněna, protože by mohla být potenciálním bezpečnostním rizikem.</p></string>
+  <string name="site_url_mismatch"><h2>Diagnostika: chybná URL adresa</h2>
+<p>Adresa URL webu uvedená v Nastavení/Server neodpovídá skutečné adrese URL, kterou používáte pro prohlížení svých webových stránek.</p>
+<p>Pokud jsou vaše webové stránky dosažitelné prostřednictvím více různých adres URL, nebo v případě, že odkazy na vašich webových stránkách fungují správně, můžete toto upozornění bez obav ignorovat.</p>
+<p>V opačném případě je doporučeno opravit nastavení ‘Webová adresa (doména)‘ v předvolbách Nastavení. Kvalifikovaný odhad správné adresy URL webu je zobrazen ve zprávě Poslední kontrola před odletem na kartě Diagnostika.</p></string>
+  <string name="some_php_functions_disabled"><h2>Diagnostika: Následující funkce PHP: [&#8230;] jsou na serveru vypnuty</h2>
+<p>To znamená, že vaše hostingová společnost nebo správce serveru zakázal jednu nebo více PHP funkcí, z nichž některé mohou mít vliv na chod Textpatternu.</p>
+<p>Navštivte <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/diagnostics-panel">Textpattern User Documentation<span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> pro další informace.</p></string>
+  <string name="textpattern_version_update"><h2>Diagnostika: aktualizace Textpattern CMS</h2>
+<p>K dispozici je novější verze Textpattern CMS. Chcete-li využít nejnovějších funkcí a zvýšit bezpečnost, je doporučeno provést upgrade.</p>
+<p>Ačkoliv se snažíme, aby upgrade byl bezproblémový, vezměte v úvahu následující:</p>
+<ul>
+    <li>Jestliže se pouze poslední číslice nové verze liší od vaší aktuální verze, je pravděpodobné, že bude zpětně kompatibilní s pluginy a tématy vzhledu.</li>
+    <li>V případě, že se liší poslední dvě číslice od vaší aktuální verze, upgrade může vyžadovat aktualizaci některých pluginů, nebo témat vzhledu, i když vše bude pravděpodobně nadále v omezené míře fungovat.</li>
+    <li>Pokud je odlišná první číslice nové verze od vaší aktuální verze, upgrade bude pravděpodobně vyžadovat aktualizace většiny pluginů a témat. Pokud je funkce webu závislá na konkrétním pluginu nebo tématu, obraťte se před zahájením upgradu na autora či komunitu.</li>
+</ul>
+<p>Pokud se zobrazí zpráva „Vyskytl se problém při pokusu připojit se k serveru RPC“, znamená to, že nemohla být ověřena existence nové verze, nebo že server může být mimo provoz. Aktualizace jsou kontrolovány každých 24 hodin, takže je pravděpodobné, že při příští návštěvě panelu Diagnostika bude všechno v pořádku.</p></string>
+  <string name="tmp_plugin_paths_match"><h2>Diagnostika: Nastavení cesty k Adresáři dočasných souborů a k Adresáři pro cache pluginů nemá být shodné </h2>
+<p>Pluginy by měly mít vlastní dočasný adresář, nikoli sdílet adresář dočasných souborů. Je to potenciální bezpečnostní riziko, které může nepříznivě ovlivnit vaše stránky. Ujistěte se, že cesta do adresáře dočasných souborů je odlišná od cesty do adresáře pro cache pluginů.</p></string>
+  <string name="update_still_exists"><h2>Diagnostika: složka \'update\' stále existuje</h2>
+<p>Jakmile byla provedena aktualizace systému Textpattern na vyšší verzi, adresář <code>textpattern/update</code> a jeho obsah nadále není potřeba a doporučujeme ho smazat. Toto varování bude zobrazováno, dokud složku <code>update</code> nesmažete.</p></string>
+  <string name="warn_mail_unavailable"><h2>Diagnostika: v instalaci PHP chybí funkce mail()</h2>
+<p>Funkce PHP <a rel="external" target="_blank" href="https://secure.php.net/manual/en/function.mail.php">mail <span class="ui-icon ui-icon-extlink">(otevře odkaz v novém okně)</span></a> je vypnuta. Proto Textpattern nebude moci odesílat e-maily a nebudou k dispozici některé funkce. Například nebudou odeslána e-mailová upozornění na nové komentáře, noví uživatelé neobdrží uvítací e-mail, atd. Nicméně noví uživatelé mohou být přidáváni.</p></string>
+  <string name="warn_register_globals_or_update"><h2>Diagnostika: Vypněte register_globals a přejděte na novější verzi PHP</h2>
+<p>V některých verzích PHP byla objevena závažná chyba týkající se kontroverzní starší funkce <a rel="external" target="_blank" href="https://secure.php.net/manual/en/security.globals.php">registered globals <span class="ui-icon ui-icon-extlink">(otevře odkaz v novém okně)</span></a>. To může vést k neočekávanému chování aplikace a v mnoha situacích potenciálně umožnit spuštění vzdáleného kódu PHP.</p><p>Zranitelné jsou verze PHP4 &lt;= 4.4.0 a PHP5 &lt;= 5.0.5. Měli byste aktualizovat na novější verzi PHP, nebo zkontrolovat, zda je <code>register_globals</code> vypnuté. Funkce <code>register_globals</code> se již nepoužívá ve verzi PHP 5.3.0 a odstraněna je od verze od PHP 5.4.0.</p><p>Funkci <code>register_globals</code> můžete vypnout v souboru <code>php.ini</code>. Možnost <code>register_globals</code> vypnout může být administraci hostingu, nebo požádejte hostilele. Jestliže PHP běží jako modul Apache, je možné <code>register_globals</code> vypnout pomocí konfiguračního souboru Apache <code>.htaccess</code>. V souboru <code>.htaccess</code> odkomentujte následující řádek odstraněním znaku # na začátku řádku:</ p>
+<pre><code>php_value register_globals 0</code></pre></string>
+  <string name="file_reassign"><h2>Soubory: Přiřadit soubor</h2>
+<p>Když nahraješ soubor na místo toho, který je označen jako chybějící, je vybraný soubor nahrán na server a jsou mu přiřazeny informace původního souboru v databázi. To znamená, že název původního souboru zůstane, stejně jako všechny další související informace, jako je počet stažení a kategorie. Velikost souboru odpovídá tomu novému.</p></string>
+  <string name="file_replace"><h2>Soubory: Nahradit soubor</h2>
+<p>Původní soubor bude jednoduše přepsán novým, ale původní jméno souboru zůstane zachováno. Rovněž ostatní informace o souboru jako je počet stažení, atd. zůstanou zachovány.</p></string>
+  <string name="upload"><h2>Soubory: Nahrát soubor</h2>
+<p>Tento formulář slouží k nahrávání souborů (i obrázkových) na server.</p>
+<p>Použij zápis Textile pro renderování grafiky uvnitř jednotlivých článků, pomocí tagů Textpattern lze umístit grafiku do šablony stránky, nebo pomocí HTML kdekoli jinde.</p></string>
+  <string name="forms_overview"><h2>Formy: Úvod</h2>
+<p>Formy v systému Textpattern jsou šablony z kousků textu, HTML a Textpattern tagů, které se používají pro zobrazení obsahu.</p>
+<p>Zde je příklad formy, která by mohla být pojmenována <code>seznam_clanku</code>:</p>
+<pre><code>&lt;li&gt;
+    &lt;txp:permlink&gt;
+        &lt;txp:title /&gt;
+    &lt;/txp:permlink&gt;
+&lt;/li&gt;</code></pre>
+<p>Můžeme ji použít pro html zápis nečíslovaného seznamu souvisejících článků:</p>
+<pre><code>&lt;txp:related_articles form="ordinary_list" wraptag="ul" /&gt;</code></pre>
+<p>Protože úkolem této formy je vypsat seznam článků, může být použita uvnitř jiných tagů, například pro zobrazení 20 článků z aktuální rubriky:</p>
+<pre><code>&lt;txp:article form="ordinary_list" limit="20" wraptag="ol" /&gt;</code></pre>
+<p>Formy můžete také použít k opakovanému zobrazení obsahu, například záhlaví a zápatí v šabloně stránky. To znamená, že obsah existuje pouze v jednom místě, a pokud se rozhodnete jej změnit, stačí to udělat jednou. Zobrazení obsahu formy se obvykle provádí pomocí tagu:</p>
+<pre><code>&lt;txp:output_form form="jmeno_formy" /&gt;</code></pre>
+<p>Forma může mít velikost až 64 KB. Například forma pro zápatí může obsahovat nadpisy, odstavce, odkazy, podmíněné tagy i odkazy na jiné formy, například <code>seznam_clanku</code>.</p></string>
+  <string name="create_thumbnail"><h2>Obrázky: Vytvořit náhled</h2>
+<p>Umožňuje vytvořit (nebo znovu vytvořit) z obrázku plné velikosti náhledový obrázek a určit mu rozměry.</p>
+<p>Lze zadat pouze jeden z rozmerů a druhý vyplnit nulou – ten bude dopočítán automaticky podle poměru stran obrázku.
+Zatržením volby “Oříznout” bude náhled oříznut od středu obrázku.</p></string>
+  <string name="replace_image_form"><h2>Obrázky: Nahradit obrázek</h2>
+<p>Obrázek, který sem nahraješ, prostě přepíše ten, který již pod tímto číslem v databázi existuje.</p></string>
+  <string name="upload_image"><h2>Obrázky: Nahrát obrázek</h2>
+<p>Nahrát jeden nebo více obrázků na server.</p>
+<p>Po nahrání obrázku do adresáře <code>images</code> zůstane původní jméno obrázku zachováno v databázi; současně je mu přiděleno nové jméno (id) ve tvaru pořadové číslo.přípona (např. 4444.jpg).</p></string>
+  <string name="upload_thumbnail"><h2>Obrázky: Nahrát náhled</h2>
+<p>K obrázkům plné velikosti je možné přiřadit jejich miniatury. To je užitečné při vytváření odkazů na obrázky nebo jejich přehledů.</p>
+<p>Odkaz na náhled obrázku se dělá stejně jako odkaz na obrázek s tím rozdílem, že ke jménu souboru se přidává písmeno <code>t</code>. Například odkaz na miniaturu obrázku plné velikosti uloženého v adresáři <code>/images/12.jpg</code> musí znít <code>/images/12t.jpg</code>.</p></string>
 </resources>

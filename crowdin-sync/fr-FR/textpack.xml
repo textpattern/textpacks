@@ -212,7 +212,7 @@
   <string name="excerpt">Résumé</string>
   <string name="expand_all">Déployer tout</string>
   <string name="expired">Expiré</string>
-  <string name="expire_date">Date d’expiration</string>
+  <string name="expire_date">Expiration</string>
   <string name="expire_time">Heure d’expiration</string>
   <string name="external_links">Liens externes</string>
   <string name="form_not_found">Module introuvable</string>
@@ -512,7 +512,7 @@
   <string name="image_deleted">Image(s) <strong>{name}</strong> effacée(s).</string>
   <string name="image_delete_failed">L’image <strong>{name}</strong> n’a pas pu être totalement effacée.</string>
   <string name="image_details">Détails de l’image</string>
-  <string name="image_name">Nom de l’image</string>
+  <string name="image_name">Nom du fichier image originel</string>
   <string name="image_save_error">Il s’est produit une erreur lors de la sauvegarde de l’image.</string>
   <string name="image_save_failed">Cette image n’a pas été enregistrée en raison d’une erreur. Veuillez essayer de nouveau.</string>
   <string name="image_updated">Image <strong>{name}</strong> mise à jour.</string>
@@ -614,13 +614,13 @@
   <string name="plugin_help">Aide du plugin</string>
   <string name="plugin_installed">Plugin <strong>{name}</strong> bien installé.</string>
   <string name="plugin_install_failed">L’installation du plugin <strong>{name}</strong> a <em>échoué</em> !</string>
-  <string name="plugin_modified">Plugin modifié</string>
+  <string name="plugin_modified">Modifié ?</string>
   <string name="plugin_prefs">Options</string>
   <string name="plugin_saved">Plugin <strong>{name}</strong> sauvegardé.</string>
   <string name="plugin_updated">Plugin <strong>{name}</strong> mis à jour.</string>
   <string name="previewing_plugin">Prévisualisation du plugin :</string>
   <string name="verify_plugin">Vérifiez le plugin</string>
-  <string name="active_language">Langue actuelle :</string>
+  <string name="active_language">Langue par défaut active </string>
   <string name="active_language_ui">Langue individuelle active </string>
   <string name="admin_side_plugins">Utiliser les plugins administratifs ?</string>
   <string name="advanced_preferences">Options avancées</string>
