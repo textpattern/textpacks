@@ -195,7 +195,7 @@
   <string name="changesection">Alterar seção</string>
   <string name="changestatus">Alterar situação</string>
   <string name="close">Fechar</string>
-  <string name="collapse_all">Collapse all</string>
+  <string name="collapse_all">Recolher tudo</string>
   <string name="comment">comentário</string>
   <string name="comments_expired">Não é mais possivel comentar este artigo.</string>
   <string name="confirm_delete_popup">Tem a certeza que quer excluir?</string>
@@ -210,7 +210,7 @@
   <string name="draft">Rascunho</string>
   <string name="duplicate">Duplicar</string>
   <string name="excerpt">Resumo</string>
-  <string name="expand_all">Expand all</string>
+  <string name="expand_all">Expandir tudo</string>
   <string name="expired">Expirado</string>
   <string name="expire_date">Data de validade</string>
   <string name="expire_time">Tempo de validade</string>
@@ -248,7 +248,7 @@
   <string name="salutation">Caro {name},</string>
   <string name="save_new">Salvar novo</string>
   <string name="search_all">Pesquisar todos</string>
-  <string name="search_clear">Clear search</string>
+  <string name="search_clear">Limpar Pesquisa</string>
   <string name="search_options">Opções da busca</string>
   <string name="showing_search_results">Mostrando {from} para {to} de {total}</string>
   <string name="site_slogan">Slogan do site</string>
@@ -361,10 +361,10 @@
   <string name="cleanurl_only_apache">As URLs \"limpas\" só são suportados pelo Apache, use-os por sua conta e risco.</string>
   <string name="clean_url_data_failed">A limpeza da URL de dados de teste falhou</string>
   <string name="clean_url_test_failed">O teste ao funcionamento das URLs \"limpas\" falhou!</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
+  <string name="db_global_timezone">Fuso horário de servidor de banco de dados</string>
+  <string name="db_server_time">Hora do servidor de banco de dados</string>
+  <string name="db_server_timeoffset">Deslocamento de tempo de servidor de banco de dados</string>
+  <string name="db_session_timezone">Fuso horário de sessão de banco de dados</string>
   <string name="detail">Detalhe</string>
   <string name="dev_version_live">Está utilizando arquivos de uma versão de desenvolvimento em um servidor aberto ao público.</string>
   <string name="diagnostic_info">Informação de diagnóstico</string>
@@ -705,7 +705,7 @@
   <string name="never_display_email">Nunca mostar endereço de email?</string>
   <string name="new_textpattern_version_available">Está disponível uma versão completamente nova do Textpattern. Quer experimenta-la?</string>
   <string name="no_popup">janela atual</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Sem preferências disponíveis.</string>
   <string name="override_emailcharset">No email usar ISO-8859-1 (UTF-8 por padrão)?</string>
   <string name="path_from_root">Subdiretório (se existir)</string>
   <string name="path_to_site_missing">O Caminho para o Site <code>$path_to_site</code> não está definido (atualizar <code>index.php</code>)</string>
@@ -713,7 +713,7 @@
   <string name="permlink_format">Padrão de URL  de link permanente</string>
   <string name="permlink_hyphenated">Hifenizada (título-como-isso)</string>
   <string name="permlink_intercapped">Intercapped (TitleLikeThis)</string>
-  <string name="permlink_mode">Article URL pattern</string>
+  <string name="permlink_mode">Padrão de URL do artigo</string>
   <string name="ping_textpattern_com">Notificar textpattern.com?</string>
   <string name="ping_weblogsdotcom">Notificar pingomatic.com?</string>
   <string name="plugin_cache_dir">Caminho para a \"cache\" dos Plugins</string>
@@ -827,7 +827,7 @@
   <string name="deprecated_function">Função <strong>{name}</strong> esta depreciada.</string>
   <string name="deprecated_function_with">Função <strong>{name}</strong> esta depreciada: use <strong>{with}</strong> estanciado.</string>
   <string name="deprecated_tag">\"tag\" esta depreciada.</string>
-  <string name="documentation">Documentation</string>
+  <string name="documentation">Documentação</string>
   <string name="download_count">contagem de transferências</string>
   <string name="edit">Editar</string>
   <string name="email">Email</string>
@@ -849,7 +849,7 @@
   <string name="form">Módulo</string>
   <string name="forms">Módulos</string>
   <string name="go">ok</string>
-  <string name="go_back">Go back</string>
+  <string name="go_back">Voltar</string>
   <string name="go_content">Ir para o conteúdo</string>
   <string name="go_nav">Ir para a navegação</string>
   <string name="go_search">Ir para a pesquisa</string>
@@ -897,16 +897,16 @@
   <string name="next">Seguinte</string>
   <string name="no">Não</string>
   <string name="none">Nenhum</string>
-  <string name="nopopup">current window</string>
+  <string name="nopopup">janela atual</string>
   <string name="no_comments">Não existem comentários para este artigo.</string>
   <string name="no_search_matches">Desculpe, nenhum resultado encontrado para sua busca</string>
   <string name="numeric_list">Lista numérica</string>
-  <string name="of">of</string>
+  <string name="of">de</string>
   <string name="off">Não</string>
   <string name="older">Mais velho</string>
   <string name="on">Sim</string>
   <string name="only_articles_can_be_previewed"><strong>Nota:</strong> Só os módulos de artigo podem ser pré-visualizados.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
+  <string name="opens_external_link">(abre um link externo em uma nova janela)</string>
   <string name="page">Página</string>
   <string name="pages">Páginas</string>
   <string name="paragraph">parágrafo</string>
@@ -914,7 +914,7 @@
   <string name="permlink">Link permanente</string>
   <string name="plugin_load_error">Um problema ocorreu durante o carregamento do plugin:</string>
   <string name="plugin_load_error_above">Os erros acima descritos foram causados pelo plugin:</string>
-  <string name="popup">popup window</string>
+  <string name="popup">janela popup</string>
   <string name="post">Publicar</string>
   <string name="posted">Publicado</string>
   <string name="posted_by">Publicado por</string>
@@ -1012,7 +1012,7 @@
   <string name="about_to_create">Agora vamos criar e configurar as tabelas da base de dados.</string>
   <string name="add_config_file">Arquivo de configuração</string>
   <string name="admin_theme">Tema da administração</string>
-  <string name="already_installed">Parece que o Textpattern já está instalado. Se quiser fazer uma instalação de nova (limpa), remova o arquivo <code>config.php</code> da sua directoria <code>/textpattern/</code> e tente de novo.</string>
+  <string name="already_installed">Parece que o Textpattern já está instalado. Se quiser fazer uma instalação de nova (limpa), remova o arquivo <code>config.php</code> do seu diretório <code>/textpattern/</code> e tente de novo.</string>
   <string name="back">Voltar</string>
   <string name="before_you_proceed">Antes de continuar:</string>
   <string name="checking_database">Verificando conexão com base de dados</string>
@@ -1044,7 +1044,7 @@
   <string name="next_step">Próximo</string>
   <string name="pass_required">Por favor, forneça uma senha mais forte.</string>
   <string name="please_enter_url">Por favor, informe o endereço web do seu site</string>
-  <string name="please_go_back">Por favor volte, corrija quaisquer dados incorrectos e tente o processo novamente.</string>
+  <string name="please_go_back">Por favor volte, corrija quaisquer dados incorretos e tente o processo novamente.</string>
   <string name="populate_db">Populando banco de dados</string>
   <string name="prefix_bad_characters">O prefixo <strong>{dbprefix}</strong> da tabela contem caracteres não autorizados. O primeiro caracter deverá pertencer ao conjunto <strong>a-zA-Z_</strong> e todos os seguintes deverão pertencer ao conjunto <strong>a-zA-Z0-9_</strong>.</string>
   <string name="prefix_warning">(Usar <strong>somente</strong> se precisar de múltiplas instalações numa única base de dados)</string>

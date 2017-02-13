@@ -4,8 +4,6 @@
   <string name="lang_name">Português (Portugal)</string>
   <string name="lang_code">pt-PT</string>
   <string name="lang_dir">ltr</string>
-  <string name="account_activation">Please activate your account</string>
-  <string name="account_activation_confirmation">Please use the link below to activate your account and set up a password.</string>
   <string name="add_new_author">Adicionar autor</string>
   <string name="and_mailed_to">e enviado para</string>
   <string name="assign_assets_to">Atribuir conteudo do utilizador a</string>
@@ -21,16 +19,12 @@
   <string name="copy_editor">Editor de Textos</string>
   <string name="could_not_mail">Não foi possível enviar o email</string>
   <string name="could_not_update_author">Não foi possível a actualização do autor</string>
-  <string name="current_password">Current password</string>
-  <string name="designer">Designer</string>
   <string name="edit_author">Editar autor</string>
   <string name="email_changed">O endereço de email mudou para <strong>{email}</strong>.</string>
   <string name="error_adding_new_author">Erro ao adicionar o novo autor</string>
   <string name="freelancer">Escritor Freelancer</string>
   <string name="last_login">Última entrada</string>
-  <string name="link_expires">You have until {day} {month} {year}, {time} to respond before this link expires.</string>
   <string name="login_name">Nome de registo</string>
-  <string name="login_sent_to">Password sent to {email}.</string>
   <string name="log_in_at">Acede em</string>
   <string name="mail_it">Enviar por email</string>
   <string name="managing_editor">Editor Chefe</string>
@@ -39,10 +33,7 @@
   <string name="new_password">Nova senha</string>
   <string name="password_changed">A senha mudou.</string>
   <string name="password_changed_mailed">A senha foi alterada e enviada por email para: <strong>{email}</strong>.</string>
-  <string name="password_change_confirmation">Your password has been changed. If you did not request a change to your password, contact your site administrator.</string>
-  <string name="password_confirm_button">Set password</string>
   <string name="password_forgotten">Esqueceu-se da sua senha?</string>
-  <string name="password_invalid">Your password is incorrect.</string>
   <string name="password_required">Por favor, introduza uma nova senha.</string>
   <string name="password_reset">Re-inicializar senha</string>
   <string name="password_reset_button">Re-inicializar senha</string>
@@ -50,24 +41,12 @@
   <string name="password_reset_confirmation_request">Por favor, confirme o pedido de re-inicialização da sua senha</string>
   <string name="password_reset_confirmation_request_sent">Uma mensagem de confirmação foi enviada para o seu endereço de email. Verifique a sua caixa de correio e siga as instruções.</string>
   <string name="password_sent_to">Senha enviada para</string>
-  <string name="password_set">Your password has been set</string>
-  <string name="password_set_confirmation">Your password has been set. If you did not request this, contact your site administrator.</string>
-  <string name="password_strength_0">Poor</string>
-  <string name="password_strength_1">Weak</string>
-  <string name="password_strength_2">Fair</string>
-  <string name="password_strength_3">Good</string>
-  <string name="password_strength_4">Strong</string>
   <string name="privileges">Previlégios</string>
   <string name="privs_none">Nenhum</string>
   <string name="publisher">Proprietário (Publisher)</string>
   <string name="real_name">Nome Real</string>
-  <string name="resend_activation">Resend activation link</string>
-  <string name="resend_activation_request_sent">Activation message sent to {name}.</string>
   <string name="resetpassword">Re-inicializar a senha</string>
   <string name="reset_author_password">Re-inicializar a senha do autor</string>
-  <string name="search_users">Search users</string>
-  <string name="set_password">Set your password</string>
-  <string name="show_password">Show password</string>
   <string name="site_administration">Configuração</string>
   <string name="staff_writer">Escritor</string>
   <string name="unknown_author">Autor desconhecido: <strong>{name}</strong>.</string>
@@ -77,7 +56,6 @@
   <string name="your_new_password">A sua nova senha</string>
   <string name="your_password_is">A sua senha é</string>
   <string name="you_have_been_registered">Foi registado como colaborador do sítio</string>
-  <string name="add_new_article">Create new article</string>
   <string name="advanced_options">Opções avançadas</string>
   <string name="article_day">Dia</string>
   <string name="article_expires_before_postdate">Erro: O artigo expira <strong>antes</strong> da data de colocação.</string>
@@ -107,13 +85,11 @@
   <string name="expires">Expira</string>
   <string name="invalid_postdate">Hora ou data inválida.</string>
   <string name="linktext">texto da ligação</string>
-  <string name="meta">Meta</string>
   <string name="no_articles_recorded">Nenhum artigo até agora.</string>
   <string name="or_publish_at">&#8230;ou publicar em</string>
   <string name="override_default_form">Módulo Alternativo</string>
   <string name="pending">Pendente</string>
   <string name="reset_time">Usar a hora actual</string>
-  <string name="search_articles">Search articles</string>
   <string name="set_to_now">Utilizar data/hora actual</string>
   <string name="sort_display">Classificação</string>
   <string name="textfilter_help">Ajuda à formatação de texto</string>
@@ -122,7 +98,6 @@
   <string name="url_title_is_blank">O texto do URL foi deixado em branco.</string>
   <string name="url_title_is_multiple">O mesmo texto do URL foi usado por {count} artigos diferentes.</string>
   <string name="view_html">Ver código HTML</string>
-  <string name="view_html_short">HTML</string>
   <string name="view_preview">Prever artigo</string>
   <string name="view_preview_short">Prever</string>
   <string name="view_text">Editar texto do artigo</string>
@@ -132,7 +107,6 @@
   <string name="article_category">Categoria de artigo</string>
   <string name="article_category_already_exists">A categoria de artigo <strong>{name}</strong> já existe!</string>
   <string name="article_category_created">A categoria de artigo <strong>{name}</strong> foi criada.</string>
-  <string name="article_category_description">Article category description</string>
   <string name="article_category_invalid">O nome da categoria de artigo <strong>{name}</strong> é inválido.</string>
   <string name="article_category_name">Nome da categoria de artigo</string>
   <string name="article_category_title">Título da categoria de artigo</string>
@@ -146,7 +120,6 @@
   <string name="file_categories_deleted">Categorias de ficheiro apagadas: <strong>{list}</strong>.</string>
   <string name="file_category_already_exists">A categoria de ficheiro <strong>{name}</strong> já existe!</string>
   <string name="file_category_created">A categoria de ficheiro <strong>{name}</strong> foi criada.</string>
-  <string name="file_category_description">File category description</string>
   <string name="file_category_invalid">O nome da categoria de ficheiro <strong>{name}</strong> é inválido.</string>
   <string name="file_category_name">Nome da categoria de ficheiro</string>
   <string name="file_category_title">Título da categoria de ficheiro</string>
@@ -155,7 +128,6 @@
   <string name="image_categories_deleted">Categorias de imagem apagadas: <strong>{list}</strong>.</string>
   <string name="image_category_already_exists">A categoria de imagem <strong>{name}</strong> já existe!</string>
   <string name="image_category_created">A categoria de imagem <strong>{name}</strong> foi criada.</string>
-  <string name="image_category_description">Image category description</string>
   <string name="image_category_invalid">O nome da categoria de imagem <strong>{name}</strong> é inválido.</string>
   <string name="image_category_name">Nome da categoria de imagem</string>
   <string name="image_category_title">Título da categoria de imagem</string>
@@ -164,7 +136,6 @@
   <string name="link_categories_deleted">Categorias de ligação apagadas: <strong>{list}</strong>.</string>
   <string name="link_category_already_exists">A categoria de ligação <strong>{name}</strong> já existe!</string>
   <string name="link_category_created">A categoria de ligação <strong>{name}</strong> foi criada.</string>
-  <string name="link_category_description">Link category description</string>
   <string name="link_category_invalid">O nome da categoria de ligação <strong>{name}</strong> é inválido.</string>
   <string name="link_category_name">Nome da categoria de ligação</string>
   <string name="link_category_title">Título da categoria de ligação</string>
@@ -183,7 +154,6 @@
   <string name="back_to_login">De volta ao Textpattern login</string>
   <string name="bad_cookie">Cookie inválida. Por favor, insira os seus dados de acesso.</string>
   <string name="body">Corpo</string>
-  <string name="cancel">Cancel</string>
   <string name="cannot_instantiate_theme">O tema <strong>{name}</strong> ({class}) não foi correctamente carregado a partir de {path}. O tema Classico será usado por defeito.</string>
   <string name="category">Categoria</string>
   <string name="changeauthor">Mudar autor</string>
@@ -195,7 +165,6 @@
   <string name="changesection">Mudar secção</string>
   <string name="changestatus">Mudar de estado</string>
   <string name="close">Fechar</string>
-  <string name="collapse_all">Collapse all</string>
   <string name="comment">Comentário</string>
   <string name="comments_expired">Expirou a data para comentar este artigo.</string>
   <string name="confirm_delete_popup">Tem a certeza que quer apagar?</string>
@@ -210,10 +179,7 @@
   <string name="draft">Rascunho</string>
   <string name="duplicate">Duplicado</string>
   <string name="excerpt">Resumo</string>
-  <string name="expand_all">Expand all</string>
   <string name="expired">Expirado</string>
-  <string name="expire_date">Expire date</string>
-  <string name="expire_time">Expire time</string>
   <string name="external_links">Links externos</string>
   <string name="form_not_found">Módulo não encontrado</string>
   <string name="form_not_specified">Módulo não especificado.</string>
@@ -241,19 +207,12 @@
   <string name="password">Senha</string>
   <string name="per_page">por página</string>
   <string name="published_with">Publicado com</string>
-  <string name="publish_date">Publish date</string>
-  <string name="publish_time">Publish time</string>
   <string name="range">Intervalo</string>
   <string name="restricted_area">Área reservada.</string>
-  <string name="salutation">Dear {name},</string>
   <string name="save_new">Guardar novo</string>
-  <string name="search_all">Search all</string>
-  <string name="search_clear">Clear search</string>
-  <string name="search_options">Search options</string>
   <string name="showing_search_results">A mostrar {from} a {to} de {total}</string>
   <string name="site_slogan">Slogan do sítio</string>
   <string name="sort_value">Valor para ordenação</string>
-  <string name="spam">Spam</string>
   <string name="stay_logged_in">Permanecer registado neste browser</string>
   <string name="sticky">Persistente</string>
   <string name="structure">Estrutura</string>
@@ -272,12 +231,10 @@
   <string name="tab_logs">Registos</string>
   <string name="tab_organise">Categorias</string>
   <string name="tab_pages">Páginas</string>
-  <string name="tab_plugins">Plugins</string>
   <string name="tab_preferences">Preferências</string>
   <string name="tab_presentation">Apresentação</string>
   <string name="tab_sections">Secções</string>
   <string name="tab_site_admin">Configuração</string>
-  <string name="tab_skins">Skins</string>
   <string name="tab_start">Inicio</string>
   <string name="tab_style">Estilos</string>
   <string name="tab_view_site">Ver o sítio</string>
@@ -289,21 +246,6 @@
   <string name="txpnl2br">Só Quebras de Linha</string>
   <string name="txprawxhtml">Só HTML</string>
   <string name="txpstriptags">Retirar etiquetas</string>
-  <string name="txptextile">Textile</string>
-  <string name="txptextilelite">Textile Lite</string>
-  <string name="txt_quote_double_close">”</string>
-  <string name="txt_quote_double_open">“</string>
-  <string name="txt_quote_single_close">’</string>
-  <string name="txt_quote_single_open">‘</string>
-  <string name="units_b">B</string>
-  <string name="units_e">EB</string>
-  <string name="units_g">GB</string>
-  <string name="units_k">kB</string>
-  <string name="units_m">MB</string>
-  <string name="units_p">PB</string>
-  <string name="units_t">TB</string>
-  <string name="units_y">YB</string>
-  <string name="units_z">ZB</string>
   <string name="unmoderated">Não moderado</string>
   <string name="upload_err_cant_write">Não foi possível a colocação do ficheiro no disco do servidor.</string>
   <string name="upload_err_extension">Colocação de ficheiro no servidor interrompida por Extensão PHP.</string>
@@ -335,7 +277,6 @@
   <string name="css_name_required">Por favor, atribua um nome à sua folha de estilos.</string>
   <string name="css_property_value">Propriedade : Valor</string>
   <string name="css_save_failed">O estilo não foi guardado devido a um erro. por favor, tente de novo.</string>
-  <string name="css_selector">Selector</string>
   <string name="css_updated">A folha de estilos <strong>{name}</strong> foi actualizada.</string>
   <string name="css_used_by_section">A folha de estilos <strong>{name}</strong> não foi apagada porque é usada por {count} secção/secções.</string>
   <string name="delete_declaration">Apagar esta declaração</string>
@@ -350,7 +291,6 @@
   <string name="save_css_as">Guardar folha de estilos como:</string>
   <string name="save_this_declaration">Guardar esta declaração</string>
   <string name="save_this_selector">Guardar este selector</string>
-  <string name="selector">Selector</string>
   <string name="style_sheet">Folha de estilos CSS</string>
   <string name="style_sheet_saved">Folha de estilos CSS guardada</string>
   <string name="you_are_editing_css">Está a editar a folha de estilos CSS</string>
@@ -361,10 +301,6 @@
   <string name="cleanurl_only_apache">Os URLs \"limpos\" só são suportados pelo Apache, use-os por sua conta e risco.</string>
   <string name="clean_url_data_failed">Teste para URL limpa falhou</string>
   <string name="clean_url_test_failed">O teste ao funcionamento dos URLs \"limpos\" falhou.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
   <string name="detail">Detalhe</string>
   <string name="dev_version_live">Está a utilizar ficheiros de uma versão de desenvolvimento num servidor aberto ao público.</string>
   <string name="diagnostic_info">Informação de diagnóstico</string>
@@ -373,7 +309,6 @@
   <string name="document_root">Directório \"Raíz\" dos documentos</string>
   <string name="file_uploads_disabled">A subida de ficheiros não está autorizada</string>
   <string name="gd_info">{version}; formatos suportados: {supported}.</string>
-  <string name="gd_library">GD Graphics Library</string>
   <string name="high">Alto</string>
   <string name="htaccess_contents">Conteúdo do ficheiro .htaccess</string>
   <string name="htaccess_missing">O ficheiro .htaccess está em falta</string>
@@ -381,7 +316,6 @@
   <string name="is_inaccessible">não é acessível</string>
   <string name="last_update">Última actualização</string>
   <string name="low">Baixo</string>
-  <string name="magic_quotes">Magic quotes</string>
   <string name="missing_files">Ficheiros em falta</string>
   <string name="modified_files">Alguns ficheiros do Textpattern foram modificados</string>
   <string name="mod_rewrite_missing">O módulo de Apache <code>mod_rewrite</code> não está instalado.</string>
@@ -441,7 +375,6 @@
   <string name="name_used">Nome utilizado</string>
   <string name="no_comments_recorded">Nenhum comentário até agora.</string>
   <string name="no_ips_banned">Nenhum IP foi bloqueado.</string>
-  <string name="search_comments">Search comments</string>
   <string name="show">Mostrar</string>
   <string name="show_spam">Mostrar spam</string>
   <string name="unban">Desbloquear</string>
@@ -464,7 +397,6 @@
   <string name="file_relink">Subir/ligar ficheiro</string>
   <string name="file_status">Estado do ficheiro</string>
   <string name="file_status_missing">Em falta</string>
-  <string name="file_status_ok">OK</string>
   <string name="file_unsynchronized">O ficheiro <strong>{name}</strong> não está sincronizado com a base de dados. Por favor, corrija manualmente o nome do ficheiro.</string>
   <string name="file_updated">O ficheiro <strong>{name}</strong> foi actualizado.</string>
   <string name="file_uploaded">O ficheiro <strong>{name}</strong> foi colocado no servidor.</string>
@@ -481,7 +413,6 @@
   <string name="reset_download_count">Reinicia contagem de descargas</string>
   <string name="reset_file_count_failure">Não foi possível re-inicializar o contador de descargas</string>
   <string name="reset_file_count_success">O contador de descargas foi re-inicializado</string>
-  <string name="search_files">Search files</string>
   <string name="all_forms">Todos os módulos</string>
   <string name="changetype">Mudar tipo</string>
   <string name="create_new_form">Criar módulo</string>
@@ -506,11 +437,9 @@
   <string name="choose_either_width_height_or_both">Escolher largura ou altura ou ambas</string>
   <string name="create_thumbnail">Criar miniatura</string>
   <string name="edit_image">Editar imagem</string>
-  <string name="extension">Extension</string>
   <string name="images">Imagens</string>
   <string name="image_deleted">A imagem <strong>{name}</strong> foi apagada.</string>
   <string name="image_delete_failed">Não foi possivel apagar completamente a(s) imagem(s) <strong>{name}</strong>.</string>
-  <string name="image_details">Image details</string>
   <string name="image_name">Nome da imagem</string>
   <string name="image_save_error">Houve um problema ao gravar a imagem.</string>
   <string name="image_save_failed">A imagem não foi guardada devido a um erro. Por favor, tente de novo.</string>
@@ -524,7 +453,6 @@
   <string name="only_graphic_files_allowed">Somente se admitem estes tipos de ficheiro: .jpg, .gif, .png ou .swf</string>
   <string name="replace_image">Substituir imagem</string>
   <string name="save_these_settings_as_default">Guardar estes valores como padrão</string>
-  <string name="search_images">Search images</string>
   <string name="thumbnail_deleted">Miniatura apagada.</string>
   <string name="thumbnail_not_saved">A miniatura <strong>{id}</strong> <em>não foi</em> guardada!</string>
   <string name="thumbnail_saved">A miniatura <strong>{id}</strong> foi guardada.</string>
@@ -536,7 +464,6 @@
   <string name="upload_thumbnail">Subir miniatura</string>
   <string name="continue">Continuar</string>
   <string name="database_stuff">Dados da base de dados</string>
-  <string name="import_blogid">Blog ID</string>
   <string name="import_database">Nome da base de dados</string>
   <string name="import_file_not_found">Ficheiro de importação não encontrado. Por favor, mude o nome do ficheiro para <code>import.txt</code> e coloque-o em <code>/textpattern/include/import/</code>.</string>
   <string name="import_host">Servidor MySQL</string>
@@ -563,14 +490,12 @@
   <string name="link_text">Texto da ligação</string>
   <string name="link_updated">A ligação <strong>{name}</strong> foi actualizada.</string>
   <string name="no_links_recorded">Nenhuma ligação até agora.</string>
-  <string name="search_links">Search links</string>
   <string name="article_modified">Modificado</string>
   <string name="manage">Administração</string>
   <string name="logs">Registo de actividade</string>
   <string name="logs_deleted">Registos de visitantes apagados: <strong>{list}</strong>.</string>
   <string name="no_refers_recorded">Nenhum registo de visitantes até agora.</string>
   <string name="referrer">Origem dos visitantes</string>
-  <string name="search_logs">Search logs</string>
   <string name="visitor_logs">Registo de visitantes</string>
   <string name="all_pages">Todas as páginas</string>
   <string name="copy_page_as">&#8230;ou copiar página como</string>
@@ -605,8 +530,6 @@
   <string name="install_plugin">Instalar plugin</string>
   <string name="old_plugin">Instalador de plugins (ficheiro de texto)</string>
   <string name="order">Ordem</string>
-  <string name="plugin">Plugin</string>
-  <string name="plugins">Plugins</string>
   <string name="plugin_compression_unsupported">A descompactação de plugins não é suportada pelo seu servidor. Contacte o autor do plugin para obter uma versão decompactada.</string>
   <string name="plugin_deleted">O plugin <strong>{name}</strong> foi apagado.</string>
   <string name="plugin_help">Ajuda do plugin</string>
@@ -626,7 +549,6 @@
   <string name="allow_page_php_scripting">Aceitar código PHP nas páginas?</string>
   <string name="allow_raw_php_scripting">Aceitar código PHP?</string>
   <string name="all_hits">Todos os pedidos</string>
-  <string name="all_preferences">All preferences</string>
   <string name="archive_dateformat">Formato de data no arquivo</string>
   <string name="archive_date_case">Data do Arquivo em maiúscula/minúscula</string>
   <string name="archive_dir">Directório de Arquivo</string>
@@ -665,14 +587,11 @@
   <string name="custom_8_set">Nome do campo personalizável nº08</string>
   <string name="custom_9_set">Nome do campo personalizável nº09</string>
   <string name="default_event">Aba por defeito do admin</string>
-  <string name="default_publish_status">Default publishing status</string>
-  <string name="doctype">Doctype</string>
   <string name="edit_preferences">Preferências</string>
   <string name="edit_raw_css_by_default">Editar Folhas de Estilo CSS em modo texto? (por defeito)</string>
   <string name="enable_xmlrpc_server">Liga o Servidor XML-RPC ?</string>
   <string name="experts_only">Só para utilizadores avançados</string>
   <string name="expire_logs_after">Os registos expiram após</string>
-  <string name="feeds">Feeds</string>
   <string name="file_base_path">Caminho para subir ficheiros</string>
   <string name="file_max_upload_size">Tamanho Máximo dos ficheiros a subir (bytes)</string>
   <string name="from_file">Instalar a partir de ficheiro</string>
@@ -694,7 +613,6 @@
   <string name="leave_text_untouched">Deixar o texto inalterado</string>
   <string name="link">Ligações</string>
   <string name="locale">Língua_País.Formato de Texto</string>
-  <string name="locale_not_available_for_language">No locale available for language <strong>{name}</strong>. Using default locale instead.</string>
   <string name="logging">Registar</string>
   <string name="logs_expire">Os registos expiram após</string>
   <string name="manage_languages">Gerir Idiomas</string>
@@ -705,15 +623,10 @@
   <string name="never_display_email">Nunca mostar endereço de email?</string>
   <string name="new_textpattern_version_available">Está disponível uma versão completamente nova do Textpattern. Quer experimenta-la?</string>
   <string name="no_popup">janela actual</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">No email usar ISO-8859-1? (UTF-8 por defeito)</string>
   <string name="path_from_root">Subdirectório (se existir)</string>
   <string name="path_to_site_missing">O Caminho para o Sítio (<code>$path_to_site</code>) não está definido (actualizar <code>index.php</code>)</string>
   <string name="permalink_title_format">Nas ligações permanentes usar o formato \"título-do-artigo\"? (Por defeito o formato é “TítuloDoArtigo”)</string>
-  <string name="permlink_format">Permalink title URL pattern</string>
-  <string name="permlink_hyphenated">Hyphenated (title-like-this)</string>
-  <string name="permlink_intercapped">Intercapped (TitleLikeThis)</string>
-  <string name="permlink_mode">Article URL pattern</string>
   <string name="ping_textpattern_com">Notificar textpattern.com?</string>
   <string name="ping_weblogsdotcom">Notificar pingomatic.com?</string>
   <string name="plugin_cache_dir">Caminho para a \"cache\" dos Plugins</string>
@@ -737,7 +650,6 @@
   <string name="show_article_category_count">Mostrar contador de artigos nas Categorias?</string>
   <string name="show_comment_count_in_feed">Mostrar contador de comentários nos feeds?</string>
   <string name="site_prefs">Preferências do Sítio</string>
-  <string name="skin_base_path">Skin base path</string>
   <string name="smtp_from">endereço do envelope SMTP do remetente</string>
   <string name="spam_blacklists">Lista-negra de endereços de Spam (separados por vírgula)</string>
   <string name="syndicate_body_or_excerpt">Utilizar resumo nos feeds? (por defeito, é utilizado o corpo do artigo)</string>
@@ -794,8 +706,6 @@
   <string name="comments_on">comentários sobre</string>
   <string name="comments_permlink">Ligação permanente</string>
   <string name="comment_comment">Comentário</string>
-  <string name="comment_duplicate">Duplicate comments are not accepted.</string>
-  <string name="comment_email">Email</string>
   <string name="comment_email_required">Por favor escreva um endereço de email válido</string>
   <string name="comment_invitation">Convite</string>
   <string name="comment_message">Mensagem</string>
@@ -827,10 +737,8 @@
   <string name="deprecated_function">A função <strong>{name}</strong> está obsoleta.</string>
   <string name="deprecated_function_with">A função <strong>{name}</strong> está obsoleta: use antes <strong>{with}</strong></string>
   <string name="deprecated_tag">Etiqueta em desuso</string>
-  <string name="documentation">Documentation</string>
   <string name="download_count">Contagem de descarga</string>
   <string name="edit">Editar</string>
-  <string name="email">Email</string>
   <string name="email_address">Endereço de email</string>
   <string name="emphasis">itálico</string>
   <string name="enter_comment_here"><strong>Insira o seu comentário abaixo.</strong> Campos marcados <b class="required" title="Required">*</b> são necessários. Deve previsualizar o seu comentário, antes de finalmente o inserir.</string>
@@ -849,7 +757,6 @@
   <string name="form">Módulo</string>
   <string name="forms">Módulos</string>
   <string name="go">ok</string>
-  <string name="go_back">Go back</string>
   <string name="go_content">Ir para o Conteúdo</string>
   <string name="go_nav">Ir para a Navegação</string>
   <string name="go_search">Ir para a Pesquisa</string>
@@ -871,7 +778,6 @@
   <string name="label">Rótulo</string>
   <string name="last_modification">Última Modificação</string>
   <string name="linebreak">quebra de linha</string>
-  <string name="link_context">link</string>
   <string name="list">Lista</string>
   <string name="list_articles">Lista de Artigos</string>
   <string name="list_categories">Lista de Categorias</string>
@@ -897,16 +803,13 @@
   <string name="next">seguinte</string>
   <string name="no">Não</string>
   <string name="none">Nenhum</string>
-  <string name="nopopup">current window</string>
   <string name="no_comments">Não existem actualmente comentarios a este artigo</string>
   <string name="no_search_matches">lamentamos, mas não existem resultados para a sua busca</string>
   <string name="numeric_list">Lista numérica</string>
-  <string name="of">of</string>
   <string name="off">Não</string>
   <string name="older">mais velho</string>
   <string name="on">Sim</string>
   <string name="only_articles_can_be_previewed">NOTA: Só os módulos de artigo podem ser pré-visualizados.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Página</string>
   <string name="pages">Páginas</string>
   <string name="paragraph">parágrafo</string>
@@ -914,7 +817,6 @@
   <string name="permlink">Ligação permanente</string>
   <string name="plugin_load_error">Um problema ocorreu durante o carregamento do plugin:</string>
   <string name="plugin_load_error_above">Os erros acima descritos foram causados pelo plugin:</string>
-  <string name="popup">popup window</string>
   <string name="post">Publicar</string>
   <string name="posted">Publicado</string>
   <string name="posted_by">Publicado por</string>
@@ -970,7 +872,6 @@
   <string name="update">Actualização</string>
   <string name="upload">Subir</string>
   <string name="uploaded">colocado/a no servidor</string>
-  <string name="url">URL</string>
   <string name="value">Valor</string>
   <string name="version">Versão</string>
   <string name="view">Ver</string>
@@ -992,7 +893,6 @@
   <string name="edit_sections">editar secções</string>
   <string name="include_in_search">Incluir na pesquisa do sítio</string>
   <string name="on_front_page">Na página inicial</string>
-  <string name="search_sections">Search sections</string>
   <string name="section">Secção</string>
   <string name="sections">Secções</string>
   <string name="section_created">A Secção <strong>{name}</strong> foi criada.</string>
@@ -1019,7 +919,6 @@
   <string name="choose_password">Escolha uma senha</string>
   <string name="config_php_does_not_match_input">O conteudo do <code>config.php</code> não é igual aos valores quq indicou. por favor, indira abaixo o texto exacto.</string>
   <string name="config_php_not_found">O ficheiro de configuração não foi encontrado na localização esperada <strong>{file}</strong>. por favor, verifique a sua existência de novo.</string>
-  <string name="core_theme">Core: {theme}</string>
   <string name="create_config">crie um ficheiro chamado <code>config.php</code> na directoria <code>/textpattern/</code> e copie o seguinte texto para o ficheiro que criou:</string>
   <string name="creating_config">Criando ficheiro config.php</string>
   <string name="creating_db_tables">Criando tabelas da Base de Dados</string>
@@ -1051,12 +950,6 @@
   <string name="progress_steps">Existem 4 passos neste processo de instalação:</string>
   <string name="setup_comment_invite">Pode comentar</string>
   <string name="setup_login">Escolha o seu nome de acesso (por favor use apenas os caracteres básicos e espaços)</string>
-  <string name="setup_password_strength_0">Poor</string>
-  <string name="setup_password_strength_1">Weak</string>
-  <string name="setup_password_strength_2">Fair</string>
-  <string name="setup_password_strength_3">Good</string>
-  <string name="setup_password_strength_4">Strong</string>
-  <string name="setup_show_password">Show password</string>
   <string name="set_db_details">Definir detalhes da Base de Dados</string>
   <string name="set_temp_dir_prefs">Desculpe, mas não conseguimos encontrar um directório gravável para armazenar arquivos temporários. Por favor, visite as <strong>Preferências Avançadas </strong> e ajuste o caminho do directório <strong> temporário</strong> para atender às suas n</string>
   <string name="site_config">Configuração do Site</string>
@@ -1071,13 +964,6 @@
   <string name="your_email">O seu endereço de email</string>
   <string name="your_full_name">O seu nome completo</string>
   <string name="you_can_access">Deverá poder aceder ao <a href="index.php">interface principal</a> com o seu nome de acesso e a sua senha.</string>
-  <string name="create_skin">Create skin</string>
-  <string name="edit_skin">Edit skin</string>
-  <string name="skin_author">Skin author</string>
-  <string name="skin_name">Skin name</string>
-  <string name="skin_title">Skin title</string>
-  <string name="skin_version">Skin version</string>
-  <string name="skin_website">Skin website</string>
   <string name="active_class">CSS Classe para o item activo numa lista</string>
   <string name="align">Alinhamento</string>
   <string name="allowoverride">Permitir módulo a ser substituído?</string>
@@ -1097,7 +983,6 @@
   <string name="comment_name_link">Link para email/site do Comentarista?</string>
   <string name="decimals">Mostrar # algarismos após o ponto decimal</string>
   <string name="default_title">Texto a usar para a ligação à secção \"default\" (por defeito)</string>
-  <string name="escape">Escape</string>
   <string name="exclude">Excluir</string>
   <string name="filename">Nome</string>
   <string name="file_download_tags">Descarregar ficheiros</string>
@@ -1109,7 +994,6 @@
   <string name="hilight">Realçar etiqueta</string>
   <string name="hilight_limit">Realçar quantas etiqueta instâncias?</string>
   <string name="html_id">Atributo HTML <code>id</code></string>
-  <string name="id">ID#</string>
   <string name="include_default">Incluir seção padrão?</string>
   <string name="inline_style">Estilo (CSS) inline</string>
   <string name="input_size">Tamanho do campo de entrada</string>

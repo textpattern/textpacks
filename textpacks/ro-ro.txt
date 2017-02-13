@@ -1,4 +1,4 @@
-#@version 4.6.2;1473236374
+#@version 4.6.2;1485432808
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Ultima modificare
 links => Link-uri
 link_category => Categoria
+list_options =>
 logged_in_as => Autentificat ca
 login => Autentificare
 login_to_textpattern => Autentificare Textpattern

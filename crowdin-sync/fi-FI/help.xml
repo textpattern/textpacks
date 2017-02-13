@@ -33,9 +33,10 @@
 <h3>Tekstin toimittaja</h3>
 <ul>
     <li>voi hallita artikkeleita seuraavan rajoituksen ulkopuolella:
-    <ul>
-        <li>ei voi poistaa artikkeleita, jotka kuuluvat muille käyttäjille</li>
-    </ul></li>
+        <ul>
+            <li>ei voi poistaa artikkeleita, jotka kuuluvat muille käyttäjille</li>
+        </ul>
+    </li>
     <li>voi hallita kommentteja ja linkkejä</li>
     <li>voi hallita kuvia ja tiedostoja</li>
     <li>voi hallita kategorioita</li>
@@ -51,19 +52,21 @@
 <h3>Vapaa toimittaja</h3>
 <ul>
     <li>voi hallita omia artikkeleita seuraavin rajoituksin:
-    <ul>
-        <li>voi muokata artikkelia kunnes se on julkaistu</li>
-        <li>voi muuttaa statusta <em>vain</em> jos se on Luonnos, Piilotettu tai Odottaa hyväksyntää</li>
-    </ul></li>
+        <ul>
+            <li>voi muokata artikkelia kunnes se on julkaistu</li>
+            <li>voi muuttaa statusta <em>vain</em> jos se on Luonnos, Piilotettu tai Odottaa hyväksyntää</li>
+        </ul>
+    </li>
     <li>voi katsella muiden käyttäjien artikkeleita</li>
 </ul>
 <h3>Suunnittelija</h3>
 <ul>
     <li>voi hallita omia artikkeleita seuraavin rajoituksin:
-    <ul>
-        <li>voi muokata artikkelia kunnes se on julkaistu</li>
-        <li>voi muuttaa statusta <em>vain</em> jos se on Luonnos, Piilotettu tai Odottaa hyväksyntää</li>
-    </ul></li>
+        <ul>
+            <li>voi muokata artikkelia kunnes se on julkaistu</li>
+            <li>voi muuttaa statusta <em>vain</em> jos se on Luonnos, Piilotettu tai Odottaa hyväksyntää</li>
+        </ul>
+    </li>
     <li>voi tarkastella muiden käyttäjien artikkeleita</li>
     <li>voi hallita kuvia</li>
     <li>voi hallita osioita</li>
@@ -74,7 +77,30 @@
   <string name="admin_side_plugins"><h1>Asetukset: Käytetäänkö ylläpito-osion liitännäisiä?</h1>
 <p>Ylläpito-osion liitännäiset voivat muuttaa hallintapaneelin käyttöliittymän toimintatapaa. Liitännäiset voivat myös vaikuttaa olemassa oleviin toiminnallisuuksiin, kuten artikkelien muokkaamiseen tai julkaisemiseen, ja ne voivat myös lisätä uusia elementtejä ulkoasuun uusien/laajennettujen toiminnallisuuksien tarjoamiseksi.</p>
 <p>Mikäli haluat oppia lisää ylläpito-osion liitännäisistä, ole hyvä ja tutustu <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Extending Textpattern</a> -sivuun <a rel="external" target="_blank" href="http://docs.textpattern.io/">Textpatternin Käyttäjädokumentaatiossa</a>. Liitännäisiä on luetteloitu <a rel="external" target="_blank" href="http://textpattern.org/">Textpattern Resources</a> -sivustolla.</p></string>
-  <string name="allow_article_php_scripting"><h1>Asetukset: Sallitaanko PHP artikkeleissa?</h1>
-<p>Jos tämä asetus on päällä, PHP:n käyttäminen artikkeleissa on mahdollista. Tekijällä on oltava riittävät käyttöoikeudet sitä varten (oletusarvoisesti vain <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">\'Julkaisijat\'</a> ja <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Vastaavat toimittajat’</a> voivat käyttää).</p>
-<p>PHP-koodissa ei tule olla koodiosuudet avaavia eikä sulkevia tageja, ja ne on käärittävä <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/php"><code>&lt;txp:php&gt;</code>-tageilla</a>.</p></string>
+  <string name="remember_login"><h2>Muista kirjautuminen</h2>
+<p>Jos valittu, pysyt kirjautuneena Textpattern-tiliisi nykyisellä nettiselaimellasi kunnes päätät kirjautua ulos. Mikäli rastia ei ole valittu, kirjaudut ulos automaattisesti tietyn käyttämättömyysajan jälkeen.</p>
+<p>Toiminto edellyttää, että nettiselain sallii evästeiden käytön.</p></string>
+  <string name="body"><h2>Kirjoita: Leipäteksti</h2>
+<p>Artikkelin pääasiallinen sisältö sijaitsee leipätekstille varatussa alueessa.</p>
+<p>Kun Textpatternilla kirjoitetaan artikkeleita tai niitä valmistellaan julkaistavaksi, voit vaihtaa käsiteltävänä olevan artikkelin esitystapaa kolmen vaihtoehdon välillä: pelkkä teksti, HTML-merkkaus (se koodi, jonka nettiselain tulkitsee kun artikkelia katsellaan), sekä esikatselu.</p></string>
+  <string name="excerpt"><h2>Kirjoita: Johdanto</h2>
+<p>Artikkelien johdannot ovat vapaaehtoisia. Johdantoja voi käyttää lyhyinä yhteenvetoina artikkelissa käsiteltävistä asioista, ja johdantoteksti voidaan näyttää osana artikkelin sisältöä. Johdanto voidaan myös näyttää RSS-/Atom-syötteessä artikkelin leipätekstin sijaan. Sillä on myös muita käyttötarkoituksia.</p></string>
+  <string name="expire_date"><h2>Kirjoita: Vanhentumispäivämäärä</h2>
+<p>Aika, jolloin artikkeli merkitään vanhentuneeksi. Se on vapaaehtoinen tieto, joka voidaan asettaa haluttuun aikaan menneisyydessä tai tulevaisuudessa.</p>
+<p>Kentät tarkoittavat seuraavia tietoja:</p>
+<ul>
+<li>Vuosi / Kuukausi / Päivä</li>
+<li>Tunti (24 tunnin formaatissa) : Minuutti : Sekunti</li>
+</ul>
+<p>Artikkeli vanhentuu kun vanhentumispäivämäärä saapuu, tai jos se on ylitetty.</p>
+<p>Mikäli asetuksista on sallittu vanhentuneiden artikkelien näyttäminen, artikkeli pysyy esillä. Jos vanhentuneiden artikkelien näyttäminen on pois käytöstä, vanhentuneen artikkelin avaamista yrittävät käyttäjät näkevät HTTP-virheilmoituksen 410 varsinaisen artikkelin sijaan.</p></string>
+  <string name="keywords"><h2>Kirjoita: Avainsanat</h2>
+<p>Avainsanat ovat hyödyllisiä kun halutaan määritellä artikkeleiden välille yhteyksiä samaan tapaan kuin kategorioilla voi tehdä, paitsi monipuolisemmin.</p>
+<p>Avainsanojen tulee olla yksittäisiä pilkuin eroteltuja sanoja.</p></string>
+  <string name="title"><h2>Kirjoita Otsikko</h2>
+<p>Lisää artikkeliin kuuluva otsikko.</p>
+<p>Artikkelin otsikon enimmäispituus on rajoitettu 255 merkkiin.</p></string>
+  <string name="url_title"><h2>Kirjoita URL-otsikko</h2>
+<p>Mikäli haluat artikkelin kestolinkin URL-tekstin olevan jotain tiettyä, voit kirjoittaa sen tähän. Mikäli kenttä on jätetty tyhjäksi, URL-otsikko muodostetaan automaattisesti artikkelin otsikosta.</p>
+<p>Tämä on erityisen hyödyllinen mikäli artikkelisi otsikossa käytetään ASCII-merkistön ulkopuolisia merkkejä.</p></string>
 </resources>

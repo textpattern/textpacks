@@ -4,8 +4,6 @@
   <string name="lang_name">Galego</string>
   <string name="lang_code">gl-ES</string>
   <string name="lang_dir">ltr</string>
-  <string name="account_activation">Please activate your account</string>
-  <string name="account_activation_confirmation">Please use the link below to activate your account and set up a password.</string>
   <string name="add_new_author">Engadir novo autor</string>
   <string name="and_mailed_to">e envialo a</string>
   <string name="assign_assets_to">Asignar contido do usuario a</string>
@@ -21,16 +19,13 @@
   <string name="copy_editor">Editor de copias</string>
   <string name="could_not_mail">Non se puido enviar o correo</string>
   <string name="could_not_update_author">Non se puido actualizar o autor</string>
-  <string name="current_password">Current password</string>
   <string name="designer">Deseñador</string>
   <string name="edit_author">Editar autor</string>
   <string name="email_changed">Dirección de email cambiada a <strong>{email}</strong>.</string>
   <string name="error_adding_new_author">Erro engadindo novo autor</string>
   <string name="freelancer">Escritor Freelance</string>
   <string name="last_login">Último acceso</string>
-  <string name="link_expires">You have until {day} {month} {year}, {time} to respond before this link expires.</string>
   <string name="login_name">Nome de rexistro</string>
-  <string name="login_sent_to">Password sent to {email}.</string>
   <string name="log_in_at">Accede en</string>
   <string name="mail_it">Envíamo por correo electrónico</string>
   <string name="managing_editor">Editor Xefe</string>
@@ -39,10 +34,7 @@
   <string name="new_password">Novo contrasinal</string>
   <string name="password_changed">O contrasinal mudou.</string>
   <string name="password_changed_mailed">Cambiouse o contrasinal e enviouse a <strong>{email}</strong>.</string>
-  <string name="password_change_confirmation">Your password has been changed. If you did not request a change to your password, contact your site administrator.</string>
-  <string name="password_confirm_button">Set password</string>
   <string name="password_forgotten">Esqueciches o contrasinal?</string>
-  <string name="password_invalid">Your password is incorrect.</string>
   <string name="password_required">Por favor, introduce un novo contrasinal.</string>
   <string name="password_reset">Cambiar contrasinal</string>
   <string name="password_reset_button">Cambiar contrasinal</string>
@@ -50,24 +42,12 @@
   <string name="password_reset_confirmation_request">Por favor, confirma a túa petición de cambio de contrasinal</string>
   <string name="password_reset_confirmation_request_sent">Enviouse unha mensaxe de confirmación á túa dirección de email. Por favor, le o teu correo e segue as instrucións.</string>
   <string name="password_sent_to">Contrasinal enviado a:</string>
-  <string name="password_set">Your password has been set</string>
-  <string name="password_set_confirmation">Your password has been set. If you did not request this, contact your site administrator.</string>
-  <string name="password_strength_0">Poor</string>
-  <string name="password_strength_1">Weak</string>
-  <string name="password_strength_2">Fair</string>
-  <string name="password_strength_3">Good</string>
-  <string name="password_strength_4">Strong</string>
   <string name="privileges">Privilexios</string>
   <string name="privs_none">Ningún</string>
   <string name="publisher">Propietario(Publisher)</string>
   <string name="real_name">Nome real</string>
-  <string name="resend_activation">Resend activation link</string>
-  <string name="resend_activation_request_sent">Activation message sent to {name}.</string>
   <string name="resetpassword">Cambiar contrasinal</string>
   <string name="reset_author_password">Sobre escribir o contrasinal do autor</string>
-  <string name="search_users">Search users</string>
-  <string name="set_password">Set your password</string>
-  <string name="show_password">Show password</string>
   <string name="site_administration">Adminstración da bitácora</string>
   <string name="staff_writer">Escritor en plantel</string>
   <string name="unknown_author">Autor descoñecido: <strong>{name}</strong></string>
@@ -77,7 +57,6 @@
   <string name="your_new_password">O teu novo contrasinal</string>
   <string name="your_password_is">O teu contrasinal é</string>
   <string name="you_have_been_registered">Rexistracheste como colaborador da bitácora</string>
-  <string name="add_new_article">Create new article</string>
   <string name="advanced_options">Opcións avanzadas</string>
   <string name="article_day">Día</string>
   <string name="article_expires_before_postdate">Erro: o artigo caduca <strong>antes</strong> da data de publicación.</string>
@@ -113,7 +92,6 @@
   <string name="override_default_form">Sobreescribir o formulario</string>
   <string name="pending">Pendente</string>
   <string name="reset_time">Empregar hora actual</string>
-  <string name="search_articles">Search articles</string>
   <string name="set_to_now">Empregar fecha/hora actual</string>
   <string name="sort_display">Clasificación e presentación</string>
   <string name="textfilter_help">Axuda de formato de texto</string>
@@ -132,7 +110,6 @@
   <string name="article_category">Categoría de artigo</string>
   <string name="article_category_already_exists">A categoría de artigo <strong>{name}</strong> xa existe.</string>
   <string name="article_category_created">Categoría de artigo <strong>{name}</strong> creada.</string>
-  <string name="article_category_description">Article category description</string>
   <string name="article_category_invalid">Categoría de artigo <strong>{name}</strong> inválida.</string>
   <string name="article_category_name">Nome da categoría do artigo</string>
   <string name="article_category_title">Título da categoría de artigo</string>
@@ -146,7 +123,6 @@
   <string name="file_categories_deleted">Categorías de arquivo borradas: <strong>{list}</strong>.</string>
   <string name="file_category_already_exists">A categoría de arquivo <strong>{name}</strong> xa existe.</string>
   <string name="file_category_created">Categoría de arquivo <strong>{name}</strong> creada.</string>
-  <string name="file_category_description">File category description</string>
   <string name="file_category_invalid">Categoría de arquivo <strong>{name}</strong> inválida.</string>
   <string name="file_category_name">Nome da categoría do arquivo</string>
   <string name="file_category_title">Título da categoría do arquivo</string>
@@ -155,7 +131,6 @@
   <string name="image_categories_deleted">Categorías de imaxe borradas: <strong>{list}</strong>.</string>
   <string name="image_category_already_exists">A categoría de imaxe <strong>{name}</strong> xa existe.</string>
   <string name="image_category_created">Categoría de imaxe <strong>{name}</strong> creada.</string>
-  <string name="image_category_description">Image category description</string>
   <string name="image_category_invalid">Categoría de imaxe <strong>{name}</strong> inválida.</string>
   <string name="image_category_name">Nome da categoría da imaxe</string>
   <string name="image_category_title">Título da categoría da imaxe</string>
@@ -164,7 +139,6 @@
   <string name="link_categories_deleted">Categorías de ligazóns borradas: <strong>{list}</strong>.</string>
   <string name="link_category_already_exists">A categoría de ligazón <strong>{name}</strong> xa existe.</string>
   <string name="link_category_created">Categoría de ligazón <strong>{name}</strong> creada.</string>
-  <string name="link_category_description">Link category description</string>
   <string name="link_category_invalid">Categoría de ligazón <strong>{name}</strong> inválida.</string>
   <string name="link_category_name">Nome da categoría da ligazón</string>
   <string name="link_category_title">Título da categoría da ligazón</string>
@@ -183,7 +157,6 @@
   <string name="back_to_login">Volver a identificarse en Textpattern</string>
   <string name="bad_cookie">Cookie inválida.</string>
   <string name="body">Corpo</string>
-  <string name="cancel">Cancel</string>
   <string name="cannot_instantiate_theme">O tema <strong>{name}</strong> ({class}) non se cargou correctamente desde o arquivo {path}. Volverase a usar de novo o tema clásico.</string>
   <string name="category">Categorí­a</string>
   <string name="changeauthor">Cambiar autor</string>
@@ -195,7 +168,6 @@
   <string name="changesection">Cambiar sección</string>
   <string name="changestatus">Cambiar estado</string>
   <string name="close">Pechar</string>
-  <string name="collapse_all">Collapse all</string>
   <string name="comment">comentario</string>
   <string name="comments_expired">Xa non se aceptan comentarios a este artigo.</string>
   <string name="confirm_delete_popup">¿Realmente queres borrar?</string>
@@ -210,10 +182,7 @@
   <string name="draft">Borrador</string>
   <string name="duplicate">Duplicar</string>
   <string name="excerpt">Resumo</string>
-  <string name="expand_all">Expand all</string>
   <string name="expired">Caducado</string>
-  <string name="expire_date">Expire date</string>
-  <string name="expire_time">Expire time</string>
   <string name="external_links">Ligazóns externas</string>
   <string name="form_not_found">Bloque non atopado</string>
   <string name="form_not_specified">Bloque non especificado.</string>
@@ -241,19 +210,12 @@
   <string name="password">Contrasinal</string>
   <string name="per_page">por páxina</string>
   <string name="published_with">Publicado con</string>
-  <string name="publish_date">Publish date</string>
-  <string name="publish_time">Publish time</string>
   <string name="range">Rango</string>
   <string name="restricted_area">Area restrinxida</string>
-  <string name="salutation">Dear {name},</string>
   <string name="save_new">Gardar novo</string>
-  <string name="search_all">Search all</string>
-  <string name="search_clear">Clear search</string>
-  <string name="search_options">Search options</string>
   <string name="showing_search_results">Mostrando {from} a {to} de {total}</string>
   <string name="site_slogan">Subtítulo da bitácora</string>
   <string name="sort_value">Ordenar valor</string>
-  <string name="spam">Spam</string>
   <string name="stay_logged_in">Permanecer rexistrado neste navegador</string>
   <string name="sticky">Fixo</string>
   <string name="structure">Estructura</string>
@@ -277,7 +239,6 @@
   <string name="tab_presentation">Presentación</string>
   <string name="tab_sections">Seccións</string>
   <string name="tab_site_admin">Configuración</string>
-  <string name="tab_skins">Skins</string>
   <string name="tab_start">Inicio</string>
   <string name="tab_style">Estilos</string>
   <string name="tab_view_site">Ver bitácora</string>
@@ -335,7 +296,6 @@
   <string name="css_name_required">Por favor, proporciona un nome para o estilo.</string>
   <string name="css_property_value">Propiedade : Valor</string>
   <string name="css_save_failed">Debido a un erro non se gardou a folla de estilos. Por favor, téntao de novo.</string>
-  <string name="css_selector">Selector</string>
   <string name="css_updated">Estilo <strong>{name}</strong> actualizado.</string>
   <string name="css_used_by_section">Non se borrou o estilo <strong>{name}</strong>; é usado por {count} sección(es).</string>
   <string name="delete_declaration">Borrar declaración</string>
@@ -350,7 +310,6 @@
   <string name="save_css_as">Gardar folla de estilos como:</string>
   <string name="save_this_declaration">Gardar esta declaración</string>
   <string name="save_this_selector">Guardar este selector</string>
-  <string name="selector">Selector</string>
   <string name="style_sheet">Folla de estilos CSS</string>
   <string name="style_sheet_saved">Folla de estilos CSS gardada</string>
   <string name="you_are_editing_css">Estas editando a folla de estilos CSS</string>
@@ -361,10 +320,6 @@
   <string name="cleanurl_only_apache">Módulo de URL limpa só para Apache</string>
   <string name="clean_url_data_failed">Fallou a proba de datos de URL limpas</string>
   <string name="clean_url_test_failed">Fallou o test de URLs limpas.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
   <string name="detail">Detalle</string>
   <string name="dev_version_live">Estás a executar arquivos en desenvolvemento nun servidor público</string>
   <string name="diagnostic_info">Información de diagnose</string>
@@ -381,7 +336,6 @@
   <string name="is_inaccessible">é inaccesíbel</string>
   <string name="last_update">Última actualización</string>
   <string name="low">baixo</string>
-  <string name="magic_quotes">Magic quotes</string>
   <string name="missing_files">Arquivos perdidos</string>
   <string name="modified_files">Algúns arquivos de Textpattern foron modificados</string>
   <string name="mod_rewrite_missing">O módulo de Apache <code>mod_rewrite</code> non está instalado</string>
@@ -396,7 +350,6 @@
   <string name="php_version">Versión de PHP</string>
   <string name="php_version_required">O CMS Textpattern require que no teu servidor estea instalada como mínimo a versión {version} de PHP</string>
   <string name="preflight_check">Comprobación previaComprobaciÃ³n previa</string>
-  <string name="register_globals">Register globals</string>
   <string name="rfc2616_headers">Cabeceiras RFC 2616</string>
   <string name="rfc_2616_headers">Modo de cabeceiras CGI</string>
   <string name="server">Servidor</string>
@@ -441,7 +394,6 @@
   <string name="name_used">Nome usado</string>
   <string name="no_comments_recorded">Ningún comentario ata o de agora</string>
   <string name="no_ips_banned">Non se bloqueou ningunha IP</string>
-  <string name="search_comments">Search comments</string>
   <string name="show">Mostrar</string>
   <string name="show_spam">Mostrar spam</string>
   <string name="unban">Desbloquear</string>
@@ -477,11 +429,9 @@
   <string name="private">Privado</string>
   <string name="public">Público</string>
   <string name="replace_file">Remplazar arquivo</string>
-  <string name="reset">reset</string>
   <string name="reset_download_count">Resetear o contador de descargas</string>
   <string name="reset_file_count_failure">Erro ó tratar de reiniciar o contador de descargas</string>
   <string name="reset_file_count_success">O contador de descargas reiniciouse</string>
-  <string name="search_files">Search files</string>
   <string name="all_forms">Todos os formularios</string>
   <string name="changetype">Cambiar tipo</string>
   <string name="create_new_form">Crear un novo formulario</string>
@@ -506,11 +456,9 @@
   <string name="choose_either_width_height_or_both">Indicar o ancho e alto de ámbolos dous</string>
   <string name="create_thumbnail">Crear miniatura</string>
   <string name="edit_image">Editar imaxe</string>
-  <string name="extension">Extension</string>
   <string name="images">Imaxes</string>
   <string name="image_deleted">Imaxe <strong>{name}</strong> borrada.</string>
   <string name="image_delete_failed">Non se ha(n) podido borrar completamente a(s) imaxe(es) <strong>{name}</strong>.</string>
-  <string name="image_details">Image details</string>
   <string name="image_name">Nome da imaxe</string>
   <string name="image_save_error">ocorreu un problema gardando os datos da imaxe</string>
   <string name="image_save_failed">Debido a un erro non se gardou a imaxe. Por favor, téntao de novo.</string>
@@ -524,7 +472,6 @@
   <string name="only_graphic_files_allowed">Só se admiten estes tipos de arquivo .jpg, .gif, .png o .swf</string>
   <string name="replace_image">Sustituir imaxe</string>
   <string name="save_these_settings_as_default">Gardar como configuración por defecto</string>
-  <string name="search_images">Search images</string>
   <string name="thumbnail_deleted">Miniatura borrada.</string>
   <string name="thumbnail_not_saved">Miniatura <strong>{id}</strong> <em>non</em> gardada!</string>
   <string name="thumbnail_saved">Miniatura <strong>{id}</strong> gardada.</string>
@@ -563,14 +510,12 @@
   <string name="link_text">Texto da ligazón</string>
   <string name="link_updated">Ligazón(s) <strong>{name}</strong> actualizado(s).</string>
   <string name="no_links_recorded">Ningunha ligazón gardada.</string>
-  <string name="search_links">Search links</string>
   <string name="article_modified">Modificado</string>
   <string name="manage">Xestionar</string>
   <string name="logs">Rexistros</string>
   <string name="logs_deleted">Rexistros borrados: <strong>{list}</strong>.</string>
   <string name="no_refers_recorded">Ningún referente gardado ata o de agora</string>
   <string name="referrer">Referentes</string>
-  <string name="search_logs">Search logs</string>
   <string name="visitor_logs">rexistro de visitantes</string>
   <string name="all_pages">Tóda-las páxinas</string>
   <string name="copy_page_as">Copiar páxina como:</string>
@@ -626,7 +571,6 @@
   <string name="allow_page_php_scripting">¿Permitir PHP nas páxinas?</string>
   <string name="allow_raw_php_scripting">Permitir PHP en cru?</string>
   <string name="all_hits">Todos os accesos</string>
-  <string name="all_preferences">All preferences</string>
   <string name="archive_dateformat">Formato do arquivo de fecha</string>
   <string name="archive_date_case">Maiúsculas nas fechas de arquivos</string>
   <string name="archive_dir">Directorio de arquivo</string>
@@ -665,14 +609,12 @@
   <string name="custom_8_set">Nome do campo persoalizado 8</string>
   <string name="custom_9_set">Nome do campo persoalizado 9</string>
   <string name="default_event">Pestana de administración por defecto</string>
-  <string name="default_publish_status">Default publishing status</string>
   <string name="doctype">Doctype</string>
   <string name="edit_preferences">Modificar preferencias</string>
   <string name="edit_raw_css_by_default">¿Editar a folla de estilos CSS en cru por defecto?</string>
   <string name="enable_xmlrpc_server">Activar servidor XML-RPC?</string>
   <string name="experts_only">Só expertos</string>
   <string name="expire_logs_after">Borrar logs despois de</string>
-  <string name="feeds">Feeds</string>
   <string name="file_base_path">Ruta para subir arquivos</string>
   <string name="file_max_upload_size">Tamaño máximo de arquivos para subir (bytes)</string>
   <string name="from_file">dende Arquivo</string>
@@ -694,7 +636,6 @@
   <string name="leave_text_untouched">Deixar o texto sen tocar</string>
   <string name="link">Ligazón</string>
   <string name="locale">Local</string>
-  <string name="locale_not_available_for_language">No locale available for language <strong>{name}</strong>. Using default locale instead.</string>
   <string name="logging">Rexistrando</string>
   <string name="logs_expire">Os logs caducan en</string>
   <string name="manage_languages">Administrar linguaxes</string>
@@ -705,15 +646,10 @@
   <string name="never_display_email">¿Non mostrar nunca o email?</string>
   <string name="new_textpattern_version_available">Hai unha nova versión do Textpattern disponíbel</string>
   <string name="no_popup">sen abrir outra xanela</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Sobreescribir o xogo de caracteres do email</string>
   <string name="path_from_root">Subdirectorio (se o hai)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> non se fixou (actualiza o <code>index.php</code>)</string>
   <string name="permalink_title_format">Formato dos títulos nos rastros</string>
-  <string name="permlink_format">Permalink title URL pattern</string>
-  <string name="permlink_hyphenated">Hyphenated (title-like-this)</string>
-  <string name="permlink_intercapped">Intercapped (TitleLikeThis)</string>
-  <string name="permlink_mode">Article URL pattern</string>
   <string name="ping_textpattern_com">¿Aviso a textpattern.com?</string>
   <string name="ping_weblogsdotcom">¿Aviso a pingomatic.com?</string>
   <string name="plugin_cache_dir">Ruta do directorio do caché de plugins</string>
@@ -737,7 +673,6 @@
   <string name="show_article_category_count">¿Mostrar o contador de artigos nas categorías?</string>
   <string name="show_comment_count_in_feed">¿Mostrar o contador de comentarios nos sumarios?</string>
   <string name="site_prefs">Preferencias da bitácora</string>
-  <string name="skin_base_path">Skin base path</string>
   <string name="smtp_from">Dirección do remitente do envío SMTP</string>
   <string name="spam_blacklists">Listas negras de spam (separadas por comas)</string>
   <string name="syndicate_body_or_excerpt">Sindicar corpo ou estracto</string>
@@ -777,7 +712,6 @@
   <string name="authors">Autores</string>
   <string name="a_few_seconds">uns poucos segundos</string>
   <string name="back_to_top">Volver arriba</string>
-  <string name="blockquote">Blockquote</string>
   <string name="browse">Examinar</string>
   <string name="bulleted_list">Lista desordeada</string>
   <string name="caption">Subtí­tulo</string>
@@ -794,8 +728,6 @@
   <string name="comments_on">comentarios sobre</string>
   <string name="comments_permlink">Ligazón permanente ó comentario</string>
   <string name="comment_comment">Comentario</string>
-  <string name="comment_duplicate">Duplicate comments are not accepted.</string>
-  <string name="comment_email">Email</string>
   <string name="comment_email_required">Por favor escribe unha dirección de email correcta</string>
   <string name="comment_invitation">Invitación</string>
   <string name="comment_message">Mensaxe</string>
@@ -814,7 +746,6 @@
   <string name="create_new">Novo</string>
   <string name="date">Fecha</string>
   <string name="dateformat">Formato da fecha</string>
-  <string name="date_case">Date case</string>
   <string name="day">día</string>
   <string name="days">días</string>
   <string name="default">Por defecto</string>
@@ -827,10 +758,8 @@
   <string name="deprecated_function">Desaconséllase a función <strong>{name}</strong></string>
   <string name="deprecated_function_with">Desaconséllase a función <strong>{name}</strong>: usa <strong>{with}</strong> no seu lugar</string>
   <string name="deprecated_tag">a etiqueta está desaconsellada</string>
-  <string name="documentation">Documentation</string>
   <string name="download_count">Número de descargas realizadas</string>
   <string name="edit">Editar</string>
-  <string name="email">Email</string>
   <string name="email_address">Dirección de correo electrónico</string>
   <string name="emphasis">énfase</string>
   <string name="enter_comment_here"><strong>Escribe debaixo o teu comentario</strong>. Os campos marcados con <b class="required" title="Requirido">*</b>son obrigatorios. Tes que previsualizar o teu comentario antes de envialo definitivamente.</string>
@@ -849,7 +778,6 @@
   <string name="form">Formulario</string>
   <string name="forms">Formularios</string>
   <string name="go">Ir</string>
-  <string name="go_back">Go back</string>
   <string name="go_content">Ir ao contido</string>
   <string name="go_nav">Ir á navegación</string>
   <string name="go_search">Ir ao buscador</string>
@@ -897,16 +825,13 @@
   <string name="next">Seguinte</string>
   <string name="no">Non</string>
   <string name="none">Ningún</string>
-  <string name="nopopup">current window</string>
   <string name="no_comments">Actualmente non hai comentarios a este artigo.</string>
   <string name="no_search_matches">Síntoo, non hai resultados que coincidan co criterio de procura.</string>
   <string name="numeric_list">Lista numérica</string>
-  <string name="of">of</string>
   <string name="off">Non</string>
   <string name="older">Máis vello</string>
   <string name="on">Si</string>
   <string name="only_articles_can_be_previewed">NOTA: Sós os formularios do artigo poden previsualizarse.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Páxina</string>
   <string name="pages">Páxinas</string>
   <string name="paragraph">parágrafo</string>
@@ -914,7 +839,6 @@
   <string name="permlink">Ligazón permanente</string>
   <string name="plugin_load_error">Produciuse un erro ó cargar o engadido</string>
   <string name="plugin_load_error_above">O erro anterior causouno o engadido:</string>
-  <string name="popup">popup window</string>
   <string name="post">Publicar</string>
   <string name="posted">Publicado</string>
   <string name="posted_by">Publicado por</string>
@@ -982,7 +906,6 @@
   <string name="your_branch_is_updated">A túa instalación está actualizada</string>
   <string name="your_ip_is_blacklisted_by">Gardouse o teu comentario. A túa dirección IP incluíuse nunha lista negra por</string>
   <string name="you_have_been_banned">Bloquearonte para comentar</string>
-  <string name="yyyy-mm">yyyy-mm</string>
   <string name="article_count">Artigos nesta sección: {num}.</string>
   <string name="create_section">Crear sección</string>
   <string name="default_write_section">Sección por defecto para publicar</string>
@@ -992,7 +915,6 @@
   <string name="edit_sections">modificar seccións</string>
   <string name="include_in_search">Incluír na pesquisa da bitácora</string>
   <string name="on_front_page">Na páxina de inicio</string>
-  <string name="search_sections">Search sections</string>
   <string name="section">Sección</string>
   <string name="sections">Seccions</string>
   <string name="section_created">Sección <strong>{name}</strong> creada.</string>
@@ -1051,12 +973,6 @@
   <string name="progress_steps">Este proceso de instalación ten 4 pasos:</string>
   <string name="setup_comment_invite">Comentarios</string>
   <string name="setup_login">Elixe un nome de rexistro (Só caracteres básicos e espacios. ¡Sen acentos e eñes!)</string>
-  <string name="setup_password_strength_0">Poor</string>
-  <string name="setup_password_strength_1">Weak</string>
-  <string name="setup_password_strength_2">Fair</string>
-  <string name="setup_password_strength_3">Good</string>
-  <string name="setup_password_strength_4">Strong</string>
-  <string name="setup_show_password">Show password</string>
   <string name="set_db_details">Especifica as características da base de datos</string>
   <string name="set_temp_dir_prefs">Síntoo, pero non se atopou un directorio escribible para aloxar arquivos temporais. Por favor, ve á pestana “Preferencias avanzadas” e axusta a ”Ruta ao directorio temporal” para que se adecúe ás túas necesidades.</string>
   <string name="site_config">Configuración do sitio</string>
@@ -1071,13 +987,6 @@
   <string name="your_email">A túa dirección de correo electrónico</string>
   <string name="your_full_name">O teu nome completo</string>
   <string name="you_can_access">Tes que ser capaz de acceder á <a href="index.php">interface principal</a> co nome de rexistro e o contrasinal escollidos.</string>
-  <string name="create_skin">Create skin</string>
-  <string name="edit_skin">Edit skin</string>
-  <string name="skin_author">Skin author</string>
-  <string name="skin_name">Skin name</string>
-  <string name="skin_title">Skin title</string>
-  <string name="skin_version">Skin version</string>
-  <string name="skin_website">Skin website</string>
   <string name="active_class">Clase css para a lista activa de items</string>
   <string name="align">Aliñación</string>
   <string name="allowoverride">Permitir sobrescritura dos bloques?</string>
@@ -1097,7 +1006,6 @@
   <string name="comment_name_link">Enlazar á dirección de correo/web de quen comenta?</string>
   <string name="decimals">Mostrar # números despois de cómaa decimal</string>
   <string name="default_title">Texto para usar como ligazón á sección por defecto</string>
-  <string name="escape">Escape</string>
   <string name="exclude">Excluír</string>
   <string name="filename">Nome</string>
   <string name="file_download_tags">Descargas de Arquivos</string>

@@ -1,4 +1,4 @@
-#@version 4.6.2;1480595546
+#@version 4.6.2;1485432808
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Tidligere modifisert
 links => Lenker
 link_category => Lenkekategori
+list_options =>
 logged_in_as => Logget inn som
 login => Logg inn
 login_to_textpattern => Logg inn til Textpattern

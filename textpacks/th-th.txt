@@ -1,4 +1,4 @@
-#@version 4.6.2;1480596679
+#@version 4.6.2;1485432808
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified =>
 links => ลิงก์
 link_category => หมวดหมู่ลิงก์
+list_options =>
 logged_in_as => ล็อกอินในชื่อ
 login => ล็อกอิน
 login_to_textpattern => เข้าสู่ Textpattern

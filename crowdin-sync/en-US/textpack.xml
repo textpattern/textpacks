@@ -228,6 +228,7 @@
   <string name="last_modified">Last modified</string>
   <string name="links">Links</string>
   <string name="link_category">Category</string>
+  <string name="list_options">List options</string>
   <string name="logged_in_as">Logged in as</string>
   <string name="login">Log in</string>
   <string name="login_to_textpattern">Log in to Textpattern</string>
@@ -525,6 +526,7 @@
   <string name="replace_image">Replace image</string>
   <string name="save_these_settings_as_default">Save settings as default</string>
   <string name="search_images">Search images</string>
+  <string name="swap_values">Swap values</string>
   <string name="thumbnail_deleted">Thumbnail deleted.</string>
   <string name="thumbnail_not_saved">Thumbnail <strong>{id}</strong> not saved!</string>
   <string name="thumbnail_saved">Thumbnail <strong>{id}</strong> saved.</string>
@@ -619,6 +621,7 @@
   <string name="previewing_plugin">Previewing plugin:</string>
   <string name="verify_plugin">Verify plugin</string>
   <string name="active_language">Currently active language</string>
+  <string name="active_language_ui">User language</string>
   <string name="admin_side_plugins">Use admin-side plugins?</string>
   <string name="advanced_preferences">Advanced</string>
   <string name="allow_article_php_scripting">Allow PHP in articles?</string>
@@ -748,6 +751,7 @@
   <string name="timeoffset">Time offset (hours)</string>
   <string name="title_no_widow">Prevent widowed words in article titles?</string>
   <string name="title_only">/title</string>
+  <string name="tz_timezone">Time zone</string>
   <string name="updated">updated</string>
   <string name="updated_branch_version_available">There is an update for this Textpattern version series available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
   <string name="update_languages">Update languages</string>
@@ -766,6 +770,7 @@
   <string name="ago">ago</string>
   <string name="all">All</string>
   <string name="already_exists">already exists</string>
+  <string name="ambiguous_tag">Tag closing incorrect format:</string>
   <string name="any">Any</string>
   <string name="articles">Articles</string>
   <string name="articles_found">articles found</string>
@@ -877,6 +882,7 @@
   <string name="list_categories">list categories</string>
   <string name="list_links">list links</string>
   <string name="live">Live</string>
+  <string name="lonely_closing_tag">Closing tag without corresponding opening tag:</string>
   <string name="lowercase">lowercase</string>
   <string name="main_content">Main content</string>
   <string name="manual">Manual</string>
@@ -950,6 +956,7 @@
   <string name="subscript">subscript</string>
   <string name="superscript">superscript</string>
   <string name="tag_error">Tag error:</string>
+  <string name="tag_mismatch">Tag opening/closing mismatch:</string>
   <string name="textile_help">Textile help</string>
   <string name="textile_lite_help">Textile Lite help</string>
   <string name="text_conversion">Text conversion</string>
@@ -960,12 +967,14 @@
   <string name="tooltip">Link tooltip</string>
   <string name="too_common_search_term">It seems like you are looking for a very common search term, maybe try a more specific phrase than</string>
   <string name="type">Type</string>
+  <string name="unclosed_tag">Opening tag without corresponding closing tag:</string>
   <string name="undefined">Undefined</string>
   <string name="unknown_attribute">Unknown tag attribute: {att}.</string>
   <string name="unknown_callback_function">Unknown callback function: {function}.</string>
   <string name="unknown_image">Unknown image</string>
   <string name="unknown_section">Unknown section</string>
   <string name="unknown_tag">tag does not exist</string>
+  <string name="unregistered_tag">tag is not registered</string>
   <string name="untitled">Untitled</string>
   <string name="update">Update</string>
   <string name="upload">Upload</string>

@@ -1,4 +1,4 @@
-#@version 4.6.2;1473233868
+#@version 4.6.2;1485432808
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Última modificación
 links => Ligazóns
 link_category => Categoría de ligazón
+list_options =>
 logged_in_as => Rexistrado como
 login => Acceso
 login_to_textpattern => Entrar no Textpattern

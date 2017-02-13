@@ -4,8 +4,6 @@
   <string name="lang_name">български</string>
   <string name="lang_code">bg-BG</string>
   <string name="lang_dir">ltr</string>
-  <string name="account_activation">Please activate your account</string>
-  <string name="account_activation_confirmation">Please use the link below to activate your account and set up a password.</string>
   <string name="add_new_author">Добави автор</string>
   <string name="and_mailed_to">и изпрати до</string>
   <string name="assign_assets_to">Прехвърли съдържанието на</string>
@@ -21,16 +19,12 @@
   <string name="copy_editor">Редактор</string>
   <string name="could_not_mail">Съобщението не може да се изпрати</string>
   <string name="could_not_update_author">Не могат да се обновят данните за автора.</string>
-  <string name="current_password">Current password</string>
   <string name="designer">Дизайнер</string>
   <string name="edit_author">Редактирай авторът</string>
   <string name="email_changed">Ел. адрес е сменен със следния <strong>{email}</strong>.</string>
   <string name="error_adding_new_author">Грешка при добавяне на нов автор.</string>
-  <string name="freelancer">Freelancer</string>
   <string name="last_login">Последно влизане</string>
-  <string name="link_expires">You have until {day} {month} {year}, {time} to respond before this link expires.</string>
   <string name="login_name">Потребителско име</string>
-  <string name="login_sent_to">Password sent to {email}.</string>
   <string name="log_in_at">Влязъл си като</string>
   <string name="mail_it">Изпрати ми я по ел. поща</string>
   <string name="managing_editor">Главен редактор</string>
@@ -39,10 +33,7 @@
   <string name="new_password">Нова парола</string>
   <string name="password_changed">Паролата е променена.</string>
   <string name="password_changed_mailed">Променената парола е изпратена на <strong>{email}</strong>.</string>
-  <string name="password_change_confirmation">Your password has been changed. If you did not request a change to your password, contact your site administrator.</string>
-  <string name="password_confirm_button">Set password</string>
   <string name="password_forgotten">Забравена парола?</string>
-  <string name="password_invalid">Your password is incorrect.</string>
   <string name="password_required">Моля напишете нова парола.</string>
   <string name="password_reset">Обнови паролата</string>
   <string name="password_reset_button">Изчисти</string>
@@ -50,24 +41,12 @@
   <string name="password_reset_confirmation_request">Моля потвърдете заявката за обновяване на паролата</string>
   <string name="password_reset_confirmation_request_sent">Изпратихме съобщение на Вашата ел. поща. Моля следвайте инструкциите в него.</string>
   <string name="password_sent_to">Паролата е изпратена до</string>
-  <string name="password_set">Your password has been set</string>
-  <string name="password_set_confirmation">Your password has been set. If you did not request this, contact your site administrator.</string>
-  <string name="password_strength_0">Poor</string>
-  <string name="password_strength_1">Weak</string>
-  <string name="password_strength_2">Fair</string>
-  <string name="password_strength_3">Good</string>
-  <string name="password_strength_4">Strong</string>
   <string name="privileges">Привилегии</string>
   <string name="privs_none">Никакви</string>
   <string name="publisher">Издател</string>
   <string name="real_name">Истинско име</string>
-  <string name="resend_activation">Resend activation link</string>
-  <string name="resend_activation_request_sent">Activation message sent to {name}.</string>
   <string name="resetpassword">Обнови паролата</string>
   <string name="reset_author_password">Обнови паролата на автора</string>
-  <string name="search_users">Search users</string>
-  <string name="set_password">Set your password</string>
-  <string name="show_password">Show password</string>
   <string name="site_administration">Потребители</string>
   <string name="staff_writer">Щатен писател</string>
   <string name="unknown_author">Неизвестен автор: <strong>{name}</strong></string>
@@ -77,7 +56,6 @@
   <string name="your_new_password">Вашата нова парола е</string>
   <string name="your_password_is">Вашата парола е</string>
   <string name="you_have_been_registered">Вие сте регистриран като сътрудник на сайта</string>
-  <string name="add_new_article">Create new article</string>
   <string name="advanced_options">Допълнителни опции</string>
   <string name="article_day">Ден</string>
   <string name="article_expires_before_postdate">Грешка: Статията изтича <strong>преди</strong> датата на публикуване.</string>
@@ -107,13 +85,11 @@
   <string name="expires">Изтича на</string>
   <string name="invalid_postdate">Невалиден дата или час</string>
   <string name="linktext">текст на връзката</string>
-  <string name="meta">Meta</string>
   <string name="no_articles_recorded">Не са записани статии.</string>
   <string name="or_publish_at">или публикувай в</string>
   <string name="override_default_form">Използвай форма</string>
   <string name="pending">Отложена</string>
   <string name="reset_time">Използвай текущото време</string>
-  <string name="search_articles">Search articles</string>
   <string name="set_to_now">Обнови с текущото време</string>
   <string name="sort_display">Сортирай и покажи</string>
   <string name="textfilter_help">Помощ за форматиране на текста</string>
@@ -132,7 +108,6 @@
   <string name="article_category">Категории статии</string>
   <string name="article_category_already_exists">Категорията статии <strong>{name}</strong> съществува.</string>
   <string name="article_category_created">Категорията статии <strong>{name}</strong> е създадена.</string>
-  <string name="article_category_description">Article category description</string>
   <string name="article_category_invalid">Категорията статии <strong>{name}</strong> не е валидна.</string>
   <string name="article_category_name">Име на категорията статии</string>
   <string name="article_category_title">Заглавие на категорията статии</string>
@@ -146,7 +121,6 @@
   <string name="file_categories_deleted">Изтрити категории файлове: <strong>{list}</strong>.</string>
   <string name="file_category_already_exists">Категорията файлове <strong>{name}</strong> съществува.</string>
   <string name="file_category_created">Категорията файлове <strong>{name}</strong> е създадена.</string>
-  <string name="file_category_description">File category description</string>
   <string name="file_category_invalid">Категорията файлове <strong>{name}</strong> не е валидна.</string>
   <string name="file_category_name">Име на категорията файлове</string>
   <string name="file_category_title">Заглавие на категорията файлове</string>
@@ -155,7 +129,6 @@
   <string name="image_categories_deleted">Изтрити категории изображения: <strong>{list}</strong>.</string>
   <string name="image_category_already_exists">Категорията изображения <strong>{name}</strong> съществува.</string>
   <string name="image_category_created">Категорията изображения <strong>{name}</strong> е създадена.</string>
-  <string name="image_category_description">Image category description</string>
   <string name="image_category_invalid">Категорията изображения <strong>{name}</strong> не е валидна.</string>
   <string name="image_category_name">Име на категорията изображения</string>
   <string name="image_category_title">Заглавие на категорията изображения</string>
@@ -164,7 +137,6 @@
   <string name="link_categories_deleted">Изтрити категории връзки: <strong>{list}</strong>.</string>
   <string name="link_category_already_exists">Категорията връзки <strong>{name}</strong> съществува.</string>
   <string name="link_category_created">Категорията връзки <strong>{name}</strong> е създадена.</string>
-  <string name="link_category_description">Link category description</string>
   <string name="link_category_invalid">Категорията връзки <strong>{name}</strong> не е валидна.</string>
   <string name="link_category_name">Име на категорията връзки</string>
   <string name="link_category_title">Заглавие на категорията връзки</string>
@@ -183,7 +155,6 @@
   <string name="back_to_login">Върнете се към входа</string>
   <string name="bad_cookie">Лоша cookie стойност.</string>
   <string name="body">Главен текст</string>
-  <string name="cancel">Cancel</string>
   <string name="cannot_instantiate_theme">Темата <strong>{name}</strong> ({class}) не успя да се зареди от {path}. Ще използваме класическата тема като заместител.</string>
   <string name="category">Категория</string>
   <string name="changeauthor">Промени автор</string>
@@ -195,7 +166,6 @@
   <string name="changesection">Промени секция</string>
   <string name="changestatus">Промени статус</string>
   <string name="close">затвори</string>
-  <string name="collapse_all">Collapse all</string>
   <string name="comment">коментар</string>
   <string name="comments_expired">тази статия не може да бъде коментирана повече.</string>
   <string name="confirm_delete_popup">Наистина ли желаете да се изтрие?</string>
@@ -210,10 +180,7 @@
   <string name="draft">Чернова</string>
   <string name="duplicate">Създай копие</string>
   <string name="excerpt">Извадка</string>
-  <string name="expand_all">Expand all</string>
   <string name="expired">Изтекла</string>
-  <string name="expire_date">Expire date</string>
-  <string name="expire_time">Expire time</string>
   <string name="external_links">Външни връзки</string>
   <string name="form_not_found">Формата не е открита</string>
   <string name="form_not_specified">Няма избрана форма</string>
@@ -241,15 +208,9 @@
   <string name="password">Парола</string>
   <string name="per_page">на страница</string>
   <string name="published_with">Публикувано с</string>
-  <string name="publish_date">Publish date</string>
-  <string name="publish_time">Publish time</string>
   <string name="range">Обхват</string>
   <string name="restricted_area">Ограничен достъп</string>
-  <string name="salutation">Dear {name},</string>
   <string name="save_new">Запази нов</string>
-  <string name="search_all">Search all</string>
-  <string name="search_clear">Clear search</string>
-  <string name="search_options">Search options</string>
   <string name="showing_search_results">Резултати {from} до {to} от {total}</string>
   <string name="site_slogan">Подзаглавие на сайта</string>
   <string name="sort_value">Стойност за сортиране</string>
@@ -277,7 +238,6 @@
   <string name="tab_presentation">Оформление</string>
   <string name="tab_sections">Секции</string>
   <string name="tab_site_admin">Потребители</string>
-  <string name="tab_skins">Skins</string>
   <string name="tab_start">Старт</string>
   <string name="tab_style">Стилове</string>
   <string name="tab_view_site">Към сайта</string>
@@ -295,15 +255,6 @@
   <string name="txt_quote_double_open">„</string>
   <string name="txt_quote_single_close">’</string>
   <string name="txt_quote_single_open">’</string>
-  <string name="units_b">B</string>
-  <string name="units_e">EB</string>
-  <string name="units_g">GB</string>
-  <string name="units_k">kB</string>
-  <string name="units_m">MB</string>
-  <string name="units_p">PB</string>
-  <string name="units_t">TB</string>
-  <string name="units_y">YB</string>
-  <string name="units_z">ZB</string>
   <string name="unmoderated">Немодериран</string>
   <string name="upload_err_cant_write">Опитът за качване на файла бе безуспешен.</string>
   <string name="upload_err_extension">Качването на файла бе спряно от PHP разширението.</string>
@@ -361,10 +312,6 @@
   <string name="cleanurl_only_apache">Clean URL се поддържат само от apache, използвайте на своя отговорност</string>
   <string name="clean_url_data_failed">Тестът на данни за Clean URL не премина</string>
   <string name="clean_url_test_failed">Тестът за Clean URL не премина.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
   <string name="detail">Детайли</string>
   <string name="dev_version_live">Вие използвате работни файлове върху сървър на живо.</string>
   <string name="diagnostic_info">Диагностична информация</string>
@@ -373,7 +320,6 @@
   <string name="document_root">Основна директория</string>
   <string name="file_uploads_disabled">Качването на файл е забранено</string>
   <string name="gd_info">{version}; поддържани формати: {supported}.</string>
-  <string name="gd_library">GD Graphics Library</string>
   <string name="high">Повече</string>
   <string name="htaccess_contents">Съдържание на .htaccess файла</string>
   <string name="htaccess_missing">Файла .htaccess липсва</string>
@@ -381,7 +327,6 @@
   <string name="is_inaccessible">е недостъпен</string>
   <string name="last_update">Последно обновяване</string>
   <string name="low">По-малко</string>
-  <string name="magic_quotes">Magic quotes</string>
   <string name="missing_files">Липсващи файлове</string>
   <string name="modified_files">Някои файлове на Textpattern са били променени</string>
   <string name="mod_rewrite_missing"><code>mod_rewrite</code> модулът на Apache не е инсталиран</string>
@@ -396,8 +341,6 @@
   <string name="php_version">PHP версия</string>
   <string name="php_version_required">Textpattern CMS изисква мин. версия {version} на PHP инсталирана на сървъра</string>
   <string name="preflight_check">Предварителна проверка</string>
-  <string name="register_globals">Register globals</string>
-  <string name="rfc2616_headers">RFC 2616 headers</string>
   <string name="rfc_2616_headers">CGI Header Mode</string>
   <string name="server">Сървър</string>
   <string name="server_time">Локално време на сървъра</string>
@@ -441,7 +384,6 @@
   <string name="name_used">Използвано име</string>
   <string name="no_comments_recorded">Няма коментари до сега.</string>
   <string name="no_ips_banned">Няма забранени IP адреси.</string>
-  <string name="search_comments">Search comments</string>
   <string name="show">Покажи</string>
   <string name="show_spam">Покажи спам</string>
   <string name="unban">Премахни забраната</string>
@@ -464,7 +406,6 @@
   <string name="file_relink">Качи/Прикачи файл</string>
   <string name="file_status">Статус на файла</string>
   <string name="file_status_missing">Липсващ</string>
-  <string name="file_status_ok">OK</string>
   <string name="file_unsynchronized">Файлът <strong>{name}</strong> Не е синхронизиран с базата данни. Моля ръчно оправете името му.</string>
   <string name="file_updated">Файлът <strong>{name}</strong> е обновен.</string>
   <string name="file_uploaded">Файлът <strong>{name}</strong> е качен.</string>
@@ -481,7 +422,6 @@
   <string name="reset_download_count">Занули броя на свалянията</string>
   <string name="reset_file_count_failure">Зануляването на файловете се провали</string>
   <string name="reset_file_count_success">Зануляването на файловете е успешно</string>
-  <string name="search_files">Search files</string>
   <string name="all_forms">Всички форми</string>
   <string name="changetype">Промени типът</string>
   <string name="create_new_form">Създай нова форма</string>
@@ -506,11 +446,9 @@
   <string name="choose_either_width_height_or_both">Посочете ширина, височина или и двете</string>
   <string name="create_thumbnail">Съдай умалено изображение</string>
   <string name="edit_image">Редактирай изображението</string>
-  <string name="extension">Extension</string>
   <string name="images">Изображения</string>
   <string name="image_deleted">Изображението <strong>{name}</strong> е изтрито.</string>
   <string name="image_delete_failed">Изображенията <strong>{name}</strong> не можаха да бъдат напълно изтрити.</string>
-  <string name="image_details">Image details</string>
   <string name="image_name">Име на изображението</string>
   <string name="image_save_error">Възникна проблем при запазване на изображението</string>
   <string name="image_save_failed">Изображението не беше запазено поради грешка. Моля, опитайте отново.</string>
@@ -524,7 +462,6 @@
   <string name="only_graphic_files_allowed">Разрешени графични файлове .jpg, .gif, .png or .swf</string>
   <string name="replace_image">Замени изображението</string>
   <string name="save_these_settings_as_default">Запази настройките по подразбиране</string>
-  <string name="search_images">Search images</string>
   <string name="thumbnail_deleted">Умаленото изображение е изтрито</string>
   <string name="thumbnail_not_saved">Умаленото изображение <strong>{id}</strong> <em>не е</em> записано!</string>
   <string name="thumbnail_saved">Умаленото изображение <strong>{id}</strong> е записано.</string>
@@ -536,16 +473,11 @@
   <string name="upload_thumbnail">Качи умалено изображение</string>
   <string name="continue">Продължи</string>
   <string name="database_stuff">Данни в базата данни</string>
-  <string name="import_blogid">Blog ID</string>
   <string name="import_database">Име на базата данни</string>
   <string name="import_file_not_found">Файла за импорт не е намерен. Именувайте файла <code>import.txt</code> и го поставете в <code>/textpattern/include/import/</code>.</string>
-  <string name="import_host">MySQL host</string>
   <string name="import_invite">Приемане на коментари по подразбиране</string>
-  <string name="import_login">MySQL user</string>
-  <string name="import_password">MySQL password</string>
   <string name="import_section">Секция в която да се импортира</string>
   <string name="import_status">Статус на статия по подразбиране</string>
-  <string name="import_wpdbcharset">Database character set</string>
   <string name="import_wpprefix">Префикс на таблицата (ако съществува)</string>
   <string name="select_tool">Импортирай от</string>
   <string name="txp_import">Импортирай съдържание от други системи за публикуване</string>
@@ -563,14 +495,12 @@
   <string name="link_text">Текст на връзката</string>
   <string name="link_updated">Връзката <strong>{name}</strong> е обновена.</string>
   <string name="no_links_recorded">Не са записани връзки.</string>
-  <string name="search_links">Search links</string>
   <string name="article_modified">Изменена</string>
   <string name="manage">Редактирай</string>
   <string name="logs">Статистики</string>
   <string name="logs_deleted">Изтрити статистики: <strong>{list}</strong>.</string>
   <string name="no_refers_recorded">Няма записано отпращане.</string>
   <string name="referrer">Отпращащ към</string>
-  <string name="search_logs">Search logs</string>
   <string name="visitor_logs">Статистики за посетителите</string>
   <string name="all_pages">Всички страници</string>
   <string name="copy_page_as">или копирай страницата, като</string>
@@ -626,16 +556,13 @@
   <string name="allow_page_php_scripting">Позволи PHP в страниците?</string>
   <string name="allow_raw_php_scripting">Позволи raw PHP код?</string>
   <string name="all_hits">Всички попадения</string>
-  <string name="all_preferences">All preferences</string>
   <string name="archive_dateformat">Формат на датата на архива</string>
   <string name="archive_date_case">Формат на датата на архива</string>
   <string name="archive_dir">Директория за архива</string>
   <string name="articles_use_excerpts">Статиите да използват извадки?</string>
   <string name="attach_titles_to_permalinks">Прилагай заглавия на постоянните връзки?</string>
   <string name="auto_dst">Автоматично нагласено <abbr title="Daylight Saving Time">лятно време</abbr>?</string>
-  <string name="category_subcategory">/category/subcategory</string>
   <string name="check_for_txp_updates">Провери за обновления</string>
-  <string name="clean">/clean/</string>
   <string name="comments_are_ol">Коментарите, като подреден списък?</string>
   <string name="comments_auto_append">Автоматично добавяй коментарите към статиите?</string>
   <string name="comments_dateformat">Формат на датата на коментарите</string>
@@ -665,8 +592,6 @@
   <string name="custom_8_set">Потребителско поле 8 име</string>
   <string name="custom_9_set">Потребителско поле 9 име</string>
   <string name="default_event">Таб по подразбиране</string>
-  <string name="default_publish_status">Default publishing status</string>
-  <string name="doctype">Doctype</string>
   <string name="edit_preferences">Настройки</string>
   <string name="edit_raw_css_by_default">Редактирай директно CSS по подразбиране?</string>
   <string name="enable_xmlrpc_server">Активирай XML-RPC на сървъра?</string>
@@ -680,7 +605,6 @@
   <string name="gmtoffset">Часова зона</string>
   <string name="ham">Всичко освен спам</string>
   <string name="hours_days_ago">преди часове/дни</string>
-  <string name="id_title">/id/title</string>
   <string name="img_dir">Директория за изображения</string>
   <string name="include_email_atom">Включи и-мейл в Atom feeds?</string>
   <string name="installing_language">Инсталиране език</string>
@@ -694,7 +618,6 @@
   <string name="leave_text_untouched">Остави текста непроменен</string>
   <string name="link">Връзки</string>
   <string name="locale">Локализация</string>
-  <string name="locale_not_available_for_language">No locale available for language <strong>{name}</strong>. Using default locale instead.</string>
   <string name="logging">Статистики</string>
   <string name="logs_expire">Изтичане на статистиките, след колко дни?</string>
   <string name="manage_languages">Управление на езиците</string>
@@ -705,16 +628,10 @@
   <string name="never_display_email">Никога не показвай email-a?</string>
   <string name="new_textpattern_version_available">Има нова версия на Textpattern. Искате ли да я пробвате?</string>
   <string name="no_popup">текущ прозорец</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Използвай ISO-8859-1 кодировка за email-ите? (по подразбиране е UTF-8)</string>
   <string name="path_from_root">Поддиректория (ако има)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> не е зададена (обновете <code>index.php</code>)</string>
   <string name="permalink_title_format">Формат на постоянните връзки</string>
-  <string name="permlink_format">Permalink title URL pattern</string>
-  <string name="permlink_hyphenated">Hyphenated (title-like-this)</string>
-  <string name="permlink_intercapped">Intercapped (TitleLikeThis)</string>
-  <string name="permlink_mode">Article URL pattern</string>
-  <string name="ping_textpattern_com">Ping textpattern.com?</string>
   <string name="ping_weblogsdotcom">Обнови pingomatic.com</string>
   <string name="plugin_cache_dir">Път за кеш директорията на приставките</string>
   <string name="preferences_saved">Настройките са запазени</string>
@@ -726,18 +643,13 @@
   <string name="production_test">Тестване</string>
   <string name="publisher_email">Изпрати логин данни от този и-мейл адрес</string>
   <string name="publish_expired_articles">Да публикува ли изтекли статии?</string>
-  <string name="record_mentions">Record mentions</string>
-  <string name="referrers_only">Referrers only</string>
   <string name="remove_lang">Изтрий езикът</string>
   <string name="rpc_connect_error">Невъзможно свързването с отдалечения сървър за налични ъпдейти за езиковите файлове. Моля, опитайте отново.</string>
   <string name="rss_how_many">Колко статии да има в RSS?</string>
-  <string name="section_id_title">/section/id/title</string>
-  <string name="section_title">/section/title</string>
   <string name="send_lastmod">Изпрати Last-Modified header</string>
   <string name="show_article_category_count">Показвай броя на статиите в категориите?</string>
   <string name="show_comment_count_in_feed">Показвай броя на коментарите в feeds?</string>
   <string name="site_prefs">Настройки на сайта</string>
-  <string name="skin_base_path">Skin base path</string>
   <string name="smtp_from">SMTP адрес на подател</string>
   <string name="spam_blacklists">АнтиСПАМ списъци (отделени със запетая)</string>
   <string name="syndicate_body_or_excerpt">Включете извадките в feed</string>
@@ -747,7 +659,6 @@
   <string name="theme_name">Тема на админ. панела</string>
   <string name="timeoffset">Времево отместване (в часове)</string>
   <string name="title_no_widow">Предотврати оставането на единични думи на ред (За повече от един ред в заглавието)?</string>
-  <string name="title_only">/title</string>
   <string name="updated">Обновена</string>
   <string name="updated_branch_version_available">Налична е обновена версия на Textpattern.</string>
   <string name="update_languages">Обновяване на езиците</string>
@@ -758,7 +669,6 @@
   <string name="use_dns">Използване на DNS?</string>
   <string name="use_mail_on_feeds_id">Използвай email за изграждане на feed id-тата (по подразбиране е URL на сайта)?</string>
   <string name="use_plugins">Използвай приставки?</string>
-  <string name="year_month_day_title">/year/month/day/title</string>
   <string name="403_forbidden">Забранено</string>
   <string name="404_not_found">Търсената страница не е намерена.</string>
   <string name="410_gone">Изисканата страница не съществува повече.</string>
@@ -771,7 +681,6 @@
   <string name="articles_found">намерени статии</string>
   <string name="article_context">статия</string>
   <string name="article_found">намерена статия</string>
-  <string name="atom_feed_title">Atom feed</string>
   <string name="attribute_values_must_be_quoted">Данните за атрибути трчбва да са в кавички.</string>
   <string name="author">Автор</string>
   <string name="authors">Автори</string>
@@ -794,7 +703,6 @@
   <string name="comments_on">коментирането е разрешено</string>
   <string name="comments_permlink">Постоянна връзка</string>
   <string name="comment_comment">Коментар</string>
-  <string name="comment_duplicate">Duplicate comments are not accepted.</string>
   <string name="comment_email">Електронна поща</string>
   <string name="comment_email_required">Моля въведете валидния адрес на Вашата електронна поща.</string>
   <string name="comment_invitation">Покана</string>
@@ -827,7 +735,6 @@
   <string name="deprecated_function">Функцията <strong>{name}</strong> е остаряла</string>
   <string name="deprecated_function_with">Функцията <strong>{name}</strong> е остаряла: ползвайте <strong>{with}</strong> вместо нея.</string>
   <string name="deprecated_tag">Осарял таг</string>
-  <string name="documentation">Documentation</string>
   <string name="download_count">Брой сваляния</string>
   <string name="edit">Редактирай</string>
   <string name="email">Електронна поща</string>
@@ -849,7 +756,6 @@
   <string name="form">Форма</string>
   <string name="forms">Форми</string>
   <string name="go">Търси</string>
-  <string name="go_back">Go back</string>
   <string name="go_content">Иди при съдържанието</string>
   <string name="go_nav">Иди при навигацията</string>
   <string name="go_search">Иди при търсенето</string>
@@ -857,7 +763,6 @@
   <string name="go_txp_com">Иди при сайта на Textpattern</string>
   <string name="header">хедър</string>
   <string name="home">старт</string>
-  <string name="host">Host</string>
   <string name="hour">час</string>
   <string name="hours">часа</string>
   <string name="hr">хоризонтална линия</string>
@@ -870,7 +775,6 @@
   <string name="keywords">Ключови думи</string>
   <string name="label">Етикет</string>
   <string name="last_modification">Последна модификация</string>
-  <string name="linebreak">line break</string>
   <string name="link_context">връзка</string>
   <string name="list">Списък</string>
   <string name="list_articles">Списък на статиите</string>
@@ -897,16 +801,13 @@
   <string name="next">Следващ</string>
   <string name="no">Не</string>
   <string name="none">Никой</string>
-  <string name="nopopup">current window</string>
   <string name="no_comments">Няма коментари към тази статия.</string>
   <string name="no_search_matches">Няма попадения отговарящи на Вашето търсене.</string>
   <string name="numeric_list">Номериран списък</string>
-  <string name="of">of</string>
   <string name="off">Изключен</string>
   <string name="older">По-стари</string>
   <string name="on">Включен</string>
   <string name="only_articles_can_be_previewed">Забележка: само формите за статии могат да бъдат прегледани предварително.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Страница</string>
   <string name="pages">Страници</string>
   <string name="paragraph">параграф</string>
@@ -914,7 +815,6 @@
   <string name="permlink">Постояна връзка</string>
   <string name="plugin_load_error">Възникна проблем при зареждането на приставката:</string>
   <string name="plugin_load_error_above">Следните грешки са породени от приставка:</string>
-  <string name="popup">popup window</string>
   <string name="post">Публикация</string>
   <string name="posted">Публикувано</string>
   <string name="posted_by">Публикувано от</string>
@@ -932,7 +832,6 @@
   <string name="remember">Запомни</string>
   <string name="required">Задължително</string>
   <string name="revert">Към предишно състояние</string>
-  <string name="rss_feed_title">RSS feed</string>
   <string name="save">Запази</string>
   <string name="saved">запазени</string>
   <string name="save_button">Запази</string>
@@ -947,8 +846,6 @@
   <string name="status">Статус</string>
   <string name="strong">удебелен</string>
   <string name="submit">Изпрати</string>
-  <string name="subscript">subscript</string>
-  <string name="superscript">superscript</string>
   <string name="tag_error">Грешка в тага:</string>
   <string name="textile_help">Помощ за Textile</string>
   <string name="textile_lite_help">Помощ за Textile Lite</string>
@@ -970,7 +867,6 @@
   <string name="update">Обнови</string>
   <string name="upload">Качи</string>
   <string name="uploaded">качени</string>
-  <string name="url">URL</string>
   <string name="value">Стойност</string>
   <string name="version">Версия</string>
   <string name="view">Изглед</string>
@@ -982,7 +878,6 @@
   <string name="your_branch_is_updated">Вие използвате най-новата версия на Textpattern.</string>
   <string name="your_ip_is_blacklisted_by">Вашият IP адрес е включен в черния списък от</string>
   <string name="you_have_been_banned">Забранено ви е да пишете коментари.</string>
-  <string name="yyyy-mm">yyyy-mm</string>
   <string name="article_count">Статии в тази секция: {num}.</string>
   <string name="create_section">Създай секция</string>
   <string name="default_write_section">Секция по подразбиране</string>
@@ -992,7 +887,6 @@
   <string name="edit_sections">Редактирай секциите</string>
   <string name="include_in_search">Включи в търсенето из сайта</string>
   <string name="on_front_page">На началната страница</string>
-  <string name="search_sections">Search sections</string>
   <string name="section">Секция</string>
   <string name="sections">Секции</string>
   <string name="section_created">Секцията <strong>{name}</strong> е създадена.</string>
@@ -1035,8 +929,6 @@
   <string name="installation_postamble">За сигурност трябва да премахнете <code>setup</code> директорията от Вашия Textpattern сайт. Моля проверявайте в Администрация Диагностика от време на време за съобщения и съвети.</string>
   <string name="mysql_database">MySQL база данни</string>
   <string name="mysql_login">MySQL login</string>
-  <string name="mysql_password">MySQL password</string>
-  <string name="mysql_server">MySQL server</string>
   <string name="my_site">Моя сайт</string>
   <string name="my_slogan">Моето смислено заглавие</string>
   <string name="name_required">Моля въведете валидно потребителско име</string>
@@ -1051,12 +943,6 @@
   <string name="progress_steps">Инсталацията се състои от 4 стъпки:</string>
   <string name="setup_comment_invite">Коментар</string>
   <string name="setup_login">Изберете си псевдоним (основни знаци и интервали)</string>
-  <string name="setup_password_strength_0">Poor</string>
-  <string name="setup_password_strength_1">Weak</string>
-  <string name="setup_password_strength_2">Fair</string>
-  <string name="setup_password_strength_3">Good</string>
-  <string name="setup_password_strength_4">Strong</string>
-  <string name="setup_show_password">Show password</string>
   <string name="set_db_details">Въведете информацията за базата данни</string>
   <string name="set_temp_dir_prefs">Съжаляваме, но не намерихме директория с права да запасим времени файлове. Погледнете в <strong>Разширени настройки</strong> и поправете <strong>пътя към временната директория</strong> според вашите нужди.</string>
   <string name="site_config">Конфигурация на сайта</string>
@@ -1071,13 +957,6 @@
   <string name="your_email">Вашият email адрес</string>
   <string name="your_full_name">Пълното ви име</string>
   <string name="you_can_access">Може да влезете в <a href="index.php">основния интерфейс</a> с вашия псевдоним и парола.</string>
-  <string name="create_skin">Create skin</string>
-  <string name="edit_skin">Edit skin</string>
-  <string name="skin_author">Skin author</string>
-  <string name="skin_name">Skin name</string>
-  <string name="skin_title">Skin title</string>
-  <string name="skin_version">Skin version</string>
-  <string name="skin_website">Skin website</string>
   <string name="active_class">CSS-клас за активните елементи в списъка</string>
   <string name="align">Подравняване</string>
   <string name="allowoverride">Разреши промяната на формата?</string>
@@ -1156,7 +1035,6 @@
   <string name="tag_author">Автор</string>
   <string name="tag_body">Статия</string>
   <string name="tag_body_excerpt">Извадка от статията</string>
-  <string name="tag_breadcrumb">Breadcrumb</string>
   <string name="tag_category">Категория</string>
   <string name="tag_category1">Категория 1</string>
   <string name="tag_category2">Категория 2</string>
@@ -1199,7 +1077,6 @@
   <string name="tag_if_category">Ако е категория</string>
   <string name="tag_if_section">Ако е секция</string>
   <string name="tag_image">Изображение</string>
-  <string name="tag_inline_">Inline at end</string>
   <string name="tag_lang">Език</string>
   <string name="tag_link">Само връзка</string>
   <string name="tag_linkdesctitle">Връзка, title=Описание</string>
@@ -1242,7 +1119,6 @@
   <string name="tag_site_name">Име на сайта</string>
   <string name="tag_site_slogan">Подзаглавие на сайта</string>
   <string name="tag_title">Заглавие</string>
-  <string name="tag__inline">Inline at beginning</string>
   <string name="textonly">Само текст?</string>
   <string name="text_or_tag">* текст или таг *</string>
   <string name="this_section">Връзка към текущата секция?</string>

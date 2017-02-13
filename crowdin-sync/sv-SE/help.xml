@@ -69,12 +69,78 @@
     <li>kan hantera sektioner</li>
     <li>kan hantera sidor, former och stilar</li>
 </ul></string>
-  <string name="add_new_author"><h1>Användare: Lägg till ny författare</h1>
-<p>Ett lösenord, välkomstmeddelande och instruktioner om hur du loggar in kommer att epostas till den nye författaren.</p></string>
+  <string name="add_new_author"><h2>Användare: Lägg till ny författare</h2>
+<p>Ett lösenord, välkomstmeddelande och instruktioner om hur du loggar in kommer att e-postas till den nye författaren.</p></string>
   <string name="admin_side_plugins"><h1>Inställningar: Använd administratörs-sidtillägg?</h1>
 <p>Administratörs-sidtillägg kan ändra funktionen av administrationsgränssnittet. De kan koppla in redan befintliga åtgärder, som redigering eller publicering av artiklar, eller de kan lägga till nya paneler för extra/utökad funktionalitet.</p>
 <p>Om du vill lära dig mer om administratörs-sidtillägg, ta då en titt på <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Extending Textpattern</a> sida i <a rel="external" target="_blank" href="http://docs.textpattern.io/">Textpattern User Documentation</a>. Alla sorters tillägg finns listade på <a rel="external" target="_blank" href="http://textpattern.org/">Textpattern Resources</a> webbplatsen.</p></string>
-  <string name="allow_article_php_scripting"><h1>Inställningar: Tillåt PHP i artiklar?</h1>
-<p>Aktiverad kommer denna inställning att tillåta användning av PHP i artiklar. Författaren måste ha tillräckliga behörigheter för detta (standard är det endast <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Utgivare’</a> och <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Redaktionschef’</a> som kan).</p>
-<p>PHP-koden får inte innehålla taggar för öppning och stängning av PHP-taggar och måste även inneslutas i <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/php"><code>&lt;txp:php&gt;</code> taggar</a>.</p></string>
+  <string name="remember_login"><h2>Kom ihåg inloggning</h2>
+<p>Markerad kommer du att vara inloggad på ditt Textpattern-konto med nuvarande webbläsare, tills du väljer att logga ut. Om du låter den vara avmarkerad, kommer du att bli automatiskt utloggad efter en tid av inaktivitet.</p>
+<p>Kräver att cookies är aktiverat i din webbläsare.</p></string>
+  <string name="article_image"><h2>Skriva: Artikelbild</h2>
+<p>Om du vill inkludera en bild med denna artikel, ange en av följande här:</p>
+<ol>
+    <li>en Textpattern bild-ID</li>
+    <li>en relativ URL till bilden (t.ex <code>/images/my_pic.jpg</code>)</li>
+    <li>en fullständiga URL (t.ex <code>http://example.com/path/to/images/my_pic.jpg</code>)</li>
+</ol>
+<p>Bilden kan visas genom att placera en <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/article_image"><code>&lt;txp:article_image /&gt;</code> tagg <span class="ui-icon ui-icon-extlink">(öppnar extern länk i ett nytt fönster)</span></a> i en artikelform. Den kommer att visa en fullständig HTML <code>&lt;img&gt;</code>-tagg till den valda bilden.</p></string>
+  <string name="body"><h2>Skriv: Brödtext</h2>
+<p>Det huvudsakliga innehållet i en artikel finns i artiklens brödtext.</p>
+<p>När du skriver eller förbereda artiklar för publicering i Textpattern, du kan växla mellan tre vyer av artikeln: oformatterad text, HTML-kod (koden med vilken en webbläsare skapar artikeln), och en renderade förhandsvisning.</p></string>
+  <string name="description"><h2>Skriv: Beskrivning</h2>
+<p>Artikelbeskrivningen är en valfri komponent som kan hjälpa sökmotorer och sökrobotar att bättre identifiera och sortera innehåll.</p>
+<p>Artikelbeskrivningen är begränsad till maximalt 255 tecken. Observera att vissa sökmotorer sätter teckenbegränsningen efter längden på en sidas <code>meta-beskriving</code> för praktisk visning på sökmotorns resultatsida (SERPs) och detta kan vara mindre än de 255 tecken som Textpattern har.</p>
+<p>Observera att artikelbeskrivningen skiljer sig från artikelutdraget, även om de båda accepterar liknande innehåll. Artikelbeskrivning bör i första hand vara avsedd för sökmotorer och sökrobotar, medan artikelutdraget är mer lämpad för en artikelsammanfattning läsbar när så önskas.</p></string>
+  <string name="excerpt"><h2>Write: Utdrag</h2>
+<p>Artikelutdrag är valfria. Utdrag ska användas som en kort sammanfattning av artikeln som visas som en del av en innehållsförteckning, som används i stället för hela artikelbrödtexten i webbplatsens RSS-/Atom-flöden, eller ett antal andra användningsområden.</p></string>
+  <string name="expire_date"><h2>Skriva: Utgångsdatum</h2>
+<p>Tiden en artikel är märkt som utgången. Tiden är frivilligt och kan ställas in på en godtycklig tid i det förflutna eller framåt i tiden.</p>
+<p>Rutorna innehåller följande information:</p>
+<ul>
+    <li>År / Månad / Dag</li>
+    <li>Timmar (24-timmarsformat) : Minut : Sekund</li>
+</ul>
+<p>När tiden inträffar, eller om en tid som redan varit anges, kommer artikeln att utgå.</p>
+<p>Om alternativet att visa utgångna artiklar är aktiverat förblir artikeln synlig. Om alternativet att visa utgångna artiklar inaktiveras kommer besökare till artikelsidan få ett HTTP 410-fel i stället för artikelns innehåll.</p></string>
+  <string name="keywords"><h2>Write: Nyckelord</h2>
+<p>Nyckelord är användbara till att förfina sambanden mellan artiklar utöver de som tillhandahålls av kategorierna.</p>
+<p>Nyckelord måste vara enskilda ord separerade med kommatecken.</p></string>
+  <string name="override_form"><h2>Skriv: Åsidosätt formulär</h2>
+<p>Om du önskar att en artikel ska använda en form som skiljer sig från den som ges som standard - till exempel om du vill visa endast ett artikelutdrag med <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/excerpt"><code>&lt;txp:excerpt /&gt;</code> <span class="ui-icon ui-icon-extlink">(öppnar extern länk i ett nytt fönster)</span></a> där du normalt visar hela artikeln med <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/body"><code>&lt;txp:body /&gt;</code> <span class="ui-icon ui-icon-extlink">(öppnar extern länk i ett nytt fönster)</span></a> - detta kan göras här.</p></string>
+  <string name="publish_date"><h2>Write: Publiceringdatum</h2>
+<p>The time an article or file is published or most-recently revised. The time can be set to the moment the item is published, or to an arbitrary time in the past or future.</p>
+<p>The boxes correspond to the following information:</p>
+<ul>
+    <li>År / Månad / Dag</li>
+    <li>Timmar (24-timmarsformat) : Minut : Sekund</li>
+</ul>
+<p>Ett objekt med en tidsstämpel som är större än den aktuella tiden (d.v.s. i framtiden) kommer inte att synas på förstasidan eller i RSS-/Atom-flödet tills den tiden kommer.</p></string>
+  <string name="title"><h2>Skriv: Rubrik</h2>
+<p>Skapa en lämplig rubrik för den här artikeln.</p>
+<p>Artikelns rubrik är begränsad till maximalt 255 tecken.</p></string>
+  <string name="url_title"><h2>Skriv: URL-rubrik</h2>
+<p>Om du vill ha en särskild rubrik fäst till permanent URL för din artikel, ange den här. Om den lämnas tom, kommer URL-rubriken att automatiskt skapas från artikelns rubrik.</p>
+<p>Detta är särskilt användbart om rubriken på din artikel använder icke-ASCII-tecken.</p></string>
+  <string name="file_category"><h2>Kategorier: Filer</h2>
+<p>Filkategorier är valfritt och är användbart om du vill gruppera vissa uppladdade filer tillsammans.</p></string>
+  <string name="cleanurl_only_apache"><h2>Diagnostik: Clean URL support</h2>
+<p>Det är endast Apache som stöder rena URL:er. Om du använder en annan serverplattform, använd korta URL: er på egen risk.</p></string>
+  <string name="dns_lookup_fails"><h2>Diagnostik: DNS-fel</h2>
+<p>Det verkar som om URL:en du angav till din webbplats inte är tillgänglig.</p></string>
+  <string name="htaccess_missing"><h2>Diagnostik: filen .htaccess saknas</h2>
+<p>Du använder ett permanent länkläge som kräver en <code>.htaccess</code>-fil som ska placeras i rotkatalogen på din webbplats. De rekommenderade direktiven är:</p>
+<pre><code>&lt;IfModule mod_rewrite.c&gt;
+    RewriteEngine On
+    #RewriteBase /relative/web/path/
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^(.+) - [PT,L]
+    RewriteCond %{REQUEST_URI} !=/favicon.ico
+    RewriteRule ^(.*) index.php
+    RewriteCond %{HTTP:Authorization}  !^$
+    RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+&lt;/IfModule&gt;</code></pre></string>
+  <string name="old_files"><h2>Diagnostik: Gamla filer</h2>
+<p>Vissa Textpattern-filer är inaktuella och bör ersättas med de senaste versionerna från den aktuella stabila utgåvan.</p></string>
 </resources>

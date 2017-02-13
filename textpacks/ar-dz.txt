@@ -1,4 +1,4 @@
-#@version 4.6.2;1480596588
+#@version 4.6.2;1485432808
 #@admin
 account_activation => الرجاء تنشيط حسابك
 account_activation_confirmation => الرجاء استخدام الرابط أدناه لتنشيط حسابك وقم بإعداد كلمة السر.
@@ -253,6 +253,7 @@ lang_dir => rtl
 last_modified =>
 links => الروابط
 link_category => فئة الرابط
+list_options =>
 logged_in_as => متصل كـ
 login => دخول
 login_to_textpattern => الاتصال إلى txp

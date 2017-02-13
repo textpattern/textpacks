@@ -69,12 +69,240 @@
     <li>can manage sections</li>
     <li>can manage pages, forms and style</li>
 </ul></string>
-  <string name="add_new_author"><h1>Users: Add new author</h1>
+  <string name="add_new_author"><h2>Users: Add new author</h2>
 <p>A password, welcome message and login instructions will be emailed to the new author.</p></string>
   <string name="admin_side_plugins"><h1>Preferences: Use admin-side plugins?</h1>
 <p>Admin-side plugins can change the operation of the administration interface. They might hook into already existing actions, like editing or publishing articles, or they might add new panels for added/extended functionality.</p>
 <p>If you would like to learn more about admin-side plugins, please see the <a rel="external" target="_blank" href="http://docs.textpattern.io/development/">Extending Textpattern</a> page in <a rel="external" target="_blank" href="http://docs.textpattern.io/">Textpattern User Documentation</a>. Plugins of all sorts are listed in the <a rel="external" target="_blank" href="http://textpattern.org/">Textpattern Resources</a> site.</p></string>
-  <string name="allow_article_php_scripting"><h1>Preferences: Allow PHP in articles?</h1>
-<p>When enabled, this setting will allow use of PHP within articles. The author must have sufficient privileges to do so (by default, only <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Publishers’</a> and <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/user-roles-and-privileges">‘Managing Editors’</a> can).</p>
-<p>PHP code must have opening and closing PHP tags omitted, and also be enclosed within <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/php"><code>&lt;txp:php&gt;</code> tags</a>.</p></string>
+  <string name="remember_login"><h2>Remember login</h2>
+<p>When checked, you will remain logged in to your Textpattern account with the current web browser, until you choose to log out. If left unchecked, you will be automatically logged out after a period of inactivity.</p>
+<p>Requires cookies to be enabled in your browser.</p></string>
+  <string name="article_image"><h2>Write: Article image</h2>
+<p>If you would like to associate a single image with this article, place one of the following here:</p>
+<ol>
+    <li>a Textpattern image ID</li>
+    <li>a relative URL to the image (e.g. <code>/images/my_pic.jpg</code>)</li>
+    <li>a fully-qualified URL (e.g. <code>http://example.com/path/to/images/my_pic.jpg</code>)</li>
+</ol>
+<p>The image can be displayed by placing a <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/article_image"><code>&lt;txp:article_image /&gt;</code> tag <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> inside an article form. It will output a complete HTML <code>&lt;img&gt;</code> tag to your chosen image.</p></string>
+  <string name="body"><h2>Write: Body</h2>
+<p>The main content of an article is contained within the article body.</p>
+<p>When composing or preparing articles for publication in Textpattern, you can switch between three views of the article: plain text, HTML markup (the code with which a web browser renders the article), and a rendered preview.</p></string>
+  <string name="description"><h2>Write: Description</h2>
+<p>The article description is an optional component that can help search engines and website crawlers better identify and sort content.</p>
+<p>The article description is limited to a maximum of 255 characters. Note that some search engines place character limits on the length of a page’s <code>meta description</code> for practicality of display in search engine results pages (SERPs) and this may be less than the 255 character limit in Textpattern.</p>
+<p>Note that the article description differs from the article excerpt, though they both accept similar content. The article description should be primarily intended for use with search engines and crawlers, whereas the the article excerpt is more suited for a human-readable article summary where desired.</p></string>
+  <string name="excerpt"><h2>Write: Excerpt</h2>
+<p>Article excerpts are optional. Excerpts could be used as a short summary of the article that is displayed as part of a table of contents, used in place of the full article body in the site’s RSS/Atom feeds, or a number of other uses.</p></string>
+  <string name="expire_date"><h2>Write: Expire date</h2>
+<p>The time an article is labelled as expired. The time is optional and can be set to an arbitrary time in the past or future.</p>
+<p>The boxes correspond to the following information:</p>
+<ul>
+    <li>Year / Month / Day</li>
+    <li>Hour (24-hour format) : Minute : Second</li>
+</ul>
+<p>When the time arrives, or in the case where a time in the past is provided, the article expires.</p>
+<p>If the option to display expired articles is enabled, the article remains visible. If the option to display expired articles is disabled, visitors to the article page will be served an HTTP 410 error in place of the article content.</p></string>
+  <string name="keywords"><h2>Write: Keywords</h2>
+<p>Keywords are useful for refining the relationships between articles beyond those provided by categories.</p>
+<p>Keywords must be individual words separated by commas.</p></string>
+  <string name="override_form"><h2>Write: Override form</h2>
+<p>If you wish for an article to use a form different from that assigned by default - for example if you want to show only an article excerpt with <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/excerpt"><code>&lt;txp:excerpt /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> where you normally show the entire article with <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/body"><code>&lt;txp:body /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> - this can be set here.</p></string>
+  <string name="publish_date"><h2>Write: Publish date</h2>
+<p>The time an article or file is published or most-recently revised. The time can be set to the moment the item is published, or to an arbitrary time in the past or future.</p>
+<p>The boxes correspond to the following information:</p>
+<ul>
+    <li>Year / Month / Day</li>
+    <li>Hour (24-hour format) : Minute : Second</li>
+</ul>
+<p>An item with a timestamp greater than the current time (i.e. in the future) will not appear on the front end and the RSS/Atom feeds until that time arrives.</p></string>
+  <string name="title"><h2>Write: Title</h2>
+<p>Add an appropriate title for this article.</p>
+<p>An article title is limited to a maximum of 255 characters.</p></string>
+  <string name="url_title"><h2>Write: URL-only title</h2>
+<p>If you would like to have a specific title attached to the permalink URL for your article, enter it here. If it is left blank, the URL title will be automatically generated from the article title.</p>
+<p>This is particularly useful if the title of your article uses non-ASCII characters.</p></string>
+  <string name="article_category"><h2>Categories: Articles</h2>
+<p>Unlike sections, which define the navigational structure of a site, article categories allow organization of articles by their subject matter. Once categories are assigned, lists of articles belonging to particular categories can be browsed.</p>
+<p>For example, likely article categories on a site about food might be:</p>
+<ul>
+    <li>raw ingredients</li>
+    <li>shopping</li>
+    <li>recipes</li>
+    <li>presentation</li>
+    <li>restaurants</li>
+    <li>chefs</li>
+</ul></string>
+  <string name="category_description"><h2>Categories: Description</h2>
+<p>The category description is an optional component that can help search engines and website crawlers better identify and sort content.</p>
+<p>The category description is limited to a maximum of 255 characters. Note that some search engines place character limits on the length of a page’s <code>meta description</code> for practicality of display in search engine results pages (SERPs) and this may be less than the 255 character limit in Textpattern.</p></string>
+  <string name="file_category"><h2>Categories: Files</h2>
+<p>File categories are optional, and are useful if you want to group certain uploaded files together.</p></string>
+  <string name="image_category"><h2>Categories: Images</h2>
+<p>Image categories are useful both for internal organization, and for defining image sets that can be displayed using the <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_index"><code>&lt;txp:image_index /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> and <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/image_display"><code>&lt;txp:image_display /&gt;</code> <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> tags.</p></string>
+  <string name="link_category"><h2>Categories: Links</h2>
+<p>Link categories are optional, and are useful if you want to display different groupings of links, e.g. ‘Friends’, ‘Romans’, ‘Countrymen’.</p>
+<p>Selective link lists such as these are output with the <a rel="external" target="_blank" href="http://docs.textpattern.io/tags/linklist"><code>&lt;txp:linklist /&gt;</code> tag <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> like so:</p>
+<pre><code>&lt;code&gt;&lt;txp:linklist category="Friends" /&gt;&lt;/code&gt;.</code></pre></string>
+  <string name="clean_url_data_failed"><h2>Diagnostics: Clean URL data failed</h2>
+<p>It appears that either your site URLs (<code>http://example.com/section/article</code>) are currently not working or your server does not support the test procedure to determine if clean URLs work or not; if clean URLs on your site work, you can safely ignore this message.</p>
+<p>If clean URLs are <em>not</em> working it may mean either:</p>
+<ul>
+    <li>your ‘Site URL’ setting is incorrect, or the page at that address is not managed by this copy of Textpattern.</li>
+    <li>your server requires some changes to <code>.htaccess</code> in order to make clean URLs work.</li>
+    <li>your server doesn’t support clean URLs at all.</li>
+</ul>
+<p>The clean URL test attempts to fetch a page from the web address specified in the ‘Site URL’ preference in order to check that all clean URL parameters are working correctly. If that URL is a different site, or has been replaced with a static page or similar, the test will fail. Until the issue is resolved you will have to use messy URLs on your site instead (<code>http://example.com?s=section&amp;id=4</code>). Ensure the ‘Permanent link mode’ in Admin Preferences is set accordingly.</p>
+<p>Note that using a plugin to put a site in ‘maintenance mode’ may trigger this warning.</p></string>
+  <string name="clean_url_test_failed"><h2>Diagnostics: Clean URL test failed</h2>
+<p>It appears that either your site URLs (<code>http://example.com/section/article</code>) are currently not working or your server does not support the test procedure to determine if clean URLs work or not; if clean URLs on your site work, you can safely ignore this message.</p>
+<p>If clean URLs are not working it may mean either:</p>
+<ul>
+    <li>your ‘Site URL’ setting is incorrect, or the page at that address is not managed by this copy of Textpattern</li>
+    <li>your server requires some changes to <code>.htaccess</code> in order to make clean URLs work</li>
+    <li>your server doesn’t support clean URLs at all</li>
+</ul>
+<p>The clean URL test attempts to fetch a page from the web address specified in the ‘Site URL’ preference in order to check that all clean URL parameters are working correctly. If that URL is a different site, or has been replaced with a static page or similar, the test will fail. Until the issue is resolved you will have to use messy URLs on your site instead (<code>http://example.com?s=section&amp;id=4</code>). Ensure the ‘Permanent link mode’ in Admin Preferences is set accordingly.</p></string>
+  <string name="cleanurl_only_apache"><h2>Diagnostics: Clean URL support</h2>
+<p>Clean URLs are only supported on Apache. If you are using another server platform, use short URLs at your own risk.</p></string>
+  <string name="dev_version_live"><h2>Diagnostics: Development code on a live server</h2>
+<p>You are running in-development files on a live production site which is not recommended. If you know this already and are happy to do so, you may ignore this warning.</p></string>
+  <string name="dir_not_writable"><h2>Diagnostics: Directory is not writable</h2>
+<p>To use the file and image upload capabilities, these directories have to be writable by PHP. Usually this means you have to change permissions so the web server user has write access to the directory. This can be done with your FTP client, or alternatively on the command line by issuing a <code>chmod 755 /path/to/dir</code> command.</p></string>
+  <string name="dns_lookup_fails"><h2>Diagnostics: DNS fails</h2>
+<p>It appears the URL you specified as the address of your site is unreachable.</p></string>
+  <string name="file_uploads_disabled"><h2>Diagnostics: File uploads are disabled</h2>
+<p>Your current server configuration shows that file uploads are disabled so you will not be able to upload using Textpattern’s ‘Files’ and/or ‘Images’ panel. Please check and alter the <code>file_uploads</code> setting in <code>php.ini</code> (or ask your host to alter it).</p></string>
+  <string name="htaccess_missing"><h2>Diagnostics: .htaccess file missing</h2>
+<p>You are using a permanent link mode which requires an <code>.htaccess</code> file to be placed in your site root directory. The recommended directives are:</p>
+<pre><code>&lt;IfModule mod_rewrite.c&gt;
+    RewriteEngine On
+    #RewriteBase /relative/web/path/
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^(.+) - [PT,L]
+    RewriteCond %{REQUEST_URI} !=/favicon.ico
+    RewriteRule ^(.*) index.php
+    RewriteCond %{HTTP:Authorization}  !^$
+    RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+&lt;/IfModule&gt;</code></pre></string>
+  <string name="index_inaccessible"><h2>Diagnostics: Site index inaccessible</h2>
+<p>The main <code>index.php</code> file specified as the index for your site is unreadable by the server. Please check permissions.</p></string>
+  <string name="missing_files"><h2>Diagnostics: Missing files</h2>
+<p>Some essential files are missing from your Textpattern installation. Ensure that all the listed files are present on your server and are in the correct locations.</p></string>
+  <string name="mod_rewrite_missing"><h2>Diagnostics: Apache mod_rewrite missing</h2>
+<p>Apache’s <code>mod_rewrite</code> module is not installed, or installed but not enabled. This is recommended for Textpattern to function correctly. Please check your <code>.htaccess</code> file is set up correctly, or contact your host for assistance.</p></string>
+  <string name="modified_files"><h2>Diagnostics: Modified files</h2>
+<p>Files are determined to be modified if their respective checksum differs from the known-good checksum list. If any files in the Textpattern installation are different to those expected, the files will be highlighted here. This is not necessarily a problem, but may be worth checking out if you are having problems with the functionality of your site.</p></string>
+  <string name="mysql_table_errors"><h2>Diagnostics: MySQL table errors</h2>
+<p>Something is probably corrupt or otherwise damaged in your MySQL database. If you have access to a MySQL access tool, such as <a rel="external" target="_blank" href="https://www.phpmyadmin.net">phpMyAdmin <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a>, try repairing the affected table(s).</p></string>
+  <string name="no_temp_dir"><h2>Diagnostics: No temp directory defined</h2>
+<p>While Textpattern will run without a temporary directory, some functionality may not work as expected if this preference is not set. Please visit Admin Preferences and set up the ‘Temporary directory path’.</p></string>
+  <string name="old_files"><h2>Diagnostics: Old files</h2>
+<p>Some Textpattern files are out-of-date and should be replaced with the latest versions from the relevant stable release.</p></string>
+  <string name="old_placeholder_exists"><h2>Diagnostics: Section placeholder file exists</h2>
+<p>As of Textpattern version 4.0, section placeholder files are no longer required, and will conflict with the the new <code>.htaccess</code> scheme. If the reported files are placeholders, please delete them.</p></string>
+  <string name="path_not_doc_root"><h2>Diagnostics: path_to_site does not match</h2>
+<p>Two variables set by your web server which should match, but do not.</p></string>
+  <string name="path_to_site_inacc"><h2>Diagnostics: Site directory unreadable</h2>
+<p>The directory containing the <code>index.php</code> file specified as the index for your site is unreadable by the server. Please check permissions.</p></string>
+  <string name="php_version_required"><h2>Diagnostics: Minimum version requirements</h2>
+<p>Textpattern requires certain functionality present in the PHP programming language and MySQL database server. Please consult the following table to determine the minimum system requirements for the version of Textpattern you have downloaded:</p>
+<div class="txp-listtables">
+    <table class="txp-list">
+        <thead>
+            <tr>
+                <th scope="col">Textpattern version</th>
+                <th scope="col">Minimum PHP version</th>
+                <th scope="col">Minimum MySQL version</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">4.6.x</th>
+                <td>5.3.3</td>
+                <td>4.1</td>
+            </tr>
+            <tr>
+                <th scope="row">4.5.x</th>
+                <td>5.2.3</td>
+                <td>4.1</td>
+            </tr>
+            <tr>
+                <th scope="row">4.0.1 - 4.4.1</th>
+                <td>4.3</td>
+                <td>3.23</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<p>In addition to the above system requirements, the following PHP extensions are required:</p>
+<ul>
+    <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.mysql.php">MySQL <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a></li>
+    <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.xml.php">XML <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a></li>
+    <li><a rel="external" target="_blank" href="https://secure.php.net/manual/en/ref.json.php">JSON <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a></li>
+</ul>
+<p>Your <code>php.ini</code> file, either global or local, should contain a <code>date.timezone</code> setting.</p></string>
+  <string name="setup_still_exists"><h2>Diagnostics: \'setup\' directory still exists</h2>
+<p>When Textpattern has been installed, the <code>textpattern/setup</code> directory and its contents are no longer needed and should be deleted. You will continue to receive this warning until it has been removed, as this can potentially be a security concern.</p></string>
+  <string name="site_url_mismatch"><h2>Diagnostics: Site URL mismatch</h2>
+<p>The Site URL as set in the ‘Preferences’ administration panel does not match the actual URL you use to visit your website.</p>
+<p>If your website can be reached through multiple different URLs, or if the links on your Textpattern powered website all function correctly, you can safely ignore this warning.</p>
+<p>Otherwise, you are advised to correct the ‘Site URL’ setting in Admin Preferences. An educated guess of the correct Site URL is shown in the pre-flight warning message on the ‘Diagnostics’ administration panel.</p></string>
+  <string name="some_php_functions_disabled"><h2>Diagnostics: The following PHP functions: [&#8230;] are disabled on your server</h2>
+<p>This means your hosting company or server administrator has disabled one or more PHP functions, some of which may affect the running of Textpattern.</p>
+<p>Please consult the <a rel="external" target="_blank" href="http://docs.textpattern.io/administration/diagnostics-panel">Textpattern User Documentation <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> for further information.</p></string>
+  <string name="textpattern_version_update"><h2>Diagnostics: Textpattern CMS version update</h2>
+<p>There is a newer version of Textpattern CMS available. To take advantage of the latest features and security, it is recommended you upgrade.</p>
+<p>Please note that while we strive to make the upgrade experience as seamless and pain-free as possible:</p>
+<ul>
+    <li>If only the last digit differs from your current version, the upgrade is likely to be backwards compatible with plugins and themes.</li>
+    <li>If the last two digits differ from your current version, the upgrade might require updates to some plugins and/or themes, although it will probably continue to work anyway in a limited capacity.</li>
+    <li>If the first digit is different from your current version, the upgrade is likely to require updates to most plugins and themes. If you rely heavily on a particular plugin or theme feature, please check with the author or community members before commencing the upgrade.</li>
+</ul>
+<p>If the messages reads “There is a problem trying to connect to the RPC server” it means a new version could not be checked at this time, or the server may be down. Updates are checked for every 24 hours so it is likely that next time you visit the Diagnostics panel, all will be well.</p></string>
+  <string name="tmp_plugin_paths_match"><h2>Diagnostics: Temporary directory path and Plugin cache directory path should not match</h2>
+<p>Plugins should have their own directory and not share the temporary directory. This is a potential security risk and may adversely affect your site if the temporary directory is flushed. Please ensure that the temporary directory path is different to the plugin cache path.</p></string>
+  <string name="update_still_exists"><h2>Diagnostics: \'update\' directory still exists</h2>
+<p>When Textpattern has been upgraded, the <code>textpattern/update</code> directory and its contents are no longer needed and recommended for deletion. You will continue to receive this warning until it has been removed.</p></string>
+  <string name="warn_mail_unavailable"><h2>Diagnostics: Your PHP installation is missing the mail() function</h2>
+<p>PHP’s <a rel="external" target="_blank" href="https://secure.php.net/manual/en/function.mail.php">mail <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a> function is disabled. Therefore, Textpattern cannot send emails and some functionality will not be available. For example, email notifications for new comments will not be sent, and new users will not receive a welcome email. Users can still be added, however.</p></string>
+  <string name="warn_register_globals_or_update"><h2>Diagnostics: Turn register_globals off or update to a newer PHP version</h2>
+<p>A severe vulnerability was discovered in certain versions of PHP concerning the controversial legacy feature <a rel="external" target="_blank" href="https://secure.php.net/manual/en/security.globals.php">registered globals <span class="ui-icon ui-icon-extlink">(opens an external link in a new window)</span></a>. This can lead to unexpected behaviour of PHP applications, which can potentially allow execution of remote PHP code in many situations.</p>
+<p>Vulnerable versions are PHP4 versions &lt;= 4.4.0 and PHP5 versions &lt;= 5.0.5. You should either update to a newer version or make sure that <code>register_globals</code> is turned off. <code>register_globals</code> was deprecated as of PHP 5.3.0 and removed as of PHP 5.4.0.</p>
+<p>You can turn off <code>register_globals</code> in the <code>php.ini</code> file. If you are in a hosted environment, you may have an option in your hosting control panel for it (ask your host). When running PHP as an Apache module, it is also possible to turn <code>register_globals</code> off via Apache’s <code>.htaccess</code> configuration files. Uncomment the following line from your <code>.htaccess</code> file by removing the leading #:</p>
+<pre><code>php_value register_globals 0</code></pre></string>
+  <string name="file_reassign"><h2>Files: Reassign file</h2>
+<p>When you upload a file in place of one that is labelled ‘Missing’, your chosen file is uploaded to the server and linked to the original file information in the database. This means the file name of the original file will remain, as will all other associated information such as download count and category. The file size will, however, be updated to reflect the new file.</p></string>
+  <string name="file_replace"><h2>Files: Replace file</h2>
+<p>Uploading a file here will replace the contents of the existing file on the server but will keep the file name the same as it was before. The download count and other information associated with the file remain unaffected.</p></string>
+  <string name="upload"><h2>Files: Upload file</h2>
+<p>Use this form to upload files or images to your server.</p>
+<p>Use the Textile code to render graphics within articles, the Textpattern code to place graphics on your page templates, or HTML code to place the graphics elsewhere.</p></string>
+  <string name="forms_overview"><h2>Forms: Introduction</h2>
+<p>In Textpattern, a form is a snippet or chunk of text, HTML, and Textpattern tags that can be reused to display content.</p>
+<p>Here’s an example form which could be named <code>ordinary_list</code>:</p>
+<pre><code>&lt;li&gt;
+    &lt;txp:permlink&gt;
+        &lt;txp:title /&gt;
+    &lt;/txp:permlink&gt;
+&lt;/li&gt;</code></pre>
+<p>You could use it to display an HTML unordered list of related articles:</p>
+<pre><code>&lt;txp:related_articles form="ordinary_list" wraptag="ul" /&gt;</code></pre>
+<p>Since the role of this form is to output a list of titles, it could be applicable inside other tags, such as showing 20 articles from the current section:</p>
+<pre><code>&lt;txp:article form="ordinary_list" limit="20" wraptag="ol" /&gt;</code></pre>
+<p>You may also choose to employ a form to display repeated content, such as header and footer in your page templates. This means the content only exists in one place and if you decide to change it, you only need to do it once. Displaying content from a form is usually accomplished with:</p>
+<pre><code>&lt;txp:output_form form="your_form_name" /&gt;</code></pre>
+<p>A form can be up to 64KB in size. An example for a footer might include headings, paragraphs, links, conditional tags, and references to other forms such as <code>ordinary_list</code>.</p></string>
+  <string name="create_thumbnail"><h2>Images: Create thumbnail</h2>
+<p>Allows you to (re)create a thumbnail of the specified dimensions from the full size image.</p>
+<p>The thumbnail will be scaled to fit the dimensions you choose, unless you select the ‘Crop’ checkbox. In that case, the thumbnail will be created from the centre of the image without any scaling.</p></string>
+  <string name="replace_image_form"><h2>Images: Replace image</h2>
+<p>An image uploaded here will simply replace the existing one associated with this entry in the database.</p></string>
+  <string name="upload_image"><h2>Images: Upload image</h2>
+<p>Upload one or more images to your server.</p>
+<p>Upon upload to the <code>images</code> directory, the filename of your original image will be kept only internally in Textpattern’s database; the image file itself will be renamed to a sequential number + file extension.</p></string>
+  <string name="upload_thumbnail"><h2>Images: Upload thumbnail</h2>
+<p>Full size images can be assigned their own thumbnails. These are useful for linking to - and the indexing of - full size images.</p>
+<p>A reference to the thumbnail is exactly the same as the reference to the full size image, with <code>t</code> appended to the file name. For example, to reference a thumbnail associated with a full size image stored at <code>/images/12.jpg</code> you would use <code>/images/12t.jpg</code>.</p></string>
 </resources>

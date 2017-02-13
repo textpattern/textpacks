@@ -4,8 +4,6 @@
   <string name="lang_name">فارسی</string>
   <string name="lang_code">fa-IR</string>
   <string name="lang_dir">rtl</string>
-  <string name="account_activation">Please activate your account</string>
-  <string name="account_activation_confirmation">Please use the link below to activate your account and set up a password.</string>
   <string name="add_new_author">افزودن نویسنده جدید</string>
   <string name="and_mailed_to">و فرستاده شد به</string>
   <string name="assign_assets_to">انتصاب محتوای کاربر به</string>
@@ -21,16 +19,13 @@
   <string name="copy_editor">ویرایشگر نسخه‌ها</string>
   <string name="could_not_mail">ناتوانی در ارسال</string>
   <string name="could_not_update_author">ناتوانی در بهنگام‌سازی مشخصات نویسنده</string>
-  <string name="current_password">Current password</string>
   <string name="designer">طراح</string>
   <string name="edit_author">تغییر مشخصات نویسنده</string>
   <string name="email_changed">نشانی ایمیل به <strong>{email}</strong> تغییر یافت.</string>
   <string name="error_adding_new_author">خطا در افزودن نویسنده جدید.</string>
   <string name="freelancer">نویسنده آزاد</string>
   <string name="last_login">آخرین ورود</string>
-  <string name="link_expires">You have until {day} {month} {year}, {time} to respond before this link expires.</string>
   <string name="login_name">نام کاربری</string>
-  <string name="login_sent_to">Password sent to {email}.</string>
   <string name="log_in_at">ورود در</string>
   <string name="mail_it">برایم ارسال کن</string>
   <string name="managing_editor">ویرایشگر مدیریتی</string>
@@ -39,10 +34,7 @@
   <string name="new_password">گذرواژه جدید</string>
   <string name="password_changed">گذرواژه تغییر یافت</string>
   <string name="password_changed_mailed">گذرواژه تغییر کرد و به <strong>{email}</strong> فرستاده شد.</string>
-  <string name="password_change_confirmation">Your password has been changed. If you did not request a change to your password, contact your site administrator.</string>
-  <string name="password_confirm_button">Set password</string>
   <string name="password_forgotten">گذرواژه‌تان را فراموش کرده‌اید؟</string>
-  <string name="password_invalid">Your password is incorrect.</string>
   <string name="password_required">لطفاً یک گذرواژه جدید تعیین کنید.</string>
   <string name="password_reset">بازیابی گذرواژه</string>
   <string name="password_reset_button">بازیابی گذرواژه</string>
@@ -50,24 +42,12 @@
   <string name="password_reset_confirmation_request">لطفاً درخواست بازیابی گذرواژه را تأیید کنید.</string>
   <string name="password_reset_confirmation_request_sent">پیام تاییدی به ایمیل شما ارسال شد .لطفا ایمیل خود را چک کرده و دستورالعمل داده شده را اجرا کنید.</string>
   <string name="password_sent_to">گذرواژه ارسال شد به</string>
-  <string name="password_set">Your password has been set</string>
-  <string name="password_set_confirmation">Your password has been set. If you did not request this, contact your site administrator.</string>
-  <string name="password_strength_0">Poor</string>
-  <string name="password_strength_1">Weak</string>
-  <string name="password_strength_2">Fair</string>
-  <string name="password_strength_3">Good</string>
-  <string name="password_strength_4">Strong</string>
   <string name="privileges">سطح کاربری</string>
   <string name="privs_none">هیچ</string>
   <string name="publisher">ناشر</string>
   <string name="real_name">نام حقیقی</string>
-  <string name="resend_activation">Resend activation link</string>
-  <string name="resend_activation_request_sent">Activation message sent to {name}.</string>
   <string name="resetpassword">بازیابی گذرواژه</string>
   <string name="reset_author_password">بازیابی گذرواژه نویسنده</string>
-  <string name="search_users">Search users</string>
-  <string name="set_password">Set your password</string>
-  <string name="show_password">Show password</string>
   <string name="site_administration">کاربران</string>
   <string name="staff_writer">عضو تحریریه</string>
   <string name="unknown_author">نویسنده ناشناس : <strong>{name}</strong></string>
@@ -77,7 +57,6 @@
   <string name="your_new_password">گذرواژه جدید شما</string>
   <string name="your_password_is">گذرواژه شما هست</string>
   <string name="you_have_been_registered">شما به عنوان مشارکت‌کننده در این سایت ثبت‌نام کرده‌اید</string>
-  <string name="add_new_article">Create new article</string>
   <string name="advanced_options">تنظیمات پیشرفته</string>
   <string name="article_day">روز</string>
   <string name="article_expires_before_postdate">خطا: نوشته <strong>پیش از</strong> تاریخ ارسال منقضی می‌شود.</string>
@@ -105,15 +84,12 @@
   <string name="date_settings">تاریخ و زمان</string>
   <string name="excerpt_markup">در کد منتخب</string>
   <string name="expires">انقضا</string>
-  <string name="invalid_postdate">Invalid date or time.</string>
-  <string name="linktext">linktext(title)</string>
   <string name="meta">متاتگ</string>
   <string name="no_articles_recorded">هیچ نوشته‌ای ثبت نشده است.</string>
   <string name="or_publish_at">&#8230; یا منتشر شود در</string>
   <string name="override_default_form">تحریف فرم با</string>
   <string name="pending">منتظر برای ارسال</string>
   <string name="reset_time">تغییر زمان به حال</string>
-  <string name="search_articles">Search articles</string>
   <string name="set_to_now">زمان و تاریخ رو به اکنون تغییر بده</string>
   <string name="sort_display">مرتب‌سازی و نمایش</string>
   <string name="textfilter_help">راهنمای فرمت بندی متن</string>
@@ -122,7 +98,6 @@
   <string name="url_title_is_blank">فیلد عنوان مختص نشانی خالی گذاشته شد.</string>
   <string name="url_title_is_multiple">یک نشانی مختص نوشته برای {count} نوشته دیگر نیز استفاده شده است.</string>
   <string name="view_html">نمایش کدهای HTML</string>
-  <string name="view_html_short">HTML</string>
   <string name="view_preview">پیش‌نمایش نوشته</string>
   <string name="view_preview_short">پیش‌نمایش</string>
   <string name="view_text">ویرایش محتوای نوشته</string>
@@ -132,7 +107,6 @@
   <string name="article_category">رده‌ نوشته</string>
   <string name="article_category_already_exists">رده‌نوشته <strong>{name}</strong>از پیش موجود است.</string>
   <string name="article_category_created">رده‌نوشته <strong>{name}</strong> ساخته شد.</string>
-  <string name="article_category_description">Article category description</string>
   <string name="article_category_invalid">رده‌نوشته <strong>{name}</strong> نامعتبر است.</string>
   <string name="article_category_name">نام رده نوشته</string>
   <string name="article_category_title">عنوان رده نوشته</string>
@@ -146,7 +120,6 @@
   <string name="file_categories_deleted">این رده‌فایل‌ها پاک شدند : <strong>{list}</strong></string>
   <string name="file_category_already_exists">رده‌فایل <strong>{name}</strong> از پیش موجود است.</string>
   <string name="file_category_created">رده‌فایل <strong>{name}</strong> ساخته شد.</string>
-  <string name="file_category_description">File category description</string>
   <string name="file_category_invalid">رده‌فایل <strong>{name}</strong> نامعتبر است.</string>
   <string name="file_category_name">نام رده فایل</string>
   <string name="file_category_title">عنوان رده فایل</string>
@@ -155,7 +128,6 @@
   <string name="image_categories_deleted">این رده‌های تصاویر پاک شدند : <strong>{list}</strong></string>
   <string name="image_category_already_exists">رده‌تصویر <strong>{name}</strong> از پیش موجود است.</string>
   <string name="image_category_created">رده‌تصویر <strong>{name}</strong> ساخته شد.</string>
-  <string name="image_category_description">Image category description</string>
   <string name="image_category_invalid">رده‌تصویر <strong>{name}</strong> نامعتبر است.</string>
   <string name="image_category_name">نام رده تصویر</string>
   <string name="image_category_title">عنوان رده تصویر</string>
@@ -164,7 +136,6 @@
   <string name="link_categories_deleted">این رده‌های لینک پاک شدند : <strong>{list}</strong></string>
   <string name="link_category_already_exists">رده‌لینک <strong>{name}</strong> از پیش موجود است.</string>
   <string name="link_category_created">رده‌لینک <strong>{name}</strong> ساخته شد.</string>
-  <string name="link_category_description">Link category description</string>
   <string name="link_category_invalid">رده‌لینک <strong>{name}</strong> نامعتبر است.</string>
   <string name="link_category_name">نام رده لینک</string>
   <string name="link_category_title">عنوان رده لینک</string>
@@ -183,7 +154,6 @@
   <string name="back_to_login">بازگشت به صفحه ورود ←</string>
   <string name="bad_cookie">لطفاً مجدداً وارد سیستم شوید.</string>
   <string name="body">بدنه</string>
-  <string name="cancel">Cancel</string>
   <string name="cannot_instantiate_theme">بارگزاری تم <strong>{name}</strong> از مسیر {path} ناموفق بود. از تم Classic به عنوان جایگزین استفاده خواهد شد.</string>
   <string name="category">رده</string>
   <string name="changeauthor">تغییر نویسنده</string>
@@ -195,7 +165,6 @@
   <string name="changesection">تغییر بخش</string>
   <string name="changestatus">تغییر وضعیت</string>
   <string name="close">بستن</string>
-  <string name="collapse_all">Collapse all</string>
   <string name="comment">نظر</string>
   <string name="comments_expired">امکان نظردهی برای این نوشته وجود ندارد.</string>
   <string name="confirm_delete_popup">پاک شود؟</string>
@@ -210,10 +179,7 @@
   <string name="draft">پیش‌نویس</string>
   <string name="duplicate">ایجاد مشابه</string>
   <string name="excerpt">منتخب</string>
-  <string name="expand_all">Expand all</string>
   <string name="expired">منقضی شده</string>
-  <string name="expire_date">Expire date</string>
-  <string name="expire_time">Expire time</string>
   <string name="external_links">لینک‌های خارجی</string>
   <string name="form_not_found">فرم یافت نشد</string>
   <string name="form_not_specified">فرمی مشخص نشده است.</string>
@@ -241,15 +207,9 @@
   <string name="password">گذرواژه</string>
   <string name="per_page">در صفحه</string>
   <string name="published_with">انتشار یافته توسط</string>
-  <string name="publish_date">Publish date</string>
-  <string name="publish_time">Publish time</string>
   <string name="range">محدوده</string>
   <string name="restricted_area">منطقه ممنوعه</string>
-  <string name="salutation">Dear {name},</string>
   <string name="save_new">ایجاد</string>
-  <string name="search_all">Search all</string>
-  <string name="search_clear">Clear search</string>
-  <string name="search_options">Search options</string>
   <string name="showing_search_results">نمایش {form} تا{to} از {total}</string>
   <string name="site_slogan">شعار سایت</string>
   <string name="sort_value">مصداق مرتب‌سازی</string>
@@ -277,7 +237,6 @@
   <string name="tab_presentation">نمایش</string>
   <string name="tab_sections">بخش‌ها</string>
   <string name="tab_site_admin">کاربران</string>
-  <string name="tab_skins">Skins</string>
   <string name="tab_start">خانه</string>
   <string name="tab_style">استایل</string>
   <string name="tab_view_site">نمایش سایت</string>
@@ -295,15 +254,6 @@
   <string name="txt_quote_double_open">»</string>
   <string name="txt_quote_single_close">“</string>
   <string name="txt_quote_single_open">”</string>
-  <string name="units_b">B</string>
-  <string name="units_e">EB</string>
-  <string name="units_g">GB</string>
-  <string name="units_k">kB</string>
-  <string name="units_m">MB</string>
-  <string name="units_p">PB</string>
-  <string name="units_t">TB</string>
-  <string name="units_y">YB</string>
-  <string name="units_z">ZB</string>
   <string name="unmoderated">تأیید نشده</string>
   <string name="upload_err_cant_write">ناتوانی در نوشتن فایل بر روی دیسک</string>
   <string name="upload_err_extension">آپلود فایل توسط افزونه PHP متوقف شد.</string>
@@ -333,7 +283,6 @@
   <string name="css_mode">حالت CSS</string>
   <string name="css_name">نام استایل</string>
   <string name="css_name_required">لطفاً برای استایل خود یک نام وارد کنید.</string>
-  <string name="css_property_value">Property : Value</string>
   <string name="css_save_failed">شیوه‌نامه به دلیل بروز خطا ذخیره نشد. لطفا دوباره تلاش کنید.</string>
   <string name="css_selector">گزینشگر (selector)</string>
   <string name="css_updated">استایل <strong>{name}</strong> بهنگام شد.</string>
@@ -361,10 +310,6 @@
   <string name="cleanurl_only_apache">Clean URL تنها در Apache پشتیبانی می‌شود. با مسئولیت خود از آن استفاده کنید.</string>
   <string name="clean_url_data_failed">تست داده‌های Clean URL ناموفق بود</string>
   <string name="clean_url_test_failed">تست Clean URL ناموفق بود.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
   <string name="detail">جزئیات</string>
   <string name="dev_version_live">شما از فایل‌های همچنان در حال توسعه بر روی یک سرور در حال کار استفاده می‌کنید</string>
   <string name="diagnostic_info">اطلاعات عیب‌یابی</string>
@@ -381,7 +326,6 @@
   <string name="is_inaccessible">دسترس‌پذیر نیست</string>
   <string name="last_update">آخرین بهنگام‌سازی</string>
   <string name="low">کم</string>
-  <string name="magic_quotes">Magic quotes</string>
   <string name="missing_files">فایل های یافت نشده</string>
   <string name="modified_files">برخی از فایل‌های Textpattern نغییر یافته‌اند</string>
   <string name="mod_rewrite_missing">ماژول <code>mod_rewrite</code> بر روی آپاچی نصب نیست</string>
@@ -396,7 +340,6 @@
   <string name="php_version">نسخه PHP</string>
   <string name="php_version_required">سیستم مدیریت محتوای Textpattern برای نصب روی سرور شما به نسخه‌ی PHP {version} به بالا نیازمند است.</string>
   <string name="preflight_check">آزمون</string>
-  <string name="register_globals">Register globals</string>
   <string name="rfc2616_headers">سرآیندهای RFC 2616</string>
   <string name="rfc_2616_headers">CGI Header Mode</string>
   <string name="server">سرور</string>
@@ -435,13 +378,11 @@
   <string name="ip_already_banned">نشانی IP <strong>{ip}</strong> از پیش منع شده است.</string>
   <string name="ip_banned">نشانی IP <strong>{ip}</strong> منع شد.</string>
   <string name="ip_ban_removed">ممنوعیت <strong>{ip}</strong> برداشته شد.</string>
-  <string name="just_spam_results_found">Only spam comments found. Use ‘Show spam’ to view them.</string>
   <string name="list_banned_ips">لیست IPهای ممنوعه</string>
   <string name="list_discussions">نظرات</string>
   <string name="name_used">نام استفاده شده</string>
   <string name="no_comments_recorded">هیچ نظری ثبت نشده است</string>
   <string name="no_ips_banned">هیچ IPی منع نشده است.</string>
-  <string name="search_comments">Search comments</string>
   <string name="show">نمایش</string>
   <string name="show_spam">نمایش اسپم</string>
   <string name="unban">لغو ممنوعیت</string>
@@ -481,7 +422,6 @@
   <string name="reset_download_count">بازنشانی شمارنده‌ی دانود</string>
   <string name="reset_file_count_failure">ناتوانی در بازنشانی شمارنده‌ی فایل</string>
   <string name="reset_file_count_success">بازنشانی شمارنده‌ی فایل با موفقیت انجام شد</string>
-  <string name="search_files">Search files</string>
   <string name="all_forms">تمامی فرم‌ها</string>
   <string name="changetype">تغییر نوع</string>
   <string name="create_new_form">ساخت فرم جدید</string>
@@ -506,11 +446,9 @@
   <string name="choose_either_width_height_or_both">طول، عرض و یا هر دو</string>
   <string name="create_thumbnail">ساخت تصویر کوچک</string>
   <string name="edit_image">ویرایش تصویر</string>
-  <string name="extension">Extension</string>
   <string name="images">تصاویر</string>
   <string name="image_deleted">تصویر <strong>{name}</strong> پاک شد.</string>
   <string name="image_delete_failed">ناتوانی در حذف کامل تصویر <strong>{name}</strong>.</string>
-  <string name="image_details">Image details</string>
   <string name="image_name">نام تصویر</string>
   <string name="image_save_error">مشکلی در ذخیره داده‌های تصویر رخ داده است.</string>
   <string name="image_save_failed">تصویر به دلیل بروز خطا ذخیره نشد. لطفا دوباره تلاش کنید.</string>
@@ -524,7 +462,6 @@
   <string name="only_graphic_files_allowed">تنها فایل‌های jpg. یا gif. یا png. و یا swf. مجازند.</string>
   <string name="replace_image">جایگزینی تصویر</string>
   <string name="save_these_settings_as_default">ذخیره تنظیمات به عنوان پیش‌فرض</string>
-  <string name="search_images">Search images</string>
   <string name="thumbnail_deleted">تصویر کوچک پاک شد.</string>
   <string name="thumbnail_not_saved">تصویر کوچک <strong>{id}</strong> ذخیره <em>نشد</em>!</string>
   <string name="thumbnail_saved">تصویر <strong>{id}</strong> ذخیره شد.</string>
@@ -553,7 +490,6 @@
   <string name="edit_link">ویرایش لینک</string>
   <string name="edit_links">لینک‌ها</string>
   <string name="linkcategory">رده‌های مربوط به لینک‌ها</string>
-  <string name="links_deleted">Link(s) deleted: <strong>{list}</strong>.</string>
   <string name="link_created">لینک <strong>{name}</strong> ساخته شد.</string>
   <string name="link_deleted">لینک <strong>{name}</strong> پاک شد.</string>
   <string name="link_empty">لینک‌ها نباید خالی باشند</string>
@@ -563,14 +499,12 @@
   <string name="link_text">متن لینک</string>
   <string name="link_updated">لینک <strong>{name}</strong> بهنگام شد.</string>
   <string name="no_links_recorded">هیچ لینکی ثبت نشده است.</string>
-  <string name="search_links">Search links</string>
   <string name="article_modified">تغییر یافته</string>
   <string name="manage">مدیریت</string>
   <string name="logs">گزارش‌ها</string>
   <string name="logs_deleted">این گزارش‌ها پاک شدند : <strong>{list}</strong></string>
   <string name="no_refers_recorded">هیچ ارجاعی ثبت نشده است.</string>
   <string name="referrer">ارجاع‌دهنده</string>
-  <string name="search_logs">Search logs</string>
   <string name="visitor_logs">گزارش بازدیدکنندگان</string>
   <string name="all_pages">تمام صفحات</string>
   <string name="copy_page_as">و یا صفحه کپی شود در</string>
@@ -626,16 +560,13 @@
   <string name="allow_page_php_scripting">استفاده از PHP در صفحات مجاز باشد؟</string>
   <string name="allow_raw_php_scripting">کدهای خام PHP مجاز باشد؟</string>
   <string name="all_hits">همه بازدیدها</string>
-  <string name="all_preferences">All preferences</string>
   <string name="archive_dateformat">فرمت تاریخ بایگانی</string>
   <string name="archive_date_case">نگهدارنده تاریخ آرشیو</string>
   <string name="archive_dir">پوشه بایگانی</string>
   <string name="articles_use_excerpts">نوشته‌ها دارای بخش منتخب هستند؟</string>
   <string name="attach_titles_to_permalinks">به لینک دائمی، عنوان هم افزوده گردد؟</string>
   <string name="auto_dst">تنظیم خودکار تغییر زمان <abbr title="Daylight Saving Time">DST</abbr>؟</string>
-  <string name="category_subcategory">/category/subcategory</string>
   <string name="check_for_txp_updates">چک کردن بروزرسانی ها</string>
-  <string name="clean">/clean/</string>
   <string name="comments_are_ol">نمایش نظرات در قالب لیست شماره‌ای؟</string>
   <string name="comments_auto_append">نظرات به طور خودکار به انتهای نوشته افزوده گردند؟</string>
   <string name="comments_dateformat">فرمت تاریخ نظرات</string>
@@ -665,8 +596,6 @@
   <string name="custom_8_set">نام فیلد دلخواه ۸</string>
   <string name="custom_9_set">نام فیلد دلخواه ۹</string>
   <string name="default_event">تب پیش‌فرض نمایش برای مدیر</string>
-  <string name="default_publish_status">Default publishing status</string>
-  <string name="doctype">Doctype</string>
   <string name="edit_preferences">تنظیمات</string>
   <string name="edit_raw_css_by_default">استفاده از حالت خام ویرایش به گونه پیش‌فرض؟</string>
   <string name="enable_xmlrpc_server">سرور XML-RPC فعال باشد؟</string>
@@ -680,21 +609,17 @@
   <string name="gmtoffset">منطقه زمانی</string>
   <string name="ham">همه به جزء اسپم</string>
   <string name="hours_days_ago">ساعت/روز پیش</string>
-  <string name="id_title">/id/title</string>
   <string name="img_dir">پوشه تصاویر</string>
   <string name="include_email_atom">قراردادن ایمیل در فید اتم</string>
-  <string name="installing_language">Installing language</string>
   <string name="install_from_textpack">نصب از Textpack</string>
   <string name="install_langfile">برای نصب زبان جدید از روی فایل می‌توانید آن‌ها را از {url} دانلود کرده و در مسیر /textpattern/lang/. قرار دهید.</string>
   <string name="install_language">نصب زبان</string>
   <string name="install_textpack">نصب Textpack</string>
   <string name="is_dst"><abbr title="زمان شبانه روزی">DST</abbr> فعال است؟</string>
   <string name="language">زبان</string>
-  <string name="lastmod_keepalive">Compensate for persistent connection <code>mod_deflate</code> bug?</string>
   <string name="leave_text_untouched">متن را دستکاری نکن</string>
   <string name="link">لینک‌ها</string>
   <string name="locale">منطقه</string>
-  <string name="locale_not_available_for_language">No locale available for language <strong>{name}</strong>. Using default locale instead.</string>
   <string name="logging">ورود</string>
   <string name="logs_expire">گزارش‌ها پس از چند روز منقضی گردند؟</string>
   <string name="manage_languages">زبان</string>
@@ -705,15 +630,10 @@
   <string name="never_display_email">مخفی‌کردن نشانی ایمیل؟</string>
   <string name="new_textpattern_version_available">نسخه کاملاً جدیدی از Textpattern موجود است. می‌خواهید امتحان کنید؟</string>
   <string name="no_popup">پنجره فعلی</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">در ایمیل‌های ارسالی از رمزگذاری ISO-8859-1 استفاده شود (پیش‌فرض UTF-8 است)؟</string>
   <string name="path_from_root">پوشه زیرمجموعه (اگر موجود است)</string>
   <string name="path_to_site_missing">متغیر path_to_site$ تنظیم نشده است (فایل index.php را بهنگام کنید)</string>
   <string name="permalink_title_format">لینک دائمی مثل‌ـ‌این‌ـ‌باشد (به جای اینکه مثل‌این‌باشد)؟</string>
-  <string name="permlink_format">Permalink title URL pattern</string>
-  <string name="permlink_hyphenated">Hyphenated (title-like-this)</string>
-  <string name="permlink_intercapped">Intercapped (TitleLikeThis)</string>
-  <string name="permlink_mode">Article URL pattern</string>
   <string name="ping_textpattern_com">به textpattern.com پینگ شود؟</string>
   <string name="ping_weblogsdotcom">به pingomatic.com پینگ شود؟</string>
   <string name="plugin_cache_dir">مسیر پوشه کش پلاگین‌ها</string>
@@ -731,13 +651,10 @@
   <string name="remove_lang">حذف زبان</string>
   <string name="rpc_connect_error">نمی تواند جهت به روز رسانی فایل های زبان به سرور متصل شود . بعداً دوباره تلاش کنید.</string>
   <string name="rss_how_many">چه تعداد نوشته در فید باشد؟</string>
-  <string name="section_id_title">/section/id/title</string>
-  <string name="section_title">/section/title</string>
   <string name="send_lastmod">سرایند “Last-Modified” ارسال شود؟</string>
   <string name="show_article_category_count">نمایش تعداد نوشته‌ها در تب رده‌ها؟</string>
   <string name="show_comment_count_in_feed">نمایش تعداد نظرها در فید؟</string>
   <string name="site_prefs">پایه</string>
-  <string name="skin_base_path">Skin base path</string>
   <string name="smtp_from">آدرس ارسال بسته SMTP</string>
   <string name="spam_blacklists">لیست سیاه اسپم‌ها (با کاما جدا کنید)</string>
   <string name="syndicate_body_or_excerpt"><strong>تنها</strong> منتخب نوشته‌ها در فیدها قرار گیرد؟</string>
@@ -747,7 +664,6 @@
   <string name="theme_name">قالب بخش مدیریتی</string>
   <string name="timeoffset">انحراف زمانی (ساعت)</string>
   <string name="title_no_widow">ممانعت از ورود لغات ناقص در عنوان مقالات؟</string>
-  <string name="title_only">/title</string>
   <string name="updated">بهنگام شده</string>
   <string name="updated_branch_version_available">نسخه ی جدیدی جهت به روزرسانی وجود دارد. آیا می خواهید <a href="http://textpattern.com/download" rel="external"> دانلودش کنید </a></string>
   <string name="update_languages">بهنگام‌سازی زبان‌ها</string>
@@ -758,7 +674,6 @@
   <string name="use_dns">استفاده از مراجعه به DNS در گزارش بازدیدکنندگان؟</string>
   <string name="use_mail_on_feeds_id">از نشانی ایمیل به عنوان شناسه فیدها استفاده شود (پیش‌فرض نشانی سایت است)؟</string>
   <string name="use_plugins">استفاده از پلاگین‌ها؟</string>
-  <string name="year_month_day_title">/year/month/day/title</string>
   <string name="403_forbidden">ممنوع!</string>
   <string name="404_not_found">نشانی درخواستی شما یافت نشد.</string>
   <string name="410_gone">منبع درخواستی شما دیگر در دسترس نیست.</string>
@@ -794,7 +709,6 @@
   <string name="comments_on">نظرات درباره</string>
   <string name="comments_permlink">لینک دائمی</string>
   <string name="comment_comment">نظر</string>
-  <string name="comment_duplicate">Duplicate comments are not accepted.</string>
   <string name="comment_email">ایمیل</string>
   <string name="comment_email_required">لطفاً یک ایمیل معتبر وارد کنید.</string>
   <string name="comment_invitation">دعوت</string>
@@ -827,7 +741,6 @@
   <string name="deprecated_function">تابع <strong>{name}</strong> نامناسب است</string>
   <string name="deprecated_function_with">تابع <strong>{name}</strong> نامناسب است : به جای آن از <strong>{with}</strong> استفاده کنید</string>
   <string name="deprecated_tag">تگ نامناسب است</string>
-  <string name="documentation">Documentation</string>
   <string name="download_count">شمارنده دانلود</string>
   <string name="edit">ویرایش</string>
   <string name="email">ایمیل</string>
@@ -849,7 +762,6 @@
   <string name="form">فرم</string>
   <string name="forms">فرم‌ها</string>
   <string name="go">برو</string>
-  <string name="go_back">Go back</string>
   <string name="go_content">برو به محتوا</string>
   <string name="go_nav">برو به پیمایشگر</string>
   <string name="go_search">برو به جستجو</string>
@@ -897,16 +809,13 @@
   <string name="next">بعدی</string>
   <string name="no">خیر</string>
   <string name="none">هیچ</string>
-  <string name="nopopup">current window</string>
   <string name="no_comments">در حال حاضر نظری برای این مقاله وجود ندارد.</string>
   <string name="no_search_matches">متأسفانه نتیجه ای مطابق نتیجه جستجوی شما یافت نشد.</string>
   <string name="numeric_list">لیست عددی</string>
-  <string name="of">of</string>
   <string name="off">خاموش</string>
   <string name="older">قدیمی‌تر</string>
   <string name="on">روشن</string>
   <string name="only_articles_can_be_previewed">توجه : تنها فرم‌های مربوط به نوشته‌ها می‌توانند پیش‌نمایش داده شوند.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">صفحه</string>
   <string name="pages">صفحات</string>
   <string name="paragraph">پاراگراف</string>
@@ -914,7 +823,6 @@
   <string name="permlink">لینک دائمی</string>
   <string name="plugin_load_error">هنگام بارگذاری پلاگین مشکلی رخ داده است:</string>
   <string name="plugin_load_error_above">این اشکالات توسط پلاگین به وجود آمده است</string>
-  <string name="popup">popup window</string>
   <string name="post">ارسال</string>
   <string name="posted">ارسال شده در</string>
   <string name="posted_by">ارسال شده توسط</string>
@@ -970,7 +878,6 @@
   <string name="update">بهنگام‌سازی</string>
   <string name="upload">آپلود</string>
   <string name="uploaded">آپلود شد</string>
-  <string name="url">URL</string>
   <string name="value">ارزش</string>
   <string name="version">نسخه</string>
   <string name="view">نمایش</string>
@@ -982,7 +889,6 @@
   <string name="your_branch_is_updated">شما در حال استفاده از به روزترین نسخه Textpattern هستید.</string>
   <string name="your_ip_is_blacklisted_by">نشانی IP شما در لیست سیاه قرار گرفته است توسط</string>
   <string name="you_have_been_banned">شما از نظردهی منع شده‌اید.</string>
-  <string name="yyyy-mm">yyyy-mm</string>
   <string name="article_count">{num} نوشته در این بخش موجود است. برای لیست کردن آن‌ها کلیک کنید</string>
   <string name="create_section">ساخت بخش</string>
   <string name="default_write_section">بخش انتشار پیش‌فرض</string>
@@ -992,7 +898,6 @@
   <string name="edit_sections">ویرایش بخش‌ها</string>
   <string name="include_in_search">بتواند مورد جستجو قرار گیرد</string>
   <string name="on_front_page">در صفحه اصلی</string>
-  <string name="search_sections">Search sections</string>
   <string name="section">بخش</string>
   <string name="sections">بخش‌ها</string>
   <string name="section_created">بخش <strong><a href="#section-{name}">{name}</a></strong> ساخته شد.</string>
@@ -1051,12 +956,6 @@
   <string name="progress_steps">چهار گام جهت فرایند نصب وجود دارد:</string>
   <string name="setup_comment_invite">نظر بدهید</string>
   <string name="setup_login">یک نام کاربری انتخاب کنید (لطفاً صرفاً از کارکترهای اصلی و خط فاصله استفاده کنید)</string>
-  <string name="setup_password_strength_0">Poor</string>
-  <string name="setup_password_strength_1">Weak</string>
-  <string name="setup_password_strength_2">Fair</string>
-  <string name="setup_password_strength_3">Good</string>
-  <string name="setup_password_strength_4">Strong</string>
-  <string name="setup_show_password">Show password</string>
   <string name="set_db_details">تنظیم جزئیات پایگاه داده</string>
   <string name="set_temp_dir_prefs">متأسفانه هیچ پوشه قابل نوشتنی برای فایل‌های موقت پیدا نکردیم. لطفاً در بخش “تنظیمات پیشرفته” گزینه “مسیر پوشه موقت” را متناس</string>
   <string name="site_config">پیکربندی سایت</string>
@@ -1071,13 +970,6 @@
   <string name="your_email">نشانی ایمیل شما</string>
   <string name="your_full_name">نام کامل شما</string>
   <string name="you_can_access">شما از این پس امکان ورود به <a href="index.php">واسط اصلی</a> با نام کاربری و گذرواژه انتخابی خود را دارید.</string>
-  <string name="create_skin">Create skin</string>
-  <string name="edit_skin">Edit skin</string>
-  <string name="skin_author">Skin author</string>
-  <string name="skin_name">Skin name</string>
-  <string name="skin_title">Skin title</string>
-  <string name="skin_version">Skin version</string>
-  <string name="skin_website">Skin website</string>
   <string name="active_class">کلاس CSS برای آیتم فعال</string>
   <string name="align">تراز</string>
   <string name="allowoverride">فرم را بتوان تحریف کرد؟</string>

@@ -1,4 +1,4 @@
-#@version 4.6.2;1473180889
+#@version 4.6.2;1485432808
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Последни изменения
 links => Връзки
 link_category => Категория връзки
+list_options =>
 logged_in_as => Влезли сте като
 login => Вход
 login_to_textpattern => Вход в Textpattern

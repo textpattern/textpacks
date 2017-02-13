@@ -118,9 +118,9 @@
   <string name="sort_display">Sortera och visa</string>
   <string name="textfilter_help">Textformatering hjälp</string>
   <string name="timestamp">Tidsstämpel</string>
-  <string name="url_title">Rubrik i URLar</string>
-  <string name="url_title_is_blank">(Fältet Rubrik i URLar lämnades tomt)</string>
-  <string name="url_title_is_multiple">(Samma URL-rubrik används av {count} andra artiklar)</string>
+  <string name="url_title">URL-rubrik</string>
+  <string name="url_title_is_blank">URL-rubriken lämnades tom.</string>
+  <string name="url_title_is_multiple">Samma URL-rubrik används av {count} andra artiklar.</string>
   <string name="view_html">Visa HTML-kod</string>
   <string name="view_html_short">HTML</string>
   <string name="view_preview">Förhandsvisa artikel</string>
@@ -680,7 +680,7 @@
   <string name="gmtoffset">Tidszone zone (GMT offset i sekunder)</string>
   <string name="ham">Allt utom spam</string>
   <string name="hours_days_ago">timmar/dagar sedan</string>
-  <string name="id_title">/id/titel</string>
+  <string name="id_title">/id/rubrik</string>
   <string name="img_dir">Bildkatalog</string>
   <string name="include_email_atom">Inkludera e-post i Atom-strömmar?</string>
   <string name="installing_language">Installera språk</string>
@@ -709,8 +709,8 @@
   <string name="override_emailcharset">Använd iso-8859-1 i e-postmeddelanden (utf-8 är förvalt)?</string>
   <string name="path_from_root">Ev. underkatalog</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> är inte angett (uppdatera <code>index.php</code>)</string>
-  <string name="permalink_title_format">Permanentlänkens titel-ser-ut-sa-har?</string>
-  <string name="permlink_format">Permalink-titel URL-mönster</string>
+  <string name="permalink_title_format">Permanentlänkens rubrik-ser-ut-sa-har (i stället för RubrikSåHär)?</string>
+  <string name="permlink_format">Permalink-rubrik URL-mönster</string>
   <string name="permlink_hyphenated">Bindestreck (title-like-this)</string>
   <string name="permlink_intercapped">Första bokstaven versal (TitleLikeThis)</string>
   <string name="permlink_mode">Artikels webbadressmönster</string>
@@ -731,8 +731,8 @@
   <string name="remove_lang">Ta bort språk</string>
   <string name="rpc_connect_error">Kan inte fjärransluta till RPC-servern för att leta efter uppdaterade språkfiler. Var god försök igen senare.</string>
   <string name="rss_how_many">Antal objekt i RSS-strömmar</string>
-  <string name="section_id_title">/avdelning/id/titel</string>
-  <string name="section_title">/avdelning/titel</string>
+  <string name="section_id_title">/avdelning/id/rubrik</string>
+  <string name="section_title">/avdelning/rubrik</string>
   <string name="send_lastmod">Skicka Last-Modified-header</string>
   <string name="show_article_category_count">Visa antalet artikelkategorier?</string>
   <string name="show_comment_count_in_feed">Visa antal kommentarer i XML-strömmar?</string>
@@ -747,7 +747,7 @@
   <string name="theme_name">Admin-tema</string>
   <string name="timeoffset">Tidsförskjutning (timmar)</string>
   <string name="title_no_widow">Förhindra horungar i artikeltitlar?</string>
-  <string name="title_only">/titel</string>
+  <string name="title_only">/rubrik</string>
   <string name="updated">Uppdaterad</string>
   <string name="updated_branch_version_available">En uppdatering av denna version av Textpattern (4.0.x) finns tillgänglig!</string>
   <string name="update_languages">Uppdatera språk</string>
@@ -758,7 +758,7 @@
   <string name="use_dns">Använd DNS?</string>
   <string name="use_mail_on_feeds_id">Använd e-postadress i XML-strömmar?</string>
   <string name="use_plugins">Använd plugins?</string>
-  <string name="year_month_day_title">/år/månad/dag/titel</string>
+  <string name="year_month_day_title">/år/månad/dag/rubrik</string>
   <string name="403_forbidden">Förbjudet.</string>
   <string name="404_not_found">Sidan kunde inte hittas.</string>
   <string name="410_gone">Sidan är inte längre tillgänglig.</string>
@@ -956,7 +956,7 @@
   <string name="text_handling">Texthantering</string>
   <string name="time">Tid</string>
   <string name="time_ago">{tid} sedan</string>
-  <string name="title">Titel</string>
+  <string name="title">Rubrik</string>
   <string name="tooltip">Länk-ledtråd</string>
   <string name="too_common_search_term">Det verkar som att du söker efter en mycket vanlig sökterm, försök att söka efter något mer specifikt än</string>
   <string name="type">Typ</string>
@@ -998,7 +998,7 @@
   <string name="section_created">Avdelningen <strong>{name}</strong> skapades.</string>
   <string name="section_deleted">Avdelningen <strong>{name}</strong> togs bort.</string>
   <string name="section_head">Webbplatsavdelningar</string>
-  <string name="section_longtitle">Avdelningens långa titel</string>
+  <string name="section_longtitle">Avdelningsrubrik</string>
   <string name="section_name">Avdelningens namn</string>
   <string name="section_name_already_exists">Avdelningen <strong>{name}</strong> finns redan.</string>
   <string name="section_save_failed">Avdelningen sparades inte på grund av ett fel. Var god försök igen.</string>
@@ -1075,7 +1075,7 @@
   <string name="edit_skin">Redigera skal</string>
   <string name="skin_author">Skalskapare</string>
   <string name="skin_name">Skalnamn</string>
-  <string name="skin_title">Skaltitel</string>
+  <string name="skin_title">Skalrubrik</string>
   <string name="skin_version">Skalversion</string>
   <string name="skin_website">Skalhemsida</string>
   <string name="active_class">CSS-klass för aktivt listobjekt</string>

@@ -1,4 +1,4 @@
-#@version 4.6.2;1473236275
+#@version 4.6.2;1485432808
 #@admin
 account_activation => Account activeren
 account_activation_confirmation => Gebruik onderstaande link om je account te activeren.
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Voor het laatst gewijzigd
 links => Links
 link_category => Linkcategorie
+list_options =>
 logged_in_as => Ingelogd als
 login => Login
 login_to_textpattern => Inloggen in Textpattern

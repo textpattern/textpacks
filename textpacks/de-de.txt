@@ -1,4 +1,4 @@
-#@version 4.6.2;1475579421
+#@version 4.6.2;1486981815
 #@admin
 account_activation => Bitte aktivieren Sie Ihren Account
 account_activation_confirmation => Bitte verwenden Sie den unten stehenden Link, um Ihren Account zu aktivieren und ein Passwort anzulegen.
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Zuletzt geändert
 links => Links
 link_category => Linkkategorie
+list_options =>
 logged_in_as => Angemeldet als
 login => Login
 login_to_textpattern => Textpattern-Anmeldung
@@ -939,7 +940,7 @@ live => Live
 lowercase => Kleinbuchstaben
 main_content => Hauptinhalt
 manual => Handbuch
-matching_search_request => passen zu Ihren Suchkriterien
+matching_search_request => passend zu Ihren Suchkriterien
 message => Nachricht
 message_deleted => Nachricht gelöscht
 message_preview => Vorschau der Nachricht

@@ -1,4 +1,4 @@
-#@version 4.6.2;1479388784
+#@version 4.6.2;1485432808
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -253,6 +253,7 @@ lang_dir => rtl
 last_modified =>
 links => روابط
 link_category => ربط زمرہ
+list_options =>
 logged_in_as => لاگ ان مکممل بطور
 login => لاگ ان
 login_to_textpattern => انتظامیہ میں لاگ ان کریں

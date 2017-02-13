@@ -1,4 +1,4 @@
-#@version 4.6.2;1477398196
+#@version 4.6.2;1485432808
 #@admin
 account_activation => Lūdzu, aktivizējiet savu kontu
 account_activation_confirmation => Lūdzu izmantojiet saiti zemāk, lai aktivizētu savu kontu un iestatītu paroli.
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Pēdējoreiz mainīts
 links => Saites
 link_category => Saišu kategorija
+list_options =>
 logged_in_as => Ierakstījies kā
 login => Pieslēgties
 login_to_textpattern => Ierakstīties Textpattern

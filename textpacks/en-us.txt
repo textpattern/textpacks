@@ -1,4 +1,4 @@
-#@version 4.6.2;1474445016
+#@version 4.6.2;1485595525
 #@admin
 account_activation => Please activate your account
 account_activation_confirmation => Please use the link below to activate your account and set up a password.
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Last modified
 links => Links
 link_category => Category
+list_options => List options
 logged_in_as => Logged in as
 login => Log in
 login_to_textpattern => Log in to Textpattern
@@ -1050,8 +1051,8 @@ delete_section_confirmation => confirm section deletion
 edit_default_section => Edit default section
 edit_section => Edit section
 edit_sections => edit sections
-include_in_search => Include this section in site search?
-on_front_page => Section appears on front page?
+include_in_search => Searchable?
+on_front_page => On default page?
 search_sections => Search sections
 section => Section
 sections => Sections
@@ -1066,7 +1067,7 @@ section_updated => Section(s) <strong>{name}</strong> updated.
 section_used_by_article => Section <strong>{name}</strong> not deleted; used by {count} article(s).
 selected_by_default => Selected by default
 style => Style
-syndicate => Syndicate articles in this section?
+syndicate => Syndicate articles?
 uses_page => Uses page
 uses_style => Uses style
 #@setup

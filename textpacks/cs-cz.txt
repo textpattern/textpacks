@@ -1,4 +1,4 @@
-#@version 4.6.2;1475579326
+#@version 4.6.2;1486981713
 #@admin
 account_activation => Aktivujte svůj účet, prosím
 account_activation_confirmation => Použijte níže uvedený odkaz k aktivaci vašeho účtu a nastavení hesla.
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Naposledy upraveno
 links => Odkazy
 link_category => Kategorie odkazu
+list_options => Možnosti seznamu
 logged_in_as => Přihlášen(a) jako
 login => Přihlásit
 login_to_textpattern => Přihlášení do Textpattern
@@ -766,7 +767,7 @@ no_popup => do stránky
 no_preferences => Žádné předvolby k dispozici.
 override_emailcharset => Použít v emailech znakovou sadu ISO-8859-1 (výchozí je UTF-8)?
 path_from_root => Složka (je-li nějaká)
-path_to_site_missing => Hodnota <code>$path_to_site</code> není nastavena (stará verze <code>index.php</code>)
+path_to_site_missing => <code>$path_to_site</code> není nastavena (aktualizace <code>index.php</code>)
 permalink_title_format => Název do odkazů jako-je-tento (nebo SpiseJakoTento)?
 permlink_format => Formát adresy URL
 permlink_hyphenated => s pomlčkami (nazev-clanku)

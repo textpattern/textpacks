@@ -195,7 +195,6 @@
   <string name="changesection">Αλλαγή τομέα</string>
   <string name="changestatus">Αλλαγή κατάστασης</string>
   <string name="close">Κλείσιμο</string>
-  <string name="collapse_all">Collapse all</string>
   <string name="comment">Σχόλιο</string>
   <string name="comments_expired">Ο χρόνος για σχόλια έχει λήξει για αυτό το άρθρο.</string>
   <string name="confirm_delete_popup">Επιθυμείτε πραγματικά τη διαγραφή;</string>
@@ -210,7 +209,6 @@
   <string name="draft">Προσχέδιο</string>
   <string name="duplicate">Αντίγραφο</string>
   <string name="excerpt">Απόσπασμα</string>
-  <string name="expand_all">Expand all</string>
   <string name="expired">Λήξαν</string>
   <string name="expire_date">Ημερομηνία λήξης</string>
   <string name="expire_time">Ώρα λήξης</string>
@@ -248,8 +246,6 @@
   <string name="salutation">Αγαπητέ/ή {name},</string>
   <string name="save_new">Αποθήκευση νέου</string>
   <string name="search_all">Αναζήτηση όλων</string>
-  <string name="search_clear">Clear search</string>
-  <string name="search_options">Search options</string>
   <string name="showing_search_results">Προβολή {from} ως {to} από {total}</string>
   <string name="site_slogan">Σλόγκαν ιστοτόπου</string>
   <string name="sort_value">Τιμή ταξινόμησης</string>
@@ -277,7 +273,6 @@
   <string name="tab_presentation">παρουσίαση</string>
   <string name="tab_sections">Τομείς</string>
   <string name="tab_site_admin">ιστότοπος</string>
-  <string name="tab_skins">Skins</string>
   <string name="tab_start">Αρχική σελίδα</string>
   <string name="tab_style">στυλ</string>
   <string name="tab_view_site">προβολή</string>
@@ -361,10 +356,6 @@
   <string name="cleanurl_only_apache">H «καθαρή» μορφή URL υποστηρίζεται μόνο για το διακομιστή Apache, χρησιμοποιήστε την επιλογή αυτή με δική σας ευθύνη.</string>
   <string name="clean_url_data_failed">Η δοκιμή για καθαρά URL απέτυχε</string>
   <string name="clean_url_test_failed">Η ανάλυση για καθαρές διαδρομές URL απέτυχε.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
   <string name="detail">Λεπτομέρειες</string>
   <string name="dev_version_live">Τρέχετε αναπτυσσόμενα αρχεία του Textpattern σε περιβάλλον «LIVE» διακομιστή.</string>
   <string name="diagnostic_info">Διαγνωστικές πληροφορίες</string>
@@ -713,7 +704,6 @@
   <string name="permlink_format">Μοτίβο του URL permalink</string>
   <string name="permlink_hyphenated">Ενωτικό (τίτλος-όπως-αυτός)</string>
   <string name="permlink_intercapped">Με Κεφαλαία (TitleLikeThis)</string>
-  <string name="permlink_mode">Article URL pattern</string>
   <string name="ping_textpattern_com">Ενημέρωση του textpattern.com;</string>
   <string name="ping_weblogsdotcom">Ενημέρωση pingomatic.com;</string>
   <string name="plugin_cache_dir">Διαδρομή φακέλου αρφρωμάτων «plugin cache»</string>
@@ -827,7 +817,6 @@
   <string name="deprecated_function">Η λειτουργία <strong>{name}</strong> έχει καταργηθεί.</string>
   <string name="deprecated_function_with">Η λειτουργία <strong>{name}</strong> έχει καταργηθεί.: Χρησιμοποιήστε <strong>{with}</strong>.</string>
   <string name="deprecated_tag">Η υποστήριξή του Tag θα καταργηθεί</string>
-  <string name="documentation">Documentation</string>
   <string name="download_count">Αριθμός μεταφορτώσεων</string>
   <string name="edit">επεξεργασία</string>
   <string name="email">email</string>
@@ -849,7 +838,6 @@
   <string name="form">Φόρμα</string>
   <string name="forms">Φόρμες</string>
   <string name="go">πήγαινε</string>
-  <string name="go_back">Go back</string>
   <string name="go_content">Mετάβαση στο περιεχόμενο</string>
   <string name="go_nav">Μετάβαση στο «menu» επιλογής</string>
   <string name="go_search">Mετάβαση στην αναζήτηση</string>
@@ -897,7 +885,6 @@
   <string name="next">επόμενα</string>
   <string name="no">όχι</string>
   <string name="none">Κανένα</string>
-  <string name="nopopup">current window</string>
   <string name="no_comments">Επί του παρόντος δεν υπάρχουν σχόλια για αυτό το άρθρο.</string>
   <string name="no_search_matches">Συγνώμη, δεν βρέθηκαν αποτελέσματα που ταιριάζουν στο αίτημα της αναζήτησής σας</string>
   <string name="numeric_list">Αριθμημένη λίστα</string>
@@ -906,7 +893,6 @@
   <string name="older">παλαιότερα</string>
   <string name="on">ναι</string>
   <string name="only_articles_can_be_previewed">Σημ.: Μόνο οι φόρμες άρθρων μπορούν να προεπισκοπηθούν.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Σελίδα</string>
   <string name="pages">Σελίδες</string>
   <string name="paragraph">παράγραφος</string>
@@ -914,7 +900,6 @@
   <string name="permlink">Μόνιμη σύνδεση</string>
   <string name="plugin_load_error">Προέκυψε πρόβλημα κατά την φόρτωση του αρθρώματος:</string>
   <string name="plugin_load_error_above">Τα παραπάνω σφάλματα προκλήθηκαν από το άρθρωμα:</string>
-  <string name="popup">popup window</string>
   <string name="post">Δημοσίευση</string>
   <string name="posted">Ημ/νία</string>
   <string name="posted_by">Δημοσιεύτηκε από</string>
@@ -1147,9 +1132,7 @@
   <string name="sort">Αναζήτηση ανα</string>
   <string name="sort_by">Ταξινόμηση κατά</string>
   <string name="sort_direction">Φορά ταξινόμησης</string>
-  <string name="tag">Tag</string>
   <string name="tagbuilder">Δημιουργός Tags</string>
-  <string name="tags">Tags</string>
   <string name="tag_article">Άρθρα (μεμονωμένα ή σε λίστα)</string>
   <string name="tag_article_custom">Άρθρα (προσαρμοσμένη λίστα)</string>
   <string name="tag_article_image">Εικόνα άρθρου</string>

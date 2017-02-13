@@ -525,6 +525,7 @@
   <string name="replace_image">Korvaa kuva</string>
   <string name="save_these_settings_as_default">Tallenna asetukset oletuksiksi</string>
   <string name="search_images">Hae kuvia</string>
+  <string name="swap_values">Vaihda arvoja</string>
   <string name="thumbnail_deleted">Pienoiskuva poistettu.</string>
   <string name="thumbnail_not_saved">Pienoiskuvaa <strong>{id}</strong> <em>ei</em> tallennettu!</string>
   <string name="thumbnail_saved">Pienoiskuva <strong>{id}</strong> tallennettu.</string>
@@ -619,6 +620,7 @@
   <string name="previewing_plugin">Liitännäisen esikatselu:</string>
   <string name="verify_plugin">Varmista liitännäinen</string>
   <string name="active_language">Tällä hetkellä käytössä oleva kieli</string>
+  <string name="active_language_ui">Käyttäjän kieli</string>
   <string name="admin_side_plugins">Käytä admin-puolen liitännäisiä?</string>
   <string name="advanced_preferences">Lisäasetukset</string>
   <string name="allow_article_php_scripting">Salli PHP artikkeleissa?</string>
@@ -748,6 +750,7 @@
   <string name="timeoffset">Aikavyöhyke-ero tunneissa</string>
   <string name="title_no_widow">Ehkäise artikkelin otsikon sanojen joutuminen eri riveille?</string>
   <string name="title_only">/otsikko</string>
+  <string name="tz_timezone">Aikavyöhyke</string>
   <string name="updated">Päivitetty</string>
   <string name="updated_branch_version_available">Tästä Textpatternin asennuksesta on saatavilla <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">uudempi versio</a></string>
   <string name="update_languages">Kieliversioiden päivitys</string>
@@ -960,12 +963,14 @@
   <string name="tooltip">Linkin työkaluohje</string>
   <string name="too_common_search_term">Hakutermilläsi löytyy liian useita tuloksia, yritä tarkentaa hakua</string>
   <string name="type">Tyyppi</string>
+  <string name="unclosed_tag">Avaava tagi ilman vastaavaa sulkevaa tagia:</string>
   <string name="undefined">Määrittelemätön</string>
   <string name="unknown_attribute">Tuntematon tagin attribuutti: {att}.</string>
   <string name="unknown_callback_function">Tuntematon callback-funktio: {function}.</string>
   <string name="unknown_image">Tuntematon kuva</string>
   <string name="unknown_section">Tuntematon osio</string>
   <string name="unknown_tag">tagia ei ole olemassa</string>
+  <string name="unregistered_tag">tagia ei ole rekisteröity</string>
   <string name="untitled">Nimetön</string>
   <string name="update">Päivitä</string>
   <string name="upload">Siirrä</string>

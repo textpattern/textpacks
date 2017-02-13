@@ -1,4 +1,4 @@
-#@version 4.6.2;1475580022
+#@version 4.6.2;1485432808
 #@admin
 account_activation => Sei pregato di attivare il tuo account
 account_activation_confirmation => Sei pregato di utilizzare il link qui sotto per attivare il tuo account e impostare una password.
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Ultima modifica
 links => Link
 link_category => Categoria link
+list_options =>
 logged_in_as => Accesso eseguito come
 login => Accedi
 login_to_textpattern => Accedi a Textpattern

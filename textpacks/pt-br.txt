@@ -1,4 +1,4 @@
-#@version 4.6.2;1481291300
+#@version 4.6.2;1485432808
 #@admin
 account_activation => Por favor ative sua conta
 account_activation_confirmation => Por favor, use o link abaixo para ativar sua conta e configurar uma senha.
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => Última alteração
 links => Links
 link_category => Categoria
+list_options =>
 logged_in_as => Registrado como
 login => Nome de registro
 login_to_textpattern => Entrar no Textpattern

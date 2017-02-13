@@ -1,4 +1,4 @@
-#@version 4.6.2;1480596636
+#@version 4.6.2;1485432808
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified =>
 links => Lingid
 link_category => Lingi kategooria
+list_options =>
 logged_in_as => Sisse logitud
 login => Sisene
 login_to_textpattern => Sisselogimine

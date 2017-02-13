@@ -195,7 +195,6 @@
   <string name="changesection">Змінити секцію</string>
   <string name="changestatus">Змінити статус</string>
   <string name="close">Закрити</string>
-  <string name="collapse_all">Collapse all</string>
   <string name="comment">Коментар</string>
   <string name="comments_expired">Час коментування цієї статті минув.</string>
   <string name="confirm_delete_popup">Дійсно видалити?</string>
@@ -210,7 +209,6 @@
   <string name="draft">Чернетка</string>
   <string name="duplicate">Дублювати</string>
   <string name="excerpt">Коротка витримка із тексту</string>
-  <string name="expand_all">Expand all</string>
   <string name="expired">Закінчився</string>
   <string name="expire_date">Дата збігає</string>
   <string name="expire_time">Час збігає</string>
@@ -248,7 +246,6 @@
   <string name="salutation">Шановний {name},</string>
   <string name="save_new">Зберегти</string>
   <string name="search_all">Przeszukaj wszystko</string>
-  <string name="search_clear">Clear search</string>
   <string name="search_options">Параметри пошуку</string>
   <string name="showing_search_results">Показані з {from} по {to} з {total}</string>
   <string name="site_slogan">Підзаголовок сайту</string>
@@ -293,17 +290,7 @@
   <string name="txptextilelite">Спрощений Textile</string>
   <string name="txt_quote_double_close">»</string>
   <string name="txt_quote_double_open">«</string>
-  <string name="txt_quote_single_close">’</string>
-  <string name="txt_quote_single_open">‘</string>
-  <string name="units_b">B</string>
   <string name="units_e">ЕВ</string>
-  <string name="units_g">GB</string>
-  <string name="units_k">kB</string>
-  <string name="units_m">MB</string>
-  <string name="units_p">PB</string>
-  <string name="units_t">TB</string>
-  <string name="units_y">YB</string>
-  <string name="units_z">ZB</string>
   <string name="unmoderated">Неперевірений</string>
   <string name="upload_err_cant_write">Помилка запису файлу на диск.</string>
   <string name="upload_err_extension">Завантаження файлу перервано модулем PHP.</string>
@@ -361,10 +348,6 @@
   <string name="cleanurl_only_apache">\"Чисті\" URL підтримуються тільки для apache, використовуйте на ваш страх і ризик.</string>
   <string name="clean_url_data_failed">Перевірка чистих URL не пройдена</string>
   <string name="clean_url_test_failed">Тест \"чистих\" URL не пройдено.</string>
-  <string name="db_global_timezone">Database server timezone</string>
-  <string name="db_server_time">Database server time</string>
-  <string name="db_server_timeoffset">Database server time offset</string>
-  <string name="db_session_timezone">Database session timezone</string>
   <string name="detail">Детальність</string>
   <string name="dev_version_live">Установка містить development версії деяких файлів.</string>
   <string name="diagnostic_info">Результат діагностики</string>
@@ -373,7 +356,6 @@
   <string name="document_root">Кореневий каталог</string>
   <string name="file_uploads_disabled">Можливість завантажувати файли відключена</string>
   <string name="gd_info">{version}; підтримувані формати: {supported}.</string>
-  <string name="gd_library">GD Graphics Library</string>
   <string name="high">Висока</string>
   <string name="htaccess_contents">Вміст файлу .htaccess</string>
   <string name="htaccess_missing">Файл .htaccess відсутній</string>
@@ -381,7 +363,6 @@
   <string name="is_inaccessible">недоступний</string>
   <string name="last_update">Останнє оновлення</string>
   <string name="low">Низька</string>
-  <string name="magic_quotes">Magic quotes</string>
   <string name="missing_files">Файли, яких не вистачає</string>
   <string name="modified_files">Деякі файли Textpattern були змінені</string>
   <string name="mod_rewrite_missing">Не встановлено модуль Apache <code>mod_rewrite</code>.</string>
@@ -396,7 +377,6 @@
   <string name="php_version">Версія PHP</string>
   <string name="php_version_required">Textpattern CMS вимагає як мінімум {version} версію PHP, яка повинна бути встановлена на вашому сервері</string>
   <string name="preflight_check">Попередня перевірка</string>
-  <string name="register_globals">Register globals</string>
   <string name="rfc2616_headers">Заголовки RFC 2616</string>
   <string name="rfc_2616_headers">CGI Header Mode</string>
   <string name="server">Сервер</string>
@@ -464,7 +444,6 @@
   <string name="file_relink">Завантажити/Вказати файл</string>
   <string name="file_status">Статус файлу</string>
   <string name="file_status_missing">Відсутній</string>
-  <string name="file_status_ok">OK</string>
   <string name="file_unsynchronized">Ім\'я файлу <strong>{name}</strong> не відповідає запису в базі даних. Будь ласка, виправте ім\'я файлу вручну.</string>
   <string name="file_updated">Оновлено інформацію про файл <strong>{name}</strong>.</string>
   <string name="file_uploaded">Завантажено файл <strong>{name}</strong>.</string>
@@ -633,9 +612,7 @@
   <string name="articles_use_excerpts">Статті використовують цитати?</string>
   <string name="attach_titles_to_permalinks">Застосовувати заголовки до постійних посилань?</string>
   <string name="auto_dst">Автоматично робити налаштування літнього часу (<abbr title="Daylight Saving Time">DST</abbr>)?</string>
-  <string name="category_subcategory">/category/subcategory</string>
   <string name="check_for_txp_updates">Перевірити оновлення</string>
-  <string name="clean">/clean/</string>
   <string name="comments_are_ol">Коментарі нумерованим списком?</string>
   <string name="comments_auto_append">Автоматично додавати коментарі до статті?</string>
   <string name="comments_dateformat">Формат дати коментарів</string>
@@ -666,13 +643,11 @@
   <string name="custom_9_set">Додатково 9</string>
   <string name="default_event">Вкладка адміністратора за замовчуванням</string>
   <string name="default_publish_status">Статус статті за замовчуванням</string>
-  <string name="doctype">Doctype</string>
   <string name="edit_preferences">Налаштування</string>
   <string name="edit_raw_css_by_default">За замовчуванням редагувати CSS як є?</string>
   <string name="enable_xmlrpc_server">Увімкнути XML-RPC сервер?</string>
   <string name="experts_only">тільки для експертів</string>
   <string name="expire_logs_after">Скільки днів зберігати логи?</string>
-  <string name="feeds">Feeds</string>
   <string name="file_base_path">Шлях для завантаження файлів</string>
   <string name="file_max_upload_size">Максимально допустимий розмір файлу (в байтах)</string>
   <string name="from_file">Встановити з файлу</string>
@@ -680,7 +655,6 @@
   <string name="gmtoffset">Часовий пояс</string>
   <string name="ham">Все, крім спаму</string>
   <string name="hours_days_ago">годин/днів тому</string>
-  <string name="id_title">/id/title</string>
   <string name="img_dir">Шлях до зображень</string>
   <string name="include_email_atom">Включати email в Atom feeds?</string>
   <string name="installing_language">Встановлення мови</string>
@@ -705,7 +679,6 @@
   <string name="never_display_email">Не показувати email?</string>
   <string name="new_textpattern_version_available">Доступна нова версія Textpattern. Бажаєте її випробувати?</string>
   <string name="no_popup">в тому ж вікні</string>
-  <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Використовувати кодування ISO-8859-1 для email? (за замовчуванням: UTF-8)?</string>
   <string name="path_from_root">Субдиректорія (якщо є)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> не вказано (оновить <code>index.php</code>)</string>
@@ -713,7 +686,6 @@
   <string name="permlink_format">Формат постійних посилань</string>
   <string name="permlink_hyphenated">Через дефіс (title-like-this)</string>
   <string name="permlink_intercapped">Злитно (TitleLikeThis)</string>
-  <string name="permlink_mode">Article URL pattern</string>
   <string name="ping_textpattern_com">Пінгувати textpattern.com?</string>
   <string name="ping_weblogsdotcom">Пінгувати pingomatic.com?</string>
   <string name="plugin_cache_dir">Шлях до кешу плагінів</string>
@@ -731,8 +703,6 @@
   <string name="remove_lang">Видалити мову</string>
   <string name="rpc_connect_error">Неможливо підключитися до віддаленого сервера для перевірки оновлених файлів. Повторіть спробу пізніше.</string>
   <string name="rss_how_many">Скільки статей повинно бути включено в RSS?</string>
-  <string name="section_id_title">/section/id/title</string>
-  <string name="section_title">/section/title</string>
   <string name="send_lastmod">Відсилати «Last-Modified» header?</string>
   <string name="show_article_category_count">Показувати кількість статей в Категоріях?</string>
   <string name="show_comment_count_in_feed">Показувати кількість коментарів в feeds?</string>
@@ -747,7 +717,6 @@
   <string name="theme_name">Тема адмінки</string>
   <string name="timeoffset">Різниця в часі (години)</string>
   <string name="title_no_widow">Уникати одиноких слів в заголовках?</string>
-  <string name="title_only">/title</string>
   <string name="updated">Оновлено</string>
   <string name="updated_branch_version_available">Доступне оновлення цієї версії <a href="http://textpattern.com/download" rel="external" title="Переглянути сайт Textpattern"> Textpattern</a>.</string>
   <string name="update_languages">Оновити мови</string>
@@ -795,7 +764,6 @@
   <string name="comments_permlink">Постійне посилання</string>
   <string name="comment_comment">Коментар</string>
   <string name="comment_duplicate">Однакові коментарі не приймаються.</string>
-  <string name="comment_email">Email</string>
   <string name="comment_email_required">Будь ласка, введіть коректну адресу електронної пошти.</string>
   <string name="comment_invitation">Запрошення</string>
   <string name="comment_message">Повідомлення</string>
@@ -827,10 +795,8 @@
   <string name="deprecated_function">функція <strong>{name}</strong> застаріла.</string>
   <string name="deprecated_function_with">функція <strong>{name}</strong> застаріла: використовуйте замість неї <strong>{with}</strong>.</string>
   <string name="deprecated_tag">тег є застарілим</string>
-  <string name="documentation">Documentation</string>
   <string name="download_count">Лічильник завантажень</string>
   <string name="edit">Редагувати</string>
-  <string name="email">Email</string>
   <string name="email_address">Адрес електронної пошти</string>
   <string name="emphasis">курсив</string>
   <string name="enter_comment_here">Поля позначені як <b class="required">*</b> потрібні обов\'язково. Перед постінгом завжди робіть перегляд свого коментаря.</string>
@@ -849,7 +815,6 @@
   <string name="form">Шаблон</string>
   <string name="forms">Шаблони</string>
   <string name="go">Перейти</string>
-  <string name="go_back">Go back</string>
   <string name="go_content">Перейти до змісту</string>
   <string name="go_nav">Перейти до навігації</string>
   <string name="go_search">Перейти до пошуку</string>
@@ -857,7 +822,6 @@
   <string name="go_txp_com">Перейти на сайт Textpattern</string>
   <string name="header">Заголовок</string>
   <string name="home">Головна</string>
-  <string name="host">Host</string>
   <string name="hour">година</string>
   <string name="hours">г.</string>
   <string name="hr">горизонтальний роздільник</string>
@@ -897,16 +861,13 @@
   <string name="next">Наступна</string>
   <string name="no">Ні</string>
   <string name="none">нічого</string>
-  <string name="nopopup">current window</string>
   <string name="no_comments">Немає коментарів до цієї статті.</string>
   <string name="no_search_matches">Вибачте, результатів не знайдено що відповідають Вашому запиту.</string>
   <string name="numeric_list">Нумерований список</string>
-  <string name="of">of</string>
   <string name="off">викл.</string>
   <string name="older">старше</string>
   <string name="on">вкл.</string>
   <string name="only_articles_can_be_previewed"><strong>Зазначати:</strong> тільки шаблони статей можуть бути попередньо переглянуті.</string>
-  <string name="opens_external_link">(opens an external link in a new window)</string>
   <string name="page">Сторінка</string>
   <string name="pages">Сторінки</string>
   <string name="paragraph">параграф</string>
@@ -914,7 +875,6 @@
   <string name="permlink">Постійне посилання</string>
   <string name="plugin_load_error">При завантаженні плагіна сталася помилка:</string>
   <string name="plugin_load_error_above">Вищеперелічені помилки сталися через плагін:</string>
-  <string name="popup">popup window</string>
   <string name="post">Опублікувати</string>
   <string name="posted">Опубліковано</string>
   <string name="posted_by">Опубліковано</string>
@@ -970,7 +930,6 @@
   <string name="update">Оновлено</string>
   <string name="upload">Завантажити</string>
   <string name="uploaded">завантажено</string>
-  <string name="url">URL</string>
   <string name="value">Значення</string>
   <string name="version">Версія</string>
   <string name="view">Переглянути</string>
@@ -982,7 +941,6 @@
   <string name="your_branch_is_updated">Ви використовуєте Textpattern останньої версії</string>
   <string name="your_ip_is_blacklisted_by">Ваша IP адреса була занесена в чорний список</string>
   <string name="you_have_been_banned">Вам заборонено коментувати.</string>
-  <string name="yyyy-mm">yyyy-mm</string>
   <string name="article_count">Статей в секції: {num}.</string>
   <string name="create_section">Створити секцію</string>
   <string name="default_write_section">Секція публікації за умовчанням</string>
@@ -1030,7 +988,6 @@
   <string name="did_it">Зроблено</string>
   <string name="email_required">Будь ласка, вкажіть коректну email адресу.</string>
   <string name="errors_during_install">Під час встановлення виникло помилок: <strong>{num}</strong>. Ви можете попросити допомогти вам розібратись з цим на форумах Textpattern.</string>
-  <string name="get_started">Go!</string>
   <string name="go_to_login">Увійти зараз</string>
   <string name="installation_postamble">В цілях безпеки потрібно видалити директорію <code>setup</code> з вашого сайту.</string>
   <string name="mysql_database">MySQL база даних</string>
@@ -1097,7 +1054,6 @@
   <string name="comment_name_link">Робити посилання на email/сайт коментатора?</string>
   <string name="decimals">Показувати # знаків після коми</string>
   <string name="default_title">Текст посилання на секцію за замовчуванням</string>
-  <string name="escape">Escape</string>
   <string name="exclude">Виключити</string>
   <string name="filename">Ім\'я</string>
   <string name="file_download_tags">Завантаження файлів</string>
@@ -1109,7 +1065,6 @@
   <string name="hilight">Тег виділення</string>
   <string name="hilight_limit">Скільки входжень виділяти?</string>
   <string name="html_id"><code>id</code> HTML атрибут</string>
-  <string name="id">ID#</string>
   <string name="include_default">Включати секцію за замовчуванням?</string>
   <string name="inline_style">Вбудований стиль (CSS)</string>
   <string name="input_size">Розмір поля</string>

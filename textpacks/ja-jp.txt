@@ -1,4 +1,4 @@
-#@version 4.6.2;1473236141
+#@version 4.6.2;1485432808
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -253,6 +253,7 @@ lang_dir => ltr
 last_modified => 最終更新日
 links => リンク
 link_category => カテゴリ
+list_options =>
 logged_in_as => ユーザ
 login => ログイン
 login_to_textpattern => Textpatternにログインする

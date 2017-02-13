@@ -5,7 +5,7 @@
   <string name="lang_code">lv-LV</string>
   <string name="lang_dir">ltr</string>
   <string name="account_activation">Lūdzu, aktivizējiet savu kontu</string>
-  <string name="account_activation_confirmation">Please use the link below to activate your account and set up a password.</string>
+  <string name="account_activation_confirmation">Lūdzu izmantojiet saiti zemāk, lai aktivizētu savu kontu un iestatītu paroli.</string>
   <string name="add_new_author">Pievienot jaunu autoru</string>
   <string name="and_mailed_to">un nosūtīta uz</string>
   <string name="assign_assets_to">Piešķirt lietotāja saturu</string>
@@ -28,7 +28,7 @@
   <string name="error_adding_new_author">Kļūda, nav izdevies pievienot jaunu autoru.</string>
   <string name="freelancer">Ārštatnieks</string>
   <string name="last_login">Pēdējā pieslēgšanās</string>
-  <string name="link_expires">You have until {day} {month} {year}, {time} to respond before this link expires.</string>
+  <string name="link_expires">Jums ir jāatbild līdz {day} {month} {year}, {time}, pirms šī saite pārstāj strādāt.</string>
   <string name="login_name">Lietotāja vārds</string>
   <string name="login_sent_to">Parole nosūtīta uz {email}.</string>
   <string name="log_in_at">Ierakstieties šeit</string>
@@ -124,7 +124,7 @@
   <string name="view_html">Apskatīt HTML atzīmes</string>
   <string name="view_html_short">HTML</string>
   <string name="view_preview">Apskatīt rakstu</string>
-  <string name="view_preview_short">Priekšskatīt</string>
+  <string name="view_preview_short">Priekšskatījums</string>
   <string name="view_text">Labot raksta tekstu</string>
   <string name="view_text_short">Teksta</string>
   <string name="write">Rakstīt</string>
@@ -138,7 +138,7 @@
   <string name="article_category_title">Ierakstu kategorijas virsraksts</string>
   <string name="article_category_updated">Ierakstu kategorija <strong>{name}</strong> izmainīta.</string>
   <string name="article_head">Ierakstu kategorijas</string>
-  <string name="categories_set_parent">{list} assigned to {type} category parent {parent}</string>
+  <string name="categories_set_parent">{list} piešķirta {type} kategorijas vecākam {parent}</string>
   <string name="category_not_found">Kategorija netika atrasta</string>
   <string name="category_save_failed">Kategorija netika saglabāta, jo gadījās kļūda. Lūdzu, mēģiniet vēlreiz.</string>
   <string name="create_new_category">Izveidot jaunu kategoriju</string>
@@ -245,7 +245,7 @@
   <string name="publish_time">Publicēšanas laiks</string>
   <string name="range">Virkne</string>
   <string name="restricted_area">Ierobežotas pieejas lapa.</string>
-  <string name="salutation">Dear {name},</string>
+  <string name="salutation">Cienījamais {name},</string>
   <string name="save_new">Saglabāt</string>
   <string name="search_all">Meklēt visur</string>
   <string name="search_clear">Notīrīt meklēšanu</string>
@@ -277,7 +277,7 @@
   <string name="tab_presentation">Izskats</string>
   <string name="tab_sections">Sadaļas</string>
   <string name="tab_site_admin">Lietotāji</string>
-  <string name="tab_skins">Skins</string>
+  <string name="tab_skins">Apdares</string>
   <string name="tab_start">Sākumlapa</string>
   <string name="tab_style">Stilu lapas</string>
   <string name="tab_view_site">Skatīt lapu</string>
@@ -419,7 +419,7 @@
   <string name="cant_ban_blank_ip">Nevar liegt pieeju tukšai IP adresei.</string>
   <string name="comments_deleted">Komentāri dzēsti: <strong>{list}</strong>.</string>
   <string name="comments_marked_spam">Komentāri paslēpti un atzīmēti kā mēstules: <strong>{list}</strong>.</string>
-  <string name="comments_marked_unmoderated">Comments hidden and marked as unmoderated: <strong>{list}</strong>.</string>
+  <string name="comments_marked_unmoderated">Paslēptie un nemoderētie komentāri: <strong>{list}</strong>.</string>
   <string name="comments_marked_visible">Komentāri padarīti redzami: <strong>{list}</strong>.</string>
   <string name="comment_not_found">Komentārs neeksistē, tas jau var būt dzēsts.</string>
   <string name="comment_save_failed">Komentārs netika saglabāts, jo gadījās kļūda. Lūdzu, mēģiniet vēlreiz.</string>
@@ -690,7 +690,7 @@
   <string name="install_textpack">Uzstādīt Textpack</string>
   <string name="is_dst">Ievērot vasaras laika maiņu?</string>
   <string name="language">Valoda</string>
-  <string name="lastmod_keepalive">Compensate for persistent connection <code>mod_deflate</code> bug?</string>
+  <string name="lastmod_keepalive">Kompensēt pastāvīgā savienojuma <code>mod_deflate</code> kļūdu?</string>
   <string name="leave_text_untouched">Atstāt tekstu kā ir</string>
   <string name="link">Saites</string>
   <string name="locale">Lokāle</string>
@@ -705,7 +705,7 @@
   <string name="never_display_email">Nerādīt e-pasta adreses?</string>
   <string name="new_textpattern_version_available">Ir pieejama pilnīgi jauna Textpattern versija. Vai vēlies to izmēģināt?</string>
   <string name="no_popup">esošā logā</string>
-  <string name="no_preferences">No preferences available.</string>
+  <string name="no_preferences">Izvēles nav pieejamas.</string>
   <string name="override_emailcharset">Lietot ISO-8859-1 e-pasta ziņās? (noklusēti UTF-8)</string>
   <string name="path_from_root">Apakšmape (ja tādas pastāv)</string>
   <string name="path_to_site_missing"><code>$path_to_site</code> nav uzstādīts (jālabo <code>index.php</code>)</string>
@@ -737,7 +737,7 @@
   <string name="show_article_category_count">Parādīt ierakstu skaitu kategorijās?</string>
   <string name="show_comment_count_in_feed">Rādīt komentāru skaitu barotnēs?</string>
   <string name="site_prefs">Pamatuzstādījumi</string>
-  <string name="skin_base_path">Skin base path</string>
+  <string name="skin_base_path">Apdares bāzes ceļš</string>
   <string name="smtp_from">SMTP sūtītāja adrese</string>
   <string name="spam_blacklists">Mēstuļu melnie saraksti (ar komatu atdalīti)</string>
   <string name="syndicate_body_or_excerpt">Sindicēt <strong>tikai</strong> ievadtekstu?</string>
@@ -746,7 +746,6 @@
   <string name="textpack_strings_installed">Uzstādītas {count} rindas no Textpack</string>
   <string name="theme_name">Administrācijas lapas tēma</string>
   <string name="timeoffset">Laika starpība (stundās)</string>
-  <string name="title_no_widow">Prevent widowed words in article titles?</string>
   <string name="title_only">/virsraksts</string>
   <string name="updated">Atjaunināts</string>
   <string name="updated_branch_version_available">Ir pieejama atjaunota Textpattern versija.</string>
@@ -833,7 +832,7 @@
   <string name="email">E-pasts</string>
   <string name="email_address">E-pasta adrese</string>
   <string name="emphasis">slīpraksts</string>
-  <string name="enter_comment_here"><strong>Enter your comment below.</strong> Fields marked <b class="required" title="Required">*</b> are required. You must preview your comment before submitting it.</string>
+  <string name="enter_comment_here"><strong>Ievadiet savu komentāru zemāk.</strong> Obligātie lauki ir atzīmēti ar <b class="required" title="Nepieciešamais">*</b>. Pirms iesniegšanas komentāram ir jāveic priekšapskate.</string>
   <string name="error_article_context">Rakstu iezīmes nevar izmantot ārpus raksta konteksta.</string>
   <string name="error_category_context">Kategoriju iezīmes nevar izmantot ārpus kategorijas konteksta.</string>
   <string name="error_comment_context">Komentāru iezīmes nevar izmantot ārpus komentāra konteksta.</string>
@@ -918,7 +917,7 @@
   <string name="post">Ieraksts</string>
   <string name="posted">Ierakstīts</string>
   <string name="posted_by">Ierakstīja</string>
-  <string name="press_preview_then_submit">The following is a preview of what your comment will look like. When you are happy with your comment, use the <strong><a href="#txpCommentSubmit" title="Go to the submit button">submit</a></strong> button.</string>
+  <string name="press_preview_then_submit">Šis ir tava komentāra priekšskatījums. Kad viss izskatās kārtībā, spied uz <strong><a href="#txpCommentSubmit" title="Pāriet uz iesniegšanas pogu">iesniegšanas</a></strong> pogas.</string>
   <string name="prev">Iepriekšējais</string>
   <string name="preview">Priekšskatīt</string>
   <string name="publish">Publicēt</string>
@@ -958,7 +957,7 @@
   <string name="time_ago">pirms {time}</string>
   <string name="title">Nosaukums</string>
   <string name="tooltip">Saites palīdzības teksts</string>
-  <string name="too_common_search_term">It seems like you are looking for a very common search term, maybe try a more specific phrase than</string>
+  <string name="too_common_search_term">Šķiet, ka jūs meklējat ļoti biežu meklēšanas frāzi, varbūt pamēģiniet meklēt konkrētāku frāzi nekā</string>
   <string name="type">Tips</string>
   <string name="undefined">Nedefinēts</string>
   <string name="unknown_attribute">Nezināms iezīmes atribūts: {att}.</string>
@@ -1044,7 +1043,7 @@
   <string name="next_step">Nākamais</string>
   <string name="pass_required">Lūdzu, ievadiet sarežģītu paroli.</string>
   <string name="please_enter_url">Lūdzu, norādiet adresi, pēc kuras lapa būs sasniedzama.</string>
-  <string name="please_go_back">Please go back, rectify any incorrect details and try this process again.</string>
+  <string name="please_go_back">Lūdzu, atgriezieties, salabojiet nepareizo informāciju un mēģiniet procesu vēlreiz.</string>
   <string name="populate_db">Aizpildiet datubāzi</string>
   <string name="prefix_bad_characters">Tabulu priedēklis {dbprefix} satur simbolus, kas nav atļauti. Pirmajam simbolam ir jābūt latīņu burtam no <strong>a-zA-Z_</strong> (ieskaitot mazos burtus) un turpmāki simboli bez latīņu burtiem drīkst saturēt arī ciparus <strong>a-zA-Z0-9_</strong>.</string>
   <string name="prefix_warning">(Izmantojiet priedēkli TIKAI gadījumā, ja lietojat datubāzi dažādiem mērķiem)</string>
@@ -1058,7 +1057,6 @@
   <string name="setup_password_strength_4">Spēcīga</string>
   <string name="setup_show_password">Rādīt paroli</string>
   <string name="set_db_details">Ievadiet datubāzes datus</string>
-  <string name="set_temp_dir_prefs">Sorry, but Textpattern failed to find a writable directory to hold temporary files. Please visit the <strong>Preferences</strong> administration panel and adjust the <strong>Temporary directory path</strong> setting to suit your needs.</string>
   <string name="site_config">Vietnes konfigurācija</string>
   <string name="site_url">Lapas adrese</string>
   <string name="tables_exist">Šķiet, ka datubāzē <strong>{dbname}</strong> tabulas jau pastāv. Ja vēlaties turpināt uzstādīšanu, vai nu nodzēsiet esošās tabulas, vai arī izvēlieties atšķirīgu tabulu prefiksu.</string>
@@ -1071,13 +1069,13 @@
   <string name="your_email">Jūsu e-pasta adrese</string>
   <string name="your_full_name">Jūsu pilnais vārds</string>
   <string name="you_can_access">Jums atliek ierakstīties <a href="index.php">administrācijas lapā</a> ar jūsu izvēlēto lietotāja vārdu un paroli.</string>
-  <string name="create_skin">Create skin</string>
-  <string name="edit_skin">Edit skin</string>
-  <string name="skin_author">Skin author</string>
-  <string name="skin_name">Skin name</string>
-  <string name="skin_title">Skin title</string>
-  <string name="skin_version">Skin version</string>
-  <string name="skin_website">Skin website</string>
+  <string name="create_skin">Izveidot apdari</string>
+  <string name="edit_skin">Labot apdari</string>
+  <string name="skin_author">Apdares autors</string>
+  <string name="skin_name">Apdares nosaukums</string>
+  <string name="skin_title">Apdares virsraksts</string>
+  <string name="skin_version">Apdares versija</string>
+  <string name="skin_website">Apdares vietne</string>
   <string name="active_class">Aktīvā saraksta elementa CSS klase</string>
   <string name="align">Izlīdzinājums</string>
   <string name="allowoverride">Atļaut šīs formas vietā izmantot citu?</string>
@@ -1122,7 +1120,7 @@
   <string name="link_to_this_section">Saistīt ar sarakstu, kas satur citus šajā sadaļā esošos ierakstus?</string>
   <string name="listform">Saraksta forma</string>
   <string name="match">Kā tie ir saistīti?</string>
-  <string name="match_type">Match type</string>
+  <string name="match_type">Atbilstības tips</string>
   <string name="media"><code>media</code> HTML atribūts</string>
   <string name="msgcols">Ziņojuma lauka kolonnas</string>
   <string name="msgrows">Ziņojuma lauka rindas</string>
