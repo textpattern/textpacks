@@ -1029,7 +1029,7 @@
   <string name="db_must_exist">Notare che il database specificato deve già esistere, non viene creato da Textpattern.</string>
   <string name="did_it">Fatto</string>
   <string name="email_required">Inserisci un indirizzo email valido.</string>
-  <string name="errors_during_install">Si sono verificati <strong>{num}</strong> errori durante l’installazione. Per assistenza puoi chiedere aiuto nel <a href="http://forum.textpattern.com/" rel="external">Textpattern CMS Support Forum</a>.</string>
+  <string name="errors_during_install">Si sono verificati <strong>{num}</strong> errori durante l’installazione. Per assistenza puoi chiedere aiuto nel <a href="https://forum.textpattern.io/" rel="external">Textpattern CMS Support Forum</a>.</string>
   <string name="get_started">Vai!</string>
   <string name="go_to_login">Accedi ora</string>
   <string name="installation_postamble">Per sicurezza, ora dovresti rimuovere la cartella <code>setup</code> dalla directory <code>/textpattern/</code>. Di tanto in tanto controlla il pannello di Amministrazione Diagnostica per annunci su aggiornamenti o suggerimenti sulla risoluzione dei problemi.</string>

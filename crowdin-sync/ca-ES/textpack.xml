@@ -800,7 +800,7 @@
   <string name="db_must_exist">Tingues en compte que la base de dades especificada ja ha d’existir; Textpattern no la crearà per tu.</string>
   <string name="did_it">Ja ho he fet</string>
   <string name="email_required">Escriu una adreça de correu vàlida, sisplau.</string>
-  <string name="errors_during_install">Hi ha hagut <strong>{num}</strong> errors en la instal·lació. Pots demanar ajuda en els <a href="http://forum.textpattern.com/" rel="external">fòrums de Textpattern CMS</a>.</string>
+  <string name="errors_during_install">Hi ha hagut <strong>{num}</strong> errors en la instal·lació. Pots demanar ajuda en els <a href="https://forum.textpattern.io/" rel="external">fòrums de Textpattern CMS</a>.</string>
   <string name="mysql_database">Base de dades MySQL</string>
   <string name="mysql_login">Usuari (login) MySQL</string>
   <string name="mysql_password">Contrasenya MySQL</string>

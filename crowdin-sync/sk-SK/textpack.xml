@@ -1029,7 +1029,7 @@
   <string name="db_must_exist">Upozornenie: uvedená databáza musí existovať. Textpattern ju nevytvorí za vás.</string>
   <string name="did_it">Vykonal som to</string>
   <string name="email_required">Zadaj platnú emailovú adresu.</string>
-  <string name="errors_during_install">Počas inštalácie sa vyskytlo <strong>{num}</strong> chýb. Môžete požiadať o pomoc na <a href="http://forum.textpattern.com">fóre Textpattern</a>.</string>
+  <string name="errors_during_install">Počas inštalácie sa vyskytlo <strong>{num}</strong> chýb. Môžete požiadať o pomoc na <a href="https://forum.textpattern.io">fóre Textpattern</a>.</string>
   <string name="get_started">Začať!</string>
   <string name="go_to_login">Prihlásiť sa</string>
   <string name="installation_postamble">Z dôvodu bezpečnosti doporučujeme zmazať zložku <code>setup</code> z adresára <code>/textpattern/</code>. Čas od času spustite diagnostiku na záložke Správa pre kontrolu aktualizácií a vyhľadanie problémov.</string>
