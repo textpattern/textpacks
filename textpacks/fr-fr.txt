@@ -1,4 +1,4 @@
-#@version 4.6.2;1486981922
+#@version 4.6.2;1488962676
 #@admin
 account_activation => Veuillez activer votre compte
 account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
@@ -177,7 +177,7 @@ add => Ajouter
 admin => Administration
 ar-ar => عربي
 ar-dz => جزائري عربي
-are_you_sure => Êtes-vous certain ?
+are_you_sure => Êtes-vous certain ?
 article => Article
 ascending => Ordre ascendant
 auth_required => Autorisation requise.

@@ -1,4 +1,4 @@
-#@version 4.6.2;1485595525
+#@version 4.6.2;1489768200
 #@admin
 account_activation => Please activate your account
 account_activation_confirmation => Please use the link below to activate your account and set up a password.
@@ -86,7 +86,7 @@ article_exp_second => Second
 article_exp_year => Year
 article_hour => Hour
 article_image => Article image
-article_markup => Article markup
+article_markup => Body markup
 article_minute => Minute
 article_month => Month
 article_posted => Article posted.
