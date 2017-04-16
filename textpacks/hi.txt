@@ -95,6 +95,7 @@ reset_time =>
 search_articles =>
 set_to_now =>
 sort_display =>
+textfilter =>
 textfilter_help =>
 timestamp =>
 url_title =>
