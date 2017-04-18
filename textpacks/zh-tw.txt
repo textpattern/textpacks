@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -113,6 +113,7 @@ reset_time => 重設發表時間為現在
 search_articles =>
 set_to_now => 使用目前時間
 sort_display => 版區與分類
+textfilter =>
 textfilter_help =>
 timestamp => 發表時間
 url_title => 網址名稱

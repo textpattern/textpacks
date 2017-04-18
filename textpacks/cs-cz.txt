@@ -1,4 +1,4 @@
-#@version 4.6.2;1486981713
+#@version 4.6.2;1492184467
 #@admin
 account_activation => Aktivujte svůj účet, prosím
 account_activation_confirmation => Použijte níže uvedený odkaz k aktivaci vašeho účtu a nastavení hesla.
@@ -113,6 +113,7 @@ reset_time => Nastavit nynější čas
 search_articles => Hledat články
 set_to_now => Nastavit nynější čas
 sort_display => Řazení a zobrazení
+textfilter =>
 textfilter_help => Nápověda formátování textu
 timestamp => Datum/čas
 url_title => Název do odkazů

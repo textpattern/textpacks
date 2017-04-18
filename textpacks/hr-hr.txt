@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -113,6 +113,7 @@ reset_time => Resetiraj vrijeme za trenutno
 search_articles =>
 set_to_now => Postavi timestamp za trenutno
 sort_display => Sortiraj i Prikaži
+textfilter =>
 textfilter_help => Pomoć za formatiranje teksta
 timestamp => Vremenski biljeg
 url_title => Naslov samo za-URL

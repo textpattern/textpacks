@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -113,6 +113,7 @@ reset_time => ตั้งเวลาใหม่ให้เป็นปัจ
 search_articles =>
 set_to_now => ตั้งเวลาโพสต์เป็นปัจจุบัน
 sort_display => จัดระเบียบ
+textfilter =>
 textfilter_help =>
 timestamp => ตราเวลา
 url_title => ชื่อใน URL

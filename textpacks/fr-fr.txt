@@ -1,4 +1,4 @@
-#@version 4.6.2;1488962676
+#@version 4.6.2;1492184467
 #@admin
 account_activation => Veuillez activer votre compte
 account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
@@ -113,6 +113,7 @@ reset_time => Horodater à « maintenant »
 search_articles => Recherche d’articles
 set_to_now => Publier « maintenant »
 sort_display => Affectations de l’article
+textfilter =>
 textfilter_help => Aide à la rédaction Textile
 timestamp => Date de publication
 url_title => Texte de l’URL

@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -113,6 +113,7 @@ reset_time => 시각 초기화
 search_articles =>
 set_to_now => 등록 시각을 현재로 설정
 sort_display => 정렬과 보기
+textfilter =>
 textfilter_help =>
 timestamp =>
 url_title => URL 전용 제목

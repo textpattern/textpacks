@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation => Silakan mengaktifkan akun Anda
 account_activation_confirmation => Silahkan mengunakan tautan dibawah ini untuk mengaktifkan akun anda dan mengatur sebuah kata sandi.
@@ -113,6 +113,7 @@ reset_time => Reset waktu ke sekarang
 search_articles =>
 set_to_now => Atur timestamp ke sekarang
 sort_display =>
+textfilter =>
 textfilter_help =>
 timestamp =>
 url_title => Judul URL-saja

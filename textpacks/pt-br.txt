@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation => Por favor ative sua conta
 account_activation_confirmation => Por favor, use o link abaixo para ativar sua conta e configurar uma senha.
@@ -113,6 +113,7 @@ reset_time => Usar a hora atual
 search_articles => Pesquisar artigos
 set_to_now => Utilizar data/hora atual
 sort_display => Classificação
+textfilter =>
 textfilter_help => Central de ajuda da formatação do texto
 timestamp => Data de publicação
 url_title => Texto da URL

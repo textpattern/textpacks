@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation => 请激活您的帐号
 account_activation_confirmation => 请点击下面的链接来激活您的帐号并且设置密码
@@ -113,6 +113,7 @@ reset_time => 重设时间到此刻……
 search_articles => 搜索文章
 set_to_now => 以当前时间发表……
 sort_display => 分类和显示
+textfilter =>
 textfilter_help => 文本格式提示
 timestamp => 时间戳
 url_title => URL 标题

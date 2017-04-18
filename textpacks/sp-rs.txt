@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation => Aktiviraj svoj nalog
 account_activation_confirmation => Aktiviraj svoj nalog i podesi lozinku putem linka.
@@ -113,6 +113,7 @@ reset_time => Resetuj vreme za trenutno
 search_articles => Pretraži članke
 set_to_now => Postavi vreme (timestamp) za trenutno
 sort_display => Sortiranje i prikaz
+textfilter =>
 textfilter_help => Pomoć pri formatiranju teksta
 timestamp => Vremenski žig (timestamp)
 url_title => Naslov samo za URL adresu

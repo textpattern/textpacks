@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation => Prosimy aktywować swoje konto
 account_activation_confirmation => Użyj poniższego linku, aby aktywować swoje konto i ustawić hasło.
@@ -113,6 +113,7 @@ reset_time => Ustaw na aktualny czas
 search_articles => Szukaj artykułów
 set_to_now => Aktualny czas jako czas publikacji
 sort_display => Przynależność
+textfilter =>
 textfilter_help => Pomoc edytora tekstu
 timestamp => Data publikacji
 url_title => Adres URL

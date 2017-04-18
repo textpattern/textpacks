@@ -1,4 +1,4 @@
-#@version 4.6.2;1485432808
+#@version 4.6.2;1492184467
 #@admin
 account_activation => الرجاء تنشيط حسابك
 account_activation_confirmation => الرجاء استخدام الرابط أدناه لتنشيط حسابك وقم بإعداد كلمة السر.
@@ -113,6 +113,7 @@ reset_time => ضبط الساعة حسب التوقيت الحالي
 search_articles => البحث في المقالات
 set_to_now => ضبط التاريخ والساعة حسب التوقيت الحالي
 sort_display => تخصيص المقالة
+textfilter =>
 textfilter_help => تعليمات كتابة النص
 timestamp => تاريخ النشر
 url_title => النص الخاص بعنوان الموقع
