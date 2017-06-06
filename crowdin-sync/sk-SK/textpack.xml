@@ -228,6 +228,7 @@
   <string name="last_modified">Naposledy upravené</string>
   <string name="links">Odkazy</string>
   <string name="link_category">Kategória odkazu</string>
+  <string name="list_options">Možnosti zoznamu</string>
   <string name="logged_in_as">Prihlásený(á) ako</string>
   <string name="login">Prihlásenie</string>
   <string name="login_to_textpattern">Prihlásiť sa do Textpatternu</string>
@@ -525,6 +526,7 @@
   <string name="replace_image">Nahradiť obrázok</string>
   <string name="save_these_settings_as_default">Uložiť ako východzie nastavenia</string>
   <string name="search_images">Hľadať obrázky</string>
+  <string name="swap_values">Zameniť hodnoty</string>
   <string name="thumbnail_deleted">Náhľad vymazaný.</string>
   <string name="thumbnail_not_saved">Náhľad <strong>{id}</strong> nebol uložený!</string>
   <string name="thumbnail_saved">Náhľad <strong>{id}</strong> uložený.</string>
@@ -619,6 +621,7 @@
   <string name="previewing_plugin">Náhľad pluginu:</string>
   <string name="verify_plugin">Overiť/skontrolovať rozšírenie</string>
   <string name="active_language">Aktuálne používaný jazyk</string>
+  <string name="active_language_ui">Uživatelský jazyk</string>
   <string name="admin_side_plugins">Používať administračné \"bočné\" pluginy?</string>
   <string name="advanced_preferences">Rozšírené nastavenia</string>
   <string name="allow_article_php_scripting">Povoliť PHP kód v článkoch?</string>
@@ -748,6 +751,7 @@
   <string name="timeoffset">Časový rozdiel voči serveru</string>
   <string name="title_no_widow">Zabrániť \"drobkom\" v názvoch článkov?</string>
   <string name="title_only">/titulok</string>
+  <string name="tz_timezone">Časové pásmo</string>
   <string name="updated">upravené</string>
   <string name="updated_branch_version_available">Existuje novšia verzia Textpatternu</string>
   <string name="update_languages">Aktualizovať jazyky</string>
@@ -766,6 +770,7 @@
   <string name="ago">pred</string>
   <string name="all">Všetko</string>
   <string name="already_exists">už existuje</string>
+  <string name="ambiguous_tag">Nesprávny formát uzatváracieho tagu:</string>
   <string name="any">Niektorý</string>
   <string name="articles">Články</string>
   <string name="articles_found">nájdených článkov</string>
@@ -877,6 +882,7 @@
   <string name="list_categories">zoznam kategórií</string>
   <string name="list_links">zoznam odkazov</string>
   <string name="live">Publikované</string>
+  <string name="lonely_closing_tag">Uzatvárací tag bez odpovedajúceho otváracieho tagu:</string>
   <string name="lowercase">malé</string>
   <string name="main_content">Hlavný obsah</string>
   <string name="manual">Ručne</string>
@@ -950,6 +956,7 @@
   <string name="subscript">dolný index</string>
   <string name="superscript">horný index</string>
   <string name="tag_error">Chyba značky:</string>
+  <string name="tag_mismatch">Otvárací a uzatvárací tag se nezhodujú:</string>
   <string name="textile_help">Príkazy Textile</string>
   <string name="textile_lite_help">Príkazy Textile Lite</string>
   <string name="text_conversion">Prevod textu</string>
@@ -960,12 +967,14 @@
   <string name="tooltip">Nápoveda odkazu</string>
   <string name="too_common_search_term">Zdá sa, že vyhľadávaný výraz bol formulovaný príliš všeobecne. Skúste použiť konkrétnejší výraz</string>
   <string name="type">Typ</string>
+  <string name="unclosed_tag">Otvárací tag bez odpovedajúceho uztváracieho tagu:</string>
   <string name="undefined">nedefinované</string>
   <string name="unknown_attribute">Neznámý parameter príkazu: {att}.</string>
   <string name="unknown_callback_function">Neznámá callback funkcia: {function}.</string>
   <string name="unknown_image">Neznámy obrázok.</string>
   <string name="unknown_section">Neznáma rubrika</string>
   <string name="unknown_tag">značka neexistuje</string>
+  <string name="unregistered_tag">neregistrovaný tag</string>
   <string name="untitled">Bez titulky</string>
   <string name="update">Upraviť</string>
   <string name="upload">Nahrať</string>
@@ -1029,7 +1038,7 @@
   <string name="db_must_exist">Upozornenie: uvedená databáza musí existovať. Textpattern ju nevytvorí za vás.</string>
   <string name="did_it">Vykonal som to</string>
   <string name="email_required">Zadaj platnú emailovú adresu.</string>
-  <string name="errors_during_install">Počas inštalácie sa vyskytlo <strong>{num}</strong> chýb. Môžete požiadať o pomoc na <a href="https://forum.textpattern.io">fóre Textpattern</a>.</string>
+  <string name="errors_during_install">Počas inštalácie sa vyskytlo <strong>{num}</strong> chýb. Môžete požiadať o pomoc na <a href="http://forum.textpattern.com">fóre Textpattern</a>.</string>
   <string name="get_started">Začať!</string>
   <string name="go_to_login">Prihlásiť sa</string>
   <string name="installation_postamble">Z dôvodu bezpečnosti doporučujeme zmazať zložku <code>setup</code> z adresára <code>/textpattern/</code>. Čas od času spustite diagnostiku na záložke Správa pre kontrolu aktualizácií a vyhľadanie problémov.</string>
