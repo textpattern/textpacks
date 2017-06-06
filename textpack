@@ -3,8 +3,8 @@
 
 include __DIR__ . '/tests/Textpattern/Textpack/Test/Parser.php';
 
-$template = explode("\n", file_get_contents(__DIR__ . '/textpacks/en-gb.textpack'));
-$files = (array) glob(__DIR__ . '/textpacks/*.textpack');
+$template = explode("\n", file_get_contents(__DIR__ . '/textpacks/en-gb.txt'));
+$files = (array) glob(__DIR__ . '/textpacks/*.txt');
 
 foreach ($files as $file) {
     if (!is_readable($file) || !is_file($file)) {
