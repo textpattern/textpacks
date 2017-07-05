@@ -1,4 +1,4 @@
-#@version 4.6.2;1492184467
+#@version 4.6.2;1499243089
 #@admin
 account_activation => Veuillez activer votre compte
 account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
@@ -113,7 +113,7 @@ reset_time => Horodater à « maintenant »
 search_articles => Recherche d’articles
 set_to_now => Publier « maintenant »
 sort_display => Affectations de l’article
-textfilter =>
+textfilter => Format du texte :
 textfilter_help => Aide à la rédaction Textile
 timestamp => Date de publication
 url_title => Texte de l’URL
@@ -375,12 +375,12 @@ cannot_delete_default_css => La feuille de styles par <strong>défaut</strong> n
 copy_css_as => …ou copier la feuille de styles sous le nom :
 create_new_css => Créer une nouvelle
 css_already_exists => Une feuille de styles CSS du nom <strong>{name}</strong> existe déjà.
-css_code => Code source du style CSS :
-css_created => Feuille de style <strong>{name}</strong> créée.
-css_deleted => Feuille de style <strong>{name}</strong> supprimée.
+css_code => Code source de la feuille de styles CSS :
+css_created => Feuille de styles <strong>{name}</strong> créée.
+css_deleted => Feuille de styles <strong>{name}</strong> supprimée.
 css_mode => Mode CSS
-css_name => Nom du style CSS :
-css_name_required => Veuillez nommer votre feuille de style.
+css_name => Nom de la feuille de styles CSS :
+css_name_required => Veuillez nommer votre feuille de styles.
 css_property_value => Propriété : valeur
 css_save_failed => Cette feuille de styles n’a pas été enregistrée en raison d’une erreur. Veuillez essayer de nouveau.
 css_selector => Sélecteur

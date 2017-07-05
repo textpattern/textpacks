@@ -1,4 +1,4 @@
-#@version 4.6.2;1492184467
+#@version 4.6.2;1496761475
 #@admin
 account_activation => Aktivujte svoj účet, prosím
 account_activation_confirmation => Použite nižšie uvedený odkaz k aktivácii vášho účtu a nastaveniu hesla.
@@ -254,7 +254,7 @@ lang_dir => ltr
 last_modified => Naposledy upravené
 links => Odkazy
 link_category => Kategória odkazu
-list_options =>
+list_options => Možnosti zoznamu
 logged_in_as => Prihlásený(á) ako
 login => Prihlásenie
 login_to_textpattern => Prihlásiť sa do Textpatternu
