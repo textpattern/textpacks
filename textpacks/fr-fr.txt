@@ -1,4 +1,4 @@
-#@version 4.6.2;1499243089
+#@version 4.6.2;1499686012
 #@admin
 account_activation => Veuillez activer votre compte
 account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
@@ -1092,7 +1092,7 @@ db_doesnt_exist => La base de données <code>{dbname}</code> n’existe pas ou v
 db_must_exist => Veuillez noter que la base de données que vous indiquez doit exister. Textpattern ne la créera pas pour vous.
 did_it => C’est fait
 email_required => Merci de fournir une adresse email valide.
-errors_during_install => Il s’est malheureusement produit <strong>{num}</strong> erreurs durant l’installation. Vous pouvez demander de l’aide dans les <a href="http://forum.textpattern.com/viewforum.php?id=16">forums Textpattern</a>.
+errors_during_install => Il s’est malheureusement produit <strong>{num}</strong> erreurs durant l’installation. Vous pouvez demander de l’aide dans les <a href="https://forum.textpattern.io/">forums Textpattern</a>.
 get_started => C’est parti !
 go_to_login => Connectez-vous
 installation_postamble => Pour plus de sécurité, vous devriez supprimer, sur votre serveur, le dossier <code>setup</code> de votre installation de Textpattern. Veuillez consulter régulièrement la page Administration Diagnostics pour connaître les offres de mises à jour.

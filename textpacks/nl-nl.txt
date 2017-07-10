@@ -1,4 +1,4 @@
-#@version 4.6.2;1492184467
+#@version 4.6.2;1499686191
 #@admin
 account_activation => Account activeren
 account_activation_confirmation => Gebruik onderstaande link om je account te activeren.
@@ -1092,7 +1092,7 @@ db_doesnt_exist => Database <strong>{dbname}</strong> bestaat niet, of de opgege
 db_must_exist => De database die je opgeeft moet bestaan; Textpattern kan hem niet voor je aanmaken.
 did_it => OK, heb ik gedaan
 email_required => Er moet een geldig emailadres worden ingevuld.
-errors_during_install => Er waren <strong>{num}</strong> foutmeldingen tijdens de installatie. Je kunt het beste een hulpvraag stelen in de <a href="http://forum.textpattern.com/" rel="external">textpattern forums</a>.
+errors_during_install => Er waren <strong>{num}</strong> foutmeldingen tijdens de installatie. Je kunt het beste een hulpvraag stelen in de <a href="https://forum.textpattern.io/" rel="external">textpattern forums</a>.
 get_started => Aan de slag!
 go_to_login => Log nu in
 installation_postamble => Verwijder nu met het oog op de veiligheid de map <code>setup</code> uit je Textpatterninstallatie. Controleer geregeld Beheer Diagnose op updatemeldingen of aanwijzingen voor probleemoplossing.

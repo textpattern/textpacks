@@ -1,4 +1,4 @@
-#@version 4.6.2;1492184467
+#@version 4.6.2;1499686236
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -1092,7 +1092,7 @@ db_doesnt_exist => "A base de dados {dbname} dão existe. Por favor, crie uma no
 db_must_exist => Note que a base de dados que especificar, deverá ter sido criada previamente, já que o Textpattern não a criará por si.
 did_it => Tá feito!
 email_required => Por favor, introduza um endereço de email válido.
-errors_during_install => Houve <strong>{num}</strong> erros durante a instalação. Poderá pedir ajuda no <a href="http://forum.textpattern.com/" rel="external">fórum Textpattern</a>.
+errors_during_install => Houve <strong>{num}</strong> erros durante a instalação. Poderá pedir ajuda no <a href="https://forum.textpattern.io/" rel="external">fórum Textpattern</a>.
 get_started => Avançar!
 go_to_login => Faça login agora
 installation_postamble => Por razões de segurança, deve agora remover a pasta <code>setup</code> do seu site Textpattern. por favor, verifique o painel Admin Diagnosticos de tempo em tempo, para ver anuncios de actualizações ou ajudas à resolução de problemas.

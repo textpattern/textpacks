@@ -1,4 +1,4 @@
-#@version 4.6.2;1492184467
+#@version 4.6.2;1499686172
 #@admin
 account_activation => Lūdzu, aktivizējiet savu kontu
 account_activation_confirmation => Lūdzu izmantojiet saiti zemāk, lai aktivizētu savu kontu un iestatītu paroli.
@@ -1092,7 +1092,7 @@ db_doesnt_exist => Datubāze <strong>{dbname}</strong> neeksistē vai jūsu nor�
 db_must_exist => Ņemiet vērā, ka norādītajai datubāzei jau ir jābūt izveidotai; Textpattern to automātiski neizveidos.
 did_it => Darīts
 email_required => Lūdzu, ierakstiet derīgu e-pasta adresi.
-errors_during_install => Instalācijas laikā atgadījās <strong>{num}</strong> kļūmes. Vaicājiet pēc padoma <a href="http://forum.textpattern.com/" rel="external">Textpattern foruma</a> lapās.
+errors_during_install => Instalācijas laikā atgadījās <strong>{num}</strong> kļūmes. Vaicājiet pēc padoma <a href="https://forum.textpattern.io/" rel="external">Textpattern foruma</a> lapās.
 get_started => Aiziet!
 go_to_login => Pieslēgties tagad
 installation_postamble => Drošības apsvērumu dēļ jums tagad vajadzētu izdzēst <code>setup</code> direktoriju no jūsu Textpattern servera. Lūdzu, laiku pa laikam apskatiet Administrācija Diagnostika paneli, lai sekotu līdzi atjauninājumu paziņojumiem un problēmu n

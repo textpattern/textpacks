@@ -1,4 +1,4 @@
-#@version 4.6.2;1492184467
+#@version 4.6.2;1499686352
 #@admin
 account_activation => 请激活您的帐号
 account_activation_confirmation => 请点击下面的链接来激活您的帐号并且设置密码
@@ -1092,7 +1092,7 @@ db_doesnt_exist => 数据库 <strong>{dbname}</strong> 不存在，或您指定�
 db_must_exist => 您指定的数据库必须已存在；Textpattern 不会为您建立数据库。
 did_it => 完成了
 email_required => 请提供一个有效的 E-mail 地址。
-errors_during_install => 在安装过程中出现 <strong>{num}</strong> 个错误，您可以在 <a href="http://forum.textpattern.com/" rel="external">Textpattern CMS 论坛</a>里请求帮助。
+errors_during_install => 在安装过程中出现 <strong>{num}</strong> 个错误，您可以在 <a href="https://forum.textpattern.io/" rel="external">Textpattern CMS 论坛</a>里请求帮助。
 get_started => 启动！
 go_to_login => 现在登录
 installation_postamble => 基于安全考虑，您应当删除 <code>/textpattern/</code> 内的 <code>setup</code> 目录。请检查管理中的诊断是否还会给出提示。

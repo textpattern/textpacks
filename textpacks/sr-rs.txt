@@ -1,4 +1,4 @@
-#@version 4.6.2;1492184467
+#@version 4.6.2;1499686296
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -1092,7 +1092,7 @@ db_doesnt_exist => База <strong>{dbname}</strong> не постоји или
 db_must_exist => Запамтите да морате претходно сами направити базу података, Textpattern је неће направити.
 did_it => Урадио сам то
 email_required => Молимо упишите исправну еmail адресу.
-errors_during_install => Пронађено је <strong>{num}</strong> грешака приликом инсталације. Можете потражити помоћ на <a href="http://forum.textpattern.com/" rel="external">Textpattern форумима</a>.
+errors_during_install => Пронађено је <strong>{num}</strong> грешака приликом инсталације. Можете потражити помоћ на <a href="https://forum.textpattern.io/" rel="external">Textpattern форумима</a>.
 get_started =>
 go_to_login =>
 installation_postamble =>

@@ -1,4 +1,4 @@
-#@version 4.6.2;1492184467
+#@version 4.6.2;1499685905
 #@admin
 account_activation =>
 account_activation_confirmation =>
@@ -1092,7 +1092,7 @@ db_doesnt_exist => La base de dades {dbname} no existeix. Crea-la o escull-ne un
 db_must_exist => Tingues en compte que la base de dades especificada ja ha d’existir; Textpattern no la crearà per tu.
 did_it => Ja ho he fet
 email_required => Escriu una adreça de correu vàlida, sisplau.
-errors_during_install => Hi ha hagut <strong>{num}</strong> errors en la instal·lació. Pots demanar ajuda en els <a href="http://forum.textpattern.com/" rel="external">fòrums de Textpattern CMS</a>.
+errors_during_install => Hi ha hagut <strong>{num}</strong> errors en la instal·lació. Pots demanar ajuda en els <a href="https://forum.textpattern.io/" rel="external">fòrums de Textpattern CMS</a>.
 get_started =>
 go_to_login =>
 installation_postamble =>
