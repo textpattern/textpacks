@@ -201,6 +201,7 @@ general_error => שגיאה כללית
 get_off_my_lawn => אני מצטער. איני יכול להצע סאת. אני חושב <code dir="ltr">{event}</code> <code dir="ltr">{step}</code> אינו בטוח ברגע זה.
 greeting => שלום
 hidden => נסתר
+id => מזהה
 image_category => קטגורייה
 internal_error => שגיאה פנימית
 last_modified => עודכן לאחרונה
@@ -995,7 +996,6 @@ has_excerpt => בעל פתיח
 hilight => תג הארה
 hilight_limit => כמה מופעים להאיר
 html_id => תכונת HTML <code dir="ltr">id</code>
-id => מזהה
 include_default => לכלול איזור ברירת מחדל
 inline_style => סגנון משולב(CSS)
 input_size => גודל הקלט
