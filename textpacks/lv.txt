@@ -963,7 +963,9 @@ you_can_access => Jums atliek ierakstīties <a href="index.php">administrācijas
 #@skin
 create_skin => Izveidot apdari
 edit_skin => Labot apdari
+search_skins =>
 skin_author => Apdares autors
+skin_description =>
 skin_name => Apdares nosaukums
 skin_title => Apdares virsraksts
 skin_version => Apdares versija

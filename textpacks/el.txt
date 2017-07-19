@@ -963,7 +963,9 @@ you_can_access => Λογικά, έχετε πρόσβαση <a href="index.php">
 #@skin
 create_skin => Δημιουργία νέου skin
 edit_skin => Επεξεργασία του skin
+search_skins =>
 skin_author => Δημιουργός του skin
+skin_description =>
 skin_name => Όνομα του skin
 skin_title => Τίτλος του skin
 skin_version => Έκδοση του skin

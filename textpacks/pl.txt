@@ -963,7 +963,9 @@ you_can_access => Używając wcześniej wpisanych loginu i hasła, możesz logow
 #@skin
 create_skin => Stwórz temat
 edit_skin => Edytuj temat
+search_skins =>
 skin_author => Autor tematu
+skin_description =>
 skin_name => Nazwa tematu
 skin_title => Tytuł tematu
 skin_version => Wersja tematu

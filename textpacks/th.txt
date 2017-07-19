@@ -963,7 +963,9 @@ you_can_access => ตอนนี้คุณน่าจะเข้าไป�
 #@skin
 create_skin =>
 edit_skin =>
+search_skins =>
 skin_author =>
+skin_description =>
 skin_name =>
 skin_title =>
 skin_version =>
