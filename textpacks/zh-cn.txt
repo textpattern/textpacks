@@ -963,7 +963,9 @@ you_can_access => Textpattern CMS 数据库资料表已经创建并填充。您�
 #@skin
 create_skin => 创建主题
 edit_skin => 编辑主题
+search_skins =>
 skin_author => 主题作者
+skin_description =>
 skin_name => 主题名字
 skin_title => 主题标题
 skin_version => 主题版本

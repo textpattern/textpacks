@@ -963,7 +963,9 @@ you_can_access => شما از این پس امکان ورود به <a href="inde
 #@skin
 create_skin =>
 edit_skin =>
+search_skins =>
 skin_author =>
+skin_description =>
 skin_name =>
 skin_title =>
 skin_version =>

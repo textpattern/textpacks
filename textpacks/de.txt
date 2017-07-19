@@ -963,7 +963,9 @@ you_can_access => Mit dem gewählten Benutzernamen und Passwort sollte jetzt die
 #@skin
 create_skin => Design erstellen
 edit_skin => Design bearbeiten
+search_skins =>
 skin_author => Urheber des Designs
+skin_description =>
 skin_name => Name des Designs
 skin_title => Titel des Designs
 skin_version => Version des Designs
