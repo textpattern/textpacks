@@ -1,7 +1,7 @@
 {
   "name": "textpattern/textpacks",
   "description": "Textpattern CMS language files",
-  "keywords": ["textpattern", "L10n", "i18n", "textpack", "language", "translation", "locale"],
+  "keywords": ["textpattern", "L10n", "i18n", "textpack", "language", "translation", "locale", "localization", "internationalization"],
   "homepage": "https://github.com/textpattern/textpacks",
   "license": "GPL-2.0",
   "authors": [{
