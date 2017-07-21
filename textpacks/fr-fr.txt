@@ -1,4 +1,4 @@
-#@version 4.6.2;1499686012
+#@version 4.6.2;1500624035
 #@admin
 account_activation => Veuillez activer votre compte
 account_activation_confirmation => Veuillez cliquer sur le lien ci-dessous afin d’activer votre compte et renseigner votre mot de passe :
@@ -767,7 +767,7 @@ new_textpattern_version_available => Une nouvelle version de Textpattern est dis
 no_popup => fenêtre actuelle
 no_preferences => Aucune préférence disponible.
 override_emailcharset => Transformer les emails en Latin 1 (ISO-8859-1) ?
-path_from_root => Sous répertoire (s’il existe)
+path_from_root => Sous-répertoire (s’il existe)
 path_to_site_missing => <code>$path_to_site</code> n’est pas configuré (mettez <code>index.php</code> à jour)
 permalink_title_format => Permaliens titre-comme-cela (au lieu de TitreCommeCela) ?
 permlink_format => Permaliens : forme des titres d’URL
@@ -784,7 +784,7 @@ production_debug => En déboguage
 production_live => En exploitation
 production_status => Statut de production
 production_test => En test
-publisher_email => Envoi des informations de connexion à une adresse email
+publisher_email => Envoi des informations de connexion à cette adresse email
 publish_expired_articles => Publier les articles qui ont expiré ?
 record_mentions => Enregistrer les mentions
 referrers_only => Uniquement les référents

@@ -1,4 +1,4 @@
-#@version 4.6.2;1499685983
+#@version 4.6.2;1500476083
 #@admin
 account_activation => Please activate your account
 account_activation_confirmation => Please use the link below to activate your account and set up a password.
@@ -528,7 +528,7 @@ permissions => Permissions
 private => Private
 public => Public
 replace_file => Replace file
-reset => reset
+reset => Reset
 reset_download_count => Reset download count
 reset_file_count_failure => Failed to reset file download count
 reset_file_count_success => Successfully reset file download count
