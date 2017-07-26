@@ -416,7 +416,7 @@ permissions => Permissions
 private => Privé
 public => Public
 replace_file => Remplacer le fichier
-reset => remise à zéro
+reset => Remise à zéro
 reset_download_count => Réinitialiser le compteur de téléchargements
 search_files => Recherche de fichiers
 #@form
