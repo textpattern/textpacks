@@ -611,7 +611,6 @@ permlink_format => Format trwałych odsyłaczy
 permlink_hyphenated => Z myślnikami (tytuł-wygląda-tak)
 permlink_intercapped => Z dużymi literami (TytułWyglądaTak)
 permlink_mode => Wzór adresu URL artykułu
-ping_weblogsdotcom => Wysyłać ping do pingomatic.com?
 plugin_cache_dir => Ścieżka do katalogu pamięci podręcznej pluginów
 preferences_saved => Ustawienia zostały zapisane
 prefs => Ustawienia

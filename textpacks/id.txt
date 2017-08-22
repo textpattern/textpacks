@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Mode tautan permanen
-ping_weblogsdotcom => Ping pingomatic.com?
 plugin_cache_dir =>
 preferences_saved => Preferensi disimpan
 prefs => Preferensi

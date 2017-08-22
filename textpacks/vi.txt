@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Chế độ liên kết cố định
-ping_weblogsdotcom => Ping pingomatic.com?
 plugin_cache_dir => Đường dẫn tới thư mục nhớ đệm phần bổ xung
 preferences_saved => Đã lưu tùy chọn
 prefs => Tùy chọn

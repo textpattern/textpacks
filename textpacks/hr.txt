@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Permanent link mode
-ping_weblogsdotcom => Pingaj pingomatic.com?
 plugin_cache_dir => Putanja direktorija do Plugin cache
 preferences_saved => Postavke spremljene
 prefs => Prefs

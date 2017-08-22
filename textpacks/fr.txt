@@ -611,7 +611,6 @@ permlink_format => Permaliens : forme des titres d’URL
 permlink_hyphenated => Avec traits d’union (titre-comme-cela)
 permlink_intercapped => Casse de chameau (TitreCommeCela)
 permlink_mode => Format des URL
-ping_weblogsdotcom => Automatiquement prévenir pingomatic.com ?
 plugin_cache_dir => Chemin du répertoire de cache des plugins
 preferences_saved => Préférences enregistrées
 prefs => Préférences

@@ -611,7 +611,6 @@ permlink_format => 永久链接标题 URL 模式
 permlink_hyphenated => 使用连字符
 permlink_intercapped => 使用首字母大写
 permlink_mode => 永久链接模式
-ping_weblogsdotcom => Ping 到 pingomatic.com?
 plugin_cache_dir => 插件储存目录
 preferences_saved => 设置己保存
 prefs => 设置

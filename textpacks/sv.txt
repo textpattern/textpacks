@@ -611,7 +611,6 @@ permlink_format => Permalink-rubrik URL-mönster
 permlink_hyphenated => Bindestreck (title-like-this)
 permlink_intercapped => Första bokstaven versal (TitleLikeThis)
 permlink_mode => Permanentlänk-läge
-ping_weblogsdotcom => Pinga pingomatic.com?
 plugin_cache_dir => Sökväg till plugin-cache
 preferences_saved => Inställningar sparade
 prefs => Inst.

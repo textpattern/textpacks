@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => مستقل ربط کی وضع
-ping_weblogsdotcom => اشاعت کرتے pingomatic.com کو بھی اطلاع کریں
 plugin_cache_dir => پلگ ان کیسہ کے پوشہ کی راہ
 preferences_saved => ترجیحات محفوظ کیا
 prefs => ترجیحات

@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Режим на постоянните връзки
-ping_weblogsdotcom => Обнови pingomatic.com
 plugin_cache_dir => Път за кеш директорията на приставките
 preferences_saved => Настройките са запазени
 prefs => Настройки

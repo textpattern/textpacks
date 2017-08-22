@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Kalıcı bağlantı türü
-ping_weblogsdotcom => Ping pingomatic.com?
 plugin_cache_dir => Eklenti bellek klasör yolu
 preferences_saved => Tercihler kaydedildi
 prefs => Tercihler

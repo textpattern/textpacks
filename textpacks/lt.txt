@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Pastoviosios nuorodos būsena
-ping_weblogsdotcom => Ryšio patikrinimas su pingomatic.com?
 plugin_cache_dir => Papildinio podėlio katalogo kelias
 preferences_saved => Nuostatos išsaugotos
 prefs => Parinktys

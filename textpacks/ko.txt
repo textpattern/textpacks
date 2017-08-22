@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => 퍼머링크 모드
-ping_weblogsdotcom => pingomatic.com에 핑을 보냅니까?
 plugin_cache_dir => 확장기능 캐시 디렉토리 경로
 preferences_saved => 설정을 저장했습니다.
 prefs => 설정

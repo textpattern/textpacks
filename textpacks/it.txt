@@ -611,7 +611,6 @@ permlink_format => Formato titolo URL del Permalink
 permlink_hyphenated => Con trattino di separazione (come-questo-qui)
 permlink_intercapped => Con iniziali maiuscole (ComeQuestoQui)
 permlink_mode => Schema URL articolo
-ping_weblogsdotcom => ‘Pinga’ pingomatic.com?
 plugin_cache_dir => Percorso directory per la cache dei plug-in
 preferences_saved => Preferenze salvate
 prefs => Preferenze

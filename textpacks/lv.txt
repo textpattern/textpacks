@@ -611,7 +611,6 @@ permlink_format => Pastāvīgo saišu URL šablons
 permlink_hyphenated => Defise (nosaukums-te-tads)
 permlink_intercapped => Vārdi lieliem burtiem (NosaukumsTeTads)
 permlink_mode => Raksta URL šablons
-ping_weblogsdotcom => Pingot pingomatic.com?
 plugin_cache_dir => Spraudņu krātuves mape
 preferences_saved => Uzstādījumi saglabāti
 prefs => Uzstādījumi

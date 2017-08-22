@@ -611,7 +611,6 @@ permlink_format => Permalink-Format
 permlink_hyphenated => Getrennt (ein-titel)
 permlink_intercapped => Angrenzend (EinTitel)
 permlink_mode => Schema der URLs
-ping_weblogsdotcom => pingomatic.com aktualisieren?
 plugin_cache_dir => Pfad des Pluginzwischenspeichers
 preferences_saved => Einstellungen gespeichert
 prefs => Einstellungen

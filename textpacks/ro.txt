@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Modul link permanent
-ping_weblogsdotcom => Ping-uieste pingomatic.com?
 plugin_cache_dir => Calea cache-ului pentru pluginuri
 preferences_saved => Preferinte salvate
 prefs => Preferinte

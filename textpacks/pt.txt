@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Modo de Ligação permanente
-ping_weblogsdotcom => Notificar pingomatic.com?
 plugin_cache_dir => Caminho para a "cache" dos Plugins
 preferences_saved => Preferências guardadas
 prefs => Preferências

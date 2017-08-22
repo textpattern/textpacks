@@ -611,7 +611,6 @@ permlink_format => URL van de permanente link naar de titel
 permlink_hyphenated => Streepjes (titel-zoals-dit)
 permlink_intercapped => Hoofdletters (TitelZoalsDit)
 permlink_mode => Permanente link modus
-ping_weblogsdotcom => Ping pingomatic.com?
 plugin_cache_dir => Pad naar de plugincache
 preferences_saved => Voorkeuren opgeslagen
 prefs => Voorkeuren

@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => حالت لینک دائم
-ping_weblogsdotcom => به pingomatic.com پینگ شود؟
 plugin_cache_dir => مسیر پوشه کش پلاگین‌ها
 preferences_saved => تنظیمات ذخیره شد
 prefs => منابع

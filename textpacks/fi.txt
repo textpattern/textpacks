@@ -611,7 +611,6 @@ permlink_format => Kestolinkin URL-muoto
 permlink_hyphenated => Väliviivoitettu (otsikko-on-kuten-tassa)
 permlink_intercapped => Sumpussa (OtsikkoOnKutenTassa)
 permlink_mode => Artikkelin URL-muoto
-ping_weblogsdotcom => Pingaa pingomatic.comia?
 plugin_cache_dir => Polku plugin cache -hakemistoon
 preferences_saved => Asetukset tallennettu
 prefs => Asetukset

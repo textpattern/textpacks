@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => โหมดลิงก์ถาวร
-ping_weblogsdotcom => แจ้งการปรับปรุงที่ pingomatic.com?
 plugin_cache_dir => ที่อยู่ไดเรกทอรีแคชของปลั๊กอิน
 preferences_saved => บันทึกตัวเลือกแล้ว
 prefs => ตัวเลือก

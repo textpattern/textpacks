@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode =>
-ping_weblogsdotcom =>
 plugin_cache_dir =>
 preferences_saved =>
 prefs =>

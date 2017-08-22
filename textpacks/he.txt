@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => מצב קישור-קבוע
-ping_weblogsdotcom => לבדוק את pingomatic.com?
 plugin_cache_dir => מסלול למאגר התופסים
 preferences_saved => ההגדרות נשמרו
 prefs => הגדרות

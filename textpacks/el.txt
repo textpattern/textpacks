@@ -611,7 +611,6 @@ permlink_format => Μοτίβο του URL permalink
 permlink_hyphenated => Ενωτικό (τίτλος-όπως-αυτός)
 permlink_intercapped => Με Κεφαλαία (TitleLikeThis)
 permlink_mode => Μορφή μόνιμων συνδέσεων
-ping_weblogsdotcom => Ενημέρωση pingomatic.com;
 plugin_cache_dir => Διαδρομή φακέλου αρφρωμάτων «plugin cache»
 preferences_saved => Οι επιλογές σας αποθηκεύτηκαν
 prefs => Ρυθμίσεις

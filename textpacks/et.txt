@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Püsilinkide kuvamine
-ping_weblogsdotcom => Uuenda pingomatic.com?
 plugin_cache_dir =>
 preferences_saved => Seaded salvestatud
 prefs => Seaded

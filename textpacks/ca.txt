@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Mode d’enllaç permanent
-ping_weblogsdotcom => Actualitza a pingomatic.com?
 plugin_cache_dir => Ruta del directori caché dels plugins
 preferences_saved => S’han desat les preferències
 prefs => Preferències

@@ -611,7 +611,6 @@ permlink_format => Формат постоянной ссылки
 permlink_hyphenated => Через дефис (title-like-this)
 permlink_intercapped => Слитно (TitleLikeThis)
 permlink_mode => Шаблон URL-адреса статьи
-ping_weblogsdotcom => Пинговать pingomatic.com?
 plugin_cache_dir => Путь к директории кэша плагинов
 preferences_saved => Настройки сохранены
 prefs => Настройки

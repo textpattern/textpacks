@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Permanent link mód
-ping_weblogsdotcom => pingomatic.com pingelése?
 plugin_cache_dir => Plugin gyorsítótár útvonala
 preferences_saved => Beállítások mentve
 prefs => Prefs

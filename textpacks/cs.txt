@@ -611,7 +611,6 @@ permlink_format => Formát adresy URL
 permlink_hyphenated => s pomlčkami (nazev-clanku)
 permlink_intercapped => velká a malá písmena (NazevClanku)
 permlink_mode => Podoba stálých odkazů
-ping_weblogsdotcom => Posílat ping na pingomatic.com?
 plugin_cache_dir => Adresář pro cache pluginů
 preferences_saved => Nastavení uložena
 prefs => Nastavení

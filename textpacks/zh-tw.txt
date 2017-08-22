@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => 固定網址結構
-ping_weblogsdotcom => 通告 pingomatic.com？
 plugin_cache_dir => 外掛快取資料夾
 preferences_saved => 網站基本設定己儲存
 prefs => 設定

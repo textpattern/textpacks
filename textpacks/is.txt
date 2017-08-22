@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => Greinar tengils máti
-ping_weblogsdotcom => Pinga pingomatic.com?
 plugin_cache_dir =>
 preferences_saved => Forstillingar geymdar
 prefs => Prefs

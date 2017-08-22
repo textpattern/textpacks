@@ -611,7 +611,6 @@ permlink_format =>
 permlink_hyphenated =>
 permlink_intercapped =>
 permlink_mode => حجم عناوين المواقع
-ping_weblogsdotcom => pingomatic.com إعلام
 plugin_cache_dir =>
 preferences_saved => تفضيلات مسجلة
 prefs => تفضيلات

@@ -611,7 +611,6 @@ permlink_format => Modelo de URL
 permlink_hyphenated => Con guiones (titulo-asi)
 permlink_intercapped => Con mayúsculas (TituloAsi)
 permlink_mode => Esquema del URL del artículo
-ping_weblogsdotcom => ¿Actualizar en pingomatic.com?
 plugin_cache_dir => Ruta del directorio del caché de plugins
 preferences_saved => Se han guardado las preferencias
 prefs => Preferencias

@@ -593,7 +593,6 @@
     <string name="permlink_hyphenated">Hyphenated (title-like-this)</string>
     <string name="permlink_intercapped">Intercapped (TitleLikeThis)</string>
     <string name="permlink_mode">Article URL pattern</string>
-    <string name="ping_weblogsdotcom">Ping pingomatic.com?</string>
     <string name="plugin_cache_dir">Plugin cache directory path</string>
     <string name="preferences_saved">Preferences saved</string>
     <string name="prefs">Prefs</string>
