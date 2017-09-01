@@ -406,7 +406,7 @@
   <string name="site_url_mismatch">Site URL preference might be incorrect</string>
   <string name="some_php_functions_disabled">The following PHP functions (which may be necessary to run Textpattern) are disabled on your server</string>
   <string name="still_exists">still exists</string>
-  <string name="textpattern_update_available">New Textpattern version {version} <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern download area">available for download</a>.</string>
+  <string name="textpattern_update_available">New Textpattern version {version} <a href="https://textpattern.com/download" rel="external" title="Go to the Textpattern download area">available for download</a>.</string>
   <string name="tmp_plugin_paths_match">Temporary directory path and plugin cache directory path should <strong>not</strong> match.</string>
   <string name="txp_path">Textpattern path</string>
   <string name="txp_version">Textpattern version</string>
@@ -706,7 +706,7 @@
   <string name="mentions">Mentions</string>
   <string name="messy">\?=messy</string>
   <string name="never_display_email">Hide commenter email address?</string>
-  <string name="new_textpattern_version_available">There is a new Textpattern version available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
+  <string name="new_textpattern_version_available">There is a new Textpattern version available. Do you want to <a href="https://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
   <string name="no_popup">current window</string>
   <string name="no_preferences">No preferences available.</string>
   <string name="override_emailcharset">Use ISO-8859-1 encoding in emails (default is UTF-8)?</string>
@@ -753,7 +753,7 @@
   <string name="title_only">/title</string>
   <string name="tz_timezone">Time zone</string>
   <string name="updated">updated</string>
-  <string name="updated_branch_version_available">There is an update for this Textpattern version series available. Do you want to <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
+  <string name="updated_branch_version_available">There is an update for this Textpattern version series available. Do you want to <a href="https://textpattern.com/download" rel="external" title="Go to the Textpattern website download area">download it</a>?</string>
   <string name="update_languages">Update languages</string>
   <string name="up_to_date">Up-to-date</string>
   <string name="urls_to_ping">URLs to ping (comma-separated)</string>

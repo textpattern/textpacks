@@ -360,7 +360,7 @@ site_trailing_slash => サイトのアドレスに余分なスラッシュがあ
 site_url_mismatch => サイトアドレスの設定が正しくない可能性があります
 some_php_functions_disabled => 次の PHP関数(Textpatternに必要な関数です)がサーバ設定で無効になっています
 still_exists => が存在しています。
-textpattern_update_available => 新しい Textpattern CMS バージョン {version} が<a href="http://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">ダウンロード可能です</a>
+textpattern_update_available => 新しい Textpattern CMS バージョン {version} が<a href="https://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">ダウンロード可能です</a>
 tmp_plugin_paths_match => 一時ディレクトリパスとプラグインキャッシュディレクトリパスは同じパスに定義<strong>できません</strong>。
 txp_path => Textpattern パス
 txp_version => Textpattern バージョン
@@ -603,7 +603,7 @@ markup_default => 記法の初期設定
 max_url_len => URLの最大長さ (文字数)
 messy => ?=messy
 never_display_email => メールアドレスを隠しますか？
-new_textpattern_version_available => Textpatternをバージョンアップ可能です。<a href="http://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">使用</a>してみますか？
+new_textpattern_version_available => Textpatternをバージョンアップ可能です。<a href="https://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">使用</a>してみますか？
 no_preferences =>
 override_emailcharset => メールのエンコードにISO-8859-1使用しますか(初期設定：UTF-8)？
 path_from_root => サブディレクトリ (任意)

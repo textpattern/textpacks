@@ -360,7 +360,7 @@ site_trailing_slash => Adresa stránok končí lomítkom
 site_url_mismatch => Nastavenia URL môžu byť nesprávne.
 some_php_functions_disabled => Nasledujúce PHP funkcie (ktoré môžu byť potrebné na spustenie Textpattern-u), sú na vašom serveri zakázané
 still_exists => stále existuje
-textpattern_update_available => Nová verzia Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="Stiahnuť Textpattern">je k dispozícii</a>.
+textpattern_update_available => Nová verzia Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Stiahnuť Textpattern">je k dispozícii</a>.
 tmp_plugin_paths_match => Adresár pre dočasné súbory a rozšírenia by nemal byť rovnaký.
 txp_path => Cesta k Textpattern
 txp_version => Verzia Textpattern

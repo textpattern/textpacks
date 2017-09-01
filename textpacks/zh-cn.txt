@@ -360,7 +360,7 @@ site_trailing_slash => 网站 URL 尾部有斜杠
 site_url_mismatch => 网站 URL 设置可能不正确
 some_php_functions_disabled => 以下 PHP 功能（可能是运行 Textpattern 必需的）已禁用
 still_exists => 仍然存在
-textpattern_update_available => 新的 Textpattern CMS 版本 {version} <a href="http://textpattern.com/download" rel="external">可以下载了</a>
+textpattern_update_available => 新的 Textpattern CMS 版本 {version} <a href="https://textpattern.com/download" rel="external">可以下载了</a>
 tmp_plugin_paths_match => 临时文件目录和插件储存目录路径不应相同。
 txp_path => Textpattern 路径
 txp_version => Textpattern 版本
@@ -603,7 +603,7 @@ markup_default => 默认标记语言
 max_url_len => 最大 URL 长度
 messy => ?=messy
 never_display_email => 不显示 E-mail 地址
-new_textpattern_version_available => 有一个全新的 Textpattern CMS 版本，您想 <a href="http://textpattern.com/download" rel="external" title="转到 Textpattern 官网下载区">下载它</a> 吗?
+new_textpattern_version_available => 有一个全新的 Textpattern CMS 版本，您想 <a href="https://textpattern.com/download" rel="external" title="转到 Textpattern 官网下载区">下载它</a> 吗?
 no_preferences =>
 override_emailcharset => E-mail 使用 ISO-8859-1 编码？（默认为 UTF-8）
 path_from_root => 子目录（如果存在）

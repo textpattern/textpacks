@@ -530,7 +530,7 @@
   <string name="title_no_widow">Spriječi riječi udovice, kod naslova unosa?</string>
   <string name="title_only">/naslov</string>
   <string name="updated">Osvježeno</string>
-  <string name="updated_branch_version_available">Postoji nova obnova za ovu <a href="http://textpattern.com/download" rel="external">verziju Textpatterna</a>.</string>
+  <string name="updated_branch_version_available">Postoji nova obnova za ovu <a href="https://textpattern.com/download" rel="external">verziju Textpatterna</a>.</string>
   <string name="update_languages">Obnovi jezike</string>
   <string name="urls_to_ping">URLovi za pinganje (odvojeno-zarezom)</string>
   <string name="url_mode">Način URL</string>

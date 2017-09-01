@@ -360,7 +360,7 @@ site_trailing_slash => Site URL heeft een slash aan het eind
 site_url_mismatch => De URL van de site in de voorkeuren is mogelijk niet correct
 some_php_functions_disabled => Sommige PHP functies zijn uitgeschakeld
 still_exists => bestaat nog
-textpattern_update_available => Nieuwe textpattern versie {version} <a href="http://textpattern.com/download" rel="external" title="Ga naar de Textpattern CMS download">beschikbaar voor download</a>.
+textpattern_update_available => Nieuwe textpattern versie {version} <a href="https://textpattern.com/download" rel="external" title="Ga naar de Textpattern CMS download">beschikbaar voor download</a>.
 tmp_plugin_paths_match => Het pad naar de tijdelijke bestanden map en de map voor de plugin cache mogen <strong>niet</strong> identiek zijn.
 txp_path => Pad naar textpattern
 txp_version => Textpattern versie

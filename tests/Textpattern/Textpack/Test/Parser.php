@@ -2,7 +2,7 @@
 
 /*
  * Textpattern Content Management System
- * http://textpattern.com
+ * https://textpattern.com
  *
  * Copyright (C) 2013 The Textpattern Development Team
  *

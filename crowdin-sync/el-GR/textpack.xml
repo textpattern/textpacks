@@ -396,7 +396,7 @@
   <string name="site_url_mismatch">Οι ρυθμίσεις του URL σας είναι πιθανόν εσφαλμένες</string>
   <string name="some_php_functions_disabled">Οί ακόλουθες λειτουργίες PHP (Που ενδεχομένος να χρειάζονται για την σωστή λειτουργία του Textpattern) έχουν απενεργοποιηθεί στον διακομιστή σας</string>
   <string name="still_exists">ακόμα υπάρχει</string>
-  <string name="textpattern_update_available">Η νέα έκδοση του Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern download area">είναι διαθέσιμη για κατέβασμα</a>.</string>
+  <string name="textpattern_update_available">Η νέα έκδοση του Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Go to the Textpattern download area">είναι διαθέσιμη για κατέβασμα</a>.</string>
   <string name="tmp_plugin_paths_match">Οι φάκελοι για το cache των αρθρωμάτων και ο προσωρινός φάκελος <strong>δεν</strong> πρέπει να είναι οι ίδιοι.</string>
   <string name="txp_path">Διαδρομή Textpattern</string>
   <string name="txp_version">Έκδοση Textpattern</string>
@@ -694,7 +694,7 @@
   <string name="mentions">Αναφορές</string>
   <string name="messy">\?=μπερδεμένο</string>
   <string name="never_display_email">Αποκρύψτε το email του σχολιαστή;</string>
-  <string name="new_textpattern_version_available">Η νέα έκδοση του Textpattern είναι διαθέσιμη! Θέλετε να την <a href="http://textpattern.com/download" rel="external">κατεβάσετε</a>;</string>
+  <string name="new_textpattern_version_available">Η νέα έκδοση του Textpattern είναι διαθέσιμη! Θέλετε να την <a href="https://textpattern.com/download" rel="external">κατεβάσετε</a>;</string>
   <string name="no_popup">στο τρέχον παράθυρο</string>
   <string name="no_preferences">Δεν υπάρχουν διαθέσιμες προτιμήσεις.</string>
   <string name="override_emailcharset">Κωδικοποίηση ISO-8859-1 για email (η προκαθορισμένη είναι UTF-8);</string>
@@ -739,7 +739,7 @@
   <string name="title_no_widow">Να ενεργοποιηθεί η αποφυγή «widowed words» σε τίτλους άρθρων;</string>
   <string name="title_only">/τίτλος</string>
   <string name="updated">ανανεώθηκε</string>
-  <string name="updated_branch_version_available">Μια μερικώς ανανεωμένη έκδοση του Textpattern είναι διαθέσιμη. Θέλετε να το <a href="http://textpattern.com/download" rel="external">κατεβάσετε</a>;</string>
+  <string name="updated_branch_version_available">Μια μερικώς ανανεωμένη έκδοση του Textpattern είναι διαθέσιμη. Θέλετε να το <a href="https://textpattern.com/download" rel="external">κατεβάσετε</a>;</string>
   <string name="update_languages">Ανανέωση γλωσσών</string>
   <string name="up_to_date">Ενημερωμένα</string>
   <string name="urls_to_ping">Ενημέρωση URL (χωρισμένα με κόμματα)</string>

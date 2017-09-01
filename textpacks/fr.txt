@@ -360,7 +360,7 @@ site_trailing_slash => L’URL du site a un <code>/</code> final
 site_url_mismatch => L’URL du site renseignée dans les préférences est peut-être incorrecte
 some_php_functions_disabled => Certaines fonctions PHP (pouvant être nécessaires) sont désactivées sur le serveur
 still_exists => existe encore
-textpattern_update_available => Une nouvelle version de Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern CMS">est disponible en téléchargement</a>.
+textpattern_update_available => Une nouvelle version de Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern CMS">est disponible en téléchargement</a>.
 tmp_plugin_paths_match => Le répertoire <code>temporaire</code> et le répertoire de <code>cache des plugins</code> doivent être <strong>différents</strong>.
 txp_path => Chemin d’accès à Textpattern CMS
 txp_version => Version de Textpattern CMS
@@ -603,7 +603,7 @@ markup_default => Balises par défaut
 max_url_len => Taille maximum d’une URL (en caractères)
 messy => brutes (?=paramètres)
 never_display_email => Toujours masquer les adresses email ?
-new_textpattern_version_available => Une nouvelle version de Textpattern est disponible. <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern">Voulez-vous la télécharger</a> ?
+new_textpattern_version_available => Une nouvelle version de Textpattern est disponible. <a href="https://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern">Voulez-vous la télécharger</a> ?
 no_preferences => Aucune préférence disponible.
 override_emailcharset => Transformer les emails en Latin 1 (ISO-8859-1) ?
 path_from_root => Sous-répertoire (s’il existe)

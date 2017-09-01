@@ -341,7 +341,7 @@
   <string name="site_url_mismatch">サイトアドレスの設定が正しくない可能性があります</string>
   <string name="some_php_functions_disabled">次の PHP関数(Textpatternに必要な関数です)がサーバ設定で無効になっています</string>
   <string name="still_exists">が存在しています。</string>
-  <string name="textpattern_update_available">新しい Textpattern CMS バージョン {version} が<a href="http://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">ダウンロード可能です</a></string>
+  <string name="textpattern_update_available">新しい Textpattern CMS バージョン {version} が<a href="https://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">ダウンロード可能です</a></string>
   <string name="tmp_plugin_paths_match">一時ディレクトリパスとプラグインキャッシュディレクトリパスは同じパスに定義<strong>できません</strong>。</string>
   <string name="txp_path">Textpattern パス</string>
   <string name="txp_version">Textpattern バージョン</string>
@@ -626,7 +626,7 @@
   <string name="mentions">発言数</string>
   <string name="messy">\?=messy</string>
   <string name="never_display_email">メールアドレスを隠しますか？</string>
-  <string name="new_textpattern_version_available">Textpatternをバージョンアップ可能です。<a href="http://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">使用</a>してみますか？</string>
+  <string name="new_textpattern_version_available">Textpatternをバージョンアップ可能です。<a href="https://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">使用</a>してみますか？</string>
   <string name="no_popup">ポップアップを無効にする</string>
   <string name="override_emailcharset">メールのエンコードにISO-8859-1使用しますか(初期設定：UTF-8)？</string>
   <string name="path_from_root">サブディレクトリ (任意)</string>

@@ -406,7 +406,7 @@
   <string name="site_url_mismatch">La preferencia de URL del sitio puede ser incorrecta</string>
   <string name="some_php_functions_disabled">Las siguientes funciones de PHP (que pueden ser necesarias para Textpattern) están deshabilitadas en tu servidor</string>
   <string name="still_exists">todavía existe</string>
-  <string name="textpattern_update_available">La nueva versión {version} de Textpattern está <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">disponible para descargar</a>.</string>
+  <string name="textpattern_update_available">La nueva versión {version} de Textpattern está <a href="https://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">disponible para descargar</a>.</string>
   <string name="tmp_plugin_paths_match">Las rutas del directorio temporal y del directorio de caché de plugins <strong>no</strong> deberían coincidir.</string>
   <string name="txp_path">Ruta a Textpattern</string>
   <string name="txp_version">Versión de Textpattern</string>
@@ -706,7 +706,7 @@
   <string name="mentions">Menciones</string>
   <string name="messy">\?=sucio</string>
   <string name="never_display_email">¿Ocultar email del autor del comentario?</string>
-  <string name="new_textpattern_version_available">Está disponible una nueva versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga de Textpattern">descargarla</a>?</string>
+  <string name="new_textpattern_version_available">Está disponible una nueva versión de Textpattern. ¿Quieres <a href="https://textpattern.com/download" rel="external" title="Ir al área de descarga de Textpattern">descargarla</a>?</string>
   <string name="no_popup">ventana actual</string>
   <string name="no_preferences">No hay preferencias disponibles.</string>
   <string name="override_emailcharset">¿Codificación ISO-8859-1 en envíos de email? Por defecto UTF-8</string>
@@ -753,7 +753,7 @@
   <string name="title_only">/titulo</string>
   <string name="tz_timezone">Zona horaria</string>
   <string name="updated">Actualizado</string>
-  <string name="updated_branch_version_available">Está disponible una actualización de esta versión de Textpattern. ¿Quieres <a href="http://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">descargarla</a>?</string>
+  <string name="updated_branch_version_available">Está disponible una actualización de esta versión de Textpattern. ¿Quieres <a href="https://textpattern.com/download" rel="external" title="Ir al área de descarga del CMS Textpattern">descargarla</a>?</string>
   <string name="update_languages">Actualizar idiomas</string>
   <string name="up_to_date">Al día</string>
   <string name="urls_to_ping">URLs a las que enviar pings (separadas por comas)</string>

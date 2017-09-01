@@ -360,7 +360,7 @@ site_trailing_slash => Svetainės URL turi gale pasvirusį brūkšnį
 site_url_mismatch => Svetainės URL nuostatos gali būti nekorektiškos
 some_php_functions_disabled => Šios PHP funkcijos (kurios gali būti reikalingos paleidžiant Textpattern) yra išjungtos jūsų serveryje
 still_exists => vis dar egzistuoja
-textpattern_update_available => Nauja Textpattern TVS versija {version} <a href="http://textpattern.com/download" rel="external" title="Eiti į Textpattern TVS atsiuntimų sritį">yra pasiekiama atsiuntimui</a>.
+textpattern_update_available => Nauja Textpattern TVS versija {version} <a href="https://textpattern.com/download" rel="external" title="Eiti į Textpattern TVS atsiuntimų sritį">yra pasiekiama atsiuntimui</a>.
 tmp_plugin_paths_match => Laikino katalogo kelias ir Papildinių spartinančios atmintinės katalogo kelias turi <strong>ne</strong>sutapti.
 txp_path => Textpattern kelias
 txp_version => Textpattern versija

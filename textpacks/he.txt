@@ -360,7 +360,7 @@ site_trailing_slash => בכתובת האתר יש / בסוף
 site_url_mismatch => ייתכן כי הגדרת כתובת האתר שגוייה
 some_php_functions_disabled => פונקציות ה-PHP הבאות( הנחוצות ל-Textpattern) מבוטלות בשרת שלך:
 still_exists => עדייו קיים
-textpattern_update_available => גירסה חדשה של מערכת Textpattern ({version}) <a href="http://textpattern.com/download" rel="external" title="הורד את מאיזור ההורדות של Textpattern">זמינה להורדה</a>.
+textpattern_update_available => גירסה חדשה של מערכת Textpattern ({version}) <a href="https://textpattern.com/download" rel="external" title="הורד את מאיזור ההורדות של Textpattern">זמינה להורדה</a>.
 tmp_plugin_paths_match => הספרייה הזמנית ספריית מטמון התוספים אינם יכולים להיות זהות.
 txp_path => מסלול Textpattern
 txp_version => גירסת Textpattern
@@ -603,7 +603,7 @@ markup_default => פורמט ברירת המחדל
 max_url_len => אורך מקסימלי של כתובת
 messy => ?=messy
 never_display_email => לעולם לא להציג דואל?
-new_textpattern_version_available => גירסה חדשה של <a href="http://textpattern.com/download" rel="external">Textpattern</a> שוחררה. האם ברצונך לנסות אותה?
+new_textpattern_version_available => גירסה חדשה של <a href="https://textpattern.com/download" rel="external">Textpattern</a> שוחררה. האם ברצונך לנסות אותה?
 no_preferences =>
 override_emailcharset => להשתמש בקידוד ISO-8859-1 לדואל? (ברירת המחדל היא UTF-8)?
 path_from_root => תת ספרייה (אם קיימת)

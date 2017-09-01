@@ -406,7 +406,7 @@
   <string name="site_url_mismatch">Adresa serveru možná není správná</string>
   <string name="some_php_functions_disabled">Následující funkce PHP byly na serveru vypnuty (ale mohou být nezbytné pro Textpattern)</string>
   <string name="still_exists">dosud existuje</string>
-  <string name="textpattern_update_available">Nová verze Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="Přejít ke stažení Textpatternu">je k dispozici</a>.</string>
+  <string name="textpattern_update_available">Nová verze Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Přejít ke stažení Textpatternu">je k dispozici</a>.</string>
   <string name="tmp_plugin_paths_match">Adresář pro dočasné soubory a pluginy by neměl být tentýž.</string>
   <string name="txp_path">Cesta k Textpattern</string>
   <string name="txp_version">Verze Textpattern</string>
@@ -706,7 +706,7 @@
   <string name="mentions">Zmínění</string>
   <string name="messy">\?=ošklivé</string>
   <string name="never_display_email">Skrývat emailové adresy?</string>
-  <string name="new_textpattern_version_available">Existuje zcela nová verze Textpattern. Chceš ji <a href="http://textpattern.com/download" rel="external">vyzkoušet</a>?</string>
+  <string name="new_textpattern_version_available">Existuje zcela nová verze Textpattern. Chceš ji <a href="https://textpattern.com/download" rel="external">vyzkoušet</a>?</string>
   <string name="no_popup">do stránky</string>
   <string name="no_preferences">Žádné předvolby k dispozici.</string>
   <string name="override_emailcharset">Použít v emailech znakovou sadu ISO-8859-1 (výchozí je UTF-8)?</string>
@@ -753,7 +753,7 @@
   <string name="title_only">/název</string>
   <string name="tz_timezone">Časové pásmo</string>
   <string name="updated">upraven(a/o)</string>
-  <string name="updated_branch_version_available">Existuje novější verze této větve Textpattern. Chceš ji <a href="http://textpattern.com/download" rel="external">vyzkoušet</a>?</string>
+  <string name="updated_branch_version_available">Existuje novější verze této větve Textpattern. Chceš ji <a href="https://textpattern.com/download" rel="external">vyzkoušet</a>?</string>
   <string name="update_languages">Stáhnout poslední překlady</string>
   <string name="up_to_date">Až do dnešního dne</string>
   <string name="urls_to_ping">Posílat ping na adresy (odděluj čárkou)</string>

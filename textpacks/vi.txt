@@ -360,7 +360,7 @@ site_trailing_slash => Địa chỉ trang thông tin điện tử có dấu /
 site_url_mismatch => Địa chỉ trang thông tin điện tử có vẻ sai
 some_php_functions_disabled => Những hàm PHP sau (có thể Textpattern sử dụng đến) bị vô hiệu hóa trên máy chủ của bạn
 still_exists => vẫn còn tồn tại
-textpattern_update_available => Đã có phiên bản Textpattern CMS {version} <a href="http://textpattern.com/download" rel="external">để có thể tải về</a>.
+textpattern_update_available => Đã có phiên bản Textpattern CMS {version} <a href="https://textpattern.com/download" rel="external">để có thể tải về</a>.
 tmp_plugin_paths_match => Đường dẫn thư mục tạm và đệm cho phần bổ xung <strong>không</strong> được trùng nhau.
 txp_path => Đường dẫn Textpattern
 txp_version => Phiên bản Textpattern

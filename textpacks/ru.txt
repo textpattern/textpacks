@@ -360,7 +360,7 @@ site_trailing_slash => URL сайта имеет слэш в конце
 site_url_mismatch => Установки URL могут быть неверными
 some_php_functions_disabled => Следующие функции (<em>могут</em> потребоваться для работы Textpattern) PHP выключены у вас на сервере:
 still_exists => все еще существует
-textpattern_update_available => Новая версия CMS Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="Перейти на сайт Textpattern">доступна для загрузки</a>.
+textpattern_update_available => Новая версия CMS Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Перейти на сайт Textpattern">доступна для загрузки</a>.
 tmp_plugin_paths_match => Директории для временных файлов и кэша плагинов <strong>не должны совпадать</strong>.
 txp_path => Путь к Textpattern
 txp_version => Версия Textpattern

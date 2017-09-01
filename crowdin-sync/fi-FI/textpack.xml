@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">Sivuston URL-asetus saattaa olla viallinen</string>
   <string name="some_php_functions_disabled">Seuraavat PHP-funktiot (jotka saattavat olla tarpeellisia Textpatternin käyttöön) ovat poissa käytöstä palvelimellasi</string>
   <string name="still_exists">löytyy yhä</string>
-  <string name="textpattern_update_available">Uusi Textpattern CMS versio {version} <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">on saatavilla</a>.</string>
+  <string name="textpattern_update_available">Uusi Textpattern CMS versio {version} <a href="https://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">on saatavilla</a>.</string>
   <string name="tmp_plugin_paths_match">Väliaikais- ja liitännäiskätkö -hakemisto eivät saa olla samat.</string>
   <string name="txp_path">Polku Textpatterniin</string>
   <string name="txp_version">Textpatternin versio</string>
@@ -705,7 +705,7 @@
   <string name="mentions">Maininnat</string>
   <string name="messy">\?=sotkuinen</string>
   <string name="never_display_email">Älä näytä sähköpostiosoitteita?</string>
-  <string name="new_textpattern_version_available">Uusi Textpatternin versio on saatavilla. <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">Haluatko kokeilla sitä?</a></string>
+  <string name="new_textpattern_version_available">Uusi Textpatternin versio on saatavilla. <a href="https://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">Haluatko kokeilla sitä?</a></string>
   <string name="no_popup">nykyinen ikkuna</string>
   <string name="no_preferences">Asetuksia ei ole saatavilla.</string>
   <string name="override_emailcharset">ISO-8859-1 sähköposteissa (oletuksena UTF-8)?</string>
@@ -752,7 +752,7 @@
   <string name="title_only">/otsikko</string>
   <string name="tz_timezone">Aikavyöhyke</string>
   <string name="updated">Päivitetty</string>
-  <string name="updated_branch_version_available">Tästä Textpatternin asennuksesta on saatavilla <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">uudempi versio</a></string>
+  <string name="updated_branch_version_available">Tästä Textpatternin asennuksesta on saatavilla <a href="https://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">uudempi versio</a></string>
   <string name="update_languages">Kieliversioiden päivitys</string>
   <string name="up_to_date">Ajan tasalla</string>
   <string name="urls_to_ping">Singnaalitetut URLit (pilkuin eroteltuna)</string>

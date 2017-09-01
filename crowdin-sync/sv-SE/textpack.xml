@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">Inställningar för webbplats-URL kan vara felaktiga</string>
   <string name="some_php_functions_disabled">Följande PHP-funktioner (som kan vara nödvändiga för att kunna köra Textpattern) är avstängda på din server</string>
   <string name="still_exists">existerar fortfarande</string>
-  <string name="textpattern_update_available">Ny Textpattern-version {version} <a href="http://textpattern.com/download" rel="external" title="Gå till Textpattern-webbplatsen">tillgänglig för nedladdning</a></string>
+  <string name="textpattern_update_available">Ny Textpattern-version {version} <a href="https://textpattern.com/download" rel="external" title="Gå till Textpattern-webbplatsen">tillgänglig för nedladdning</a></string>
   <string name="tmp_plugin_paths_match">Sökvägen för tillfällig mapp och plugin-cache-mappen får <strong>inte</strong> vara densamma.</string>
   <string name="txp_path">Textpattern-sökväg</string>
   <string name="txp_version">Textpattern-version</string>

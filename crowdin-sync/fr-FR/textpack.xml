@@ -406,7 +406,7 @@
   <string name="site_url_mismatch">L’URL du site renseignée dans les préférences est peut-être incorrecte</string>
   <string name="some_php_functions_disabled">Certaines fonctions PHP (pouvant être nécessaires) sont désactivées sur le serveur</string>
   <string name="still_exists">existe encore</string>
-  <string name="textpattern_update_available">Une nouvelle version de Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern CMS">est disponible en téléchargement</a>.</string>
+  <string name="textpattern_update_available">Une nouvelle version de Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern CMS">est disponible en téléchargement</a>.</string>
   <string name="tmp_plugin_paths_match">Le répertoire <code>temporaire</code> et le répertoire de <code>cache des plugins</code> doivent être <strong>différents</strong>.</string>
   <string name="txp_path">Chemin d’accès à Textpattern CMS</string>
   <string name="txp_version">Version de Textpattern CMS</string>
@@ -706,7 +706,7 @@
   <string name="mentions">Mentions</string>
   <string name="messy">brutes (?=paramètres)</string>
   <string name="never_display_email">Toujours masquer les adresses email ?</string>
-  <string name="new_textpattern_version_available">Une nouvelle version de Textpattern est disponible. <a href="http://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern">Voulez-vous la télécharger</a> ?</string>
+  <string name="new_textpattern_version_available">Une nouvelle version de Textpattern est disponible. <a href="https://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern">Voulez-vous la télécharger</a> ?</string>
   <string name="no_popup">fenêtre actuelle</string>
   <string name="no_preferences">Aucune préférence disponible.</string>
   <string name="override_emailcharset">Transformer les emails en Latin 1 (ISO-8859-1) ?</string>
@@ -753,7 +753,7 @@
   <string name="title_only">/titre</string>
   <string name="tz_timezone">Fuseau horaire</string>
   <string name="updated">à jour</string>
-  <string name="updated_branch_version_available">Une mise à jour de cette version de Textpattern est disponible. Voulez-vous la <a href="http://textpattern.com/download" rel="external" title="Accès à la zone de téléchargement du site Textpattern">télécharger</a> ?</string>
+  <string name="updated_branch_version_available">Une mise à jour de cette version de Textpattern est disponible. Voulez-vous la <a href="https://textpattern.com/download" rel="external" title="Accès à la zone de téléchargement du site Textpattern">télécharger</a> ?</string>
   <string name="update_languages">Mettre à jour les langues installées</string>
   <string name="up_to_date">À jour</string>
   <string name="urls_to_ping">URL où envoyer un ping (séparées par une virgule)</string>

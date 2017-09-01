@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">Vietnes URL uzstādījums varētu būt nepareizs</string>
   <string name="some_php_functions_disabled">Šīs PHP funkcijas (kuras var būt nepieciešamas Textpattern lietošanai) uz tava servera ir atslēgtas</string>
   <string name="still_exists">joprojām pastāv</string>
-  <string name="textpattern_update_available">Jauna Textpattern CMS versija {version} <a href="http://textpattern.com/download" rel="external" title="Doties uz Textpattern CMS lejupielāžu lapu">ir pieejama lejupielādei</a>.</string>
+  <string name="textpattern_update_available">Jauna Textpattern CMS versija {version} <a href="https://textpattern.com/download" rel="external" title="Doties uz Textpattern CMS lejupielāžu lapu">ir pieejama lejupielādei</a>.</string>
   <string name="tmp_plugin_paths_match">Pagaidu direktorijas un spraudņu keša direktorijas ceļiem <strong>nevajadzētu</strong> sakrist.</string>
   <string name="txp_path">Textpattern atrašanas vieta</string>
   <string name="txp_version">Textpattern versija</string>

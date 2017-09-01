@@ -358,7 +358,7 @@
   <string name="site_url_mismatch">A preferencia de URL do sitio pode ser incorrecta</string>
   <string name="some_php_functions_disabled">As seguintes funcións de PHP (que poden ser necesarias para Textpattern) están deshabilitadas no teu servidor</string>
   <string name="still_exists">todavía existe</string>
-  <string name="textpattern_update_available">A nova versión {version} do CMS Textpattern está <a href="http://textpattern.com/download" rel="external" title="Ir á área de descarga do CMS Textpattern">dispoñible para descargar</a></string>
+  <string name="textpattern_update_available">A nova versión {version} do CMS Textpattern está <a href="https://textpattern.com/download" rel="external" title="Ir á área de descarga do CMS Textpattern">dispoñible para descargar</a></string>
   <string name="tmp_plugin_paths_match">As rutas do directorio temporal e do directorio de caché de plugins <strong>non</strong> deberían coincidir.</string>
   <string name="txp_path">Ruta a Textpattern</string>
   <string name="txp_version">Versión de Textpattern</string>

@@ -360,7 +360,7 @@ site_trailing_slash => URL адреса на сайта завършва с на
 site_url_mismatch => URL адреса на сайта е неправилен
 some_php_functions_disabled => Следните PHP-функции (които може да са необходими за Textpattern) са деактивирани на сървъра
 still_exists => все още съществува
-textpattern_update_available => Има нова Textpattern CMS версия {version}, <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern CMS download area">която можете да свалите</a>.
+textpattern_update_available => Има нова Textpattern CMS версия {version}, <a href="https://textpattern.com/download" rel="external" title="Go to the Textpattern CMS download area">която можете да свалите</a>.
 tmp_plugin_paths_match => Пътят към временната директория <strong>не бива</strong> да съвпада с този на директоията за кеш на приставките.
 txp_path => Път за Textpattern
 txp_version => Версия на Textpattern

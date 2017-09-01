@@ -360,7 +360,7 @@ site_trailing_slash => Sivuston URLin lopussa on kenoviiva
 site_url_mismatch => Sivuston URL-asetus saattaa olla viallinen
 some_php_functions_disabled => Seuraavat PHP-funktiot (jotka saattavat olla tarpeellisia Textpatternin käyttöön) ovat poissa käytöstä palvelimellasi
 still_exists => löytyy yhä
-textpattern_update_available => Uusi Textpattern CMS versio {version} <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">on saatavilla</a>.
+textpattern_update_available => Uusi Textpattern CMS versio {version} <a href="https://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">on saatavilla</a>.
 tmp_plugin_paths_match => Väliaikais- ja liitännäiskätkö -hakemisto eivät saa olla samat.
 txp_path => Polku Textpatterniin
 txp_version => Textpatternin versio
@@ -603,7 +603,7 @@ markup_default => Oletusmerkintäkieli
 max_url_len => URLin maksimipituus
 messy => ?=sotkuinen
 never_display_email => Älä näytä sähköpostiosoitteita?
-new_textpattern_version_available => Uusi Textpatternin versio on saatavilla. <a href="http://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">Haluatko kokeilla sitä?</a>
+new_textpattern_version_available => Uusi Textpatternin versio on saatavilla. <a href="https://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">Haluatko kokeilla sitä?</a>
 no_preferences => Asetuksia ei ole saatavilla.
 override_emailcharset => ISO-8859-1 sähköposteissa (oletuksena UTF-8)?
 path_from_root => Alihakemisto (jos on)

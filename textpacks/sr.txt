@@ -360,7 +360,7 @@ site_trailing_slash => URL sajta sadrži prateću kosu crtu
 site_url_mismatch => Site URL podešavanja su možda pogrešna
 some_php_functions_disabled => Podrazumevane funkcije PHP-a neophodne za funkcionisanje Textpattern-a nisu dostupne na serveru
 still_exists => i dalje postoji
-textpattern_update_available => Nova verzija Textpattern-a {version} je dostupna za <a href="http://textpattern.com/download" rel="external">preuzimanje</a>.
+textpattern_update_available => Nova verzija Textpattern-a {version} je dostupna za <a href="https://textpattern.com/download" rel="external">preuzimanje</a>.
 tmp_plugin_paths_match => Temporary directory path and Plugin cache directory path should <strong>not</strong> match.
 txp_path => Textpattern putanja
 txp_version => Textpattern verzija

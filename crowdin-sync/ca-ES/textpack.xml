@@ -399,7 +399,7 @@
   <string name="site_url_mismatch">La preferència URL del website podria ser incorrecta</string>
   <string name="some_php_functions_disabled">Les següents funcions PHP (que podrien ser necessàries per fer anar Textpattern al teu website) estàn desactivades al teu servidor</string>
   <string name="still_exists">encara existeix</string>
-  <string name="textpattern_update_available">Hi ha una nova versió de Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern download area"> disponible per descarregar</a>.</string>
+  <string name="textpattern_update_available">Hi ha una nova versió de Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Go to the Textpattern download area"> disponible per descarregar</a>.</string>
   <string name="tmp_plugin_paths_match">La ruta del directori temporal i la ruta del directori pel caché del plugins <strong>NO</strong> haurien de coincidir.</string>
   <string name="txp_path">Ruta a Textpattern</string>
   <string name="txp_version">Versió de Textpattern</string>

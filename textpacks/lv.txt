@@ -360,7 +360,7 @@ site_trailing_slash => Lapas adrese satur beigu slīpsvītru
 site_url_mismatch => Vietnes URL uzstādījums varētu būt nepareizs
 some_php_functions_disabled => Šīs PHP funkcijas (kuras var būt nepieciešamas Textpattern lietošanai) uz tava servera ir atslēgtas
 still_exists => joprojām pastāv
-textpattern_update_available => Jauna Textpattern CMS versija {version} <a href="http://textpattern.com/download" rel="external" title="Doties uz Textpattern CMS lejupielāžu lapu">ir pieejama lejupielādei</a>.
+textpattern_update_available => Jauna Textpattern CMS versija {version} <a href="https://textpattern.com/download" rel="external" title="Doties uz Textpattern CMS lejupielāžu lapu">ir pieejama lejupielādei</a>.
 tmp_plugin_paths_match => Pagaidu direktorijas un spraudņu keša direktorijas ceļiem <strong>nevajadzētu</strong> sakrist.
 txp_path => Textpattern atrašanas vieta
 txp_version => Textpattern versija
