@@ -873,7 +873,7 @@ week => uke
 weeks => uker
 while_parsing_page_form =>
 yes => Ja
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Din IP adresse har blitt svartelistet av
 yyyy-mm => åååå-mm
 #@section
 article_count =>

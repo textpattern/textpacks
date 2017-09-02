@@ -873,7 +873,7 @@ week => saptamana
 weeks => saptamani
 while_parsing_page_form =>
 yes => Da
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Adresa ta de IP a fost banata de
 yyyy-mm => yyyy-mm
 #@section
 article_count =>
