@@ -884,6 +884,7 @@ yyyy-mm => yyyy-mm
 #@section
 article_count => 本版块中文章数：{num}。点击显示
 create_section => 创建版块
+default_section_updated =>
 default_write_section => 默认发布版块
 delete_section_confirmation => 确认删除版块
 edit_default_section => 编辑默认版块

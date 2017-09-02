@@ -884,6 +884,7 @@ yyyy-mm => yyyy-mm
 #@section
 article_count => {num} نوشته در این بخش موجود است. برای لیست کردن آن‌ها کلیک کنید
 create_section => ساخت بخش
+default_section_updated =>
 default_write_section => بخش انتشار پیش‌فرض
 delete_section_confirmation => تأیید پاک کردن بخش
 edit_default_section => ویرایش بخش پیش‌فرض

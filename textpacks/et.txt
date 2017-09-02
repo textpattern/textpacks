@@ -884,6 +884,7 @@ yyyy-mm => aaaa-kk
 #@section
 article_count =>
 create_section =>
+default_section_updated =>
 default_write_section =>
 delete_section_confirmation => Kinnita sektsiooni kustutamine
 edit_default_section =>

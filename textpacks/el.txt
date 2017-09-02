@@ -884,6 +884,7 @@ yyyy-mm => χχχχ-μμ
 #@section
 article_count => Άρθρα σε αυτή την ενότητα: {num}.
 create_section => Δημιουργήστε νέο τομέα
+default_section_updated =>
 default_write_section => Προεπιλεγμένος τομέας
 delete_section_confirmation => επιβεβαίωση διαγραφής τομέα
 edit_default_section => Επεξεργαστείτε τον προεπιλεγμένο τομέα

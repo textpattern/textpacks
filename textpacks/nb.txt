@@ -884,6 +884,7 @@ yyyy-mm => åååå-mm
 #@section
 article_count =>
 create_section =>
+default_section_updated =>
 default_write_section =>
 delete_section_confirmation => bekreft fjerning av seksjon
 edit_default_section =>

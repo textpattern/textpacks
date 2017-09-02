@@ -884,6 +884,7 @@ yyyy-mm => jjjj-mm
 #@section
 article_count => Artikelen in deze sectie {num}.
 create_section => Nieuwe sectie aanmaken
+default_section_updated =>
 default_write_section => Standaardsectie voor nieuwe artikelen
 delete_section_confirmation => verwijdering sectie bevestigen
 edit_default_section => Standaardsectie aanpassen

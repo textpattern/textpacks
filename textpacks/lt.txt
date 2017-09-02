@@ -884,6 +884,7 @@ yyyy-mm => yyyy-mm
 #@section
 article_count => Viso straipsnių šiame skyriuje: {num}.
 create_section => Sukurti skirsnį
+default_section_updated =>
 default_write_section => Numatytasis leidybos skyrius
 delete_section_confirmation => patvirtinkite sekcijos pašalinimą
 edit_default_section => Redaguoti numatytąjį skirsnį

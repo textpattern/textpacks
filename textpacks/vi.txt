@@ -884,6 +884,7 @@ yyyy-mm => mm-yyyy
 #@section
 article_count => Bài viết này trong mục: {num}.
 create_section => Tạo mục
+default_section_updated =>
 default_write_section => Mục xuất bản mặc định
 delete_section_confirmation => xác nhận xóa mục
 edit_default_section => Sửa mục mặc định

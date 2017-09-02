@@ -884,6 +884,7 @@ yyyy-mm => rrrr-mm
 #@section
 article_count => Počet článkov v tejto rubrike: {num}.
 create_section => Vytvoriť rubriku
+default_section_updated =>
 default_write_section => Východzia rubrika pre Napísať
 delete_section_confirmation => potvrdiť odstránenie rubriky
 edit_default_section => Editovať východziu rubriku

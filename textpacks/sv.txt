@@ -884,6 +884,7 @@ yyyy-mm => åååå-mm
 #@section
 article_count => Artiklar i denna avdelning: {num}.
 create_section => Skapa avdelning
+default_section_updated =>
 default_write_section => Förvald avdelning
 delete_section_confirmation => bekräfta radering av avdelning
 edit_default_section => Redigera förvald avdelning

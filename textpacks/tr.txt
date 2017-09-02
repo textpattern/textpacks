@@ -884,6 +884,7 @@ yyyy-mm => yyyy-mm
 #@section
 article_count =>
 create_section =>
+default_section_updated =>
 default_write_section =>
 delete_section_confirmation => bölüm silmeyi onayla
 edit_default_section =>

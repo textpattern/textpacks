@@ -884,6 +884,7 @@ yyyy-mm => aaaa-mm
 #@section
 article_count => Artigos nesta seção: {num}.
 create_section => Criar seção
+default_section_updated =>
 default_write_section => Seção de publicação padrão
 delete_section_confirmation => confirma que quer excluir a seção
 edit_default_section => Editar seção padrão

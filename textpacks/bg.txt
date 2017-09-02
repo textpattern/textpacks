@@ -884,6 +884,7 @@ yyyy-mm => yyyy-mm
 #@section
 article_count => Статии в тази секция: {num}.
 create_section => Създай секция
+default_section_updated =>
 default_write_section => Секция по подразбиране
 delete_section_confirmation => потвърдете изтриването на секцията
 edit_default_section => Редактирай секцията по подразбиране

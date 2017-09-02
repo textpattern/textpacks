@@ -884,6 +884,7 @@ yyyy-mm => yyyy-mm
 #@section
 article_count => Статей в секції: {num}.
 create_section => Створити секцію
+default_section_updated =>
 default_write_section => Секція публікації за умовчанням
 delete_section_confirmation => підтвердіть видалення секції
 edit_default_section => Редагувати секцію за умовчанням

@@ -884,6 +884,7 @@ yyyy-mm => rrrr-mm
 #@section
 article_count => Počet článků v této rubrice: {num}.
 create_section => Vytvořit rubriku
+default_section_updated =>
 default_write_section => Výchozí rubrika pro Psaní
 delete_section_confirmation => potvrdit odstranění rubriky
 edit_default_section => Editovat výchozí rubriku

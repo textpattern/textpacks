@@ -884,6 +884,7 @@ yyyy-mm => ปปปป-ดด
 #@section
 article_count =>
 create_section =>
+default_section_updated =>
 default_write_section =>
 delete_section_confirmation => ยืนยันการลบส่วน
 edit_default_section =>

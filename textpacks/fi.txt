@@ -884,6 +884,7 @@ yyyy-mm => vvvv-kk
 #@section
 article_count => Artikkeleita tässä osiossa: {num}.
 create_section => Luo osio
+default_section_updated =>
 default_write_section => Oletusjulkaisuosio
 delete_section_confirmation => varmista osion poisto
 edit_default_section => Muokkaa oletusosiota
