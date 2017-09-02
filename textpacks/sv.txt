@@ -720,6 +720,7 @@ deprecated_configuration => Föråldrat konfigurations-tillval: {name}
 deprecated_function => Funktionen {name} används inte längre
 deprecated_function_with => Funktionen {name} används inte längre, använd {with} istället
 deprecated_tag => taggen är ogiltlig
+disabled_function =>
 documentation => Dokumentation
 download_count => Nedladdningsräknare
 edit => Redigera

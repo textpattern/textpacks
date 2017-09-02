@@ -720,6 +720,7 @@ deprecated_configuration => Tùy chọn cấu hình <strong>{name}</strong> đã
 deprecated_function => Hàm <strong>{name}</strong> đã lỗi thời.
 deprecated_function_with => Hàm <strong>{name}</strong> đã lỗi thời: dùng <strong>{with}</strong> để thay thế.
 deprecated_tag => thẻ đã lạc hậu
+disabled_function =>
 documentation =>
 download_count => Số lượt tải
 edit => Sửa

@@ -720,6 +720,7 @@ deprecated_configuration => Η ρύθμιση <strong>{name}</strong> έχει �
 deprecated_function => Η λειτουργία <strong>{name}</strong> έχει καταργηθεί.
 deprecated_function_with => Η λειτουργία <strong>{name}</strong> έχει καταργηθεί.: Χρησιμοποιήστε <strong>{with}</strong>.
 deprecated_tag => Η υποστήριξή του Tag θα καταργηθεί
+disabled_function =>
 documentation =>
 download_count => Αριθμός μεταφορτώσεων
 edit => επεξεργασία

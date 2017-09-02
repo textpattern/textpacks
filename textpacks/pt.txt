@@ -720,6 +720,7 @@ deprecated_configuration => Opção de configuração obsoleta: <strong>{name}</
 deprecated_function => A função <strong>{name}</strong> está obsoleta.
 deprecated_function_with => A função <strong>{name}</strong> está obsoleta: use antes <strong>{with}</strong>.
 deprecated_tag => Etiqueta em desuso
+disabled_function =>
 documentation =>
 download_count => Contagem de descarga
 edit => Editar

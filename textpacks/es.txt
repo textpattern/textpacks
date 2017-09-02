@@ -720,6 +720,7 @@ deprecated_configuration => Opción de configuración desaconsejada: <strong>{na
 deprecated_function => Se desaconseja la función <strong>{name}</strong>.
 deprecated_function_with => Se desaconseja la función <strong>{name}</strong>: usa <strong>{with}</strong> en su lugar.
 deprecated_tag => la etiqueta está desaconsejada
+disabled_function =>
 documentation => Documentación
 download_count => Número de descargas realizadas
 edit => Editar

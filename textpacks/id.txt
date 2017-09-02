@@ -720,6 +720,7 @@ deprecated_configuration => Opsi konfigurasi usang: <strong>{name}</strong>.
 deprecated_function => <strong>{name}</strong> fungsi telah tidak diakui (deprecated).
 deprecated_function_with => <strong>{name}</strong> fungsi telah tidak diakui (deprecated): gunakan <strong>{with}</strong>.
 deprecated_tag => tag telah tidak diakui (deprecated)
+disabled_function =>
 documentation =>
 download_count => Hitungan unduhan
 edit => Edit

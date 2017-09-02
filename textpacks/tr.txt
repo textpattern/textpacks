@@ -720,6 +720,7 @@ deprecated_configuration =>
 deprecated_function =>
 deprecated_function_with =>
 deprecated_tag =>
+disabled_function =>
 documentation =>
 download_count =>
 edit => Düzenle

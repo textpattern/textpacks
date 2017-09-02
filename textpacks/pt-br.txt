@@ -720,6 +720,7 @@ deprecated_configuration => Opção de configuração obsoleto: <strong>{name}</
 deprecated_function => Função <strong>{name}</strong> esta depreciada.
 deprecated_function_with => Função <strong>{name}</strong> esta depreciada: use <strong>{with}</strong> estanciado.
 deprecated_tag => "tag" esta depreciada
+disabled_function =>
 documentation => Documentação
 download_count => contagem de transferências
 edit => Editar

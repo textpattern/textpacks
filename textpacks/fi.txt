@@ -720,6 +720,7 @@ deprecated_configuration => Vanhentunut konfiguraatio-asetus: <strong>{name}</st
 deprecated_function => Funktio <strong>{name}</strong> on vanhentunut.
 deprecated_function_with => Funktio <strong>{name}</strong> on vanhentunut; korvaa <strong>{name}</strong>-funktiolla.
 deprecated_tag => tagi on vanhentunut
+disabled_function =>
 documentation => Dokumentaatio
 download_count => Latausten määrä
 edit => Muokkaa

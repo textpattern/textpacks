@@ -720,6 +720,7 @@ deprecated_configuration => 廃止された設定オプション: <strong>{name}
 deprecated_function => 関数 <strong>{name}</strong> は非推奨です
 deprecated_function_with => 関数 <strong>{name}</strong> は非推奨です: <strong>{with}</strong> を代わりに使用してください
 deprecated_tag => タグは非推奨です
+disabled_function =>
 documentation =>
 download_count => ダウンロード数
 edit => 編集
