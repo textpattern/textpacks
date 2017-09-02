@@ -873,6 +873,7 @@ week => שבוע
 weeks => שבועות
 while_parsing_page_form => בעת ניתוח <strong>{form}</strong> בדף <strong>{page}</strong>
 yes => כן
+your_ip_is_blacklisted_by =>
 yyyy-mm => yyyy-mm
 #@section
 article_count =>

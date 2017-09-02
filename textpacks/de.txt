@@ -873,6 +873,7 @@ week => Woche
 weeks => Wochen
 while_parsing_page_form => beim Verarbeiten des Bausteins <strong>{form}</strong> auf der Seitenvorlage <strong>{page}</strong>
 yes => Ja
+your_ip_is_blacklisted_by =>
 yyyy-mm => mm-jjjj
 #@section
 article_count => {num} Artikel in dieser Sektion.

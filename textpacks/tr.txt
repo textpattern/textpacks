@@ -873,6 +873,7 @@ week => hafta
 weeks => hafta
 while_parsing_page_form =>
 yes => Evet
+your_ip_is_blacklisted_by =>
 yyyy-mm => yyyy-mm
 #@section
 article_count =>

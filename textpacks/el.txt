@@ -873,6 +873,7 @@ week => εβδομάδα
 weeks => εβδομάδες
 while_parsing_page_form => κατά την ανάλυση της φόρμας <strong>{form}</strong> στην σελίδα <strong>{page}</strong>
 yes => ναι
+your_ip_is_blacklisted_by =>
 yyyy-mm => χχχχ-μμ
 #@section
 article_count => Άρθρα σε αυτή την ενότητα: {num}.

@@ -873,6 +873,7 @@ week => vecka
 weeks => veckor
 while_parsing_page_form => när siddelen "{form}" skulle laddas på sidmallen "{page}"
 yes => Ja
+your_ip_is_blacklisted_by =>
 yyyy-mm => åååå-mm
 #@section
 article_count => Artiklar i denna avdelning: {num}.

@@ -873,6 +873,7 @@ week => uke
 weeks => uker
 while_parsing_page_form =>
 yes => Ja
+your_ip_is_blacklisted_by =>
 yyyy-mm => åååå-mm
 #@section
 article_count =>

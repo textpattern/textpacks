@@ -873,6 +873,7 @@ week => viikko
 weeks => viikkoa
 while_parsing_page_form => käännettäessä lomaketta <strong>{form}</strong> sivulla <strong>{page}</strong>
 yes => Kyllä
+your_ip_is_blacklisted_by =>
 yyyy-mm => vvvv-kk
 #@section
 article_count => Artikkeleita tässä osiossa: {num}.

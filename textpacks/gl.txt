@@ -873,6 +873,7 @@ week => semán
 weeks => semáns
 while_parsing_page_form => mentres se analizaba o bloque “{form}” na páxina “{page}”
 yes => Sí
+your_ip_is_blacklisted_by =>
 yyyy-mm => yyyy-mm
 #@section
 article_count => Artigos nesta sección: {num}.
