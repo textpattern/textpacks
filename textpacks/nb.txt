@@ -258,6 +258,7 @@ tab_plugins => Programtillegg
 tab_preferences => Innstillinger
 tab_presentation => Presentasjon
 tab_sections => Seksjoner
+tab_site_account =>
 tab_site_admin => Brukere
 tab_skins =>
 tab_start => Hjem

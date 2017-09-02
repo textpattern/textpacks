@@ -258,6 +258,7 @@ tab_plugins => 外掛
 tab_preferences => 設定
 tab_presentation => 外觀
 tab_sections => 版區
+tab_site_account =>
 tab_site_admin => 作者
 tab_skins =>
 tab_start =>

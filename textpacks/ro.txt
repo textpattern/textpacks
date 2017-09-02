@@ -258,6 +258,7 @@ tab_plugins => Plugin-uri
 tab_preferences => Preferinte
 tab_presentation => Prezentare
 tab_sections => Sectiuni
+tab_site_account =>
 tab_site_admin => Utilizatori
 tab_skins =>
 tab_start => Acasa

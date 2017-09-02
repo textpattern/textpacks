@@ -258,6 +258,7 @@ tab_plugins => Pluginy
 tab_preferences => Nastavení
 tab_presentation => Vzhled
 tab_sections => Rubriky
+tab_site_account =>
 tab_site_admin => Uživatelé
 tab_skins => Vzhled
 tab_start => Start

@@ -258,6 +258,7 @@ tab_plugins => Papildiniai
 tab_preferences => Nuostatos
 tab_presentation => Pateiktis
 tab_sections => Sekcijos
+tab_site_account =>
 tab_site_admin => Naudotojai
 tab_skins =>
 tab_start => Į pradžią

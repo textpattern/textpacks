@@ -258,6 +258,7 @@ tab_plugins => Pluginad
 tab_preferences => Seaded
 tab_presentation => Esitus
 tab_sections => Sektsioonid
+tab_site_account =>
 tab_site_admin => Administreerimine
 tab_skins =>
 tab_start => Kodu

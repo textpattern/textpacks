@@ -258,6 +258,7 @@ tab_plugins => Приставки
 tab_preferences => Настройки
 tab_presentation => Оформление
 tab_sections => Секции
+tab_site_account =>
 tab_site_admin => Потребители
 tab_skins =>
 tab_start => Старт

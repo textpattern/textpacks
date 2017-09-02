@@ -258,6 +258,7 @@ tab_plugins => پلگ ان
 tab_preferences => ترجیحات
 tab_presentation => پیشکش
 tab_sections => Sections صیغہ
+tab_site_account =>
 tab_site_admin => صارفین
 tab_skins =>
 tab_start =>

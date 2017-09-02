@@ -258,6 +258,7 @@ tab_plugins => Viðbætur
 tab_preferences => Forgangsréttur
 tab_presentation => Útlit
 tab_sections => Hlutar
+tab_site_account =>
 tab_site_admin => Vefstjórn
 tab_skins =>
 tab_start => Forsíða

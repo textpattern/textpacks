@@ -258,6 +258,7 @@ tab_plugins => ส่วนต่อเติม
 tab_preferences => ตัวเลือก
 tab_presentation => การแสดงผล
 tab_sections => ส่วน
+tab_site_account =>
 tab_site_admin => ผู้ดูแลเว็บ
 tab_skins =>
 tab_start =>

@@ -258,6 +258,7 @@ tab_plugins => Plugins
 tab_preferences => Preferències
 tab_presentation => Presentació
 tab_sections => Seccions
+tab_site_account =>
 tab_site_admin => Usuaris
 tab_skins => Pells
 tab_start => Inici

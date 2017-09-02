@@ -258,6 +258,7 @@ tab_plugins => پلاگین‌ها
 tab_preferences => تنظیمات
 tab_presentation => نمایش
 tab_sections => بخش‌ها
+tab_site_account =>
 tab_site_admin => کاربران
 tab_skins =>
 tab_start => خانه

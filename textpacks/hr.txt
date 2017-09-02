@@ -258,6 +258,7 @@ tab_plugins => Plugini
 tab_preferences => Postavke
 tab_presentation => Prikaz
 tab_sections => Sekcije
+tab_site_account =>
 tab_site_admin => Korisnici
 tab_skins =>
 tab_start => Početna

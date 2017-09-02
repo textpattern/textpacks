@@ -258,6 +258,7 @@ tab_plugins => Plugins
 tab_preferences => Indstillinger
 tab_presentation => Præsentation
 tab_sections => Afsnit
+tab_site_account =>
 tab_site_admin => Brugere
 tab_skins =>
 tab_start => Hjem

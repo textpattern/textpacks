@@ -258,6 +258,7 @@ tab_plugins => Αρθρώματα
 tab_preferences => ρυθμίσεις
 tab_presentation => παρουσίαση
 tab_sections => Τομείς
+tab_site_account =>
 tab_site_admin => ιστότοπος
 tab_skins => Skins
 tab_start => Αρχική σελίδα

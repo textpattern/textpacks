@@ -258,6 +258,7 @@ tab_plugins =>
 tab_preferences =>
 tab_presentation =>
 tab_sections =>
+tab_site_account =>
 tab_site_admin =>
 tab_skins =>
 tab_start =>

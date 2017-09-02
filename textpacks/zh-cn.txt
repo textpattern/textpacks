@@ -258,6 +258,7 @@ tab_plugins => 插件
 tab_preferences => 设置
 tab_presentation => 外观
 tab_sections => 版块
+tab_site_account =>
 tab_site_admin => 用户
 tab_skins => 主题
 tab_start => 主页

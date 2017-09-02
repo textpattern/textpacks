@@ -258,6 +258,7 @@ tab_plugins => Engadidos
 tab_preferences => Preferencias
 tab_presentation => Presentación
 tab_sections => Seccións
+tab_site_account =>
 tab_site_admin => Configuración
 tab_skins =>
 tab_start => Inicio

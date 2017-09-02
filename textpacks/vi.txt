@@ -258,6 +258,7 @@ tab_plugins => Phần bổ xung
 tab_preferences => Tùy chọn
 tab_presentation => Trình bày
 tab_sections => Mục
+tab_site_account =>
 tab_site_admin => Người dùng
 tab_skins =>
 tab_start => Trang chủ

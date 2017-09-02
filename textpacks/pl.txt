@@ -258,6 +258,7 @@ tab_plugins => Pluginy
 tab_preferences => Ustawienia
 tab_presentation => Prezentacja
 tab_sections => Sekcje
+tab_site_account =>
 tab_site_admin => Użytkownicy
 tab_skins => Tematy
 tab_start => Strona główna

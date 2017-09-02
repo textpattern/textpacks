@@ -258,6 +258,7 @@ tab_plugins => Liitännäiset
 tab_preferences => Asetukset
 tab_presentation => Esitystapa
 tab_sections => Osiot
+tab_site_account =>
 tab_site_admin => Käyttäjät
 tab_skins => Ulkoasut
 tab_start => Etusivu

@@ -258,6 +258,7 @@ tab_plugins => Eklentiler
 tab_preferences => Seçenekler
 tab_presentation => Görünüm
 tab_sections => Bölümler
+tab_site_account =>
 tab_site_admin => Kullanıcılar
 tab_skins =>
 tab_start =>

@@ -258,6 +258,7 @@ tab_plugins => 확장기능
 tab_preferences => 설정
 tab_presentation => 형식
 tab_sections => 섹션
+tab_site_account =>
 tab_site_admin => 글쓴이
 tab_skins =>
 tab_start =>

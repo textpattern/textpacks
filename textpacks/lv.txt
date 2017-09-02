@@ -258,6 +258,7 @@ tab_plugins => Spraudņi
 tab_preferences => Izvēles
 tab_presentation => Izskats
 tab_sections => Sadaļas
+tab_site_account =>
 tab_site_admin => Lietotāji
 tab_skins => Apdares
 tab_start => Sākumlapa

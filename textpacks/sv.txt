@@ -258,6 +258,7 @@ tab_plugins => Tillägg
 tab_preferences => Inställningar
 tab_presentation => Presentation
 tab_sections => Avdelningar
+tab_site_account =>
 tab_site_admin => Användare
 tab_skins => Skal
 tab_start => Hem

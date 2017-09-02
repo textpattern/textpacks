@@ -258,6 +258,7 @@ tab_plugins => Dodaci
 tab_preferences => Preferense
 tab_presentation => Prezentacija
 tab_sections => Odjeljci
+tab_site_account =>
 tab_site_admin => Korisnici
 tab_skins =>
 tab_start =>

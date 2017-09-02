@@ -258,6 +258,7 @@ tab_plugins => Plugins
 tab_preferences => Voorkeuren
 tab_presentation => Presentatie
 tab_sections => Secties
+tab_site_account =>
 tab_site_admin => Medewerkers
 tab_skins => Vormgeving
 tab_start => Home

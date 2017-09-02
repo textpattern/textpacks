@@ -258,6 +258,7 @@ tab_plugins => Плагины
 tab_preferences => Главные
 tab_presentation => Оформление
 tab_sections => Секции
+tab_site_account =>
 tab_site_admin => Пользователи
 tab_skins => Скины
 tab_start => Домой

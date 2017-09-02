@@ -258,6 +258,7 @@ tab_plugins => תוספים
 tab_preferences => הגדרות
 tab_presentation => תצוגה
 tab_sections => איזורים
+tab_site_account =>
 tab_site_admin => מנהל האתר
 tab_skins =>
 tab_start => בית
