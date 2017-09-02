@@ -459,6 +459,7 @@ only_graphic_files_allowed =>
 replace_image => Zamijeni sliku
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted =>
 thumbnail_not_saved => Thumbnail <strong>{id}</strong> <em>not</em> spremljen!
 thumbnail_saved => Thumbnail <strong>{id}</strong> spremljen.

@@ -459,6 +459,7 @@ only_graphic_files_allowed => Hanya berkas tipe .jpg, .gif atau .png diperbolehk
 replace_image => Timpa gambar
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Gambar kecil dihapus.
 thumbnail_not_saved =>
 thumbnail_saved =>

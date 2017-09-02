@@ -459,6 +459,7 @@ only_graphic_files_allowed => קבצי הגרפיקה המותרים .jpg, .gif 
 replace_image => שנה תמונה
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => התמונה המוקטנת נמחקה.
 thumbnail_not_saved => תמונה מוקטנת <strong>{id}</strong> לא נשמרה!
 thumbnail_saved => תמונה מוקטנת <strong>{id}</strong> נשמרה.

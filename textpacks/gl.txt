@@ -459,6 +459,7 @@ only_graphic_files_allowed => Só se admiten estes tipos de arquivo .jpg, .gif o
 replace_image => Sustituir imaxe
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Miniatura borrada.
 thumbnail_not_saved => Miniatura <strong>{id}</strong> <em>non</em> gardada!
 thumbnail_saved => Miniatura <strong>{id}</strong> gardada.

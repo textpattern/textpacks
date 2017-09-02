@@ -459,6 +459,7 @@ only_graphic_files_allowed => .jpg, .gif sau .png fisiere grafice permise.
 replace_image => Inlocuieste imaginea
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Thumbnail sters.
 thumbnail_not_saved => Thumbnail-ul <strong>{id}</strong> nu a fost salvat!
 thumbnail_saved => Thumbnail-ul <strong>{id}</strong> a fost salvata

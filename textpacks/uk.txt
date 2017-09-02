@@ -459,6 +459,7 @@ only_graphic_files_allowed => Дозволені графічні формати
 replace_image => Замінити зображення
 search_images => Пошук зображень
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Зменшене зображення видалено.
 thumbnail_not_saved => Зменшене зображення <strong>№{id}</strong> не збережено!
 thumbnail_saved => Зменшене зображення <strong>№{id}</strong> збережено.

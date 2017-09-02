@@ -459,6 +459,7 @@ only_graphic_files_allowed => .jpg, .gif vagy .png képtípusok.
 replace_image => Képek cseréje
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Előnézeti kép törölve.
 thumbnail_not_saved => A(z) <strong>{id}</strong> kis kép mentése nem sikerült!
 thumbnail_saved => A(z) <strong>{id}</strong> kis kép mentve.

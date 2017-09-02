@@ -459,6 +459,7 @@ only_graphic_files_allowed => صرف .jpg, .gif, .png فائل کے قسمیں �
 replace_image => تصویر بدلیں
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => تصویر صغیر حذف کیا
 thumbnail_not_saved => تصویر صغیر <strong>{id}</strong> محفوظ نہیں
 thumbnail_saved => تصویر صغیر <strong>{id}</strong> محفوظ کیا

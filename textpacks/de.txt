@@ -459,6 +459,7 @@ only_graphic_files_allowed => Nur .jpg-, .gif- oder .png-Grafikformate erlaubt.
 replace_image => Bild ersetzen
 search_images => Bilder suchen
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Vorschaubild gelöscht.
 thumbnail_not_saved => Vorschaubild <strong>{id}</strong> nicht gespeichert.
 thumbnail_saved => Vorschaubild <strong>{id}</strong> gespeichert.

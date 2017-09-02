@@ -459,6 +459,7 @@ only_graphic_files_allowed => .jpg, .gif ili .png формат слике је �
 replace_image => Замени слику
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Мала слика избрисана.
 thumbnail_not_saved => Thumbnail <strong>{id}</strong> <em>није</em> сачуван!
 thumbnail_saved => Thumbnail <strong>{id}</strong> сачуван.

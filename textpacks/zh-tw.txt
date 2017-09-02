@@ -459,6 +459,7 @@ only_graphic_files_allowed => 只允許 .jpg， .gif 或 .png 檔案格式。
 replace_image => 更換圖片
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted =>
 thumbnail_not_saved => <em>沒有</em> 儲存縮圖 <strong>{id}</strong>!
 thumbnail_saved => 縮圖 <strong>{id}</strong> 已儲存.

@@ -459,6 +459,7 @@ only_graphic_files_allowed => Povoleny jsou jen soubory .jpg, .gif nebo .png
 replace_image => Nahradit obrázek
 search_images => Hledat obrázky
 swap_values => Zaměnit hodnoty
+thumbnail_delete_failed =>
 thumbnail_deleted => Náhled byl smazán.
 thumbnail_not_saved => Náhled <strong>{id}</strong> nebyl uložen!
 thumbnail_saved => Náhled <strong>{id}</strong> uložen.

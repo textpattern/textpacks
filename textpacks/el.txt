@@ -459,6 +459,7 @@ only_graphic_files_allowed => Επιτρέπονται τα αρχεία εικ�
 replace_image => Αντικατάσταση εικόνας
 search_images => Αναζήτηση εικόνων
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Το εικονίδιο έχει διαγραφεί.
 thumbnail_not_saved => Το εικονίδιο <strong>{id}</strong> δεν αποθηκεύτηκε!
 thumbnail_saved => Το εικονίδιο <strong>{id}</strong> αποθηκεύτηκε.

@@ -459,6 +459,7 @@ only_graphic_files_allowed => Només es permeten fitxers gràfics .jpg, .gif o .
 replace_image => Substitueix imatge
 search_images => Cerca imatges
 swap_values => Intercanvia els valors
+thumbnail_delete_failed =>
 thumbnail_deleted => Miniatura suprimida.
 thumbnail_not_saved => La miniatura <strong>{id}</strong> no s’ha desat!
 thumbnail_saved => S’ha desat la miniatura <strong>{id}</strong>.

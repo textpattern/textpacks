@@ -459,6 +459,7 @@ only_graphic_files_allowed => Alleen .jpg, .gif, .png grafische bestanden toeges
 replace_image => Afbeelding vervangen
 search_images => Afbeeldingen doorzoeken
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Mini-afbeelding verwijderd.
 thumbnail_not_saved => Mini-afbeelding <strong>{id}</strong> niet opgeslagen!
 thumbnail_saved => Mini-afbeelding <strong>{id}</strong> opgeslagen.

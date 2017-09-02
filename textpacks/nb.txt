@@ -459,6 +459,7 @@ only_graphic_files_allowed => Grafikkfiler i formatene .jpg, .gif eller .png er 
 replace_image => Erstatt bilde
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Miniatyr ble slettet.
 thumbnail_not_saved => Miniatyr <strong>{id}</strong> ble ikke lagret.
 thumbnail_saved => Miniatyr ble lagret.

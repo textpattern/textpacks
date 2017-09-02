@@ -459,6 +459,7 @@ only_graphic_files_allowed => Разрешенные графические фо
 replace_image => Заменить картинку
 search_images => Поиск картинок
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Уменьшенная картинка удалена.
 thumbnail_not_saved => Уменьшенная картинка <strong>{id}</strong> <em>не</em> сохранена!
 thumbnail_saved => Уменьшенная картинка <strong>{id}</strong> сохранена.

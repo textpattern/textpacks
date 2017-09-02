@@ -459,6 +459,7 @@ only_graphic_files_allowed => .jpg, .gif, .png 형식의 파일만 가능합니�
 replace_image => 이미지 교체
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => 썸네일이 지워졌습니다.
 thumbnail_not_saved => <strong>{id}</strong> <em>not</em> 썸네일을 저장하지 않았습니다.
 thumbnail_saved => <strong>{id}</strong> 썸네일을 저정했습니다.

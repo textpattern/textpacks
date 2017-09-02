@@ -459,6 +459,7 @@ only_graphic_files_allowed => Vain .jpg, .gif ja .png tiedostotyypit sallitaan.
 replace_image => Korvaa kuva
 search_images => Hae kuvia
 swap_values => Vaihda arvoja
+thumbnail_delete_failed =>
 thumbnail_deleted => Pienoiskuva poistettu.
 thumbnail_not_saved => Pienoiskuvaa <strong>{id}</strong> <em>ei</em> tallennettu!
 thumbnail_saved => Pienoiskuva <strong>{id}</strong> tallennettu.

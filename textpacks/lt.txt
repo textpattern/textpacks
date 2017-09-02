@@ -459,6 +459,7 @@ only_graphic_files_allowed => Tik .jpg, .gif arba .png rinkmenų tipai leistini.
 replace_image => Pakeisti atvaizdą
 search_images =>
 swap_values =>
+thumbnail_delete_failed =>
 thumbnail_deleted => Miniatiūra pašalinta.
 thumbnail_not_saved => Miniatiūra <strong>{id}</strong> <em>ne</em>išsaugota!
 thumbnail_saved => Miniatiūra <strong>{id}</strong> išsaugota.
