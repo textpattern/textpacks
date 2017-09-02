@@ -873,7 +873,7 @@ week => savaitė
 weeks => savaitės
 while_parsing_page_form => apdorojant formą <strong>{form}</strong> puslapyje <strong>{page}</strong>
 yes => Taip
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Jūsų IP adresas buvo įtrauktas į juodąjį sąrašą
 yyyy-mm => yyyy-mm
 #@section
 article_count => Viso straipsnių šiame skyriuje: {num}.

@@ -873,7 +873,7 @@ week => settimana
 weeks => settimane
 while_parsing_page_form => durante il parsing del modulo <strong>{form}</strong> nella pagina <strong>{page}</strong>
 yes => Sì
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Il tuo indirizzo IP è stato bloccato da
 yyyy-mm => aaaa-mm
 #@section
 article_count => Articoli in questa sezione: {num}.

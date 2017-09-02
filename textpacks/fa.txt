@@ -873,7 +873,7 @@ week => هفته
 weeks => هفته
 while_parsing_page_form => هنگام تجزیه و تحلیل کردن فرم <strong>{form}</strong> در صفحه <strong>{page}</strong>
 yes => بله
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => نشانی IP شما در لیست سیاه قرار گرفته است توسط
 yyyy-mm => yyyy-mm
 #@section
 article_count => {num} نوشته در این بخش موجود است. برای لیست کردن آن‌ها کلیک کنید

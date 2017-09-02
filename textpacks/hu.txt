@@ -873,7 +873,7 @@ week => hét
 weeks => héttel
 while_parsing_page_form =>
 yes => Igen
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Az IP címedet kitiltotta
 yyyy-mm => éééé-hh
 #@section
 article_count =>

@@ -873,7 +873,7 @@ week => minggu
 weeks => minggu
 while_parsing_page_form =>
 yes => Ya
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Alamat IP Anda dimasukkan daftar hitam oleh
 yyyy-mm => yyyy-mm
 #@section
 article_count => Artikel di seksi ini: {num}.

@@ -873,7 +873,7 @@ week => 주
 weeks => 주
 while_parsing_page_form =>
 yes => 예
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => 이 IP 주소는 블랙리스트에 올라있습니다
 yyyy-mm => yyyy-mm
 #@section
 article_count =>
