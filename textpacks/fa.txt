@@ -860,6 +860,7 @@ undefined => تعریف‌نشده
 unknown_attribute => صفت ناشناخته {att}:
 unknown_callback_function => تابع بازگشتی ناشناخته: {function}.
 unknown_image => تصویر نامعلوم
+unknown_link =>
 unknown_section => بخش نامعلوم
 unknown_tag => تگ موجود نیست
 unregistered_tag =>

@@ -860,6 +860,7 @@ undefined => Indefinido
 unknown_attribute => Atributo de etiqueta desconocido: {att}.
 unknown_callback_function => Función de rellamada desconocida: {función}.
 unknown_image => Imagen desconocida.
+unknown_link =>
 unknown_section => Sección desconocida
 unknown_tag => la etiqueta no existe
 unregistered_tag => Etiqueta no está registrada

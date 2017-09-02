@@ -860,6 +860,7 @@ undefined => Neapibrėžtas
 unknown_attribute => Nežinomas žymės atributas: {att}.
 unknown_callback_function => Nežinoma atgalinio ryšio funkcija: {function}.
 unknown_image => Nežinomas atvaizdas
+unknown_link =>
 unknown_section => Nežinoma sekcija
 unknown_tag => žymė neegzistuoja
 unregistered_tag =>

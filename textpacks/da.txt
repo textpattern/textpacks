@@ -860,6 +860,7 @@ undefined => Udefineret
 unknown_attribute => Ukendt tag attribut: {att}.
 unknown_callback_function =>
 unknown_image => Ukendt billede
+unknown_link =>
 unknown_section => Ukendt afsnit
 unknown_tag => tag eksisterer ikke
 unregistered_tag =>

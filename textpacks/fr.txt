@@ -860,6 +860,7 @@ undefined => Non défini
 unknown_attribute => Attribut de balise inconnu : {att}.
 unknown_callback_function => Fonction callback inconnue : {function}.
 unknown_image => Image inconnue
+unknown_link =>
 unknown_section => Section inconnue
 unknown_tag => cette balise n’existe pas
 unregistered_tag => cette balise n’est pas répertoriée

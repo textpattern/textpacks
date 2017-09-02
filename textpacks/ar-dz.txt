@@ -860,6 +860,7 @@ undefined => اسم معين
 unknown_attribute =>
 unknown_callback_function =>
 unknown_image =>
+unknown_link =>
 unknown_section => قسم مجهول
 unknown_tag =>
 unregistered_tag =>

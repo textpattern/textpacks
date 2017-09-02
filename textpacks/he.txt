@@ -860,6 +860,7 @@ undefined => לא מוגדר
 unknown_attribute => תכונה לא ידועה {att}.
 unknown_callback_function =>
 unknown_image => תמונה לא ידועה.
+unknown_link =>
 unknown_section => איזור לא ידוע
 unknown_tag => תג לא מוכר
 unregistered_tag =>

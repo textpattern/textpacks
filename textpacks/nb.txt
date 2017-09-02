@@ -860,6 +860,7 @@ undefined => Udefinert
 unknown_attribute =>
 unknown_callback_function =>
 unknown_image =>
+unknown_link =>
 unknown_section => Ukjent seksjon
 unknown_tag =>
 unregistered_tag =>

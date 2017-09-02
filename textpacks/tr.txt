@@ -860,6 +860,7 @@ undefined => Tanımsız
 unknown_attribute => Bilinmeyen etiket tanımlaması: {att}.
 unknown_callback_function =>
 unknown_image => Bilinmeyen görsel
+unknown_link =>
 unknown_section => Bilinmeyen bölüm
 unknown_tag => etiket mevcut değil
 unregistered_tag =>

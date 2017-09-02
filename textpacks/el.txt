@@ -860,6 +860,7 @@ undefined => Μη ορισμένο
 unknown_attribute => Άγνωστη ιδιότητα για το Tag: {att}.
 unknown_callback_function => Άγνωστη λειτουργία επανάκλησης: {function}.
 unknown_image => Άγνωστο αρχείο εικόνας.
+unknown_link =>
 unknown_section => Άγνωστος τομέας
 unknown_tag => Το Tag δεν υπάρχει
 unregistered_tag =>

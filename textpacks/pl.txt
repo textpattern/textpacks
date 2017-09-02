@@ -860,6 +860,7 @@ undefined => Niezdefiniowany
 unknown_attribute => Nieznany atrybut: {att}.
 unknown_callback_function => Nieznane odwołanie do funkcji: {function}.
 unknown_image => Nieznany obrazek
+unknown_link =>
 unknown_section => Nieznana sekcja
 unknown_tag => znacznik nie istnieje
 unregistered_tag =>

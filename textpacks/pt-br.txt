@@ -860,6 +860,7 @@ undefined => Indefinido
 unknown_attribute => Atributo de Tag desconhecido: {att}.
 unknown_callback_function => Função de retorno desconhecido: {function}.
 unknown_image => Imagem desconhecida
+unknown_link =>
 unknown_section => Seção desconhecida
 unknown_tag => Tag não existe
 unregistered_tag =>

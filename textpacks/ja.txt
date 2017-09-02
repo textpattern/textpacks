@@ -860,6 +860,7 @@ undefined => 未定義
 unknown_attribute => 不明なタグ属性： {att}
 unknown_callback_function => 不明なコールバック関数: {function}
 unknown_image => 不明な画像
+unknown_link =>
 unknown_section => 不明なセクション
 unknown_tag => タグは存在しません
 unregistered_tag =>

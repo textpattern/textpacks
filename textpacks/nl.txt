@@ -860,6 +860,7 @@ undefined => Ongedefinieerd
 unknown_attribute => Niet bestaand tagattribuut: {att}.
 unknown_callback_function => Onbekende callbackfunctie: {function}.
 unknown_image => Onbekende afbeelding
+unknown_link =>
 unknown_section => Onbekende sectie
 unknown_tag => deze tag bestaat niet
 unregistered_tag =>

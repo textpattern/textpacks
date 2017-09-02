@@ -860,6 +860,7 @@ undefined => Не визначено
 unknown_attribute => Невідомий атрибут тега: {att}.
 unknown_callback_function => Невідома callback функція: {function}.
 unknown_image => Невідоме зображення.
+unknown_link =>
 unknown_section => Невідома секція
 unknown_tag => тег не існує
 unregistered_tag =>

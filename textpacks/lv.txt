@@ -860,6 +860,7 @@ undefined => Nedefinēts
 unknown_attribute => Nezināms iezīmes atribūts: {att}.
 unknown_callback_function => Nezināma funkcija: {function}.
 unknown_image => Nezināms attēls
+unknown_link =>
 unknown_section => Nezināma sadaļa
 unknown_tag => iezīme neeksistē
 unregistered_tag =>

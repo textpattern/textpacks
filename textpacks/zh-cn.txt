@@ -860,6 +860,7 @@ undefined => 未定义
 unknown_attribute => 未知标签属性：{att}
 unknown_callback_function => 未知的 Callback 函数：{function}
 unknown_image => 未知图片
+unknown_link =>
 unknown_section => 未知版块
 unknown_tag => 标签不存在
 unregistered_tag =>

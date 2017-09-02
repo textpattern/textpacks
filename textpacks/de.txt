@@ -860,6 +860,7 @@ undefined => undefiniert
 unknown_attribute => Unbekanntes Tag-Attribut: {att}.
 unknown_callback_function => Unbekannte Callback-Funktion: {function}.
 unknown_image => Unbekanntes Bild.
+unknown_link =>
 unknown_section => Unbekannte Sektion
 unknown_tag => Unbekannter Tag
 unregistered_tag => Tag ist nicht registriert

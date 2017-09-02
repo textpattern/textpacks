@@ -860,6 +860,7 @@ undefined => Nedefinován(a/o)
 unknown_attribute => Neznámý parametr příkazu: {att}.
 unknown_callback_function => Neznámá callback funkce: {function}.
 unknown_image => Neznámý obrázek
+unknown_link =>
 unknown_section => Neznámá rubrika
 unknown_tag => značka neexistuje
 unregistered_tag => neregistrovaný tag

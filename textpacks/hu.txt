@@ -860,6 +860,7 @@ undefined => Nincs definiálva
 unknown_attribute => Ismeretlen elem tulajdonság: {att}
 unknown_callback_function =>
 unknown_image => Ismeretlen kép
+unknown_link =>
 unknown_section => Ismeretlen szekció
 unknown_tag => Ismeretlen tag
 unregistered_tag =>

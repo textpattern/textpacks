@@ -860,6 +860,7 @@ undefined => Nedefinit
 unknown_attribute => Atribut de tag necunoscut: {att}.
 unknown_callback_function =>
 unknown_image => Imagine necunoscuta.
+unknown_link =>
 unknown_section => Sectiune necunoscuta
 unknown_tag => tag-ul nu exista
 unregistered_tag =>

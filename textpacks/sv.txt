@@ -860,6 +860,7 @@ undefined => Odefinierad
 unknown_attribute => Okänt tagg-attribut: {att}
 unknown_callback_function => Okänd callback-funktion: {function}
 unknown_image => Okänd bild.
+unknown_link =>
 unknown_section => Okänd avdelning
 unknown_tag => taggen existerar inte
 unregistered_tag =>

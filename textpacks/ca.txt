@@ -860,6 +860,7 @@ undefined => Indefinit
 unknown_attribute => Atribut desconegut: {att}
 unknown_callback_function =>
 unknown_image => Imatge desconeguda
+unknown_link =>
 unknown_section => Secció desconeguda
 unknown_tag =>
 unregistered_tag =>

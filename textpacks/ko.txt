@@ -860,6 +860,7 @@ undefined => 정해지지 않음
 unknown_attribute => 알수 없는 태그 속성 : {att}
 unknown_callback_function =>
 unknown_image => 알수 없는 이미지
+unknown_link =>
 unknown_section => 알수 없는 섹션
 unknown_tag => 알수 없는 태그
 unregistered_tag =>

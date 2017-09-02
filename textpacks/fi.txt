@@ -860,6 +860,7 @@ undefined => Määrittelemätön
 unknown_attribute => Tuntematon tagin attribuutti: {att}.
 unknown_callback_function => Tuntematon callback-funktio: {function}.
 unknown_image => Tuntematon kuva
+unknown_link =>
 unknown_section => Tuntematon osio
 unknown_tag => tagia ei ole olemassa
 unregistered_tag => tagia ei ole rekisteröity

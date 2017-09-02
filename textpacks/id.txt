@@ -860,6 +860,7 @@ undefined => Tidak terdefinisi
 unknown_attribute =>
 unknown_callback_function =>
 unknown_image =>
+unknown_link =>
 unknown_section => Seksi tidak diketahui
 unknown_tag => tag tidak diketahui
 unregistered_tag =>

@@ -860,6 +860,7 @@ undefined => Nedefinisan
 unknown_attribute => Nepoznati atribut oznake (tag attribute): {att}
 unknown_callback_function =>
 unknown_image => Nepoznata slika.
+unknown_link =>
 unknown_section => Nepoznata sekcija
 unknown_tag => oznaka (tag) ne postoji
 unregistered_tag =>

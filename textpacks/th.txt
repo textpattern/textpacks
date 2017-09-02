@@ -860,6 +860,7 @@ undefined => ไม่นิยาม
 unknown_attribute => ไม่รู้จักลักษณะแท็ก: {att}
 unknown_callback_function =>
 unknown_image => ไม่รู้จักรูปภาพนี้
+unknown_link =>
 unknown_section => ไม่รู้จักส่วนนี้
 unknown_tag => ไม่มีแท็กนี้
 unregistered_tag =>

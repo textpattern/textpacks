@@ -860,6 +860,7 @@ undefined => Ómerkt
 unknown_attribute =>
 unknown_callback_function =>
 unknown_image =>
+unknown_link =>
 unknown_section => Óþekktur hluti
 unknown_tag =>
 unregistered_tag =>

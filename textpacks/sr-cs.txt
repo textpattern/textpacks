@@ -860,6 +860,7 @@ undefined => Недефинисано
 unknown_attribute => Непознати tag attribute: {att}.
 unknown_callback_function =>
 unknown_image => Непозната слика
+unknown_link =>
 unknown_section => Непозната секција
 unknown_tag => таг не постоји
 unregistered_tag =>
