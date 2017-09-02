@@ -857,6 +857,7 @@ too_common_search_term => به نظر می رسد شما به دنبال جست�
 type => نوع
 unclosed_tag =>
 undefined => تعریف‌نشده
+unknown =>
 unknown_attribute => صفت ناشناخته {att}:
 unknown_callback_function => تابع بازگشتی ناشناخته: {function}.
 unknown_image => تصویر نامعلوم

@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Típus
 unclosed_tag =>
 undefined => Nincs definiálva
+unknown =>
 unknown_attribute => Ismeretlen elem tulajdonság: {att}
 unknown_callback_function =>
 unknown_image => Ismeretlen kép

@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Type
 unclosed_tag =>
 undefined => 未設定
+unknown =>
 unknown_attribute => 不明的標籤屬性: {att}
 unknown_callback_function =>
 unknown_image => 未知的圖片

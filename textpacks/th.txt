@@ -857,6 +857,7 @@ too_common_search_term =>
 type => ประเภท
 unclosed_tag =>
 undefined => ไม่นิยาม
+unknown =>
 unknown_attribute => ไม่รู้จักลักษณะแท็ก: {att}
 unknown_callback_function =>
 unknown_image => ไม่รู้จักรูปภาพนี้

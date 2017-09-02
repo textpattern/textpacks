@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Type
 unclosed_tag =>
 undefined => Udefineret
+unknown =>
 unknown_attribute => Ukendt tag attribut: {att}.
 unknown_callback_function =>
 unknown_image => Ukendt billede

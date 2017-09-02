@@ -857,6 +857,7 @@ too_common_search_term => Il semblerait que votre recherche se porte sur un term
 type => Type
 unclosed_tag => Balise d’ouverture sans balise de fermeture correspondante :
 undefined => Non défini
+unknown =>
 unknown_attribute => Attribut de balise inconnu : {att}.
 unknown_callback_function => Fonction callback inconnue : {function}.
 unknown_image => Image inconnue

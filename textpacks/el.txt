@@ -857,6 +857,7 @@ too_common_search_term => Φαίνεται σαν να ψάχνετε για έ�
 type => Τύπος
 unclosed_tag =>
 undefined => Μη ορισμένο
+unknown =>
 unknown_attribute => Άγνωστη ιδιότητα για το Tag: {att}.
 unknown_callback_function => Άγνωστη λειτουργία επανάκλησης: {function}.
 unknown_image => Άγνωστο αρχείο εικόνας.

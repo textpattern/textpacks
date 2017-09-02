@@ -857,6 +857,7 @@ too_common_search_term => Det verkar som att du söker efter en mycket vanlig s�
 type => Typ
 unclosed_tag =>
 undefined => Odefinierad
+unknown =>
 unknown_attribute => Okänt tagg-attribut: {att}
 unknown_callback_function => Okänd callback-funktion: {function}
 unknown_image => Okänd bild.

@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Type
 unclosed_tag =>
 undefined => Udefinert
+unknown =>
 unknown_attribute =>
 unknown_callback_function =>
 unknown_image =>

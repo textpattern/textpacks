@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Tipus
 unclosed_tag =>
 undefined => Indefinit
+unknown =>
 unknown_attribute => Atribut desconegut: {att}
 unknown_callback_function =>
 unknown_image => Imatge desconeguda

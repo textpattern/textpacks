@@ -857,6 +857,7 @@ too_common_search_term => Al parecer estás buscando un término demasiado comú
 type => Tipo
 unclosed_tag => Etiqueta de apertura sin la correspondiente etiqueta de cierre:
 undefined => Indefinido
+unknown =>
 unknown_attribute => Atributo de etiqueta desconocido: {att}.
 unknown_callback_function => Función de rellamada desconocida: {función}.
 unknown_image => Imagen desconocida.

@@ -857,6 +857,7 @@ too_common_search_term => Izgleda da tražite veoma čest pojam, pokušajte sa s
 type => Tip
 unclosed_tag =>
 undefined => Nedefinirano
+unknown =>
 unknown_attribute => Nepoznati tag attribute: {att}.
 unknown_callback_function =>
 unknown_image => Nepoznata slika

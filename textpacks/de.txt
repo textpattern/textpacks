@@ -857,6 +857,7 @@ too_common_search_term => Ihre Suchkriterien sind sehr allgemein gehalten. Bitte
 type => Typ
 unclosed_tag => Starttag ohne entsprechenden Endtag:
 undefined => undefiniert
+unknown =>
 unknown_attribute => Unbekanntes Tag-Attribut: {att}.
 unknown_callback_function => Unbekannte Callback-Funktion: {function}.
 unknown_image => Unbekanntes Bild.

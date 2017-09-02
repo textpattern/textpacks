@@ -857,6 +857,7 @@ too_common_search_term => Parece que você está procurando um termo de pesquisa
 type => Tipo
 unclosed_tag =>
 undefined => Indefinido
+unknown =>
 unknown_attribute => Atributo de Tag desconhecido: {att}.
 unknown_callback_function => Função de retorno desconhecido: {function}.
 unknown_image => Imagem desconhecida

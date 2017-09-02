@@ -857,6 +857,7 @@ too_common_search_term => Изглежда търсите много общ те
 type => Тип
 unclosed_tag =>
 undefined => Не е дефинирано
+unknown =>
 unknown_attribute => Непознат атрибут на таг: {att}
 unknown_callback_function => Неизвестна функция за обратно извикване: {function}.
 unknown_image => Непознато изображение

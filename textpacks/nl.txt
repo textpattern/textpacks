@@ -857,6 +857,7 @@ too_common_search_term => Het lijkt erop dat de zoekvraag te algemeen is. Probee
 type => Type
 unclosed_tag =>
 undefined => Ongedefinieerd
+unknown =>
 unknown_attribute => Niet bestaand tagattribuut: {att}.
 unknown_callback_function => Onbekende callbackfunctie: {function}.
 unknown_image => Onbekende afbeelding

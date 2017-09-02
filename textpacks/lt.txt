@@ -857,6 +857,7 @@ too_common_search_term => Atrodo, kad jūs ieškote labai dažnai pasikartojanč
 type => Tipas
 unclosed_tag =>
 undefined => Neapibrėžtas
+unknown =>
 unknown_attribute => Nežinomas žymės atributas: {att}.
 unknown_callback_function => Nežinoma atgalinio ryšio funkcija: {function}.
 unknown_image => Nežinomas atvaizdas

@@ -857,6 +857,7 @@ too_common_search_term => Схоже, що ви шукаєте дуже поши
 type => Тип
 unclosed_tag =>
 undefined => Не визначено
+unknown =>
 unknown_attribute => Невідомий атрибут тега: {att}.
 unknown_callback_function => Невідома callback функція: {function}.
 unknown_image => Невідоме зображення.

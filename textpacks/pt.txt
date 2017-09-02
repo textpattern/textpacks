@@ -857,6 +857,7 @@ too_common_search_term => Parece que está a indicar para busca um termo muito c
 type => Tipo
 unclosed_tag =>
 undefined => Indefinido
+unknown =>
 unknown_attribute => Atributo de Etiqueta desconhecido: {att}
 unknown_callback_function => Função de retorno desconhecida: {function}
 unknown_image => Imagem desconhecida.

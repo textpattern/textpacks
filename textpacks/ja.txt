@@ -857,6 +857,7 @@ too_common_search_term => 検索ワードが一般的すぎです。より詳細
 type => 種類
 unclosed_tag =>
 undefined => 未定義
+unknown =>
 unknown_attribute => 不明なタグ属性： {att}
 unknown_callback_function => 不明なコールバック関数: {function}
 unknown_image => 不明な画像

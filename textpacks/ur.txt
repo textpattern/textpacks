@@ -857,6 +857,7 @@ too_common_search_term =>
 type => قسم
 unclosed_tag =>
 undefined => غیر واضع
+unknown =>
 unknown_attribute =>
 unknown_callback_function =>
 unknown_image => نامعلوم تصویر

@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Tipul
 unclosed_tag =>
 undefined => Nedefinit
+unknown =>
 unknown_attribute => Atribut de tag necunoscut: {att}.
 unknown_callback_function =>
 unknown_image => Imagine necunoscuta.

@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Tüüp
 unclosed_tag =>
 undefined => Defineerimata
+unknown =>
 unknown_attribute =>
 unknown_callback_function =>
 unknown_image =>

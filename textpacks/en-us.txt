@@ -857,6 +857,7 @@ too_common_search_term => It seems like you are looking for a very common search
 type => Type
 unclosed_tag => Opening tag without corresponding closing tag:
 undefined => Undefined
+unknown => Unknown
 unknown_attribute => Unknown tag attribute: {att}.
 unknown_callback_function => Unknown callback function: {function}.
 unknown_image => Unknown image

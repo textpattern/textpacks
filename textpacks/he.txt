@@ -857,6 +857,7 @@ too_common_search_term =>
 type => סוג
 unclosed_tag =>
 undefined => לא מוגדר
+unknown =>
 unknown_attribute => תכונה לא ידועה {att}.
 unknown_callback_function =>
 unknown_image => תמונה לא ידועה.

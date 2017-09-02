@@ -857,6 +857,7 @@ too_common_search_term => Ao parecer estás a buscar un termo demasiado común, 
 type => Tipo
 unclosed_tag =>
 undefined => Indefinido
+unknown =>
 unknown_attribute => Atributo de etiqueta descoñecido: {att}
 unknown_callback_function => Función de rellamada descoñecida: {función}
 unknown_image => Imaxe descoñecida.

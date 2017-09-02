@@ -857,6 +857,7 @@ too_common_search_term => Stai cercando un termine molto comune, prova con una p
 type => Tipo
 unclosed_tag =>
 undefined => Non definito
+unknown =>
 unknown_attribute => Attributo tag sconosciuto: {att}.
 unknown_callback_function => Funzione di callback sconosciuta: {function}.
 unknown_image => Immagine sconosciuta

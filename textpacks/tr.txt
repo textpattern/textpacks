@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Biçim
 unclosed_tag =>
 undefined => Tanımsız
+unknown =>
 unknown_attribute => Bilinmeyen etiket tanımlaması: {att}.
 unknown_callback_function =>
 unknown_image => Bilinmeyen görsel

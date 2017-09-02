@@ -857,6 +857,7 @@ too_common_search_term => Dường như là bạn đang tìm những thứ hay �
 type => Kiểu
 unclosed_tag =>
 undefined => Không xác định
+unknown =>
 unknown_attribute => Thuộc tính của tag không xác định: {att}.
 unknown_callback_function => Không hiểu hàm gọi ngược: {function}.
 unknown_image => Ảnh không xác định.

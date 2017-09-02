@@ -857,6 +857,7 @@ too_common_search_term => Šķiet, ka jūs meklējat ļoti biežu meklēšanas f
 type => Tips
 unclosed_tag =>
 undefined => Nedefinēts
+unknown =>
 unknown_attribute => Nezināms iezīmes atribūts: {att}.
 unknown_callback_function => Nezināma funkcija: {function}.
 unknown_image => Nezināms attēls

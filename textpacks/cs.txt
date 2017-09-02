@@ -857,6 +857,7 @@ too_common_search_term => Zdá se, že vyhledávací dotaz byl formulován pří
 type => Druh
 unclosed_tag => Otevírací tag bez odpovídajícího uzavíracího tagu:
 undefined => Nedefinován(a/o)
+unknown =>
 unknown_attribute => Neznámý parametr příkazu: {att}.
 unknown_callback_function => Neznámá callback funkce: {function}.
 unknown_image => Neznámý obrázek

@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Týpa
 unclosed_tag =>
 undefined => Ómerkt
+unknown =>
 unknown_attribute =>
 unknown_callback_function =>
 unknown_image =>

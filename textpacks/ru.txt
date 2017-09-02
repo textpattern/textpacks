@@ -857,6 +857,7 @@ too_common_search_term => Похоже, что вы ищете очень рас
 type => Тип
 unclosed_tag =>
 undefined => Неопределено
+unknown =>
 unknown_attribute => Неизвестный атрибут тега: {att}.
 unknown_callback_function => Неизвестная callback функция: {function}.
 unknown_image => Неизвестная картинка

@@ -857,6 +857,7 @@ too_common_search_term => Hakutermilläsi löytyy liian useita tuloksia, yritä 
 type => Tyyppi
 unclosed_tag => Avaava tagi ilman vastaavaa sulkevaa tagia:
 undefined => Määrittelemätön
+unknown =>
 unknown_attribute => Tuntematon tagin attribuutti: {att}.
 unknown_callback_function => Tuntematon callback-funktio: {function}.
 unknown_image => Tuntematon kuva

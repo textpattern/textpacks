@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Tip
 unclosed_tag =>
 undefined => Недефинисано
+unknown =>
 unknown_attribute => Непознати tag attribute: {att}.
 unknown_callback_function =>
 unknown_image => Непозната слика

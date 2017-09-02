@@ -857,6 +857,7 @@ too_common_search_term => 看来您使用了一个过于常见的搜索词，可
 type => 种类
 unclosed_tag =>
 undefined => 未定义
+unknown =>
 unknown_attribute => 未知标签属性：{att}
 unknown_callback_function => 未知的 Callback 函数：{function}
 unknown_image => 未知图片

@@ -857,6 +857,7 @@ too_common_search_term => Zdá sa, že vyhľadávaný výraz bol formulovaný pr
 type => Typ
 unclosed_tag => Otvárací tag bez odpovedajúceho uztváracieho tagu:
 undefined => Nedefinované
+unknown =>
 unknown_attribute => Neznámý parameter príkazu: {att}.
 unknown_callback_function => Neznámá callback funkcia: {function}.
 unknown_image => Neznámy obrázok

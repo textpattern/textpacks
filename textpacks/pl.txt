@@ -857,6 +857,7 @@ too_common_search_term => Szukasz bardzo popularnego wyrażenia, spróbuj bardzi
 type => Typ
 unclosed_tag =>
 undefined => Niezdefiniowany
+unknown =>
 unknown_attribute => Nieznany atrybut: {att}.
 unknown_callback_function => Nieznane odwołanie do funkcji: {function}.
 unknown_image => Nieznany obrazek

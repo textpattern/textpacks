@@ -857,6 +857,7 @@ too_common_search_term =>
 type => Tip
 unclosed_tag =>
 undefined => Nedefinisan
+unknown =>
 unknown_attribute => Nepoznati atribut oznake (tag attribute): {att}
 unknown_callback_function =>
 unknown_image => Nepoznata slika.
