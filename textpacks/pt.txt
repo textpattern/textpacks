@@ -10,6 +10,7 @@ add_new_author => Adicionar autor
 assign_assets_to => Atribuir conteudo do utilizador a
 author_already_exists => Autor <strong>{name}</strong> já existe.
 author_deleted => Autor <strong>{name}</strong> apagado.
+author_save_failed =>
 author_updated => Autor <strong>{name}</strong> actualizado.
 cannot_assign_assets_to_deletee => Não pode atribuir conceitos a uma conta apagada.
 changeprivilege => Mudar previlégio

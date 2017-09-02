@@ -10,6 +10,7 @@ add_new_author => ایک نۓ مصنف کو شامل کریں
 assign_assets_to => صارف کے اشیا یہاں تفویض کریں
 author_already_exists =>
 author_deleted => مصنف <strong>{name}</strong> کو حذف کیا گیا
+author_save_failed =>
 author_updated => مصنف <strong>{name}</strong> کا تازہ کاری کیا گ
 cannot_assign_assets_to_deletee =>
 changeprivilege => استہقاق تبدیل کریں

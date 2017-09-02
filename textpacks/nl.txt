@@ -10,6 +10,7 @@ add_new_author => Nieuwe medewerker toevoegen
 assign_assets_to => Alles van deze medewerker onderbrengen bij
 author_already_exists => De medewerker <strong>{name}</strong> bestaat al.
 author_deleted => Medewerker <strong>{name}</strong> verwijderd.
+author_save_failed =>
 author_updated => Medewerker <strong>{name}</strong> vernieuwd.
 cannot_assign_assets_to_deletee => Het is niet mogelijk inhoud toe te wijzen aan een verwijderd account.
 changeprivilege => Privileges wijzigen

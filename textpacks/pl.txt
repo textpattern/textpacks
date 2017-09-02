@@ -10,6 +10,7 @@ add_new_author => Dodaj nowego użytkownika
 assign_assets_to => Przydziel zasoby do
 author_already_exists => Taki użytkownik już istnieje: <strong>{name}</strong>.
 author_deleted => Konto użytkownika <strong>{name}</strong> zostało usunięte.
+author_save_failed =>
 author_updated => Dane użytkownika <strong>{name}</strong> zostało uaktualnione.
 cannot_assign_assets_to_deletee => Nie można przydzielić zasobów do usunięcia.
 changeprivilege => Zmień uprawnienia

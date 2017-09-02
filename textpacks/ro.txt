@@ -10,6 +10,7 @@ add_new_author => Adauga un autor nou
 assign_assets_to => Asociaza continutul lui
 author_already_exists => Autorul <strong>{name}</strong> deja exista.
 author_deleted => Autorul <strong>{name}</strong> a fost anulat.
+author_save_failed =>
 author_updated => Autorul <strong>{name}</strong> a fost actualizat.
 cannot_assign_assets_to_deletee => Nu poti asocia continutul unui cont anulat.
 changeprivilege => Modifica privilegiile

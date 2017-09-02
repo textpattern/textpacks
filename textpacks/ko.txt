@@ -10,6 +10,7 @@ add_new_author => 글쓴이 추가
 assign_assets_to => 글을 다음 글쓴이에게 넘기기
 author_already_exists =>
 author_deleted => 글쓴이 <strong>{name}</strong>을(를) 지웠습니다.
+author_save_failed =>
 author_updated => 사용자 <strong>{name}</strong>을(를) 갱신했습니다.
 cannot_assign_assets_to_deletee =>
 changeprivilege => 권한 변경

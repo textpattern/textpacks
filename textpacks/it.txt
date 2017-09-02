@@ -10,6 +10,7 @@ add_new_author => Aggiungi un nuovo autore
 assign_assets_to => Assegna i contenuti dell’autore a
 author_already_exists => Autore <strong>{name}</strong> già esistente.
 author_deleted => Autore <strong>{name}</strong> eliminato.
+author_save_failed =>
 author_updated => Autore <strong>{name}</strong> aggiornato.
 cannot_assign_assets_to_deletee => Non è possibile assegnare risorse ad un account eliminato.
 changeprivilege => Modifica privilegi

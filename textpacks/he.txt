@@ -10,6 +10,7 @@ add_new_author => הוסף כותב חדש
 assign_assets_to => שייך תוכן משתמש אל
 author_already_exists => הכותב <strong>{name}</strong> כבר קיים.
 author_deleted => הכותב <strong>{name}</strong> נמחק.
+author_save_failed =>
 author_updated => הכותב <strong>{name}</strong> עודכן.
 cannot_assign_assets_to_deletee => אינך יכול לשייך משרבים אל חשבון שנמחק.
 changeprivilege => שנה זכות

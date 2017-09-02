@@ -10,6 +10,7 @@ add_new_author => Pievienot jaunu autoru
 assign_assets_to => Piešķirt lietotāja saturu
 author_already_exists => Autors <strong>{name}</strong> jau eksistē.
 author_deleted => Autors <strong>{name}</strong> ir dzēsts.
+author_save_failed =>
 author_updated => Autora <strong>{name}</strong> dati ir atjaunoti.
 cannot_assign_assets_to_deletee => Jūs nevarat piešķirt vērtības dzēstam kontam.
 changeprivilege => Mainīt privilēģijas

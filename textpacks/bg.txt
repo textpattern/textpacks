@@ -10,6 +10,7 @@ add_new_author => Добави автор
 assign_assets_to => Прехвърли съдържанието на
 author_already_exists => Авторът <strong>{name}</strong> вече съществува.
 author_deleted => Авторът <strong>{name}</strong> е изтрит.
+author_save_failed =>
 author_updated => Авторът <strong>{name}</strong> е обновен.
 cannot_assign_assets_to_deletee => Не можете да прехвърлите съдържание на изтрит автор.
 changeprivilege => Промяна на привилегиите

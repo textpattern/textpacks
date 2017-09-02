@@ -10,6 +10,7 @@ add_new_author => Einen neuen Autor hinzufügen
 assign_assets_to => Bestand übertragen auf
 author_already_exists => Autor <strong>{name}</strong> bereits vorhanden.
 author_deleted => Autor <strong>{name}</strong> gelöscht.
+author_save_failed =>
 author_updated => Autor <strong>{name}</strong> aktualisiert.
 cannot_assign_assets_to_deletee => Der Bestand kann nicht dem gelöschten Autor zugewiesen werden.
 changeprivilege => Rechte ändern

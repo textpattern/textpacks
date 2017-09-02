@@ -10,6 +10,7 @@ add_new_author => Afegeix nou autor
 assign_assets_to => Assigna el contingut de l’autor a
 author_already_exists => L’autor <strong>{name}</strong> ja existeix.
 author_deleted => S’ha esborrat l’autor <strong>{name}</strong>.
+author_save_failed =>
 author_updated => S’ha actualitzat l’autor <strong>{name}</strong>.
 cannot_assign_assets_to_deletee => No es poden assignar actius a un compte suprimit.
 changeprivilege => Canvia privilegis

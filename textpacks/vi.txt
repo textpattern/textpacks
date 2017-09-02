@@ -10,6 +10,7 @@ add_new_author => Thêm tác giả mới
 assign_assets_to => Gán nội dung của người dùng cho
 author_already_exists => Đã có tác giả <strong>{name}</strong>.
 author_deleted => Đã xóa tác giả <strong>{name}</strong>.
+author_save_failed =>
 author_updated => Đã cập nhật thông tin về tác giả <strong>{name}</strong>.
 cannot_assign_assets_to_deletee => Bạn không thể gán tài sản cho một tài khoản đã bị xóa.
 changeprivilege => Đổi đặc quyền

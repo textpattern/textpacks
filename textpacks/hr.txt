@@ -10,6 +10,7 @@ add_new_author => Dodaj novog autora
 assign_assets_to =>
 author_already_exists =>
 author_deleted => Autor <strong>{name}</strong> izbrisan.
+author_save_failed =>
 author_updated => Autor <strong>{name}</strong> obnovljen.
 cannot_assign_assets_to_deletee =>
 changeprivilege =>

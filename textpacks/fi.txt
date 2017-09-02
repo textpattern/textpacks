@@ -10,6 +10,7 @@ add_new_author => Lisää uusi käyttäjä
 assign_assets_to => Siirrä käyttäjän sisältö käyttäjälle
 author_already_exists => Käyttäjä <strong>{name}</strong> on jo olemassa.
 author_deleted => Käyttäjä <strong>{name}</strong> poistettu.
+author_save_failed =>
 author_updated => Käyttäjä <strong>{name}</strong> päivitetty.
 cannot_assign_assets_to_deletee => Sisältöä ei voi siirtää poistettavalle käyttäjälle.
 changeprivilege => Vaihda oikeudet

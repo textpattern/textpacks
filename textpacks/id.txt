@@ -10,6 +10,7 @@ add_new_author => Tambah Penulis Baru
 assign_assets_to => Menetapkan konten pengguna untuk
 author_already_exists => Penulis <strong>{name}</strong> sudah ada.
 author_deleted => Penulis <strong>{name}</strong> dihapus.
+author_save_failed =>
 author_updated => Penulis <strong>{name}</strong> telah diperbaharui.
 cannot_assign_assets_to_deletee => Tidak bisa mengatur aset-aset ke akun terhapus
 changeprivilege => Ubah hak

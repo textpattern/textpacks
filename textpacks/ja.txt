@@ -10,6 +10,7 @@ add_new_author => ユーザの追加
 assign_assets_to => ユーザのコンテンツの譲渡先
 author_already_exists => ユーザ名 <strong>{name}</strong> は既に存在しています。
 author_deleted => ユーザ <strong>{name}</strong> を削除しました。
+author_save_failed =>
 author_updated => ユーザ <strong>{name}</strong> を削除しました。
 cannot_assign_assets_to_deletee => 削除済みアカウントに対して設定は行えません
 changeprivilege => 権限の変更

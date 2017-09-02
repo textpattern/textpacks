@@ -10,6 +10,7 @@ add_new_author => Legg til ny forfatter
 assign_assets_to => Tildele forfatterens innhold til
 author_already_exists => Forfatter <strong>{name}</strong> allerede eksisterer.
 author_deleted => Forfatter <strong>{name}</strong> ble slettet.
+author_save_failed =>
 author_updated => Forfatter <strong>{name}</strong> er oppdatert.
 cannot_assign_assets_to_deletee => Du kan ikke tildele midler til en slettet konto.
 changeprivilege => Endre privilegium

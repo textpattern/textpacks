@@ -10,6 +10,7 @@ add_new_author => Lägg till skribent
 assign_assets_to => Knyt användarens innehåll till
 author_already_exists => Författaren <strong>{name}</strong> finns redan.
 author_deleted => Författaren <strong>{name}</strong> togs bort.
+author_save_failed =>
 author_updated => Författaren <strong>{name}</strong> uppdaterades.
 cannot_assign_assets_to_deletee => Du kan inte tilldela en kontot tillgångar.
 changeprivilege => Ändra rättigheter

@@ -10,6 +10,7 @@ add_new_author => Додај новог аутора
 assign_assets_to =>
 author_already_exists =>
 author_deleted => Аутор <strong>{name}</strong> избрисан.
+author_save_failed =>
 author_updated => Аутор <strong>{name}</strong> обновљен.
 cannot_assign_assets_to_deletee =>
 changeprivilege => Измени привилегије

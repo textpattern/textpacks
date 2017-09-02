@@ -10,6 +10,7 @@ add_new_author => เพิ่มนักเขียน
 assign_assets_to =>
 author_already_exists =>
 author_deleted => ลบนักเขียน <strong>{name}</strong> แล้ว
+author_save_failed =>
 author_updated => ปรับปรุงนักเขียน <strong>{name}</strong> แล้ว
 cannot_assign_assets_to_deletee =>
 changeprivilege => เปลี่ยนสิทธิ

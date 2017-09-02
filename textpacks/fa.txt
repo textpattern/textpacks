@@ -10,6 +10,7 @@ add_new_author => افزودن نویسنده جدید
 assign_assets_to => انتصاب محتوای کاربر به
 author_already_exists => نویسنده با نام <strong>{name}</strong> از پیش موجود است.
 author_deleted => نویسنده با نام <strong>{name}</strong> پاک شد.
+author_save_failed =>
 author_updated => مشخصات نویسنده با نام <strong>{name}</strong> بهنگام شد.
 cannot_assign_assets_to_deletee => شما نمی‌توانید به حساب کاربری پاک شده چیزی را منتصب کنید
 changeprivilege => تغییر سطح کاربر

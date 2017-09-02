@@ -10,6 +10,7 @@ add_new_author => Yeni Yazar Ekle
 assign_assets_to =>
 author_already_exists =>
 author_deleted => Yazar <strong>{name}</strong> silindi.
+author_save_failed =>
 author_updated => Yazar <strong>{name}</strong> güncellendi.
 cannot_assign_assets_to_deletee =>
 changeprivilege =>

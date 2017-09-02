@@ -10,6 +10,7 @@ add_new_author => 新增作者
 assign_assets_to => 分配用户的内容到
 author_already_exists => 作者 <strong>{name}</strong> 已存在。
 author_deleted => 作者 <strong>{name}</strong> 已删除。
+author_save_failed =>
 author_updated => 作者 <strong>{name}</strong> 以更新。
 cannot_assign_assets_to_deletee => 您不能分配项目到一个已删除的帐号
 changeprivilege => 更改权限

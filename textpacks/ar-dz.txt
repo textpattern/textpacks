@@ -10,6 +10,7 @@ add_new_author => إضافة مؤلف
 assign_assets_to => تحويل ملكية محتوى المستخدم إلى
 author_already_exists => المؤلف <strong>{name}</strong> موجود مسبقا
 author_deleted => المؤلف <strong>{name}</strong> محذوف
+author_save_failed =>
 author_updated => تم تحديث المؤلف <strong>{name}</strong>
 cannot_assign_assets_to_deletee => لا يمكن ربط أي محتوى مع حساب محذوف
 changeprivilege => تغيير الإمتيازات

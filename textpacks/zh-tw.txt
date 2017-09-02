@@ -10,6 +10,7 @@ add_new_author => 新增作者
 assign_assets_to =>
 author_already_exists =>
 author_deleted => 已刪除作者 <strong>{name}</strong>.
+author_save_failed =>
 author_updated => 作者 <strong>{name}</strong> 已完成更新.
 cannot_assign_assets_to_deletee =>
 changeprivilege =>

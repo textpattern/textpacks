@@ -10,6 +10,7 @@ add_new_author => Προσθήκη νέου χρήστη
 assign_assets_to => Αναθέσατε το περιεχόμενο του χρήστη στον
 author_already_exists => Το όνομα του χρήστη <strong>{name}</strong> υπάρχει ήδη.
 author_deleted => Ο χρήστης <strong>{name}</strong> διαγράφηκε.
+author_save_failed =>
 author_updated => Οι πληροφορίες για τον χρήστη <strong>{name}</strong> ενημερώθηκαν.
 cannot_assign_assets_to_deletee => Δεν μπορείτε να αναθέσετε τα στοιχεία σε διαγραμμένο λογαριασμό.
 changeprivilege => Αλλάξετε τα προνόμια

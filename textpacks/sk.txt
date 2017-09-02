@@ -10,6 +10,7 @@ add_new_author => Nový autor
 assign_assets_to => Priradiť materiál uživateľovi
 author_already_exists => Autor <strong>{name}</strong> už existuje.
 author_deleted => Autor <strong>{name}</strong> odstránený.
+author_save_failed =>
 author_updated => Autor <strong>{name}</strong> aktualizovaný.
 cannot_assign_assets_to_deletee => Materiál nieje možné priradiť odstránenému užívateľovi.
 changeprivilege => Zmeniť práva

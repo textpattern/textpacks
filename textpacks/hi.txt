@@ -10,6 +10,7 @@ add_new_author => नए लेखक जोड़ें
 assign_assets_to => लेखक की सामग्री को असाइन करें
 author_already_exists =>
 author_deleted => लेखक ने <strong>{name}</strong> डिलीट किया।
+author_save_failed =>
 author_updated => लेखक <strong>{name}</strong> अपडेट किया।
 cannot_assign_assets_to_deletee => एक हटाए गए खाते के लिए आप संपत्ति को असाइन नहीं कर सकते।
 changeprivilege => रोल परिवर्तित करें

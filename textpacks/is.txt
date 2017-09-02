@@ -10,6 +10,7 @@ add_new_author => Bæta við höfundi
 assign_assets_to =>
 author_already_exists =>
 author_deleted =>
+author_save_failed =>
 author_updated =>
 cannot_assign_assets_to_deletee =>
 changeprivilege =>

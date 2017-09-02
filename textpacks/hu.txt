@@ -10,6 +10,7 @@ add_new_author => Új szerző hozzáadása:
 assign_assets_to =>
 author_already_exists =>
 author_deleted => {author} törölve.
+author_save_failed =>
 author_updated => {author} adatai frissítve.
 cannot_assign_assets_to_deletee =>
 changeprivilege => Jogosultság megváltoztatása

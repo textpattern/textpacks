@@ -10,6 +10,7 @@ add_new_author => Tilføj ny forfatter
 assign_assets_to =>
 author_already_exists =>
 author_deleted => Forfatter <strong>{name}</strong> slettet.
+author_save_failed =>
 author_updated => Forfatter <strong>{name}</strong> opdateret.
 cannot_assign_assets_to_deletee =>
 changeprivilege => Ændre privilegier
