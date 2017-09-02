@@ -873,7 +873,7 @@ week => สัปดาห์
 weeks => สัปดาห์
 while_parsing_page_form =>
 yes => ใช่
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => ไอพีแอดเดรสของคุณถูกใส่ในบัญชีดำโดย
 yyyy-mm => ปปปป-ดด
 #@section
 article_count =>

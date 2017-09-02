@@ -873,7 +873,7 @@ week => 週
 weeks => 週
 while_parsing_page_form =>
 yes => 是
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => 您的IP位址被列入黑名單於
 yyyy-mm => yyyy-mm
 #@section
 article_count =>

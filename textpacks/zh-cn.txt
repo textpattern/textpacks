@@ -873,7 +873,7 @@ week => 周
 weeks => 周
 while_parsing_page_form => 当解析 <strong>{page}</strong> 页面的 <strong>{form}</strong> 时
 yes => 是
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => 您的 IP 地址被列入黑名单于
 yyyy-mm => yyyy-mm
 #@section
 article_count => 本版块中文章数：{num}。点击显示

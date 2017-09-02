@@ -873,7 +873,7 @@ week => тиждень
 weeks => тижні
 while_parsing_page_form => під час обробки форми <strong>{form}</strong> на сторінці <strong>{page}</strong>
 yes => Так
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Ваша IP адреса була занесена в чорний список
 yyyy-mm => yyyy-mm
 #@section
 article_count => Статей в секції: {num}.

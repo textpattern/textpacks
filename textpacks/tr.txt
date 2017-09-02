@@ -873,7 +873,7 @@ week => hafta
 weeks => hafta
 while_parsing_page_form =>
 yes => Evet
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => IP adresiniz karalisteye alınmıştır. Alan kişi:
 yyyy-mm => yyyy-mm
 #@section
 article_count =>

@@ -873,7 +873,7 @@ week => ہفتہ
 weeks => ہفتے
 while_parsing_page_form =>
 yes => ہاں
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => تمہارا IPپتہ اس ‏'Blocklist' میں شامل ہے
 yyyy-mm => yyyy-mm
 #@section
 article_count =>
