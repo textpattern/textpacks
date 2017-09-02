@@ -825,6 +825,7 @@ recent_articles => Värsked artiklid
 recent_comments => Värsked kommentaarid
 recent_posts => Värsked postitused
 related_articles => Seonduvad artiklid
+reload =>
 remember => Mäleta
 required => Nõutav
 revert => Pööratud

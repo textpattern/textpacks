@@ -825,6 +825,7 @@ recent_articles => Siste artikler
 recent_comments => Siste kommentarer
 recent_posts => Siste innlegg
 related_articles => Relaterte artikler
+reload =>
 remember => Husk
 required =>
 revert => Gå tilbake

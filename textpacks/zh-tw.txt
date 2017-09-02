@@ -825,6 +825,7 @@ recent_articles => 最新文章
 recent_comments => 最新迴響
 recent_posts => 最新發表
 related_articles => 相關文章
+reload =>
 remember => Cookie
 required =>
 revert => 還原

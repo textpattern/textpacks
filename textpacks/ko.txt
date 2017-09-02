@@ -825,6 +825,7 @@ recent_articles => 최근 글
 recent_comments => 최근 댓글
 recent_posts => 최근 글
 related_articles => 관련 글
+reload =>
 remember => 내 정보 기억하기
 required => 필수
 revert => 되돌리기

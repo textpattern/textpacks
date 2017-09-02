@@ -825,6 +825,7 @@ recent_articles => Legfrissebb cikkek
 recent_comments => Legfrissebb megjegyzések
 recent_posts => Legfrissebb posztok
 related_articles => Kapcsolódó cikkek
+reload =>
 remember => Jegyezd meg
 required =>
 revert => Visszatér

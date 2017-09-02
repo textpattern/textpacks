@@ -825,6 +825,7 @@ recent_articles => Recente Artikelen
 recent_comments => Recente reacties
 recent_posts => Recente Bijdragen
 related_articles => Gerelateerde artikelen
+reload =>
 remember => Onthouden
 required => Vereist
 revert => Terug

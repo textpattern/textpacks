@@ -825,6 +825,7 @@ recent_articles => บทความที่ผ่านมา
 recent_comments => ความคิดเห็นที่ผ่านมา
 recent_posts => โพสต์ที่ผ่านมา
 related_articles => บทความที่เกี่ยวข้อง
+reload =>
 remember => จำ
 required =>
 revert => ย้อนกลับรุ่นก่อน

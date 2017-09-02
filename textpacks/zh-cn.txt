@@ -825,6 +825,7 @@ recent_articles => 近期文章
 recent_comments => 近期评论
 recent_posts => 近期文章
 related_articles => 相关文章
+reload =>
 remember => 记住
 required => 必填
 revert => 还原

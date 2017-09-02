@@ -825,6 +825,7 @@ recent_articles => Senaste artiklarna
 recent_comments => Senaste kommentarerna
 recent_posts => Senaste inläggen
 related_articles => Relaterade artiklar
+reload =>
 remember => Kom ihåg
 required => Krävs
 revert => Återgå

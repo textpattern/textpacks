@@ -825,6 +825,7 @@ recent_articles => Các bài viết gần đây
 recent_comments => Bình chú gần đây
 recent_posts => Được gửi gần đây
 related_articles => Các bài viết liên quan
+reload =>
 remember => Ghi nhớ
 required => Cần
 revert => Đảo ngược

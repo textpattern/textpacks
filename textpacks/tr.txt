@@ -825,6 +825,7 @@ recent_articles => Son Makaleler
 recent_comments => Son yorumlar
 recent_posts =>
 related_articles => İlgili makaleler
+reload =>
 remember => Hatırla
 required =>
 revert => Geri al

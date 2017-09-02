@@ -825,6 +825,7 @@ recent_articles => Nýlegar greinar
 recent_comments => Nýlegar skoðanir
 recent_posts => Nýlegar greinar
 related_articles => Skildar greinar
+reload =>
 remember => Muna
 required =>
 revert => Hverfa aftur til

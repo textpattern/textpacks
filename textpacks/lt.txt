@@ -825,6 +825,7 @@ recent_articles => Paskiausiai naudoti straipsniai
 recent_comments => Naujausi komentarai
 recent_posts => Naujausios žinutės
 related_articles => Susiję straipsniai
+reload =>
 remember => Prisiminti
 required => Reikalinga
 revert => Grąžinti

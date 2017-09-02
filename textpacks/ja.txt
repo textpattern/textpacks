@@ -825,6 +825,7 @@ recent_articles => 最近の記事
 recent_comments => 最近のコメント
 recent_posts => 最近の投稿
 related_articles => 関連する記事
+reload =>
 remember => 記憶する
 required => 必須
 revert => 取り消し

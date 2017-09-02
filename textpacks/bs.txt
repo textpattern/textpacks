@@ -825,6 +825,7 @@ recent_articles => Skorašnji članci
 recent_comments => Skorašnji komentari
 recent_posts => Skorašnje objave
 related_articles => Povezani članci
+reload =>
 remember => Zapamti
 required =>
 revert => Vrati

@@ -825,6 +825,7 @@ recent_articles => Articoli recenti
 recent_comments => Commenti recenti
 recent_posts => Post recenti
 related_articles => Articoli correlati
+reload =>
 remember => Ricorda
 required => Obbligatorio
 revert => Ripristina

@@ -825,6 +825,7 @@ recent_articles => Artikel Terbaru
 recent_comments => Komentar terbaru
 recent_posts => Tulisan Terbaru
 related_articles => Artikel terkait
+reload =>
 remember => Ingat
 required =>
 revert => Balikkan

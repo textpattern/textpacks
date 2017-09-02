@@ -825,6 +825,7 @@ recent_articles => Nedavni unosi
 recent_comments => Nedavni komentari
 recent_posts => Nedavni komentari
 related_articles => Slični unosi
+reload =>
 remember => Zapamti
 required =>
 revert =>

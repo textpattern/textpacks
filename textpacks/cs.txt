@@ -825,6 +825,7 @@ recent_articles => Poslední články
 recent_comments => Poslední komentáře
 recent_posts => Poslední příspěvky
 related_articles => Podobné články
+reload =>
 remember => Zapamatovat
 required => Povinné
 revert => Vrátit zpět

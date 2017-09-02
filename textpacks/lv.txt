@@ -825,6 +825,7 @@ recent_articles => Pēdējie ieraksti
 recent_comments => Pēdējie komentāri
 recent_posts => Pēdējie ieraksti
 related_articles => Līdzīgi ieraksti
+reload =>
 remember => Atcerēties manus datus
 required => Obligāts
 revert => Atgriezt

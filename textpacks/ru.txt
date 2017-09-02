@@ -825,6 +825,7 @@ recent_articles => Недавние статьи
 recent_comments => Недавние комментарии
 recent_posts => Недавние сообщения
 related_articles => Похожие статьи
+reload =>
 remember => Запомнить
 required => Обязательно
 revert => Вернуть

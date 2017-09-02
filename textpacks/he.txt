@@ -825,6 +825,7 @@ recent_articles => מאמרים אחרונים
 recent_comments => תגובות אחרונות
 recent_posts => שליחות אחרונות
 related_articles => מאמרים קשורים
+reload =>
 remember => זכור
 required =>
 revert => בטל שינויים

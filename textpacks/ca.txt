@@ -825,6 +825,7 @@ recent_articles => Articles recents
 recent_comments => Comentaris recents
 recent_posts => Articles recents
 related_articles => Articles relacionats
+reload =>
 remember => Recorda-ho
 required =>
 revert => Torna

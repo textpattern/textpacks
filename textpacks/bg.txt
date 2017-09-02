@@ -825,6 +825,7 @@ recent_articles => Последни Статии
 recent_comments => Последни коментари
 recent_posts => Последни публикации
 related_articles => Свързани статии
+reload =>
 remember => Запомни
 required => Задължително
 revert => Към предишно състояние

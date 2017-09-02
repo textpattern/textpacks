@@ -825,6 +825,7 @@ recent_articles => Artigos recentes
 recent_comments => Comentários recentes
 recent_posts => Artigos recentes
 related_articles => Artigos relacionados
+reload =>
 remember => Recordar
 required => Obrigatório
 revert => Voltar

@@ -825,6 +825,7 @@ recent_articles => آخرین نوشته‌ها
 recent_comments => آخرین نظرها
 recent_posts => آخرین ارسال‌ها
 related_articles => نوشته‌های مرتبط
+reload =>
 remember => به یادآوری
 required => ضروری
 revert => برگشت

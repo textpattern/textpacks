@@ -825,6 +825,7 @@ recent_articles => مقالات منشورة مؤخرا
 recent_comments => التعليقات الأخيرة
 recent_posts => نشر مؤخرا
 related_articles => المقالات حول نفس الموضوع
+reload =>
 remember => حفظ المعلومات المستلمة
 required =>
 revert => العودة إلى الوراء

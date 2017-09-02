@@ -825,6 +825,7 @@ recent_articles => Articole Recente
 recent_comments => Comentarii recente
 recent_posts => Post-uri Recente
 related_articles => Articole asemanatoare
+reload =>
 remember => Tine minte
 required =>
 revert => Revino

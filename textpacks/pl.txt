@@ -825,6 +825,7 @@ recent_articles => Ostatnio dodane artykuły
 recent_comments => Ostatnio dodane komentarze
 recent_posts => Ostatnio dodane posty
 related_articles => Podobne artykuły
+reload =>
 remember => Zapamiętaj moje dane
 required => Wymagany
 revert => Przywróć

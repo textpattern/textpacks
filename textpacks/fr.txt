@@ -825,6 +825,7 @@ recent_articles => Articles récents
 recent_comments => Commentaires récents
 recent_posts => Posts récents
 related_articles => Articles sur le même sujet
+reload =>
 remember => Mémoriser les informations saisies
 required => Requis
 revert => Revenir en arrière

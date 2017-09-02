@@ -825,6 +825,7 @@ recent_articles => Недавни уноси
 recent_comments => Недавни коментари
 recent_posts => Недавни коментари
 related_articles => Слични уноси
+reload =>
 remember => Запамти
 required =>
 revert =>

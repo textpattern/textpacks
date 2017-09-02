@@ -825,6 +825,7 @@ recent_articles => حالیہ مضامین
 recent_comments =>
 recent_posts => حالیہ مسودے
 related_articles =>
+reload =>
 remember => میرے معلومات یاد رکھو
 required =>
 revert => ‏پچھلی حالت پر واپس لائیں

@@ -825,6 +825,7 @@ recent_articles => Neueste Artikel
 recent_comments => Neuesten Kommentare
 recent_posts => Neueste Einträge
 related_articles => Ähnlichen Artikel
+reload =>
 remember => Merken
 required => Erforderlich
 revert => umkehren

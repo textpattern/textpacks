@@ -825,6 +825,7 @@ recent_articles => Viime artikkelit
 recent_comments => Viime kommentit
 recent_posts => Viime postitukset
 related_articles => Aiheeseen liittyvät artikkelit
+reload =>
 remember => Muista minut?
 required => Vaaditaan
 revert => Palauta

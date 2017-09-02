@@ -825,6 +825,7 @@ recent_articles => Artículos recientes
 recent_comments => Comentarios recientes
 recent_posts => Artículos recientes
 related_articles => Artículos relacionados
+reload =>
 remember => Recordar
 required => Requerido
 revert => Revertir

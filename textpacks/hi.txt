@@ -825,6 +825,7 @@ recent_articles =>
 recent_comments =>
 recent_posts =>
 related_articles =>
+reload =>
 remember =>
 required =>
 revert =>
