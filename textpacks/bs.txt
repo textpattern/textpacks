@@ -873,7 +873,7 @@ week => sedmica
 weeks => sedmice
 while_parsing_page_form =>
 yes => Da
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Vaša IP adresa je stavljena na crnu listu od strane
 yyyy-mm => gggg-mm
 #@section
 article_count =>

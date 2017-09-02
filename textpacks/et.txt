@@ -873,7 +873,7 @@ week => nädal
 weeks => nädalat
 while_parsing_page_form =>
 yes => Jah
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Sinu IP aadressi lisas musta nimekirja
 yyyy-mm => aaaa-kk
 #@section
 article_count =>

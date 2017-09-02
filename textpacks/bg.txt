@@ -873,7 +873,7 @@ week => седмица
 weeks => седмици
 while_parsing_page_form => докато разчита форма <strong>{form}</strong> на страница <strong>{page}</strong>
 yes => да
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Вашият IP адрес е включен в черния списък от
 yyyy-mm => yyyy-mm
 #@section
 article_count => Статии в тази секция: {num}.

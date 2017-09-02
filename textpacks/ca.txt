@@ -873,7 +873,7 @@ week => setmana
 weeks => setmanes
 while_parsing_page_form =>
 yes => Sí
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => La teva adreça IP ha estat bloquejada per
 yyyy-mm => any-mes
 #@section
 article_count =>
