@@ -7,7 +7,7 @@ use Textpattern\Textpack\Test\Parser as Textpack;
  * Tests Textpacks.
  */
 
-class CoverageTest extends \PHPUnit_Framework_TestCase
+class CoverageTest extends \PHPUnit\Framework\TestCase
 {
     /**
      * Parsed contents of the main en-GB Textpack.
