@@ -888,6 +888,7 @@ search_sections =>
 section => Секција
 sections => Секције
 section_created => Секција <strong>{name}</strong> направљена.
+section_delete_failure =>
 section_deleted => Секција <strong>{name}</strong> избрисана.
 section_head => Име секције
 section_longtitle => Наслов секције

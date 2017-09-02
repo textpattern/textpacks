@@ -888,6 +888,7 @@ search_sections =>
 section => Sección
 sections => Seccions
 section_created => Sección <strong>{name}</strong> creada.
+section_delete_failure =>
 section_deleted => Sección <strong>{name}</strong> borrada.
 section_head => Seccions da bitácora
 section_longtitle => Título da sección

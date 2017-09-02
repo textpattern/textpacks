@@ -888,6 +888,7 @@ search_sections => Sök i sektionerna
 section => Avdelning
 sections => Avdelningar
 section_created => Avdelningen <strong>{name}</strong> skapades.
+section_delete_failure =>
 section_deleted => Avdelningen <strong>{name}</strong> togs bort.
 section_head => Webbplatsavdelningar
 section_longtitle => Avdelningsrubrik

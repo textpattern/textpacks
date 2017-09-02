@@ -888,6 +888,7 @@ search_sections => Пошук секції
 section => Секція
 sections => Секції
 section_created => Створена секція <strong>{name}</strong>.
+section_delete_failure =>
 section_deleted => Вилучена секція <strong>{name}</strong>.
 section_head => Секції сайту
 section_longtitle => Заголовок секції

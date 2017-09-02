@@ -888,6 +888,7 @@ search_sections => 搜索版块
 section => 版块
 sections => 版块
 section_created => 版块 <strong>{name}</strong> 已建立。
+section_delete_failure =>
 section_deleted => 版块 <strong>{name}</strong> 已删除。
 section_head => 网站版块
 section_longtitle => 版块标题

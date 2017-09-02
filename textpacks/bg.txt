@@ -888,6 +888,7 @@ search_sections =>
 section => Секция
 sections => Секции
 section_created => Секцията <strong>{name}</strong> е създадена.
+section_delete_failure =>
 section_deleted => Секцията <strong>{name}</strong> е изтрита.
 section_head => Секции в сайта
 section_longtitle => Заглавие на секцията

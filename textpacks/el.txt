@@ -888,6 +888,7 @@ search_sections => Αναζήτηση τομέων
 section => Τομέας
 sections => Τομείς
 section_created => Ο τομέας <strong>{name}</strong> δημιουργήθηκε.
+section_delete_failure =>
 section_deleted => Ο τομέας <strong>{name}</strong> έχει διαγραφεί.
 section_head => Τομείς ιστοτόπου
 section_longtitle => Τίτλος τομέα

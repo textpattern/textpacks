@@ -888,6 +888,7 @@ search_sections =>
 section => Szekció
 sections => Szekciók
 section_created => A(z) <strong>{name}</strong> szekció létrehozva.
+section_delete_failure =>
 section_deleted => A(z) <strong>{name}</strong> szekció törölve.
 section_head => Oldal szekciók
 section_longtitle => Szekció címe

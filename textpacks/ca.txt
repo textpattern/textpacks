@@ -888,6 +888,7 @@ search_sections =>
 section => Secció
 sections => seccions
 section_created => S’ha creat la secció <strong>{name}</strong>.
+section_delete_failure =>
 section_deleted => S’ha esborrat la secció <strong>{name}</strong>.
 section_head => seccions del lloc
 section_longtitle => Títol de la secció

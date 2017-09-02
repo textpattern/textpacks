@@ -888,6 +888,7 @@ search_sections => Meklēt sadaļas
 section => Sadaļa
 sections => Sadaļas
 section_created => Sadaļa <strong>{name}</strong> izveidota.
+section_delete_failure =>
 section_deleted => Sadaļa <strong>{name}</strong> dzēsta.
 section_head => Lapas sadaļas
 section_longtitle => Sadaļas virsraksts

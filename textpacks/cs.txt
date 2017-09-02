@@ -888,6 +888,7 @@ search_sections => Hledat rubriky
 section => Rubrika
 sections => Rubriky
 section_created => Rubrika <strong><a href="#section-{name}">{name}</a></strong> vytvořena.
+section_delete_failure =>
 section_deleted => Rubrika <strong>{name}</strong> odstraněna.
 section_head => Rubriky
 section_longtitle => Název rubriky

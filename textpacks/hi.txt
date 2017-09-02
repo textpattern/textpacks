@@ -888,6 +888,7 @@ search_sections =>
 section =>
 sections =>
 section_created =>
+section_delete_failure =>
 section_deleted =>
 section_head =>
 section_longtitle =>

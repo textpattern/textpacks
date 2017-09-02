@@ -888,6 +888,7 @@ search_sections =>
 section => صیغہ
 sections => صیغہ
 section_created => صیغہ <strong>{name}</strong> بنا ہوا
+section_delete_failure =>
 section_deleted => صیغہ <strong>{name}</strong> حذف کیا
 section_head => سائٹ کے صیغہ
 section_longtitle => صیغہ کا عنوان

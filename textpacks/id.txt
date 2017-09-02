@@ -888,6 +888,7 @@ search_sections =>
 section => Seksi
 sections => Seksi
 section_created =>
+section_delete_failure =>
 section_deleted =>
 section_head => Seksi Situs
 section_longtitle => Judul seksi

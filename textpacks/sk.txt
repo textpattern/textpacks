@@ -888,6 +888,7 @@ search_sections => Hľadať rubriky
 section => Rubrika
 sections => Rubriky
 section_created => Rubrika <strong>{name}</strong> vytvorená.
+section_delete_failure =>
 section_deleted => Rubrika <strong>{name}</strong> odstránena.
 section_head => Rubriky
 section_longtitle => Titulok rubriky

@@ -888,6 +888,7 @@ search_sections =>
 section => ส่วน
 sections => ส่วน
 section_created => Section <strong>{name}</strong> แล้ว
+section_delete_failure =>
 section_deleted => Section <strong>{name}</strong> แล้ว
 section_head => ส่วนของเว็บ
 section_longtitle =>

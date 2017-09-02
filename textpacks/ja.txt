@@ -888,6 +888,7 @@ search_sections =>
 section => セクション
 sections => セクション
 section_created => セクション <strong><a href="#section-{name}">{name}</a></strong> を作成しました。
+section_delete_failure =>
 section_deleted => セクション <strong>{name}</strong> を削除しました。
 section_head => サイトセクション
 section_longtitle => セクションタイトル

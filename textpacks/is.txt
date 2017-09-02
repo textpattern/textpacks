@@ -888,6 +888,7 @@ search_sections =>
 section => Hluti
 sections => Hlutar
 section_created =>
+section_delete_failure =>
 section_deleted =>
 section_head => Síðu hlutar
 section_longtitle => Titill hluta

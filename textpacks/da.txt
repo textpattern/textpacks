@@ -888,6 +888,7 @@ search_sections =>
 section => Afsnit
 sections => Afsnit
 section_created => Afsnit <strong>{name}</strong> oprettet.
+section_delete_failure =>
 section_deleted => Afsnit <strong>{name}</strong> slettet.
 section_head => Sideafsnit
 section_longtitle => Afsnit titel

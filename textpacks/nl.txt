@@ -888,6 +888,7 @@ search_sections => Secties doorzoeken
 section => Sectie
 sections => Secties
 section_created => Sectie <strong>{name}</strong> toegevoegd.
+section_delete_failure =>
 section_deleted => Sectie <strong>{name}</strong> verwijderd.
 section_head => Sitesecties
 section_longtitle => Sectietitel

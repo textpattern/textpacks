@@ -888,6 +888,7 @@ search_sections =>
 section => איזור
 sections => איזורים
 section_created => האיזור <strong>{name}</strong> נוצר.
+section_delete_failure =>
 section_deleted => האיזור <strong>{name}</strong> נמחק.
 section_head => איזורי האתר
 section_longtitle => כותרת האיזור

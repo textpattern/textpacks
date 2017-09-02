@@ -888,6 +888,7 @@ search_sections =>
 section => Mục
 sections => Mục
 section_created => Đã tạo mục <strong>{name}</strong>.
+section_delete_failure =>
 section_deleted => Đã xóa mục <strong>{name}</strong>.
 section_head => Các mục trong trang thông tin điện tử
 section_longtitle => Tiêu đề mục

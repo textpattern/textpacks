@@ -888,6 +888,7 @@ search_sections => Cerca sezioni
 section => Sezione
 sections => Sezioni
 section_created => Sezione <strong>{name}</strong> creata.
+section_delete_failure =>
 section_deleted => Sezione <strong>{name}</strong> eliminata.
 section_head => Sezioni sito
 section_longtitle => Titolo sezione

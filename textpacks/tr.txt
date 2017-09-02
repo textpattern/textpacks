@@ -888,6 +888,7 @@ search_sections =>
 section => Bölüm
 sections => Bölümler
 section_created => Bölüm <strong>{name}</strong> oluşturuldu.
+section_delete_failure =>
 section_deleted => Bölüm <strong>{name}</strong> silindi.
 section_head => Site Bölümleri
 section_longtitle => Bölüm başlığı

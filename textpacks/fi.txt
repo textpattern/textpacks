@@ -888,6 +888,7 @@ search_sections => Hae osioita
 section => Osio
 sections => Osiot
 section_created => Osio <strong>{name}</strong> luotu.
+section_delete_failure =>
 section_deleted => Osio <strong>{name}</strong> poistettu.
 section_head => Sivuston osiot
 section_longtitle => Osion otsikko

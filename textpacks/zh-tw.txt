@@ -888,6 +888,7 @@ search_sections =>
 section => 版區
 sections => 版區
 section_created => 已建立版區 <strong>{name}</strong>.
+section_delete_failure =>
 section_deleted => 已刪除版區 <strong>{name}</strong>.
 section_head => 網站版區
 section_longtitle => 版區標題

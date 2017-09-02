@@ -888,6 +888,7 @@ search_sections =>
 section => 섹션
 sections => 섹션
 section_created => <strong>{name}</strong> 섹션을 생성했습니다.
+section_delete_failure =>
 section_deleted => <strong>{name}</strong> 섹션을 지웠습니다.
 section_head => 사이트 섹션
 section_longtitle => 섹션 제목

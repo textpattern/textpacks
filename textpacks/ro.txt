@@ -888,6 +888,7 @@ search_sections =>
 section => Sectiune
 sections => Sectiuni
 section_created => Sectiunea <strong>{name}</strong> a fost create.
+section_delete_failure =>
 section_deleted => Sectiunea <strong>{name}</strong> a fost stearsa.
 section_head => Sectiunile site-ului
 section_longtitle => Titlul sectiunii

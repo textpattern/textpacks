@@ -888,6 +888,7 @@ search_sections =>
 section => بخش
 sections => بخش‌ها
 section_created => بخش <strong><a href="#section-{name}">{name}</a></strong> ساخته شد.
+section_delete_failure =>
 section_deleted => بخش <strong>{name}</strong> پاک شد.
 section_head => بخش‌های سایت
 section_longtitle => عنوان بخش
