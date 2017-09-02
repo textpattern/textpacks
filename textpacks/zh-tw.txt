@@ -387,6 +387,7 @@ no_comments_recorded => 目前沒有迴響
 search_comments =>
 show => 顯示
 show_spam =>
+unknown_spam_estimate =>
 #@file
 condition =>
 download => 下載

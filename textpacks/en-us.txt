@@ -387,6 +387,7 @@ no_comments_recorded => No comments recorded.
 search_comments => Search comments
 show => Show
 show_spam => Show spam
+unknown_spam_estimate => Unknown spam estimate
 #@file
 condition => Condition
 download => Download

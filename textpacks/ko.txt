@@ -387,6 +387,7 @@ no_comments_recorded => 댓글을 기록하지 않았습니다.
 search_comments =>
 show => 보여주기
 show_spam => 스팸 댓글 보여주기
+unknown_spam_estimate =>
 #@file
 condition => 조건
 download => 다운로드

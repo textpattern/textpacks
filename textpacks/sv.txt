@@ -387,6 +387,7 @@ no_comments_recorded => Inga kommentarer inlagda.
 search_comments => Sök kommentarer
 show => Visa
 show_spam => Visa spam
+unknown_spam_estimate =>
 #@file
 condition => Skick
 download => Ladda ned

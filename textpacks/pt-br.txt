@@ -387,6 +387,7 @@ no_comments_recorded => Nenhum comentário até agora.
 search_comments => Pesquisar comentários
 show => Mostrar
 show_spam => Mostrar spam
+unknown_spam_estimate =>
 #@file
 condition => Condição
 download => Download

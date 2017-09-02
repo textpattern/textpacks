@@ -387,6 +387,7 @@ no_comments_recorded => Keine Kommentare verfügbar.
 search_comments => Kommentare durchsuchen
 show => Zeige
 show_spam => Spam anzeigen
+unknown_spam_estimate =>
 #@file
 condition => Zustand
 download => Herunterladen

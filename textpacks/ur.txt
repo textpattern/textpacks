@@ -387,6 +387,7 @@ no_comments_recorded => کوئی تبصرہ دستیاب نہیں
 search_comments =>
 show => نمودار کریں
 show_spam => spam تبصرے نمائش کریں
+unknown_spam_estimate =>
 #@file
 condition => حالت
 download => ڈاؤن لوڈ کریں

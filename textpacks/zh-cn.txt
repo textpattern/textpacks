@@ -387,6 +387,7 @@ no_comments_recorded => 没有评论记录。
 search_comments => 搜索评论
 show => 显示
 show_spam => 显示垃圾信息
+unknown_spam_estimate =>
 #@file
 condition => 状况
 download => 下载

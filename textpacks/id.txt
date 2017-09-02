@@ -387,6 +387,7 @@ no_comments_recorded => Tidak ada komentar masuk
 search_comments =>
 show =>
 show_spam => Menampilkan Spam
+unknown_spam_estimate =>
 #@file
 condition => Kondisi
 download => Unduh

@@ -387,6 +387,7 @@ no_comments_recorded => Er zijn nog geen reacties.
 search_comments => Reactie doorzoeken
 show => Zichbaar maken
 show_spam => Spam tonen
+unknown_spam_estimate =>
 #@file
 condition => Conditie
 download => download

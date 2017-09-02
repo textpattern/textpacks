@@ -387,6 +387,7 @@ no_comments_recorded => ไม่มีการบันทึกความ�
 search_comments =>
 show => แสดง
 show_spam =>
+unknown_spam_estimate =>
 #@file
 condition =>
 download => ดาวน์โหลด

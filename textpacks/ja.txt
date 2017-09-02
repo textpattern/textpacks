@@ -387,6 +387,7 @@ no_comments_recorded => コメントはありません
 search_comments =>
 show => 表示
 show_spam => Spamの表示
+unknown_spam_estimate =>
 #@file
 condition => 状態
 download => ダウンロード

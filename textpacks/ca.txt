@@ -387,6 +387,7 @@ no_comments_recorded => Encara no s’ha registrar cap comentari.
 search_comments => Cerca comentaris
 show => Mostra
 show_spam => Mostra spam
+unknown_spam_estimate =>
 #@file
 condition => Estat
 download => descarrega

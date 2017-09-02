@@ -387,6 +387,7 @@ no_comments_recorded => Nessun commento registrato.
 search_comments => Cerca commenti
 show => Mostra
 show_spam => Mostra spam
+unknown_spam_estimate =>
 #@file
 condition => Condizione
 download => Scarica

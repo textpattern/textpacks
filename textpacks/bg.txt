@@ -387,6 +387,7 @@ no_comments_recorded => Няма коментари до сега.
 search_comments =>
 show => Покажи
 show_spam => Покажи спам
+unknown_spam_estimate =>
 #@file
 condition => Състояние
 download => свали

@@ -387,6 +387,7 @@ no_comments_recorded => Nema zabilježenih komentara.
 search_comments =>
 show => Prikaži
 show_spam => Prikaži spam
+unknown_spam_estimate =>
 #@file
 condition => Stanje
 download => Download

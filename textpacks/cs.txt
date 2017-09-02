@@ -387,6 +387,7 @@ no_comments_recorded => K tomuto článku zatím nejsou žádné komentáře.
 search_comments => Hledat komentáře
 show => Zobrazit
 show_spam => Zobrazit spam
+unknown_spam_estimate =>
 #@file
 condition => Stav
 download => Stáhnout

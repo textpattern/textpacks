@@ -387,6 +387,7 @@ no_comments_recorded => Δεν έχουν ακόμα καταγραφεί σχό
 search_comments => Αναζήτηση σχολίων
 show => Προβολή
 show_spam => Εμφάνιση spam
+unknown_spam_estimate =>
 #@file
 condition => Προϋπόθεση
 download => μεταφόρτωση

@@ -387,6 +387,7 @@ no_comments_recorded => هیچ نظری ثبت نشده است
 search_comments =>
 show => نمایش
 show_spam => نمایش اسپم
+unknown_spam_estimate =>
 #@file
 condition => شرایط
 download => دانلود

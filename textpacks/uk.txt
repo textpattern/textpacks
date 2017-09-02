@@ -387,6 +387,7 @@ no_comments_recorded => Коментарів немає.
 search_comments => Пошук коментарів
 show => Показати
 show_spam => Показати спам
+unknown_spam_estimate =>
 #@file
 condition => Стан
 download => Завантажити

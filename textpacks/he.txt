@@ -387,6 +387,7 @@ no_comments_recorded => עדיין לא נרשמה שום תגובה.
 search_comments =>
 show => הצג
 show_spam => הצג ספאם
+unknown_spam_estimate =>
 #@file
 condition => תנאי
 download => הורד

@@ -387,6 +387,7 @@ no_comments_recorded => Ei tallennettuja kommentteja.
 search_comments => Hae kommentteja
 show => Näytä
 show_spam => Näytä roskaposti
+unknown_spam_estimate =>
 #@file
 condition => Ehto
 download => Lataa

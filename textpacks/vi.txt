@@ -387,6 +387,7 @@ no_comments_recorded => Không có bình chú nào.
 search_comments =>
 show => Hiện
 show_spam => Hiển thị spam
+unknown_spam_estimate =>
 #@file
 condition => Điều kiện
 download => Tải về

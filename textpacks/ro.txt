@@ -387,6 +387,7 @@ no_comments_recorded => Nu s-a primit nici un comentariu.
 search_comments =>
 show => Arata
 show_spam => Arata spam
+unknown_spam_estimate =>
 #@file
 condition => Conditie
 download => Downloadeaza

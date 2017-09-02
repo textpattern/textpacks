@@ -387,6 +387,7 @@ no_comments_recorded => Nav neviena komentāra.
 search_comments => Meklēt komentārus
 show => Rādīt
 show_spam => Rādīt spama komentārus
+unknown_spam_estimate =>
 #@file
 condition => Stāvoklis
 download => Lejuplādēt

@@ -387,6 +387,7 @@ no_comments_recorded => Kommentaare ei ole veel.
 search_comments =>
 show =>
 show_spam =>
+unknown_spam_estimate =>
 #@file
 condition =>
 download => Lae alla
