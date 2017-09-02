@@ -873,7 +873,7 @@ week => týždni
 weeks => týždňoch
 while_parsing_page_form => pri spracovaní formy <strong>{form}</strong> na stránke <strong>{page}</strong>
 yes => Áno
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => Vaša IP adresa je na zozname
 yyyy-mm => rrrr-mm
 #@section
 article_count => Počet článkov v tejto rubrike: {num}.

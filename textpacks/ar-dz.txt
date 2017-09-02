@@ -873,7 +873,7 @@ week => أسبوع
 weeks => أسابيع
 while_parsing_page_form =>
 yes => نعم
-your_ip_is_blacklisted_by =>
+your_ip_is_blacklisted_by => تم إلغاؤكم من طرف
 yyyy-mm => aaaa-mm
 #@section
 article_count =>
