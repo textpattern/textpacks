@@ -225,6 +225,7 @@ published_with => Publicat amb
 publish_date => Data de publicació
 publish_time => Hora de publicació
 range => Camp
+reset => reinicia
 restricted_area => àrea restringida
 salutation => Estimat {name},
 save_new => Desa nou
@@ -417,7 +418,6 @@ permissions => Permisos
 private => Privat
 public => Públic
 replace_file => Substitueix el fitxer
-reset => reinicia
 reset_download_count => Retorna a zero el comptador de descàrregues
 search_files => Cerca fitxers
 #@form

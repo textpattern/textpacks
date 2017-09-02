@@ -225,6 +225,7 @@ published_with => Publicerad med
 publish_date => Publiceringdatum
 publish_time => Publiceringtid
 range => Intervall
+reset => Nollställ
 restricted_area => Avskilt område
 salutation => Kära {name},
 save_new => Spara ny
@@ -417,7 +418,6 @@ permissions => Rättigheter
 private => Privat
 public => Publik
 replace_file => Ersätt fil
-reset => Nollställ
 reset_download_count => Nollställ nedladdningsräknare
 search_files => Sök filer
 #@form

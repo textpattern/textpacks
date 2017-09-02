@@ -225,6 +225,7 @@ published_with => Publicat la
 publish_date =>
 publish_time =>
 range => Serie
+reset => reseteaza
 restricted_area => Domeniu restrictionat.
 salutation =>
 save_new => Salveaza nou
@@ -417,7 +418,6 @@ permissions => Permisiuni
 private => Privat
 public => Public
 replace_file => Inlocuieste fisierul
-reset => reseteaza
 reset_download_count => Reseteaza numarul descarcarilor
 search_files =>
 #@form

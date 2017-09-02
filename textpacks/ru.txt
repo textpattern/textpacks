@@ -225,6 +225,7 @@ published_with => Опубликовано с
 publish_date => Дата публикации
 publish_time => Время публикации
 range => Группа
+reset => сбросить
 restricted_area => Ограниченный доступ.
 salutation => Уважаемый {name},
 save_new => Сохранить как новую
@@ -417,7 +418,6 @@ permissions => Разрешения
 private => Личный
 public => Публичный
 replace_file => Заменить файл
-reset => сбросить
 reset_download_count => Сбросить счетчик загрузок
 search_files => Поиск файлов
 #@form

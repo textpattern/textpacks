@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => تعيين
+reset => العودة إلى الأصل
 restricted_area => منطقة محظورة
 salutation =>
 save_new => تسجيل الجديد
@@ -417,7 +418,6 @@ permissions => ترخيصات
 private => خاص
 public => عام
 replace_file => استبدال ملف
-reset => العودة إلى الأصل
 reset_download_count =>
 search_files =>
 #@form

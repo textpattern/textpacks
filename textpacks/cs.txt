@@ -225,6 +225,7 @@ published_with => Vydáno pomocí
 publish_date => Datum vydání
 publish_time => Čas vydání
 range => Rozsah
+reset => vynulovat
 restricted_area => Chráněná oblast
 salutation => Vážený {name},
 save_new => Uložit nový
@@ -417,7 +418,6 @@ permissions => Práva
 private => Soukromé
 public => Veřejné
 replace_file => Nahradit soubor
-reset => vynulovat
 reset_download_count => Vynulovat počet stažení
 search_files => Hledat soubory
 #@form

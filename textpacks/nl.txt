@@ -225,6 +225,7 @@ published_with => Gepubliceerd met
 publish_date => Publicatiedatum
 publish_time => Publicatietijd
 range => Van… tot…
+reset => reset
 restricted_area => Afgesloten gedeelte.
 salutation => Beste {name},
 save_new => Opslaan
@@ -417,7 +418,6 @@ permissions => Rechten
 private => Privé
 public => Publiek
 replace_file => Bestand vervangen
-reset => reset
 reset_download_count => Reset aantal downloads
 search_files => Bestanden doorzoeken
 #@form

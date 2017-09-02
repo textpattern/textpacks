@@ -225,6 +225,7 @@ published_with => Published with
 publish_date => Publish date
 publish_time => Publish time
 range => Range
+reset => Reset
 restricted_area => Restricted area.
 salutation => Dear {name},
 save_new => Save new
@@ -417,7 +418,6 @@ permissions => Permissions
 private => Private
 public => Public
 replace_file => Replace file
-reset => Reset
 reset_download_count => Reset download count
 search_files => Search files
 #@form

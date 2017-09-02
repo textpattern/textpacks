@@ -225,6 +225,7 @@ published_with => Publicado con
 publish_date =>
 publish_time =>
 range => Rango
+reset => reset
 restricted_area => Area restrinxida
 salutation =>
 save_new => Gardar novo
@@ -417,7 +418,6 @@ permissions => Permisos
 private => Privado
 public => Público
 replace_file => Remplazar arquivo
-reset => reset
 reset_download_count => Resetear o contador de descargas
 search_files =>
 #@form

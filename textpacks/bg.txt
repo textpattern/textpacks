@@ -225,6 +225,7 @@ published_with => Публикувано с
 publish_date =>
 publish_time =>
 range => Обхват
+reset => занули
 restricted_area => Ограничен достъп
 salutation =>
 save_new => Запази нов
@@ -417,7 +418,6 @@ permissions => Права за достъп
 private => Личен
 public => Публичен
 replace_file => Замени файла
-reset => занули
 reset_download_count => Занули броя на свалянията
 search_files =>
 #@form

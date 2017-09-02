@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => Распон
+reset => reset
 restricted_area => Ograničena zona.
 salutation =>
 save_new => Сними ново
@@ -417,7 +418,6 @@ permissions => Дозволе
 private => Приватно
 public => Јавно
 replace_file => Замени фајл
-reset => reset
 reset_download_count =>
 search_files =>
 #@form

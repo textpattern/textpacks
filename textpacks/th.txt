@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => ช่วง
+reset => ตั้งค่าใหม่
 restricted_area => พื้นที่หวงห้าม
 salutation =>
 save_new => บันทึกใหม่
@@ -417,7 +418,6 @@ permissions => การอนุญาต
 private => ส่วนตัว
 public => สาธารณะ
 replace_file => แทนไฟล์
-reset => ตั้งค่าใหม่
 reset_download_count =>
 search_files =>
 #@form

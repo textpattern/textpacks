@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => 範圍
+reset => 重新設定
 restricted_area => 限制區域
 salutation =>
 save_new => 儲存新文章
@@ -417,7 +418,6 @@ permissions => 權限
 private => 私人
 public => 公開
 replace_file =>
-reset => 重新設定
 reset_download_count =>
 search_files =>
 #@form

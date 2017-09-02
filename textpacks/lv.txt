@@ -225,6 +225,7 @@ published_with => Publicēts ar
 publish_date => Publicēšanas datums
 publish_time => Publicēšanas laiks
 range => Virkne
+reset => atiestatīt
 restricted_area => Ierobežotas pieejas lapa.
 salutation => Cienījamais {name},
 save_new => Saglabāt
@@ -417,7 +418,6 @@ permissions => Tiesības
 private => Privāts
 public => Publisks
 replace_file => Aizvietot failu
-reset => atiestatīt
 reset_download_count => Atiestatīt lejupielāžu skaitu
 search_files => Meklēt failus
 #@form

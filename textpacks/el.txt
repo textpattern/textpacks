@@ -225,6 +225,7 @@ published_with => Δημοσιεύθηκε με
 publish_date => Ημερομηνία δημοσίευσης
 publish_time => Ώρα δημοσίευσης
 range => Φάσμα
+reset => Επαναφορά
 restricted_area => Περιορισμένη περιοχή.
 salutation => Αγαπητέ/ή {name},
 save_new => Αποθήκευση νέου
@@ -417,7 +418,6 @@ permissions => Δικαιώματα πρόσβασης
 private => Ιδιωτικό
 public => Δημόσιο
 replace_file => Αντικατάσταση αρχείου
-reset => Επαναφορά
 reset_download_count => Μηδενισμός καταμέτρησης μεταφορτώσεων
 search_files => Αναζήτηση αρχείων
 #@form

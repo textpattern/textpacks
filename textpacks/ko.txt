@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => 범위
+reset => 초기화
 restricted_area => 제한 구역
 salutation =>
 save_new => 새로 저장
@@ -417,7 +418,6 @@ permissions => 권한
 private => 비밀
 public => 공개
 replace_file => 파일 교체하기
-reset => 초기화
 reset_download_count =>
 search_files =>
 #@form

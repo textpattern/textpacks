@@ -225,6 +225,7 @@ published_with => Objavljeno uz pomoć
 publish_date => Datum objave
 publish_time => Vreme objave
 range => Raspon
+reset => resetovati
 restricted_area => Ograničena zona
 salutation => Dragi {name},
 save_new => Snimi Novo
@@ -417,7 +418,6 @@ permissions => Dozvole
 private => Privatno
 public => Javno
 replace_file => Zameni fajl
-reset => resetovati
 reset_download_count =>
 search_files =>
 #@form

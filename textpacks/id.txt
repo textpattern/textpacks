@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => Jangkauan
+reset => tata ulang
 restricted_area => Area Terbatas
 salutation =>
 save_new => Simpan Baru
@@ -417,7 +418,6 @@ permissions => Perizinan
 private => Pribadi
 public => Publik
 replace_file => Timpa berkas
-reset => tata ulang
 reset_download_count =>
 search_files =>
 #@form

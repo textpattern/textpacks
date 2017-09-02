@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range =>
+reset =>
 restricted_area =>
 salutation =>
 save_new =>
@@ -417,7 +418,6 @@ permissions =>
 private =>
 public =>
 replace_file =>
-reset =>
 reset_download_count =>
 search_files =>
 #@form

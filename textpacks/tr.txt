@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => Range
+reset => sıfırla
 restricted_area => Kısıtlı bölüm
 salutation =>
 save_new => Save New
@@ -417,7 +418,6 @@ permissions => İzinler
 private => Gizli
 public => Genel
 replace_file => Dosyayı değiştir
-reset => sıfırla
 reset_download_count =>
 search_files =>
 #@form

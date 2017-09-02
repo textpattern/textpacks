@@ -225,6 +225,7 @@ published_with => Xuất bản bằng
 publish_date =>
 publish_time =>
 range => Vùng
+reset => đặt lại
 restricted_area => Khu vực giới hạn.
 salutation =>
 save_new => Lưu thành bản mới
@@ -417,7 +418,6 @@ permissions => Quyền hạn
 private => Riêng
 public => Công
 replace_file => Thay thế tập tin
-reset => đặt lại
 reset_download_count => Đặt lại số lượt tải về
 search_files =>
 #@form

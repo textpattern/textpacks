@@ -225,6 +225,7 @@ published_with => Publisert med
 publish_date => Publiser dag
 publish_time => Publiser tid
 range => Område
+reset => reset
 restricted_area => Område med begrenset tilgang
 salutation =>
 save_new => Lagre ny
@@ -417,7 +418,6 @@ permissions => Tillatelser
 private => Privat
 public => Offentlig
 replace_file => Erstatte filen
-reset => reset
 reset_download_count => Nullnedlastingsteller
 search_files =>
 #@form

@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => Tartomány
+reset => újraindítás
 restricted_area => Restricted area
 salutation =>
 save_new => Mentés újként
@@ -417,7 +418,6 @@ permissions => Hozzáférések
 private => Privát
 public => Publikus
 replace_file => Állomány cseréje
-reset => újraindítás
 reset_download_count =>
 search_files =>
 #@form

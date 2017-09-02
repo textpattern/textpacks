@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => وسعت
+reset => پھر سیٹ کریں
 restricted_area => ممنوع حصّہ
 salutation =>
 save_new => محفوظ کریں بطور
@@ -417,7 +418,6 @@ permissions => اجازتیں
 private => نجی
 public => ظاہر
 replace_file => فائل بدل دیں
-reset => پھر سیٹ کریں
 reset_download_count =>
 search_files =>
 #@form

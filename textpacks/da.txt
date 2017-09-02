@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => Række
+reset => nulstil
 restricted_area => Begrænset område
 salutation =>
 save_new => Gem ny
@@ -417,7 +418,6 @@ permissions => Rettigheder
 private => Privat
 public => Offentlig
 replace_file => Erstat fil
-reset => nulstil
 reset_download_count =>
 search_files =>
 #@form

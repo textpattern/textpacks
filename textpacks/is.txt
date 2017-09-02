@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => Mark
+reset => endursetja
 restricted_area => Aðgangur bannaður.
 salutation =>
 save_new => Geyma nýtt
@@ -417,7 +418,6 @@ permissions => Leyfi
 private => Einka
 public => Almennt
 replace_file =>
-reset => endursetja
 reset_download_count =>
 search_files =>
 #@form

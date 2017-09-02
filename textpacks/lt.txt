@@ -225,6 +225,7 @@ published_with => Publikuota su
 publish_date =>
 publish_time =>
 range => Ribos
+reset => atkurti
 restricted_area => Ribotoji zona
 salutation =>
 save_new => Išsaugoti naują
@@ -417,7 +418,6 @@ permissions => Leidimai
 private => Privatus
 public => Viešas
 replace_file => Pakeisti rinkmeną
-reset => atkurti
 reset_download_count => Išvalyti atsiuntimų skaičių
 search_files =>
 #@form

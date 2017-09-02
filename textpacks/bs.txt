@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => Opseg
+reset => poništi
 restricted_area => Područje ograničenog pristupa
 salutation =>
 save_new => Snimi novi
@@ -417,7 +418,6 @@ permissions => Dozvole
 private => Privatni
 public => Javni
 replace_file => Zamijeni datoteku
-reset => poništi
 reset_download_count =>
 search_files =>
 #@form

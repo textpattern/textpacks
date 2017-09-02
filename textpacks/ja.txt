@@ -225,6 +225,7 @@ published_with => 共著
 publish_date =>
 publish_time =>
 range => 範囲
+reset => リセット
 restricted_area => アクセス制限エリア
 salutation =>
 save_new => 新規保存
@@ -417,7 +418,6 @@ permissions => 属性
 private => プライベート
 public => パブリック
 replace_file => ファイルの置き換える
-reset => リセット
 reset_download_count => ダウンロード数をリセット
 search_files =>
 #@form

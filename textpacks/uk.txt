@@ -225,6 +225,7 @@ published_with => Публікується з
 publish_date => Дата публікації
 publish_time => Час публікації
 range => група
+reset => скинути
 restricted_area => Обмежений доступ
 salutation => Шановний {name},
 save_new => Зберегти
@@ -417,7 +418,6 @@ permissions => Дозволи
 private => Особистий
 public => Публічний
 replace_file => Замінити файл
-reset => скинути
 reset_download_count => Скинути лічильник завантажень
 search_files => Пошук файлів
 #@form

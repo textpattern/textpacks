@@ -225,6 +225,7 @@ published_with => פורסן עם
 publish_date =>
 publish_time =>
 range => טווח
+reset => אפס
 restricted_area => איזור שמור
 salutation =>
 save_new => שמור כחדש
@@ -417,7 +418,6 @@ permissions => הרשאות
 private => פרטי
 public => ציבורי
 replace_file => החלף קובץ
-reset => אפס
 reset_download_count => אפס את מונה ההורדות
 search_files =>
 #@form

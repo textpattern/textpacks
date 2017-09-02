@@ -225,6 +225,7 @@ published_with => انتشار یافته توسط
 publish_date =>
 publish_time =>
 range => محدوده
+reset => بازنشانی
 restricted_area => منطقه ممنوعه
 salutation =>
 save_new => ایجاد
@@ -417,7 +418,6 @@ permissions => اجازه‌ها
 private => خصوصی
 public => عمومی
 replace_file => جایگیزینی فایل
-reset => بازنشانی
 reset_download_count => بازنشانی شمارنده‌ی دانود
 search_files =>
 #@form

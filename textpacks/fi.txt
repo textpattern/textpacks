@@ -225,6 +225,7 @@ published_with => Julkaistu käyttäen
 publish_date => Julkaisupäivämäärä
 publish_time => Julkaisuhetki
 range => Rajaus
+reset => Nollaa
 restricted_area => Pääsy estetty.
 salutation => Hyvä {name},
 save_new => Tallenna uutena
@@ -417,7 +418,6 @@ permissions => Oikeudet
 private => Yksityinen
 public => Yleinen
 replace_file => Korvaa tiedosto
-reset => Nollaa
 reset_download_count => Nollaa latauslaskuri
 search_files => Hae tiedostoja
 #@form

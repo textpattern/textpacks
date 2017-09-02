@@ -225,6 +225,7 @@ published_with =>
 publish_date =>
 publish_time =>
 range => Vahemik
+reset => algseisu
 restricted_area => Piiratud ala.
 salutation =>
 save_new => Salvesta uus
@@ -417,7 +418,6 @@ permissions => Õigused
 private => Isiklik
 public => Avalik
 replace_file =>
-reset => algseisu
 reset_download_count =>
 search_files =>
 #@form

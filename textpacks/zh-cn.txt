@@ -225,6 +225,7 @@ published_with => 发布于
 publish_date => 发布日期
 publish_time => 发布时间
 range => 范围
+reset => 重置
 restricted_area => 受限区域
 salutation => 亲爱的 {name} ，
 save_new => 保存新文章
@@ -417,7 +418,6 @@ permissions => 权限
 private => 私有
 public => 公开
 replace_file => 替换文件
-reset => 重置
 reset_download_count => 重置密码次数
 search_files => 搜索文件
 #@form
