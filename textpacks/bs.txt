@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Readkcijski pisac
+token_expired =>
 unknown_author => Nepoznat autor: <strong>{name}</strong>
 your_login_info => Vaše informacije o prijavi
 your_login_is => Vaša prijava je

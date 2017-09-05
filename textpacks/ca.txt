@@ -65,6 +65,7 @@ sending_failed =>
 set_password => Estableix la teva contrasenya
 show_password => Mostra la contrasenya
 staff_writer => Redactor en plantilla
+token_expired =>
 unknown_author => Autor desconegut: <strong>{name}</strong>.
 your_login_info => La teva informació d’accés
 your_login_is => El teu nom d’usuari és

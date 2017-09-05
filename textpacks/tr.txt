@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Yardımcı yazar
+token_expired =>
 unknown_author =>
 your_login_info => Giriş bilgileriniz
 your_login_is => Your login is

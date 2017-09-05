@@ -65,6 +65,7 @@ sending_failed =>
 set_password => Créez votre mot de passe
 show_password => Afficher le mot de passe
 staff_writer => Rédacteur avancé
+token_expired =>
 unknown_author => Auteur <strong>{name}</strong> inconnu.
 your_login_info => Vos informations de connexion
 your_login_is => Votre nom de connexion (login) est

@@ -65,6 +65,7 @@ sending_failed =>
 set_password => Установите свой пароль
 show_password => Показать пароль
 staff_writer => Штатный писатель
+token_expired =>
 unknown_author => Неизвестный автор: <strong>{name}</strong>.
 your_login_info => Ваша регистрационная информация
 your_login_is => Ваш логин

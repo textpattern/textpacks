@@ -65,6 +65,7 @@ sending_failed =>
 set_password => Ustaw swoje hasło
 show_password => Pokaż hasło
 staff_writer => Redaktor
+token_expired =>
 unknown_author => Nieznany autor: <strong>{name}</strong>.
 your_login_info => Informacja o Twoim koncie
 your_login_is => Twoja nazwa użytkownika:

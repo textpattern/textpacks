@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Fast skribent
+token_expired =>
 unknown_author => Ukendt forfatter: <strong>{name}</strong>.
 your_login_info => Dine logind info
 your_login_is => Dit brugernavn er

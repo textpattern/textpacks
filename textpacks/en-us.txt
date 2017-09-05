@@ -65,6 +65,7 @@ sending_failed => The message failed to send.
 set_password => Set your password
 show_password => Show password
 staff_writer => Staff Writer
+token_expired => Password reset security token has expired.
 unknown_author => Unknown author: <strong>{name}</strong>.
 your_login_info => Your login info
 your_login_is => Your login is

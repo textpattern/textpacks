@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Asjade kirjutaja
+token_expired =>
 unknown_author =>
 your_login_info => Sinu login info
 your_login_is => Sinu login on

@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Etatinis rašytojas
+token_expired =>
 unknown_author => Nežinomas autorius: <strong>{name}</strong>.
 your_login_info => Jūsų prisijungimo informacija
 your_login_is => Jūsų prisijungimo vardas yra

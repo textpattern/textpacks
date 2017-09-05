@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Щатен писател
+token_expired =>
 unknown_author => Неизвестен автор: <strong>{name}</strong>
 your_login_info => Вашата потребителска информация
 your_login_is => Вашето потребителско име е

@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => عضو تحریریه
+token_expired =>
 unknown_author => نویسنده ناشناس : <strong>{name}</strong>
 your_login_info => اطلاعات ورود شما
 your_login_is => مشخصات ورود شما

@@ -65,6 +65,7 @@ sending_failed =>
 set_password => Passwort anlegen
 show_password => Passwort zeigen
 staff_writer => Autor
+token_expired =>
 unknown_author => Unbekannter Autor: <strong>{name}</strong>.
 your_login_info => Ihre Anmeldeinformationen
 your_login_is => Ihr Benutzername lautet

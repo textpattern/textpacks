@@ -65,6 +65,7 @@ sending_failed =>
 set_password => Nastavenie hesla
 show_password => Zobraziť heslo
 staff_writer => Redakčný autor
+token_expired =>
 unknown_author => Neznámy autor: <strong>{name}</strong>.
 your_login_info => Prihlasovacie údaje
 your_login_is => Meno užívateľa je

@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Redakcijski Pisac
+token_expired =>
 unknown_author =>
 your_login_info => Vaš login info
 your_login_is => Vaša prijava je

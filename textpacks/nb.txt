@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Stabsskribent
+token_expired =>
 unknown_author => Ukjent forfatter: <strong>{name}</strong>.
 your_login_info => Din login info
 your_login_is => Ditt login er

@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => צוות הכותבים
+token_expired =>
 unknown_author => כותב לא ידוע: <strong>{name}</strong>.
 your_login_info => מידע ההתחברות שלך
 your_login_is => שם המשתמש שלך הוא

@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Staf penulis
+token_expired =>
 unknown_author => Penulis tak dikenal: <strong>{name}</strong>.
 your_login_info => Informasi login Anda
 your_login_is => Login Anda adalah

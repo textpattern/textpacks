@@ -65,6 +65,7 @@ sending_failed =>
 set_password => Iestatīt paroli
 show_password => Rādīt paroli
 staff_writer => Štata rakstnieks
+token_expired =>
 unknown_author => Nezināms autors: <strong>{name}</strong>.
 your_login_info => Jūsu pieejas dati
 your_login_is => Jūsu lietotāja vārds ir

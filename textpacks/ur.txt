@@ -65,6 +65,7 @@ sending_failed =>
 set_password =>
 show_password =>
 staff_writer => اندرونی مصنف
+token_expired =>
 unknown_author => نامعلوم مصنف: <strong>{name}</strong>
 your_login_info => آپ کے لاگ ان معلومات
 your_login_is => آپ کا لاگ ان نام

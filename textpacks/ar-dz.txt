@@ -65,6 +65,7 @@ sending_failed =>
 set_password => تعيين كلمة السر
 show_password => إظهار كلمة السر
 staff_writer => محرر متقدم
+token_expired =>
 unknown_author => مؤلف مجهول :{name}
 your_login_info => معلوماتكم الخاصة بالاتصال
 your_login_is => اسم الاتصال الخاص بكم هو
