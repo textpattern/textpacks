@@ -209,7 +209,7 @@ hidden => Hidden
 id => ID#
 image_category => Category
 internal_error => Internal error
-invalid_argument => => Invalid argument
+invalid_argument => Invalid argument
 last_modified => Last modified
 links => Links
 link_category => Category
