@@ -61,6 +61,7 @@ resend_activation => Znova poslať aktivačný odkaz
 resend_activation_request_sent => Aktivačná správa odoslaná užívateľovi {name}.
 resetpassword => Poslať nové heslo
 search_users => Hľadať užívateľa
+sending_failed =>
 set_password => Nastavenie hesla
 show_password => Zobraziť heslo
 staff_writer => Redakčný autor

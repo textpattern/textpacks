@@ -61,6 +61,7 @@ resend_activation => إعادة إرسال رابط التنشيط
 resend_activation_request_sent =>
 resetpassword => إعادة تعيين كلمة السر
 search_users => البحث عن المستخدمين
+sending_failed =>
 set_password => تعيين كلمة السر
 show_password => إظهار كلمة السر
 staff_writer => محرر متقدم

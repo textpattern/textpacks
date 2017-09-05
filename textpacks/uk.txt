@@ -61,6 +61,7 @@ resend_activation => Повторно відправити посилання а
 resend_activation_request_sent => Лист активації для {name} надіслано.
 resetpassword => Скинути пароль
 search_users => Пошук користувачів
+sending_failed =>
 set_password => Встановіть свій пароль
 show_password => Показати пароль
 staff_writer => Штатний дописувач

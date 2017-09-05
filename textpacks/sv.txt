@@ -61,6 +61,7 @@ resend_activation => Skicka aktiveringslänken igen
 resend_activation_request_sent => Aktiveringsmeddelande har skickas till {name}.
 resetpassword => Återställ lösenord
 search_users => Sök användare
+sending_failed =>
 set_password => Ange ditt lösenord
 show_password => Visa lösenord
 staff_writer => Redaktionsmedarbetare

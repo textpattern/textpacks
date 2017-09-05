@@ -61,6 +61,7 @@ resend_activation => Wyślij ponownie link aktywacyjny
 resend_activation_request_sent => Wiadomość aktywacyjna wysyłana do {name}.
 resetpassword => Przywróć domyślne hasło
 search_users => Szukaj użytkowników
+sending_failed =>
 set_password => Ustaw swoje hasło
 show_password => Pokaż hasło
 staff_writer => Redaktor

@@ -61,6 +61,7 @@ resend_activation => Resend activation link
 resend_activation_request_sent => Activation message sent to {name}.
 resetpassword => Reset password
 search_users => Search users
+sending_failed => The message failed to send.
 set_password => Set your password
 show_password => Show password
 staff_writer => Staff Writer

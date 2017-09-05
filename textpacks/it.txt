@@ -61,6 +61,7 @@ resend_activation => Invia di nuovo link di attivazione
 resend_activation_request_sent => Messaggio di attivazione inviato a {name}.
 resetpassword => Reimposta password
 search_users => Cerca utenti
+sending_failed =>
 set_password => Imposta la password
 show_password => Mostra la password
 staff_writer => Editorialista

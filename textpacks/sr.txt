@@ -61,6 +61,7 @@ resend_activation => Ponovo pošalji link za aktivaciju
 resend_activation_request_sent => Aktivaciona poruka poslata na ime: {name}.
 resetpassword => Resetuj lozinku
 search_users => Pretraži korisnike
+sending_failed =>
 set_password => Podesi lozinku
 show_password => Prikaži lozinku
 staff_writer =>

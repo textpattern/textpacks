@@ -61,6 +61,7 @@ resend_activation => Νέα αποστολή της σύνδεσης ενεργ�
 resend_activation_request_sent => Το μήνυμα ενεργοποίησης στάλθηκε στον/στην {name}.
 resetpassword => Ανανέωση κωδικού πρόσβασης
 search_users => Αναζήτηση χρηστών
+sending_failed =>
 set_password => Ορίστε τον κωδικό πρόσβασης
 show_password => Εμφάνιση κωδικού
 staff_writer => Μόνιμος συντάκτης

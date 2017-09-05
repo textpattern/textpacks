@@ -61,6 +61,7 @@ resend_activation => 重新激活链接
 resend_activation_request_sent => 激活信息发送给 {name} 。
 resetpassword => 重置密码
 search_users => 搜索用户
+sending_failed =>
 set_password => 设置您的密码
 show_password => 显示密码
 staff_writer => 撰稿人

@@ -61,6 +61,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => Tilbakestilling av passord
 search_users => Søk brukere
+sending_failed =>
 set_password =>
 show_password =>
 staff_writer => Stabsskribent

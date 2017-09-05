@@ -61,6 +61,7 @@ resend_activation => Lähetä aktivointilinkki uudelleen
 resend_activation_request_sent => Aktivointiviesti lähetettiin käyttäjälle {name}.
 resetpassword => Nollaa salasana
 search_users => Etsi käyttäjiä
+sending_failed =>
 set_password => Aseta salasanasi
 show_password => Näytä salasana
 staff_writer => Rivitoimittaja

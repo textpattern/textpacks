@@ -61,6 +61,7 @@ resend_activation => Atkārtoti nosūtīt aktivizācijas saiti
 resend_activation_request_sent => Aktivizēšanas ziņojums nosūtīts {name}.
 resetpassword => Atiestatīt paroli
 search_users => Meklēt lietotājus
+sending_failed =>
 set_password => Iestatīt paroli
 show_password => Rādīt paroli
 staff_writer => Štata rakstnieks

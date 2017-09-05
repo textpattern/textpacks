@@ -61,6 +61,7 @@ resend_activation =>
 resend_activation_request_sent =>
 resetpassword => ตั้งรหัสผ่านใหม่
 search_users =>
+sending_failed =>
 set_password =>
 show_password =>
 staff_writer => นักเขียนสต๊าฟ

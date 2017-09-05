@@ -61,6 +61,7 @@ resend_activation => Envoyer à nouveau le lien d’activation
 resend_activation_request_sent => Message d’activation transmis à {name}.
 resetpassword => Réinitialiser le mot de passe
 search_users => Recherche d’utilisateurs
+sending_failed =>
 set_password => Créez votre mot de passe
 show_password => Afficher le mot de passe
 staff_writer => Rédacteur avancé

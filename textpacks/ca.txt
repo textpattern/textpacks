@@ -61,6 +61,7 @@ resend_activation => Torna a enviar l’enllaç d’activació
 resend_activation_request_sent => Missatge d’activació enviat a {name}.
 resetpassword => Restableix contrasenya
 search_users => Cerca usuaris
+sending_failed =>
 set_password => Estableix la teva contrasenya
 show_password => Mostra la contrasenya
 staff_writer => Redactor en plantilla
