@@ -209,6 +209,7 @@ hidden => Skjult
 id => ID#
 image_category => Kategori
 internal_error =>
+invalid_argument =>
 last_modified =>
 links => Links
 link_category => Link kategori

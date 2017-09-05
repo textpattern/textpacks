@@ -209,6 +209,7 @@ hidden => Skjult
 id => ID#
 image_category => Kategori
 internal_error => Intern feil
+invalid_argument =>
 last_modified => Tidligere modifisert
 links => Lenker
 link_category => Lenkekategori

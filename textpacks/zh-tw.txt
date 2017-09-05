@@ -209,6 +209,7 @@ hidden => 非公開
 id => ID#
 image_category => 分類
 internal_error =>
+invalid_argument =>
 last_modified =>
 links => 鏈結
 link_category => 鏈結分類

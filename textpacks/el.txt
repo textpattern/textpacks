@@ -209,6 +209,7 @@ hidden => Κρυφό
 id => ΑΑ#
 image_category => Κατηγορία
 internal_error => Εσωτερικό σφάλμα
+invalid_argument =>
 last_modified => Τελευταία τροποποίηση
 links => Συνδέσεις
 link_category => Κατηγορία συνδέσεων

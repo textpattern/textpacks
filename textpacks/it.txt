@@ -209,6 +209,7 @@ hidden => Nascosto
 id => ID#
 image_category => Categoria
 internal_error => Errore interno
+invalid_argument =>
 last_modified => Ultima modifica
 links => Link
 link_category => Categoria link

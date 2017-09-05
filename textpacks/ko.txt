@@ -209,6 +209,7 @@ hidden => 숨김
 id => ID#
 image_category => 분류
 internal_error =>
+invalid_argument =>
 last_modified =>
 links => 링크
 link_category => 분류

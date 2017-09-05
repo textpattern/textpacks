@@ -209,6 +209,7 @@ hidden => Slēpts
 id => ID#
 image_category => Bilžu kategorija
 internal_error => Iekšēja kļūda
+invalid_argument =>
 last_modified => Pēdējoreiz mainīts
 links => Saites
 link_category => Saišu kategorija

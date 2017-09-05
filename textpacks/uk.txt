@@ -209,6 +209,7 @@ hidden => Прихована
 id => ID#
 image_category => Категорія
 internal_error => Внутрішня помилка
+invalid_argument =>
 last_modified => Остання зміна
 links => Посилання
 link_category => Категорія посилання

@@ -209,6 +209,7 @@ hidden => 隐藏
 id => ID 号
 image_category => 分类
 internal_error => 内部错误
+invalid_argument =>
 last_modified => 最后的修改
 links => 链接
 link_category => 链接分类

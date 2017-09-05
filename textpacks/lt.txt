@@ -209,6 +209,7 @@ hidden => Nerodomas
 id => ID#
 image_category => Kategorija
 internal_error => Vidinė klaida
+invalid_argument =>
 last_modified => Paskutinių keitimų data
 links => Nuorodos
 link_category => Kategorija

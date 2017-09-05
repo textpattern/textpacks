@@ -209,6 +209,7 @@ hidden => Verborgen
 id => ID#
 image_category => Categorie
 internal_error => Interne fout
+invalid_argument =>
 last_modified => Voor het laatst gewijzigd
 links => Links
 link_category => Linkcategorie

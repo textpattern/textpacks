@@ -209,6 +209,7 @@ hidden => Skrytý
 id => ID#
 image_category => Kategorie obrázku
 internal_error => Vnitřní chyba
+invalid_argument =>
 last_modified => Naposledy upraveno
 links => Odkazy
 link_category => Kategorie odkazu

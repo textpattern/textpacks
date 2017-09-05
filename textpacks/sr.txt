@@ -209,6 +209,7 @@ hidden => Skriven
 id => ID#
 image_category => Kategorija
 internal_error => Interna greška
+invalid_argument =>
 last_modified => Poslednja izmena
 links => Linkovi
 link_category => Kategorija

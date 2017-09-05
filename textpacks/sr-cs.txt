@@ -209,6 +209,7 @@ hidden => Скривено
 id => ID#
 image_category => Категорија
 internal_error =>
+invalid_argument =>
 last_modified =>
 links => Линкови
 link_category => Категорија

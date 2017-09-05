@@ -209,6 +209,7 @@ hidden => Rejtett
 id => ID#
 image_category => Kategória
 internal_error =>
+invalid_argument =>
 last_modified =>
 links => Linkek
 link_category => Linka kategória

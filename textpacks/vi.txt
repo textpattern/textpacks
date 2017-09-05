@@ -209,6 +209,7 @@ hidden => Ẩn
 id => Mã số
 image_category => Thể loại
 internal_error => Lỗi nội bộ
+invalid_argument =>
 last_modified => Lần sửa cuối
 links => Liên kết
 link_category => Thể loại
