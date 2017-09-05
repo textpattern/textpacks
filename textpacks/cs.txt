@@ -25,6 +25,7 @@ edit_author => Upravit autora
 email_changed => Emailová adresa změněna na <strong>{email}</strong>.
 error_adding_new_author => Chyba při přidávání autora.
 freelancer => Přispěvatel
+invalid_token =>
 last_login => Poslední přihlášení
 link_expires => Máte čas reagovat do {day} {month} {year}, {time} před vypršením platnosti tohoto odkazu.
 login_name => Uživatel

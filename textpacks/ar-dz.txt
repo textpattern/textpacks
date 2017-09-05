@@ -25,6 +25,7 @@ edit_author => تعديل مؤلف
 email_changed => غير البريد الإلكتروني إلى <strong>{email}</strong>
 error_adding_new_author => حدث خطأ عند إضافة مؤلف جديد
 freelancer => محرر عادي
+invalid_token =>
 last_login => آخر تسجيل الدخول
 link_expires => لديك حتى {day} {month} {year}، {time} للرد قبل انتهاء صلاحية هذا الرابط.
 login_name => اسم تسجيل الدخول

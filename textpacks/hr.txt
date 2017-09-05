@@ -25,6 +25,7 @@ edit_author =>
 email_changed => Email adresa promijenjena u <strong>{email}</strong>.
 error_adding_new_author => Greška kod dodavanja novog autora.
 freelancer => Slobodni Strijelac
+invalid_token =>
 last_login =>
 link_expires =>
 login_name => Prijava

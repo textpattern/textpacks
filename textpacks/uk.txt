@@ -25,6 +25,7 @@ edit_author => Редагувати автора
 email_changed => E-mail адреса змінена на <strong>{email}</strong>.
 error_adding_new_author => Помилка при додаванні нового автора.
 freelancer => Позаштатний (Freelancer)
+invalid_token =>
 last_login => Останній вхід
 link_expires => Час дії цього посилання до {day}.{month}.{year} {time}.
 login_name => Логін

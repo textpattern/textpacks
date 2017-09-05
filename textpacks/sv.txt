@@ -25,6 +25,7 @@ edit_author => Redigera författare
 email_changed => E-postadressen ändrades till <strong>{email}</strong>.
 error_adding_new_author => Fel vid tillägg av ny skribent.
 freelancer => Frilansare
+invalid_token =>
 last_login => Senaste inloggning
 link_expires => Du har fram till {day} {month} {year}, {time} att svara innan denna länk blir ogiltig.
 login_name => Inloggning

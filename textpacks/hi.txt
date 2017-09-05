@@ -25,6 +25,7 @@ edit_author => लेखक संपादित करें
 email_changed => ईमेल पता परिवर्तित होने के लिए <strong>{email}</strong>।
 error_adding_new_author => नया लेखक को जोड़ते समय त्रुटि है।
 freelancer =>
+invalid_token =>
 last_login =>
 link_expires =>
 login_name =>

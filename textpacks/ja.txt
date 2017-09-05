@@ -25,6 +25,7 @@ edit_author => ユーザ情報の変更
 email_changed => メールアドレスは変更されました：<strong>{email}</strong>
 error_adding_new_author => ユーザの追加に失敗しました。
 freelancer => フリーランス
+invalid_token =>
 last_login => 最終ログイン
 link_expires =>
 login_name => ログイン

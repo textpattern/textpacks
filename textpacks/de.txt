@@ -25,6 +25,7 @@ edit_author => Autor bearbeiten
 email_changed => E-Mail-Adresse geändert, sie lautet nun <strong>{email}</strong>.
 error_adding_new_author => Während des Hinzufügens eines neuen Autors trat ein Fehler auf.
 freelancer => Freier Mitarbeiter
+invalid_token =>
 last_login => Letzte Anmeldung
 link_expires => Sie haben Zeit bis {day} {month} {year}, {time}, bevor der Link ungültig wird.
 login_name => Benutzername

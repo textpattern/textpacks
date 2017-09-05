@@ -25,6 +25,7 @@ edit_author => Edit Penulis
 email_changed => Alamat surel berubah menjadi <strong>{email}</strong>.
 error_adding_new_author => Kesalahan menambah penulis baru
 freelancer => Penulis lepas
+invalid_token =>
 last_login => Login Terakhir
 link_expires =>
 login_name => Login

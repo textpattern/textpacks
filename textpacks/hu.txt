@@ -25,6 +25,7 @@ edit_author => Szerző szerkesztése <strong>{name}</strong>
 email_changed => Az email cím megváltozott a következőre: <strong>{email}</strong>
 error_adding_new_author => Hiba az új szerző hozzáadásakor
 freelancer => Szabadúszó
+invalid_token =>
 last_login => Utoljára belépve
 link_expires =>
 login_name => Belépés

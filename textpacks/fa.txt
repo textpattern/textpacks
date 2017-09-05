@@ -25,6 +25,7 @@ edit_author => تغییر مشخصات نویسنده
 email_changed => نشانی ایمیل به <strong>{email}</strong> تغییر یافت.
 error_adding_new_author => خطا در افزودن نویسنده جدید.
 freelancer => نویسنده آزاد
+invalid_token =>
 last_login => آخرین ورود
 link_expires =>
 login_name => نام کاربری

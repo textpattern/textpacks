@@ -25,6 +25,7 @@ edit_author => Edytuj dane autora
 email_changed => Adres email został zmieniony na <strong>{email}</strong>.
 error_adding_new_author => Błąd podczas dodawania nowego użytkownika.
 freelancer => Wolny strzelec
+invalid_token =>
 last_login => Ostatnio zalogowany
 link_expires => Masz czas do {day} {month} {year}, {time} aby odpowiedzieć zanim ten link wygaśnie.
 login_name => Login

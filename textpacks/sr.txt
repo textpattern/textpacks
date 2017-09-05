@@ -25,6 +25,7 @@ edit_author =>
 email_changed => Email adresa promenjena u <strong>{email}</strong>.
 error_adding_new_author => Greška kod dodavanja novog autora.
 freelancer => Frilenser
+invalid_token =>
 last_login => Poslednji put logovan
 link_expires => Možeš odgovoriti do {day} {month} {year}, {time}, kada ovaj link ističe.
 login_name => Prijava

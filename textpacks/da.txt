@@ -25,6 +25,7 @@ edit_author => Rediger forfatter
 email_changed => Email adresse ændret til <strong>{email}</strong>.
 error_adding_new_author => Fejl ved tilføjelse af ny forfatter.
 freelancer => Freelancer
+invalid_token =>
 last_login =>
 link_expires =>
 login_name => Brugernavn

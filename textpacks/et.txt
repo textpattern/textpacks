@@ -25,6 +25,7 @@ edit_author =>
 email_changed =>
 error_adding_new_author => Viga uue autori lisamisel.
 freelancer => Vabakutseline
+invalid_token =>
 last_login =>
 link_expires =>
 login_name => Kasutaja

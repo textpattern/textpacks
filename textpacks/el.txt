@@ -25,6 +25,7 @@ edit_author => Αλλάξετε τα δεδομένα του χρήστη
 email_changed => Η διεύθυνση email άλλαξε σε <strong>{email}</strong>.
 error_adding_new_author => Σφάλμα στην προσθήκη νέου χρήστη.
 freelancer => Ελεύθερος συνεργάτης
+invalid_token =>
 last_login => Τελευταία σύνδεση
 link_expires => Έχετε να απαντήσετε μέχρι {day} {month} {year}, {time} πριν τη λήξη του συνδέσμου.
 login_name => Σύνδεση

@@ -25,6 +25,7 @@ edit_author => مصنف کے معلومات تدوین کریں
 email_changed => ای میل کا پتہ <strong>{email}</strong> کو بدلہ گیا
 error_adding_new_author => نۓ مصنف کو شامل کرنے میں نقص !
 freelancer => مصنف آزاد
+invalid_token =>
 last_login => پچھلا لاگ ان
 link_expires =>
 login_name => نام صارف
