@@ -24,6 +24,7 @@ designer => Suunnittelija
 edit_author => Muokkaa käyttäjää
 email_changed => Sähköpostiosoite muutettiin: <strong>{email}</strong>.
 error_adding_new_author => Uuden käyttäjän lisäämisessä tapahtui virhe.
+from_or_to_address_missing =>
 freelancer => Vapaa toimittaja
 invalid_token =>
 last_login => Viimeisin kirjautuminen

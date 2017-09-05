@@ -24,6 +24,7 @@ designer => Σχεδιαστής
 edit_author => Αλλάξετε τα δεδομένα του χρήστη
 email_changed => Η διεύθυνση email άλλαξε σε <strong>{email}</strong>.
 error_adding_new_author => Σφάλμα στην προσθήκη νέου χρήστη.
+from_or_to_address_missing =>
 freelancer => Ελεύθερος συνεργάτης
 invalid_token =>
 last_login => Τελευταία σύνδεση

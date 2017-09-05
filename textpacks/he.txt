@@ -24,6 +24,7 @@ designer => מעצב
 edit_author => ערוך כותב
 email_changed => כתובת הדואל שונתה לכתובת <strong>{email}</strong>.
 error_adding_new_author => שגיאה בעת הוספת כותב חדש.
+from_or_to_address_missing =>
 freelancer => עצמאי
 invalid_token =>
 last_login => התחברות אחרונה

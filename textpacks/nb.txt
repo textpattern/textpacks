@@ -24,6 +24,7 @@ designer => Designer
 edit_author => Edit forfatter
 email_changed => Epostadressen er endret til <strong>{email}</strong>.
 error_adding_new_author => Feil ved lagring av ny forfatter.
+from_or_to_address_missing =>
 freelancer => Frilanser
 invalid_token =>
 last_login => Forrige login

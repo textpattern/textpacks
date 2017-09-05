@@ -24,6 +24,7 @@ designer => Grafik
 edit_author => Edytuj dane autora
 email_changed => Adres email został zmieniony na <strong>{email}</strong>.
 error_adding_new_author => Błąd podczas dodawania nowego użytkownika.
+from_or_to_address_missing =>
 freelancer => Wolny strzelec
 invalid_token =>
 last_login => Ostatnio zalogowany

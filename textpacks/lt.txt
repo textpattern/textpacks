@@ -24,6 +24,7 @@ designer => Dizaineris
 edit_author => Keisti autorių
 email_changed => El. pašto adresas pakeistas į <strong>{email}</strong>.
 error_adding_new_author => Nepavyko pridėti naujo autoriaus
+from_or_to_address_missing =>
 freelancer => Laisvai samdomas
 invalid_token =>
 last_login => Paskutinis prisijungimas

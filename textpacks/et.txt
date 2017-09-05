@@ -24,6 +24,7 @@ designer => Kujundaja
 edit_author =>
 email_changed =>
 error_adding_new_author => Viga uue autori lisamisel.
+from_or_to_address_missing =>
 freelancer => Vabakutseline
 invalid_token =>
 last_login =>

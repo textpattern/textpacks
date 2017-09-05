@@ -24,6 +24,7 @@ designer => Formgivare
 edit_author => Redigera författare
 email_changed => E-postadressen ändrades till <strong>{email}</strong>.
 error_adding_new_author => Fel vid tillägg av ny skribent.
+from_or_to_address_missing =>
 freelancer => Frilansare
 invalid_token =>
 last_login => Senaste inloggning

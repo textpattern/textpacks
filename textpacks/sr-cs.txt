@@ -24,6 +24,7 @@ designer => Дизајнер
 edit_author => Измени податке о аутору
 email_changed => Email адреса промењена у <strong>{email}</strong>.
 error_adding_new_author => Грешка код додавања новог аутора.
+from_or_to_address_missing =>
 freelancer => Слободни стрелац
 invalid_token =>
 last_login => Последњи пут улогован

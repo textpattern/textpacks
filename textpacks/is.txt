@@ -24,6 +24,7 @@ designer => Hönnuður
 edit_author =>
 email_changed =>
 error_adding_new_author => Bæta við nýjum höfundi: Villa.
+from_or_to_address_missing =>
 freelancer => Lausamaður
 invalid_token =>
 last_login =>

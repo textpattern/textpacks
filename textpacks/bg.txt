@@ -24,6 +24,7 @@ designer => Дизайнер
 edit_author => Редактирай авторът
 email_changed => Ел. адрес е сменен със следния <strong>{email}</strong>.
 error_adding_new_author => Грешка при добавяне на нов автор.
+from_or_to_address_missing =>
 freelancer => Freelancer
 invalid_token =>
 last_login => Последно влизане

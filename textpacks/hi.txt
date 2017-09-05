@@ -24,6 +24,7 @@ designer => डिजाइनर
 edit_author => लेखक संपादित करें
 email_changed => ईमेल पता परिवर्तित होने के लिए <strong>{email}</strong>।
 error_adding_new_author => नया लेखक को जोड़ते समय त्रुटि है।
+from_or_to_address_missing =>
 freelancer =>
 invalid_token =>
 last_login =>

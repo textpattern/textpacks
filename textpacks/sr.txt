@@ -24,6 +24,7 @@ designer => Dizajner
 edit_author =>
 email_changed => Email adresa promenjena u <strong>{email}</strong>.
 error_adding_new_author => Greška kod dodavanja novog autora.
+from_or_to_address_missing =>
 freelancer => Frilenser
 invalid_token =>
 last_login => Poslednji put logovan

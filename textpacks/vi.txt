@@ -24,6 +24,7 @@ designer => Nhà thiết kế
 edit_author => Sửa tác giả
 email_changed => Địa chỉ thư điện tử được đổi thành <strong>{email}</strong>.
 error_adding_new_author => Không thể thêm tác giả mới.
+from_or_to_address_missing =>
 freelancer => Freelancer
 invalid_token =>
 last_login => Lần đăng nhập cuối

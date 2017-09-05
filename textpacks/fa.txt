@@ -24,6 +24,7 @@ designer => طراح
 edit_author => تغییر مشخصات نویسنده
 email_changed => نشانی ایمیل به <strong>{email}</strong> تغییر یافت.
 error_adding_new_author => خطا در افزودن نویسنده جدید.
+from_or_to_address_missing =>
 freelancer => نویسنده آزاد
 invalid_token =>
 last_login => آخرین ورود

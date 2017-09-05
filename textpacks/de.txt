@@ -24,6 +24,7 @@ designer => Designer
 edit_author => Autor bearbeiten
 email_changed => E-Mail-Adresse geändert, sie lautet nun <strong>{email}</strong>.
 error_adding_new_author => Während des Hinzufügens eines neuen Autors trat ein Fehler auf.
+from_or_to_address_missing =>
 freelancer => Freier Mitarbeiter
 invalid_token =>
 last_login => Letzte Anmeldung

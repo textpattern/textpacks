@@ -24,6 +24,7 @@ designer => 设计师
 edit_author => 编辑作者 <strong>“{name}”</strong>
 email_changed => E-mail 地址更改为 <strong>{email}</strong>。
 error_adding_new_author => 新增作者出现错误。
+from_or_to_address_missing =>
 freelancer => 自由作家
 invalid_token =>
 last_login => 上次登录

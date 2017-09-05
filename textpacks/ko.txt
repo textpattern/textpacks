@@ -24,6 +24,7 @@ designer => 디자이너
 edit_author => 글쓴이 편집
 email_changed => 전자우편 주소가 <strong>{email}</strong>로 변경되었습니다
 error_adding_new_author => 글쓴이 추가중 문제가 발생했습니다.
+from_or_to_address_missing =>
 freelancer => 프리랜서
 invalid_token =>
 last_login => 마지막 로그인

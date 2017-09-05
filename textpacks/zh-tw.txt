@@ -24,6 +24,7 @@ designer => 設計者
 edit_author =>
 email_changed => Email 信箱改為 <strong>{email}</strong>.
 error_adding_new_author => 新增作者發生錯誤
+from_or_to_address_missing =>
 freelancer => 自由作家
 invalid_token =>
 last_login =>

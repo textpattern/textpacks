@@ -24,6 +24,7 @@ designer => デザイナー
 edit_author => ユーザ情報の変更
 email_changed => メールアドレスは変更されました：<strong>{email}</strong>
 error_adding_new_author => ユーザの追加に失敗しました。
+from_or_to_address_missing =>
 freelancer => フリーランス
 invalid_token =>
 last_login => 最終ログイン

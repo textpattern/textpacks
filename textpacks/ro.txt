@@ -24,6 +24,7 @@ designer => Designer
 edit_author => Modifica autorul
 email_changed => Adresa de email a fost modificata in <strong>{email}</strong>.
 error_adding_new_author => Un nou autor nu a putut fi adaugat.
+from_or_to_address_missing =>
 freelancer => Freelancer
 invalid_token =>
 last_login => Ultima autentificare

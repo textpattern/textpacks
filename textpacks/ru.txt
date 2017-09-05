@@ -24,6 +24,7 @@ designer => Дизайнер
 edit_author => Редактировать автора
 email_changed => Адрес электронной почты изменён на <strong>{email}</strong>.
 error_adding_new_author => Ошибка добавления нового автора.
+from_or_to_address_missing =>
 freelancer => Внештатник (фрилансер)
 invalid_token =>
 last_login => Последний вход

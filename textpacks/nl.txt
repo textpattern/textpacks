@@ -24,6 +24,7 @@ designer => Vormgever
 edit_author => Medewerker aanpassen
 email_changed => Het email adres is veranderd in <strong>{email}</strong>.
 error_adding_new_author => Fout bij toevoegen nieuwe medewerker.
+from_or_to_address_missing =>
 freelancer => Freelancer
 invalid_token =>
 last_login => Laatste login

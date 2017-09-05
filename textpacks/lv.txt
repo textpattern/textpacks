@@ -24,6 +24,7 @@ designer => Dizainers
 edit_author => Labot autoru
 email_changed => E-pasta adrese nomainīta uz <strong>{email}</strong>.
 error_adding_new_author => Kļūda, nav izdevies pievienot jaunu autoru.
+from_or_to_address_missing =>
 freelancer => Ārštatnieks
 invalid_token =>
 last_login => Pēdējā pieslēgšanās

@@ -24,6 +24,7 @@ designer => مصمم
 edit_author => تعديل مؤلف
 email_changed => غير البريد الإلكتروني إلى <strong>{email}</strong>
 error_adding_new_author => حدث خطأ عند إضافة مؤلف جديد
+from_or_to_address_missing =>
 freelancer => محرر عادي
 invalid_token =>
 last_login => آخر تسجيل الدخول
