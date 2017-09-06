@@ -7,6 +7,7 @@ lang_dir => ltr
 account_activation => Aktivera ditt konto
 account_activation_confirmation => Använd länken nedan för att aktivera ditt konto och ställa in ett lösenord.
 add_new_author => Lägg till skribent
+alias_is_taken =>
 assign_assets_to => Knyt användarens innehåll till
 author_already_exists => Författaren <strong>{name}</strong> finns redan.
 author_deleted => Författaren <strong>{name}</strong> togs bort.

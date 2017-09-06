@@ -7,6 +7,7 @@ lang_dir => ltr
 account_activation =>
 account_activation_confirmation =>
 add_new_author => Új szerző hozzáadása:
+alias_is_taken =>
 assign_assets_to =>
 author_already_exists =>
 author_deleted => {author} törölve.

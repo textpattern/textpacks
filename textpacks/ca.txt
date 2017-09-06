@@ -7,6 +7,7 @@ lang_dir => ltr
 account_activation => Activa el teu compte
 account_activation_confirmation => Utilitza l’enllaç següent per activar el teu compte i crear una contrasenya.
 add_new_author => Afegeix nou autor
+alias_is_taken =>
 assign_assets_to => Assigna el contingut de l’autor a
 author_already_exists => L’autor <strong>{name}</strong> ja existeix.
 author_deleted => S’ha esborrat l’autor <strong>{name}</strong>.

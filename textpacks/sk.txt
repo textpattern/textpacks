@@ -7,6 +7,7 @@ lang_dir => ltr
 account_activation => Aktivujte svoj účet, prosím
 account_activation_confirmation => Použite nižšie uvedený odkaz k aktivácii vášho účtu a nastaveniu hesla.
 add_new_author => Nový autor
+alias_is_taken =>
 assign_assets_to => Priradiť materiál uživateľovi
 author_already_exists => Autor <strong>{name}</strong> už existuje.
 author_deleted => Autor <strong>{name}</strong> odstránený.

@@ -7,6 +7,7 @@ lang_dir => ltr
 account_activation => Παρακαλούμε να ενεργοποιήσετε το λογαριασμό σας
 account_activation_confirmation => Παρακαλούμε χρησιμοποιήστε την παρακάτω σύνδεση για να ενεργοποιήσετε το λογαριασμό και τον κωδικό πρόσβασης σας.
 add_new_author => Προσθήκη νέου χρήστη
+alias_is_taken =>
 assign_assets_to => Αναθέσατε το περιεχόμενο του χρήστη στον
 author_already_exists => Το όνομα του χρήστη <strong>{name}</strong> υπάρχει ήδη.
 author_deleted => Ο χρήστης <strong>{name}</strong> διαγράφηκε.

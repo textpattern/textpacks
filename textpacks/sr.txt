@@ -7,6 +7,7 @@ lang_dir => ltr
 account_activation => Aktiviraj svoj nalog
 account_activation_confirmation => Aktiviraj svoj nalog i podesi lozinku putem linka.
 add_new_author => Dodaj novog autora
+alias_is_taken =>
 assign_assets_to => Dodeli sadržaj novom autoru
 author_already_exists => Autor <strong>{name}</strong> već postoji.
 author_deleted => Autor <strong>{name}</strong> izbrisan.

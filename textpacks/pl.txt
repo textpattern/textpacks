@@ -7,6 +7,7 @@ lang_dir => ltr
 account_activation => Prosimy aktywować swoje konto
 account_activation_confirmation => Użyj poniższego linku, aby aktywować swoje konto i ustawić hasło.
 add_new_author => Dodaj nowego użytkownika
+alias_is_taken =>
 assign_assets_to => Przydziel zasoby do
 author_already_exists => Taki użytkownik już istnieje: <strong>{name}</strong>.
 author_deleted => Konto użytkownika <strong>{name}</strong> zostało usunięte.

@@ -7,6 +7,7 @@ lang_dir => ltr
 account_activation => Будь ласка, активуйте Ваш аккаунт
 account_activation_confirmation => Будь ласка, використовуйте посилання нижче, щоб активувати обліковий запис і встановити пароль.
 add_new_author => Додати нового автора
+alias_is_taken =>
 assign_assets_to => Змінити автора створеного наповнення на
 author_already_exists => Автор <strong>{name}</strong> вже існує.
 author_deleted => Автор <strong>{name}</strong> видалений.
