@@ -407,6 +407,7 @@ file_category => Catégorie
 file_deleted => Fichier(s) <strong>{name}</strong> effacé(s).
 file_delete_failed => Impossible d’effacer le(s) fichier(s)
 file_dir_not_writeable => <strong>Attention</strong> : le serveur ne peut pas écrire dans le répertoire <code>{filedir}</code> Merci de vérifier les permissions (CHMOD).
+file_download =>
 file_download_count => Nombre de téléchargements
 file_name => Nom du fichier
 file_not_found => Fichier(s) non trouvé(s)

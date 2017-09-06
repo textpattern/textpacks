@@ -407,6 +407,7 @@ file_category => 檔案分類
 file_deleted => 檔案 <strong>{name}</strong> 已刪除.
 file_delete_failed => 刪除檔案失敗
 file_dir_not_writeable => 警告: 資料夾無法寫入 <code>{filedir}</code>.
+file_download =>
 file_download_count => 下載次數
 file_name => 檔名
 file_not_found => 找不到檔案

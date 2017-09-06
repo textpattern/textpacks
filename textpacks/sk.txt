@@ -407,6 +407,7 @@ file_category => Kategória
 file_deleted => Súbor(y) <strong>{name}</strong> vymazaný(é).
 file_delete_failed => Súbor sa nedá odstrániť
 file_dir_not_writeable => <strong>Varovanie:</strong> nedá sa zapisovať do priečinku <code>{filedir}</code>.
+file_download =>
 file_download_count => Počet stiahnutí
 file_name => Názov
 file_not_found => Súbor nebol nájdený

@@ -407,6 +407,7 @@ file_category => زمرہ
 file_deleted => فائل <strong>{name}</strong> کو حذف کیا
 file_delete_failed => فائل کو حذف کرنے میں ناکام
 file_dir_not_writeable => تنبیہ: یہ پوشا قابل تحریر نہیں <code dir="ltr">{filedir}</code>
+file_download =>
 file_download_count => ڈاؤن لوڈ ‏گنتی
 file_name => نام
 file_not_found => فائل(یں) ملا نہیں

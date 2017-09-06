@@ -407,6 +407,7 @@ file_category => Категорія
 file_deleted => Файл <strong>{name}</strong> видалено.
 file_delete_failed => Не вдалося видалити файл
 file_dir_not_writeable => <strong>Увага:</strong> неможливо записати файл в директорію <code>{filedir}</code>.
+file_download =>
 file_download_count => Кількість завантажень
 file_name => Ім'я
 file_not_found => Файл не знайдено

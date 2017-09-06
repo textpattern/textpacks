@@ -407,6 +407,7 @@ file_category => Kategorija
 file_deleted => Rinkmena(os) <strong>{name}</strong> pašalinta(os).
 file_delete_failed => Nepavyko pašalinti rinkmenos(ų)
 file_dir_not_writeable => Įspėjimas: negalima rašyti į rikmenos katalogą <code>{filedir}</code>.
+file_download =>
 file_download_count => Siuntimų kiekis
 file_name => Pavadinimas
 file_not_found => Rinkmena(os) nerasta(os)

@@ -407,6 +407,7 @@ file_category => Kategorija
 file_deleted => Fajl <strong>{name}</strong> izbrisana.
 file_delete_failed => Neuspešno brisanje fajl
 file_dir_not_writeable => <strong>Upozorenje:</strong> ne mogu zapisati u direktorijum <code>{filedir}</code>.
+file_download =>
 file_download_count => Download brojač
 file_name => Ime
 file_not_found => Fajl nije pronađen

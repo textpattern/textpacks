@@ -407,6 +407,7 @@ file_category => Filkategori
 file_deleted => Fil(en) <strong>{name}</strong> togs bort.
 file_delete_failed => Misslyckades att ta bort fil(en)
 file_dir_not_writeable => <strong>Varning:</strong> Kan inte skriva till filkatalogen <code>{filedir}</code>.
+file_download =>
 file_download_count => Nedladdningsräknare
 file_name => Filnamn
 file_not_found => Filen saknas

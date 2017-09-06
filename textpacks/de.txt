@@ -407,6 +407,7 @@ file_category => Dateikategorie
 file_deleted => Datei <strong>{name}</strong> gelöscht.
 file_delete_failed => Löschen der Datei fehlgeschlagen.
 file_dir_not_writeable => <strong>Warnung:</strong> In das Dateiverzeichnis <code>{filedir}</code> konnte nicht geschrieben werden.
+file_download =>
 file_download_count => Anzahl der Downloads
 file_name => Dateiname
 file_not_found => Datei nicht gefunden

@@ -407,6 +407,7 @@ file_category => Kategorie
 file_deleted => Soubor <strong>{name}</strong> odstraněn.
 file_delete_failed => Nelze odstranit soubor
 file_dir_not_writeable => Do složky <code>{filedir}</code> nelze zapisovat.
+file_download =>
 file_download_count => Počet stažení
 file_name => Název
 file_not_found => Soubor nebyl nalezen

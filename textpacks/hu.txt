@@ -407,6 +407,7 @@ file_category => Állomány kategória
 file_deleted => A(z) <strong>{name}</strong> állomány törölve.
 file_delete_failed => Az állomány törlése nem sikerült
 file_dir_not_writeable => Figyelmeztetés: az állomámy írása nem sikerült a következő könyvtárba: <code>{filedir}</code>.
+file_download =>
 file_download_count => Letöltés számláló
 file_name => Állománynév
 file_not_found => Az állomány nem létezik

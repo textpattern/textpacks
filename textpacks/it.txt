@@ -407,6 +407,7 @@ file_category => Categoria
 file_deleted => File <strong>{name}</strong> cancellato.
 file_delete_failed => Impossibile cancellare il file
 file_dir_not_writeable => <strong>Attenzione:</strong> non posso scrivere nella file directory <code>{filedir}</code>.
+file_download =>
 file_download_count => Numero di download
 file_name => Nome
 file_not_found => File non trovato

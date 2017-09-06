@@ -407,6 +407,7 @@ file_category => קטגוריית הקובץ
 file_deleted => הקובץ <strong>{name}</strong> נמחק.
 file_delete_failed => נכשל במחיקת הקובץ
 file_dir_not_writeable => אזהרה לא יכול לכתוב קובץ בספרייה: <code dir="ltr">{filedir}</code>.
+file_download =>
 file_download_count => מספר ההורדות
 file_name => שם קובץ
 file_not_found => הקובץ לא נמצא

@@ -407,6 +407,7 @@ file_category => فئة
 file_deleted =>
 file_delete_failed => لا يمكن محو الملف
 file_dir_not_writeable => المصنف الخاص للنظام <code dir="ltr">{filedir}</code> حذار:الموزع لا يستطيع الكتابة في
+file_download =>
 file_download_count => عدد التحميلات
 file_name => اسم الملف
 file_not_found => الملف غير موجود

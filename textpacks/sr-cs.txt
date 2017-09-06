@@ -407,6 +407,7 @@ file_category => Категорија
 file_deleted => Фајл <strong>{name}</strong> избрисан.
 file_delete_failed => Неуспешно брисање фајла
 file_dir_not_writeable => <strong>Упозорење:</strong> не могу записати у директоријум <code>{filedir}</code>.
+file_download =>
 file_download_count => Download Бројач
 file_name => Име
 file_not_found => Фајл није пронађен

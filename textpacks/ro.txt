@@ -407,6 +407,7 @@ file_category => Categoria fisierului
 file_deleted => Fisierul <strong>{name}</strong> a fost sters.
 file_delete_failed => Fisierul nu a putut fi sters
 file_dir_not_writeable => <strong>Atentie:</strong> fisierul nu a putut fi scris in directorul <code>{filedir}</code>.
+file_download =>
 file_download_count => Numarul download-urilor
 file_name => Numele fisierului
 file_not_found => Fisierul nu a fost gasit

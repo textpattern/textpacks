@@ -407,6 +407,7 @@ file_category => Kategorija
 file_deleted => Datoteka <strong>{name}</strong> izbrisana.
 file_delete_failed => Failed to delete file
 file_dir_not_writeable => <strong>Upozorenje:</strong> ne mogu zapisati u direktoriji <code>{filedir}</code>.
+file_download =>
 file_download_count => Download brojač
 file_name => Ime
 file_not_found => Datoteka nije nađena

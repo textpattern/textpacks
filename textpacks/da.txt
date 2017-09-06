@@ -407,6 +407,7 @@ file_category => Filkategori
 file_deleted =>
 file_delete_failed => Sletning af fil mislykkedes
 file_dir_not_writeable =>
+file_download =>
 file_download_count => Antal downloads
 file_name => Filnavn
 file_not_found => Fil blev ikke fundet

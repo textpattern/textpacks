@@ -407,6 +407,7 @@ file_category => Thể loại
 file_deleted => Đã xóa tập tin <strong>{name}</strong>.
 file_delete_failed => Không thể xóa tập tin
 file_dir_not_writeable => Cảnh báo: không thể ghi vào thư mục tập tin <code>{filedir}</code>.
+file_download =>
 file_download_count => Số lượng tải về
 file_name => Tên
 file_not_found => Không thấy tập tin

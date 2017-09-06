@@ -407,6 +407,7 @@ file_category => หมวดไฟล์
 file_deleted => ลบไฟล์ <strong>{name}</strong> แล้ว
 file_delete_failed => การลบไฟล์ล้มเหลว
 file_dir_not_writeable => คำเตือน: ไม่สามารถบันทึกข้อมูลลงในไดเรกทอรี <code>{filedir}</code>
+file_download =>
 file_download_count => จำนวนดาวน์โหลด
 file_name => ชื่อไฟล์
 file_not_found => ไม่พบไฟล์

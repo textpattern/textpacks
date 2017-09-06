@@ -407,6 +407,7 @@ file_category => Kategori
 file_deleted => <strong>{name}</strong> isimli dosya silindi.
 file_delete_failed => Dosya silme başarısız
 file_dir_not_writeable => <strong>Dikkat:</strong> dosya <code>{filedir}</code> isimli klasöre yazılamıyor.
+file_download =>
 file_download_count => İndirme sayısı
 file_name => İsim
 file_not_found => Dosya bulunamadı

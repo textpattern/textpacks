@@ -407,6 +407,7 @@ file_category => Category
 file_deleted => File(s) <strong>{name}</strong> deleted.
 file_delete_failed => Failed to delete file(s)
 file_dir_not_writeable => <strong>Warning:</strong> cannot write to file directory <code>{filedir}</code>.
+file_download => File download
 file_download_count => Download count
 file_name => Name
 file_not_found => File(s) not found

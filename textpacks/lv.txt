@@ -407,6 +407,7 @@ file_category => Kategorija
 file_deleted => Fails <strong>{name}</strong> dzēsts.
 file_delete_failed => Neizdevās izdzēst failu
 file_dir_not_writeable => <strong>Uzmanību:</strong> nav iespējams ierakstīt mapē <code>{filedir}</code>.
+file_download =>
 file_download_count => Lejuplāžu skaits
 file_name => Faila nosaukums
 file_not_found => Fails nav atrasts

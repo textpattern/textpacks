@@ -407,6 +407,7 @@ file_category => Categoria del fitxer
 file_deleted => S’ha esborrat el fitxer <strong>{name}</strong>.
 file_delete_failed => Error en esborrar el fitxer
 file_dir_not_writeable => <strong>Alerta:</strong> no es pot escriure en el directori <code>{filedir}</code>.
+file_download =>
 file_download_count => Comptador de descàrregues
 file_name => Nom del fitxer
 file_not_found => No s’ha trobat el fitxer

@@ -407,6 +407,7 @@ file_category => Skráa flokkur
 file_deleted =>
 file_delete_failed => Eyðingu skráar tókst ekki
 file_dir_not_writeable =>
+file_download =>
 file_download_count => Hversu oft niðurhlaðað
 file_name => Skráarnafn
 file_not_found => Skrá finnst ekki

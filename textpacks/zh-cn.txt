@@ -407,6 +407,7 @@ file_category => 文件分类
 file_deleted => 文件 <strong>{name}</strong> 已删除。
 file_delete_failed => 删除文件失败
 file_dir_not_writeable => 警告：无法写入文件目录 <code>{filedir}</code>。
+file_download =>
 file_download_count => 下载计数
 file_name => 文件名
 file_not_found => 文件未找到

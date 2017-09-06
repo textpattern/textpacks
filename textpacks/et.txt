@@ -407,6 +407,7 @@ file_category => Faili kategooria
 file_deleted =>
 file_delete_failed => Faili kustutamine ebaõnnestus
 file_dir_not_writeable => <strong>Hoiatus:</strong> ei saa kirjutada failikataloogi <code>{filedir}</code>.
+file_download =>
 file_download_count => Kokku allalaetud
 file_name => Faili nimi
 file_not_found => Faili ei leitud

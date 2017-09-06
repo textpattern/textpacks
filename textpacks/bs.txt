@@ -407,6 +407,7 @@ file_category => Kategorija
 file_deleted => Datoteka <strong>{name}</strong> obrisana.
 file_delete_failed => Neuspješno brisanje datoteke
 file_dir_not_writeable => <strong>Upozorenje:</strong> Ne može se pisati u mapu <code>{filedir}</code>.
+file_download =>
 file_download_count => Brojač skidanja
 file_name => Ime
 file_not_found => Datoteka nije pronađena

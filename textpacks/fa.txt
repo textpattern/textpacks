@@ -407,6 +407,7 @@ file_category => رده
 file_deleted => فایل(های) <strong>{name}</strong> پاک شد(ند).
 file_delete_failed => ناتوانی در حذف فایل(ها)
 file_dir_not_writeable => هشدار: امکان نوشتن روی پوشه‌ی فایل <code dir="ltr">{filedir}</code> وجود ندارد.
+file_download =>
 file_download_count => دفعات دانلود
 file_name => نام
 file_not_found => فایل یافت نشد

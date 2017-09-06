@@ -407,6 +407,7 @@ file_category => Categoría
 file_deleted => El archivo <strong>{name}</strong> ha sido borrado.
 file_delete_failed => Error al borrar el archivo
 file_dir_not_writeable => <strong>Alerta:</strong> no se puede escribir en el directorio <code>{filedir}</code>.
+file_download =>
 file_download_count => Contador de descargas
 file_name => Nombre
 file_not_found => Archivo(s) no encontrado(s)

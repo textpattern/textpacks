@@ -407,6 +407,7 @@ file_category => Κατηγορία αρχείου
 file_deleted => Το αρχείο <strong>{name}</strong> διαγράφηκε.
 file_delete_failed => Δεν είναι δυνατή η διαγραφή του αρχείου
 file_dir_not_writeable => <strong>Προειδοποίηση:</strong> Δεν είναι δυνατή η εγγραφή στον κατάλογο αρχείων <code>{filedir}</code>.
+file_download =>
 file_download_count => Αριθμός μεταφορτώσεων
 file_name => Όνομα αρχείου
 file_not_found => Το αρχείο δεν βρέθηκε

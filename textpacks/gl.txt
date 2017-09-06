@@ -407,6 +407,7 @@ file_category => Categoría do arquivo
 file_deleted => O arquivo <strong>{name}</strong> foi borrado.
 file_delete_failed => Erro ó borrar o arquivo
 file_dir_not_writeable => <strong>Alerta:</strong> non se pode escribir no cartafol files <code>{filedir}</code>.
+file_download =>
 file_download_count => Contador de descargas
 file_name => Nome do arquivo
 file_not_found => Arquivo non atopado

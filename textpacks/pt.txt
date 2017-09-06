@@ -407,6 +407,7 @@ file_category => Categoria
 file_deleted => O Ficheiro <strong>{name}</strong> foi apagado.
 file_delete_failed => Ocorreu um erro ao tentar apagar o ficheiro
 file_dir_not_writeable => <strong>Atenção:</strong> o directório <code>{filedir}</code> não está acessível.
+file_download =>
 file_download_count => Contador de descargas
 file_name => Nome do ficheiro
 file_not_found => Ficheiro não encontrado

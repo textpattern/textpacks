@@ -407,6 +407,7 @@ file_category => Категория файла
 file_deleted => Удалены файлы: <strong>{name}</strong>.
 file_delete_failed => Не удалось удалить файлы
 file_dir_not_writeable => <strong>Внимание:</strong> невозможно записать файл в директорию <code>{filedir}</code>.
+file_download =>
 file_download_count => Счетчик загрузок
 file_name => Имя файла
 file_not_found => Файлы не найдены

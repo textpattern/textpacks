@@ -407,6 +407,7 @@ file_category => 분류
 file_deleted => <strong>{name}</strong>을(를) 지웠습니다.
 file_delete_failed => 파일 지우기 실패
 file_dir_not_writeable => 경고: 파일 디록토리에 대한 쓰기 권한이 없습니다. <code>{filedir}</code>.
+file_download =>
 file_download_count => 다운로드 횟수
 file_name => 파일 이름
 file_not_found => 파일을 찾을 수 없음

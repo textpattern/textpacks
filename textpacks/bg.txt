@@ -407,6 +407,7 @@ file_category => Категория файлове
 file_deleted => Файлът <strong>{name}</strong> е изтрит.
 file_delete_failed => Изтриването се провали
 file_dir_not_writeable => Внимание: не може да се записва в директорията <code>{filedir}</code>.
+file_download =>
 file_download_count => Свалени до сега
 file_name => Име на файла
 file_not_found => Файла не е открит

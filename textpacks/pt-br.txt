@@ -407,6 +407,7 @@ file_category => Categoria do arquivo
 file_deleted => O arquivo <strong>{name}</strong> foi excluido.
 file_delete_failed => Ocorreu um erro ao tentar excluir o arquivo
 file_dir_not_writeable => <strong>Atenção:</strong> o diretório <code>{filedir}</code> não está acessível!
+file_download =>
 file_download_count => Contador de download
 file_name => Nome do arquivo
 file_not_found => Arquivo não encontrado!

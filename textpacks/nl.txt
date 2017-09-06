@@ -407,6 +407,7 @@ file_category => Categorie
 file_deleted => Bestand <strong>{name}</strong> verwijderd.
 file_delete_failed => Bestand(en) kan(/kunnen) niet verwijderd worden
 file_dir_not_writeable => <strong>Let op:</strong> er kan niet opgeslagen worden in de map <code>{filedir}</code>.
+file_download =>
 file_download_count => Aantal downloads
 file_name => Bestandsnaam
 file_not_found => Bestand niet gevonden

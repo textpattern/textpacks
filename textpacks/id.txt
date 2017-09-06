@@ -407,6 +407,7 @@ file_category => Kategori
 file_deleted =>
 file_delete_failed => Gagal menghapus berkas-berkas
 file_dir_not_writeable => <strong>Peringatan:</strong> tidak dapat menulis ke direktori berkas <code>{filedir}</code>.
+file_download =>
 file_download_count => Total Unduh
 file_name => Nama
 file_not_found => Berkas tidak ketemu

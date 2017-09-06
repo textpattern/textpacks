@@ -407,6 +407,7 @@ file_category => Kategoria
 file_deleted => Plik <strong>{name}</strong> został usunięty.
 file_delete_failed => Usuwanie pliku nie powiodło się
 file_dir_not_writeable => <strong>Uwaga!</strong> Brak uprawnień do zapisu w katalogu <code>{filedir}</code>.
+file_download =>
 file_download_count => Licznik pobrań
 file_name => Nazwa
 file_not_found => Nie znaleziono pliku
