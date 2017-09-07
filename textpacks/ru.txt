@@ -678,6 +678,7 @@ articles => Статьи
 articles_found => найдены статьи
 article_context => статьи
 article_found => статья найдена
+article_tag_illegal_body =>
 atom_feed_title => Atom канал
 attribute_values_must_be_quoted => Значения атрибутов должны быть в "кавычках".
 author => Автор

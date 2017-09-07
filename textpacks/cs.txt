@@ -678,6 +678,7 @@ articles => Články
 articles_found => článků nalezeno
 article_context => článek
 article_found => článků nalezeno
+article_tag_illegal_body =>
 atom_feed_title => Pramen Atom
 attribute_values_must_be_quoted => Hodnoty parametrů musejí být v uvozovkách.
 author => Autor

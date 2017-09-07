@@ -678,6 +678,7 @@ articles => Unosi
 articles_found => nađeno unosa
 article_context =>
 article_found => nađen unos
+article_tag_illegal_body =>
 atom_feed_title => Atom feed
 attribute_values_must_be_quoted => Svi atributi moraju biti u navodnicima.
 author => Autor

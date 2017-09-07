@@ -678,6 +678,7 @@ articles => Artikel
 articles_found => Artikel gefunden
 article_context => artikel
 article_found => Artikel gefunden
+article_tag_illegal_body =>
 atom_feed_title => Atom-Feed
 attribute_values_must_be_quoted => Die Werte für Attribute müssen in Hochkommata eingeschlossen werden.
 author => Autor

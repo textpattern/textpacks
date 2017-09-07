@@ -678,6 +678,7 @@ articles => Articles
 articles_found => articles trobats
 article_context => article
 article_found => article trobat
+article_tag_illegal_body =>
 atom_feed_title => Font Atom
 attribute_values_must_be_quoted => Els valors de l’atribut han d’anar entre cometes.
 author => Autor

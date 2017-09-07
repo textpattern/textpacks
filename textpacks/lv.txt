@@ -678,6 +678,7 @@ articles => Ieraksti
 articles_found => ieraksti atrasti
 article_context => ieraksts
 article_found => ieraksts atrasts
+article_tag_illegal_body =>
 atom_feed_title => Atom padeve
 attribute_values_must_be_quoted => Atribūtu vērtībām jābūt pēdiņās.
 author => Autors

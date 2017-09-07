@@ -678,6 +678,7 @@ articles => مضامین
 articles_found => مضامین ملے
 article_context =>
 article_found => مضمون ملا
+article_tag_illegal_body =>
 atom_feed_title => آٹوم فیڈ
 attribute_values_must_be_quoted =>
 author => مصنف

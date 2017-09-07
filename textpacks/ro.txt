@@ -678,6 +678,7 @@ articles => Articole
 articles_found => articole gasite
 article_context =>
 article_found => articol gasit
+article_tag_illegal_body =>
 atom_feed_title => Atom
 attribute_values_must_be_quoted => Valorile atributelor trebuie introduse cu ".
 author => Autor

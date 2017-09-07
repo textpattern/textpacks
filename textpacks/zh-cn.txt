@@ -678,6 +678,7 @@ articles => 文章
 articles_found => 找到的文章
 article_context => 文章
 article_found => 找到的文章
+article_tag_illegal_body =>
 atom_feed_title => Atom feed
 attribute_values_must_be_quoted => 属性值必须加引号
 author => 作者

@@ -678,6 +678,7 @@ articles =>
 articles_found =>
 article_context =>
 article_found =>
+article_tag_illegal_body =>
 atom_feed_title =>
 attribute_values_must_be_quoted =>
 author =>

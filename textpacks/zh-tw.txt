@@ -678,6 +678,7 @@ articles => 文章
 articles_found => 搜尋到的文章篇數
 article_context =>
 article_found => 搜尋到的文章
+article_tag_illegal_body =>
 atom_feed_title => Atom feed
 attribute_values_must_be_quoted =>
 author => 作者

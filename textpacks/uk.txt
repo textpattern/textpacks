@@ -678,6 +678,7 @@ articles => Статті
 articles_found => знайдені статті
 article_context => стаття
 article_found => стаття знайдена
+article_tag_illegal_body =>
 atom_feed_title => Atom канал
 attribute_values_must_be_quoted => Значення атрибутів повинні бути укладені в лапки.
 author => Автор

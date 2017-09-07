@@ -678,6 +678,7 @@ articles => Artiklid
 articles_found => artiklit leitud
 article_context =>
 article_found => artikkel leitud
+article_tag_illegal_body =>
 atom_feed_title =>
 attribute_values_must_be_quoted =>
 author => Autor

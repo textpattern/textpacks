@@ -678,6 +678,7 @@ articles => Artykuły
 articles_found => znalezionych artykułów
 article_context => artykuł
 article_found => znaleziony artykuł
+article_tag_illegal_body =>
 atom_feed_title => Tytuł kanału Atom
 attribute_values_must_be_quoted => Wartość atrybutu musi być objęta cudzysłowem.
 author => Autor

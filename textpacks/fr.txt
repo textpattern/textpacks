@@ -678,6 +678,7 @@ articles => Articles
 articles_found => articles trouvés
 article_context => article
 article_found => article trouvé
+article_tag_illegal_body =>
 atom_feed_title => Flux Atom
 attribute_values_must_be_quoted => Le contenu des attributs doit être mis entre guillemets droits doubles.
 author => Auteur

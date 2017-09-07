@@ -678,6 +678,7 @@ articles => מאמרים
 articles_found => מאמרים שנמצאו
 article_context => מאמר
 article_found => מאמר שנמצא
+article_tag_illegal_body =>
 atom_feed_title => מזין Atom
 attribute_values_must_be_quoted => ערכי תכונות חייבים להיות במרכאות.
 author => כותב

@@ -678,6 +678,7 @@ articles => Makaleler
 articles_found => makaleler bulundu
 article_context =>
 article_found => makale bulundu
+article_tag_illegal_body =>
 atom_feed_title => Atom besleme
 attribute_values_must_be_quoted =>
 author => Yazar

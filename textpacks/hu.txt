@@ -678,6 +678,7 @@ articles => Cikkek
 articles_found => cikket találtam
 article_context =>
 article_found => cikket találtam
+article_tag_illegal_body =>
 atom_feed_title => Atom
 attribute_values_must_be_quoted => Az attribútum értékeit idézőjelek közé kell tenni.
 author => Szerző

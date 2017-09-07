@@ -678,6 +678,7 @@ articles => 글
 articles_found => 글을 발견했습니다
 article_context =>
 article_found => 글을 발견했습니다
+article_tag_illegal_body =>
 atom_feed_title => Atom 피드
 attribute_values_must_be_quoted => 속성값을 정해야 함
 author => 글쓴이

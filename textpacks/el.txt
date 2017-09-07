@@ -678,6 +678,7 @@ articles => Άρθρα
 articles_found => άρθρα βρέθηκαν
 article_context => άρθρο
 article_found => άρθρο βρέθηκε
+article_tag_illegal_body =>
 atom_feed_title => Τροφοδοσία Atom
 attribute_values_must_be_quoted => Οι τιμές χαρακτηριστικών πρέπει να περικλείονται με εισαγωγικά.
 author => Χρήστης

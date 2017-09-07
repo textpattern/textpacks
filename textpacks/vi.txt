@@ -678,6 +678,7 @@ articles => Bài viết
 articles_found => bài viết được tìm thấy
 article_context => bài viết
 article_found => bài viết được tìm thấy
+article_tag_illegal_body =>
 atom_feed_title => Atom feed
 attribute_values_must_be_quoted => Giá trị thuộc tính phải được trích dẫn.
 author => Tác giả

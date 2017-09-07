@@ -678,6 +678,7 @@ articles => Artikkelit
 articles_found => artikkelia löytyi
 article_context => artikkeli
 article_found => artikkeli löytyi
+article_tag_illegal_body =>
 atom_feed_title => Atom 1.0
 attribute_values_must_be_quoted => Attribuuttien arvojen täytyy olla lainausmerkeissä
 author => Tekijä

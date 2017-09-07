@@ -678,6 +678,7 @@ articles => บทความ
 articles_found => บทความที่พบ
 article_context =>
 article_found => พบบทความ
+article_tag_illegal_body =>
 atom_feed_title => Atom feed
 attribute_values_must_be_quoted =>
 author => ผู้แต่ง

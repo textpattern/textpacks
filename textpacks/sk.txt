@@ -678,6 +678,7 @@ articles => Články
 articles_found => nájdených článkov
 article_context => článok
 article_found => nájdených článkov
+article_tag_illegal_body =>
 atom_feed_title => Zdroj Atom
 attribute_values_must_be_quoted => Hodnoty parametrov musia byť v úvodzovkách.
 author => Autor

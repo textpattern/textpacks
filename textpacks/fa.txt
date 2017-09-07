@@ -678,6 +678,7 @@ articles => نوشته‌ها
 articles_found => نوشته یافت شد
 article_context => مقاله
 article_found => نوشته یافت شد
+article_tag_illegal_body =>
 atom_feed_title => فید اتم
 attribute_values_must_be_quoted => مقادیر صفت باید در ”” قرار بگیرند.
 author => نویسنده

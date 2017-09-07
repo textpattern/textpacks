@@ -678,6 +678,7 @@ articles => مقالات
 articles_found => مقالات عثر عليها
 article_context =>
 article_found => مقال عثر عليه
+article_tag_illegal_body =>
 atom_feed_title =>
 attribute_values_must_be_quoted =>
 author => مؤلف

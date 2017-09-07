@@ -678,6 +678,7 @@ articles => Greinar
 articles_found => greinar fundnar
 article_context =>
 article_found => grein fundin
+article_tag_illegal_body =>
 atom_feed_title =>
 attribute_values_must_be_quoted =>
 author => Höfundur

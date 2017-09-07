@@ -678,6 +678,7 @@ articles => Artiklar
 articles_found => artiklar hittade
 article_context => artikel
 article_found => artikel hittad
+article_tag_illegal_body =>
 atom_feed_title => Atom-feed
 attribute_values_must_be_quoted => Attributvärden måste citeras
 author => Skribent

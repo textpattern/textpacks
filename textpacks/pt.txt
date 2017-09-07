@@ -678,6 +678,7 @@ articles => Artigos
 articles_found => artigos encontrados
 article_context => artigo
 article_found => artigo encontrado
+article_tag_illegal_body =>
 atom_feed_title => Atom 1.0
 attribute_values_must_be_quoted => O valor do Atributo de ser com aspas
 author => Autor

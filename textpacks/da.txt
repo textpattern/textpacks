@@ -678,6 +678,7 @@ articles => Artikler
 articles_found => artikler fundet
 article_context =>
 article_found => artikel fundet
+article_tag_illegal_body =>
 atom_feed_title => Atom feed
 attribute_values_must_be_quoted => Attribut-værdier skal skrives i anførselstegn.
 author => Forfatter

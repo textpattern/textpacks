@@ -678,6 +678,7 @@ articles => Articles
 articles_found => articles found
 article_context => article
 article_found => article found
+article_tag_illegal_body => <code>txp:article</code> tag cannot be used in an article body.
 atom_feed_title => Atom feed
 attribute_values_must_be_quoted => Attribute values must be quoted.
 author => Author

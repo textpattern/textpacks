@@ -678,6 +678,7 @@ articles => Artículos
 articles_found => artículos encontrados
 article_context => artículo
 article_found => artículo encontrado
+article_tag_illegal_body =>
 atom_feed_title => Atom
 attribute_values_must_be_quoted => Los valores del atributo deben entrecomillarse.
 author => Autor

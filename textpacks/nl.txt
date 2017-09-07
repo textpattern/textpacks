@@ -678,6 +678,7 @@ articles => Artikelen
 articles_found => gevonden artikelen
 article_context => artikel
 article_found => gevonden artikel
+article_tag_illegal_body =>
 atom_feed_title => Atom feed
 attribute_values_must_be_quoted => Attribuutwaarden moeten tussen aanhalingstekens.
 author => Medewerker

@@ -678,6 +678,7 @@ articles => 記事
 articles_found => 個の記事が見つかりました
 article_context => 記事
 article_found => 個の記事が見つかりました
+article_tag_illegal_body =>
 atom_feed_title => Atom フィード
 attribute_values_must_be_quoted => 属性の値を指定して下さい
 author => ユーザ

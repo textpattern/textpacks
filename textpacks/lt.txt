@@ -678,6 +678,7 @@ articles => Straipsniai
 articles_found => surasta straipsnių
 article_context => straipsnis
 article_found => straipsnis surastas
+article_tag_illegal_body =>
 atom_feed_title => Atom srautas
 attribute_values_must_be_quoted => Atributų reikšmės turi būti kabutėse.
 author => Autorius
