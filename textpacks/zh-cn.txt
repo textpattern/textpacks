@@ -365,6 +365,7 @@ php_sapi_mode => PHP 服务器 API
 php_version => PHP 版本
 php_version_required => Textpattern CMS 需要你的服务器 PHP 版本至少是 {version}
 preflight_check => 预检
+pretext_data =>
 rfc2616_headers => RFC 2616 headers
 server => 服务器
 server_time => 服务器本地时间

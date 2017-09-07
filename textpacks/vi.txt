@@ -365,6 +365,7 @@ php_sapi_mode => PHP Server API
 php_version => Phiên bản PHP
 php_version_required => Textpattern CMS yêu cầu cài đặt PHP trên máy chủ với phiên bản tối thiểu là {version}
 preflight_check => Kiểm tra bước đầu
+pretext_data =>
 rfc2616_headers => Phần đầu RFC 2616
 server => Máy chủ
 server_time => Giờ trên máy chủ

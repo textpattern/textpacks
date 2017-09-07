@@ -365,6 +365,7 @@ php_sapi_mode => PHP Server API
 php_version => Versiunea PHP
 php_version_required => Textpattern are nevoie de PHP {version}.
 preflight_check => Verificari initiale
+pretext_data =>
 rfc2616_headers => Headere RFC 2616
 server => Server
 server_time => Ora locala a server-ului

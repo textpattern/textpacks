@@ -365,6 +365,7 @@ php_sapi_mode => API Serwera PHP
 php_version => Wersja PHP
 php_version_required => Textpattern wymaga PHP w wersji przynajmniej {version}
 preflight_check => Sprawdzenie wstępne
+pretext_data =>
 rfc2616_headers => Nagłówki RFC 2616
 server => Serwer
 server_time => Lokalny czas serwera

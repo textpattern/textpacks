@@ -365,6 +365,7 @@ php_sapi_mode => PHP Server API
 php_version => نسخه PHP
 php_version_required => سیستم مدیریت محتوای Textpattern برای نصب روی سرور شما به نسخه‌ی PHP {version} به بالا نیازمند است.
 preflight_check => آزمون
+pretext_data =>
 rfc2616_headers => سرآیندهای RFC 2616
 server => سرور
 server_time => زمان محلی سرور

@@ -365,6 +365,7 @@ php_sapi_mode => PHP server API
 php_version => PHP sürümü
 php_version_required =>
 preflight_check => Önyükleme denetimi
+pretext_data =>
 rfc2616_headers => RFC 2616 headers
 server => Sunucu
 server_time => Sunucu yerel saati

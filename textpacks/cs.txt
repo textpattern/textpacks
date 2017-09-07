@@ -365,6 +365,7 @@ php_sapi_mode => API pro PHP na serveru
 php_version => Verze PHP
 php_version_required => Textpattern vyžaduje minimálně PHP ve verzi {version}.
 preflight_check => Poslední kontrola před odletem
+pretext_data =>
 rfc2616_headers => Hlavičky podle RFC 2616
 server => Server
 server_time => Místní čas na serveru

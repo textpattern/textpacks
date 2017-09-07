@@ -365,6 +365,7 @@ php_sapi_mode => PHP Server API
 php_version => Версія PHP
 php_version_required => Textpattern CMS вимагає як мінімум {version} версію PHP, яка повинна бути встановлена на вашому сервері
 preflight_check => Попередня перевірка
+pretext_data =>
 rfc2616_headers => Заголовки RFC 2616
 server => Сервер
 server_time => Час на сервері

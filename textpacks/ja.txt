@@ -365,6 +365,7 @@ php_sapi_mode =>
 php_version =>
 php_version_required => Textpattern CMS は、バージョン {version} の PHP をインストールを必要とします
 preflight_check => 動作前チェック
+pretext_data =>
 rfc2616_headers => RFC 2616 ヘッダー
 server => サーバ
 server_time => サーバ内時間

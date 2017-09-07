@@ -365,6 +365,7 @@ php_sapi_mode => PHP mód
 php_version => PHP verzió
 php_version_required =>
 preflight_check => Elő ellenőrzés
+pretext_data =>
 rfc2616_headers => RFC 2616 szerinti fejlécek
 server => Szerver
 server_time => Szerver idő

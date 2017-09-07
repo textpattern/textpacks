@@ -365,6 +365,7 @@ php_sapi_mode => PHP Server API
 php_version => PHP版本
 php_version_required =>
 preflight_check => 網站運作檢測
+pretext_data =>
 rfc2616_headers => RFC 2616 headers
 server => 伺服器
 server_time => 伺服器時間

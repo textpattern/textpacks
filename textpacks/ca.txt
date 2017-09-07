@@ -365,6 +365,7 @@ php_sapi_mode => API PHP del servidor
 php_version => Versió de PHP
 php_version_required => Textpattern requereix com a mínim la versió {version} de PHP per instal·lar-se en el teu servidor
 preflight_check => Comprobació prèvia
+pretext_data =>
 rfc2616_headers => Capçaleres RFC 2616
 server => Servidor
 server_time => Hora local del servidor

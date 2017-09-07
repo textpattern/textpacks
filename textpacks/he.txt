@@ -365,6 +365,7 @@ php_sapi_mode => PHP Server API
 php_version => גירסת PHP
 php_version_required => מערכת Textpattern דורשת ש-PHP מגירסה {version} יהיה מותקן בשרת שלך.
 preflight_check => בדיקה לפני הרצה
+pretext_data =>
 rfc2616_headers => RFC 2616 headers
 server => שרת
 server_time => זמן המקומי של השרת

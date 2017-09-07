@@ -365,6 +365,7 @@ php_sapi_mode => PHP serverio API sąsaja
 php_version => PHP versija
 php_version_required => Textpattern TVS reikia, kad bent PHP {version} versija būtų įdiegta jūsų serveryje
 preflight_check => Patikrinimas
+pretext_data =>
 rfc2616_headers => RFC 2616 antraštės
 server => Serveris
 server_time => Server lokalus laikas

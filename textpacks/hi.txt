@@ -365,6 +365,7 @@ php_sapi_mode =>
 php_version =>
 php_version_required =>
 preflight_check =>
+pretext_data =>
 rfc2616_headers =>
 server =>
 server_time =>

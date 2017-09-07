@@ -365,6 +365,7 @@ php_sapi_mode => PHP سرور API موڈ
 php_version => PHP ورژن
 php_version_required =>
 preflight_check =>
+pretext_data =>
 rfc2616_headers => RFC 2616 headers موڈ
 server => سرور
 server_time => سرور کا مقامی وقت

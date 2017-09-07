@@ -365,6 +365,7 @@ php_sapi_mode => API PHP διακομιστή
 php_version => Έκδοση PHP
 php_version_required => Το Textpattern απαιτεί τουλάχιστον PHP {version} για να εγκατασταθεί στον server σας
 preflight_check => Προκαταρκτικός έλεγχος
+pretext_data =>
 rfc2616_headers => Επικεφαλίδες RFC 2616
 server => Διακομιστής
 server_time => Τοπική ώρα διακομιστή

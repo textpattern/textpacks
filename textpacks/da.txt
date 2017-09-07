@@ -365,6 +365,7 @@ php_sapi_mode => PHP Server API
 php_version => PHP version
 php_version_required =>
 preflight_check => Pre-checks
+pretext_data =>
 rfc2616_headers => RFC 2616 headers
 server => Server
 server_time => Server lokal tid

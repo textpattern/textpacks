@@ -365,6 +365,7 @@ php_sapi_mode =>
 php_version => PHP version
 php_version_required =>
 preflight_check => Kerfis og umhverfisskoðun
+pretext_data =>
 rfc2616_headers =>
 server => Server
 server_time =>

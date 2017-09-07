@@ -365,6 +365,7 @@ php_sapi_mode => PHP Server API
 php_version => PHP версия
 php_version_required => Textpattern CMS изисква мин. версия {version} на PHP инсталирана на сървъра
 preflight_check => Предварителна проверка
+pretext_data =>
 rfc2616_headers => RFC 2616 headers
 server => Сървър
 server_time => Локално време на сървъра

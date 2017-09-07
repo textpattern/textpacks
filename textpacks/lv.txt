@@ -365,6 +365,7 @@ php_sapi_mode => PHP servera API
 php_version => PHP versija
 php_version_required => Textpattern CMS nepieciešama {version} PHP versija, lai to varētu uzinstalēt uz servera
 preflight_check => Pirmspalaišanas pārbaude
+pretext_data =>
 rfc2616_headers => RFC 2616 galvenes
 server => Serveris
 server_time => Servera vietējais laiks
