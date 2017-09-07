@@ -92,6 +92,7 @@ concurrent_edit_by => 文章 <strong>未能</strong> 保存，当您编辑此文
 date_settings => 日期和时间
 excerpt_markup => 摘要标记语言
 expires => 过期
+invalid_expiredate =>
 invalid_postdate => 无效时间和日期
 linktext => 链接说明（链接的 title）
 meta => 元数据（HTML 中的 Meta）

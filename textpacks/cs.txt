@@ -92,6 +92,7 @@ concurrent_edit_by => Článek <strong>nebyl</strong> uložen. {author} upravova
 date_settings => Datum a čas
 excerpt_markup => Značky anotace
 expires => Vyprší
+invalid_expiredate =>
 invalid_postdate => Nesprávné datum nebo čas.
 linktext => text odkazu
 meta => Meta

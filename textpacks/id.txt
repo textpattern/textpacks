@@ -92,6 +92,7 @@ concurrent_edit_by => Artikel TIDAK disimpan. {author} telah memodifikasi artike
 date_settings =>
 excerpt_markup =>
 expires => Kadaluarsa
+invalid_expiredate =>
 invalid_postdate =>
 linktext => linktext
 meta => Meta

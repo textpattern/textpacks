@@ -92,6 +92,7 @@ concurrent_edit_by => Article <strong>non</strong> sauvegardé. Cet article a é
 date_settings => Options de dates
 excerpt_markup => Balises de résumé
 expires => Date d’expiration
+invalid_expiredate =>
 invalid_postdate => Horodatage non valide.
 linktext => Texte du lien
 meta => Métadonnées

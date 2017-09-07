@@ -92,6 +92,7 @@ concurrent_edit_by => L’article NO s’ha desat. {author} ha modificat l’art
 date_settings => Data i hora
 excerpt_markup => HTML del resum
 expires => Caduca
+invalid_expiredate =>
 invalid_postdate => Data u hora no vàlida.
 linktext => text de l’enllaç
 meta => Meta

@@ -92,6 +92,7 @@ concurrent_edit_by => Articolul <strong>nu</strong> a fost salvat. {autor} a mod
 date_settings => Data si ora
 excerpt_markup => Markup rezumat
 expires => Expira
+invalid_expiredate =>
 invalid_postdate =>
 linktext => textulptlink
 meta => Meta

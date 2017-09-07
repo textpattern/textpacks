@@ -92,6 +92,7 @@ concurrent_edit_by => Artikel NIET opgeslagen. {author} heeft dit artikel tussen
 date_settings => Datum en tijd
 excerpt_markup => Vormgeving samenvatting
 expires => Vervalt op
+invalid_expiredate =>
 invalid_postdate => Onjuiste datering.
 linktext => linktekst
 meta => Meta

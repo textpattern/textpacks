@@ -92,6 +92,7 @@ concurrent_edit_by =>
 date_settings =>
 excerpt_markup => 摘要模式
 expires =>
+invalid_expiredate =>
 invalid_postdate =>
 linktext => 鏈結文字
 meta => Meta

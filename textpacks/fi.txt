@@ -92,6 +92,7 @@ concurrent_edit_by => {author} on muokannut tätä artikkelia samanaikaisesti.
 date_settings => Julkaisuaika
 excerpt_markup => Johdannon merkintäkieli
 expires => Vanhentuu
+invalid_expiredate =>
 invalid_postdate => Väärä päivämäärä tai kellonaika.
 linktext => linkkiteksti
 meta => Meta

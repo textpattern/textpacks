@@ -92,6 +92,7 @@ concurrent_edit_by => Artículo <strong>no</strong> guardado. {author} ha modifi
 date_settings => Fecha y hora
 excerpt_markup => Marcado del resumen
 expires => Caduca
+invalid_expiredate =>
 invalid_postdate => Fecha de publicación no válida
 linktext => texto de enlace
 meta => Meta

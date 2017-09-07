@@ -92,6 +92,7 @@ concurrent_edit_by => Questo articolo è stato modificato in contemporanea da {a
 date_settings => Data e ora
 excerpt_markup => Codice sommario
 expires => Scade
+invalid_expiredate =>
 invalid_postdate => Data di pubblicazione non valida.
 linktext => testo del link
 meta => Meta

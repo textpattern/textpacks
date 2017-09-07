@@ -92,6 +92,7 @@ concurrent_edit_by => <strong>Стаття не збережена</strong>, т�
 date_settings => Дата і час
 excerpt_markup => Розмітка витримки
 expires => Термін дії
+invalid_expiredate =>
 invalid_postdate => Невірна дата або час.
 linktext => назва посилання
 meta => Meta

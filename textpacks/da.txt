@@ -92,6 +92,7 @@ concurrent_edit_by => Artiklen er <strong>ikke</strong> gemt. {author} redigered
 date_settings =>
 excerpt_markup => Uddrags markup
 expires => Udløber
+invalid_expiredate =>
 invalid_postdate =>
 linktext => linktekst
 meta => Meta

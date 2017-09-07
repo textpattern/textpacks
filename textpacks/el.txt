@@ -92,6 +92,7 @@ concurrent_edit_by => Το άρθρο <strong>δεν</strong> αποθηκεύτ
 date_settings => Ημερομηνία και ώρα
 excerpt_markup => Σημειοθέτηση αποσπάσματος
 expires => Λήξη
+invalid_expiredate =>
 invalid_postdate => Λανθασμένη ημερομηνία ή ώρα.
 linktext => κείμενο σύνδεσης
 meta => Μετα

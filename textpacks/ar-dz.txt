@@ -92,6 +92,7 @@ concurrent_edit_by => المقال لم يتم حفظه. {author} عدل الم�
 date_settings => ضبط التاريخ و الوقت
 excerpt_markup => علامات الملخص
 expires => تنتهي صلاحية
+invalid_expiredate =>
 invalid_postdate => التاريخ غير صحيح
 linktext => نص الرابط
 meta => بيانات ميتا

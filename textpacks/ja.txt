@@ -92,6 +92,7 @@ concurrent_edit_by => 記事は保存できませんでした。 {author} が、
 date_settings => 日時
 excerpt_markup => 概要の記法
 expires => 失効日時
+invalid_expiredate =>
 invalid_postdate => 無効な投稿日時
 linktext => リンクテキスト
 meta => メタ

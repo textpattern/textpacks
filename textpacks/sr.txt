@@ -92,6 +92,7 @@ concurrent_edit_by => Unos <strong>nije</strong> sačuvan. {author} je izmenio o
 date_settings => Datum i vreme
 excerpt_markup => Markup uvodne reči
 expires => Ističe
+invalid_expiredate =>
 invalid_postdate => Neispravan datum i vreme.
 linktext => linktext(title)
 meta => Meta

@@ -92,6 +92,7 @@ concurrent_edit_by => نوشته ذخیره نشد. {author} نوشته را ه�
 date_settings => تاریخ و زمان
 excerpt_markup => در کد منتخب
 expires => انقضا
+invalid_expiredate =>
 invalid_postdate =>
 linktext => linktext
 meta => متاتگ

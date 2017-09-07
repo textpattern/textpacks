@@ -92,6 +92,7 @@ concurrent_edit_by => Dieser Artikel wurde gleichzeitig von {author} bearbeitet.
 date_settings => Datum und Zeit
 excerpt_markup => Exzerpt-Formatierung
 expires => Ablaufdatum
+invalid_expiredate =>
 invalid_postdate => Ungültiges Veröffentlichungsdatum.
 linktext => Linktext(Titel)
 meta => Meta

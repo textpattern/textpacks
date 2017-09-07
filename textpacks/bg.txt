@@ -92,6 +92,7 @@ concurrent_edit_by => Статията <strong>не е</strong> запазена
 date_settings => Дата и час
 excerpt_markup => Оформление на извадката
 expires => Изтича на
+invalid_expiredate =>
 invalid_postdate => Невалиден дата или час
 linktext => текст на връзката
 meta => Meta

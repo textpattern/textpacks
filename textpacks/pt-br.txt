@@ -92,6 +92,7 @@ concurrent_edit_by => Este artigo foi editado em concorrência por {author}.
 date_settings => Data e hora
 excerpt_markup => Formato do resumo
 expires => Expirado
+invalid_expiredate =>
 invalid_postdate => Data ou hora inválida.
 linktext => texto do link
 meta => Meta

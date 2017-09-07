@@ -92,6 +92,7 @@ concurrent_edit_by => Ten artykuł był jednocześnie edytowany przez {author}.
 date_settings => Ustawienia daty
 excerpt_markup => Formatowanie zajawki
 expires => Wygasa
+invalid_expiredate =>
 invalid_postdate => Niepoprawna data lub godzina
 linktext => tekst odsyłacza
 meta => Meta

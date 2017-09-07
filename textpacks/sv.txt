@@ -92,6 +92,7 @@ concurrent_edit_by => Artikeln sparades inte. {author} ändrade artikeln medan d
 date_settings => Datum och tid
 excerpt_markup => Ingressens markup
 expires => Utgår
+invalid_expiredate =>
 invalid_postdate => Ogiltigt datum eller tid
 linktext => Länktext
 meta => Meta

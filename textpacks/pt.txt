@@ -92,6 +92,7 @@ concurrent_edit_by => O artigo <strong>não</strong> foi guardado. O {author} mo
 date_settings => Data e hora
 excerpt_markup => Formato do resumo
 expires => Expira
+invalid_expiredate =>
 invalid_postdate => Hora ou data inválida.
 linktext => texto da ligação
 meta => Meta
