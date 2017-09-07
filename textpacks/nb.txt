@@ -886,6 +886,7 @@ upload => Last opp
 uploaded => lastet opp
 url => URL
 value => Verdi
+variable_name_empty =>
 version => Versjon
 view => Vis
 website => Nettside

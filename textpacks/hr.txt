@@ -886,6 +886,7 @@ upload => Upload
 uploaded => uploaded
 url => URL
 value => Vrijednost
+variable_name_empty =>
 version => Verzija
 view => Pogledaj
 website => Website

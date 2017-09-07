@@ -886,6 +886,7 @@ upload => Wgraj na serwer
 uploaded => wgrane na serwer
 url => URL
 value => Wartość
+variable_name_empty =>
 version => Wersja
 view => Pokaż
 website => Strona internetowa

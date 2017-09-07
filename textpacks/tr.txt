@@ -886,6 +886,7 @@ upload => Yükle
 uploaded => yüklendi
 url => URL
 value => Değer
+variable_name_empty =>
 version => Sürüm
 view => Göster
 website => Website

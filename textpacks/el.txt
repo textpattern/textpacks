@@ -886,6 +886,7 @@ upload => μεταφόρτωση
 uploaded => μετεφορτώθηκε
 url => URL
 value => Περιεχόμενο
+variable_name_empty =>
 version => Έκδοση
 view => Προβολή
 website => ιστότοπος

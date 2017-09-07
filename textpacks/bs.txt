@@ -886,6 +886,7 @@ upload => Postavljanje
 uploaded => Postavljen
 url => URL
 value => Vrijednost
+variable_name_empty =>
 version => Verzija
 view => Pogled
 website => Web sajt

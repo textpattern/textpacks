@@ -886,6 +886,7 @@ upload => アップロード
 uploaded => アップロード済
 url => URL
 value => 値
+variable_name_empty =>
 version => バージョン
 view => 閲覧
 website => ウェブサイト

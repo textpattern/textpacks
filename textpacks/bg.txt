@@ -886,6 +886,7 @@ upload => Качи
 uploaded => качени
 url => URL
 value => Стойност
+variable_name_empty =>
 version => Версия
 view => Изглед
 website => уебсайт

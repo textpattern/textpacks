@@ -886,6 +886,7 @@ upload => Upload
 uploaded => uploaded
 url => URL
 value => Value
+variable_name_empty => Variable name is not set.
 version => Version
 view => View
 website => Website

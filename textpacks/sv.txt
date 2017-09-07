@@ -886,6 +886,7 @@ upload => Ladda upp
 uploaded => uppladdad
 url => URL
 value => Värde
+variable_name_empty =>
 version => Version
 view => Visa
 website => Webbplats

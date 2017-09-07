@@ -886,6 +886,7 @@ upload => Upload
 uploaded => uploaded
 url => URL
 value => Вредност
+variable_name_empty =>
 version => Верзија
 view => Погледај
 website => Website

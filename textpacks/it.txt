@@ -886,6 +886,7 @@ upload => Carica
 uploaded => caricato
 url => URL
 value => Valore
+variable_name_empty =>
 version => Versione
 view => Vista
 website => Sito web

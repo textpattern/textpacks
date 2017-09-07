@@ -886,6 +886,7 @@ upload => اپ لوڈ کریں
 uploaded => اپ لوڈ کردہ
 url => URL
 value => ویلو
+variable_name_empty =>
 version => ورژن
 view => دیکھیں
 website => ویب سائٹ

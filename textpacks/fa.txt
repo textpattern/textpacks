@@ -886,6 +886,7 @@ upload => آپلود
 uploaded => آپلود شد
 url => URL
 value => ارزش
+variable_name_empty =>
 version => نسخه
 view => نمایش
 website => وب‌سایت

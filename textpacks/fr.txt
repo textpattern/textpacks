@@ -886,6 +886,7 @@ upload => Envoi
 uploaded => envoyé
 url => URL
 value => Valeur
+variable_name_empty =>
 version => Version
 view => Voir
 website => Site web

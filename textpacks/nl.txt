@@ -886,6 +886,7 @@ upload => Upload
 uploaded => ge-upload
 url => URL
 value => Waarde
+variable_name_empty =>
 version => Versie
 view => Bekijken
 website => Website

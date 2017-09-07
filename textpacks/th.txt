@@ -886,6 +886,7 @@ upload => อัพโหลด
 uploaded => อัพโหลดแล้ว
 url => URL
 value => ค่า
+variable_name_empty =>
 version => รุ่น
 view => ชม
 website => เว็บไซต์

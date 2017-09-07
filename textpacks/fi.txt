@@ -886,6 +886,7 @@ upload => Siirrä
 uploaded => siirretty
 url => URL
 value => Arvo
+variable_name_empty =>
 version => Versio
 view => Näytä
 website => www-sivusto

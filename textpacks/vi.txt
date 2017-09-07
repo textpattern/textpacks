@@ -886,6 +886,7 @@ upload => Tải lên
 uploaded => đã tải lên
 url => URL
 value => Giá trị
+variable_name_empty =>
 version => Phiên bản
 view => Xem
 website => Trang thông tin điện tử

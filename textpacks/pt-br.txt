@@ -886,6 +886,7 @@ upload => Upload
 uploaded => colocado/a no servidor
 url => URL
 value => Valor
+variable_name_empty =>
 version => Versão
 view => Ver
 website => Site web

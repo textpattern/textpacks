@@ -886,6 +886,7 @@ upload => إرسال
 uploaded => مرسل
 url => URL
 value => قيمة
+variable_name_empty =>
 version => صيغة
 view => رِؤية
 website => موقع

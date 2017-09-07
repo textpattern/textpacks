@@ -886,6 +886,7 @@ upload => Unggah
 uploaded => diunggah
 url => URL
 value => Nilai
+variable_name_empty =>
 version => Versi
 view => Lihat
 website => Situs-web

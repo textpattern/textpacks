@@ -886,6 +886,7 @@ upload => העלה
 uploaded => הועלה
 url => URL
 value => ערך
+variable_name_empty =>
 version => גירסה
 view => הצג
 website => אתר

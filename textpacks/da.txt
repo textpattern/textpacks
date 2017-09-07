@@ -886,6 +886,7 @@ upload => Upload
 uploaded => uploaded
 url => URL
 value => Værdi
+variable_name_empty =>
 version => Version
 view => Vis
 website => Website

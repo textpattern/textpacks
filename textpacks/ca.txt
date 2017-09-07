@@ -886,6 +886,7 @@ upload => Puja
 uploaded => pujat
 url => URL
 value => Valor
+variable_name_empty =>
 version => Versió
 view => Veure
 website => lloc web

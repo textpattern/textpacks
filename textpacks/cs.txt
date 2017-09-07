@@ -886,6 +886,7 @@ upload => Nahrát
 uploaded => nahrán(a/o)
 url => URL
 value => Hodnota
+variable_name_empty =>
 version => Verze
 view => Zobrazit
 website => Webová stránka

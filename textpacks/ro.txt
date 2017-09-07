@@ -886,6 +886,7 @@ upload => Uploadeaza
 uploaded => uploadat
 url => URL
 value => Valoare
+variable_name_empty =>
 version => Versiune
 view => Vezi
 website => Site

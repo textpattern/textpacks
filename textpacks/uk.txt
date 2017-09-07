@@ -886,6 +886,7 @@ upload => Завантажити
 uploaded => завантажено
 url => URL
 value => Значення
+variable_name_empty =>
 version => Версія
 view => Переглянути
 website => Веб-сайт

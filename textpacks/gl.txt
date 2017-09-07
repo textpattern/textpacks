@@ -886,6 +886,7 @@ upload => Subir
 uploaded => subido
 url => URL
 value => Valor
+variable_name_empty =>
 version => Versión
 view => Ollar
 website => sitio web

@@ -886,6 +886,7 @@ upload => Üleslaadimine
 uploaded => serverisse laetud
 url => URL
 value => Väärtus
+variable_name_empty =>
 version => Versioon
 view => Vaata
 website => Sait

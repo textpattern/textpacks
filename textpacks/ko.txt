@@ -886,6 +886,7 @@ upload => 올리기
 uploaded => 올렸음
 url => URL
 value => 값
+variable_name_empty =>
 version => 버전
 view => 보기
 website => 웹사이트

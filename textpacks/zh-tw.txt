@@ -886,6 +886,7 @@ upload => 上傳
 uploaded => 已上傳
 url => URL
 value => Value
+variable_name_empty =>
 version => 版本
 view => 檢視
 website => 網站

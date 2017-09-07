@@ -886,6 +886,7 @@ upload => Augšupielādēt
 uploaded => augšuplādēts
 url => URL
 value => Vērtība
+variable_name_empty =>
 version => Versija
 view => Apskatīt
 website => Web lapa

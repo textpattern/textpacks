@@ -886,6 +886,7 @@ upload => Feltöltés
 uploaded => feltöltve
 url => URL
 value => Érték
+variable_name_empty =>
 version => Verzió
 view => Megnéz
 website => Weblap

@@ -886,6 +886,7 @@ upload => Upphlaða
 uploaded => upphlaðað
 url => URL
 value => Gildi
+variable_name_empty =>
 version => Útgáfa
 view => Sjá
 website => Vefsíða

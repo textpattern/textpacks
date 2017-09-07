@@ -886,6 +886,7 @@ upload => Hochladen
 uploaded => hochgeladen
 url => URL
 value => Wert
+variable_name_empty =>
 version => Version
 view => Anzeigen
 website => Webseite
