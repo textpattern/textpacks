@@ -27,6 +27,7 @@ email_changed => Email адреса промењена у <strong>{email}</stron
 error_adding_new_author => Грешка код додавања новог аутора.
 from_or_to_address_missing =>
 freelancer => Слободни стрелац
+invalid_header =>
 invalid_token =>
 last_login => Последњи пут улогован
 link_expires =>

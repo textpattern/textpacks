@@ -27,6 +27,7 @@ email_changed => ईमेल पता परिवर्तित होने
 error_adding_new_author => नया लेखक को जोड़ते समय त्रुटि है।
 from_or_to_address_missing =>
 freelancer =>
+invalid_header =>
 invalid_token =>
 last_login =>
 link_expires =>

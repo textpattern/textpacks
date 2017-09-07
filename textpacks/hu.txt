@@ -27,6 +27,7 @@ email_changed => Az email cím megváltozott a következőre: <strong>{email}</s
 error_adding_new_author => Hiba az új szerző hozzáadásakor
 from_or_to_address_missing =>
 freelancer => Szabadúszó
+invalid_header =>
 invalid_token =>
 last_login => Utoljára belépve
 link_expires =>

@@ -27,6 +27,7 @@ email_changed => Emailová adresa zmenená na <strong>{email}</strong>.
 error_adding_new_author => Chyba pri pridávaní autora.
 from_or_to_address_missing =>
 freelancer => Prispievateľ
+invalid_header =>
 invalid_token =>
 last_login => Posledné prihlásenie
 link_expires => Máte čas reagovať do {day} {month} {year}, {time} pred vypršaním platnosti tohoto odkazu.

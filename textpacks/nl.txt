@@ -27,6 +27,7 @@ email_changed => Het email adres is veranderd in <strong>{email}</strong>.
 error_adding_new_author => Fout bij toevoegen nieuwe medewerker.
 from_or_to_address_missing =>
 freelancer => Freelancer
+invalid_header =>
 invalid_token =>
 last_login => Laatste login
 link_expires => Je hebt tot {day} {month} {year}, {time} tijd om te reageren voordat deze link vervalt.

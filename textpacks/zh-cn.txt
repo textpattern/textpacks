@@ -27,6 +27,7 @@ email_changed => E-mail 地址更改为 <strong>{email}</strong>。
 error_adding_new_author => 新增作者出现错误。
 from_or_to_address_missing =>
 freelancer => 自由作家
+invalid_header =>
 invalid_token =>
 last_login => 上次登录
 link_expires => 此链接在 {year} {month} {day}, {time} 您做出回应前有效，否则将过期。

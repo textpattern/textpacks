@@ -27,6 +27,7 @@ email_changed => Alamat surel berubah menjadi <strong>{email}</strong>.
 error_adding_new_author => Kesalahan menambah penulis baru
 from_or_to_address_missing =>
 freelancer => Penulis lepas
+invalid_header =>
 invalid_token =>
 last_login => Login Terakhir
 link_expires =>

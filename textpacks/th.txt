@@ -27,6 +27,7 @@ email_changed => ที่อยู่อีเมลเปลี่ยนเป
 error_adding_new_author => พบปัญหาในขณะที่เพิ่มนักเขียน
 from_or_to_address_missing =>
 freelancer => นักเขียนอิสระ
+invalid_header =>
 invalid_token =>
 last_login => ล็อกอินครั้งสุดท้าย
 link_expires =>

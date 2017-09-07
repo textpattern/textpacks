@@ -27,6 +27,7 @@ email_changed => E-posta adresi <strong>{email}</strong> olarak değiştirildi.
 error_adding_new_author => Yeni yazar ekleme hatası.
 from_or_to_address_missing =>
 freelancer => Freelancer
+invalid_header =>
 invalid_token =>
 last_login =>
 link_expires =>

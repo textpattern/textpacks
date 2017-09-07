@@ -27,6 +27,7 @@ email_changed => Indirizzo email modificato in <strong>{email}</strong>.
 error_adding_new_author => errore nell’aggiungere un nuovo autore.
 from_or_to_address_missing =>
 freelancer => Collaboratore
+invalid_header =>
 invalid_token =>
 last_login => Ultimo accesso
 link_expires => Hai tempo fino al {day} {month} {year}, {time} per rispondere prima che scada questo link.

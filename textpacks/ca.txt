@@ -27,6 +27,7 @@ email_changed => S’ha canviat l’adreça per: <strong>{email}</strong>.
 error_adding_new_author => Hi ha hagut un error en afegir el nou autor
 from_or_to_address_missing =>
 freelancer => Redactor independent
+invalid_header =>
 invalid_token =>
 last_login => Darrera connexió
 link_expires => Tens fins el {day} {month} {year}, {time} per respondre abans que expiri aquest enllaç.

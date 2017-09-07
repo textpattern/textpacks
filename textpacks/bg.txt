@@ -27,6 +27,7 @@ email_changed => Ел. адрес е сменен със следния <strong>
 error_adding_new_author => Грешка при добавяне на нов автор.
 from_or_to_address_missing =>
 freelancer => Freelancer
+invalid_header =>
 invalid_token =>
 last_login => Последно влизане
 link_expires =>

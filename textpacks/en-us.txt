@@ -27,6 +27,7 @@ email_changed => Email address changed to <strong>{email}</strong>.
 error_adding_new_author => Error adding new author.
 from_or_to_address_missing => Sender and/or recipient address is missing.
 freelancer => Freelancer
+invalid_header => Invalid mail header.
 invalid_token => Password reset security token is invalid.
 last_login => Last log in
 link_expires => You have until {month} {day} {year}, {time} to respond before this link expires.

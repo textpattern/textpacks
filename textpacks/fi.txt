@@ -27,6 +27,7 @@ email_changed => Sähköpostiosoite muutettiin: <strong>{email}</strong>.
 error_adding_new_author => Uuden käyttäjän lisäämisessä tapahtui virhe.
 from_or_to_address_missing =>
 freelancer => Vapaa toimittaja
+invalid_header =>
 invalid_token =>
 last_login => Viimeisin kirjautuminen
 link_expires => Sinulla on aikaa vastata {day} {month} {year} kello {time} saakka ennen kuin tämä linkki vanhenee.

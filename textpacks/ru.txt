@@ -27,6 +27,7 @@ email_changed => Адрес электронной почты изменён н�
 error_adding_new_author => Ошибка добавления нового автора.
 from_or_to_address_missing =>
 freelancer => Внештатник (фрилансер)
+invalid_header =>
 invalid_token =>
 last_login => Последний вход
 link_expires => Время действия этой ссылки до {day}.{month}.{year} {time}.
