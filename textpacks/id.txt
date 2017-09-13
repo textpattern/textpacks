@@ -330,7 +330,6 @@ active_plugins =>
 all_checks_passed => Semua pengecekan sukses!
 apache_modules => Modul Apache
 apache_version => Versi Apache
-cleanurl_only_apache => URL-bersih hanya didukung oleh Apache, gunakan bila Anda tahu resikonya
 clean_url_data_failed =>
 clean_url_test_failed =>
 db_global_timezone =>

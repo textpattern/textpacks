@@ -330,7 +330,6 @@ active_plugins => Aktive plugins
 all_checks_passed => Alle checks er fundet ok!
 apache_modules => Apache moduler
 apache_version => Apache version
-cleanurl_only_apache => Rene URL’er er kun understøttet af Apache. Brug dem under eget ansvar.
 clean_url_data_failed =>
 clean_url_test_failed => Ren URL test fejlet.
 db_global_timezone =>

@@ -330,7 +330,6 @@ active_plugins => Активни plugin-и
 all_checks_passed => Све контроле успешне!
 apache_modules => Apache модули
 apache_version => Apache верзија
-cleanurl_only_apache => Чисте URL адресе су подржане само на Apache серверима, користите на сопствену одговорност.
 clean_url_data_failed =>
 clean_url_test_failed => Тест за чисте URL адресе није успео.
 db_global_timezone =>

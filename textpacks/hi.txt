@@ -330,7 +330,6 @@ active_plugins =>
 all_checks_passed =>
 apache_modules =>
 apache_version =>
-cleanurl_only_apache =>
 clean_url_data_failed =>
 clean_url_test_failed =>
 db_global_timezone =>

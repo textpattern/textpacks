@@ -330,7 +330,6 @@ active_plugins => Aktyvūs papildiniai
 all_checks_passed => Visi patikrinimai praėjo!
 apache_modules => Apache moduliai
 apache_version => Apache versija
-cleanurl_only_apache => Švarus URL adresai veikia tik su Apache, naudokite savo pačių rizika.
 clean_url_data_failed => Švaraus universalaus adreso duomenų testas nepavyko
 clean_url_test_failed => Švaraus URL testas nepavyko.
 db_global_timezone =>

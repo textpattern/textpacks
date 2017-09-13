@@ -330,7 +330,6 @@ active_plugins => Aktīvie spraudņi
 all_checks_passed => Visas pārbaudes izietas veiksmīgi!
 apache_modules => Apache moduļi
 apache_version => Apache versija
-cleanurl_only_apache => Pastāvīgo adrešu režīms ir iespējams tikai ar Apache serveri, lietojiet uz savu atbildību.
 clean_url_data_failed => URL datu tīrīšanas tests neizdevās
 clean_url_test_failed => Tīro URL pārbaude neizdecās.
 db_global_timezone => Datu bāzes servera laika josla

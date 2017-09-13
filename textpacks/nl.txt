@@ -330,7 +330,6 @@ active_plugins => Actieve plugins
 all_checks_passed => Alle testen goed doorstaan!
 apache_modules => Apache modules
 apache_version => Apache versie
-cleanurl_only_apache => ‘Nette’ URLs werken alleen met Apache, gebruik hier is op eigen risico.
 clean_url_data_failed => ‘Schone URL’ weergave is niet mogelijk
 clean_url_test_failed => De test voor schone URLs is niet goed doorstaan.
 db_global_timezone => Tijdzone van de database

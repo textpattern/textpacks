@@ -330,7 +330,6 @@ active_plugins => Aktív bővítmények
 all_checks_passed => Minden ellenőrzés teljesítve!
 apache_modules => Apache modulok
 apache_version => Apache verzió
-cleanurl_only_apache => A tiszta URLeket csak az apache támogatja, csak saját felelősségedre használd.
 clean_url_data_failed =>
 clean_url_test_failed => Probléma az URL ellenőrzés során.
 db_global_timezone =>

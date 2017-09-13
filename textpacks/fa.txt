@@ -330,7 +330,6 @@ active_plugins => پلاگین‌های فعال
 all_checks_passed => تمام آزمون‌ها موفق بود!
 apache_modules => ماژول‌های آپاچی
 apache_version => نسخه آپاچی
-cleanurl_only_apache => Clean URL تنها در Apache پشتیبانی می‌شود. با مسئولیت خود از آن استفاده کنید.
 clean_url_data_failed => تست داده‌های Clean URL ناموفق بود
 clean_url_test_failed => تست Clean URL ناموفق بود.
 db_global_timezone =>

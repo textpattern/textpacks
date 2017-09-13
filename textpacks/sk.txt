@@ -330,7 +330,6 @@ active_plugins => Aktívne rozšírenia
 all_checks_passed => Všetky kontroly prebehli v poriadku!
 apache_modules => Moduly Apache
 apache_version => Verzia Apache
-cleanurl_only_apache => Čisté URL sú podporované iba na serveroch Apache, používajte na vlastný risk.
 clean_url_data_failed => Test dát pekných URL adries zlyhal
 clean_url_test_failed => Test pekných URL adries zlyhal.
 db_global_timezone => Časové pásmo serveru databázy

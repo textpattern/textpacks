@@ -330,7 +330,6 @@ active_plugins => Plugins activos
 all_checks_passed => ¡Todas las comprobaciones pasadas!
 apache_modules => Módulos de Apache
 apache_version => Versión de Apache
-cleanurl_only_apache => El modo de URLs limpias sólo lo soporta Apache, úsalo bajo tu responsabilidad.
 clean_url_data_failed => Ha fallado la prueba de datos de URL limpias
 clean_url_test_failed => Ha fallado el test de URLs limpias.
 db_global_timezone => Zona horaria del servidor de la base de datos

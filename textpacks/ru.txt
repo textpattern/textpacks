@@ -330,7 +330,6 @@ active_plugins => Активные плагины
 all_checks_passed => Проверка прошла успешна!
 apache_modules => Модули Apache
 apache_version => Версия Apache
-cleanurl_only_apache => "Чистые" (clean) URL поддерживаются только для Apache, используйте на ваш страх и риск.
 clean_url_data_failed => Проверка чистых URL-ов не пройдена
 clean_url_test_failed => Тест "чистых" (clean) URL не пройден.
 db_global_timezone => Часовой пояс сервера базы данных

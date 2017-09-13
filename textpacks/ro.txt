@@ -330,7 +330,6 @@ active_plugins => Plugin-uri active
 all_checks_passed => Totul este OK!
 apache_modules => Modulele Apache
 apache_version => Versiunea Apache
-cleanurl_only_apache => URL-uri "curate" functioneaza doar pe Apache.
 clean_url_data_failed => Testul pentru URL-uri curate a esuat
 clean_url_test_failed => Testul pentru URL-uri curate a esuat.
 db_global_timezone =>

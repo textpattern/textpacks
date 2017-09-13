@@ -330,7 +330,6 @@ active_plugins => Aktiiviset liitännäiset
 all_checks_passed => Kaikki testit läpäistiin!
 apache_modules => Apachen modulit
 apache_version => Apachen versio
-cleanurl_only_apache => Ainoastaan apache tukee selkokielisiä www-osoitteita, käytä omalla riskillä.
 clean_url_data_failed => Selkokielisten URLien data-testi ei mennyt läpi
 clean_url_test_failed => Selkokielisten URLien testi ei mennyt läpi.
 db_global_timezone => Tietokantapalvelimen aikavyöhyke

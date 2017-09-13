@@ -330,7 +330,6 @@ active_plugins => Активни приставки
 all_checks_passed => Всички проверки преминаха!
 apache_modules => Модули за Apache
 apache_version => Версия на Apache
-cleanurl_only_apache => Clean URL се поддържат само от apache, използвайте на своя отговорност
 clean_url_data_failed => Тестът на данни за Clean URL не премина
 clean_url_test_failed => Тестът за Clean URL не премина.
 db_global_timezone =>

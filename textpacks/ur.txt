@@ -330,7 +330,6 @@ active_plugins => فعال‏ پلگ ان
 all_checks_passed => تمام ‏تجزیہ پاس ہوئے !
 apache_modules => Apache ماڈیول
 apache_version => Apache ورژن
-cleanurl_only_apache => صفاکار URLs کو صرف Apache معاونت کرتا ہے، اپنے تقدیر سے استمعال کریں
 clean_url_data_failed =>
 clean_url_test_failed => سافکار URL کے جانچ کرنے میں میں ناکامی
 db_global_timezone =>

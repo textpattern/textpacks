@@ -330,7 +330,6 @@ active_plugins => 사용중인 확장기능
 all_checks_passed => 모든 검사를 통과했습니다!
 apache_modules => 아파치 모듈
 apache_version => 아파치 버전
-cleanurl_only_apache => Clean URL은 아파치에서만 지원됩니다.
 clean_url_data_failed =>
 clean_url_test_failed => Clean URL 테스트를 실패했습니다.
 db_global_timezone =>

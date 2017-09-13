@@ -330,7 +330,6 @@ active_plugins => 有効なプラグイン
 all_checks_passed => システムチェックはすべて正常!
 apache_modules => Apache モジュール
 apache_version => Apache バージョン
-cleanurl_only_apache => Clean URLは Apache でのみサポートされています。自己責任で使用して下さい。
 clean_url_data_failed => クリーンURLデータのテストに失敗
 clean_url_test_failed => Clean URL テストに失敗しました。
 db_global_timezone =>

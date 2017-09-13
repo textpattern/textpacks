@@ -330,7 +330,6 @@ active_plugins => Các plugin đang hoạt động
 all_checks_passed => Tất cả các bước kiểm tra đều thành công!
 apache_modules => Các mô-đun Apache
 apache_version => Phiên bản Apache
-cleanurl_only_apache => Chỉ có Apache mới hỗ trợ Clean URL, bạn tự dùng tự chịu.
 clean_url_data_failed => Gặp lỗi khi kiểm tra Clean URL
 clean_url_test_failed => Kiểm tra Clean URL thất bại.
 db_global_timezone =>

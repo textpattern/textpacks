@@ -330,7 +330,6 @@ active_plugins => Ενεργά αρθρώματα
 all_checks_passed => Όλοι οι έλεγχοι ολοκληρώθηκαν με επιτυχία!
 apache_modules => Αρθρώματα Apache
 apache_version => Έκδοση Apache
-cleanurl_only_apache => H «καθαρή» μορφή URL υποστηρίζεται μόνο για το διακομιστή Apache, χρησιμοποιήστε την επιλογή αυτή με δική σας ευθύνη.
 clean_url_data_failed => Η δοκιμή για καθαρά URL απέτυχε
 clean_url_test_failed => Η ανάλυση για καθαρές διαδρομές URL απέτυχε.
 db_global_timezone =>
