@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">Установки URL могут быть неверными</string>
   <string name="some_php_functions_disabled">Следующие функции (<em>могут</em> потребоваться для работы Textpattern) PHP выключены у вас на сервере:</string>
   <string name="still_exists">все еще существует</string>
-  <string name="textpattern_update_available">Новая версия CMS Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Перейти на сайт Textpattern">доступна для загрузки</a>.</string>
+  <string name="textpattern_update_available">Новая версия CMS Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="Перейти на сайт Textpattern">доступна для загрузки</a>.</string>
   <string name="tmp_plugin_paths_match">Директории для временных файлов и кэша плагинов <strong>не должны совпадать</strong>.</string>
   <string name="txp_path">Путь к Textpattern</string>
   <string name="txp_version">Версия Textpattern</string>
@@ -749,7 +749,7 @@
   <string name="title_no_widow">Убирать висячие слова в заголовках?</string>
   <string name="title_only">/заголовок</string>
   <string name="updated">Обновлено</string>
-  <string name="updated_branch_version_available">Доступно обновление этой версии <a href="https://textpattern.com/download" rel="external" title="Перейти на сайт Textpattern">Textpattern</a>.</string>
+  <string name="updated_branch_version_available">Доступно обновление этой версии <a href="http://textpattern.com/download" rel="external" title="Перейти на сайт Textpattern">Textpattern</a>.</string>
   <string name="update_languages">Обновить языки</string>
   <string name="up_to_date">До настоящего времени</string>
   <string name="urls_to_ping">URL’ы для пинга (через запятую)</string>

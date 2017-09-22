@@ -347,7 +347,7 @@
   <string name="site_url_mismatch">Webadressen preferanser kan være feil</string>
   <string name="some_php_functions_disabled">Følgende PHP-funksjoner (som kanskje er nødvendige for å bruke Textpattern) er skrudd av på din server</string>
   <string name="still_exists">finnes fremdeles</string>
-  <string name="textpattern_update_available">Ny Textpattern versjon {version} <a href="https://textpattern.com/download" rel="external" title="Go til Textpattern nedlasting area">tilgjengelig for nedlasting</a>.</string>
+  <string name="textpattern_update_available">Ny Textpattern versjon {version} <a href="http://textpattern.com/download" rel="external" title="Go til Textpattern nedlasting area">tilgjengelig for nedlasting</a>.</string>
   <string name="tmp_plugin_paths_match">Midlertidig fil katalog og plugin cache filområdet bør <strong>ikke</strong> kamp.</string>
   <string name="txp_path">Textpattern sti</string>
   <string name="txp_version">Textpattern versjon</string>
@@ -807,7 +807,7 @@
   <string name="db_doesnt_exist">Databasen <strong>{dbname}</strong> finnes ikke, eller brukeren du spesifiserte har ikke tilgang til den.</string>
   <string name="db_must_exist">Merk at databasen du spesifiserer må eksistere. Textpattern vil ikke opprette den for deg.</string>
   <string name="email_required">Vennligst skriv inn en gyldig epostadresse.</string>
-  <string name="errors_during_install">Det oppstod <strong>{num}</strong> feil under installasjonen. Du kan spørre om hjelp i <a href="https://forum.textpattern.io/" rel="external">Textpattern-forumet</a>.</string>
+  <string name="errors_during_install">Det oppstod <strong>{num}</strong> feil under installasjonen. Du kan spørre om hjelp i <a href="http://forum.textpattern.com/" rel="external">Textpattern-forumet</a>.</string>
   <string name="mysql_login">MySQL brukernavn</string>
   <string name="mysql_password">MySQL passord</string>
   <string name="mysql_server">MySQL-server</string>

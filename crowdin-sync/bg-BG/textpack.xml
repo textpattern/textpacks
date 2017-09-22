@@ -348,7 +348,7 @@
   <string name="site_url_mismatch">URL адреса на сайта е неправилен</string>
   <string name="some_php_functions_disabled">Следните PHP-функции (които може да са необходими за Textpattern) са деактивирани на сървъра</string>
   <string name="still_exists">все още съществува</string>
-  <string name="textpattern_update_available">Има нова Textpattern CMS версия {version}, <a href="https://textpattern.com/download" rel="external" title="Go to the Textpattern CMS download area">която можете да свалите</a>.</string>
+  <string name="textpattern_update_available">Има нова Textpattern CMS версия {version}, <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern CMS download area">която можете да свалите</a>.</string>
   <string name="tmp_plugin_paths_match">Пътят към временната директория <strong>не бива</strong> да съвпада с този на директоията за кеш на приставките.</string>
   <string name="txp_path">Път за Textpattern</string>
   <string name="txp_version">Версия на Textpattern</string>

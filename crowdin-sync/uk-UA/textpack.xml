@@ -385,7 +385,7 @@
   <string name="site_url_mismatch">Установки URL можуть бути невірними</string>
   <string name="some_php_functions_disabled">Ці функції PHP вимкнені у вас на сервері (деякі з них можуть бути необхідні для роботи Textpattern)</string>
   <string name="still_exists">все ще існує</string>
-  <string name="textpattern_update_available">Нова версія Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Переглянути сайт Textpattern">доступна для завантаження</a>.</string>
+  <string name="textpattern_update_available">Нова версія Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="Переглянути сайт Textpattern">доступна для завантаження</a>.</string>
   <string name="tmp_plugin_paths_match">Директорії для тимчасових файлів і для кеша плагінів <strong>не повинні збігатися</strong>.</string>
   <string name="txp_path">Шлях до Textpattern</string>
   <string name="txp_version">Версія Textpattern</string>
@@ -718,7 +718,7 @@
   <string name="timeoffset">Різниця в часі (години)</string>
   <string name="title_no_widow">Уникати одиноких слів в заголовках?</string>
   <string name="updated">Оновлено</string>
-  <string name="updated_branch_version_available">Доступне оновлення цієї версії <a href="https://textpattern.com/download" rel="external" title="Переглянути сайт Textpattern"> Textpattern</a>.</string>
+  <string name="updated_branch_version_available">Доступне оновлення цієї версії <a href="http://textpattern.com/download" rel="external" title="Переглянути сайт Textpattern"> Textpattern</a>.</string>
   <string name="update_languages">Оновити мови</string>
   <string name="up_to_date">До теперішнього часу</string>
   <string name="urls_to_ping">адреси для пінгування (через кому)</string>

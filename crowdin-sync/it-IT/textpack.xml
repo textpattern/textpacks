@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">L’URL del sito specificato nelle preferenze potrebbe non essere corretto</string>
   <string name="some_php_functions_disabled">Le seguenti funzioni PHP (che potrebbero essere necessarie per il corretto funzionamento di Textpattern) sono disabilitate sul tuo server</string>
   <string name="still_exists">già esistente</string>
-  <string name="textpattern_update_available"><a href="https://textpattern.com/download" rel="external" title="Vai all’area download di Textpattern CMS">Disponibile per il download</a> la nuova versione {version} di Textpattern CMS.</string>
+  <string name="textpattern_update_available"><a href="http://textpattern.com/download" rel="external" title="Vai all’area download di Textpattern CMS">Disponibile per il download</a> la nuova versione {version} di Textpattern CMS.</string>
   <string name="tmp_plugin_paths_match">I percorsi della directory temporanea e della directory di cache dei plug-in <strong>non</strong> devono essere uguali.</string>
   <string name="txp_path">Percorso di Textpattern</string>
   <string name="txp_version">Versione di Textpattern</string>
@@ -703,7 +703,7 @@
   <string name="mentions">Menzioni</string>
   <string name="messy">\?=sporchi</string>
   <string name="never_display_email">Nascondi sempre l’email?</string>
-  <string name="new_textpattern_version_available">È disponibile una nuova versione di Textpattern. Vuoi <a href="https://textpattern.com/download" rel="external" title="Vai all\'area download del sito Textpattern">scaricarla</a>?</string>
+  <string name="new_textpattern_version_available">È disponibile una nuova versione di Textpattern. Vuoi <a href="http://textpattern.com/download" rel="external" title="Vai all\'area download del sito Textpattern">scaricarla</a>?</string>
   <string name="no_popup">stessa finestra</string>
   <string name="no_preferences">Nessune preferenze disponibili.</string>
   <string name="override_emailcharset">Uso la codifica ISO-8859-1 per le email (la predefinita è UTF-8)?</string>
@@ -749,7 +749,7 @@
   <string name="title_no_widow">Previeni parole ‘vedove’ nei titoli degli articoli?</string>
   <string name="title_only">/titolo</string>
   <string name="updated">aggiornato</string>
-  <string name="updated_branch_version_available">È disponibile un aggiornamento di questa serie di Textpattern CMS. Vuoi <a href="https://textpattern.com/download" rel="external" title="Vai all’area download del sito Textpattern">scaricarlo</a>?</string>
+  <string name="updated_branch_version_available">È disponibile un aggiornamento di questa serie di Textpattern CMS. Vuoi <a href="http://textpattern.com/download" rel="external" title="Vai all’area download del sito Textpattern">scaricarlo</a>?</string>
   <string name="update_languages">Aggiorna le lingue</string>
   <string name="up_to_date">Fino alla data</string>
   <string name="urls_to_ping">URL da ‘pingare’ (separati da virgola)</string>
@@ -1029,7 +1029,7 @@
   <string name="db_must_exist">Notare che il database specificato deve già esistere, non viene creato da Textpattern.</string>
   <string name="did_it">Fatto</string>
   <string name="email_required">Inserisci un indirizzo email valido.</string>
-  <string name="errors_during_install">Si sono verificati <strong>{num}</strong> errori durante l’installazione. Per assistenza puoi chiedere aiuto nel <a href="https://forum.textpattern.io/" rel="external">Textpattern CMS Support Forum</a>.</string>
+  <string name="errors_during_install">Si sono verificati <strong>{num}</strong> errori durante l’installazione. Per assistenza puoi chiedere aiuto nel <a href="http://forum.textpattern.com/" rel="external">Textpattern CMS Support Forum</a>.</string>
   <string name="get_started">Vai!</string>
   <string name="go_to_login">Accedi ora</string>
   <string name="installation_postamble">Per sicurezza, ora dovresti rimuovere la cartella <code>setup</code> dalla directory <code>/textpattern/</code>. Di tanto in tanto controlla il pannello di Amministrazione Diagnostica per annunci su aggiornamenti o suggerimenti sulla risoluzione dei problemi.</string>

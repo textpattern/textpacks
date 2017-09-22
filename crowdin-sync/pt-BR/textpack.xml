@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">A preferência da URL do site pode estar incorreta</string>
   <string name="some_php_functions_disabled">Algumas funções PHP não estão disponíveis</string>
   <string name="still_exists">ainda existe</string>
-  <string name="textpattern_update_available">A versão {version} do Textpattern CMS esta disponível para <a href="https://textpattern.com/download" rel="external" title="Fazer download">download</a>.</string>
+  <string name="textpattern_update_available">A versão {version} do Textpattern CMS esta disponível para <a href="http://textpattern.com/download" rel="external" title="Fazer download">download</a>.</string>
   <string name="tmp_plugin_paths_match">O Caminho para o diretório temporário e o da cache de plugins <strong>não</strong> devem ser idênticos.</string>
   <string name="txp_path">Localização do Textpattern</string>
   <string name="txp_version">Versão do Textpattern</string>

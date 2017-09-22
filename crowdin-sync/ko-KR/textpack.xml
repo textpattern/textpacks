@@ -830,7 +830,7 @@
   <string name="db_must_exist">지정한 데이터베이스가 반드시 존재해야 합니다. Textpattern이 만들지 않습니다.</string>
   <string name="did_it">작업 완료</string>
   <string name="email_required">유효한 전자우편 주소를 입력하세요</string>
-  <string name="errors_during_install">설치 도중에 <strong>{num}</strong> 개의 에러가 발생했습니다. <a href="https://forum.textpattern.io/" rel="external">Textpattern Support Forum</a>에 도움을 요청할 수 있습니다.</string>
+  <string name="errors_during_install">설치 도중에 <strong>{num}</strong> 개의 에러가 발생했습니다. <a href="http://forum.textpattern.com/" rel="external">Textpattern Support Forum</a>에 도움을 요청할 수 있습니다.</string>
   <string name="mysql_database">MySQL 데이터베이스</string>
   <string name="mysql_login">MySQL 로그인</string>
   <string name="mysql_password">MySQL 비밀번호</string>

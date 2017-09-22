@@ -339,7 +339,7 @@
   <string name="site_url_mismatch">A preferência do URL do sítio pode estar incorrecta</string>
   <string name="some_php_functions_disabled">Algumas funções PHP não estão disponíveis</string>
   <string name="still_exists">ainda existe</string>
-  <string name="textpattern_update_available">Uma novo versão do Textpattern {version} <a href="https://textpattern.com/download" rel="external">está disponivel para descarga</a>.</string>
+  <string name="textpattern_update_available">Uma novo versão do Textpattern {version} <a href="http://textpattern.com/download" rel="external">está disponivel para descarga</a>.</string>
   <string name="tmp_plugin_paths_match">O Caminho para o directório temporário e o da cache de plugins <strong>não</strong> devem ser idênticos.</string>
   <string name="txp_path">Localização do Textpattern</string>
   <string name="txp_version">Versão do Textpattern</string>

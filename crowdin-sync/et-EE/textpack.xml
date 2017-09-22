@@ -405,7 +405,7 @@
   <string name="mentions">Nimetused</string>
   <string name="messy">\?=sassis</string>
   <string name="never_display_email">Ära kunagi näita emaili?</string>
-  <string name="new_textpattern_version_available">Täiesti uus Textpatterni versioon on saadaval. Kas soovid <a href="https://textpattern.com/download" rel="external">seda proovida</a>?</string>
+  <string name="new_textpattern_version_available">Täiesti uus Textpatterni versioon on saadaval. Kas soovid <a href="http://textpattern.com/download" rel="external">seda proovida</a>?</string>
   <string name="no_popup">Samas aknas</string>
   <string name="override_emailcharset">Kasuta emailides ISO-8559-1? (vaikimisi UTF-8)?</string>
   <string name="path_from_root">Alamkataloog (kui on)</string>
@@ -435,7 +435,7 @@
   <string name="timeoffset">Ajanihe (tundides)</string>
   <string name="title_only">/pealkiri</string>
   <string name="updated">Uuendatud</string>
-  <string name="updated_branch_version_available">Uuendatud versioon Textpatternist on saadaval. Kas soovid <a href="https://textpattern.com/download" rel="external">seda proovida</a>?</string>
+  <string name="updated_branch_version_available">Uuendatud versioon Textpatternist on saadaval. Kas soovid <a href="http://textpattern.com/download" rel="external">seda proovida</a>?</string>
   <string name="update_languages">Uuenda keel</string>
   <string name="urls_to_ping">URL-id pingimiseks (komadega eraldatud)</string>
   <string name="url_mode">URLi reziim</string>

@@ -343,7 +343,7 @@
   <string name="site_url_mismatch">Địa chỉ trang thông tin điện tử có vẻ sai</string>
   <string name="some_php_functions_disabled">Những hàm PHP sau (có thể Textpattern sử dụng đến) bị vô hiệu hóa trên máy chủ của bạn</string>
   <string name="still_exists">vẫn còn tồn tại</string>
-  <string name="textpattern_update_available">Đã có phiên bản Textpattern CMS {version} <a href="https://textpattern.com/download" rel="external" title="Go to the Textpattern CMS download area">để có thể tải về</a>.</string>
+  <string name="textpattern_update_available">Đã có phiên bản Textpattern CMS {version} <a href="http://textpattern.com/download" rel="external" title="Go to the Textpattern CMS download area">để có thể tải về</a>.</string>
   <string name="tmp_plugin_paths_match">Đường dẫn thư mục tạm và đệm cho phần bổ xung <strong>không</strong> được trùng nhau.</string>
   <string name="txp_path">Đường dẫn Textpattern</string>
   <string name="txp_version">Phiên bản Textpattern</string>

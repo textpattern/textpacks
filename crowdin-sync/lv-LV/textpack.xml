@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">Vietnes URL uzstādījums varētu būt nepareizs</string>
   <string name="some_php_functions_disabled">Šīs PHP funkcijas (kuras var būt nepieciešamas Textpattern lietošanai) uz tava servera ir atslēgtas</string>
   <string name="still_exists">joprojām pastāv</string>
-  <string name="textpattern_update_available">Jauna Textpattern CMS versija {version} <a href="https://textpattern.com/download" rel="external" title="Doties uz Textpattern CMS lejupielāžu lapu">ir pieejama lejupielādei</a>.</string>
+  <string name="textpattern_update_available">Jauna Textpattern CMS versija {version} <a href="http://textpattern.com/download" rel="external" title="Doties uz Textpattern CMS lejupielāžu lapu">ir pieejama lejupielādei</a>.</string>
   <string name="tmp_plugin_paths_match">Pagaidu direktorijas un spraudņu keša direktorijas ceļiem <strong>nevajadzētu</strong> sakrist.</string>
   <string name="txp_path">Textpattern atrašanas vieta</string>
   <string name="txp_version">Textpattern versija</string>
@@ -1028,7 +1028,7 @@
   <string name="db_must_exist">Ņemiet vērā, ka norādītajai datubāzei jau ir jābūt izveidotai; Textpattern to automātiski neizveidos.</string>
   <string name="did_it">Darīts</string>
   <string name="email_required">Lūdzu, ierakstiet derīgu e-pasta adresi.</string>
-  <string name="errors_during_install">Instalācijas laikā atgadījās <strong>{num}</strong> kļūmes. Vaicājiet pēc padoma <a href="https://forum.textpattern.io/" rel="external">Textpattern foruma</a> lapās.</string>
+  <string name="errors_during_install">Instalācijas laikā atgadījās <strong>{num}</strong> kļūmes. Vaicājiet pēc padoma <a href="http://forum.textpattern.com/" rel="external">Textpattern foruma</a> lapās.</string>
   <string name="get_started">Aiziet!</string>
   <string name="go_to_login">Pieslēgties tagad</string>
   <string name="installation_postamble">Drošības apsvērumu dēļ jums tagad vajadzētu izdzēst <code>setup</code> direktoriju no jūsu Textpattern servera. Lūdzu, laiku pa laikam apskatiet Administrācija Diagnostika paneli, lai sekotu līdzi atjauninājumu paziņojumiem un problēmu n</string>

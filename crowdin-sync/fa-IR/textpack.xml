@@ -348,7 +348,7 @@
   <string name="site_url_mismatch">مرجع آدرس سایت ممکن است نادرست باشد</string>
   <string name="some_php_functions_disabled">این توابع PHP (که برای راه‌اندازی Textpattern ضروری‌اند) بر روی سرور شما غیر فعال‌اند.</string>
   <string name="still_exists">همچنان وجود دارد</string>
-  <string name="textpattern_update_available">نسخه‌ی جدید سیستم مدیریت محتوای Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="رفتن به بخش دانلود">برای دریافت آماده است</a></string>
+  <string name="textpattern_update_available">نسخه‌ی جدید سیستم مدیریت محتوای Textpattern {version} <a href="http://textpattern.com/download" rel="external" title="رفتن به بخش دانلود">برای دریافت آماده است</a></string>
   <string name="tmp_plugin_paths_match">مسیر پوشه‌ی فایل‌های موقت و مسیر کش پلاگین‌ها <strong>نباید</strong> یکی باشند.</string>
   <string name="txp_path">مسیر Textpattern</string>
   <string name="txp_version">نسخه Textpattern</string>
@@ -665,7 +665,7 @@
   <string name="timeoffset">انحراف زمانی (ساعت)</string>
   <string name="title_no_widow">ممانعت از ورود لغات ناقص در عنوان مقالات؟</string>
   <string name="updated">بهنگام شده</string>
-  <string name="updated_branch_version_available">نسخه ی جدیدی جهت به روزرسانی وجود دارد. آیا می خواهید <a href="https://textpattern.com/download" rel="external"> دانلودش کنید </a></string>
+  <string name="updated_branch_version_available">نسخه ی جدیدی جهت به روزرسانی وجود دارد. آیا می خواهید <a href="http://textpattern.com/download" rel="external"> دانلودش کنید </a></string>
   <string name="update_languages">بهنگام‌سازی زبان‌ها</string>
   <string name="up_to_date">به روز</string>
   <string name="urls_to_ping">نشانی جاهایی که باید به آن‌ها پینگ شود (با کاما جدا کنید)</string>

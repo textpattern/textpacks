@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">De URL van de site in de voorkeuren is mogelijk niet correct</string>
   <string name="some_php_functions_disabled">Sommige PHP functies zijn uitgeschakeld</string>
   <string name="still_exists">bestaat nog</string>
-  <string name="textpattern_update_available">Nieuwe textpattern versie {version} <a href="https://textpattern.com/download" rel="external" title="Ga naar de Textpattern CMS download">beschikbaar voor download</a>.</string>
+  <string name="textpattern_update_available">Nieuwe textpattern versie {version} <a href="http://textpattern.com/download" rel="external" title="Ga naar de Textpattern CMS download">beschikbaar voor download</a>.</string>
   <string name="tmp_plugin_paths_match">Het pad naar de tijdelijke bestanden map en de map voor de plugin cache mogen <strong>niet</strong> identiek zijn.</string>
   <string name="txp_path">Pad naar textpattern</string>
   <string name="txp_version">Textpattern versie</string>
@@ -1029,7 +1029,7 @@
   <string name="db_must_exist">De database die je opgeeft moet bestaan; Textpattern kan hem niet voor je aanmaken.</string>
   <string name="did_it">OK, heb ik gedaan</string>
   <string name="email_required">Er moet een geldig emailadres worden ingevuld.</string>
-  <string name="errors_during_install">Er waren <strong>{num}</strong> foutmeldingen tijdens de installatie. Je kunt het beste een hulpvraag stelen in de <a href="https://forum.textpattern.io/" rel="external">textpattern forums</a>.</string>
+  <string name="errors_during_install">Er waren <strong>{num}</strong> foutmeldingen tijdens de installatie. Je kunt het beste een hulpvraag stelen in de <a href="http://forum.textpattern.com/" rel="external">textpattern forums</a>.</string>
   <string name="get_started">Aan de slag!</string>
   <string name="go_to_login">Log nu in</string>
   <string name="installation_postamble">Verwijder nu met het oog op de veiligheid de map <code>setup</code> uit je Textpatterninstallatie. Controleer geregeld Beheer Diagnose op updatemeldingen of aanwijzingen voor probleemoplossing.</string>

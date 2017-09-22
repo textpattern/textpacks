@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">Die Einstellungen der Seiten-URL scheinen falsch zu sein.</string>
   <string name="some_php_functions_disabled">Einige PHP-Funktionen sind deaktiviert.</string>
   <string name="still_exists">noch vorhanden. Bitte löschen!</string>
-  <string name="textpattern_update_available">Eine neue Version {version} von Textpattern CMS ist <a href="https://textpattern.com/download" rel="external">zum Download verfügbar</a>.</string>
+  <string name="textpattern_update_available">Eine neue Version {version} von Textpattern CMS ist <a href="http://textpattern.com/download" rel="external">zum Download verfügbar</a>.</string>
   <string name="tmp_plugin_paths_match">Temporäres Verzeichnis und Pfad des Pluginzwischenspeichers sollten <strong>nicht</strong> identisch sein.</string>
   <string name="txp_path">Textpattern-Pfad</string>
   <string name="txp_version">Textpattern-Version</string>
@@ -703,7 +703,7 @@
   <string name="mentions">Verweise</string>
   <string name="messy">\?=unordentlich</string>
   <string name="never_display_email">E-Mail in Kommentaren verbergen?</string>
-  <string name="new_textpattern_version_available">Eine neue Version von Textpattern ist verfügbar! Sie können diese <a href="https://textpattern.com/download" rel="external">hier herunterladen</a>.</string>
+  <string name="new_textpattern_version_available">Eine neue Version von Textpattern ist verfügbar! Sie können diese <a href="http://textpattern.com/download" rel="external">hier herunterladen</a>.</string>
   <string name="no_popup">aktuelles Fenster</string>
   <string name="no_preferences">Keine Einstellungen verfügbar.</string>
   <string name="override_emailcharset">E-Mails mit ISO-8559-1 versenden? (Standard ist utf-8)</string>

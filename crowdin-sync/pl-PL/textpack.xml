@@ -405,7 +405,7 @@
   <string name="site_url_mismatch">Ustawienia adresu strony mogą być niepoprawne</string>
   <string name="some_php_functions_disabled">Następujące funkcje PHP są wyłączone (może mieć to wpływ na funkcjonowanie Textpattern)</string>
   <string name="still_exists">nadal istnieje</string>
-  <string name="textpattern_update_available">Nowa wersja Textpattern {version} <a href="https://textpattern.com/download" rel="external">czeka na pobranie</a>.</string>
+  <string name="textpattern_update_available">Nowa wersja Textpattern {version} <a href="http://textpattern.com/download" rel="external">czeka na pobranie</a>.</string>
   <string name="tmp_plugin_paths_match">Ścieżka katalogu tymczasowego i ścieżka cache pluginów <strong>nie mogą</strong> być takie same.</string>
   <string name="txp_path">Ścieżka do Textpattern</string>
   <string name="txp_version">Wersja Textpattern</string>
@@ -703,7 +703,7 @@
   <string name="mentions">Odsyłacze</string>
   <string name="messy">\?=bałagan</string>
   <string name="never_display_email">Nigdy nie pokazywać adresów email?</string>
-  <string name="new_textpattern_version_available">Dostępna jest nowa wersja Textpattern. Chcesz ją <a href="https://textpattern.com/download" rel="external">wypróbować</a>?</string>
+  <string name="new_textpattern_version_available">Dostępna jest nowa wersja Textpattern. Chcesz ją <a href="http://textpattern.com/download" rel="external">wypróbować</a>?</string>
   <string name="no_popup">w tym samym oknie</string>
   <string name="no_preferences">Brak dostępnych preferencji.</string>
   <string name="override_emailcharset">Używać ISO-8859-1 w emailach (domyślnie jest UTF-8)?</string>
@@ -749,7 +749,7 @@
   <string name="title_no_widow">Zapobiegać wdowom w tytułach artykułów (typografia)?</string>
   <string name="title_only">/tytuł</string>
   <string name="updated">Uaktualniony</string>
-  <string name="updated_branch_version_available">Dostępna jest nowa wersja Textpattern. Chcesz ją <a href="https://textpattern.com/download" rel="external">wypróbować</a>?</string>
+  <string name="updated_branch_version_available">Dostępna jest nowa wersja Textpattern. Chcesz ją <a href="http://textpattern.com/download" rel="external">wypróbować</a>?</string>
   <string name="update_languages">Zaktualizuj języki</string>
   <string name="up_to_date">Aktualny</string>
   <string name="urls_to_ping">Adresy, do których ma być wysyłany ping (oddzielone przecinkami)</string>

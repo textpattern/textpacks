@@ -330,7 +330,7 @@
   <string name="site_url_mismatch">ייתכן כי הגדרת כתובת האתר שגוייה</string>
   <string name="some_php_functions_disabled">פונקציות ה-PHP הבאות( הנחוצות ל-Textpattern) מבוטלות בשרת שלך:</string>
   <string name="still_exists">עדייו קיים</string>
-  <string name="textpattern_update_available">גירסה חדשה של מערכת Textpattern ({version}) <a href="https://textpattern.com/download" rel="external" title="הורד את מאיזור ההורדות של Textpattern">זמינה להורדה</a>.</string>
+  <string name="textpattern_update_available">גירסה חדשה של מערכת Textpattern ({version}) <a href="http://textpattern.com/download" rel="external" title="הורד את מאיזור ההורדות של Textpattern">זמינה להורדה</a>.</string>
   <string name="tmp_plugin_paths_match">הספרייה הזמנית ספריית מטמון התוספים אינם יכולים להיות זהות.</string>
   <string name="txp_path">מסלול Textpattern</string>
   <string name="txp_version">גירסת Textpattern</string>
@@ -605,7 +605,7 @@
   <string name="max_url_len">אורך מקסימלי של כתובת</string>
   <string name="messy">\?=messy</string>
   <string name="never_display_email">לעולם לא להציג דואל?</string>
-  <string name="new_textpattern_version_available">גירסה חדשה של <a href="https://textpattern.com/download" rel="external">Textpattern</a> שוחררה. האם ברצונך לנסות אותה?</string>
+  <string name="new_textpattern_version_available">גירסה חדשה של <a href="http://textpattern.com/download" rel="external">Textpattern</a> שוחררה. האם ברצונך לנסות אותה?</string>
   <string name="no_popup">החלון הנוכחי</string>
   <string name="override_emailcharset">להשתמש בקידוד ISO-8859-1 לדואל? (ברירת המחדל היא UTF-8)?</string>
   <string name="path_from_root">תת ספרייה (אם קיימת)</string>
@@ -642,7 +642,7 @@
   <string name="timeoffset">איזור הזמן(בשעות)</string>
   <string name="title_no_widow">לא לאפשר מילים בודדות ככותרות המאמר?</string>
   <string name="updated">עודכן</string>
-  <string name="updated_branch_version_available">שוחררה גירסה מעודכנת של ענף <a href="https://textpattern.com/download" rel="external">Textpattern</a> זה.</string>
+  <string name="updated_branch_version_available">שוחררה גירסה מעודכנת של ענף <a href="http://textpattern.com/download" rel="external">Textpattern</a> זה.</string>
   <string name="update_languages">קבצים שעודכנו</string>
   <string name="urls_to_ping">כתובות לבדיקה(מופרדים בפסיק)</string>
   <string name="url_mode">מצב הכתובת</string>
