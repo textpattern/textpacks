@@ -987,6 +987,7 @@ you_can_access => <a href="index.php">メイン画面</a>より、先程指定�
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

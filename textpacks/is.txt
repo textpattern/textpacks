@@ -987,6 +987,7 @@ you_can_access => Nú ættir þú að geta tengst <a href="index.php">stjórnbor
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

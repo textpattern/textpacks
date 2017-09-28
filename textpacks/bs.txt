@@ -987,6 +987,7 @@ you_can_access => Trebalo bi da možete pristupiti <a href="index.php">main inte
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

@@ -987,6 +987,7 @@ you_can_access => Vous devriez normalement avoir accès à <a href="index.php">l
 #@skin
 create_skin => Créer un thème
 edit_skin => Éditer le thème
+import_skin =>
 search_skins => Recherche de thèmes
 skin_author => Auteur du thème
 skin_description => Descriptif du thème

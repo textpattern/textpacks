@@ -987,6 +987,7 @@ you_can_access => Las tablas de la base de datos de Textpattern se han creado y 
 #@skin
 create_skin => Crear aspecto
 edit_skin => Editar aspecto
+import_skin =>
 search_skins =>
 skin_author => Autor del aspecto
 skin_description =>

@@ -987,6 +987,7 @@ you_can_access => Sinun pitäisi nyt päästä <a href="index.php">pääkäyttö
 #@skin
 create_skin => Luo ulkoasu
 edit_skin => Muokkaa ulkoasua
+import_skin =>
 search_skins =>
 skin_author => Ulkoasun tekijä
 skin_description =>

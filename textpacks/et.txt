@@ -987,6 +987,7 @@ you_can_access => Sa peaksid nüüd ligi pääsema <a href="index.php">põhi-kas
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

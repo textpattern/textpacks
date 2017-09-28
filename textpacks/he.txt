@@ -987,6 +987,7 @@ you_can_access => תוכל לגשת אל <a href="index.php">הממשק הראש
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

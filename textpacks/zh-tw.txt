@@ -987,6 +987,7 @@ you_can_access => 您可以使用帳號密碼登入 <a href="index.php">管理�
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

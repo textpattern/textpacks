@@ -987,6 +987,7 @@ you_can_access => <a href="index.php">Hlavné rozhranie</a> by malo byť dostupn
 #@skin
 create_skin => Vytvoriť skin
 edit_skin => Upraviť skin
+import_skin =>
 search_skins =>
 skin_author => Autor skinu
 skin_description =>

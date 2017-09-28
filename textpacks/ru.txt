@@ -987,6 +987,7 @@ you_can_access => Теперь вам доступен <a href="index.php">ос�
 #@skin
 create_skin => Создать скин
 edit_skin => Редактировать скин
+import_skin =>
 search_skins =>
 skin_author => Автор скина
 skin_description =>

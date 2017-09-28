@@ -987,6 +987,7 @@ you_can_access => Тепер вам повинен бути доступний <
 #@skin
 create_skin => Створити скін
 edit_skin => Редагувати скін
+import_skin =>
 search_skins =>
 skin_author => Автор скіна
 skin_description =>

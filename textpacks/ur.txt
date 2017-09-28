@@ -987,6 +987,7 @@ you_can_access => میں انتخاب کردہ لاگ ان معلومات کے �
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

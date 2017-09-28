@@ -987,6 +987,7 @@ you_can_access => 설정한 로그인 아이디와 비밀번호로 <a href="inde
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

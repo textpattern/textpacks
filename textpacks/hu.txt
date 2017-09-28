@@ -987,6 +987,7 @@ you_can_access => A választott névvel és jelszóval el kell tudnod érni a <a
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

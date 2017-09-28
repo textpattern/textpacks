@@ -987,6 +987,7 @@ you_can_access => Du ska nu kunna nå <a href="index.php">startsidan</a> med det
 #@skin
 create_skin => Skapa skal
 edit_skin => Redigera skal
+import_skin =>
 search_skins =>
 skin_author => Skalskapare
 skin_description =>

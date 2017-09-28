@@ -987,6 +987,7 @@ you_can_access => Може да влезете в <a href="index.php">основ
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

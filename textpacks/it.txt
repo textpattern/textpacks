@@ -987,6 +987,7 @@ you_can_access => Le tabelle del database di Textpattern CMS sono state create e
 #@skin
 create_skin => Crea tema
 edit_skin => Modifica tema
+import_skin =>
 search_skins =>
 skin_author => Autore tema
 skin_description =>

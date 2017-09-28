@@ -987,6 +987,7 @@ you_can_access => Você poderá acessar a <a href="index.php">área administrati
 #@skin
 create_skin => Criar tema
 edit_skin => Editar tema
+import_skin =>
 search_skins =>
 skin_author => Autor do tema
 skin_description =>

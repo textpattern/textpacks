@@ -987,6 +987,7 @@ you_can_access => Ar trebui sa poti accesa <a href="index.php">partea de adminis
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>

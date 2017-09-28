@@ -987,6 +987,7 @@ you_can_access => Nyní můžeš vstoupit do <a href="index.php">uživatelského
 #@skin
 create_skin => Vytvořit skin
 edit_skin => Upravit skin
+import_skin =>
 search_skins =>
 skin_author => Autor skinu
 skin_description =>

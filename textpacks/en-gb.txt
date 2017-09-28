@@ -987,6 +987,7 @@ you_can_access => Textpattern database tables were created and populated. You sh
 #@skin
 create_skin => Create new theme
 edit_skin => Edit theme
+import_skin => Import theme
 search_skins => Search themes
 skin_author => Theme author
 skin_description => Theme description

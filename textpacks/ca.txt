@@ -987,6 +987,7 @@ you_can_access => Ara ja hauries de poder accedir a <a href="index.php">l’àre
 #@skin
 create_skin =>
 edit_skin =>
+import_skin =>
 search_skins =>
 skin_author =>
 skin_description =>
