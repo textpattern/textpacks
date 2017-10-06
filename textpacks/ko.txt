@@ -350,6 +350,7 @@ htaccess_contents => .htaccess 파일 내용
 htaccess_missing => .htaccess 파일이 존재하지 않음
 is_inaccessible => 접근할 수 없음
 last_update => 최종 갱신
+last_update_check =>
 low => 간단히
 missing_files => 찾을 수 없는 파일들
 modified_files => 몇몀 텍스트패턴 파일이 수정됨

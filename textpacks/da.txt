@@ -350,6 +350,7 @@ htaccess_contents => .htaccess fil indhold
 htaccess_missing => .htaccess filen mangler
 is_inaccessible => er utilgængelig
 last_update => Sidst opdateret
+last_update_check =>
 low => Lav
 missing_files => Manglede filer
 modified_files => Nogle Textpattern filer er blevet ændret

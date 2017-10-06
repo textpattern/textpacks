@@ -350,6 +350,7 @@ htaccess_contents => Περιεχόμενα αρχείου .htaccess
 htaccess_missing => Το αρχείο .htaccess απουσιάζει
 is_inaccessible => δεν είναι προσβάσιμο
 last_update => Τελευταία ανανέωση
+last_update_check =>
 low => λίγες
 missing_files => Αρχεία που λείπουν
 modified_files => Ορισμένα αρχεία του Textpattern έχουν τροποποιηθεί

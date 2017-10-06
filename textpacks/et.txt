@@ -350,6 +350,7 @@ htaccess_contents => .htaccess faili sisu
 htaccess_missing => .htaccess fail puudub
 is_inaccessible => pole ligipääsetav
 last_update =>
+last_update_check =>
 low => Madal
 missing_files => Puuduvad failid
 modified_files =>

@@ -350,6 +350,7 @@ htaccess_contents => .htaccess фајл садржи
 htaccess_missing => .htaccess фајл недостаје
 is_inaccessible => је недоступан/на
 last_update => Последњи пут освежен
+last_update_check =>
 low =>
 missing_files => Недостају датотеке
 modified_files => Неки Textpattern фајлови су измењени

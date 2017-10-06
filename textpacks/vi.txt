@@ -350,6 +350,7 @@ htaccess_contents => Nội dung tập tin .htaccess
 htaccess_missing => Thiếu tập tin .htaccess
 is_inaccessible => không thể truy cập
 last_update => Cập nhật lần cuối
+last_update_check =>
 low => Thấp
 missing_files => tập tin bị thiếu
 modified_files => Một số tập tin Textpattern đã bị chỉnh sửa

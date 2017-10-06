@@ -350,6 +350,7 @@ htaccess_contents => .htaccess rinkmenos turinys
 htaccess_missing => trūksta .htaccess rinkmenos
 is_inaccessible => yra nepasiekiamas
 last_update => Paskutinis atnaujinimas
+last_update_check =>
 low => Žemas
 missing_files => Trūkstamos rinkmenos
 modified_files => Kai kurios Textpattern rinkmenos buvo pakeistos

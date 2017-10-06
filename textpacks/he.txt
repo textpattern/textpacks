@@ -350,6 +350,7 @@ htaccess_contents => תוכן קובץ .htaccess
 htaccess_missing => קובץ .htaccess חסר
 is_inaccessible => אינו נגיש
 last_update => עודכן לאחרונה
+last_update_check =>
 low => נמוך
 missing_files => קבצים חסרים
 modified_files => מספר קבצי Textpattern שונו

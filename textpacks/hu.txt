@@ -350,6 +350,7 @@ htaccess_contents => a .htaccess állomány tartalma
 htaccess_missing => a .htaccess állomány hiányzik
 is_inaccessible => nem elérhető
 last_update => Utolsó frissítés
+last_update_check =>
 low => alacsony
 missing_files => Hiányzó állományok
 modified_files => Néhány Textpattern állomány módosítva lett

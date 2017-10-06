@@ -350,6 +350,7 @@ htaccess_contents => .htaccess dosya içeriği
 htaccess_missing => .htaccess dosyası mevcut değil
 is_inaccessible => erişilebilir değil
 last_update => Son güncelleme
+last_update_check =>
 low => Düşük
 missing_files => Kayıp dosyalar
 modified_files => Bazı Textpattern dosyaları değişitirilmiş

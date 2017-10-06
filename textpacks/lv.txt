@@ -350,6 +350,7 @@ htaccess_contents => .htaccess faila saturs
 htaccess_missing => .htaccess fails iztrūkst
 is_inaccessible => ir nepieejams
 last_update => Pēdējās izmaiņas
+last_update_check =>
 low => Īsi
 missing_files => Trūkstoši faili
 modified_files => Daži Textpattern faili ir izmainīti

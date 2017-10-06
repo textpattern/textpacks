@@ -350,6 +350,7 @@ htaccess_contents => .htaccess 文件內容
 htaccess_missing => .htaccess 文件遺失
 is_inaccessible => 無效的
 last_update => 最後更新
+last_update_check =>
 low => 簡易
 missing_files => 檔案遺失
 modified_files => 部份 Textpattern 檔案已被修改過

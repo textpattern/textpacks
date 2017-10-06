@@ -350,6 +350,7 @@ htaccess_contents => Inhoud .htaccess bestand
 htaccess_missing => .htaccess bestand ontbreekt
 is_inaccessible => is niet toegankelijk
 last_update => Laatste update
+last_update_check =>
 low => Laag
 missing_files => Ontbrekende bestanden
 modified_files => Er zijn enkele gewijzigde Textpattern bestanden aanwezig

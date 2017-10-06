@@ -350,6 +350,7 @@ htaccess_contents => .htaccess فائل کی متن
 htaccess_missing => .htaccess فائل موجود نہیں
 is_inaccessible => کی رسائی نا پذیری ہے
 last_update => پچھلا تازہ کاری
+last_update_check =>
 low => پست
 missing_files => غائب‏ فائل
 modified_files => کچھ Textpattern کے فائل ترمیم کیے گئے ہیں

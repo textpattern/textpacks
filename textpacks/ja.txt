@@ -350,6 +350,7 @@ htaccess_contents => .htaccess ファイルの内容
 htaccess_missing => .htaccess ファイルがありません。
 is_inaccessible => はアクセス不能です
 last_update => 最終更新日
+last_update_check =>
 low => 簡易
 missing_files => 欠損ファイル
 modified_files => 一部の Textpattern ファイル(システムファイル)が変更されています

@@ -350,6 +350,7 @@ htaccess_contents => محتویات فایل .htaaccess
 htaccess_missing => فایل .htaccess موجود نیست
 is_inaccessible => دسترس‌پذیر نیست
 last_update => آخرین بهنگام‌سازی
+last_update_check =>
 low => کم
 missing_files => فایل های یافت نشده
 modified_files => برخی از فایل‌های Textpattern نغییر یافته‌اند

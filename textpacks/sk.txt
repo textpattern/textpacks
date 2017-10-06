@@ -350,6 +350,7 @@ htaccess_contents => Obsah súboru .htaccess
 htaccess_missing => Súbor .htaccess chýba
 is_inaccessible => nie je přístupné
 last_update => Posledná aktualizácia
+last_update_check =>
 low => Málo
 missing_files => Chýbajú súbory
 modified_files => Niektoré súbory Textpattern-u sú upravené.

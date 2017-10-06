@@ -350,6 +350,7 @@ htaccess_contents => contingut del fitxer .htaccess
 htaccess_missing => falta el fitxer .htaccess
 is_inaccessible => és inaccesible
 last_update => Darrera actualització
+last_update_check =>
 low => baix
 missing_files => Fitxers perduts
 modified_files => Alguns fitxers de Textpattern han estat modificats

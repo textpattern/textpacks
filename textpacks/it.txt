@@ -350,6 +350,7 @@ htaccess_contents => contenuto del file .htaccess
 htaccess_missing => file .htaccess mancante
 is_inaccessible => non è accessibile
 last_update => Ultimo aggiornamento
+last_update_check =>
 low => Basso
 missing_files => File mancanti
 modified_files => Alcuni file di Textpattern sono stati modificati

@@ -350,6 +350,7 @@ htaccess_contents =>
 htaccess_missing =>
 is_inaccessible =>
 last_update =>
+last_update_check =>
 low => ต่ำ
 missing_files =>
 modified_files =>
