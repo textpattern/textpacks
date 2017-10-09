@@ -619,7 +619,6 @@ markup_default => 默认标记语言
 max_url_len => 最大 URL 长度
 messy => ?=messy
 never_display_email => 不显示 E-mail 地址
-new_textpattern_version_available => 有一个全新的 Textpattern CMS 版本，您想 <a href="https://textpattern.com/download" rel="external" title="转到 Textpattern 官网下载区">下载它</a> 吗?
 no_preferences => 没有可用的偏好设置。
 override_emailcharset => E-mail 使用 ISO-8859-1 编码？（默认为 UTF-8）
 path_from_root => 子目录（如果存在）

@@ -619,7 +619,6 @@ markup_default => Výchozí značkování
 max_url_len => Nejdelší možné URL (ve znacích)
 messy => ?=ošklivé
 never_display_email => Skrývat emailové adresy?
-new_textpattern_version_available => Existuje zcela nová verze Textpattern. Chceš ji <a href="https://textpattern.com/download" rel="external">vyzkoušet</a>?
 no_preferences => Žádné předvolby k dispozici.
 override_emailcharset => Použít v emailech znakovou sadu ISO-8859-1 (výchozí je UTF-8)?
 path_from_root => Složka (je-li nějaká)

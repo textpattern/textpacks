@@ -619,7 +619,6 @@ markup_default => Förvald markup
 max_url_len => Max-längd på URL:ar (antal tecken)
 messy => ?=rörig
 never_display_email => Visa aldrig e-postadress?
-new_textpattern_version_available => En ny version av Textpattern finns tillgänglig! Vill du pröva den?
 no_preferences => Inga inställningar tillgängliga.
 override_emailcharset => Använd iso-8859-1 i e-postmeddelanden (utf-8 är förvalt)?
 path_from_root => Ev. underkatalog

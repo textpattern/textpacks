@@ -619,7 +619,6 @@ markup_default => Định dạng mặc định
 max_url_len => Chiều dài URL tối đa (tính theo số ký tự)
 messy => ?=số má lằng nhằng
 never_display_email => Không hiện địa chỉ thư điện tử?
-new_textpattern_version_available => Đã có phiên bản Textpattern mới. Bạn có muốn dùng thử không?
 no_preferences =>
 override_emailcharset => Dùng bảng mã ISO-8859-1 trong thư điện tử gửi đi (mặc định là UTF-8)?
 path_from_root => Thư mục con (nếu có)

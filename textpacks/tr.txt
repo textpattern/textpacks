@@ -619,7 +619,6 @@ markup_default => Varsayılan biçim
 max_url_len => Maksimum URL uzunluğu (karakter olarak)
 messy => ?=dağınık
 never_display_email => Asla e-posta adreslerini gösterme?
-new_textpattern_version_available => Yeni Textpattern sürümü mevcut. Denemek istermisiniz?
 no_preferences =>
 override_emailcharset => E-posta gönderirken ISO-8859-1 kodlamayı kullan (varsayılan UTF-8)?
 path_from_root => Alt klasörler (varsa)

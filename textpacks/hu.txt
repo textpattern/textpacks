@@ -619,7 +619,6 @@ markup_default => Alapértelmezett jelölő
 max_url_len => Az URL maximum hossza
 messy => ?=messy
 never_display_email => Soha ne jelenítse meg az email címet?
-new_textpattern_version_available => Egy teljesen új Textpattern változat érhető el. Kipróbálod?
 no_preferences =>
 override_emailcharset => ISO-8859-1 kódlap használata e-maielekhez? (alapértelmezett az UTF-8)
 path_from_root => Alkönytár (ha szükséges)

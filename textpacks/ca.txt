@@ -619,7 +619,6 @@ markup_default => Marcatge predeterminat
 max_url_len => Longitud màxima de les URLs
 messy => ?=brut
 never_display_email => No mostrar mai l’adreça de correu?
-new_textpattern_version_available => Hi ha disponible una nova versió de Textpattern.
 no_preferences =>
 override_emailcharset => Utilitzar ISO-8859-1 pels correus electrònics? (Per defecte es UTF-8)?
 path_from_root => Subdirectori (si en hi ha)

@@ -619,7 +619,6 @@ markup_default => Formato do Texto (por defeito)
 max_url_len => Máximo comprimento do URL
 messy => ?=confuso
 never_display_email => Nunca mostar endereço de email?
-new_textpattern_version_available => Está disponível uma versão completamente nova do Textpattern. Quer experimenta-la?
 no_preferences => Sem preferências disponíveis.
 override_emailcharset => No email usar ISO-8859-1? (UTF-8 por defeito)
 path_from_root => Subdirectório (se existir)

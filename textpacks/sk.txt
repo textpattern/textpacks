@@ -619,7 +619,6 @@ markup_default => Predvolené značkovanie
 max_url_len => Maximálna dĺžka URL
 messy => ?=škaredé
 never_display_email => Nikdy nezobraziť email?
-new_textpattern_version_available => Existuje úplne nová verzia Textpattern systému. Chcete ju vyskúšať?
 no_preferences => Žiadné predvolby k dispozícii.
 override_emailcharset => Používať kódovanie ISO-8859-1 v emailoch (prednastavené je UTF-8)?
 path_from_root => Priečinok (ak je nejaký)

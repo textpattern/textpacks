@@ -619,7 +619,6 @@ markup_default => Balises par défaut
 max_url_len => Taille maximum d’une URL (en caractères)
 messy => brutes (?=paramètres)
 never_display_email => Toujours masquer les adresses email ?
-new_textpattern_version_available => Une nouvelle version de Textpattern est disponible. <a href="https://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern">Voulez-vous la télécharger</a> ?
 no_preferences => Aucune préférence disponible.
 override_emailcharset => Transformer les emails en Latin 1 (ISO-8859-1) ?
 path_from_root => Sous-répertoire (s’il existe)

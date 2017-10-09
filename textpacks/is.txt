@@ -619,7 +619,6 @@ markup_default =>
 max_url_len => Hámarks lengd á slóðum
 messy => ?=sull
 never_display_email => Aldrei sýna póstfang?
-new_textpattern_version_available => Það er alveg ný útgáfa að Textpattern fáanleg, viltu reyna hana?
 no_preferences =>
 override_emailcharset => Nota ISO-8859-1 fyrir vefpóst (sjálfgefið er UTF-8)?
 path_from_root => Undirmappa (ef er)

@@ -619,7 +619,6 @@ markup_default => 記法の初期設定
 max_url_len => URLの最大長さ (文字数)
 messy => ?=messy
 never_display_email => メールアドレスを隠しますか？
-new_textpattern_version_available => Textpatternをバージョンアップ可能です。<a href="https://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">使用</a>してみますか？
 no_preferences =>
 override_emailcharset => メールのエンコードにISO-8859-1使用しますか(初期設定：UTF-8)？
 path_from_root => サブディレクトリ (任意)

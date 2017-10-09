@@ -619,7 +619,6 @@ markup_default =>
 max_url_len => URL کی زیادہ سے زیادہ‏ لمبائی (حروف میں)
 messy => ?=messy
 never_display_email => کیا تبصرہ نگار کا‏ ای میل پتہ پوشیدہ رکھیں ؟
-new_textpattern_version_available =>
 no_preferences =>
 override_emailcharset => کیا مرسلہ ای میل میں ISO-8859-1 ضابطہ بندی استمعال کریں ؟ (خودکار طور پر UTF-8 استمعال کیا جاۓ گا)
 path_from_root =>

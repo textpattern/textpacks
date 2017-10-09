@@ -619,7 +619,6 @@ markup_default => Standard markup
 max_url_len => Maksimal længde af URL (i tegn)
 messy => ?=rodet
 never_display_email => Vis aldrig email adresser?
-new_textpattern_version_available =>
 no_preferences =>
 override_emailcharset => Brug iso-8859-1 koding i udsendte emails (standard er UTF-8)?
 path_from_root => Undermappe (hvis findes)

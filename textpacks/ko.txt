@@ -619,7 +619,6 @@ markup_default => 기본 마크업
 max_url_len => 최대 URL 크기 (글자수)
 messy => ?=messy
 never_display_email => 전자우편 주소를 감춥니까?
-new_textpattern_version_available => 텍스트패턴의 새로운 버전이 나왔습니다. 설치하시겠습니까?
 no_preferences =>
 override_emailcharset => 전자우편에 ISO-8859-1을 사용하겠습니까? (기본은 utf-8)
 path_from_root => 하위 경로(있다면)

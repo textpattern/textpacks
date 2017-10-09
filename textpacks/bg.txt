@@ -619,7 +619,6 @@ markup_default => Оформление по подразбиране
 max_url_len => Максимална дължина на URL (знаци)
 messy => ?=messy
 never_display_email => Никога не показвай email-a?
-new_textpattern_version_available => Има нова версия на Textpattern. Искате ли да я пробвате?
 no_preferences =>
 override_emailcharset => Използвай ISO-8859-1 кодировка за email-ите? (по подразбиране е UTF-8)
 path_from_root => Поддиректория (ако има)

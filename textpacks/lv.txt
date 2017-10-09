@@ -619,7 +619,6 @@ markup_default => Standarta iezīmes
 max_url_len => Maksimālais lapas adreses garums
 messy => ?=nekārtīgi-virsraksti
 never_display_email => Nerādīt e-pasta adreses?
-new_textpattern_version_available => Ir pieejama pilnīgi jauna Textpattern versija. Vai vēlies to izmēģināt?
 no_preferences => Izvēles nav pieejamas.
 override_emailcharset => Lietot ISO-8859-1 e-pasta ziņās? (noklusēti UTF-8)
 path_from_root => Apakšmape (ja tādas pastāv)

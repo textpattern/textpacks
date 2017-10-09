@@ -619,7 +619,6 @@ markup_default => Розмітка за замовчуванням
 max_url_len => Максимальна довжина URL
 messy => ?=безлад
 never_display_email => Не показувати email?
-new_textpattern_version_available => Доступна нова версія Textpattern. Бажаєте її випробувати?
 no_preferences =>
 override_emailcharset => Використовувати кодування ISO-8859-1 для email? (за замовчуванням: UTF-8)?
 path_from_root => Субдиректорія (якщо є)

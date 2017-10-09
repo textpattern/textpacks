@@ -619,7 +619,6 @@ markup_default =>
 max_url_len => Batas panjang URL (dalam karakter)
 messy => ?=berantakan
 never_display_email => Sembunyikan alamat email?
-new_textpattern_version_available => Ada versi terbaru Textpattern yang tersedia. Apakah Anda ingin mencobanya?
 no_preferences =>
 override_emailcharset => Gunakan ISO-8859-1 untuk email (standarnya UTF-8)?
 path_from_root => Sub-direktori (jika ada)

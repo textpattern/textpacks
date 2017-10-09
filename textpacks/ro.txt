@@ -619,7 +619,6 @@ markup_default => Markup de baza
 max_url_len => Marimea maxima a URL-ului
 messy => ?=dezordonat
 never_display_email => Nu afisa adresa de mail?
-new_textpattern_version_available => Este disponibila o versiune complet noua a Textpattern-ului. Vrei sa o incerci?
 no_preferences =>
 override_emailcharset => Foloseste ISO-8859-1 pentru email-uri? (default-ul este UTF-8)
 path_from_root => Subdirectoriu (daca este cazul)
