@@ -374,6 +374,7 @@ site_url_mismatch => Site URL pодешавања су можда погрешн
 some_php_functions_disabled =>
 still_exists => и даље постоји
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match =>
 txp_path => Textpattern путања
 txp_version => Textpattern верзија

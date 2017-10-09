@@ -374,6 +374,7 @@ site_url_mismatch => Preferensa URL sajta je možda neispravna
 some_php_functions_disabled => Slijedeće PHP funkcije (koje su neophodne za pokretanje Textpatterna) su onemogućene na Vašem serveru
 still_exists => još postoji
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Putanja do privremene mape i privremena memorija za dodatke (Plugin cache) <strong>not</strong> treba da se podudaraju.
 txp_path => Textpattern putanja
 txp_version => Textpattern verzija

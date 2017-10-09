@@ -374,6 +374,7 @@ site_url_mismatch => La preferència URL del website podria ser incorrecta
 some_php_functions_disabled => Les següents funcions PHP (que podrien ser necessàries per fer anar Textpattern al teu website) estàn desactivades al teu servidor
 still_exists => encara existeix
 textpattern_update_available => Hi ha una nova versió de Textpattern {version} <a href="https://textpattern.com/download" rel="external"> disponible per descarregar</a>.
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => La ruta del directori temporal i la ruta del directori pel caché del plugins <strong>NO</strong> haurien de coincidir.
 txp_path => Ruta a Textpattern
 txp_version => Versió de Textpattern

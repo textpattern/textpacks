@@ -374,6 +374,7 @@ site_url_mismatch => Ustawienia adresu strony mogą być niepoprawne
 some_php_functions_disabled => Następujące funkcje PHP są wyłączone (może mieć to wpływ na funkcjonowanie Textpattern)
 still_exists => nadal istnieje
 textpattern_update_available => Nowa wersja Textpattern {version} <a href="https://textpattern.com/download" rel="external">czeka na pobranie</a>.
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Ścieżka katalogu tymczasowego i ścieżka cache pluginów <strong>nie mogą</strong> być takie same.
 txp_path => Ścieżka do Textpattern
 txp_version => Wersja Textpattern

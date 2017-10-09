@@ -374,6 +374,7 @@ site_url_mismatch => 사이트 URL 설정이 잘못된 거 같음
 some_php_functions_disabled => 다음 PHP 기능들(텍스트패턴 운영에 필요할 수도 있는)은 서버에서 활성화되어 있지 않음
 still_exists => 여전히 존재합니다
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => 임시 디렉토리 경로와 확장기능 캐시 디렉토리 경로가 <strong>일치하지 않습니다</strong>.
 txp_path => 텍스트패턴 경로
 txp_version => 텍스트패턴 버전

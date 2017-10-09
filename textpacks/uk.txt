@@ -374,6 +374,7 @@ site_url_mismatch => Установки URL можуть бути невірни
 some_php_functions_disabled => Ці функції PHP вимкнені у вас на сервері (деякі з них можуть бути необхідні для роботи Textpattern)
 still_exists => все ще існує
 textpattern_update_available => Нова версія Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Переглянути сайт Textpattern">доступна для завантаження</a>.
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Директорії для тимчасових файлів і для кеша плагінів <strong>не повинні збігатися</strong>.
 txp_path => Шлях до Textpattern
 txp_version => Версія Textpattern

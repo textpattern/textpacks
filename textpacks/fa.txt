@@ -374,6 +374,7 @@ site_url_mismatch => مرجع آدرس سایت ممکن است نادرست ب�
 some_php_functions_disabled => این توابع PHP (که برای راه‌اندازی Textpattern ضروری‌اند) بر روی سرور شما غیر فعال‌اند.
 still_exists => همچنان وجود دارد
 textpattern_update_available => نسخه‌ی جدید سیستم مدیریت محتوای Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="رفتن به بخش دانلود">برای دریافت آماده است</a>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => مسیر پوشه‌ی فایل‌های موقت و مسیر کش پلاگین‌ها <strong>نباید</strong> یکی باشند.
 txp_path => مسیر Textpattern
 txp_version => نسخه Textpattern

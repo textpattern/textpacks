@@ -374,6 +374,7 @@ site_url_mismatch => Adresa serveru možná není správná
 some_php_functions_disabled => Následující funkce PHP byly na serveru vypnuty (ale mohou být nezbytné pro Textpattern)
 still_exists => dosud existuje
 textpattern_update_available => Nová verze Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Přejít ke stažení Textpatternu">je k dispozici</a>.
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Adresář pro dočasné soubory a pluginy by neměl být tentýž.
 txp_path => Cesta k Textpattern
 txp_version => Verze Textpattern

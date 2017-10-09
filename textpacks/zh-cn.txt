@@ -374,6 +374,7 @@ site_url_mismatch => 网站 URL 设置可能不正确
 some_php_functions_disabled => 以下 PHP 功能（可能是运行 Textpattern 必需的）已禁用
 still_exists => 仍然存在
 textpattern_update_available => 新的 Textpattern CMS 版本 {version} <a href="https://textpattern.com/download" rel="external">可以下载了</a>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => 临时文件目录和插件储存目录路径不应相同。
 txp_path => Textpattern 路径
 txp_version => Textpattern 版本

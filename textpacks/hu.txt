@@ -374,6 +374,7 @@ site_url_mismatch =>
 some_php_functions_disabled => A következő PHP függvények - amelyek szükségesek lehetnek a Textpattern futtatásához - nincsenek engedélyezve a szervereden:
 still_exists => már létezik
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Az átmeneti tároló útvonala és a bővítmények gyorsítótárának útvonala <strong>nem</strong> egyezhet meg.
 txp_path => Textpattern elérési út
 txp_version => Textpattern verzió

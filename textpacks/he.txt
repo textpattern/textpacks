@@ -374,6 +374,7 @@ site_url_mismatch => ייתכן כי הגדרת כתובת האתר שגוייה
 some_php_functions_disabled => פונקציות ה-PHP הבאות( הנחוצות ל-Textpattern) מבוטלות בשרת שלך:
 still_exists => עדייו קיים
 textpattern_update_available => גירסה חדשה של מערכת Textpattern ({version}) <a href="https://textpattern.com/download" rel="external" title="הורד את מאיזור ההורדות של Textpattern">זמינה להורדה</a>.
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => הספרייה הזמנית ספריית מטמון התוספים אינם יכולים להיות זהות.
 txp_path => מסלול Textpattern
 txp_version => גירסת Textpattern

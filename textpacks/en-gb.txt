@@ -373,7 +373,8 @@ site_trailing_slash => Site URL has a trailing slash
 site_url_mismatch => Site URL preference might be incorrect
 some_php_functions_disabled => The following PHP functions (which may be necessary to run Textpattern) are disabled on your server
 still_exists => still exists
-textpattern_update_available => New Textpattern version {version} <a href="https://textpattern.com/download" rel="external" title="Go to the Textpattern download area">available for download</a>.
+textpattern_update_available => New Textpattern version {version} <a href="https://textpattern.com/download" rel="external">available for download</a>.
+textpattern_update_available_beta => New Textpattern pre-release version {version} available for download. Please <a href="https://textpattern.com/download-beta" rel="external">visit the Textpattern website</a> for more information.
 tmp_plugin_paths_match => Temporary directory path and plugin cache directory path should <strong>not</strong> match.
 txp_path => Textpattern path
 txp_version => Textpattern version

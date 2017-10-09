@@ -374,6 +374,7 @@ site_url_mismatch => سائٹ کے URL کی اختیارات شاید غیر ص�
 some_php_functions_disabled => مندرجہ ذیل PHP functions (جو شاید Textpattern کا چلت کریں میں اہم ہونگے) اس سرور پر نا اہل ہے
 still_exists => اب بھی موجود ہے
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => عارضی پوشہ کی راہ اور پلگ ان کے پوشہ کی راہ مشابہ <strong>نہیں</strong> ہونا چاہئے
 txp_path => Textpattern کا پتہ
 txp_version => Textpattern ورژن

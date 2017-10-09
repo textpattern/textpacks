@@ -374,6 +374,7 @@ site_url_mismatch => 網址設定可能錯誤
 some_php_functions_disabled => 在您的主機上，下列的 PHP 函式已無法使用（其中可能含有運行 Textpattern 所必須的函式）
 still_exists => 仍然存在
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => 暫存資料夾及外掛快取資料夾<strong>不</strong>能相同。
 txp_path => Textpattern路徑
 txp_version => Textpattern版本

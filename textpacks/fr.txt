@@ -374,6 +374,7 @@ site_url_mismatch => L’URL du site renseignée dans les préférences est peut
 some_php_functions_disabled => Certaines fonctions PHP (pouvant être nécessaires) sont désactivées sur le serveur
 still_exists => existe encore
 textpattern_update_available => Une nouvelle version de Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern CMS">est disponible en téléchargement</a>.
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Le répertoire <code>temporaire</code> et le répertoire de <code>cache des plugins</code> doivent être <strong>différents</strong>.
 txp_path => Chemin d’accès à Textpattern CMS
 txp_version => Version de Textpattern CMS

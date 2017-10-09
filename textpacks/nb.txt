@@ -374,6 +374,7 @@ site_url_mismatch => Webadressen preferanser kan være feil
 some_php_functions_disabled => Følgende PHP-funksjoner (som kanskje er nødvendige for å bruke Textpattern) er skrudd av på din server
 still_exists => finnes fremdeles
 textpattern_update_available => Ny Textpattern versjon {version} <a href="https://textpattern.com/download" rel="external" title="Go til Textpattern nedlasting area">tilgjengelig for nedlasting</a>.
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Midlertidig fil katalog og plugin cache filområdet bør <strong>ikke</strong> kamp.
 txp_path => Textpattern sti
 txp_version => Textpattern versjon

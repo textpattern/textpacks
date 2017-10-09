@@ -374,6 +374,7 @@ site_url_mismatch =>
 some_php_functions_disabled =>
 still_exists => ikkagi veel on olemas
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match =>
 txp_path => Textpatterni failirada
 txp_version => Textpatterni versioon

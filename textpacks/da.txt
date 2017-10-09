@@ -374,6 +374,7 @@ site_url_mismatch => Side URL indstilling syntes forkert
 some_php_functions_disabled => Følgende PHP funktioner (som måske er nødvendige til at køre Textpattern) er ikke aktive på din server
 still_exists => eksisterer stadig
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Midlertidig mappe og Plugin cache mappe bør <strong>ikke</strong> være den samme.
 txp_path => Textpattern sti
 txp_version => Textpattern version

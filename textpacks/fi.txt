@@ -374,6 +374,7 @@ site_url_mismatch => Sivuston URL-asetus saattaa olla viallinen
 some_php_functions_disabled => Seuraavat PHP-funktiot (jotka saattavat olla tarpeellisia Textpatternin käyttöön) ovat poissa käytöstä palvelimellasi
 still_exists => löytyy yhä
 textpattern_update_available => Uusi Textpattern CMS versio {version} <a href="https://textpattern.com/download" rel="external" title="Siirry Textpatternin lataukset-sivulle">on saatavilla</a>.
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Väliaikais- ja liitännäiskätkö -hakemisto eivät saa olla samat.
 txp_path => Polku Textpatterniin
 txp_version => Textpatternin versio

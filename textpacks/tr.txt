@@ -374,6 +374,7 @@ site_url_mismatch => Site URL tercihleri yanlış olabilir
 some_php_functions_disabled =>
 still_exists => klasörü hala mevcut
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Geçici dosyalara ait klasör ile eklenti önbellek klasörü <strong>aynı olmamalıdır</strong>.
 txp_path => Textpattern klasörü
 txp_version => Textpattern sürümü

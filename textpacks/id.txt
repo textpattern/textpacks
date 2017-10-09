@@ -374,6 +374,7 @@ site_url_mismatch =>
 some_php_functions_disabled =>
 still_exists => masih ada
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => <em>Temporary directory path</em> dan <em>Plugin cache directory path</em> seharusnya <strong>tidak</strong> sama.
 txp_path => Path Textpattern
 txp_version => Versi Textpattern

@@ -374,6 +374,7 @@ site_url_mismatch => Οι ρυθμίσεις του URL σας είναι πιθ
 some_php_functions_disabled => Οί ακόλουθες λειτουργίες PHP (Που ενδεχομένος να χρειάζονται για την σωστή λειτουργία του Textpattern) έχουν απενεργοποιηθεί στον διακομιστή σας
 still_exists => ακόμα υπάρχει
 textpattern_update_available => Η νέα έκδοση του Textpattern {version} <strong>είναι διαθέσιμη για κατέβασμα</strong>.
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Οι φάκελοι για το cache των αρθρωμάτων και ο προσωρινός φάκελος <strong>δεν</strong> πρέπει να είναι οι ίδιοι.
 txp_path => Διαδρομή Textpattern
 txp_version => Έκδοση Textpattern

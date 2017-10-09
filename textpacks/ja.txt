@@ -374,6 +374,7 @@ site_url_mismatch => サイトアドレスの設定が正しくない可能性�
 some_php_functions_disabled => 次の PHP関数(Textpatternに必要な関数です)がサーバ設定で無効になっています
 still_exists => が存在しています。
 textpattern_update_available => 新しい Textpattern CMS バージョン {version} が<a href="https://textpattern.com/download" rel="external" title="Textpattern CMS のダウンロードへ進む">ダウンロード可能です</a>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => 一時ディレクトリパスとプラグインキャッシュディレクトリパスは同じパスに定義<strong>できません</strong>。
 txp_path => Textpattern パス
 txp_version => Textpattern バージョン

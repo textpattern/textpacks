@@ -374,6 +374,7 @@ site_url_mismatch => URL-ul site-ului introdus la preferinte s-ar putea sa nu fi
 some_php_functions_disabled => Urmatoarele functii PHP (care s-ar putea sa fie necesare pentru rularea Textpattern-ului) au fost dezactivate pe server
 still_exists => inca exista
 textpattern_update_available =>
+textpattern_update_available_beta =>
 tmp_plugin_paths_match => Directorul temporar si directorul de cache pentru plugin-uri <strong>nu</strong> trebuie sa fie acelesi.
 txp_path => Calea Textpattern-ului
 txp_version => Versiunea Textpattern-ului
