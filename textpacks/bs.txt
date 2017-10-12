@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters => Prefiks tabele {dbprefix} sadrži karaktere koji nisu dopušteni. Prvi karakter mora biti jedan od slijedećih <strong>a-zA-Z_</strong> i slijedeći karakteri moraju biti neki od slijedećih <strong>a-zA-Z0-9_</strong>.
 progress_steps =>
+public_theme =>
 setup_comment_invite => Komentar
 setup_login => Odaberite ime za prijavu (molimo koristite samo osnovne karaktere i praznine)
 setup_password_strength_0 =>

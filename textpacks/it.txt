@@ -963,6 +963,7 @@ please_go_back => Per favore torna indietro, rettifica ogni dettaglio errato e r
 populate_db => Popolo il database
 prefix_bad_characters => Il prefisso della tabella <strong>{dbprefix}</strong> contiene caratteri non consentiti. Il primo carattere deve corrispondere ad uno tra <strong>a-zA-Z_</strong> e tutti i caratteri successivi devono corrispondere a uno tra <strong>a-zA-Z0-9_</strong>.
 progress_steps => Il processo di installazione è in 4 fasi:
+public_theme =>
 setup_comment_invite => Commenta
 setup_login => Scegli un nome di accesso (login)
 setup_password_strength_0 => Scarsa

@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters => Tabeli prefiks {dbprefix} sisaldas tähemärki, mida ei saa kasutada. Esimene märk peab olema vahemikust <strong>a-zA-Z_</strong> ja teised tähemärgid <strong>a-zA-Z0-9_</strong>.
 progress_steps =>
+public_theme =>
 setup_comment_invite => Kommentaar
 setup_login => Vali kasutajanimi (tavamärgid ja tühikud ainult, palun)
 setup_password_strength_0 =>

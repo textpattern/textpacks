@@ -963,6 +963,7 @@ please_go_back => Prašome eiti atgal, ištaisyti klaidingus duomenis ir tuomet 
 populate_db => Užpildyti duomenų bazę
 prefix_bad_characters => Lentelės prefiksas {dbprefix} turi neleistinų simbolių. Pirmoji raidė turi būti iš <strong>a-zA-Z_</strong>, o visi kiti simboliai turi būti iš <strong>a-zA-Z0-9_</strong>.
 progress_steps =>
+public_theme =>
 setup_comment_invite => Komentaras
 setup_login => Prašom pasirinkti registracijos vardą (naudokite tiktai pagrindinius ir tarpo simbolius)
 setup_password_strength_0 =>

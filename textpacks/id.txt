@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters => Awalan tabel {dbprefix} terdapat karakter yang tidak diijinkan. Karakter pertama harus cocok dengan karakter <strong>a-zA-Z_</strong> dan seluruh karakter berikutnya harus cocok dengan <strong>a-zA-Z0-9_</strong>.
 progress_steps =>
+public_theme =>
 setup_comment_invite => Komentar
 setup_login => Pilih sebuah nama log masuk (tolong hanya karakter dan spasi)
 setup_password_strength_0 =>

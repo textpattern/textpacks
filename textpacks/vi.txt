@@ -963,6 +963,7 @@ please_go_back => Vui lòng trở lại, sửa lại các thông tin chưa đún
 populate_db => Đưa vào cơ sở dữ liệu
 prefix_bad_characters => Prefix trong table {dbprefix} chứa các ký tự không đúng quy cách. Ký tự đầu tiêu bắt buộc phải là <strong>a-zA-Z_</strong> và những ký tự sau phải là <strong>a-zA-Z0-9_</strong>.
 progress_steps => Có bốn bước để xử lý cài đặt này:
+public_theme =>
 setup_comment_invite => Bình luận
 setup_login => Chọn tên đăng nhập (chỉ các ký tự cơ bản và dấu cách)
 setup_password_strength_0 =>

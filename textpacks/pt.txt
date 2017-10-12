@@ -963,6 +963,7 @@ please_go_back => por favor, volte atrás, rectifique os detalhes incorrectos e 
 populate_db => Preencher a Base de Dados
 prefix_bad_characters => O prefixo {dbprefix} da tabela contêm caracteres não autorizados. O primeiro caracter deverá pertencer ao conjunto <strong>a-zA-Z_</strong> e todos os seguintes deverão pertencer ao conjunto <strong>a-zA-Z0-9_</strong>.
 progress_steps => Existem 4 passos neste processo de instalação:
+public_theme =>
 setup_comment_invite => Pode comentar
 setup_login => Escolha o seu nome de acesso (por favor use apenas os caracteres básicos e espaços)
 setup_password_strength_0 =>

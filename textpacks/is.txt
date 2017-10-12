@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters => Töflu forbreytingar nota stafi sem eru ekki leyfðir. Fyrti stafurinn verður að koma frá <strong>a-zA-Z_</strong> og stafir þar á eftir <strong>a-zA-Z0-9_</strong>.
 progress_steps =>
+public_theme =>
 setup_comment_invite => Skoðun
 setup_login => Veldu innskráningarnafn (aðeins venjulegir stafir og bil, takk)
 setup_password_strength_0 =>

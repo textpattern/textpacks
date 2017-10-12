@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters => A táblanevek előtétszava {dbprefix} nem megfelelő karaktert tartalmaz. Az első karakternek illeszkedni kell a <strong>a-zA-Z_</strong> mintára míg a következőknek a <strong>a-zA-Z0-9_</strong> mintára.
 progress_steps =>
+public_theme =>
 setup_comment_invite => Megjegyzés
 setup_login => Válassz egy login nevet (kérlek, csak betűket és szóközt használj)
 setup_password_strength_0 =>

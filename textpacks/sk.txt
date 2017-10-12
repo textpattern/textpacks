@@ -963,6 +963,7 @@ please_go_back => Vráť se prosím späť, oprav všetky chybné detaily a spus
 populate_db => Naplniť databázu
 prefix_bad_characters => Prefix tabuliek {dbprefix} obsahuje znaky, ktoré nie sú povolené. Prvý znak musí byť <strong>a-zA-Z_</strong> a nasledujúce znaky musia byť <strong>a-zA-Z0-9_</strong>.
 progress_steps => Nasledujú 4 kroky inštalačného procesu:
+public_theme =>
 setup_comment_invite => Pridať komentár!
 setup_login => Vyberte si prihlasovacie meno
 setup_password_strength_0 => Veľmi slabé

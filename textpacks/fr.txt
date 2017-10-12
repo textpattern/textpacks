@@ -963,6 +963,7 @@ please_go_back => Veuillez revenir à l’étape antérieure afin de corriger le
 populate_db => Remplissage de la base
 prefix_bad_characters => Le préfixe de table SQL {dbprefix} contient des caractères interdits. Le premier caractère doit être compris dans la liste <strong>a-zA-Z_</strong> et les caractères suivants dans la liste <strong>a-zA-Z0-9_</strong>.
 progress_steps => Voici les 4 étapes de cette installation :
+public_theme =>
 setup_comment_invite => Commentaire
 setup_login => Choisissez un nom de connexion
 setup_password_strength_0 => Risqué

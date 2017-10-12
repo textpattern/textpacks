@@ -963,6 +963,7 @@ please_go_back =>
 populate_db => Poblar la base de dades
 prefix_bad_characters => El prefix de les taules {dbprefix} conté caracters que no són permesos.
 progress_steps =>
+public_theme =>
 setup_comment_invite => Comentaris
 setup_login => Escull un nom d’usuari (només caracters bàsics i espais, sisplau)
 setup_password_strength_0 => Dolenta

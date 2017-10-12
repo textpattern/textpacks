@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters =>
 progress_steps =>
+public_theme =>
 setup_comment_invite => Komentiraj
 setup_login => Odaberite ime za prijavu (samo osnovni karakteri i razmaci)
 setup_password_strength_0 =>

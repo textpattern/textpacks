@@ -963,6 +963,7 @@ please_go_back => Proszę, cofnij się do poprzedniego formularza, sprawdź dane
 populate_db => Zapisz dane do bazy
 prefix_bad_characters => Prefiks tabeli {dbprefix} zawiera niedozwolone znaki. Pierwszy znak powinien być <strong>a-zA-Z_</strong> a następne <strong>a-zA-Z0-9_</strong>.
 progress_steps => Proces instalacji ma 4 etapy:
+public_theme =>
 setup_comment_invite => Komentarze
 setup_login => Wybierz login (tylko podstawowe litery i spacje)
 setup_password_strength_0 => Bardzo słabe

@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters =>
 progress_steps =>
+public_theme =>
 setup_comment_invite => تعليق
 setup_login =>
 setup_password_strength_0 => فقير

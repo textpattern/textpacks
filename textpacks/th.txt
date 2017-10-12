@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters =>
 progress_steps =>
+public_theme =>
 setup_comment_invite => แสดงความคิดเห็น
 setup_login => เลือกชื่อเข้าใช้ (ขอร้องใช้พยัญชนะพื้นฐานและเว้นวรรคอย่างเดียว)
 setup_password_strength_0 =>

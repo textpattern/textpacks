@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters => תחילית הטבלה <strong>{dbprefix}</strong> מכילה תווים שאינם מותרים.
 progress_steps =>
+public_theme =>
 setup_comment_invite => תגובה
 setup_login => בחר שם התחברות(אותיות בסיסיות ורווחים בלבד בבקשה)
 setup_password_strength_0 =>

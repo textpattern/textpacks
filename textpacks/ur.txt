@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters => میں کئی حروف ہیں جس کی اجازت نہیں {dbprefix} جدول سابقہ کے ساتھ مشابہ ہونا چاہئے <strong>a-zA-Z_</strong> کے ساتھ مشابہ ہونا چاہئے اور بقیہ حروف کسی بھی <strong>a-zA</strong>
 progress_steps =>
+public_theme =>
 setup_comment_invite => تبصرہ
 setup_login => (ایک نام صارف انتخاب کریں (بارہ مہربانی، صرف اساسی حروف اور وقفہ داخل کریں
 setup_password_strength_0 =>

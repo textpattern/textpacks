@@ -963,6 +963,7 @@ please_go_back =>
 populate_db =>
 prefix_bad_characters => Bu tablo önekinde {dbprefix} izin verilmeyen karakterler kullanılıyor. Kullanılan ilk karakter <strong>a-zA-Z_</strong> kraktekterlerinden biri ve takip eden diğer karakterler de <strong>a-zA-Z0-9_</strong> karakterlerden olmak zorundadır.
 progress_steps =>
+public_theme =>
 setup_comment_invite => Yorum
 setup_login => Kullanıcı adı seçin
 setup_password_strength_0 =>
