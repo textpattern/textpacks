@@ -373,8 +373,8 @@ site_trailing_slash => L’URL du site a un <code>/</code> final
 site_url_mismatch => L’URL du site renseignée dans les préférences est peut-être incorrecte
 some_php_functions_disabled => Certaines fonctions PHP (pouvant être nécessaires) sont désactivées sur le serveur
 still_exists => existe encore
-textpattern_update_available => Une nouvelle version de Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="Accès au téléchargement sur le site Textpattern CMS">est disponible en téléchargement</a>.
-textpattern_update_available_beta =>
+textpattern_update_available => Une nouvelle version de Textpattern {version} <a href="https://textpattern.com/download" rel="external">est disponible en téléchargement</a>.
+textpattern_update_available_beta => Une nouvelle pré-version de Textpattern {version} est disponible en téléchargement. Veuillez <a href="https://textpattern.com/download-beta" rel="external">consulter le site de Textpattern</a> pour de plus amples informations.
 tmp_plugin_paths_match => Le répertoire <code>temporaire</code> et le répertoire de <code>cache des plugins</code> doivent être <strong>différents</strong>.
 txp_path => Chemin d’accès à Textpattern CMS
 txp_version => Version de Textpattern CMS
@@ -629,7 +629,7 @@ permlink_mode => Format des URL
 plugin_cache_dir => Chemin du répertoire de cache des plugins
 preferences_saved => Préférences enregistrées
 prefs => Préférences
-problem_connecting_rpc_server => Impossible de se connecter au serveur RPC. Essayez plus tard.
+problem_connecting_rpc_server => Un problème est survenu lors de la tentative de connexion au serveur de mise à jour de Textpattern. Veuillez réessayer plus tard.
 production_debug => En déboguage
 production_live => En exploitation
 production_status => Statut de production
@@ -963,7 +963,7 @@ please_go_back => Veuillez revenir à l’étape antérieure afin de corriger le
 populate_db => Remplissage de la base
 prefix_bad_characters => Le préfixe de table SQL {dbprefix} contient des caractères interdits. Le premier caractère doit être compris dans la liste <strong>a-zA-Z_</strong> et les caractères suivants dans la liste <strong>a-zA-Z0-9_</strong>.
 progress_steps => Voici les 4 étapes de cette installation :
-public_theme =>
+public_theme => Thème du site public
 setup_comment_invite => Commentaire
 setup_login => Choisissez un nom de connexion
 setup_password_strength_0 => Risqué
