@@ -992,11 +992,11 @@ edit_skin => Éditer le thème
 import_skin => Importer le thème
 search_skins => Recherche de thèmes
 skin_author => Auteur du thème
+skin_author_uri => Site web du thème
 skin_description => Descriptif du thème
 skin_name => Nom du thème
 skin_title => Titre du thème
 skin_version => Version du thème
-skin_website => Site web du thème
 #@tag
 active_class => Classe CSS de l’élément actif de la liste
 allowoverride => Autoriser le remplacement du module ?

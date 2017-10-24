@@ -992,11 +992,11 @@ edit_skin => Redigera skal
 import_skin =>
 search_skins =>
 skin_author => Skalskapare
+skin_author_uri => Skalhemsida
 skin_description =>
 skin_name => Skalnamn
 skin_title => Skalrubrik
 skin_version => Skalversion
-skin_website => Skalhemsida
 #@tag
 active_class => CSS-klass för aktivt listobjekt
 allowoverride => Tillåt överträdelse av siddel?

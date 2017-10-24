@@ -992,11 +992,11 @@ edit_skin => Modifica tema
 import_skin =>
 search_skins =>
 skin_author => Autore tema
+skin_author_uri => Sito web tema
 skin_description =>
 skin_name => Nome tema
 skin_title => Titolo tema
 skin_version => Versione tema
-skin_website => Sito web tema
 #@tag
 active_class => Classe CSS per elemento lista attivo
 allowoverride => Consenti di forzare i moduli?

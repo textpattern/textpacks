@@ -992,11 +992,11 @@ edit_skin => Editar aspecto
 import_skin =>
 search_skins =>
 skin_author => Autor del aspecto
+skin_author_uri => Página web del aspecto
 skin_description =>
 skin_name => Nombre del aspecto
 skin_title => Título del aspecto
 skin_version => Versión del aspecto
-skin_website => Página web del aspecto
 #@tag
 active_class => Clase css para la lista activa de items
 allowoverride => ¿Permitir sobrescritura de los bloques?

@@ -992,11 +992,11 @@ edit_skin => Επεξεργασία του skin
 import_skin =>
 search_skins =>
 skin_author => Δημιουργός του skin
+skin_author_uri => Ιστοσελίδα του skin
 skin_description =>
 skin_name => Όνομα του skin
 skin_title => Τίτλος του skin
 skin_version => Έκδοση του skin
-skin_website => Ιστοσελίδα του skin
 #@tag
 active_class => κλάση CSS για ενεργή ετικέτα λίστας HTML
 allowoverride => Να επιτραπεί η προσπέλαση φόρμας παρουσίασης;

@@ -992,11 +992,11 @@ edit_skin => Interface-ontwerp bewerken
 import_skin =>
 search_skins =>
 skin_author => Auteur interface-ontwerp
+skin_author_uri => Website interface-ontwerp
 skin_description =>
 skin_name => Naam interface-ontwerp
 skin_title => Titel interface-ontwerp
 skin_version => Versie interface-ontwerp
-skin_website => Website interface-ontwerp
 #@tag
 active_class => Aktieve CSS class voor dit item
 allowoverride => Andere module toestaan?

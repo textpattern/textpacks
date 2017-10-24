@@ -992,11 +992,11 @@ edit_skin =>
 import_skin =>
 search_skins =>
 skin_author =>
+skin_author_uri =>
 skin_description =>
 skin_name =>
 skin_title =>
 skin_version =>
-skin_website =>
 #@tag
 active_class => Etkin list öğeleri için CSS sınıfı
 allowoverride => Üzerine yazmaya izin ver?

@@ -992,11 +992,11 @@ edit_skin => Design bearbeiten
 import_skin =>
 search_skins =>
 skin_author => Urheber des Designs
+skin_author_uri => Website des Designs
 skin_description =>
 skin_name => Name des Designs
 skin_title => Titel des Designs
 skin_version => Version des Designs
-skin_website => Website des Designs
 #@tag
 active_class => CSS-Klasse für aktives Listenelement
 allowoverride => Zulassen, dass alternative Bausteine verwendet werden?

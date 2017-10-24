@@ -992,11 +992,11 @@ edit_skin => Редагувати скін
 import_skin =>
 search_skins =>
 skin_author => Автор скіна
+skin_author_uri => Вебсайт скіна
 skin_description =>
 skin_name => Ім'я скіна
 skin_title => Назва скіна
 skin_version => Версія скіна
-skin_website => Вебсайт скіна
 #@tag
 active_class => Класс CSS для активного елемента списку
 allowoverride => Дозволити перевизначення форми?

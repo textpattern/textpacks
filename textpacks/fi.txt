@@ -992,11 +992,11 @@ edit_skin => Muokkaa ulkoasua
 import_skin =>
 search_skins =>
 skin_author => Ulkoasun tekijä
+skin_author_uri => Ulkoasun nettisivut
 skin_description =>
 skin_name => Ulkoasun nimi
 skin_title => Ulkoasun otsikko
 skin_version => Ulkoasun versio
-skin_website => Ulkoasun nettisivut
 #@tag
 active_class => Listan aktiivisen jäsenen CSS-luokka
 allowoverride => Salli artikkelikohtaisesti määritellyt lomakkeet?

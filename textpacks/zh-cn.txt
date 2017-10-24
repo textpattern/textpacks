@@ -992,11 +992,11 @@ edit_skin => 编辑主题
 import_skin =>
 search_skins =>
 skin_author => 主题作者
+skin_author_uri => 主题站点
 skin_description =>
 skin_name => 主题名字
 skin_title => 主题标题
 skin_version => 主题版本
-skin_website => 主题站点
 #@tag
 active_class => 启用的列表项目的 CSS class 属性
 allowoverride => 允许覆盖模块？

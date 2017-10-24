@@ -992,11 +992,11 @@ edit_skin =>
 import_skin =>
 search_skins =>
 skin_author =>
+skin_author_uri =>
 skin_description =>
 skin_name =>
 skin_title =>
 skin_version =>
-skin_website =>
 #@tag
 active_class => 활성화 목록을 보여주기 위한 CSS 클래스
 allowoverride => 폼 오버라이드 허용

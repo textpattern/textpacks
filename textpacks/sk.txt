@@ -992,11 +992,11 @@ edit_skin => Upraviť skin
 import_skin =>
 search_skins =>
 skin_author => Autor skinu
+skin_author_uri => Webová stránka skinu
 skin_description =>
 skin_name => Meno skinu
 skin_title => Názov skinu
 skin_version => Verzia skinu
-skin_website => Webová stránka skinu
 #@tag
 active_class => Trieda CSS pre aktívnu položku zoznamu
 allowoverride => Formu možno nahradiť?

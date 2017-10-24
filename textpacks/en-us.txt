@@ -992,11 +992,11 @@ edit_skin => Edit theme
 import_skin => Import theme
 search_skins => Search themes
 skin_author => Theme author
+skin_author_uri => Theme website
 skin_description => Theme description
 skin_name => Theme name
 skin_title => Theme title
 skin_version => Theme version
-skin_website => Theme website
 #@tag
 active_class => CSS class for active list item
 allowoverride => Allow form to be overridden?

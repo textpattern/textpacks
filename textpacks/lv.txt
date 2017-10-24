@@ -992,11 +992,11 @@ edit_skin => Labot apdari
 import_skin =>
 search_skins =>
 skin_author => Apdares autors
+skin_author_uri => Apdares vietne
 skin_description =>
 skin_name => Apdares nosaukums
 skin_title => Apdares virsraksts
 skin_version => Apdares versija
-skin_website => Apdares vietne
 #@tag
 active_class => Aktīvā saraksta elementa CSS klase
 allowoverride => Atļaut šīs formas vietā izmantot citu?

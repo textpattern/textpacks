@@ -992,11 +992,11 @@ edit_skin => Upravit skin
 import_skin =>
 search_skins =>
 skin_author => Autor skinu
+skin_author_uri => Webová stránka skinu
 skin_description =>
 skin_name => Jméno skinu
 skin_title => Název skinu
 skin_version => Verze skinu
-skin_website => Webová stránka skinu
 #@tag
 active_class => Třída CSS pro aktivní položku seznamu
 allowoverride => Formu lze přebít?

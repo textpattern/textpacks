@@ -992,11 +992,11 @@ edit_skin => Editar tema
 import_skin =>
 search_skins =>
 skin_author => Autor do tema
+skin_author_uri => Site do tema
 skin_description =>
 skin_name => Nome do tema
 skin_title => Titulo do tema
 skin_version => Versão do tema
-skin_website => Site do tema
 #@tag
 active_class => Classe CSS para o item ativo numa lista
 allowoverride => Permitir que o formulário seja cancelado?
