@@ -101,6 +101,7 @@ no_articles_recorded => Nėra jokių straipsnių.
 override_default_form => Keitimo forma
 reset_time => Pakeisti laiką į dabartinį
 search_articles =>
+set_expire_now =>
 set_to_now => Pakeisti laiką ir datą į dabartinį
 sort_display => Rūšiuoti ir rodyti
 textfilter =>

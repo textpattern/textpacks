@@ -101,6 +101,7 @@ no_articles_recorded => کوئی مضمون دستیاب نہیں
 override_default_form => فارم زیر کریں
 reset_time => حالیہ وقت پر پھر سیٹ کریں
 search_articles =>
+set_expire_now =>
 set_to_now => حالیہ وقت پر پھر سیٹ کریں
 sort_display => ‏چھانٹنا‏ اور ‏نمائش
 textfilter =>

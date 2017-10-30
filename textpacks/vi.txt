@@ -101,6 +101,7 @@ no_articles_recorded => Không có bài viết nào.
 override_default_form => Ghi đè mẫu đơn
 reset_time => Đặt lại thời gian về hiện tại
 search_articles =>
+set_expire_now =>
 set_to_now => Chỉnh mốc thời gian về hiện tại
 sort_display => Sắp xếp và Hiển thị
 textfilter =>

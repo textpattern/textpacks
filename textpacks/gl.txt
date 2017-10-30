@@ -101,6 +101,7 @@ no_articles_recorded => Ningún artigo gardado
 override_default_form => Sobreescribir o formulario
 reset_time => Empregar hora actual
 search_articles =>
+set_expire_now =>
 set_to_now => Empregar fecha/hora actual
 sort_display => Clasificación e presentación
 textfilter =>

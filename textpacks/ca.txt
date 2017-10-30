@@ -101,6 +101,7 @@ no_articles_recorded => Cap article registrat
 override_default_form => Sobreescriu formulari
 reset_time => Utilitzar la hora actual
 search_articles => Cerca articles
+set_expire_now =>
 set_to_now => Utilitzar data/hora actual
 sort_display => Ordena i mostra
 textfilter => Format de text:

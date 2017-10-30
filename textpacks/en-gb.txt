@@ -101,6 +101,7 @@ no_articles_recorded => No articles recorded.
 override_default_form => Override form
 reset_time => Reset timestamp to now
 search_articles => Search articles
+set_expire_now => Set expiry to now
 set_to_now => Set timestamp to now
 sort_display => Sort and display
 textfilter => Format:

@@ -101,6 +101,7 @@ no_articles_recorded => Brak artykułów.
 override_default_form => Nadpisz formę
 reset_time => Ustaw na aktualny czas
 search_articles => Szukaj artykułów
+set_expire_now =>
 set_to_now => Aktualny czas jako czas publikacji
 sort_display => Przynależność
 textfilter =>

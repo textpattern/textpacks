@@ -101,6 +101,7 @@ no_articles_recorded => Ei tallennettuja artikkeleita.
 override_default_form => Käytä eri lomaketta
 reset_time => Aseta ajaksi tämä hetki
 search_articles => Etsi artikkeleita
+set_expire_now =>
 set_to_now => Aseta julkaisuhetkeksi nyt
 sort_display => Järjestä ja näytä
 textfilter =>

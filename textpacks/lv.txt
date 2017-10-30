@@ -101,6 +101,7 @@ no_articles_recorded => Nav neviena raksta.
 override_default_form => Izmantot citu formu
 reset_time => Publicēt ar šī brīža laiku
 search_articles => Meklēt rakstus
+set_expire_now =>
 set_to_now => Ierakstīt ar šī brīža laiku
 sort_display => Kategorizēšana
 textfilter =>

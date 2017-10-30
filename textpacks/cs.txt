@@ -101,6 +101,7 @@ no_articles_recorded => Nenalezeny žádné články.
 override_default_form => Přebít formu
 reset_time => Nastavit nynější čas
 search_articles => Hledat články
+set_expire_now =>
 set_to_now => Nastavit nynější čas
 sort_display => Řazení a zobrazení
 textfilter =>

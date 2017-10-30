@@ -101,6 +101,7 @@ no_articles_recorded =>
 override_default_form => Yfirskrifa snið
 reset_time => Endursetja tímastimplil til núverandi tíma
 search_articles =>
+set_expire_now =>
 set_to_now => Breyta tímastimpli til núverandi tíma
 sort_display =>
 textfilter =>

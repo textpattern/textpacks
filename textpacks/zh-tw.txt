@@ -101,6 +101,7 @@ no_articles_recorded => 目前沒有文章.
 override_default_form => 覆蓋預設模型
 reset_time => 重設發表時間為現在
 search_articles =>
+set_expire_now =>
 set_to_now => 使用目前時間
 sort_display => 版區與分類
 textfilter =>

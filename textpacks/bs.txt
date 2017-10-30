@@ -101,6 +101,7 @@ no_articles_recorded => Nijedan članak nije snimljen.
 override_default_form => Zaobiđi formular
 reset_time => Postavi vrijeme na sada…
 search_articles =>
+set_expire_now =>
 set_to_now => Postavi vremenski pečat na sada…
 sort_display => Sortiraj i prikaži
 textfilter =>

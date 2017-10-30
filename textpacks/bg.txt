@@ -101,6 +101,7 @@ no_articles_recorded => Не са записани статии.
 override_default_form => Използвай форма
 reset_time => Използвай текущото време
 search_articles =>
+set_expire_now =>
 set_to_now => Обнови с текущото време
 sort_display => Сортирай и покажи
 textfilter =>

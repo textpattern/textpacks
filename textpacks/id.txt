@@ -101,6 +101,7 @@ no_articles_recorded =>
 override_default_form => Kesampingkan form
 reset_time => Reset waktu ke sekarang
 search_articles =>
+set_expire_now =>
 set_to_now => Atur timestamp ke sekarang
 sort_display =>
 textfilter =>

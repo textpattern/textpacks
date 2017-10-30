@@ -101,6 +101,7 @@ no_articles_recorded => 記事が保存されていません。
 override_default_form => デフォルトフォームの上書き
 reset_time => 現時刻にリセット…
 search_articles =>
+set_expire_now =>
 set_to_now => タイムスタンプを現時刻にする…
 sort_display => 分類
 textfilter =>

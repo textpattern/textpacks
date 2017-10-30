@@ -101,6 +101,7 @@ no_articles_recorded => Nu a fost gasit nici un articol.
 override_default_form => Inlocuieste formular
 reset_time => Reseteaza timpul la ora curenta
 search_articles =>
+set_expire_now =>
 set_to_now => Seteaza timpul la ora si data curenta
 sort_display => Aranjeaza si afiseaza
 textfilter =>

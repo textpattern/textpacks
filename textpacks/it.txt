@@ -101,6 +101,7 @@ no_articles_recorded => Nessun articolo registrato.
 override_default_form => Forza il modulo
 reset_time => Reimposta data e ora a questo istante
 search_articles => Cerca articoli
+set_expire_now =>
 set_to_now => Pubblica con data e orario attuali
 sort_display => Assegna l’articolo
 textfilter =>

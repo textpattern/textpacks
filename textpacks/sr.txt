@@ -101,6 +101,7 @@ no_articles_recorded => Nijedan unos nije snimljen.
 override_default_form => Forma samo za ovaj unos
 reset_time => Resetuj vreme za trenutno
 search_articles => Pretraži članke
+set_expire_now =>
 set_to_now => Postavi vreme (timestamp) za trenutno
 sort_display => Sortiranje i prikaz
 textfilter =>

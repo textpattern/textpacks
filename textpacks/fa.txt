@@ -101,6 +101,7 @@ no_articles_recorded => هیچ نوشته‌ای ثبت نشده است.
 override_default_form => تحریف فرم با
 reset_time => تغییر زمان به حال
 search_articles =>
+set_expire_now =>
 set_to_now => زمان و تاریخ رو به اکنون تغییر بده
 sort_display => مرتب‌سازی و نمایش
 textfilter =>

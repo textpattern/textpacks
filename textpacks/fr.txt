@@ -101,6 +101,7 @@ no_articles_recorded => Aucun article enregistré.
 override_default_form => Module de remplacement
 reset_time => Horodater à « maintenant »
 search_articles => Recherche d’articles
+set_expire_now =>
 set_to_now => Publier « maintenant »
 sort_display => Affectation et affichage de l’article
 textfilter => Format du texte :

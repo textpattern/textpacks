@@ -101,6 +101,7 @@ no_articles_recorded => Bisher gibt es keine Artikel.
 override_default_form => Alternativen Baustein verwenden
 reset_time => Auf aktuelle Zeit setzen
 search_articles => Artikel suchen
+set_expire_now =>
 set_to_now => Aktuelle Zeit verwenden
 sort_display => Sortierung und Anzeige
 textfilter =>

@@ -101,6 +101,7 @@ no_articles_recorded => Нет статей.
 override_default_form => Использовать форму
 reset_time => Сбросить время на текущее
 search_articles => Поиск статей
+set_expire_now =>
 set_to_now => Обновить время текущим
 sort_display => Сортировать и отобразить
 textfilter =>

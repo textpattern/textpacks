@@ -101,6 +101,7 @@ no_articles_recorded => Ingen artikler fundet.
 override_default_form => Tilsidesæt form
 reset_time => Nulstil tid til nu…
 search_articles =>
+set_expire_now =>
 set_to_now => Sæt tidsstempel til nu…
 sort_display => Sorter og vis
 textfilter =>

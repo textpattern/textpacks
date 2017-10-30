@@ -101,6 +101,7 @@ no_articles_recorded => Ningún artículo guardado.
 override_default_form => Sobrescribir bloque
 reset_time => Reponer día y hora actuales
 search_articles => Buscar artículos
+set_expire_now =>
 set_to_now => Usar día y hora actuales
 sort_display => Clasificación y presentación
 textfilter =>

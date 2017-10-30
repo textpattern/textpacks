@@ -101,6 +101,7 @@ no_articles_recorded =>
 override_default_form =>
 reset_time =>
 search_articles =>
+set_expire_now =>
 set_to_now =>
 sort_display =>
 textfilter =>

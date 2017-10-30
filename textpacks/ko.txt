@@ -101,6 +101,7 @@ no_articles_recorded => 글이 기록되지 않았습니다
 override_default_form => 기본 폼 오버라이드
 reset_time => 시각 초기화
 search_articles =>
+set_expire_now =>
 set_to_now => 등록 시각을 현재로 설정
 sort_display => 정렬과 보기
 textfilter =>

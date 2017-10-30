@@ -101,6 +101,7 @@ no_articles_recorded => Kayıtlı makale yok.
 override_default_form => Override form
 reset_time => Zamanı sıfırla
 search_articles =>
+set_expire_now =>
 set_to_now => Tarih Bilgisini ayarla
 sort_display => Biçim ve görünüm
 textfilter =>
