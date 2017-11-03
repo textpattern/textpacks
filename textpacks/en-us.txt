@@ -840,6 +840,7 @@ recent_posts => Recent posts
 related_articles => Related articles
 reload => Reload
 remember => Remember
+remove => Remove
 required => Required
 remove => Remove
 revert => Revert
