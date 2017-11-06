@@ -1,7 +1,7 @@
 #@version 4.7.0
 #@common
 lang_name => Српски
-lang_code => sr-CS
+lang_code => sr-RS
 lang_dir => ltr
 #@admin
 account_activation =>
