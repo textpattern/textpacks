@@ -551,7 +551,7 @@
     <string name="custom_7_set">Custom field 7 name</string>
     <string name="custom_8_set">Custom field 8 name</string>
     <string name="custom_9_set">Custom field 9 name</string>
-    <string name="default_event">Default administration panel</string>
+    <string name="default_event">Default panel</string>
     <string name="default_publish_status">Default publishing status</string>
     <string name="doctype">Doctype</string>
     <string name="enable_xmlrpc_server">Enable XML-RPC server?</string>
@@ -925,7 +925,7 @@
     <string name="setup_password_strength_4">Strong</string>
     <string name="setup_show_password">Show password</string>
     <string name="set_db_details">Set database details</string>
-    <string name="set_temp_dir_prefs">Sorry, but Textpattern failed to find a writable directory to hold temporary files. Please visit the <strong>Preferences</strong> administration panel and adjust the <strong>Temporary directory path</strong> setting to suit your needs.</string>
+    <string name="set_temp_dir_prefs">Sorry, but Textpattern failed to find a writable directory to hold temporary files. Please visit the <strong>Preferences</strong> panel and adjust the <strong>Temporary directory path</strong> setting to suit your needs.</string>
     <string name="site_config">Site configuration</string>
     <string name="site_url">Site URL</string>
     <string name="tables_exist">It appears the tables in <strong>{dbname}</strong> already exist. If you wish to continue setup, either delete the existing tables, or choose a different table prefix.</string>
