@@ -166,7 +166,7 @@ are_you_sure => האם אתה בטוח ?
 article => מאמר
 ascending => בסדר יורד
 auth_required => נדרשת הרשאה
-back_to_login => חזור אל התחברות <bdi>Textpattern</bdi>
+back_to_login => חזור אל התחברות <bdi dir="ltr">Textpattern</bdi>
 bad_cookie => העוגייה אינה תקינה. אנא רשום את פרטי ההתחברות.
 body => גוף
 cancel =>
@@ -186,7 +186,7 @@ collapse_all =>
 comment => תגובה
 comments_expired => לא ניתן להגיב עוד למאמר זה.
 confirm_delete_popup => האם אתה בטוח שברצונך למחוק?
-cookies_must_be_enabled => עוגיות בדפדפן חייבות להיות מאופשרות כדי להשתמש ב-<bdi>Textpattern</bdi>.
+cookies_must_be_enabled => עוגיות בדפדפן חייבות להיות מאופשרות כדי להשתמש ב-<bdi dir="ltr">Textpattern</bdi>.
 could_not_log_in => לא יכול להתחבר עם צירוף שם/סיסמה הזה.
 date_added => התאריך נוסף
 deleteforce => מחק בכוח
@@ -221,7 +221,7 @@ link_category => קטגוריית הקישור
 list_options =>
 logged_in_as => מחובר בשם
 login => התחבר
-login_to_textpattern => התחבר ל-<bdi>Textpattern</bdi>
+login_to_textpattern => התחבר ל-<bdi dir="ltr">Textpattern</bdi>
 logout => התנתק
 log_in_button => התחבר
 method => שיטה
@@ -283,8 +283,8 @@ toggle_all_selected => שנה בחירה
 txpnl2br => שבירת שורות בלבד
 txprawxhtml => HTML נקי
 txpstriptags => סנן תוויות
-txptextile => <bdi>Textile</bdi>
-txptextilelite => <bdi>Textile Lite</bdi>
+txptextile => <bdi dir="ltr">Textile</bdi>
+txptextilelite => <bdi dir="ltr">Textile Lite</bdi>
 txt_quote_double_close => ”
 txt_quote_double_open => „
 txt_quote_single_close => ’
@@ -347,7 +347,7 @@ dns_lookup_fails => החיפוש ב-DNS נכשל
 document_root => ספריית השורש
 file_uploads_disabled => העלאת קבצים בוטלה
 gd_info => {version}; פורמטים נתמכים: {supported}.
-gd_library => <bdi>GD Graphics Library</bdi>
+gd_library => <bdi dir="ltr">GD Graphics Library</bdi>
 high => גבוה
 htaccess_contents => תוכן קובץ .htaccess
 htaccess_missing => קובץ .htaccess חסר
@@ -357,7 +357,7 @@ last_update_check =>
 locale => Locale
 low => נמוך
 missing_files => קבצים חסרים
-modified_files => מספר קבצי <bdi>Textpattern</bdi> שונו
+modified_files => מספר קבצי <bdi dir="ltr">Textpattern</bdi> שונו
 mod_rewrite_missing => רכיב Apache <code dir="ltr">mod_rewrite</code> לא מותקן
 mysql_table_errors => השגיאות הבאות זוהו בטבלאות MySQL שלך
 no_temp_dir => לא הוגדרה ספריית קבציפ זמניים(temp)
@@ -367,7 +367,7 @@ path_to_site_inacc => המסלול לאתר איננה נגישה.
 php_extensions => רכיבי PHP
 php_sapi_mode => PHP Server API
 php_version => גירסת PHP
-php_version_required => מערכת <bdi>Textpattern</bdi> דורשת ש-PHP מגירסה {version} יהיה מותקן בשרת שלך.
+php_version_required => מערכת <bdi dir="ltr">Textpattern</bdi> דורשת ש-PHP מגירסה {version} יהיה מותקן בשרת שלך.
 preflight_check => בדיקה לפני הרצה
 pretext_data =>
 rfc2616_headers => RFC 2616 headers
@@ -375,13 +375,13 @@ server => שרת
 server_time => זמן המקומי של השרת
 site_trailing_slash => בכתובת האתר יש / בסוף
 site_url_mismatch => ייתכן כי הגדרת כתובת האתר שגוייה
-some_php_functions_disabled => פונקציות ה-PHP הבאות( הנחוצות ל-<bdi>Textpattern</bdi>) מבוטלות בשרת שלך:
+some_php_functions_disabled => פונקציות ה-PHP הבאות( הנחוצות ל-<bdi dir="ltr">Textpattern</bdi>) מבוטלות בשרת שלך:
 still_exists => עדייו קיים
-textpattern_update_available => גירסה חדשה של מערכת <bdi>Textpattern</bdi> ({version}) <a href="https://textpattern.com/download" rel="external" title="הורד את מאיזור ההורדות של <bdi>Textpattern</bdi>">זמינה להורדה</a>.
+textpattern_update_available => גירסה חדשה של מערכת <bdi dir="ltr">Textpattern</bdi> ({version}) <a href="https://textpattern.com/download" rel="external" title="הורד את מאיזור ההורדות של <bdi dir="ltr">Textpattern</bdi>">זמינה להורדה</a>.
 textpattern_update_available_beta =>
 tmp_plugin_paths_match => הספרייה הזמנית ספריית מטמון התוספים אינם יכולים להיות זהות.
-txp_path => מסלול <bdi>Textpattern</bdi>
-txp_version => גירסת <bdi>Textpattern</bdi>
+txp_path => מסלול <bdi dir="ltr">Textpattern</bdi>
+txp_version => גירסת <bdi dir="ltr">Textpattern</bdi>
 web_domain => כתובת האתר
 #@discuss
 article_deleted => המאמר נמחק!
@@ -759,7 +759,7 @@ go_content => עבור לתוכן
 go_nav => עבור לניווט
 go_search => עבור לחיפוש
 go_to => עבור אל
-go_txp_com => עבור אל אתר <bdi>Textpattern</bdi>
+go_txp_com => עבור אל אתר <bdi dir="ltr">Textpattern</bdi>
 header => כותרת
 home => בית
 host => מארח
@@ -928,7 +928,7 @@ uses_style => משתמש בסגנון
 about_to_create => אתה עומד ליצור טבלאות ולמלא אותם בנתונים.
 add_config_file =>
 admin_theme =>
-already_installed => נראה כי <bdi>Textpattern</bdi> כבר מותקנת. אם ברצונך להתקין אותה מחדש, אנא מחק <code dir="ltr">config.php</code> מספרייה <code dir="ltr">/textpattern/</code> ונסה שוב.
+already_installed => נראה כי <bdi dir="ltr">Textpattern</bdi> כבר מותקנת. אם ברצונך להתקין אותה מחדש, אנא מחק <code dir="ltr">config.php</code> מספרייה <code dir="ltr">/textpattern/</code> ונסה שוב.
 back =>
 before_you_proceed => לפני שתמשיך
 checking_database => בודק קשר עם בסיס הנתונים
@@ -942,7 +942,7 @@ creating_db_tables =>
 db_cant_connect => לא יכול להתחבר לבסיס הנתונים
 db_connected => מחובר
 db_doesnt_exist => בסיס הנתונים <strong>{dbname}</strong> אינו קיים.
-db_must_exist => שים לב שבסיס הנתונים שציינת חייב להיות קיים; <bdi>Textpattern</bdi> לא תיצור אותו בשבילך.
+db_must_exist => שים לב שבסיס הנתונים שציינת חייב להיות קיים; <bdi dir="ltr">Textpattern</bdi> לא תיצור אותו בשבילך.
 did_it => ביצעתי זאת
 email_required => אנא ספק כתובת דואל תקינה.
 get_started =>
@@ -978,11 +978,11 @@ site_config =>
 site_url => כתובת האתר
 tables_exist =>
 table_prefix => תחילית הטבלה
-thanks_for_interest => תודה שהבעת עניין ב-<bdi>Textpattern</bdi>.
+thanks_for_interest => תודה שהבעת עניין ב-<bdi dir="ltr">Textpattern</bdi>.
 that_went_well => זה הצליח. טבלאות בסיס הנתונים נוצרו ומולאו בנתונים.
 using_db => משתמש בבסיס הנתונים: {dbname}.
 warn_mail_unavailable => התקנת ה-PHP שלך חסרה את פונקציית <code dir="ltr">mail()</code>. ולכן לא יישלחו דואלים מהמערכת. זה מגביל את תפקודיות המערכת.
-welcome_to_textpattern => ברוך הבא אל <bdi>Textpattern</bdi>
+welcome_to_textpattern => ברוך הבא אל <bdi dir="ltr">Textpattern</bdi>
 your_email => כתובת הדואל שלך
 your_full_name => השם המלא שלך
 you_can_access => תוכל לגשת אל <a href="index.php">הממשק הראשי</a> עם שם המשתמש והסיסמה שבחרת.
