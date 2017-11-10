@@ -377,7 +377,7 @@ site_trailing_slash => בכתובת האתר יש / בסוף
 site_url_mismatch => ייתכן כי הגדרת כתובת האתר שגוייה
 some_php_functions_disabled => פונקציות ה-PHP הבאות( הנחוצות ל-<bdi dir="ltr">Textpattern</bdi>) מבוטלות בשרת שלך:
 still_exists => עדייו קיים
-textpattern_update_available => גירסה חדשה של מערכת <bdi dir="ltr">Textpattern</bdi> ({version}) <a href="https://textpattern.com/download" rel="external" title="הורד את מאיזור ההורדות של <bdi dir="ltr">Textpattern</bdi>">זמינה להורדה</a>.
+textpattern_update_available => גירסה חדשה של מערכת <bdi dir="ltr">Textpattern</bdi> ({version}) <a href="https://textpattern.com/download" rel="external">זמינה להורדה</a>.
 textpattern_update_available_beta =>
 tmp_plugin_paths_match => הספרייה הזמנית ספריית מטמון התוספים אינם יכולים להיות זהות.
 txp_path => מסלול <bdi dir="ltr">Textpattern</bdi>
