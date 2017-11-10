@@ -368,7 +368,7 @@
   <string name="private">Privatni</string>
   <string name="public">Javni</string>
   <string name="replace_file">Zamijeni datoteku</string>
-  <string name="reset">poništi</string>
+  <string name="reset">Poništi</string>
   <string name="reset_file_count_failure">Neuspješan pokušaj poništavanja brojača datoteke</string>
   <string name="reset_file_count_success">Uspješno poništavanje brojača datoteke</string>
   <string name="all_forms">Svi formulari</string>
