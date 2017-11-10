@@ -22,7 +22,7 @@ could_not_update_author => يتعذر ضبط المؤلف
 current_password => كلمة السر الحالية
 designer => مصمم
 edit_author => تعديل مؤلف
-email_changed => غير البريد الإلكتروني إلى <strong>{email}</strong>
+email_changed => غير البريد الإلكتروني إلى <strong dir="ltr">{email}</strong>
 error_adding_new_author => حدث خطأ عند إضافة مؤلف جديد
 from_or_to_address_missing =>
 freelancer => محرر عادي
@@ -31,7 +31,7 @@ invalid_token =>
 last_login => آخر تسجيل الدخول
 link_expires => لديك حتى {day} {month} {year}، {time} للرد قبل انتهاء صلاحية هذا الرابط.
 login_name => اسم تسجيل الدخول
-login_sent_to => كلمة المرور أرسلت إلى {email}.
+login_sent_to => كلمة المرور أرسلت إلى <bdi dir="ltr">{email}</bdi>.
 log_in_at => لتسجيل الدخول إذهب إلى
 managing_editor => نائب المدير
 must_reassign_assets => الرجاء إعادة تحويل ملكية محتوى المستخدم
@@ -221,7 +221,7 @@ link_category => فئة الرابط
 list_options =>
 logged_in_as => متصل كـ
 login => دخول
-login_to_textpattern => الاتصال إلى txp
+login_to_textpattern => الاتصال إلى <bdi dir="ltr">Textpattern</bdi>
 logout => إلغاء الاتصال
 log_in_button => اتصل
 method =>
@@ -347,7 +347,7 @@ dns_lookup_fails => لاسم الميدان DNS فشل الأثر عن طريق
 document_root => الملف الأصلي
 file_uploads_disabled => تحميل الملفلت في الموزع لا يعمل
 gd_info =>
-gd_library => GD Graphics Library
+gd_library => <bdi dir="ltr">GD Graphics Library</bdi>
 high => أقصى حد
 htaccess_contents => .htaccess محتوى الملف
 htaccess_missing => غير موجود .htaccess الملف
@@ -380,8 +380,8 @@ still_exists => لا يزال موجودا
 textpattern_update_available =>
 textpattern_update_available_beta =>
 tmp_plugin_paths_match =>
-txp_path => Textpattern مفاتيح الدخول إلى
-txp_version => Textpattern ضيغة
+txp_path => <bdi dir="ltr">Textpattern</bdi> مفاتيح الدخول إلى
+txp_version => <bdi dir="ltr">Textpattern</bdi> ضيغة
 web_domain => عنوان الموقع
 #@discuss
 article_deleted => مقال محذوف
@@ -978,11 +978,11 @@ site_config =>
 site_url =>
 tables_exist =>
 table_prefix =>
-thanks_for_interest => Textpattern. شكرا على الاهتمام الذي تولونه لتكست بترن
+thanks_for_interest => <bdi dir="ltr">Textpattern</bdi> شكرا على الاهتمام الذي تولونه لتكست بترن
 that_went_well => كل شيء على ما يرام. طاولات قد تم أنشاؤها وملؤها
 using_db => <code dir="ltr">{dbname}</code>في مرحلة الاستعمال
 warn_mail_unavailable =>
-welcome_to_textpattern => Textpattern مرحبا بك في
+welcome_to_textpattern => <bdi dir="ltr">Textpattern</bdi> مرحبا بك في
 your_email => عنوانك البريدي
 your_full_name => اسمك الحقيقي بالكامل
 you_can_access => بإمكانكم من الآن على الأرجح الدخول إلى صفحة التسيير عن طريق اسم الاتصال وكلمة السر المختارين

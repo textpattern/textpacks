@@ -221,7 +221,7 @@ link_category => رده
 list_options =>
 logged_in_as => ورود به عنوان
 login => ورود
-login_to_textpattern => ورود به Textpattern
+login_to_textpattern => ورود به <bdi dir="ltr">Textpattern</bdi>
 logout => خروج
 log_in_button => ورود
 method => متد
@@ -283,8 +283,8 @@ toggle_all_selected => حلقه کردن همه / هیچ یک از انتخاب 
 txpnl2br => تنها شکست خط
 txprawxhtml => کد خام HTML
 txpstriptags => برداشتن برچسب ها
-txptextile => بافت
-txptextilelite => بافت سبک
+txptextile => <bdi dir="ltr">Textile</bdi>
+txptextilelite => <bdi dir="ltr">Textile Lite</bdi>
 txt_quote_double_close => «
 txt_quote_double_open => »
 txt_quote_single_close => “
@@ -302,7 +302,7 @@ unmoderated => تأیید نشده
 updated => بهنگام شده
 upload_err_cant_write => ناتوانی در نوشتن فایل بر روی دیسک
 upload_err_extension => آپلود فایل توسط افزونه PHP متوقف شد.
-upload_err_form_size => حجم فایل از حداکثر اندازه تعریف شده در تنظیمات Textpattern بیشتر است.
+upload_err_form_size => حجم فایل از حداکثر اندازه تعریف شده در تنظیمات <bdi dir="ltr">Textpattern</bdi> بیشتر است.
 upload_err_ini_size => حجم فایل از اندازه تعریف شده در متغیر <code dir="ltr">upload_max_filesize</code> در فایل php.ini بیشتر است.
 upload_err_no_file => هیچ فایلی مشخص نشده است
 upload_err_partial => تنها بخش‌هایی از فایل اپلود شده است.
@@ -347,7 +347,7 @@ dns_lookup_fails => جستجوی DNS با مشکل مواجه شد
 document_root => ریشه اصلی اسناد
 file_uploads_disabled => امکان آپلود فایل غیرفعال شد.
 gd_info => {version}; فرمت های پشتیبانی شده: {supported}
-gd_library => کتابخانه گرافیکی GD
+gd_library => <bdi dir="ltr">GD Graphics Library</bdi>
 high => زیاد
 htaccess_contents => محتویات فایل .htaaccess
 htaccess_missing => فایل .htaccess موجود نیست
@@ -357,7 +357,7 @@ last_update_check =>
 locale => منطقه
 low => کم
 missing_files => فایل های یافت نشده
-modified_files => برخی از فایل‌های Textpattern نغییر یافته‌اند
+modified_files => برخی از فایل‌های <bdi dir="ltr">Textpattern</bdi> نغییر یافته‌اند
 mod_rewrite_missing => ماژول <code dir="ltr">mod_rewrite</code> بر روی آپاچی نصب نیست
 mysql_table_errors => این اشکالات در جدول‌های MySQL شما یافت شد
 no_temp_dir => هیچ پوشه‌ای برای فایل‌های موقت تعریف نشده است
@@ -367,7 +367,7 @@ path_to_site_inacc => <code dir="ltr">$path_to_site</code> دسترس‌پذیر
 php_extensions => افزونه‌های PHP
 php_sapi_mode => PHP Server API
 php_version => نسخه PHP
-php_version_required => سیستم مدیریت محتوای Textpattern برای نصب روی سرور شما به نسخه‌ی PHP {version} به بالا نیازمند است.
+php_version_required => سیستم مدیریت محتوای <bdi dir="ltr">Textpattern</bdi> برای نصب روی سرور شما به نسخه‌ی PHP {version} به بالا نیازمند است.
 preflight_check => آزمون
 pretext_data =>
 rfc2616_headers => سرآیندهای RFC 2616
@@ -375,13 +375,13 @@ server => سرور
 server_time => زمان محلی سرور
 site_trailing_slash => آدرس سایت یک / در انتها دارد
 site_url_mismatch => مرجع آدرس سایت ممکن است نادرست باشد
-some_php_functions_disabled => این توابع PHP (که برای راه‌اندازی Textpattern ضروری‌اند) بر روی سرور شما غیر فعال‌اند.
+some_php_functions_disabled => این توابع PHP (که برای راه‌اندازی <bdi dir="ltr">Textpattern</bdi> ضروری‌اند) بر روی سرور شما غیر فعال‌اند.
 still_exists => همچنان وجود دارد
-textpattern_update_available => نسخه‌ی جدید سیستم مدیریت محتوای Textpattern {version} <a href="https://textpattern.com/download" rel="external" title="رفتن به بخش دانلود">برای دریافت آماده است</a>
+textpattern_update_available => نسخه‌ی جدید سیستم مدیریت محتوای <bdi dir="ltr">Textpattern</bdi> {version} <a href="https://textpattern.com/download" rel="external" title="رفتن به بخش دانلود">برای دریافت آماده است</a>
 textpattern_update_available_beta =>
 tmp_plugin_paths_match => مسیر پوشه‌ی فایل‌های موقت و مسیر کش پلاگین‌ها <strong>نباید</strong> یکی باشند.
-txp_path => مسیر Textpattern
-txp_version => نسخه Textpattern
+txp_path => مسیر <bdi dir="ltr">Textpattern</bdi>
+txp_version => نسخه <bdi dir="ltr">Textpattern</bdi>
 web_domain => نشانی سایت
 #@discuss
 article_deleted => نوشته پاک شد!
@@ -759,7 +759,7 @@ go_content => برو به محتوا
 go_nav => برو به پیمایشگر
 go_search => برو به جستجو
 go_to => برو به
-go_txp_com => برو به سایت Textpattern
+go_txp_com => برو به سایت <bdi dir="ltr">Textpattern</bdi>
 header => سرآیند
 home => خانه
 host => میزبان
@@ -928,7 +928,7 @@ uses_style => استفاده از استایل
 about_to_create => شما در حال ایجاد جدول‌های پایگاه داده هستید.
 add_config_file => افزودن فایل پیکربندی
 admin_theme => قالب سمت مدیر
-already_installed => به نظر می‌رسد که Textpattern پیش از این هم نصب شده است. اگر می‌خواهید یک نصب مجدد و نو داشته باشد لطفاً فایل <code dir="ltr">config.php</code> را از پوشه <code dir="ltr">/textpattern/</code>
+already_installed => به نظر می‌رسد که <bdi dir="ltr">Textpattern</bdi> پیش از این هم نصب شده است. اگر می‌خواهید یک نصب مجدد و نو داشته باشد لطفاً فایل <code dir="ltr">config.php</code> را از پوشه <code dir="ltr">/textpattern/</code>
 back => بازگشت
 before_you_proceed => پیش از آنکه ادامه دهید
 checking_database => در حال تست ارتباط با پایگاه داده
@@ -942,7 +942,7 @@ creating_db_tables => ساخت جدول‌های پایگاه داده
 db_cant_connect => ناتوانی در اتصال به پایگاه داده
 db_connected => وصل شد
 db_doesnt_exist => پایگاه‌داده {dbname} موجود نیست و یا کاربری که تعیین کرده‌اید اجازه دسترسی به آن را ندارد.
-db_must_exist => توجه داشته باشید پایگاه داده‌ای که مشخص می‌کنید باید از پیش موجود باشد. Textpattern قادر به ساخت آن نیست.
+db_must_exist => توجه داشته باشید پایگاه داده‌ای که مشخص می‌کنید باید از پیش موجود باشد. <bdi dir="ltr">Textpattern</bdi> قادر به ساخت آن نیست.
 did_it => انجام دادم
 email_required => لطفاً یک ایمیل معتبر وارد کنید
 get_started => برو!
@@ -978,11 +978,11 @@ site_config => پیکربندی سایت
 site_url => نشانی سایت
 tables_exist => به نظر می رسد جداول از قبل در <strong>{dbname}</strong> وجود دارد. اگر میخواهید نصب خود را ادامه دهید یا جداول موجود را حذف کنید و یا از پیشوند جدول دیگری استفاده کنید.
 table_prefix => پیش‌وند جدول
-thanks_for_interest => از توجهتان به Textpattern سپاسگزاریم.
+thanks_for_interest => از توجهتان به <bdi dir="ltr">Textpattern</bdi> سپاسگزاریم.
 that_went_well => به خوبی انجام شد. جدول‌های پایگاه داده ساخته و پرداخته شدند.
 using_db => استفاده از {dbname}
-warn_mail_unavailable => در PHP نصب شده روی سرور شما تابع <code dir="ltr">mail()</code> وجود ندارد. بنابراین Textpattern امکان ارسال هیچ ایمیلی را ندارد که این محدودیتی بر برخی کارکردها خواهد گذاشت.
-welcome_to_textpattern => به Textpattern خوش آمدید
+warn_mail_unavailable => در PHP نصب شده روی سرور شما تابع <code dir="ltr">mail()</code> وجود ندارد. بنابراین <bdi dir="ltr">Textpattern</bdi> امکان ارسال هیچ ایمیلی را ندارد که این محدودیتی بر برخی کارکردها خواهد گذاشت.
+welcome_to_textpattern => به <bdi dir="ltr">Textpattern</bdi> خوش آمدید
 your_email => نشانی ایمیل شما
 your_full_name => نام کامل شما
 you_can_access => شما از این پس امکان ورود به <a href="index.php">واسط اصلی</a> با نام کاربری و گذرواژه انتخابی خود را دارید.

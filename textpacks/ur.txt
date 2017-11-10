@@ -186,7 +186,7 @@ collapse_all =>
 comment => تبصرہ
 comments_expired =>
 confirm_delete_popup => واقعی حذف کریں ؟
-cookies_must_be_enabled => Textpattern استمعال کرنے کے لیے، براؤزر کی کوکی اہل بنانا لازمی ہے
+cookies_must_be_enabled => <bdi dir="ltr">Textpattern</bdi> استمعال کرنے کے لیے، براؤزر کی کوکی اہل بنانا لازمی ہے
 could_not_log_in => اس نام یا پاسورڈ سے لاگ ان نہیں ہو سکا
 date_added =>
 deleteforce =>
@@ -283,8 +283,8 @@ toggle_all_selected =>
 txpnl2br => صرف نئی لائیں
 txprawxhtml => خام HTML
 txpstriptags => ٹیگ نکالیں
-txptextile => Textile
-txptextilelite => Textile Lite
+txptextile => <bdi dir="ltr">Textile</bdi>
+txptextilelite => <bdi dir="ltr">Textile Lite</bdi>
 txt_quote_double_close => “
 txt_quote_double_open => ”
 txt_quote_single_close => ‘
@@ -302,7 +302,7 @@ unmoderated => تفتیش نہ کیا
 updated => تازہ کیا
 upload_err_cant_write => ڈسک پر فائل محفوظ کرنے میں ناکامی
 upload_err_extension => فائل کا اپ لوڈ ایک PHP سے روکا گیا اضافی
-upload_err_form_size => فائل کی سائز Textpattern کے ترجیحات میں تخصیص کردہ سائز کو تجاوز کرتی ہے
+upload_err_form_size => فائل کی سائز <bdi dir="ltr">Textpattern</bdi> کے ترجیحات میں تخصیص کردہ سائز کو تجاوز کرتی ہے
 upload_err_ini_size => فائل کی سائز <code dir="ltr">php.ini</code> میں <code dir="ltr">upload_max_filesize</code> کی ہدایت کو تجاوز کرتی ہے
 upload_err_no_file => کوئی فائل ‏تخصیص نہیں کیا
 upload_err_partial => فائل کا اپ لوڈ ادھورا رہ گیا
@@ -347,7 +347,7 @@ dns_lookup_fails => Web Domain DNS lookup میں ناکامی
 document_root => اساسی پوشہ کا پتہ
 file_uploads_disabled => فائل کے اپ لوڈ کرنا نا اہل ہے
 gd_info => {version} کی معاونت شدہ قسمیں: {supported}
-gd_library => GD Graphics Library
+gd_library => <bdi dir="ltr">GD Graphics Library</bdi>
 high => اعلٰی
 htaccess_contents => .htaccess فائل کی متن
 htaccess_missing => .htaccess فائل موجود نہیں
@@ -357,7 +357,7 @@ last_update_check =>
 locale => مقامیت
 low => پست
 missing_files => غائب‏ فائل
-modified_files => کچھ Textpattern کے فائل ترمیم کیے گئے ہیں
+modified_files => کچھ <bdi dir="ltr">Textpattern</bdi> کے فائل ترمیم کیے گئے ہیں
 mod_rewrite_missing => Apache module <code dir="ltr">mod_rewrite</code> نسب نہیں
 mysql_table_errors =>
 no_temp_dir =>
@@ -375,13 +375,13 @@ server => سرور
 server_time => سرور کا مقامی وقت
 site_trailing_slash => سائٹ کے URL میں پشت بندی سلیش '/' ہے
 site_url_mismatch => سائٹ کے URL کی اختیارات شاید غیر صحیح ہے
-some_php_functions_disabled => مندرجہ ذیل PHP functions (جو شاید Textpattern کا چلت کریں میں اہم ہونگے) اس سرور پر نا اہل ہے
+some_php_functions_disabled => مندرجہ ذیل PHP functions (جو شاید <bdi dir="ltr">Textpattern</bdi> کا چلت کریں میں اہم ہونگے) اس سرور پر نا اہل ہے
 still_exists => اب بھی موجود ہے
 textpattern_update_available =>
 textpattern_update_available_beta =>
 tmp_plugin_paths_match => عارضی پوشہ کی راہ اور پلگ ان کے پوشہ کی راہ مشابہ <strong>نہیں</strong> ہونا چاہئے
-txp_path => Textpattern کا پتہ
-txp_version => Textpattern ورژن
+txp_path => <bdi dir="ltr">Textpattern</bdi> کا پتہ
+txp_version => <bdi dir="ltr">Textpattern</bdi> ورژن
 web_domain => سائٹ کا URL پتہ
 #@discuss
 article_deleted => یہ مضمون حذف ہے
@@ -928,7 +928,7 @@ uses_style => یہ سٹائل استمعال کریں
 about_to_create => اب ڈیٹابیس کے جدول بھریں جاینگے
 add_config_file =>
 admin_theme =>
-already_installed => Textpattern لگتا ہے کی کو نصب کرنا چاہتے ہیں تو Textpattern اگر آپ پھر تازہ پوشہ سے حذف کرے <code dir="ltr">Textpattern</code> فائل کو <code dir="ltr">config.php</code> اور پھر کوشس کریں
+already_installed => <bdi dir="ltr">Textpattern</bdi> لگتا ہے کی کو نصب کرنا چاہتے ہیں تو <bdi dir="ltr">Textpattern</bdi> اگر آپ پھر تازہ پوشہ سے حذف کرے <code dir="ltr">Textpattern</code> فائل کو <code dir="ltr">config.php</code> اور پھر کوشس کریں
 back =>
 before_you_proceed => آگے جانے سے پہلے
 checking_database => ڈیٹابیس مع ربط کر رہا ہے
@@ -942,7 +942,7 @@ creating_db_tables =>
 db_cant_connect => ڈیٹابیس مع ربط نہیں ہو سکا
 db_connected => ڈیٹابیس مع مربوط ہوا
 db_doesnt_exist => دستیاب نہیں یا آپ کا اختصاصی صارف کو اس سے رسائی کرنے کی اجازت نہیں <strong>{dbname}</strong> ڈیٹابیس
-db_must_exist => اسے نہیں بناۓ گا Textpattern آپکا انتخاب کردہ ڈیٹابیس پہلے سے ہی موجود ہونا چاہیے
+db_must_exist => اسے نہیں بناۓ گا <bdi dir="ltr">Textpattern</bdi> آپکا انتخاب کردہ ڈیٹابیس پہلے سے ہی موجود ہونا چاہیے
 did_it => عمل مکمل
 email_required => بارہ کرم، ایک جائز ای میل پتہ داخل کریں
 get_started =>
@@ -978,11 +978,11 @@ site_config =>
 site_url => URL ویب سائٹ کا
 tables_exist =>
 table_prefix => جدول سابقہ
-thanks_for_interest => میں دلچسپی لینے کے لئے آپ کا شکریہ Textpattern
+thanks_for_interest => میں دلچسپی لینے کے لئے آپ کا شکریہ <bdi dir="ltr">Textpattern</bdi>
 that_went_well => ہر کام کامیابی سے مکممل! - ڈیٹابیس کے جدول کی بناوٹ اور بھرائی مکمل
 using_db => استمعال کیا جا رہا ہے {dbname}
-warn_mail_unavailable => سے کوئی ای میل نہیں بھیجے جاینگے Textpattern دستیاب نہیں، اس لیے <code dir="ltr">mail()</code> میں PHP آپ کے
-welcome_to_textpattern => میں خوش آمدید Textpattern
+warn_mail_unavailable => سے کوئی ای میل نہیں بھیجے جاینگے <bdi dir="ltr">Textpattern</bdi> دستیاب نہیں، اس لیے <code dir="ltr">mail()</code> میں PHP آپ کے
+welcome_to_textpattern => میں خوش آمدید <bdi dir="ltr">Textpattern</bdi>
 your_email => آپکا ای میل پتہ
 your_full_name => آپ کا پورا نام
 you_can_access => میں انتخاب کردہ لاگ ان معلومات کے ساتھ داخل ہو سکتے ہیں <a href="index.php">انتظامیہ</a> اب آپ
