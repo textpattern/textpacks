@@ -109,8 +109,8 @@ timestamp => تاريخ النشر
 url_title => النص الخاص بعنوان الموقع
 url_title_is_blank => نص عنوان الموقع غير موجود
 url_title_is_multiple => نص عنوان الموقع موجود
-view_html => عرض <span dir="ltr">HTML</span>
-view_html_short => <span dir="ltr">HTML</span>
+view_html => عرض <bdi dir="ltr">HTML</bdi>
+view_html_short => <bdi dir="ltr">HTML</bdi>
 view_preview => لمحة على المقال
 view_preview_short => لمحة
 view_text => تحرير نص المقال
@@ -283,8 +283,8 @@ toggle_all_selected =>
 txpnl2br =>
 txprawxhtml => الخام HTML
 txpstriptags =>
-txptextile => <span dir="ltr">Textile</span>
-txptextilelite => <span dir="ltr">Textile Lite</span>
+txptextile => <bdi dir="ltr">Textile</bdi>
+txptextilelite => <bdi dir="ltr">Textile Lite</bdi>
 txt_quote_double_close => “
 txt_quote_double_open => ”
 txt_quote_single_close =>
