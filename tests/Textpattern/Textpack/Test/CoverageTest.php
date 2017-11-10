@@ -65,7 +65,7 @@ class CoverageTest extends \PHPUnit\Framework\TestCase
      * @var string
      */
 
-    static private $allowedHTMLFormatting = '<a><abbr><b><bdo><cite><code><del><dfn><em><i><ins><kbd><q><samp><small><span><strong><sub><sup><var>';
+    static private $allowedHTMLFormatting = '<a><abbr><b><bdi><cite><code><del><dfn><em><i><ins><kbd><q><samp><small><span><strong><sub><sup><var>';
 
     /**
      * Regular expression for finding unwanted characters.
