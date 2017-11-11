@@ -99,6 +99,7 @@ meta => メタ
 no_articles_recorded => 記事が保存されていません。
 override_default_form => デフォルトフォームの上書き
 problem_creating_article =>
+problem_deleting_article =>
 reset_time => 現時刻にリセット…
 search_articles =>
 set_expire_now =>

@@ -99,6 +99,7 @@ meta => Meta
 no_articles_recorded => Ningún artigo gardado
 override_default_form => Sobreescribir o formulario
 problem_creating_article =>
+problem_deleting_article =>
 reset_time => Empregar hora actual
 search_articles =>
 set_expire_now =>

@@ -99,6 +99,7 @@ meta => Meta
 no_articles_recorded => Inga artiklar inlagda.
 override_default_form => Åsidosätt siddel
 problem_creating_article =>
+problem_deleting_article =>
 reset_time => Nollställ till nutid…
 search_articles => Sök artiklar
 set_expire_now =>
