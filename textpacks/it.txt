@@ -105,6 +105,7 @@ problem_retrieving_article =>
 problem_retrieving_article_categories =>
 problem_retrieving_categories =>
 problem_retrieving_category_info =>
+problem_retrieving_sections =>
 reset_time => Reimposta data e ora a questo istante
 search_articles => Cerca articoli
 set_expire_now =>

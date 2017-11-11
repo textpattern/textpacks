@@ -105,6 +105,7 @@ problem_retrieving_article =>
 problem_retrieving_article_categories =>
 problem_retrieving_categories =>
 problem_retrieving_category_info =>
+problem_retrieving_sections =>
 reset_time => Nollställ till nutid…
 search_articles => Sök artiklar
 set_expire_now =>

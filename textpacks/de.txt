@@ -105,6 +105,7 @@ problem_retrieving_article =>
 problem_retrieving_article_categories =>
 problem_retrieving_categories =>
 problem_retrieving_category_info =>
+problem_retrieving_sections =>
 reset_time => Auf aktuelle Zeit setzen
 search_articles => Artikel suchen
 set_expire_now =>
