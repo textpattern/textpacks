@@ -101,6 +101,7 @@ override_default_form => 覆盖默认文章模块
 problem_creating_article =>
 problem_deleting_article =>
 problem_getting_articles =>
+problem_retrieving_article =>
 reset_time => 重设时间到此刻……
 search_articles => 搜索文章
 set_expire_now =>

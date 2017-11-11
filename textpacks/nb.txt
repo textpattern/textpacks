@@ -101,6 +101,7 @@ override_default_form => Overstyr skjema
 problem_creating_article =>
 problem_deleting_article =>
 problem_getting_articles =>
+problem_retrieving_article =>
 reset_time => Nullstill tid til nå
 search_articles => Søk artikler
 set_expire_now =>

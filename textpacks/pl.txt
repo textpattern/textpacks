@@ -101,6 +101,7 @@ override_default_form => Nadpisz formę
 problem_creating_article =>
 problem_deleting_article =>
 problem_getting_articles =>
+problem_retrieving_article =>
 reset_time => Ustaw na aktualny czas
 search_articles => Szukaj artykułów
 set_expire_now =>

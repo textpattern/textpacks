@@ -101,6 +101,7 @@ override_default_form => Module de remplacement
 problem_creating_article =>
 problem_deleting_article =>
 problem_getting_articles =>
+problem_retrieving_article =>
 reset_time => Horodater à « maintenant »
 search_articles => Recherche d’articles
 set_expire_now => Expire « maintenant »

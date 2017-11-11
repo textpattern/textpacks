@@ -101,6 +101,7 @@ override_default_form => Přebít formu
 problem_creating_article =>
 problem_deleting_article =>
 problem_getting_articles =>
+problem_retrieving_article =>
 reset_time => Nastavit nynější čas
 search_articles => Hledat články
 set_expire_now =>

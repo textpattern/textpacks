@@ -101,6 +101,7 @@ override_default_form => Käytä eri lomaketta
 problem_creating_article =>
 problem_deleting_article =>
 problem_getting_articles =>
+problem_retrieving_article =>
 reset_time => Aseta ajaksi tämä hetki
 search_articles => Etsi artikkeleita
 set_expire_now =>

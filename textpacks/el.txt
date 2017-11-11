@@ -101,6 +101,7 @@ override_default_form => Παράκαμψη προκαθορισμένης φό�
 problem_creating_article =>
 problem_deleting_article =>
 problem_getting_articles =>
+problem_retrieving_article =>
 reset_time => Να οριστεί το «τώρα» ως χρονοσήμανση
 search_articles => Αναζήτηση άρθρων
 set_expire_now =>

@@ -101,6 +101,7 @@ override_default_form => فارم زیر کریں
 problem_creating_article =>
 problem_deleting_article =>
 problem_getting_articles =>
+problem_retrieving_article =>
 reset_time => حالیہ وقت پر پھر سیٹ کریں
 search_articles =>
 set_expire_now =>
