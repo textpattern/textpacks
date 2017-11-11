@@ -181,6 +181,7 @@ ascending => Ascendent
 auth_required => Cal autorització
 back_to_login => Torna al login de Textpattern
 bad_cookie => Cookie invàlida
+bad_login =>
 body => Cos
 cancel => Cancel·la
 cannot_delete =>

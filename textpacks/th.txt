@@ -181,6 +181,7 @@ ascending => เรียงจากน้อยไปมาก
 auth_required => ต้องได้รับอนุญาตก่อน
 back_to_login =>
 bad_cookie => cookie ใช้ไม่ได้
+bad_login =>
 body => เนื้อความ
 cancel =>
 cannot_delete =>

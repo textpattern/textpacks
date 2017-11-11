@@ -181,6 +181,7 @@ ascending => Từ nhỏ đến lớn
 auth_required => Yêu cầu phải đăng nhập.
 back_to_login => Trở lại đăng nhập Textpattern
 bad_cookie => Phiên làm việc đã hết hạn. Hãy nhập thông tin đăng nhập.
+bad_login =>
 body => Thân
 cancel =>
 cannot_delete =>

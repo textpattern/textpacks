@@ -181,6 +181,7 @@ ascending => Növekvő
 auth_required => Hitelesítés szükséges
 back_to_login =>
 bad_cookie => Rossz süti (cookie)
+bad_login =>
 body => Törzs
 cancel =>
 cannot_delete =>

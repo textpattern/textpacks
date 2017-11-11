@@ -181,6 +181,7 @@ ascending => בסדר יורד
 auth_required => נדרשת הרשאה
 back_to_login => חזור אל התחברות <bdi dir="ltr">Textpattern</bdi>
 bad_cookie => העוגייה אינה תקינה. אנא רשום את פרטי ההתחברות.
+bad_login =>
 body => גוף
 cancel =>
 cannot_delete =>

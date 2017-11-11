@@ -181,6 +181,7 @@ ascending => Oplopend
 auth_required => Inloggen verplicht.
 back_to_login => Terug naar het Textpatternloginscherm
 bad_cookie => De loginsessie is verlopen. Je moet opnieuw inloggen.
+bad_login =>
 body => Artikeltekst
 cancel => Annuleren
 cannot_delete =>

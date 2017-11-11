@@ -181,6 +181,7 @@ ascending => Αύξουσα σειρά
 auth_required => Χρειάζεται πιστοποίηση χρήστη
 back_to_login => Επιστροφή στην Είσοδο του Textpattern
 bad_cookie => Έχει λήξει η συνεδρία σας. Παρακαλώ συνδεθείτε ξανά.
+bad_login =>
 body => Σώμα
 cancel => Άκυρο
 cannot_delete =>

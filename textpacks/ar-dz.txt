@@ -181,6 +181,7 @@ ascending => ترتيب تصاعدي
 auth_required => رخصة مطلوبة
 back_to_login =>
 bad_cookie => الكوكي غير صحيح
+bad_login =>
 body => النص الأساسي
 cancel => إلغاء
 cannot_delete =>

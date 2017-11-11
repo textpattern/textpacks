@@ -181,6 +181,7 @@ ascending => Aufsteigend
 auth_required => Benötigt Berechtigung.
 back_to_login => Zurück zur Anmeldung
 bad_cookie => Ungültiges Cookie. Bitte geben Sie Ihre Anmeldeinformationen ein.
+bad_login =>
 body => Haupttext
 cancel => Abbrechen
 cannot_delete =>

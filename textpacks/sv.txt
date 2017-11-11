@@ -181,6 +181,7 @@ ascending => Stigande
 auth_required => Auktorisering krävs.
 back_to_login => Till Textpatterns loginsida
 bad_cookie => Ogiltig cookiefil. Var god ange dina inloggningsuppgifter.
+bad_login =>
 body => Brödtext
 cancel => Avbryt
 cannot_delete =>

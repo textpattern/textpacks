@@ -181,6 +181,7 @@ ascending => Didėjančiai
 auth_required => Reikalinga autorizacija.
 back_to_login => Atgal į Textpattern seanso pradžią
 bad_cookie => Jūsų prisijungimo sesija baigėsi. Prašome prisijungti vėl.
+bad_login =>
 body => Tekstas
 cancel =>
 cannot_delete =>

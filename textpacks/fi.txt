@@ -181,6 +181,7 @@ ascending => Nouseva
 auth_required => Kirjautuminen vaadittu.
 back_to_login => Takaisin Textpatternin kirjautumis-sivulle
 bad_cookie => Istuntosi on vanhentunut. Ole hyvä ja kirjaudu uudelleen.
+bad_login =>
 body => Leipäteksti
 cancel => Peruuta
 cannot_delete =>

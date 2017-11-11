@@ -181,6 +181,7 @@ ascending => صعودی
 auth_required => احراز هویت ضروری است.
 back_to_login => بازگشت به صفحه ورود ←
 bad_cookie => لطفاً مجدداً وارد سیستم شوید.
+bad_login =>
 body => بدنه
 cancel =>
 cannot_delete =>

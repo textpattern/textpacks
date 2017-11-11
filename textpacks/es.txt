@@ -181,6 +181,7 @@ ascending => Ascendente
 auth_required => Se requiere autorización.
 back_to_login => Volver a identificarse en Textpattern
 bad_cookie => Tu sesión ha caducado. Por favor, vuelve a entrar.
+bad_login =>
 body => Cuerpo
 cancel => Cancelar
 cannot_delete =>

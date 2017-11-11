@@ -181,6 +181,7 @@ ascending => Узлазно
 auth_required => Потребна ауторизација.
 back_to_login =>
 bad_cookie => Неисправан cookie. Молимо унесите login детаље.
+bad_login =>
 body => Садржај
 cancel =>
 cannot_delete =>

@@ -181,6 +181,7 @@ ascending => Kasvav
 auth_required => Nõutakse sisselogemist.
 back_to_login =>
 bad_cookie => Kehtetu küpsis.
+bad_login =>
 body =>
 cancel =>
 cannot_delete =>

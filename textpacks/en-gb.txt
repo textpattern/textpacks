@@ -181,6 +181,7 @@ ascending => Ascending
 auth_required => Authorisation required.
 back_to_login => Back to Textpattern login
 bad_cookie => Your session has expired. Please log in again.
+bad_login => Could not log in with that username/password.
 body => Body
 cancel => Cancel
 cannot_delete => Cannot delete {thing}.

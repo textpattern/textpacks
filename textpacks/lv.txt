@@ -181,6 +181,7 @@ ascending => Augošā secībā
 auth_required => Ir nepieciešama autorizācija
 back_to_login => Atpakaļ uz Textpattern pieslēgšanās lapu
 bad_cookie => Nederīga sīkdatne.
+bad_login =>
 body => Pamatteksts
 cancel => Atcelt
 cannot_delete =>

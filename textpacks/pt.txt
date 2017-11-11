@@ -181,6 +181,7 @@ ascending => Ascendente
 auth_required => Autorização requerida.
 back_to_login => De volta ao Textpattern login
 bad_cookie => Cookie inválida. Por favor, insira os seus dados de acesso.
+bad_login =>
 body => Corpo
 cancel => Cancelar
 cannot_delete =>

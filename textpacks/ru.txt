@@ -181,6 +181,7 @@ ascending => По возрастанию
 auth_required => Необходима авторизация.
 back_to_login => Вернуться к входу в Textpattern
 bad_cookie => Ваша сессия истекла. Пожалуйста, пройдите авторизацию снова.
+bad_login =>
 body => Тело
 cancel => Отмена
 cannot_delete =>

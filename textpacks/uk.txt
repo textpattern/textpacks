@@ -181,6 +181,7 @@ ascending => По зростанню
 auth_required => Необхідна авторизація.
 back_to_login => Повернутися до Textpattern
 bad_cookie => Ваша login-сесія закінчилась. Будь ласка, увійдіть в систему знову.
+bad_login =>
 body => Стаття
 cancel => Відміна
 cannot_delete =>

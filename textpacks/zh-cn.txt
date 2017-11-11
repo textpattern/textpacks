@@ -181,6 +181,7 @@ ascending => 升序
 auth_required => 需要授权。
 back_to_login => 返回到 Textpattern 登录页
 bad_cookie => 无效的 Cookie。请输入登录信息。
+bad_login =>
 body => 内容
 cancel => 撤销
 cannot_delete =>

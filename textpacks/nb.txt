@@ -181,6 +181,7 @@ ascending => Stigende
 auth_required => Autorisasjon påkrevd
 back_to_login => Tilbake til Textpattern innlogging
 bad_cookie => Korrupt cookie. Vennligst skriv inn logindetaljer.
+bad_login =>
 body => Body
 cancel =>
 cannot_delete =>

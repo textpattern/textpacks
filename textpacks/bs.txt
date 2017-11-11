@@ -181,6 +181,7 @@ ascending => Rastući
 auth_required => Zahtijevana autorizacija.
 back_to_login =>
 bad_cookie => Vaše vrijeme prijave je isteklo. Molimo prijavite se ponovo.
+bad_login =>
 body =>
 cancel =>
 cannot_delete =>

@@ -181,6 +181,7 @@ ascending => Rosnąco
 auth_required => Wymagana autoryzacja.
 back_to_login => Zaloguj ponownie
 bad_cookie => Nieprawidłowe ciasteczko (cookie). Zaloguj się ponownie.
+bad_login =>
 body => Treść
 cancel => Anuluj
 cannot_delete =>

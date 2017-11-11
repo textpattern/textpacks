@@ -181,6 +181,7 @@ ascending => 昇順
 auth_required => 認証が必要です。
 back_to_login => Textpattern のログインへ戻る
 bad_cookie => セッションが失効しました。再度ログインしてください。
+bad_login =>
 body => 本文
 cancel =>
 cannot_delete =>

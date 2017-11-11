@@ -181,6 +181,7 @@ ascending => صعودی
 auth_required => منظوری‏ ضروری ہے
 back_to_login =>
 bad_cookie => اس نشست کی مدّت ختم ہوی، بارہ کرم دو بارہ لاگ ان کریں
+bad_login =>
 body => بیان
 cancel =>
 cannot_delete =>

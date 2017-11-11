@@ -181,6 +181,7 @@ ascending => Ascending
 auth_required => Otorisasi diperlukan
 back_to_login =>
 bad_cookie => Sesi login Anda telah kadaluarsa. Silakan login lagi.
+bad_login =>
 body => Body
 cancel =>
 cannot_delete =>

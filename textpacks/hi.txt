@@ -181,6 +181,7 @@ ascending =>
 auth_required =>
 back_to_login =>
 bad_cookie =>
+bad_login =>
 body =>
 cancel =>
 cannot_delete =>

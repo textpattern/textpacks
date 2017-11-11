@@ -181,6 +181,7 @@ ascending => Ascendent
 auth_required => Autorizatie necesara.
 back_to_login => Inapoi la autentificare Textpattern
 bad_cookie => Sesiunea a expirat. Te rog re-autentifica.
+bad_login =>
 body => Continut
 cancel => Anula
 cannot_delete =>

@@ -181,6 +181,7 @@ ascending => Ordre ascendant
 auth_required => Autorisation requise.
 back_to_login => Retour : connexion à Textpattern CMS
 bad_cookie => Votre session de connexion a expiré. Merci de bien vouloir vous reconnecter.
+bad_login =>
 body => Corps
 cancel => Annuler
 cannot_delete =>

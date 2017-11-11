@@ -181,6 +181,7 @@ ascending => Vzestupně
 auth_required => Je nutno se přihlásit.
 back_to_login => Zpět k přihlášení
 bad_cookie => Špatné cookie.
+bad_login =>
 body => Tělo
 cancel => Zrušit
 cannot_delete =>

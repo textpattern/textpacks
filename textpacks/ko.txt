@@ -181,6 +181,7 @@ ascending => 오름차순
 auth_required => 권한이 필요합니다.
 back_to_login =>
 bad_cookie => 로그인 세션이 끝났습니다. 다시 로그인해야 합니다.
+bad_login =>
 body => 본문
 cancel =>
 cannot_delete =>

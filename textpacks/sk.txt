@@ -181,6 +181,7 @@ ascending => Vzostupne
 auth_required => Je potrebné sa prihlásiť.
 back_to_login => Naspäť na prihlásenie
 bad_cookie => Chybné cookie.
+bad_login =>
 body => Telo článku
 cancel => Zrušiť
 cannot_delete =>

@@ -181,6 +181,7 @@ ascending => Crescente
 auth_required => Autorizzazione richiesta.
 back_to_login => Ritorna al login di Textpattern
 bad_cookie => La tua sessione è scaduta. Effettua di nuovo il login.
+bad_login =>
 body => Corpo
 cancel => Annulla
 cannot_delete =>

@@ -181,6 +181,7 @@ ascending => Stigende
 auth_required => Autorisation krævet.
 back_to_login =>
 bad_cookie => Dårlig cookie.
+bad_login =>
 body =>
 cancel =>
 cannot_delete =>

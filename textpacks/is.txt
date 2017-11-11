@@ -181,6 +181,7 @@ ascending => Öfug röð
 auth_required => Leyfi nauðsynlegt.
 back_to_login =>
 bad_cookie => Slæm cookie.
+bad_login =>
 body =>
 cancel =>
 cannot_delete =>

@@ -181,6 +181,7 @@ ascending => Uzlazno
 auth_required => Potrebna autorizacija.
 back_to_login => Nazad na prijavu u Textpattern
 bad_cookie => Neispravan cookie. Molimo unesite login detalje.
+bad_login =>
 body => Sadržaj
 cancel => Otkaži
 cannot_delete =>

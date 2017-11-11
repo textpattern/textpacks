@@ -181,6 +181,7 @@ ascending => Възходящо
 auth_required => Необходима е ауторизация.
 back_to_login => Върнете се към входа
 bad_cookie => Лоша cookie стойност.
+bad_login =>
 body => Главен текст
 cancel =>
 cannot_delete =>
