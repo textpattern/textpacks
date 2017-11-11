@@ -104,6 +104,7 @@ problem_getting_articles =>
 problem_retrieving_article =>
 problem_retrieving_article_categories =>
 problem_retrieving_categories =>
+problem_retrieving_category_info =>
 reset_time => Να οριστεί το «τώρα» ως χρονοσήμανση
 search_articles => Αναζήτηση άρθρων
 set_expire_now =>

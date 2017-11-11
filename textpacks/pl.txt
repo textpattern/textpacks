@@ -104,6 +104,7 @@ problem_getting_articles =>
 problem_retrieving_article =>
 problem_retrieving_article_categories =>
 problem_retrieving_categories =>
+problem_retrieving_category_info =>
 reset_time => Ustaw na aktualny czas
 search_articles => Szukaj artykułów
 set_expire_now =>
