@@ -267,6 +267,7 @@ tab_diagnostics => Diagnosointi
 tab_extensions => Laajennukset
 tab_file => Tiedostot
 tab_forms => Lomakkeet
+tab_help =>
 tab_image => Kuvat
 tab_import => Tuo
 tab_languages => Kielet

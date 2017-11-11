@@ -267,6 +267,7 @@ tab_diagnostics => فن تشخیص
 tab_extensions => اضافی‏ ترجیحات
 tab_file => فائلیں
 tab_forms => Forms فارم
+tab_help =>
 tab_image => تصاویر
 tab_import => درآمد
 tab_languages =>

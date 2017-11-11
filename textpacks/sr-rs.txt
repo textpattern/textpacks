@@ -267,6 +267,7 @@ tab_diagnostics => Дијагностика
 tab_extensions => Екстензије
 tab_file => Фајлови
 tab_forms => Форме
+tab_help =>
 tab_image => Слике
 tab_import => Импорт
 tab_languages =>

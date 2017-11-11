@@ -267,6 +267,7 @@ tab_diagnostics => 시스템 진단
 tab_extensions => 확장기능
 tab_file => 파일
 tab_forms => 폼
+tab_help =>
 tab_image => 이미지
 tab_import => 가져오기
 tab_languages =>

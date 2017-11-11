@@ -267,6 +267,7 @@ tab_diagnostics => בדיקת המערכת
 tab_extensions => הרחבות
 tab_file => קבצים
 tab_forms => תבניות
+tab_help =>
 tab_image => תמונות
 tab_import => ייצא
 tab_languages =>

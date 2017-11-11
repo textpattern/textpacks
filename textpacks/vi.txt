@@ -267,6 +267,7 @@ tab_diagnostics => Chẩn đoán
 tab_extensions => Phần mở rộng
 tab_file => Tập tin
 tab_forms => Mẫu đơn
+tab_help =>
 tab_image => Ảnh
 tab_import => Nhập
 tab_languages => Ngôn ngữ

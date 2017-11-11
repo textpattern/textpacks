@@ -267,6 +267,7 @@ tab_diagnostics => Diagnostika
 tab_extensions => Plėtiniai
 tab_file => Rinkmenos
 tab_forms => Formos
+tab_help =>
 tab_image => Atvaizdai
 tab_import => Importas
 tab_languages =>

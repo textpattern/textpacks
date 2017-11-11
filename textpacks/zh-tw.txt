@@ -267,6 +267,7 @@ tab_diagnostics => 評估
 tab_extensions => 擴充功能
 tab_file => 檔案
 tab_forms => 模型
+tab_help =>
 tab_image => 圖片
 tab_import => 匯入
 tab_languages =>

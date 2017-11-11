@@ -267,6 +267,7 @@ tab_diagnostics => διαγνωστικά
 tab_extensions => επεκτάσεις
 tab_file => αρχεία
 tab_forms => φόρμες
+tab_help =>
 tab_image => εικόνες
 tab_import => ενσωμάτωση
 tab_languages => Γλώσσες

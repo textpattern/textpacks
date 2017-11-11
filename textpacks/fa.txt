@@ -267,6 +267,7 @@ tab_diagnostics => عیب‌یابی
 tab_extensions => افزونه‌ها
 tab_file => فایل‌ها
 tab_forms => فرم‌ها
+tab_help =>
 tab_image => تصاویر
 tab_import => وارد کردن
 tab_languages => زبان‌ها

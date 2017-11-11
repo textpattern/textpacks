@@ -267,6 +267,7 @@ tab_diagnostics => Diagnòstics
 tab_extensions => Extensions
 tab_file => Fitxers
 tab_forms => Formularis
+tab_help =>
 tab_image => Imatges
 tab_import => Importa
 tab_languages => Idiomes

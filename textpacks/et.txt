@@ -267,6 +267,7 @@ tab_diagnostics => Diagnostika
 tab_extensions => Lisad
 tab_file => Failid
 tab_forms => Vormid
+tab_help =>
 tab_image => Pildid
 tab_import => Import
 tab_languages => Keeled

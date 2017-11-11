@@ -267,6 +267,7 @@ tab_diagnostics => Diagnostica
 tab_extensions => Estensioni
 tab_file => File
 tab_forms => Moduli
+tab_help =>
 tab_image => Immagini
 tab_import => Importa
 tab_languages => Lingue

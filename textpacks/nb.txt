@@ -267,6 +267,7 @@ tab_diagnostics => Diagnostikk
 tab_extensions => Utvidelser
 tab_file => Filer
 tab_forms => Skjemaer
+tab_help =>
 tab_image => Bilder
 tab_import => Importer
 tab_languages => Språk

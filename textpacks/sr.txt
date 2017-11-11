@@ -267,6 +267,7 @@ tab_diagnostics => Dijagnostika
 tab_extensions => Ekstenzije
 tab_file => Fajlovi
 tab_forms => Forme
+tab_help =>
 tab_image => Slike
 tab_import => Uvoz
 tab_languages => Jezici

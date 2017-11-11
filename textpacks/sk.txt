@@ -267,6 +267,7 @@ tab_diagnostics => Diagnostika
 tab_extensions => Rozšírenia
 tab_file => Súbory
 tab_forms => Šablóny
+tab_help =>
 tab_image => Obrázky
 tab_import => Import
 tab_languages => Jazyky

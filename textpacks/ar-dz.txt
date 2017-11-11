@@ -267,6 +267,7 @@ tab_diagnostics => تشخيصات
 tab_extensions => امتدادات
 tab_file => ملفات
 tab_forms => أشكال
+tab_help =>
 tab_image => صور
 tab_import => واردات
 tab_languages =>

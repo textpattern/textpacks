@@ -267,6 +267,7 @@ tab_diagnostics => Sistem kontrolü
 tab_extensions => Uzantılar
 tab_file => Dosyalar
 tab_forms => Formlar
+tab_help =>
 tab_image => Görseller
 tab_import => İçeri al
 tab_languages =>

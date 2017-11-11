@@ -267,6 +267,7 @@ tab_diagnostics => Diagnose
 tab_extensions => Uitbreidingen
 tab_file => Bestanden
 tab_forms => Modules
+tab_help =>
 tab_image => Afbeeldingen
 tab_import => Importeren
 tab_languages => Talen

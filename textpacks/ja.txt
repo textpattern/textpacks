@@ -267,6 +267,7 @@ tab_diagnostics => 診断
 tab_extensions => 拡張
 tab_file => ファイル
 tab_forms => フォーム
+tab_help =>
 tab_image => 画像
 tab_import => インポート
 tab_languages => 言語

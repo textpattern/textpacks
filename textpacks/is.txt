@@ -267,6 +267,7 @@ tab_diagnostics => Skilgreining
 tab_extensions => Viðbygging
 tab_file => Skrár
 tab_forms => Snið
+tab_help =>
 tab_image => Myndir
 tab_import => Innfæra
 tab_languages => Tungumál

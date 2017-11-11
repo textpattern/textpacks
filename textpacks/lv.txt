@@ -267,6 +267,7 @@ tab_diagnostics => Diagnostika
 tab_extensions => Paplašinājumi
 tab_file => Faili
 tab_forms => Formas
+tab_help =>
 tab_image => Attēli
 tab_import => Importēšana
 tab_languages => Valodas

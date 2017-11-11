@@ -267,6 +267,7 @@ tab_diagnostics => Diagnostik
 tab_extensions => Extensions
 tab_file => Berkas
 tab_forms => Bentuk
+tab_help =>
 tab_image => Gambar
 tab_import => Impor
 tab_languages => Bahasa

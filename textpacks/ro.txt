@@ -267,6 +267,7 @@ tab_diagnostics => Diagnostic
 tab_extensions => Extensii
 tab_file => Fisiere
 tab_forms => Formulare
+tab_help =>
 tab_image => Imagini
 tab_import => Importa
 tab_languages =>

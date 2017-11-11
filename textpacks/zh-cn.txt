@@ -267,6 +267,7 @@ tab_diagnostics => 诊断
 tab_extensions => 扩展
 tab_file => 文件
 tab_forms => 模块
+tab_help =>
 tab_image => 图像
 tab_import => 导入
 tab_languages => 语言

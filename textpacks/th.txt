@@ -267,6 +267,7 @@ tab_diagnostics => การวินิจฉัย
 tab_extensions => ส่วนต่อขยาย
 tab_file => ไฟล์
 tab_forms => ฟอร์ม
+tab_help =>
 tab_image => รูปภาพ
 tab_import => นำเข้า
 tab_languages =>

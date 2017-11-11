@@ -267,6 +267,7 @@ tab_diagnostics => Diagnosztika
 tab_extensions => Kiterjesztések
 tab_file => Állományok
 tab_forms => Sablonok
+tab_help =>
 tab_image => Képek
 tab_import => Import
 tab_languages => Nyelvek
