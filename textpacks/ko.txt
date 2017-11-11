@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => 전담 필자
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => 알수 없는 글쓴이 : <strong>{name}</strong>
 your_login_info => 로그인 정보

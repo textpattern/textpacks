@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => عضو تحریریه
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => نویسنده ناشناس : <strong>{name}</strong>
 your_login_info => اطلاعات ورود شما

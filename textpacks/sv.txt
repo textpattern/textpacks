@@ -69,6 +69,7 @@ set_password => Ange ditt lösenord
 show_password => Visa lösenord
 staff_writer => Redaktionsmedarbetare
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => Okänd skribent: {name}
 your_login_info => Din inloggningsinformation

@@ -69,6 +69,7 @@ set_password => Встановіть свій пароль
 show_password => Показати пароль
 staff_writer => Штатний дописувач
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => Невідомий автор: <strong>{name}</strong>.
 your_login_info => Ваша реєстраційна інформація

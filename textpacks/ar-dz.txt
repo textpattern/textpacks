@@ -69,6 +69,7 @@ set_password => تعيين كلمة السر
 show_password => إظهار كلمة السر
 staff_writer => محرر متقدم
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => مؤلف مجهول :{name}
 your_login_info => معلوماتكم الخاصة بالاتصال

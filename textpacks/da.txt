@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => Fast skribent
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => Ukendt forfatter: <strong>{name}</strong>.
 your_login_info => Dine logind info

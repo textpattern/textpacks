@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => Escritor en plantel
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => Autor descoñecido: <strong>{name}</strong>
 your_login_info => A túa información de acceso

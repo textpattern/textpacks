@@ -69,6 +69,7 @@ set_password => Podesi lozinku
 show_password => Prikaži lozinku
 staff_writer =>
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => Nepoznati autor: <strong>{name}</strong>.
 your_login_info => Vaš login info

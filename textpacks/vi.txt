@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => Người viết chuyên trách
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => Không biết tác giả: <strong>{name}</strong>.
 your_login_info => Thông tin đăng nhập của bạn

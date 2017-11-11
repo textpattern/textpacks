@@ -69,6 +69,7 @@ set_password => Ustaw swoje hasło
 show_password => Pokaż hasło
 staff_writer => Redaktor
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => Nieznany autor: <strong>{name}</strong>.
 your_login_info => Informacja o Twoim koncie

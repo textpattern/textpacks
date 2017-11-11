@@ -69,6 +69,7 @@ set_password => Установите свой пароль
 show_password => Показать пароль
 staff_writer => Штатный писатель
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => Неизвестный автор: <strong>{name}</strong>.
 your_login_info => Ваша регистрационная информация

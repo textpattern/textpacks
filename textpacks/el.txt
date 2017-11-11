@@ -69,6 +69,7 @@ set_password => Ορίστε τον κωδικό πρόσβασης
 show_password => Εμφάνιση κωδικού
 staff_writer => Μόνιμος συντάκτης
 token_expired =>
+unable_retrieve_template =>
 unable_retrieve_user =>
 unknown_author => Άγνωστος χρήστης: <strong>{name}</strong>.
 your_login_info => Οι πληροφορίες για την πρόσβασή σας
