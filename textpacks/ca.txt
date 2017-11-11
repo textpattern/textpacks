@@ -964,6 +964,7 @@ email_required => Escriu una adreça de correu vàlida, sisplau.
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => Base de dades MySQL
 mysql_login => Usuari (login) MySQL
 mysql_password => Contrasenya MySQL

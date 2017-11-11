@@ -964,6 +964,7 @@ email_required => Παρακαλούμε εισάγετε μια έγκυρη δ
 get_started => Πάμε!
 go_to_login => Συνδέσου τώρα
 installation_postamble => Για ασφάλεια, θα πρέπει να διαγράψετε τον φάκελο <code>setup</code> που βρίσκεται μέσα στον φάκελο <code>/textpattern/</code>.
+missing_db_details =>
 mysql_database => Βάση δεδομένων MySQL
 mysql_login => Όνομα χρήστη MySQL
 mysql_password => Κωδικός πρόσβασης MySQL

@@ -964,6 +964,7 @@ email_required => Моля напишете валиден адрес на ел.
 get_started => Почвай!
 go_to_login => Влез сега
 installation_postamble => За сигурност трябва да премахнете <code>setup</code> директорията от Вашия Textpattern сайт. Моля проверявайте в Администрация Диагностика от време на време за съобщения и съвети.
+missing_db_details =>
 mysql_database => MySQL база данни
 mysql_login => MySQL login
 mysql_password => MySQL password

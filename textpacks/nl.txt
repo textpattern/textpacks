@@ -964,6 +964,7 @@ email_required => Er moet een geldig emailadres worden ingevuld.
 get_started => Aan de slag!
 go_to_login => Log nu in
 installation_postamble => Verwijder nu met het oog op de veiligheid de map <code>setup</code> uit je Textpatterninstallatie. Controleer geregeld Beheer Diagnose op updatemeldingen of aanwijzingen voor probleemoplossing.
+missing_db_details =>
 mysql_database => MySQL database
 mysql_login => MySQL loginnaam
 mysql_password => MySQL wachtwoord

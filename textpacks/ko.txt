@@ -964,6 +964,7 @@ email_required => 유효한 전자우편 주소를 입력하세요
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => MySQL 데이터베이스
 mysql_login => MySQL 로그인
 mysql_password => MySQL 비밀번호

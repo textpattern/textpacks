@@ -964,6 +964,7 @@ email_required => Por favor, proporciona unha dirección de email válida.
 get_started => Adiante!
 go_to_login => Entrar agora
 installation_postamble => Por seguridade, agora deberías eliminar o directorio <code>setup</code> da túa instalación de Textpatten. Por favor, revisa de cando en vez o panel Administración Diagnósticos para recibir avisos de actualizacións ou avisos de erro.
+missing_db_details =>
 mysql_database => Base De Datos MySQL
 mysql_login => Usuario MySQL
 mysql_password => Contrasinal MySQL

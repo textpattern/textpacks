@@ -964,6 +964,7 @@ email_required => Lütfen geçerli bir e-posta adresi giriniz.
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => MySQL database
 mysql_login => MySQL kullanıcı adı
 mysql_password => MySQL şifresi

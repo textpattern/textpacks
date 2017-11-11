@@ -964,6 +964,7 @@ email_required => Hãy nhập địa chỉ thư điện tử đúng quy cách.
 get_started => Đi!
 go_to_login => Đăng nhập ngay
 installation_postamble => Để đảm bảo tính bảo mật, bạn nên xóa bỏ thư mục <code>setup</code> nằm trong thư mục <code>/textpattern/</code>. Vui lòng kiểm tra Quản trị Chuẩn đoán mỗi khi có thông báo cập nhật hay gặp trục trặc.
+missing_db_details =>
 mysql_database => Cơ sở dữ liệu MySQL
 mysql_login => Tài khoản MySQL
 mysql_password => Mật khẩu MySQL

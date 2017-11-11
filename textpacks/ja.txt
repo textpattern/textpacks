@@ -964,6 +964,7 @@ email_required => 正しいメールアドレスを記入して下さい。
 get_started => 始めよう！
 go_to_login => 今すぐログイン
 installation_postamble => セキュリティ対策として、 <code>setup</code> フォルダを削除して下さい。管理 診断 パネルから、アップデートのお知らせ及びトラブルシューティングヒントを、逐次確認して下さい。
+missing_db_details =>
 mysql_database => MySQL データベース
 mysql_login => MySQL ログイン
 mysql_password => MySQL パスワード

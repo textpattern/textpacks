@@ -964,6 +964,7 @@ email_required => بارہ کرم، ایک جائز ای میل پتہ داخل 
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => ڈیٹابیس MySQL
 mysql_login => نام صارف MySQL
 mysql_password => پاسورڈ MySQL

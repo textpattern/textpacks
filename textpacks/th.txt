@@ -964,6 +964,7 @@ email_required => โปรดให้ที่อยู่อีเมลท�
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => ฐานข้อมูล MySQL
 mysql_login => ชื่อเข้าใช้ MySQL
 mysql_password => รหัสผ่าน MySQL

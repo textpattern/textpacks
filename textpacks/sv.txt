@@ -964,6 +964,7 @@ email_required => Var god ange en giltig e-postadress.
 get_started => Kör!
 go_to_login => Logga in
 installation_postamble => Av säkerhetsskäl bör du nu ta bort katalogen <code>setup</code> från din Textpattern-installation. Kontrollera gärna även fliken Admin → Diagnostik med jämna mellanrum för uppdateringar och felsökning.
+missing_db_details =>
 mysql_database => MySQL-databas
 mysql_login => MySQL-login
 mysql_password => MySQL-lösenord

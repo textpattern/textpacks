@@ -964,6 +964,7 @@ email_required => אנא ספק כתובת דואל תקינה.
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => בסיס הנתונים MySQL
 mysql_login => משתמש MySQL
 mysql_password => סיסמת MySQL

@@ -964,6 +964,7 @@ email_required => لطفاً یک ایمیل معتبر وارد کنید
 get_started => برو!
 go_to_login => وارد شوید
 installation_postamble => جهت رعایت امنیت شما باید پوشه <code dir="ltr">setup</code> را از مسیر نصب سات خود حذف کنید. لطفاً هر از چندگاهی به پنل تشخیصی در قسمت مدیریت سایت بروید و هشدارها و اعلان های جدید را مطالعه فرمایید.
+missing_db_details =>
 mysql_database => پایگاه داده MySQL
 mysql_login => نام کاربری MySQL
 mysql_password => گذرواژه MySQL

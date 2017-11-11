@@ -964,6 +964,7 @@ email_required => Molimo upišite ispravnu email adresu.
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => MySQL baza podataka
 mysql_login => MySQL prijava
 mysql_password => MySQL lozinka

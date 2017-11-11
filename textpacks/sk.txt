@@ -964,6 +964,7 @@ email_required => Zadaj platnú emailovú adresu.
 get_started => Začať!
 go_to_login => Prihlásiť sa
 installation_postamble => Z dôvodu bezpečnosti doporučujeme zmazať zložku <code>setup</code> z adresára <code>/textpattern/</code>. Čas od času spustite diagnostiku na záložke Správa pre kontrolu aktualizácií a vyhľadanie problémov.
+missing_db_details =>
 mysql_database => MySQL databáza
 mysql_login => MySQL login
 mysql_password => MySQL heslo

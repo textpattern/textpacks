@@ -964,6 +964,7 @@ email_required => Te rog sa introduci o adresa de mail valida.
 get_started => Incepi!
 go_to_login => Autentificare
 installation_postamble => Din motive de securitate, te rog sa stergi directorul <code>setup</code> din Textpattern. Te rog verifica sectiunea Admin Diagnostic pentru noutati si sugestii.
+missing_db_details =>
 mysql_database => Baza de date MySQL
 mysql_login => Login la baza de date MySQL
 mysql_password => Parola la baza de date MySQL

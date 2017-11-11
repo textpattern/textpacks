@@ -964,6 +964,7 @@ email_required => Kirjoita hyväksyttävä sähköpostiosoite.
 get_started => Aloita tästä
 go_to_login => Kirjaudu sisään
 installation_postamble => Tietoturvan varmistamiseksi sinun olisi hyvä poistaa Textpatternin <code>setup</code> hakemisto. Katsasta Hallinta Diagnosointi paneeli päivityksien ja virheiden varalta.
+missing_db_details =>
 mysql_database => MySQL tietokanta
 mysql_login => MySQL kirjautumisnimi
 mysql_password => MySQL salasana

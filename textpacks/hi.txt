@@ -964,6 +964,7 @@ email_required =>
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database =>
 mysql_login =>
 mysql_password =>

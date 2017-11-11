@@ -964,6 +964,7 @@ email_required => Bitte geben Sie eine gültige E-Mail-Adresse an.
 get_started => Los!
 go_to_login => Jetzt anmelden
 installation_postamble => Sie sollten nun das Verzeichnis <code>setup</code> von Ihrer Textpattern-Site löschen. Bitte überprüfen Sie von Zeit zu Zeit, ob eine neue Version von Textpattern erschienen ist.
+missing_db_details =>
 mysql_database => MySQL-Datenbank
 mysql_login => MySQL-Benutzername
 mysql_password => MySQL-Passwort

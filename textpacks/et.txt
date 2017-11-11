@@ -964,6 +964,7 @@ email_required =>
 get_started => Mine!
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => MySQL andmebaas
 mysql_login => MySQL nimi
 mysql_password => MySQL parool

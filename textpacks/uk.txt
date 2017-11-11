@@ -964,6 +964,7 @@ email_required => Будь ласка, вкажіть коректну email а�
 get_started => Go!
 go_to_login => Увійти зараз
 installation_postamble => В цілях безпеки потрібно видалити директорію <code>setup</code> з вашого сайту.
+missing_db_details =>
 mysql_database => MySQL база даних
 mysql_login => MySQL логін
 mysql_password => MySQL пароль

@@ -964,6 +964,7 @@ email_required => 請輸入正確的 Email 格式.
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => MySQL資料庫名稱
 mysql_login => MySQL帳號
 mysql_password => MySQL密碼

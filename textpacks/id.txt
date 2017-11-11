@@ -964,6 +964,7 @@ email_required => Mohon berikan alamat email yang sahih.
 get_started =>
 go_to_login =>
 installation_postamble =>
+missing_db_details =>
 mysql_database => Basis data MySQL
 mysql_login => Log masuk MySQL
 mysql_password => Sandi lewat MySQL
