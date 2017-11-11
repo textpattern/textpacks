@@ -119,6 +119,7 @@ sort_display => Сортирай и покажи
 textfilter =>
 textfilter_help => Помощ за форматиране на текста
 timestamp => Време на публикуване
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Заглавие състоящо се само от URL
 url_title_is_blank => (URL-only името не е попълнено).
 url_title_is_multiple => (URL името се използва от {count} различни статии).

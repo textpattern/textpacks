@@ -119,6 +119,7 @@ sort_display => Sortiranje i prikaz
 textfilter =>
 textfilter_help => Pomoć pri formatiranju teksta
 timestamp => Vremenski žig (timestamp)
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Naslov samo za URL adresu
 url_title_is_blank => Naslov samo za URL adresu je ostavljen prazan.
 url_title_is_multiple => Isti Naslov samo za URL adresu je korišćen kod {count} drugih unosa.

@@ -119,6 +119,7 @@ sort_display => Řazení a zobrazení
 textfilter =>
 textfilter_help => Nápověda formátování textu
 timestamp => Datum/čas
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Název do odkazů
 url_title_is_blank => Chybí název do odkazů.
 url_title_is_multiple => Takový název do odkazů již existuje.

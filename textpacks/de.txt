@@ -119,6 +119,7 @@ sort_display => Sortierung und Anzeige
 textfilter =>
 textfilter_help => Hilfe zur Textformatierung
 timestamp => Zeitstempel
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => benutzerdefinierte URL
 url_title_is_blank => Die benutzerdefinierte URL ist leer.
 url_title_is_multiple => Die selbe benutzerdefinierte URL wird von {count} verschiedenen Artikeln benutzt.

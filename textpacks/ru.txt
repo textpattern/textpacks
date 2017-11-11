@@ -119,6 +119,7 @@ sort_display => Сортировать и отобразить
 textfilter =>
 textfilter_help => Помощь по форматированию текста
 timestamp => Время
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Заголовок только для URL
 url_title_is_blank => Заголовок только для URL был оставлен незаполненным.
 url_title_is_multiple => Одинаковый заголовок только для URL используется в {count} разных статьях.

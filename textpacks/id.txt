@@ -119,6 +119,7 @@ sort_display =>
 textfilter =>
 textfilter_help =>
 timestamp =>
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Judul URL-saja
 url_title_is_blank => Judul URL-saja dibiarkan kosong
 url_title_is_multiple => Judul URL-saja yang sama telah dipakai oleh {count} artikel lain

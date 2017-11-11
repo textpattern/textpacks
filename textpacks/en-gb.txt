@@ -119,6 +119,7 @@ sort_display => Sort and display
 textfilter => Format:
 textfilter_help => Text formatting help
 timestamp => Timestamp
+trying_to_assign_unexisting_category_to_the_article => A non-existent category cannot be assigned to an article.
 url_title => URL-only title
 url_title_is_blank => URL-only title was left blank.
 url_title_is_multiple => The same URL-only title is used by {count} different articles.

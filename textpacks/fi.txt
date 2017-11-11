@@ -119,6 +119,7 @@ sort_display => Järjestä ja näytä
 textfilter =>
 textfilter_help => Tekstin muotoilu -ohje
 timestamp => Aikaleima
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URL-otsikko
 url_title_is_blank => URL-otsikko oli jätetty tyhjäksi.
 url_title_is_multiple => Sama URL-otsikko on käytössä {count} artikkelissa.

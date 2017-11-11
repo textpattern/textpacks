@@ -119,6 +119,7 @@ sort_display => Ordena i mostra
 textfilter => Format de text:
 textfilter_help => Ajuda de format de text
 timestamp => Marca horària
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Títol només per URL
 url_title_is_blank => El camp url_title és buit
 url_title_is_multiple => El mateix títol URL s’utilitza per {count} articles diferents.

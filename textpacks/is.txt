@@ -119,6 +119,7 @@ sort_display =>
 textfilter =>
 textfilter_help =>
 timestamp =>
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Slóðar titill
 url_title_is_blank => Slóðar titill var skilinn eftir auður.
 url_title_is_multiple => Sami slóðar titill er notaður af {count} mismunandi greinum.

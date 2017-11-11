@@ -119,6 +119,7 @@ sort_display => Sorteren en weergave
 textfilter =>
 textfilter_help => Uitleg bij de tekstvormgeving
 timestamp => Artikeldatering
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Eigen titel voor URL
 url_title_is_blank => Er is geen URL-titel ingevuld.
 url_title_is_multiple => Deze URL-titel wordt gebruikt door {count} verschillende artikelen.

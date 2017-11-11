@@ -119,6 +119,7 @@ sort_display => Clasificación y presentación
 textfilter =>
 textfilter_help => Ayuda de formato de texto
 timestamp => Fecha de publicación
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Título URL
 url_title_is_blank => El campo Título URL está vacío
 url_title_is_multiple => El mismo campo Título URL es usado por {count} artículos diferentes.

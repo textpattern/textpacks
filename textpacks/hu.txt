@@ -119,6 +119,7 @@ sort_display => Csoportosítás
 textfilter =>
 textfilter_help =>
 timestamp => Időpont
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => csak-URL cím
 url_title_is_blank => A csak-URL cím üres.
 url_title_is_multiple => Ugyanezt az URL címet már {count} cikk használja
