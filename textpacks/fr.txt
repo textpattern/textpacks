@@ -346,6 +346,7 @@ active_plugins => Plugins actifs
 all_checks_passed => Toutes les vérifications sont OK !
 apache_modules => Modules Apache
 apache_version => Version d’Apache
+cgi_header_config =>
 clean_url_data_failed => Le test d’URL propres a échoué
 clean_url_test_failed => Impossible de tester si le mode d’URL optimisées est applicable.
 diag_clear_private =>

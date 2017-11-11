@@ -346,6 +346,7 @@ active_plugins => Ativar plugins
 all_checks_passed => Todos os testes realizados estão OK!
 apache_modules => Módulos de Apache
 apache_version => Versão do Apache
+cgi_header_config =>
 clean_url_data_failed => A limpeza da URL de dados de teste falhou
 clean_url_test_failed => O teste ao funcionamento das URLs "limpas" falhou!
 diag_clear_private =>

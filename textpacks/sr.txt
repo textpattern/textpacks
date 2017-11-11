@@ -346,6 +346,7 @@ active_plugins => Aktivni plugin-i
 all_checks_passed => Sve kontrole uspešne!
 apache_modules => Apache moduli
 apache_version => Apache verzija
+cgi_header_config =>
 clean_url_data_failed => Test čistih URL-ova nije prošao
 clean_url_test_failed => Test za čiste URL adrese nije uspeo.
 diag_clear_private =>

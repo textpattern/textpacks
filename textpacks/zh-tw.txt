@@ -346,6 +346,7 @@ active_plugins => 啟用外掛
 all_checks_passed => 全部檢查通過!
 apache_modules => Apache模組
 apache_version => Apache版本
+cgi_header_config =>
 clean_url_data_failed =>
 clean_url_test_failed => 簡潔網址測試失敗。
 diag_clear_private =>

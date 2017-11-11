@@ -346,6 +346,7 @@ active_plugins => Активные плагины
 all_checks_passed => Проверка прошла успешна!
 apache_modules => Модули Apache
 apache_version => Версия Apache
+cgi_header_config =>
 clean_url_data_failed => Проверка чистых URL-ов не пройдена
 clean_url_test_failed => Тест "чистых" (clean) URL не пройден.
 diag_clear_private =>

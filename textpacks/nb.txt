@@ -346,6 +346,7 @@ active_plugins => Aktive programtillegg
 all_checks_passed => Alle sjekker ok!
 apache_modules => Apache-moduler
 apache_version => Apache-versjon
+cgi_header_config =>
 clean_url_data_failed => Data av enkle URL’er feilet.
 clean_url_test_failed => Test av enkle URL’er feilet.
 diag_clear_private =>

@@ -346,6 +346,7 @@ active_plugins => 有効なプラグイン
 all_checks_passed => システムチェックはすべて正常!
 apache_modules => Apache モジュール
 apache_version => Apache バージョン
+cgi_header_config =>
 clean_url_data_failed => クリーンURLデータのテストに失敗
 clean_url_test_failed => Clean URL テストに失敗しました。
 diag_clear_private =>

@@ -346,6 +346,7 @@ active_plugins =>
 all_checks_passed => Allt í sómanum!
 apache_modules => Apache modules
 apache_version => Apache version
+cgi_header_config =>
 clean_url_data_failed =>
 clean_url_test_failed =>
 diag_clear_private =>

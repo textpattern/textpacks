@@ -346,6 +346,7 @@ active_plugins => Aktiva plugins
 all_checks_passed => Alla kontroller passerade utan problem!
 apache_modules => Apache-moduler
 apache_version => Apache-version
+cgi_header_config =>
 clean_url_data_failed => Test av snygga URLar misslyckades
 clean_url_test_failed => Test av sökmotorvänliga URLar misslyckades.
 diag_clear_private =>

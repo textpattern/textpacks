@@ -346,6 +346,7 @@ active_plugins => Etkin eklentiler
 all_checks_passed => Tüm denetimler yapıldı!
 apache_modules => Apache modulleri
 apache_version => Apache sürümü
+cgi_header_config =>
 clean_url_data_failed =>
 clean_url_test_failed => Temiz URL(SEO) denetimi başarısızlıkla sonuçlandı.
 diag_clear_private =>

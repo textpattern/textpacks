@@ -346,6 +346,7 @@ active_plugins => Aktive plugins
 all_checks_passed => Alle checks er fundet ok!
 apache_modules => Apache moduler
 apache_version => Apache version
+cgi_header_config =>
 clean_url_data_failed =>
 clean_url_test_failed => Ren URL test fejlet.
 diag_clear_private =>

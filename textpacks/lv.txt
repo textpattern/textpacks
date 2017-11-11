@@ -346,6 +346,7 @@ active_plugins => Aktīvie spraudņi
 all_checks_passed => Visas pārbaudes izietas veiksmīgi!
 apache_modules => Apache moduļi
 apache_version => Apache versija
+cgi_header_config =>
 clean_url_data_failed => URL datu tīrīšanas tests neizdevās
 clean_url_test_failed => Tīro URL pārbaude neizdecās.
 diag_clear_private =>

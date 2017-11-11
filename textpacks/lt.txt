@@ -346,6 +346,7 @@ active_plugins => Aktyvūs papildiniai
 all_checks_passed => Visi patikrinimai praėjo!
 apache_modules => Apache moduliai
 apache_version => Apache versija
+cgi_header_config =>
 clean_url_data_failed => Švaraus universalaus adreso duomenų testas nepavyko
 clean_url_test_failed => Švaraus URL testas nepavyko.
 diag_clear_private =>

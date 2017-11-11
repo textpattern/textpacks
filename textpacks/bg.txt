@@ -346,6 +346,7 @@ active_plugins => Активни приставки
 all_checks_passed => Всички проверки преминаха!
 apache_modules => Модули за Apache
 apache_version => Версия на Apache
+cgi_header_config =>
 clean_url_data_failed => Тестът на данни за Clean URL не премина
 clean_url_test_failed => Тестът за Clean URL не премина.
 diag_clear_private =>

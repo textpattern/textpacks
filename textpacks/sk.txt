@@ -346,6 +346,7 @@ active_plugins => Aktívne rozšírenia
 all_checks_passed => Všetky kontroly prebehli v poriadku!
 apache_modules => Moduly Apache
 apache_version => Verzia Apache
+cgi_header_config =>
 clean_url_data_failed => Test dát pekných URL adries zlyhal
 clean_url_test_failed => Test pekných URL adries zlyhal.
 diag_clear_private =>

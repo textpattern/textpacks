@@ -346,6 +346,7 @@ active_plugins => Aktivni dodaci
 all_checks_passed => Sve provjere uspješne!
 apache_modules => Apache moduli
 apache_version => Apache verzije
+cgi_header_config =>
 clean_url_data_failed =>
 clean_url_test_failed => Neuspio test čistih URLova.
 diag_clear_private =>

@@ -346,6 +346,7 @@ active_plugins => Actieve plugins
 all_checks_passed => Alle testen goed doorstaan!
 apache_modules => Apache modules
 apache_version => Apache versie
+cgi_header_config =>
 clean_url_data_failed => ‘Schone URL’ weergave is niet mogelijk
 clean_url_test_failed => De test voor schone URLs is niet goed doorstaan.
 diag_clear_private =>

@@ -346,6 +346,7 @@ active_plugins =>
 all_checks_passed => Kõik kontrollimised õnnestusid!
 apache_modules => Apache moodulid
 apache_version => Apache versioon
+cgi_header_config =>
 clean_url_data_failed =>
 clean_url_test_failed =>
 diag_clear_private =>

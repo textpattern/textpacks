@@ -346,6 +346,7 @@ active_plugins => Aktywne pluginy
 all_checks_passed => Nie wykryto żadnych błędów!
 apache_modules => Moduły serwera Apache
 apache_version => Wersja serwera Apache
+cgi_header_config =>
 clean_url_data_failed => Test przyjaznych adresów URL nie powiódł się (dane)
 clean_url_test_failed => Test przyjaznych adresów URL nie powiódł się.
 diag_clear_private =>

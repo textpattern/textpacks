@@ -346,6 +346,7 @@ active_plugins => Активні плагіни
 all_checks_passed => Перевірка закінчена!
 apache_modules => Модулі Apache
 apache_version => Версія Apache
+cgi_header_config =>
 clean_url_data_failed => Перевірка чистих URL не пройдена
 clean_url_test_failed => Тест "чистих" URL не пройдено.
 diag_clear_private =>

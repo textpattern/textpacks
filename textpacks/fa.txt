@@ -346,6 +346,7 @@ active_plugins => پلاگین‌های فعال
 all_checks_passed => تمام آزمون‌ها موفق بود!
 apache_modules => ماژول‌های آپاچی
 apache_version => نسخه آپاچی
+cgi_header_config =>
 clean_url_data_failed => تست داده‌های Clean URL ناموفق بود
 clean_url_test_failed => تست Clean URL ناموفق بود.
 diag_clear_private =>

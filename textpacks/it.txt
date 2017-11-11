@@ -346,6 +346,7 @@ active_plugins => Plug-in attivi
 all_checks_passed => Controlli superati con successo!
 apache_modules => Moduli Apache
 apache_version => Versione di Apache
+cgi_header_config =>
 clean_url_data_failed => Verifica dati URL puliti fallita
 clean_url_test_failed => Verifica degli URL puliti fallita.
 diag_clear_private =>

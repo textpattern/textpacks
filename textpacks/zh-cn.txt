@@ -346,6 +346,7 @@ active_plugins => 启用的插件
 all_checks_passed => 全部检查通过！
 apache_modules => Apache 模块
 apache_version => Apache 版本
+cgi_header_config =>
 clean_url_data_failed => 简洁 URL 数据测试失败。
 clean_url_test_failed => 简洁 URL 测试失败。
 diag_clear_private =>

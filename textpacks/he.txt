@@ -346,6 +346,7 @@ active_plugins => תוספים פעילים
 all_checks_passed => כל הבדיקות עברו בהצלחה!
 apache_modules => רכיבי Apache
 apache_version => גירסת Apache
+cgi_header_config =>
 clean_url_data_failed => בדיקה כתובות נקיות נכשלה
 clean_url_test_failed => בדיקת כתובות נקיות נכשלה.
 diag_clear_private =>

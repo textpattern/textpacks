@@ -346,6 +346,7 @@ active_plugins => Aktív bővítmények
 all_checks_passed => Minden ellenőrzés teljesítve!
 apache_modules => Apache modulok
 apache_version => Apache verzió
+cgi_header_config =>
 clean_url_data_failed =>
 clean_url_test_failed => Probléma az URL ellenőrzés során.
 diag_clear_private =>
