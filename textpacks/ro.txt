@@ -100,6 +100,7 @@ no_articles_recorded => Nu a fost gasit nici un articol.
 override_default_form => Inlocuieste formular
 problem_creating_article =>
 problem_deleting_article =>
+problem_getting_articles =>
 reset_time => Reseteaza timpul la ora curenta
 search_articles =>
 set_expire_now =>

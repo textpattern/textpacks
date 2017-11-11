@@ -100,6 +100,7 @@ no_articles_recorded => Ningún artículo guardado.
 override_default_form => Sobrescribir bloque
 problem_creating_article =>
 problem_deleting_article =>
+problem_getting_articles =>
 reset_time => Reponer día y hora actuales
 search_articles => Buscar artículos
 set_expire_now =>

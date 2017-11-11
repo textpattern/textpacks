@@ -100,6 +100,7 @@ no_articles_recorded => Aucun article enregistré.
 override_default_form => Module de remplacement
 problem_creating_article =>
 problem_deleting_article =>
+problem_getting_articles =>
 reset_time => Horodater à « maintenant »
 search_articles => Recherche d’articles
 set_expire_now => Expire « maintenant »

@@ -100,6 +100,7 @@ no_articles_recorded => Bisher gibt es keine Artikel.
 override_default_form => Alternativen Baustein verwenden
 problem_creating_article =>
 problem_deleting_article =>
+problem_getting_articles =>
 reset_time => Auf aktuelle Zeit setzen
 search_articles => Artikel suchen
 set_expire_now =>

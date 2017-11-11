@@ -100,6 +100,7 @@ no_articles_recorded => Nenhum artigo até agora.
 override_default_form => Módulo alternativo
 problem_creating_article =>
 problem_deleting_article =>
+problem_getting_articles =>
 reset_time => Usar a hora atual
 search_articles => Pesquisar artigos
 set_expire_now =>
