@@ -119,6 +119,7 @@ sort_display => مرتب‌سازی و نمایش
 textfilter =>
 textfilter_help => راهنمای فرمت بندی متن
 timestamp => الگوی زمان و تاریخ
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => عنوان مختص نشانی نوشته
 url_title_is_blank => فیلد عنوان مختص نشانی خالی گذاشته شد.
 url_title_is_multiple => یک نشانی مختص نوشته برای {count} نوشته دیگر نیز استفاده شده است.

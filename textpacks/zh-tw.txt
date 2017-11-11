@@ -119,6 +119,7 @@ sort_display => 版區與分類
 textfilter =>
 textfilter_help =>
 timestamp => 發表時間
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => 網址名稱
 url_title_is_blank => 網址名稱為空
 url_title_is_multiple => {count} 篇不同的文章已使用相同的網址名稱

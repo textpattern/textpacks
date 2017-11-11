@@ -119,6 +119,7 @@ sort_display => Affectation et affichage de l’article
 textfilter => Format du texte :
 textfilter_help => Aide à la rédaction Textile
 timestamp => Date de publication
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Texte de l’URL
 url_title_is_blank => Le texte de l’URL est vide.
 url_title_is_multiple => Le texte de l’URL est déjà utilisé par {count} articles différents.

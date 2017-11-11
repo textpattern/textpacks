@@ -119,6 +119,7 @@ sort_display =>
 textfilter =>
 textfilter_help =>
 timestamp =>
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URL-i tekst
 url_title_is_blank => URL-i tekst on tühi.
 url_title_is_multiple => Sama URL-i teksti kasutab {count} artiklit.

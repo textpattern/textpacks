@@ -119,6 +119,7 @@ sort_display => จัดระเบียบ
 textfilter =>
 textfilter_help =>
 timestamp => ตราเวลา
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => ชื่อใน URL
 url_title_is_blank => (ไม่ได้ตั้งชื่อใน URL)
 url_title_is_multiple => ชื่อใน URL ซ้ำกับชื่อของ {count} บทความ

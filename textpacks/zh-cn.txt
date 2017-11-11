@@ -119,6 +119,7 @@ sort_display => 分类和显示
 textfilter =>
 textfilter_help => 文本格式提示
 timestamp => 时间戳
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URL 标题
 url_title_is_blank => URL 标题为空白。
 url_title_is_multiple => {count} 篇不同的文章使用了相同的 URL 标题。

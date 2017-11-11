@@ -119,6 +119,7 @@ sort_display => Sortiraj i Prikaži
 textfilter =>
 textfilter_help => Pomoć za formatiranje teksta
 timestamp => Vremenski biljeg
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Naslov samo za-URL
 url_title_is_blank => (Naslov samo za-URL je ostavljen prazan).
 url_title_is_multiple => (Isti Naslov samo za-URL je korišten kod {count} drugih unosa).

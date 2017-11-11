@@ -119,6 +119,7 @@ sort_display => Ταξινόμηση και προβολή
 textfilter =>
 textfilter_help => Βοήθεια για τη μορφοποίηση κειμένου
 timestamp => Χρονοσήμανση
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => τίτλος URL
 url_title_is_blank => ο τίτλος URL αφέθηκε κενός.
 url_title_is_multiple => Ο ίδιος τίτλος URL χρησιμοποιείται από {count} διαφορετικά άρθρα.

@@ -119,6 +119,7 @@ sort_display => Przynależność
 textfilter =>
 textfilter_help => Pomoc edytora tekstu
 timestamp => Data publikacji
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Adres URL
 url_title_is_blank => Nie podano adresu URL.
 url_title_is_multiple => {count} artykuły mają ten sam adres URL.

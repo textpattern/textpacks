@@ -119,6 +119,7 @@ sort_display => Classificação
 textfilter =>
 textfilter_help => Central de ajuda da formatação do texto
 timestamp => Data de publicação
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Texto da URL
 url_title_is_blank => O texto da URL foi deixado em branco.
 url_title_is_multiple => O mesmo texto da URL foi usado por {count} artigos diferentes.

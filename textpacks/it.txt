@@ -119,6 +119,7 @@ sort_display => Assegna l’articolo
 textfilter =>
 textfilter_help => Supporto per la formattazione del testo
 timestamp => Data pubblicazione
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Titolo dell’URL
 url_title_is_blank => Il titolo dell’URL è vuoto.
 url_title_is_multiple => Il titolo dell’URL scelto è già usato da {count} altri articoli.

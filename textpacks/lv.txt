@@ -119,6 +119,7 @@ sort_display => Kategorizēšana
 textfilter =>
 textfilter_help => Teksta formatēšanas palīdzība
 timestamp => Ieraksta laiks
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URL virsraksts
 url_title_is_blank => URL virsraksts ir atstāts tukšs.
 url_title_is_multiple => Identisks URL virsraksts ir izmantots {count} citos ierakstos.

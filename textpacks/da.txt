@@ -119,6 +119,7 @@ sort_display => Sorter og vis
 textfilter =>
 textfilter_help =>
 timestamp => Tidsstempel
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URL-specifik titel
 url_title_is_blank => URL-specifik titel var tom.
 url_title_is_multiple => Den samme URL-specifikke titel bliver brugt af {count} forskellige artikler.

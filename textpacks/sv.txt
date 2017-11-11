@@ -119,6 +119,7 @@ sort_display => Sortera och visa
 textfilter =>
 textfilter_help => Textformatering hjälp
 timestamp => Tidsstämpel
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URL-rubrik
 url_title_is_blank => URL-rubriken lämnades tom.
 url_title_is_multiple => Samma URL-rubrik används av {count} andra artiklar.

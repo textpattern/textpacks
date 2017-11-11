@@ -119,6 +119,7 @@ sort_display => מיין והצג
 textfilter =>
 textfilter_help =>
 timestamp => חתימת זמן
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => כותרת-הכתובת
 url_title_is_blank => כותרת-הכתובת הושארה ריקה.
 url_title_is_multiple => (באותה כותרת-הכתובת נעשה שימוש ב-{count} מאמרים שונים).

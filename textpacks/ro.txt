@@ -119,6 +119,7 @@ sort_display => Aranjeaza si afiseaza
 textfilter =>
 textfilter_help =>
 timestamp => Data si ora
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Titlu-URL
 url_title_is_blank => Titlu-URL nu a fost completat.
 url_title_is_multiple => Acelasi titlu-URL este folosit de {count} articole diferite.

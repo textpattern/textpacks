@@ -119,6 +119,7 @@ sort_display => Sorter og vis
 textfilter =>
 textfilter_help => Tekstformatering hjelp
 timestamp => Tidsstempel
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Tittel brukt i URL
 url_title_is_blank => URL-tittelen ble ikke skrevet inn.
 url_title_is_multiple => Den samme URL-tittelen er brukt av {count} artikler.

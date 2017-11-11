@@ -119,6 +119,7 @@ sort_display => Sắp xếp và Hiển thị
 textfilter =>
 textfilter_help => Trợ giúp về định dạng văn bản
 timestamp => Mốc thời gian
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Tiêu đề dạng URL
 url_title_is_blank => Tiêu đề dạng URL bị bỏ trống
 url_title_is_multiple => (Tiêu đề dạng URL này đã bị sử dụng cho {count} bài viết khác nhau)

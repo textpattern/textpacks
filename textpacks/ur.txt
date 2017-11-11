@@ -119,6 +119,7 @@ sort_display => ‏چھانٹنا‏ اور ‏نمائش
 textfilter =>
 textfilter_help =>
 timestamp => وقت سٹیمپ
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URL-‏انوکھا‏ عنوان
 url_title_is_blank => URL-انوکھا عنوان خانہ خالی تھا
 url_title_is_multiple => یکسن URL-انوکھا عنوان {count} اور مضامین سے استمعال کیا جا رہا ہے

@@ -119,6 +119,7 @@ sort_display => 정렬과 보기
 textfilter =>
 textfilter_help =>
 timestamp =>
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URL 전용 제목
 url_title_is_blank => URL-전용 제목을 정하지 않았습니다.
 url_title_is_multiple => 같은 URL-전용 제목을 {count}개의 게시물이 사용하고 있습니다.

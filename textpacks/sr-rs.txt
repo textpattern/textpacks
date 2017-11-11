@@ -119,6 +119,7 @@ sort_display => Сортирање и приказ
 textfilter =>
 textfilter_help =>
 timestamp => Временски жиг
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Наслов само за URL
 url_title_is_blank => Наслов само за URL је остављен празан.
 url_title_is_multiple => Исти Наслов само за URL је коришћен код {count} других уноса.

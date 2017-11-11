@@ -119,6 +119,7 @@ sort_display => Сортувати та показати
 textfilter =>
 textfilter_help => Допомога щодо форматування тексту
 timestamp => Час і дата
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => Заголовок для URL
 url_title_is_blank => Заголовок для URL був залишений незаповненим.
 url_title_is_multiple => Однаковий заголовок для URL використовується в {count} різних Статтях.

@@ -119,6 +119,7 @@ sort_display => Rūšiuoti ir rodyti
 textfilter =>
 textfilter_help =>
 timestamp => Laikas ir data
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URL pavadinimas
 url_title_is_blank => URL pavadinimas yra tuščias.
 url_title_is_multiple => Tas pats URL pavadinimas yra naudojamas {count} skirtinguose straipsniuose.

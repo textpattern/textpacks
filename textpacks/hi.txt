@@ -119,6 +119,7 @@ sort_display =>
 textfilter =>
 textfilter_help =>
 timestamp =>
+trying_to_assign_unexisting_category_to_the_article =>
 url_title =>
 url_title_is_blank =>
 url_title_is_multiple =>

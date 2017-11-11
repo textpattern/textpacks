@@ -119,6 +119,7 @@ sort_display => 分類
 textfilter =>
 textfilter_help => テキスト整形のヘルプ
 timestamp => タイムスタンプ
+trying_to_assign_unexisting_category_to_the_article =>
 url_title => URLを指定する
 url_title_is_blank => 指定するURLが記入されていません。
 url_title_is_multiple => 指定したURLは {count} 個の違う記事で既に使用されています。
