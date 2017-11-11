@@ -228,6 +228,7 @@ id => ID 号
 image_category => 分类
 internal_error => 内部错误
 invalid_argument =>
+invalid_article_id =>
 last_modified => 最后的修改
 links => 链接
 link_category => 链接分类

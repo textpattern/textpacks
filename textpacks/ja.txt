@@ -228,6 +228,7 @@ id => ID#
 image_category => カテゴリ
 internal_error => 内部エラー
 invalid_argument =>
+invalid_article_id =>
 last_modified => 最終更新日
 links => リンク
 link_category => カテゴリ

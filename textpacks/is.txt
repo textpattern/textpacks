@@ -228,6 +228,7 @@ id => ID#
 image_category => Flokkur
 internal_error =>
 invalid_argument =>
+invalid_article_id =>
 last_modified =>
 links => Tenglar
 link_category => Tengla flokkur

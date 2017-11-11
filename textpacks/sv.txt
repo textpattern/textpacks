@@ -228,6 +228,7 @@ id => ID#
 image_category => Kategori
 internal_error => Internt fel
 invalid_argument =>
+invalid_article_id =>
 last_modified => Senast ändrad
 links => Länkar
 link_category => Länk-kategori

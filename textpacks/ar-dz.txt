@@ -228,6 +228,7 @@ id =>
 image_category => فئة الصور
 internal_error =>
 invalid_argument =>
+invalid_article_id =>
 last_modified =>
 links => الروابط
 link_category => فئة الرابط

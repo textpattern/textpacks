@@ -228,6 +228,7 @@ id => ID#
 image_category => Kategorija
 internal_error => Vidinė klaida
 invalid_argument =>
+invalid_article_id =>
 last_modified => Paskutinių keitimų data
 links => Nuorodos
 link_category => Kategorija

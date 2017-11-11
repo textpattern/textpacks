@@ -228,6 +228,7 @@ id => ID#
 image_category => Kategoria
 internal_error => Sisäinen virhe
 invalid_argument =>
+invalid_article_id =>
 last_modified => Viimeksi muutettu
 links => Linkit
 link_category => Linkkikategoria

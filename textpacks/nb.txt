@@ -228,6 +228,7 @@ id => ID#
 image_category => Kategori
 internal_error => Intern feil
 invalid_argument =>
+invalid_article_id =>
 last_modified => Tidligere modifisert
 links => Lenker
 link_category => Lenkekategori

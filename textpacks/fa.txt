@@ -228,6 +228,7 @@ id => شناسه نوشته
 image_category => رده
 internal_error => خطای داخلی
 invalid_argument =>
+invalid_article_id =>
 last_modified => آخرین ویرایش
 links => لینک‌ها
 link_category => رده

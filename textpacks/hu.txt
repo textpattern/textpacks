@@ -228,6 +228,7 @@ id => ID#
 image_category => Kategória
 internal_error =>
 invalid_argument =>
+invalid_article_id =>
 last_modified =>
 links => Linkek
 link_category => Linka kategória

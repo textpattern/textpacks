@@ -228,6 +228,7 @@ id => ID#
 image_category => Категория
 internal_error => Внутренняя ошибка
 invalid_argument =>
+invalid_article_id =>
 last_modified => Последнее изменение
 links => Ссылки
 link_category => Категория ссылки

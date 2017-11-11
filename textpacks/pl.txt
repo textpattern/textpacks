@@ -228,6 +228,7 @@ id => ID#
 image_category => Kat. obrazków
 internal_error => Błąd wewnętrzny
 invalid_argument =>
+invalid_article_id =>
 last_modified => Ostatnio zmieniono
 links => Odsyłacze
 link_category => Kategoria odsyłaczy

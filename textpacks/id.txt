@@ -228,6 +228,7 @@ id => ID#
 image_category => Kategori
 internal_error =>
 invalid_argument =>
+invalid_article_id =>
 last_modified =>
 links => Tautan
 link_category => Kategori

@@ -228,6 +228,7 @@ id => ID#
 image_category => Kategorie obrázku
 internal_error => Vnitřní chyba
 invalid_argument =>
+invalid_article_id =>
 last_modified => Naposledy upraveno
 links => Odkazy
 link_category => Kategorie odkazu

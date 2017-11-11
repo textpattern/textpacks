@@ -228,6 +228,7 @@ id => ID#
 image_category => Bilžu kategorija
 internal_error => Iekšēja kļūda
 invalid_argument =>
+invalid_article_id =>
 last_modified => Pēdējoreiz mainīts
 links => Saites
 link_category => Saišu kategorija

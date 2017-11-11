@@ -228,6 +228,7 @@ id => מזהה
 image_category => קטגורייה
 internal_error => שגיאה פנימית
 invalid_argument =>
+invalid_article_id =>
 last_modified => עודכן לאחרונה
 links => קישורים
 link_category => קטגוריית הקישור

@@ -228,6 +228,7 @@ id => ID#
 image_category => 분류
 internal_error =>
 invalid_argument =>
+invalid_article_id =>
 last_modified =>
 links => 링크
 link_category => 분류

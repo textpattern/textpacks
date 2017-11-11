@@ -228,6 +228,7 @@ id => ID#
 image_category => Catégorie
 internal_error => Erreur interne
 invalid_argument => Argument invalide
+invalid_article_id =>
 last_modified => Dernière modification
 links => Liens
 link_category => Catégorie du lien

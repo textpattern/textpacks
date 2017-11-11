@@ -228,6 +228,7 @@ id => ID#
 image_category => Category
 internal_error => Internal error
 invalid_argument => Invalid argument
+invalid_article_id => Invalid article ID
 last_modified => Last modified
 links => Links
 link_category => Category

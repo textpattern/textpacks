@@ -228,6 +228,7 @@ id =>
 image_category =>
 internal_error =>
 invalid_argument =>
+invalid_article_id =>
 last_modified =>
 links =>
 link_category =>

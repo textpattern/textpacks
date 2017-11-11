@@ -228,6 +228,7 @@ id => ID#
 image_category => Kategooria
 internal_error =>
 invalid_argument =>
+invalid_article_id =>
 last_modified =>
 links => Lingid
 link_category => Lingi kategooria
