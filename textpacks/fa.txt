@@ -71,6 +71,7 @@ staff_writer => عضو تحریریه
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => نویسنده ناشناس : <strong>{name}</strong>
 your_login_info => اطلاعات ورود شما
 your_login_is => مشخصات ورود شما

@@ -71,6 +71,7 @@ staff_writer => Stabsskribent
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Ukjent forfatter: <strong>{name}</strong>.
 your_login_info => Din login info
 your_login_is => Ditt login er

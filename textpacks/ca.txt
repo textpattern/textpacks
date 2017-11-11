@@ -71,6 +71,7 @@ staff_writer => Redactor en plantilla
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Autor desconegut: <strong>{name}</strong>.
 your_login_info => La teva informació d’accés
 your_login_is => El teu nom d’usuari és

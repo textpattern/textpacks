@@ -71,6 +71,7 @@ staff_writer => 執筆スタッフ
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => 不明なユーザ: <strong>{name}</strong>
 your_login_info => あなたのログイン情報
 your_login_is => あなたのログインは

@@ -71,6 +71,7 @@ staff_writer =>
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author =>
 your_login_info =>
 your_login_is =>

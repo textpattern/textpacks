@@ -71,6 +71,7 @@ staff_writer => Rivitoimittaja
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Tuntematon tekijä: <strong>{name}</strong>.
 your_login_info => Kirjautumistietosi
 your_login_is => Kirjautumisnimesi on

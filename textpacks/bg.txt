@@ -71,6 +71,7 @@ staff_writer => Щатен писател
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Неизвестен автор: <strong>{name}</strong>
 your_login_info => Вашата потребителска информация
 your_login_is => Вашето потребителско име е

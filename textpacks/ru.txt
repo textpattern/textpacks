@@ -71,6 +71,7 @@ staff_writer => Штатный писатель
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Неизвестный автор: <strong>{name}</strong>.
 your_login_info => Ваша регистрационная информация
 your_login_is => Ваш логин

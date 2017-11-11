@@ -71,6 +71,7 @@ staff_writer => Editorialista
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Autore sconosciuto: <strong>{name}</strong>.
 your_login_info => I tuoi dati di accesso
 your_login_is => Il tuo nome utente è

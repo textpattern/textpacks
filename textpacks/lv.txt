@@ -71,6 +71,7 @@ staff_writer => Štata rakstnieks
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Nezināms autors: <strong>{name}</strong>.
 your_login_info => Jūsu pieejas dati
 your_login_is => Jūsu lietotāja vārds ir

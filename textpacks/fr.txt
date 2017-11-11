@@ -71,6 +71,7 @@ staff_writer => Rédacteur avancé
 token_expired => Le délai de réinitialisation du mot de passe a expiré.
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Auteur <strong>{name}</strong> inconnu.
 your_login_info => Vos informations de connexion
 your_login_is => Votre nom de connexion (login) est

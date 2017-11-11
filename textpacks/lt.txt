@@ -71,6 +71,7 @@ staff_writer => Etatinis rašytojas
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Nežinomas autorius: <strong>{name}</strong>.
 your_login_info => Jūsų prisijungimo informacija
 your_login_is => Jūsų prisijungimo vardas yra

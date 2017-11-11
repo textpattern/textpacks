@@ -71,6 +71,7 @@ staff_writer => Redacteur
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Onbekende medewerker: <strong>{name}</strong>.
 your_login_info => Je login info
 your_login_is => Je loginnaam is

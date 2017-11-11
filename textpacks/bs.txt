@@ -71,6 +71,7 @@ staff_writer => Readkcijski pisac
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Nepoznat autor: <strong>{name}</strong>
 your_login_info => Vaše informacije o prijavi
 your_login_is => Vaša prijava je

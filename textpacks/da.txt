@@ -71,6 +71,7 @@ staff_writer => Fast skribent
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Ukendt forfatter: <strong>{name}</strong>.
 your_login_info => Dine logind info
 your_login_is => Dit brugernavn er

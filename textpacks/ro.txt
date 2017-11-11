@@ -71,6 +71,7 @@ staff_writer => Autor Sef
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Autor necunoscut: <strong>{name}</strong>.
 your_login_info => Detaliile tale de autentificare
 your_login_is => Username-ul tau este

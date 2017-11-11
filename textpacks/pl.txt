@@ -71,6 +71,7 @@ staff_writer => Redaktor
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Nieznany autor: <strong>{name}</strong>.
 your_login_info => Informacja o Twoim koncie
 your_login_is => Twoja nazwa użytkownika:

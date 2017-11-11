@@ -71,6 +71,7 @@ staff_writer => Író tag
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Ismeretlen szerző: <strong>{name}</strong>
 your_login_info => Belépési adataid
 your_login_is => Login neved

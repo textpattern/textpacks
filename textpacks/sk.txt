@@ -71,6 +71,7 @@ staff_writer => Redakčný autor
 token_expired =>
 unable_retrieve_template =>
 unable_retrieve_user =>
+unable_set_template =>
 unknown_author => Neznámy autor: <strong>{name}</strong>.
 your_login_info => Prihlasovacie údaje
 your_login_is => Meno užívateľa je
