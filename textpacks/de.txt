@@ -102,6 +102,7 @@ problem_creating_article =>
 problem_deleting_article =>
 problem_getting_articles =>
 problem_retrieving_article =>
+problem_retrieving_article_categories =>
 reset_time => Auf aktuelle Zeit setzen
 search_articles => Artikel suchen
 set_expire_now =>

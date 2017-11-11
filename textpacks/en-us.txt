@@ -102,6 +102,7 @@ problem_creating_article => There was a problem creating the article.
 problem_deleting_article => There was a problem deleting the article.
 problem_getting_articles => There was a problem getting the articles.
 problem_retrieving_article => There was a problem retrieving the article.
+problem_retrieving_article_categories => There was a problem retrieving the article categories.
 reset_time => Reset timestamp to now
 search_articles => Search articles
 set_expire_now => Set expiry to now
