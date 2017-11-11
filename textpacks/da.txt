@@ -103,6 +103,7 @@ problem_deleting_article =>
 problem_getting_articles =>
 problem_retrieving_article =>
 problem_retrieving_article_categories =>
+problem_retrieving_categories =>
 reset_time => Nulstil tid til nu…
 search_articles =>
 set_expire_now =>
