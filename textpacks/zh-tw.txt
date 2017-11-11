@@ -106,6 +106,7 @@ problem_retrieving_article_categories =>
 problem_retrieving_categories =>
 problem_retrieving_category_info =>
 problem_retrieving_sections =>
+problem_saving_article_categories =>
 reset_time => 重設發表時間為現在
 search_articles =>
 set_expire_now =>

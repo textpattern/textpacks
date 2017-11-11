@@ -106,6 +106,7 @@ problem_retrieving_article_categories =>
 problem_retrieving_categories =>
 problem_retrieving_category_info =>
 problem_retrieving_sections =>
+problem_saving_article_categories =>
 reset_time => Nullstill tid til nå
 search_articles => Søk artikler
 set_expire_now =>
