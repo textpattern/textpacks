@@ -107,6 +107,7 @@ problem_retrieving_categories =>
 problem_retrieving_category_info =>
 problem_retrieving_sections =>
 problem_saving_article_categories =>
+problem_updating_article =>
 reset_time => Сбросить время на текущее
 search_articles => Поиск статей
 set_expire_now =>

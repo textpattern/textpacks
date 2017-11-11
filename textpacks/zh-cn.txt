@@ -107,6 +107,7 @@ problem_retrieving_categories =>
 problem_retrieving_category_info =>
 problem_retrieving_sections =>
 problem_saving_article_categories =>
+problem_updating_article =>
 reset_time => 重设时间到此刻……
 search_articles => 搜索文章
 set_expire_now =>
