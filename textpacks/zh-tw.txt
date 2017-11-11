@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => 撰稿人
 token_expired =>
+unable_retrieve_user =>
 unknown_author =>
 your_login_info => 您的註冊訊息
 your_login_is => 您註冊帳號

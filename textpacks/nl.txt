@@ -69,6 +69,7 @@ set_password => Wachtwoord instellen
 show_password => Wachtwoord tonen
 staff_writer => Redacteur
 token_expired =>
+unable_retrieve_user =>
 unknown_author => Onbekende medewerker: <strong>{name}</strong>.
 your_login_info => Je login info
 your_login_is => Je loginnaam is

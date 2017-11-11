@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => Escritor
 token_expired =>
+unable_retrieve_user =>
 unknown_author => Autor desconhecido: <strong>{name}</strong>.
 your_login_info => A sua informação de acesso
 your_login_is => O seu nome de acesso é

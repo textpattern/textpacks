@@ -69,6 +69,7 @@ set_password => Aseta salasanasi
 show_password => Näytä salasana
 staff_writer => Rivitoimittaja
 token_expired =>
+unable_retrieve_user =>
 unknown_author => Tuntematon tekijä: <strong>{name}</strong>.
 your_login_info => Kirjautumistietosi
 your_login_is => Kirjautumisnimesi on

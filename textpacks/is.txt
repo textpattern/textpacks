@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => Innanhúss höfundur
 token_expired =>
+unable_retrieve_user =>
 unknown_author =>
 your_login_info => Þínar aðgangsupplýsingar
 your_login_is => Þinn aðgangur er

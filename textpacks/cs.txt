@@ -69,6 +69,7 @@ set_password => Nastavení hesla
 show_password => Zobrazit heslo
 staff_writer => Redakční autor
 token_expired =>
+unable_retrieve_user =>
 unknown_author => Neznámý autor: <strong>{name}</strong>.
 your_login_info => Přihlašovací údaje
 your_login_is => Jméno uživatele je

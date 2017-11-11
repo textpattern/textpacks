@@ -69,6 +69,7 @@ set_password => Crea tu contraseña
 show_password => Mostrar contraseña
 staff_writer => Redactor de plantilla
 token_expired =>
+unable_retrieve_user =>
 unknown_author => Autor desconocido: <strong>{name}</strong>.
 your_login_info => Tu información de acceso
 your_login_is => Tu nombre de acceso es

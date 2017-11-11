@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => Író tag
 token_expired =>
+unable_retrieve_user =>
 unknown_author => Ismeretlen szerző: <strong>{name}</strong>
 your_login_info => Belépési adataid
 your_login_is => Login neved

@@ -69,6 +69,7 @@ set_password =>
 show_password =>
 staff_writer => นักเขียนสต๊าฟ
 token_expired =>
+unable_retrieve_user =>
 unknown_author => ไม่ทราบผู้แต่ง: <strong>{name}</strong>
 your_login_info => ข้อมูลเพื่อเข้าระบบ
 your_login_is => ชื่อล็อกอินของคุณคือ

@@ -69,6 +69,7 @@ set_password => 设置您的密码
 show_password => 显示密码
 staff_writer => 撰稿人
 token_expired =>
+unable_retrieve_user =>
 unknown_author => 未知作者： <strong>{name}</strong> 。
 your_login_info => 您的登录信息
 your_login_is => 您的登录帐号
