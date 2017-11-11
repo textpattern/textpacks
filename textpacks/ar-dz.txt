@@ -98,6 +98,7 @@ linktext => نص الرابط
 meta => بيانات ميتا
 no_articles_recorded => لا توجد مقالة مسجلة
 override_default_form => تجاوز الشكل الحالي
+problem_creating_article =>
 reset_time => ضبط الساعة حسب التوقيت الحالي
 search_articles => البحث في المقالات
 set_expire_now =>

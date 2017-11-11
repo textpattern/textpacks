@@ -98,6 +98,7 @@ linktext => κείμενο σύνδεσης
 meta => Μετα
 no_articles_recorded => Δεν υπάρχουν άρθρα.
 override_default_form => Παράκαμψη προκαθορισμένης φόρμας
+problem_creating_article =>
 reset_time => Να οριστεί το «τώρα» ως χρονοσήμανση
 search_articles => Αναζήτηση άρθρων
 set_expire_now =>

@@ -98,6 +98,7 @@ linktext => textulptlink
 meta => Meta
 no_articles_recorded => Nu a fost gasit nici un articol.
 override_default_form => Inlocuieste formular
+problem_creating_article =>
 reset_time => Reseteaza timpul la ora curenta
 search_articles =>
 set_expire_now =>

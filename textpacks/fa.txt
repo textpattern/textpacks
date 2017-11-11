@@ -98,6 +98,7 @@ linktext => linktext
 meta => متاتگ
 no_articles_recorded => هیچ نوشته‌ای ثبت نشده است.
 override_default_form => تحریف فرم با
+problem_creating_article =>
 reset_time => تغییر زمان به حال
 search_articles =>
 set_expire_now =>

@@ -98,6 +98,7 @@ linktext => текст ссылки
 meta => Мета
 no_articles_recorded => Нет статей.
 override_default_form => Использовать форму
+problem_creating_article =>
 reset_time => Сбросить время на текущее
 search_articles => Поиск статей
 set_expire_now =>
