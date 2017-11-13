@@ -228,6 +228,7 @@
   <string name="last_modified">Последнее изменение</string>
   <string name="links">Ссылки</string>
   <string name="link_category">Категория ссылки</string>
+  <string name="list_options">Настройки списка</string>
   <string name="logged_in_as">Вы вошли как</string>
   <string name="login">Логин</string>
   <string name="login_to_textpattern">Войти в Textpattern</string>
@@ -255,7 +256,7 @@
   <string name="sort_value">Значение для сортировки</string>
   <string name="spam">Спам</string>
   <string name="stay_logged_in">Оставаться вошедшим с этим браузером</string>
-  <string name="sticky">Прилепленная</string>
+  <string name="sticky">Заглавная</string>
   <string name="structure">Структура</string>
   <string name="tab_admin">Настройки</string>
   <string name="tab_comments">Комментарии</string>
@@ -268,7 +269,7 @@
   <string name="tab_import">Импорт</string>
   <string name="tab_languages">Языки</string>
   <string name="tab_link">Ссылки</string>
-  <string name="tab_list">Написанное</string>
+  <string name="tab_list">Статьи</string>
   <string name="tab_logs">Логи</string>
   <string name="tab_organise">Категории</string>
   <string name="tab_pages">Страницы</string>
@@ -525,6 +526,7 @@
   <string name="replace_image">Заменить картинку</string>
   <string name="save_these_settings_as_default">Сохранить текущие установки по умолчанию</string>
   <string name="search_images">Поиск картинок</string>
+  <string name="swap_values">Значения скина</string>
   <string name="thumbnail_deleted">Уменьшенная картинка удалена.</string>
   <string name="thumbnail_not_saved">Уменьшенная картинка <strong>{id}</strong> <em>не</em> сохранена!</string>
   <string name="thumbnail_saved">Уменьшенная картинка <strong>{id}</strong> сохранена.</string>
@@ -619,6 +621,7 @@
   <string name="previewing_plugin">Предпросмотр плагина:</string>
   <string name="verify_plugin">Проверить плагин</string>
   <string name="active_language">Текущий язык</string>
+  <string name="active_language_ui">Язык пользователя</string>
   <string name="admin_side_plugins">Использовать плагины, влияющие на панель администратора?</string>
   <string name="advanced_preferences">Продвинутые настройки</string>
   <string name="allow_article_php_scripting">Разрешить PHP в статьях?</string>
@@ -748,6 +751,7 @@
   <string name="timeoffset">Разница во времени (в часах)</string>
   <string name="title_no_widow">Убирать висячие слова в заголовках?</string>
   <string name="title_only">/заголовок</string>
+  <string name="tz_timezone">Часовой пояс</string>
   <string name="updated">Обновлено</string>
   <string name="updated_branch_version_available">Доступно обновление этой версии <a href="http://textpattern.com/download" rel="external" title="Перейти на сайт Textpattern">Textpattern</a>.</string>
   <string name="update_languages">Обновить языки</string>
@@ -766,6 +770,7 @@
   <string name="ago">назад</string>
   <string name="all">Все</string>
   <string name="already_exists">уже существует</string>
+  <string name="ambiguous_tag">Непонятный формат тега:</string>
   <string name="any">Любое</string>
   <string name="articles">Статьи</string>
   <string name="articles_found">найдены статьи</string>
@@ -876,7 +881,8 @@
   <string name="list_articles">Список статей</string>
   <string name="list_categories">Список категорий</string>
   <string name="list_links">Список ссылок</string>
-  <string name="live">Включенная</string>
+  <string name="live">Опубликована</string>
+  <string name="lonely_closing_tag">Закрывающий тег без соответствующего открывающего тега:</string>
   <string name="lowercase">нижним регистром</string>
   <string name="main_content">Основное содержание</string>
   <string name="manual">Руководство</string>
@@ -950,6 +956,7 @@
   <string name="subscript">подстрочный</string>
   <string name="superscript">надстрочный</string>
   <string name="tag_error">Ошибка тега:</string>
+  <string name="tag_mismatch">Несоответствие открывающего/закрывающего тега:</string>
   <string name="textile_help">Помощь по Textile</string>
   <string name="textile_lite_help">Краткая помощь по Textile</string>
   <string name="text_conversion">Конвертировать текст</string>
@@ -960,14 +967,16 @@
   <string name="tooltip">Подсказка к ссылке</string>
   <string name="too_common_search_term">Похоже, что вы ищете очень распространенный запрос, попробуйте задать более точную фразу для поиска.</string>
   <string name="type">Тип</string>
+  <string name="unclosed_tag">Открывающий тег без соответствующего закрывающего тега:</string>
   <string name="undefined">Неопределено</string>
   <string name="unknown_attribute">Неизвестный атрибут тега: {att}.</string>
   <string name="unknown_callback_function">Неизвестная callback функция: {function}.</string>
   <string name="unknown_image">Неизвестная картинка</string>
   <string name="unknown_section">Неизвестная секция</string>
   <string name="unknown_tag">тег не существует</string>
+  <string name="unregistered_tag">тег не зарегистрирован</string>
   <string name="untitled">Без названия</string>
-  <string name="update">Обновлен</string>
+  <string name="update">Обновить</string>
   <string name="upload">Загрузить</string>
   <string name="uploaded">загружено</string>
   <string name="url">URL</string>
@@ -1137,7 +1146,7 @@
   <string name="random">Случайно</string>
   <string name="rel">Атрибут HTML: <code>rel</code></string>
   <string name="searchall">Искать во всех секциях?</string>
-  <string name="searchsticky">Искать в прилепленных статьях?</string>
+  <string name="searchsticky">Искать в заглавных статьях?</string>
   <string name="search_input_form">Ввод для поиска</string>
   <string name="search_results_form">Результаты поиска</string>
   <string name="section_tags">Секция</string>
