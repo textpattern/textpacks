@@ -1,7 +1,7 @@
 <?php
 
 $directory = dirname(__FILE__);
-$compareWith = 'textpattern/lang/en-gb.txt';
+$compareWith = 'textpattern/lang/en.txt';
 
 $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($directory));
 
