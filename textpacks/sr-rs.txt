@@ -644,7 +644,6 @@ rss_how_many => Колико уноса би требало бити укључ�
 section_id_title => /sekcija/id/naslov
 section_title => /sekcija/naslov
 send_lastmod => Пошаљи "Last-Modified" header?
-show_article_category_count => Прикажи број уноса у табу категорија?
 show_comment_count_in_feed => Прикажи број коментара код feed-ова?
 skin_base_path =>
 smtp_from =>

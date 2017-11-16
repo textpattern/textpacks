@@ -644,7 +644,6 @@ rss_how_many => Сколько статей включать в потоки?
 section_id_title => /секция/id/заголовок
 section_title => /секция/заголовок
 send_lastmod => Посылать "Last-Modified" header?
-show_article_category_count => Показывать количество статей в Категориях?
 show_comment_count_in_feed => Показывать количество комментариев в потоках?
 skin_base_path => Базовый путь скина
 smtp_from => Значение SMTP поля "From:"

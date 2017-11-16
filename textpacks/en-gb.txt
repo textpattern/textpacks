@@ -644,7 +644,6 @@ rss_how_many => How many articles should be included in feeds?
 section_id_title => /section/id/title
 section_title => /section/title
 send_lastmod => Send "Last-Modified" header?
-show_article_category_count => Show article count on categories panel?
 show_comment_count_in_feed => Show comment count in feeds?
 skin_base_path => Theme base path
 smtp_from => SMTP envelope sender address

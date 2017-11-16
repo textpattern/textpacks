@@ -644,7 +644,6 @@ rss_how_many => Koľko článkov zobraziť v RSS?
 section_id_title => /rubrika/id/titulok
 section_title => /rubrika/titulok
 send_lastmod => Odosielať hlavičku poslednej úpravy?
-show_article_category_count => Zobraziť počet článkov v Kategóriách?
 show_comment_count_in_feed => Zobraziť počet komentárov v RSS a Atom zdrojoch?
 skin_base_path => Adresár pre skiny (témy vzhľadu)
 smtp_from => SMTP adresa odesielateľa

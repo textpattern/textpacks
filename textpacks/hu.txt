@@ -644,7 +644,6 @@ rss_how_many => Hány cikk jelenjen meg az RSS csatornán?
 section_id_title => /szekcio/id/cim
 section_title => /szekcio/cim
 send_lastmod => "Utolsó módosítás" fejléc kiküldése
-show_article_category_count => Cikkek számának mutatása a kategóriáknál is?
 show_comment_count_in_feed => Megjegyzések számának mutatása a csatornákon is?
 skin_base_path =>
 smtp_from => SMTP boríték küldő címe

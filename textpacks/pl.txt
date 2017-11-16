@@ -644,7 +644,6 @@ rss_how_many => Ile artykułów w kanałach RSS?
 section_id_title => /sekcja/id/tytuł
 section_title => /sekcja/tytuł
 send_lastmod => Wysyłać nagłówek "Last-Modified"?
-show_article_category_count => Pokazywać ilość artykułów w kategoriach?
 show_comment_count_in_feed => Pokazywać ilość komentarzy w kanałach XML?
 skin_base_path => Podstawowa ścieżka do tematu
 smtp_from => Adres nadawcy (SMTP envelope sender address)

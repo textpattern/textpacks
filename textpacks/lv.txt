@@ -644,7 +644,6 @@ rss_how_many => Cik daudz ierakstu parādīt RSS?
 section_id_title => /sadaļa/id/virsraksts
 section_title => /sadaļa/virsraksts
 send_lastmod => Nosūtīt "Last-Modified" galveni
-show_article_category_count => Parādīt ierakstu skaitu kategorijās?
 show_comment_count_in_feed => Rādīt komentāru skaitu barotnēs?
 skin_base_path => Apdares bāzes ceļš
 smtp_from => SMTP sūtītāja adrese

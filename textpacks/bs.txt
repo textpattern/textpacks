@@ -644,7 +644,6 @@ rss_how_many => Koliko članak bi trebalo biti uključeno u feed (obavještenja)
 section_id_title => /sekcija/id/naslov
 section_title => /sekcija/naslov
 send_lastmod => Pošalji Last-Modified zaglavlje?
-show_article_category_count => Prikaži brojač članaka na tabulatoru kategorija?
 show_comment_count_in_feed => Prikaži brojač komentara u feeds?
 skin_base_path =>
 smtp_from =>

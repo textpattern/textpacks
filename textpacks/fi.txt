@@ -644,7 +644,6 @@ rss_how_many => Kuinka monta artikkelia RSS:ssä?
 section_id_title => /osio/id/otsikko
 section_title => /osio/otsikko
 send_lastmod => Lähetä "Last-Modified" otsake?
-show_article_category_count => Näytä artikkelien lukumäärä kategorioissa?
 show_comment_count_in_feed => Näytä kommenttien lukumäärä syötteissä?
 skin_base_path => Ulkoasun peruspolku
 smtp_from => SMTP kirjeen lähettäjän osoite

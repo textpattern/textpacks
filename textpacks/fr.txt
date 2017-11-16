@@ -644,7 +644,6 @@ rss_how_many => Combien d’articles par flux XML (RSS) ?
 section_id_title => /section/id/titre
 section_title => /section/titre
 send_lastmod => Envoyer l’entête de dernière modification ?
-show_article_category_count => Afficher le nombre d’article par catégories ?
 show_comment_count_in_feed => Afficher le nombre de commentaires dans les flux XML ?
 skin_base_path => Chemin de base du thème
 smtp_from => Adresse d’envoi SMTP

@@ -644,7 +644,6 @@ rss_how_many => แสดงกี่บทความทาง RSS?
 section_id_title => /ส่วน/รหัส/ชื่อ
 section_title => /ส่วน/ชื่อ
 send_lastmod => ส่งวันที่ปรับปรุงล่าสุด
-show_article_category_count => Show article count on หมวดหมู่?
 show_comment_count_in_feed =>
 skin_base_path =>
 smtp_from => ที่อยู่ผู้ส่ง SMTP

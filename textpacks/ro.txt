@@ -644,7 +644,6 @@ rss_how_many => Cate articole in RSS?
 section_id_title => /sectiune/id/titlu
 section_title => /sectiune/titlu
 send_lastmod => Trimite header Ultim-Modificat (Last-Modified)?
-show_article_category_count => Arata numarul articolelor in categorii?
 show_comment_count_in_feed => Arata numarul comentariilor in feed-uri?
 skin_base_path =>
 smtp_from => SMTP adresa expeditor

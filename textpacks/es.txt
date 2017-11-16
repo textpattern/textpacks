@@ -644,7 +644,6 @@ rss_how_many => ¿Cuántos artículos se incluirán en los feeds?
 section_id_title => /seccion/id/titulo
 section_title => /seccion/titulo
 send_lastmod => ¿Mandar encabezado "Última-modificación"?
-show_article_category_count => ¿Mostrar número de artículos en la pestaña categorías?
 show_comment_count_in_feed => ¿Mostrar contador de comentarios en los feeds?
 skin_base_path => Ruta al aspecto base
 smtp_from => Dirección del remitente del envío SMTP

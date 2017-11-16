@@ -644,7 +644,6 @@ rss_how_many => Sýna hversu margar greinar með RSS?
 section_id_title => /hluti/id/titill
 section_title => /hluti/titill
 send_lastmod => Senda síðast breytta síðuhaus?
-show_article_category_count => Sýna talningu greina í flokkum?
 show_comment_count_in_feed => Sýna talningu skoðana í fæði(XML)?
 skin_base_path =>
 smtp_from =>

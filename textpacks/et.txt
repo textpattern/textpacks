@@ -644,7 +644,6 @@ rss_how_many => Mitu artiklit RSS-is?
 section_id_title => /sektsioon/id/pealkiri
 section_title => /sektsioon/pealkiri
 send_lastmod => Saada "Last-Modified" http-päis?
-show_article_category_count => Näita artiklite arvu kategooriates?
 show_comment_count_in_feed => Näita kommentaaride arvu voogudes?
 skin_base_path =>
 smtp_from =>

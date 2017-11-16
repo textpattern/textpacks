@@ -644,7 +644,6 @@ rss_how_many => Hoe veel artikelen in RSS?
 section_id_title => /sectie/id/titel
 section_title => /sectie/titel
 send_lastmod => Last-Modified header meesturen?
-show_article_category_count => Aantal artikelen per categorie tonen?
 show_comment_count_in_feed => Aantal reacties in feeds tonen?
 skin_base_path => Locatie interface-ontwerpen
 smtp_from => Email verzenden met "Afzender"

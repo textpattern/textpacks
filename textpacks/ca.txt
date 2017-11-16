@@ -644,7 +644,6 @@ rss_how_many => Quants articles en RSS?
 section_id_title => /secció/id/títol
 section_title => /secció/títol
 send_lastmod => Envia "Last-Modified" en capçalera?
-show_article_category_count => Mostrar el recompte d’articles a Categories?
 show_comment_count_in_feed => Mostrar comptador de comentaris en feeds?
 skin_base_path =>
 smtp_from =>

@@ -644,7 +644,6 @@ rss_how_many => RSS에 표시할 글의 갯수는?
 section_id_title => /섹션/id/제목
 section_title => /섹션/제목
 send_lastmod => "최종 수정 헤더"를 보냅니까?
-show_article_category_count => 분류 탭에서 글 갯수를 표시합니까?
 show_comment_count_in_feed => 피드에 댓글 갯수를 표시합니까?
 skin_base_path =>
 smtp_from => SMTP envelope 보내기 주소

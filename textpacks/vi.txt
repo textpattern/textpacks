@@ -644,7 +644,6 @@ rss_how_many => Bao nhiêu bài viết sẽ được đặt trong feed?
 section_id_title => /mục/id/tiêu_đề
 section_title => /mục/tiêu_đề
 send_lastmod => Gửi phần đầu "Last-Modified"?
-show_article_category_count => Hiện số lượng bài viết trên tab thể loại?
 show_comment_count_in_feed => Hiện số bình chú trong feed?
 skin_base_path =>
 smtp_from => Địa chỉ phong bì người gửi SMTP

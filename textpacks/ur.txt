@@ -644,7 +644,6 @@ rss_how_many => اسس فیڈ میں کتنے مضامین نمائش کریں �
 section_id_title => /section/id/title
 section_title => /section/title
 send_lastmod => سائٹ کے نظریں کو <code dir="ltr">Last-Modified</code> بھیجیں ؟
-show_article_category_count => کیا زمرہ بندی کے ٹیب پر مضامین کی گنتی بتایں ؟
 show_comment_count_in_feed => کیا اسس فیڈ میں تبصرے کی گنتی شامل کریں ؟
 skin_base_path =>
 smtp_from => SMTP بزریے ای میل بھیجنے کے لیے مرسل کا ای میل کا پتہ
