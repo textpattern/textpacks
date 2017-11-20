@@ -228,6 +228,7 @@
   <string name="last_modified">Senast ändrad</string>
   <string name="links">Länkar</string>
   <string name="link_category">Länk-kategori</string>
+  <string name="list_options">Listalternativ</string>
   <string name="logged_in_as">Inloggad som</string>
   <string name="login">Logga in</string>
   <string name="login_to_textpattern">Logga in i Textpattern</string>
@@ -525,6 +526,7 @@
   <string name="replace_image">Ersätt bild</string>
   <string name="save_these_settings_as_default">Spara inställningarna som förval</string>
   <string name="search_images">Sök bilder</string>
+  <string name="swap_values">Byt värden</string>
   <string name="thumbnail_deleted">Miniatyrbild togs bort.</string>
   <string name="thumbnail_not_saved">Tumnageln <strong>{id}</strong> sparades <em>inte</em>!</string>
   <string name="thumbnail_saved">Tumnageln <strong>{id}</strong> sparades.</string>
@@ -619,6 +621,7 @@
   <string name="previewing_plugin">Förhandsvisning av plugin:</string>
   <string name="verify_plugin">Verifiera plugin</string>
   <string name="active_language">Aktivt språk</string>
+  <string name="active_language_ui">Användarspråk</string>
   <string name="admin_side_plugins">Använd admin-plugins?</string>
   <string name="advanced_preferences">Avancerade</string>
   <string name="allow_article_php_scripting">Tillåt PHP-script i artiklar?</string>
@@ -748,6 +751,7 @@
   <string name="timeoffset">Tidsförskjutning (timmar)</string>
   <string name="title_no_widow">Förhindra horungar i artikeltitlar?</string>
   <string name="title_only">/rubrik</string>
+  <string name="tz_timezone">Tidszon</string>
   <string name="updated">Uppdaterad</string>
   <string name="updated_branch_version_available">En uppdatering av denna version av Textpattern (4.0.x) finns tillgänglig!</string>
   <string name="update_languages">Uppdatera språk</string>
@@ -877,6 +881,7 @@
   <string name="list_categories">Lista kategorier</string>
   <string name="list_links">Lista länkar</string>
   <string name="live">Live</string>
+  <string name="lonely_closing_tag">Avslutningstagg utan motsvarande öppningsstagg:</string>
   <string name="lowercase">gemener</string>
   <string name="main_content">Huvudsaklig innehåll</string>
   <string name="manual">Manuell</string>
@@ -960,12 +965,14 @@
   <string name="tooltip">Länk-ledtråd</string>
   <string name="too_common_search_term">Det verkar som att du söker efter en mycket vanlig sökterm, försök att söka efter något mer specifikt än</string>
   <string name="type">Typ</string>
+  <string name="unclosed_tag">Öppningstagg utan motsvarande avslutningstagg:</string>
   <string name="undefined">Odefinierad</string>
   <string name="unknown_attribute">Okänt tagg-attribut: {att}</string>
   <string name="unknown_callback_function">Okänd callback-funktion: {function}</string>
   <string name="unknown_image">Okänd bild.</string>
   <string name="unknown_section">Okänd avdelning</string>
   <string name="unknown_tag">taggen existerar inte</string>
+  <string name="unregistered_tag">taggen är inte registrerad</string>
   <string name="untitled">Namnlös</string>
   <string name="update">Uppdatera</string>
   <string name="upload">Ladda upp</string>
