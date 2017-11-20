@@ -228,6 +228,7 @@
   <string name="last_modified">Voor het laatst gewijzigd</string>
   <string name="links">Links</string>
   <string name="link_category">Linkcategorie</string>
+  <string name="list_options">Lijstopties</string>
   <string name="logged_in_as">Ingelogd als</string>
   <string name="login">Login</string>
   <string name="login_to_textpattern">Inloggen in Textpattern</string>
@@ -525,6 +526,7 @@
   <string name="replace_image">Afbeelding vervangen</string>
   <string name="save_these_settings_as_default">Bewaar deze instellingen als standaard</string>
   <string name="search_images">Afbeeldingen doorzoeken</string>
+  <string name="swap_values">Omdraaien</string>
   <string name="thumbnail_deleted">Mini-afbeelding verwijderd.</string>
   <string name="thumbnail_not_saved">Mini-afbeelding <strong>{id}</strong> niet opgeslagen!</string>
   <string name="thumbnail_saved">Mini-afbeelding <strong>{id}</strong> opgeslagen.</string>
@@ -619,6 +621,7 @@
   <string name="previewing_plugin">Voorbeeld plugin:</string>
   <string name="verify_plugin">Verifieer plugin</string>
   <string name="active_language">Op dit moment ingestelde taal</string>
+  <string name="active_language_ui">Gebruikerstaal</string>
   <string name="admin_side_plugins">Admin plugins toestaan?</string>
   <string name="advanced_preferences">Uitgebreid</string>
   <string name="allow_article_php_scripting">PHP in artikelen toestaan?</string>
@@ -748,6 +751,7 @@
   <string name="timeoffset">Tijd afwijking (uren)</string>
   <string name="title_no_widow">Losstaande woorden (weduwen) in titels van artikelen voorkomen?</string>
   <string name="title_only">/titel</string>
+  <string name="tz_timezone">Tijdzone</string>
   <string name="updated">vernieuwd</string>
   <string name="updated_branch_version_available">Er is een nieuwe versie van Textpattern beschikbaar.</string>
   <string name="update_languages">Taal wijzigen</string>
@@ -766,6 +770,7 @@
   <string name="ago">geleden</string>
   <string name="all">Alles</string>
   <string name="already_exists">bestaat al</string>
+  <string name="ambiguous_tag">Onjuiste sluit-tag:</string>
   <string name="any">Maakt niet uit</string>
   <string name="articles">Artikelen</string>
   <string name="articles_found">gevonden artikelen</string>
@@ -877,6 +882,7 @@
   <string name="list_categories">lijst van categorieën maken</string>
   <string name="list_links">lijst met links maken</string>
   <string name="live">Zichtbaar</string>
+  <string name="lonely_closing_tag">Er is geen open-tag bij deze sluit-tag:</string>
   <string name="lowercase">kleine letters</string>
   <string name="main_content">Hoofdinhoud</string>
   <string name="manual">Handleiding</string>
@@ -950,6 +956,7 @@
   <string name="subscript">subscript</string>
   <string name="superscript">superscript</string>
   <string name="tag_error">Tag foutmelding:</string>
+  <string name="tag_mismatch">Open- en sluit-tag komen niet overeen:</string>
   <string name="textile_help">Textile hulp</string>
   <string name="textile_lite_help">Textile Lite hulp</string>
   <string name="text_conversion">Tekst omzetting</string>
@@ -960,12 +967,14 @@
   <string name="tooltip">Link tooltip</string>
   <string name="too_common_search_term">Het lijkt erop dat de zoekvraag te algemeen is. Probeer een specifiekere formulering dan</string>
   <string name="type">Type</string>
+  <string name="unclosed_tag">Open-tag zonder bijbehorende sluit-tag:</string>
   <string name="undefined">Ongedefinieerd</string>
   <string name="unknown_attribute">niet bestaand tagattribuut: {att}.</string>
   <string name="unknown_callback_function">Onbekende callbackfunctie: {function}.</string>
   <string name="unknown_image">Onbekende afbeelding</string>
   <string name="unknown_section">Onbekende sectie</string>
   <string name="unknown_tag">deze tag bestaat niet</string>
+  <string name="unregistered_tag">deze tag is niet geregistreerd</string>
   <string name="untitled">Zonder titel</string>
   <string name="update">Vernieuwen</string>
   <string name="upload">Uploaden</string>
