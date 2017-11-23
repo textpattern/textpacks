@@ -3,6 +3,7 @@
 <resources>
   <string name="lang_name">हिन्दी</string>
   <string name="lang_code">hi-IN</string>
+  <string name="lang_dir">ltr</string>
   <string name="account_activation">कृपया अपने खाते को सक्रिय</string>
   <string name="account_activation_confirmation">कृपया अपने खाते को सक्रिय करने और एक पासवर्ड को सेट करने के लिए नीचे दिए गए लिंक का उपयोग करें।</string>
   <string name="add_new_author">नए लेखक जोड़ें</string>

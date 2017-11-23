@@ -3,6 +3,7 @@
 <resources>
   <string name="lang_name">中文(繁體)</string>
   <string name="lang_code">zh-TW</string>
+  <string name="lang_dir">ltr</string>
   <string name="add_new_author">新增作者</string>
   <string name="and_mailed_to">同時郵寄到</string>
   <string name="author_deleted">已刪除作者 <strong>{name}</strong>.</string>

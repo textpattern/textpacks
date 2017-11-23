@@ -228,6 +228,7 @@
   <string name="last_modified">Ultima modifica</string>
   <string name="links">Link</string>
   <string name="link_category">Categoria link</string>
+  <string name="list_options">Opzioni lista</string>
   <string name="logged_in_as">Accesso eseguito come</string>
   <string name="login">Accedi</string>
   <string name="login_to_textpattern">Accedi a Textpattern</string>
@@ -525,6 +526,7 @@
   <string name="replace_image">Sostituisci immagine</string>
   <string name="save_these_settings_as_default">Salva queste impostazioni come predefinite</string>
   <string name="search_images">Cerca immagini</string>
+  <string name="swap_values">Scambia i valori</string>
   <string name="thumbnail_deleted">Miniatura eliminata.</string>
   <string name="thumbnail_not_saved">Miniatura <strong>{id}</strong> <em>non</em> salvata!</string>
   <string name="thumbnail_saved">Miniatura <strong>{id}</strong> salvata.</string>
@@ -619,6 +621,7 @@
   <string name="previewing_plugin">Anteprima plug-in:</string>
   <string name="verify_plugin">Verifica plug-in</string>
   <string name="active_language">Lingue attivate</string>
+  <string name="active_language_ui">Lingua utente</string>
   <string name="admin_side_plugins">Consenti plug-in per la parte di amministrazione?</string>
   <string name="advanced_preferences">Preferenze avanzate</string>
   <string name="allow_article_php_scripting">Accetta codice PHP negli articoli?</string>
@@ -748,6 +751,7 @@
   <string name="timeoffset">Fuso orario (ore)</string>
   <string name="title_no_widow">Previeni parole ‘vedove’ nei titoli degli articoli?</string>
   <string name="title_only">/titolo</string>
+  <string name="tz_timezone">Fuso Orario</string>
   <string name="updated">aggiornato</string>
   <string name="updated_branch_version_available">È disponibile un aggiornamento di questa serie di Textpattern CMS. Vuoi <a href="http://textpattern.com/download" rel="external" title="Vai all’area download del sito Textpattern">scaricarlo</a>?</string>
   <string name="update_languages">Aggiorna le lingue</string>
@@ -766,6 +770,7 @@
   <string name="ago">fa</string>
   <string name="all">Tutto</string>
   <string name="already_exists">già esistente</string>
+  <string name="ambiguous_tag">Formato non corretto di chiusura tag:</string>
   <string name="any">Qualsiasi</string>
   <string name="articles">Articoli</string>
   <string name="articles_found">articoli trovati</string>
@@ -877,6 +882,7 @@
   <string name="list_categories">elenca categorie</string>
   <string name="list_links">elenca link</string>
   <string name="live">Visibile</string>
+  <string name="lonely_closing_tag">Tag di chiusura senza corrispondente tag di apertura:</string>
   <string name="lowercase">minuscolo</string>
   <string name="main_content">Contenuto principale</string>
   <string name="manual">Manuale</string>
@@ -950,6 +956,7 @@
   <string name="subscript">pedice</string>
   <string name="superscript">apice</string>
   <string name="tag_error">Errore tag:</string>
+  <string name="tag_mismatch">Mancata corrispondenza tag di apertura/chiusura:</string>
   <string name="textile_help">Aiuto Textile</string>
   <string name="textile_lite_help">Aiuto Textile Lite</string>
   <string name="text_conversion">Conversione testo</string>
@@ -960,12 +967,14 @@
   <string name="tooltip">Link tooltip</string>
   <string name="too_common_search_term">Stai cercando un termine molto comune, prova con una parola o frase più specifica di</string>
   <string name="type">Tipo</string>
+  <string name="unclosed_tag">Tag di apertura senza corrispondente tag di chiusura:</string>
   <string name="undefined">Non definito</string>
   <string name="unknown_attribute">Attributo tag sconosciuto: {att}.</string>
   <string name="unknown_callback_function">Funzione di callback sconosciuta: {function}.</string>
   <string name="unknown_image">Immagine sconosciuta</string>
   <string name="unknown_section">Sezione sconosciuta</string>
   <string name="unknown_tag">tag inesistente</string>
+  <string name="unregistered_tag">il tag non è registrato</string>
   <string name="untitled">Senza titolo</string>
   <string name="update">Aggiorna</string>
   <string name="upload">Carica</string>
