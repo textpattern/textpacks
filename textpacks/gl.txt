@@ -896,6 +896,7 @@ checking_database => Comprobando a conexión á Base de Datos
 choose_password => Elixe un contrasinal
 config_php_does_not_match_input => Os contidos de <code>config.php</code> non coinciden cos valores que introduciches. Por favor, pega a continuación o texto exacto.
 config_php_not_found => Non se atopou o arquivo de configuración no lugar esperado <strong>{file}</strong>. Por favor, comproba de novo que existe.
+config_php_write_error =>
 core_theme => Principal: {theme}
 create_config => crea un arquivo chamado <code>config.php</code> no teu directorio <code>/textpattern/</code> e pega nel o seguinte:
 creating_config => Creando o arquivo config.php

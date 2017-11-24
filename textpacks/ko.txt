@@ -896,6 +896,7 @@ checking_database => 데이터베이스 연결을 확인중…
 choose_password => 비밀번호 선택
 config_php_does_not_match_input =>
 config_php_not_found =>
+config_php_write_error =>
 core_theme =>
 create_config => <code>/textpattern/</code>안에 <code>config.php</code>라 불리는 파일을 만들어서 다음 안에 붙여넣기 해야 합니다.
 creating_config =>

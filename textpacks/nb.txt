@@ -896,6 +896,7 @@ checking_database => Sjekker tilkopling til databasen
 choose_password => Velg et passord
 config_php_does_not_match_input =>
 config_php_not_found =>
+config_php_write_error =>
 core_theme =>
 create_config => Lag en fil kalt <code>config.php</code> i <code>/textpattern/</code> mappen, og lim inn følgende…
 creating_config =>

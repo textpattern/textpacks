@@ -896,6 +896,7 @@ checking_database => Verific conexiunea la baza de date
 choose_password => Alege o parola
 config_php_does_not_match_input => Continutul <code>config.php</code> nu se potriveste cu valorile definite. Te rog foloseste urmatorul continut:
 config_php_not_found => Fisierul de configurare nu a putut fi gasit la <strong>{file}</strong>. Te rog verifica daca a fost creat corect.
+config_php_write_error =>
 core_theme => Baza: {theme}
 create_config => creaza un fisier cu denumierea <code>config.php</code> in directorul <code>/textpattern/</code> si pune urmatoarele in el:
 creating_config => Creare fisier config.php

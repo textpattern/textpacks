@@ -896,6 +896,7 @@ checking_database => التيقن من أن الإتصال ببنك المعلو
 choose_password => الرجاء اختيار كلمة السر لم تستعمله في مكان إخر ولا يمكن تخمينه
 config_php_does_not_match_input =>
 config_php_not_found =>
+config_php_write_error =>
 core_theme =>
 create_config =>
 creating_config =>

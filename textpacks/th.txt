@@ -896,6 +896,7 @@ checking_database => กำลังตรวจสอบการติดต�
 choose_password => เลือกรหัสผ่าน
 config_php_does_not_match_input =>
 config_php_not_found =>
+config_php_write_error =>
 core_theme =>
 create_config => ให้สร้างแฟ้มที่ชื่อ <code>config.php</code> ในไดเรกทอรี <code>/textpattern/</code> และวางข้อมูลต่อไปนี้ลงไป:
 creating_config =>

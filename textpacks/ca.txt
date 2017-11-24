@@ -896,6 +896,7 @@ checking_database => Comprovant la connexió a la base de dades
 choose_password => Escull una contrasenya
 config_php_does_not_match_input =>
 config_php_not_found =>
+config_php_write_error =>
 core_theme =>
 create_config => crea un fitxer anomenat <code>config.php</code> dins el directori <code>/textpattern/</code> i enganxa-hi això:
 creating_config =>

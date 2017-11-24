@@ -896,6 +896,7 @@ checking_database => Kontrolujem spojenie s databázou
 choose_password => Zvoľte si heslo
 config_php_does_not_match_input => Súbor s nastavením <code>config.php</code> nezodpovedá voľbám, ktoré si zadal. Vlož do súboru celý nasledujúcí text.
 config_php_not_found => Nepodarilo sa nájsť súbor s nastavením: <strong>{file}</strong>. Over, prosím, že naozaj existuje.
+config_php_write_error =>
 core_theme => Vzhľad administračného prostredia: {theme}
 create_config => vytvorte súbor nazvaný <code>config.php</code> v priečinku <code>/textpatter</code> a vložte do neho nasledujúci kód…
 creating_config => Vytváram súbor config.php

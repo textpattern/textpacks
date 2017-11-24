@@ -896,6 +896,7 @@ checking_database => Cek koneksi basis data
 choose_password => Pilihlah sandi lewat
 config_php_does_not_match_input =>
 config_php_not_found =>
+config_php_write_error =>
 core_theme =>
 create_config => Buat berkas bernama <code>config.php</code> di direktori <code>/textpattern/</code> dan salin kode berikut di dalamnya:
 creating_config =>

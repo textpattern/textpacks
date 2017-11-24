@@ -896,6 +896,7 @@ checking_database => Stabilisco una connessione col database
 choose_password => Scegli una password
 config_php_does_not_match_input => Il contenuto di <code>config.php</code> non corrisponde ai valori che hai inserito. Incolla esattamente il testo seguente.
 config_php_not_found => Non ho trovato il file di configurazione nel posto previsto <strong>{file}</strong>. Controllane ancora una volta l’esistenza.
+config_php_write_error =>
 core_theme => Nucleo: {theme}
 create_config => Crea un file di nome <code>config.php</code> nella cartella <code>/textpattern/</code> e incollaci dentro ciò che segue…
 creating_config => Creo il file config.php

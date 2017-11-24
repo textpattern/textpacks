@@ -896,6 +896,7 @@ checking_database => データベース接続の確認中…
 choose_password => パスワードを記入して下さい
 config_php_does_not_match_input => <code>config.php</code> の項目が現在の設定と一致しません。下記のテキストを正確に記入して下さい。
 config_php_not_found => <strong>{file}</strong>　で設定ファイルを見つけることができませんでした。設定ファイルの存在をもう一度検証して下さい。
+config_php_write_error =>
 core_theme => コア： {theme}
 create_config => <code>config.php</code> というファイルを、 <code>/textpattern/</code> のディレクトリの中に作成し、以下の内容を貼り付けて下さい：
 creating_config => config.php ファイルの作成

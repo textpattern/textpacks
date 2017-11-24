@@ -896,6 +896,7 @@ checking_database => Tikrinamas ryšys su duomenų baze
 choose_password => Pasirinkite slaptažodį
 config_php_does_not_match_input => <code>config.php</code> turinys neatitinka jūsų įvestų reikšmių. Prašome nukopijuoti ir įdėti žemiau nurodytą tekstą.
 config_php_not_found => Konfigūracijos failas nebuvo rastas numatytoje vietoje <strong>{file}</strong>. Prašom patikrinti jo egzistavimą dar kartą.
+config_php_write_error =>
 core_theme => Pagrindinė: {theme}
 create_config => Sukurkite rinkmeną pavadinimu <code>config.php</code> <code>/textpattern/</code> kataloge ir įdėkite šį turinį viduje…
 creating_config => Kuriamas config.php failas

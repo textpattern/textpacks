@@ -896,6 +896,7 @@ checking_database => Kiểm tra kết nối tới cơ sở dữ liệu
 choose_password => Chọn mật khẩu
 config_php_does_not_match_input => Nội dung của <code>config.php</code> không khớp với giá trị bạn nhập vào. Vui lòng dán chính xác như phần văn bản phía dưới.
 config_php_not_found => Tập tin cấu hình không tìm thấy ở tại vị trí cần <strong>{file}</strong>. Vui lòng xác minh lại xem nó đã có chưa.
+config_php_write_error =>
 core_theme => Lõi: {theme}
 create_config => Tạo một tập tin mang tên <code>config.php</code> trong thư mục <code>/textpattern/</code> với nội dung sau đây:
 creating_config => Đang tạo tập tin config.php

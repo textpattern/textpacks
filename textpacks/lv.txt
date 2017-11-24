@@ -896,6 +896,7 @@ checking_database => Tiek pārbaudīts savienojums ar datubāzi
 choose_password => Izvēlieties paroli
 config_php_does_not_match_input => <code>config.php</code> saturs neatbilst jūsu ievadītajām vērtībām. Lūdzu, iekopējiet precīzu tekstu, kurš redzams zemāk.
 config_php_not_found => Konfigurācijas failu neizdevās atrast gaidītajā atrašanās vietā <strong>{file}</strong>. Lūdzu, vēlreiz pārbaudiet tā esamību.
+config_php_write_error =>
 core_theme => Kodols: {theme}
 create_config => Izveidojiet failu ar nosaukumu <code>config.php</code> mapē <code>/textpattern/</code> un ievietojiet tur sekojošu tekstu…
 creating_config => Izveido config.php failu

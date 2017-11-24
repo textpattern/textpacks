@@ -896,6 +896,7 @@ checking_database => בודק קשר עם בסיס הנתונים
 choose_password => בחר סיסמה
 config_php_does_not_match_input =>
 config_php_not_found =>
+config_php_write_error =>
 core_theme =>
 create_config => צור את הקובץ <code dir="ltr">config.php</code> בספרייה <code dir="ltr">/textpattern/</code> והעתק את השורות הבאות אליו:
 creating_config =>

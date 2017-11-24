@@ -896,6 +896,7 @@ checking_database => Έλεγχος σύνδεσης βάσης δεδομένω
 choose_password => Επιλέξτε κωδικό πρόσβασης
 config_php_does_not_match_input => Τα περιεχόμενα του <code>config.php</code> δεν ταιριάζουν με τις τιμές που καταχωρήσατε. Παρακαλείσθε να επικολλήσετε το ακριβές κείμενο παρακάτω.
 config_php_not_found => Δεν βρέθηκε το αρχείο <strong>{file}</strong> στη αναμενόμενη θέση. Παρακαλώ επιβεβαιώστε πάλι την ύπαρξή του.
+config_php_write_error =>
 core_theme => Πυρήνας: {theme}
 create_config => δημιουργήστε ένα αρχείο με όνομα <code>config.php</code> στον κατάλογο <code>/textpattern/</code> και επικολλείστε τα ακόλουθα:
 creating_config => Δημιουργία αρχείου config.php
