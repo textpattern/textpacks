@@ -770,6 +770,7 @@
   <string name="ago">sedan</string>
   <string name="all">Alla</string>
   <string name="already_exists">finns redan</string>
+  <string name="ambiguous_tag">Felaktigt format på taggstängning:</string>
   <string name="any">Eventuell</string>
   <string name="articles">Artiklar</string>
   <string name="articles_found">artiklar hittade</string>
@@ -955,6 +956,7 @@
   <string name="subscript">nedsänkt</string>
   <string name="superscript">upphöjd</string>
   <string name="tag_error">Tagg-fel:</string>
+  <string name="tag_mismatch">Felparad tagg-öppning/-stängning:</string>
   <string name="textile_help">Textile-hjälp</string>
   <string name="textile_lite_help">Textile Lite-hjälp</string>
   <string name="text_conversion">Textkonvertering</string>

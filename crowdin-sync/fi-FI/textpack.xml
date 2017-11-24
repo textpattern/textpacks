@@ -769,6 +769,7 @@
   <string name="ago">sitten</string>
   <string name="all">Kaikki</string>
   <string name="already_exists">on jo olemassa</string>
+  <string name="ambiguous_tag">Virheellinen muoto sulkevassa tagissa:</string>
   <string name="any">Mikä tahansa</string>
   <string name="articles">Artikkelit</string>
   <string name="articles_found">artikkelia löytyi</string>
@@ -880,6 +881,7 @@
   <string name="list_categories">listaa kategoriat</string>
   <string name="list_links">listaa linkit</string>
   <string name="live">Live</string>
+  <string name="lonely_closing_tag">Sulkeva tagi ilman vastaavaa avaavaa tagia:</string>
   <string name="lowercase">pienet kirjaimet</string>
   <string name="main_content">Pääsisältö</string>
   <string name="manual">Manuaalinen</string>
@@ -953,6 +955,7 @@
   <string name="subscript">alaindeksi</string>
   <string name="superscript">yläindeksi</string>
   <string name="tag_error">Tagi virhe:</string>
+  <string name="tag_mismatch">Avaava ja sulkeva tagi eivät täsmää:</string>
   <string name="textile_help">Textile ohje</string>
   <string name="textile_lite_help">Textile Lite -ohje</string>
   <string name="text_conversion">Tekstin muunto</string>
