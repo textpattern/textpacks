@@ -75,6 +75,7 @@ you_have_been_registered =>
 #@article
 add_new_article =>
 advanced_options =>
+article_day =>
 article_expires_before_postdate =>
 article_image =>
 article_markup =>

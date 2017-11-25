@@ -75,6 +75,7 @@ you_have_been_registered => Þú hefur verið skráður sem aðgangsaðili á ve
 #@article
 add_new_article =>
 advanced_options => Fleiri Möguleikar
+article_day =>
 article_expires_before_postdate =>
 article_image => Greinar mynd
 article_markup =>

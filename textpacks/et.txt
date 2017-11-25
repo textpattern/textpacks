@@ -75,6 +75,7 @@ you_have_been_registered => Sa oled registreerunud kaastöötajana
 #@article
 add_new_article =>
 advanced_options => Keerukamad seaded
+article_day =>
 article_expires_before_postdate =>
 article_image => Artikli pilt
 article_markup =>

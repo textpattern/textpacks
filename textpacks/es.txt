@@ -75,6 +75,7 @@ you_have_been_registered => Has sido registrado como colaborador del sitio
 #@article
 add_new_article => Añadir artículo nuevo
 advanced_options => Opciones avanzadas
+article_day =>
 article_expires_before_postdate => Error: el artículo caduca <strong>antes</strong> de la fecha de publicación.
 article_image => Imagen del artículo
 article_markup => Marcado del artículo

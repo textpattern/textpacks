@@ -75,6 +75,7 @@ you_have_been_registered => Du er blevet registreret som bidragyder til siden
 #@article
 add_new_article =>
 advanced_options => Avancerede indstillinger
+article_day =>
 article_expires_before_postdate => Fejl: Artiklen udløber <strong>før</strong> publiceringsdatoen.
 article_image => Artikel billede
 article_markup => Artikel markup

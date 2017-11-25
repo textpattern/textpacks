@@ -75,6 +75,7 @@ you_have_been_registered => נרשמת כתורם לאתר
 #@article
 add_new_article =>
 advanced_options => אפשרויות מתקדמות
+article_day =>
 article_expires_before_postdate => שגיאה: פג תוקפו של המאמר <strong>לפני</strong> תאריך השליחה.
 article_image => תמונת המאמר
 article_markup => פורמט המאמר

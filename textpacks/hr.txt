@@ -75,6 +75,7 @@ you_have_been_registered => Registrirani ste kao pridonositelj ovom site-u.
 #@article
 add_new_article =>
 advanced_options => Napredne opcije
+article_day =>
 article_expires_before_postdate => Greška: Članak ističe <strong>prije</strong> datuma objavljivanja.
 article_image => Slika unosa
 article_markup => Markup unosa

@@ -75,6 +75,7 @@ you_have_been_registered => Byl jsi přihlášen(a) jako uživatel na stránkác
 #@article
 add_new_article => Vytvořit nový článek
 advanced_options => Rozšířené nastavení
+article_day =>
 article_expires_before_postdate => Chyba: Platnost článku vyprší <strong>před</strong> datem vydání.
 article_image => Obrázek
 article_markup => Značky článku

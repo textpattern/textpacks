@@ -75,6 +75,7 @@ you_have_been_registered => Foi registrado como colaborador do site
 #@article
 add_new_article => Criar novo artigo
 advanced_options => Opções avançadas
+article_day =>
 article_expires_before_postdate => Error: Artigo expirou <strong>antes</strong> da data de postagem.
 article_image => Imagem do artigo
 article_markup => Formato do artigo

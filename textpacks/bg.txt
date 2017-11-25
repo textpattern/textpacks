@@ -75,6 +75,7 @@ you_have_been_registered => Вие сте регистриран като сът
 #@article
 add_new_article =>
 advanced_options => Допълнителни опции
+article_day =>
 article_expires_before_postdate => Грешка: Статията изтича <strong>преди</strong> датата на публикуване.
 article_image => Изображение за статията
 article_markup => Оформление на статията

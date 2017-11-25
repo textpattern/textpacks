@@ -75,6 +75,7 @@ you_have_been_registered => Jesteś teraz zarejestrowanym współautorem strony
 #@article
 add_new_article => Stwórz nowy artykuł
 advanced_options => Opcje zaawansowane
+article_day =>
 article_expires_before_postdate => Błąd: data ważności artykułu jest <strong>wcześniejsza</strong> niż data publikacji.
 article_image => Obrazek do artykułu
 article_markup => Formatowanie artykułu

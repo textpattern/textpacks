@@ -75,6 +75,7 @@ you_have_been_registered => Foi registado como colaborador do sítio
 #@article
 add_new_article =>
 advanced_options => Opções avançadas
+article_day =>
 article_expires_before_postdate => Erro: O artigo expira <strong>antes</strong> da data de colocação.
 article_image => Imagem do artigo
 article_markup => Formato do artigo

@@ -75,6 +75,7 @@ you_have_been_registered => 您已於本網站註冊成為撰稿人員
 #@article
 add_new_article =>
 advanced_options => 進階選項
+article_day =>
 article_expires_before_postdate =>
 article_image => 附加圖片
 article_markup => 文章模式

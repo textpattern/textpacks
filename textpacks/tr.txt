@@ -75,6 +75,7 @@ you_have_been_registered => Siteye yazar olarak kayıt oldunuz
 #@article
 add_new_article =>
 advanced_options => Gelişmiş Seçenekler
+article_day =>
 article_expires_before_postdate =>
 article_image => Makale görseli
 article_markup => Makale markup

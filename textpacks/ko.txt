@@ -75,6 +75,7 @@ you_have_been_registered => 이 사이트의 글쓴이로 등록되었습니다
 #@article
 add_new_article =>
 advanced_options => 상세 설정
+article_day =>
 article_expires_before_postdate => 에러 : 글이 등록날짜 <strong>이전</strong>에 만료되도록 설정했습니다
 article_image => 글 이미지
 article_markup => 글 마크업

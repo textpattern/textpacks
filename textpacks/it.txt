@@ -75,6 +75,7 @@ you_have_been_registered => Sei stato registrato come collaboratore del sito
 #@article
 add_new_article => Aggiungi nuovo articolo
 advanced_options => Opzioni avanzate
+article_day =>
 article_expires_before_postdate => La data di scadenza è <strong>anteriore</strong> alla `data` di pubblicazione.
 article_image => Immagine articolo
 article_markup => Codice articolo

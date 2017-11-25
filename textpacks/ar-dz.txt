@@ -75,6 +75,7 @@ you_have_been_registered => تم تسجيلكم كمساهم في الموقع
 #@article
 add_new_article => إنشاء مقالة جديدة
 advanced_options => تشكيل متقدم
+article_day =>
 article_expires_before_postdate => تنتهي صلاحية المقال قبل تاريخ نشره
 article_image => صورة مرفقة للمقال
 article_markup => علامات المقال

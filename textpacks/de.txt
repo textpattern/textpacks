@@ -75,6 +75,7 @@ you_have_been_registered => Sie wurden als Mitarbeiter(in) dieser Seite registri
 #@article
 add_new_article => Neuen Artikel erstellen
 advanced_options => Erweiterte Einstellungen
+article_day =>
 article_expires_before_postdate => Fehler: Artikel läuft <strong>vor</strong> dem Veröffentlichungsdatum ab.
 article_image => Artikelbild
 article_markup => Artikel-Formatierung
