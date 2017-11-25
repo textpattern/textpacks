@@ -78,6 +78,7 @@ advanced_options => Напредне опције
 article_expires_before_postdate => Грешка: Унос истиче <strong>пре</strong> датума објаве.
 article_image => Слика за овај унос
 article_markup => Markup уноса
+article_month =>
 article_posted => Унос објављен.
 article_saved => Унос сачуван.
 article_saved_draft => Унос сачуван као недовршен.

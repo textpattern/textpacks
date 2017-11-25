@@ -78,6 +78,7 @@ advanced_options => Meer opties
 article_expires_before_postdate => Het artikel is verlopen <strong>voor</strong> de publicatiedatum.
 article_image => Artikelafbeelding
 article_markup => Artikelvormgeving
+article_month =>
 article_posted => Artikel geplaatst.
 article_saved => Artikel opgeslagen.
 article_saved_draft => Artikel opgeslagen als klad.

@@ -78,6 +78,7 @@ advanced_options => Erweiterte Einstellungen
 article_expires_before_postdate => Fehler: Artikel läuft <strong>vor</strong> dem Veröffentlichungsdatum ab.
 article_image => Artikelbild
 article_markup => Artikel-Formatierung
+article_month =>
 article_posted => Artikel veröffentlicht.
 article_saved => Artikel gespeichert.
 article_saved_draft => Artikel als Entwurf gespeichert.

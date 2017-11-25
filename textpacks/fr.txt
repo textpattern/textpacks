@@ -78,6 +78,7 @@ advanced_options => Configuration avancée
 article_expires_before_postdate => Erreur : l’article expire <strong>avant</strong> sa date de publication.
 article_image => Image de l’article
 article_markup => Balises d’article
+article_month =>
 article_posted => Article publié.
 article_saved => Article enregistré et publié.
 article_saved_draft => Article enregistré comme brouillon.

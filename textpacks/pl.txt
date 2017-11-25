@@ -78,6 +78,7 @@ advanced_options => Opcje zaawansowane
 article_expires_before_postdate => Błąd: data ważności artykułu jest <strong>wcześniejsza</strong> niż data publikacji.
 article_image => Obrazek do artykułu
 article_markup => Formatowanie artykułu
+article_month =>
 article_posted => Artykuł opublikowany.
 article_saved => Artykuł zapisany.
 article_saved_draft => Artykuł zapisany jako wersja robocza.

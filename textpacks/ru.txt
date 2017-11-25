@@ -78,6 +78,7 @@ advanced_options => Продвинутые настройки
 article_expires_before_postdate => Ошибка: срок действия статьи истекает <strong>до</strong> даты публикации.
 article_image => Изображение к статье
 article_markup => Разметка статьи
+article_month =>
 article_posted => Статья опубликована.
 article_saved => Статья сохранена.
 article_saved_draft => Статья сохранена как набросок.

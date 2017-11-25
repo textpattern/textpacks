@@ -78,6 +78,7 @@ advanced_options => تشكيل متقدم
 article_expires_before_postdate => تنتهي صلاحية المقال قبل تاريخ نشره
 article_image => صورة مرفقة للمقال
 article_markup => علامات المقال
+article_month =>
 article_posted => مقال منشور
 article_saved => مقال مسجل
 article_saved_draft => مقال مسجل كمسودة

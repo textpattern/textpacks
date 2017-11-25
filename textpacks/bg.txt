@@ -78,6 +78,7 @@ advanced_options => Допълнителни опции
 article_expires_before_postdate => Грешка: Статията изтича <strong>преди</strong> датата на публикуване.
 article_image => Изображение за статията
 article_markup => Оформление на статията
+article_month =>
 article_posted => Статията е публикувана.
 article_saved => Статията е запазена.
 article_saved_draft => Статията е запазена, като чернова.

@@ -78,6 +78,7 @@ advanced_options => Avancerade alternativ
 article_expires_before_postdate => Fel: Artikeln går ut <strong>före</strong> publiceringsdatumet.
 article_image => Artikelbild
 article_markup => Artikelns markup
+article_month =>
 article_posted => Artikel publicerad
 article_saved => Artikel sparad
 article_saved_draft => Artikel sparad som utkast

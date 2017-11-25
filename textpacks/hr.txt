@@ -78,6 +78,7 @@ advanced_options => Napredne opcije
 article_expires_before_postdate => Greška: Članak ističe <strong>prije</strong> datuma objavljivanja.
 article_image => Slika unosa
 article_markup => Markup unosa
+article_month =>
 article_posted => Unos objavljen.
 article_saved => Unos spremljen.
 article_saved_draft => Unos spremljen kao draft.

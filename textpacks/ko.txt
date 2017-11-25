@@ -78,6 +78,7 @@ advanced_options => 상세 설정
 article_expires_before_postdate => 에러 : 글이 등록날짜 <strong>이전</strong>에 만료되도록 설정했습니다
 article_image => 글 이미지
 article_markup => 글 마크업
+article_month =>
 article_posted => 글을 등록했습니다.
 article_saved => 글을 저장했습니다.
 article_saved_draft => 글을 초안으로 저장했습니다

@@ -78,6 +78,7 @@ advanced_options => Προχωρημένες επιλογές
 article_expires_before_postdate => Σφάλμα: το άρθρο λήγει <strong>πριν από την</strong> ημερομηνία δημοσίευσης.
 article_image => Εικόνα άρθρου
 article_markup => Σημειοθέτηση άρθρου
+article_month =>
 article_posted => Το άρθρο δημοσιεύτηκε.
 article_saved => Το άρθρο αποθηκεύτηκε.
 article_saved_draft => Το άρθρο αποθηκεύτηκε ως προσχέδιο.

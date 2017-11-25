@@ -78,6 +78,7 @@ advanced_options => تنظیمات پیشرفته
 article_expires_before_postdate => خطا: نوشته <strong>پیش از</strong> تاریخ ارسال منقضی می‌شود.
 article_image => تصویر نوشته
 article_markup => در کد نوشته
+article_month =>
 article_posted => نوشته ارسال شد.
 article_saved => نوشته ذخیره شد.
 article_saved_draft => نوشته به عنوان پیش‌نویس ذخیره شد.

@@ -78,6 +78,7 @@ advanced_options => Tùy chọn nâng cao
 article_expires_before_postdate => Lỗi: Bài viết hết hạn <strong>trước</strong> ngày gửi.
 article_image => Ảnh kèm bài viết
 article_markup => Định dạng bài viết
+article_month =>
 article_posted => Bài viết được gửi lên.
 article_saved => Bài viết đã được lưu lại.
 article_saved_draft => Bài viết đã được lưu lại như một bản nháp.

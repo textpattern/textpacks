@@ -78,6 +78,7 @@ advanced_options => Opsi-opsi Lanjutan
 article_expires_before_postdate => Error: Kadaluarsa artikel <strong>sebelum</strong> masa pemuatan.
 article_image => Gambar artikel
 article_markup =>
+article_month =>
 article_posted => Artikel dimuat.
 article_saved => Artikel disimpan
 article_saved_draft => Artikel disimpan sebagai konsep.

@@ -78,6 +78,7 @@ advanced_options =>
 article_expires_before_postdate =>
 article_image =>
 article_markup =>
+article_month =>
 article_posted =>
 article_saved =>
 article_saved_draft =>

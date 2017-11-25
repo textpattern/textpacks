@@ -78,6 +78,7 @@ advanced_options => Papildomos parinktys
 article_expires_before_postdate => Klaida: Straipsnis negalios paskelbimu metu.
 article_image => Straipsnio Piešinys
 article_markup => Straipsnio Aprašas
+article_month =>
 article_posted => Straipsnis paskelbtas.
 article_saved => Straipsnis išsaugotas.
 article_saved_draft => Straipsnis išsaugotas kaip juodraštis.

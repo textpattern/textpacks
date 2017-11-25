@@ -78,6 +78,7 @@ advanced_options => Avancerede indstillinger
 article_expires_before_postdate => Fejl: Artiklen udløber <strong>før</strong> publiceringsdatoen.
 article_image => Artikel billede
 article_markup => Artikel markup
+article_month =>
 article_posted => Artikel publiceret.
 article_saved => Artikel gemt.
 article_saved_draft => Artikel gemt som kladde.

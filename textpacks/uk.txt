@@ -78,6 +78,7 @@ advanced_options => Розширені налаштування
 article_expires_before_postdate => Помилка: термін дії статті минає <strong>до </strong> дати публікації.
 article_image => Зображення до статті
 article_markup => Розмітка статті
+article_month =>
 article_posted => Стаття опублікована.
 article_saved => Стаття збережена.
 article_saved_draft => Стаття збережена як чернетка.

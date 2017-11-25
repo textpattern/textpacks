@@ -78,6 +78,7 @@ advanced_options => Fleiri Möguleikar
 article_expires_before_postdate =>
 article_image => Greinar mynd
 article_markup =>
+article_month =>
 article_posted => Grein skrifuð.
 article_saved => Grein geymd.
 article_saved_draft => Grein geymd sem uppkast.

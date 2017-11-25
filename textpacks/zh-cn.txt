@@ -78,6 +78,7 @@ advanced_options => 高级选项
 article_expires_before_postdate => 错误：文章在发布日期<strong>之前</strong>就已经过期。
 article_image => 文章附图
 article_markup => 文章标记语言
+article_month =>
 article_posted => 文章已发表。
 article_saved => 文章已保存。
 article_saved_draft => 文章已保存为草稿。

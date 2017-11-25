@@ -78,6 +78,7 @@ advanced_options => 進階選項
 article_expires_before_postdate =>
 article_image => 附加圖片
 article_markup => 文章模式
+article_month =>
 article_posted => 文章已發表
 article_saved => 文章已儲存
 article_saved_draft => 文章已存為草稿

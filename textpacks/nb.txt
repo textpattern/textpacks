@@ -78,6 +78,7 @@ advanced_options => Avanserte alternativer
 article_expires_before_postdate => Feil: Artikkel utløper <strong>før</strong> publiseringsdato.
 article_image => Artikkelbilde
 article_markup => Artikkelkoding
+article_month =>
 article_posted => Artikkel publisert.
 article_saved => Artikkel lagret.
 article_saved_draft => Artikkel lagret som utkast.

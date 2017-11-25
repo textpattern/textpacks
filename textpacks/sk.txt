@@ -78,6 +78,7 @@ advanced_options => Rozšírené nastavenia
 article_expires_before_postdate => Chyba: Platnosť článku vyprší <strong>pred</strong> dátumom vydania.
 article_image => Obrázok článku
 article_markup => Značky článku
+article_month =>
 article_posted => Článok vydaný.
 article_saved => Článok uložený.
 article_saved_draft => Článok bol uložený ako koncept.

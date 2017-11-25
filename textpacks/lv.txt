@@ -78,6 +78,7 @@ advanced_options => Paplašinātas iespējas
 article_expires_before_postdate => Kļūda: Raksta termiņš ir <strong>pirms</strong> ievietošanas laika.
 article_image => Ieraksta bilde
 article_markup => Raksta noformēšana
+article_month =>
 article_posted => Ieraksts publicēts.
 article_saved => Ieraksts saglabāts.
 article_saved_draft => Ieraksts saglabāts kā melnraksts.

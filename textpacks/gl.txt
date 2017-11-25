@@ -78,6 +78,7 @@ advanced_options => Opcións avanzadas
 article_expires_before_postdate => Erro: o artigo caduca <strong>antes</strong> da data de publicación.
 article_image => Imaxe do artigo
 article_markup => Marcado do artigo
+article_month =>
 article_posted => Artigo publicado
 article_saved => Artigo gardado
 article_saved_draft => Artigo gardado como borrador

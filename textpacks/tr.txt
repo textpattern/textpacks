@@ -78,6 +78,7 @@ advanced_options => Gelişmiş Seçenekler
 article_expires_before_postdate =>
 article_image => Makale görseli
 article_markup => Makale markup
+article_month =>
 article_posted => Makale yayınlandı.
 article_saved => Makale kaydedildi.
 article_saved_draft => Makale taslak olarak kaydedildi.

@@ -78,6 +78,7 @@ advanced_options => Opções avançadas
 article_expires_before_postdate => Erro: O artigo expira <strong>antes</strong> da data de colocação.
 article_image => Imagem do artigo
 article_markup => Formato do artigo
+article_month =>
 article_posted => Artigo publicado.
 article_saved => Artigo guardado.
 article_saved_draft => Artigo guardado como rascunho.

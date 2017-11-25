@@ -78,6 +78,7 @@ advanced_options => Napredne opcije
 article_expires_before_postdate =>
 article_image => Slika članka
 article_markup => Obilježavanje? članka
+article_month =>
 article_posted => Članak poslat
 article_saved => Članak snimljen
 article_saved_draft => Članak snimljen kao nacrt

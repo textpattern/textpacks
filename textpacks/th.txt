@@ -78,6 +78,7 @@ advanced_options => ตัวเลือกระดับสูง
 article_expires_before_postdate => บทความหมดอายุ<strong>ก่อน</strong>วันโพสต์
 article_image => ภาพประจำบทความ
 article_markup => แต่งเนื้อความโดย
+article_month =>
 article_posted => โพสต์บทความแล้ว
 article_saved => บันทึกบทความแล้ว
 article_saved_draft => บันทึกร่างบทความแล้ว

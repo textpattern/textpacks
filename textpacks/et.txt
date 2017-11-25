@@ -78,6 +78,7 @@ advanced_options => Keerukamad seaded
 article_expires_before_postdate =>
 article_image => Artikli pilt
 article_markup =>
+article_month =>
 article_posted => Artikkel postitatud.
 article_saved => Artikkel salvestatud.
 article_saved_draft => Artikkel salvestatud mustandina.

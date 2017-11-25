@@ -78,6 +78,7 @@ advanced_options => Optiuni avansate
 article_expires_before_postdate => Eroare: Articolul expira <strong>inainte</strong> de data postarii.
 article_image => Imagine articol
 article_markup => Markup articol
+article_month =>
 article_posted => Articol publicat.
 article_saved => Articol salvat.
 article_saved_draft => Articol salvat ca si schita.

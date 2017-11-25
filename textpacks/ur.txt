@@ -78,6 +78,7 @@ advanced_options => اعلیٰ اختیارات
 article_expires_before_postdate => نقص: مضمون کی مدت شائع کرنے کی تاریخ سے <strong>پہلے</strong> ختم نہیں ہو سکتی
 article_image => مضمون کا منسلک تصویر
 article_markup => مضمون وضع
+article_month =>
 article_posted => مضمون کو شائع کیا
 article_saved => مضمون محفوظ کیا
 article_saved_draft => مضمون کو نا ہموار کیا
