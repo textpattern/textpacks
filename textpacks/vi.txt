@@ -78,6 +78,7 @@ advanced_options => Tùy chọn nâng cao
 article_day =>
 article_exp_day =>
 article_exp_hour =>
+article_exp_minute =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Lỗi: Bài viết hết hạn <strong>trước</strong> ngày gửi.

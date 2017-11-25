@@ -78,6 +78,7 @@ advanced_options => Opções avançadas
 article_day =>
 article_exp_day =>
 article_exp_hour =>
+article_exp_minute =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Erro: O artigo expira <strong>antes</strong> da data de colocação.

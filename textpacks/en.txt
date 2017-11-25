@@ -78,6 +78,7 @@ advanced_options => Advanced options
 article_day => Article day
 article_exp_day => Article expire day
 article_exp_hour => Article expire hour
+article_exp_minute => Article expire minute
 article_exp_month => Article expire month
 article_exp_year => Article expire year
 article_expires_before_postdate => Error: article expires <strong>before</strong> publish date.

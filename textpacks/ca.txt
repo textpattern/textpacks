@@ -78,6 +78,7 @@ advanced_options => Opcions avançades
 article_day =>
 article_exp_day =>
 article_exp_hour =>
+article_exp_minute =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Error: l’article caduca <strong>abans</strong> de la data de publicació.
