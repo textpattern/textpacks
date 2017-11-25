@@ -76,6 +76,7 @@ you_have_been_registered => Rexistracheste como colaborador da bitácora
 add_new_article =>
 advanced_options => Opcións avanzadas
 article_day =>
+article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Erro: o artigo caduca <strong>antes</strong> da data de publicación.
 article_hour =>

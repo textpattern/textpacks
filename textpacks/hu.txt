@@ -76,6 +76,7 @@ you_have_been_registered => Felvettünk a honlap szerkesztői közé
 add_new_article =>
 advanced_options => Részletes beállítások
 article_day =>
+article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Hiba: A cikk lejárati dátuma <strong>előbb van</strong>, mint a beküldés dátuma.
 article_hour =>

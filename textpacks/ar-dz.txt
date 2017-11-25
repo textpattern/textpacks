@@ -76,6 +76,7 @@ you_have_been_registered => تم تسجيلكم كمساهم في الموقع
 add_new_article => إنشاء مقالة جديدة
 advanced_options => تشكيل متقدم
 article_day =>
+article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => تنتهي صلاحية المقال قبل تاريخ نشره
 article_hour =>

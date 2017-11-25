@@ -76,6 +76,7 @@ you_have_been_registered => Вы были зарегистрированы ка�
 add_new_article => Создать новую статью
 advanced_options => Продвинутые настройки
 article_day =>
+article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Ошибка: срок действия статьи истекает <strong>до</strong> даты публикации.
 article_hour =>

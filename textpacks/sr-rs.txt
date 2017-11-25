@@ -76,6 +76,7 @@ you_have_been_registered => Регистровани сте као уредни�
 add_new_article =>
 advanced_options => Напредне опције
 article_day =>
+article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Грешка: Унос истиче <strong>пре</strong> датума објаве.
 article_hour =>

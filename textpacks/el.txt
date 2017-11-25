@@ -76,6 +76,7 @@ you_have_been_registered => Έχετε εγγραφεί ως χρήστης στ
 add_new_article => Δημιουργήστε νέο άρθρο
 advanced_options => Προχωρημένες επιλογές
 article_day =>
+article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Σφάλμα: το άρθρο λήγει <strong>πριν από την</strong> ημερομηνία δημοσίευσης.
 article_hour =>

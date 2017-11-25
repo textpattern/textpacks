@@ -76,6 +76,7 @@ you_have_been_registered => Du har registerats som en medarbetare till hemsidan
 add_new_article => Skapa ny artikel
 advanced_options => Avancerade alternativ
 article_day =>
+article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Fel: Artikeln går ut <strong>före</strong> publiceringsdatumet.
 article_hour =>

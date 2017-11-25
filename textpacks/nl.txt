@@ -76,6 +76,7 @@ you_have_been_registered => Je bent geregistreerd als medewerker van de site
 add_new_article => Nieuw artikel toevoegen
 advanced_options => Meer opties
 article_day =>
+article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Het artikel is verlopen <strong>voor</strong> de publicatiedatum.
 article_hour =>

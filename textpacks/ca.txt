@@ -76,6 +76,7 @@ you_have_been_registered => Has estat registrat com a col·laborador del lloc
 add_new_article => Crea un nou article
 advanced_options => Opcions avançades
 article_day =>
+article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Error: l’article caduca <strong>abans</strong> de la data de publicació.
 article_hour =>
