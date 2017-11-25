@@ -77,6 +77,7 @@ add_new_article => Створити нову статтю
 advanced_options => Розширені налаштування
 article_day =>
 article_exp_day =>
+article_exp_hour =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Помилка: термін дії статті минає <strong>до </strong> дати публікації.
