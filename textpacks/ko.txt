@@ -80,6 +80,7 @@ article_exp_day =>
 article_exp_hour =>
 article_exp_minute =>
 article_exp_month =>
+article_exp_second =>
 article_exp_year =>
 article_expires_before_postdate => 에러 : 글이 등록날짜 <strong>이전</strong>에 만료되도록 설정했습니다
 article_hour =>
