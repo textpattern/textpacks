@@ -84,6 +84,7 @@ article_saved_draft => Artikkel lagret som utkast.
 article_saved_hidden => Artikkel lagret som skjult.
 article_saved_pending => Artikkel lagret som publiseringsklar.
 article_save_failed => Artikkelen ble ikke lagret på grunn av en feil. Vær så snill, prøv på nytt.
+article_year =>
 comment_settings => Kommentarinnstillinger
 concurrent_edit_by => Artikkel <strong>ikke</strong> frelst. {author} modifisert artikkelen mens du redigerte den. Hvis du er sikker, trykk på "Lagre"-knappen en gang til.
 date_settings => Dato og klokkeslett

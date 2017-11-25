@@ -84,6 +84,7 @@ article_saved_draft => Bài viết đã được lưu lại như một bản nh�
 article_saved_hidden => Bài viết đã được lưu ở trạng thái ẩn.
 article_saved_pending => Bài viết đã được lưu và đang đợi duyệt.
 article_save_failed => Bài viết chưa được lưu lại vì có lỗi phát sinh. Vui lòng thử lại.
+article_year =>
 comment_settings => Tùy chọn bình chú
 concurrent_edit_by => Bài viết <strong>chưa</strong> được lưu lại. {author} đã sửa bài viết trong khi bạn đang biên soạn nó. Nếu bạn chắc mình đang làm gì thì ấn nút ‘Lưu’ lần nữa.
 date_settings => Ngày tháng và thời gian

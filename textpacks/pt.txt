@@ -84,6 +84,7 @@ article_saved_draft => Artigo guardado como rascunho.
 article_saved_hidden => Artigo guardado como oculto.
 article_saved_pending => Artigo guardado como pendente.
 article_save_failed => O artigo não foi salvo devido a um erro. Tente de novo.
+article_year =>
 comment_settings => Opções de comentário
 concurrent_edit_by => O artigo <strong>não</strong> foi guardado. O {author} modifcou o artigo enquanto estava a editá-lo. Se tem a certeza, clique em ‘Guardar’ de novo.
 date_settings => Data e hora

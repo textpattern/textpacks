@@ -84,6 +84,7 @@ article_saved_draft =>
 article_saved_hidden =>
 article_saved_pending =>
 article_save_failed =>
+article_year =>
 comment_settings =>
 concurrent_edit_by =>
 date_settings =>

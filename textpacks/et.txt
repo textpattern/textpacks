@@ -84,6 +84,7 @@ article_saved_draft => Artikkel salvestatud mustandina.
 article_saved_hidden => Artikkel salvestatud peidetuna.
 article_saved_pending => Artikkel salvestatud ootelolevana.
 article_save_failed =>
+article_year =>
 comment_settings =>
 concurrent_edit_by =>
 date_settings =>

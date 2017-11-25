@@ -84,6 +84,7 @@ article_saved_draft => Artikel disimpan sebagai konsep.
 article_saved_hidden => Artikel disimpan sebagai tersembunyi.
 article_saved_pending => Artikel disimpan sebagai tertunda
 article_save_failed =>
+article_year =>
 comment_settings =>
 concurrent_edit_by => Artikel TIDAK disimpan. {author} telah memodifikasi artikel saat Anda mengeditnya. Jika Anda yakin, tekan tombol ‘simpan’ tombol sekali lagi.
 date_settings =>

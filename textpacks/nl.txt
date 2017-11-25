@@ -84,6 +84,7 @@ article_saved_draft => Artikel opgeslagen als klad.
 article_saved_hidden => Artikel opgeslagen als verborgen.
 article_saved_pending => Artikel opgeslagen als concept.
 article_save_failed => Door een fout is het artikel niet opgeslagen. Probeer het nogmaals.
+article_year =>
 comment_settings => Opties voor reageren
 concurrent_edit_by => Artikel NIET opgeslagen. {author} heeft dit artikel tussentijds aangepast. Druk nogmaals op de ‘opslaan’ knop indien u deze versie van het artikel toch wilt opslaan.
 date_settings => Datum en tijd

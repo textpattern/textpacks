@@ -84,6 +84,7 @@ article_saved_draft => Artikel sparad som utkast
 article_saved_hidden => Artikel sparad som gömd
 article_saved_pending => Artikel sparad för påseende
 article_save_failed => Artikeln sparades inte på grund av ett fel. Var god försök igen.
+article_year =>
 comment_settings => Tillval för kommentarer
 concurrent_edit_by => Artikeln sparades inte. {author} ändrade artikeln medan du redigerade den. Om du är säker, välj 'spara'-knappen än en gång.
 date_settings => Datum och tid

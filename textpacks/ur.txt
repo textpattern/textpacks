@@ -84,6 +84,7 @@ article_saved_draft => مضمون کو نا ہموار کیا
 article_saved_hidden => مضمون پوشیدہ کیا
 article_saved_pending => مضمون کو تذبذب حالیہ کیا
 article_save_failed =>
+article_year =>
 comment_settings =>
 concurrent_edit_by => مضمون محفوظ نہیں کیا، {author} مضمون کو ترمیم کر رہے تھے جب آپ بھی اس پر تدوین کر رہے تھے، اگر آپ ‏بلاشبہ‏ ہے تو اور ایک بار 'محفوظ کریں
 date_settings =>

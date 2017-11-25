@@ -84,6 +84,7 @@ article_saved_draft => Cikk piszkozatként mentve
 article_saved_hidden => Cikk rejtettként mentve
 article_saved_pending => Cikk függőben lévőként mentve
 article_save_failed =>
+article_year =>
 comment_settings =>
 concurrent_edit_by => A cikk NEM lett mentve. {author} módosította a cikket, mialatt szerkesztetted. Ha biztos vagy a dolgodban nyomd meg a »mentés« gombot még egyszer.
 date_settings =>

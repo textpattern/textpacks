@@ -84,6 +84,7 @@ article_saved_draft => Artigo gardado como borrador
 article_saved_hidden => Artigo gardado como oculto
 article_saved_pending => Artigo gardado como pendente
 article_save_failed => Debido a un erro o artigo non se gardou. Por favor, téntao de novo.
+article_year =>
 comment_settings => Opcións de comentario
 concurrent_edit_by => Artigo <strong>NON</strong> gardado. {author} modificou este artigo mentres estabas ao editar. Se estás seguro, presiona de novo o botón ‘Gardar‘.
 date_settings => Data e hora

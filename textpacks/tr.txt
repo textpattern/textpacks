@@ -84,6 +84,7 @@ article_saved_draft => Makale taslak olarak kaydedildi.
 article_saved_hidden => Makale gizli olarak kaydedildi.
 article_saved_pending => Makale daha sonra yayınlanmak üzere kaydedildi.
 article_save_failed =>
+article_year =>
 comment_settings =>
 concurrent_edit_by =>
 date_settings =>

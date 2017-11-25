@@ -84,6 +84,7 @@ article_saved_draft => Articol salvat ca si schita.
 article_saved_hidden => Articol salvat ca ascuns.
 article_saved_pending => Articol salvat ca in asteptare.
 article_save_failed => Articolul nu a fost salvat datorita unei erori. Te rog mai incearca o data.
+article_year =>
 comment_settings => Optiuni comentariu
 concurrent_edit_by => Articolul <strong>nu</strong> a fost salvat. {autor} a modificat articolul in timpul redactarii. Daca vrei sa pierzi modificarile facute de {autor}, salveaza articol inca o data.
 date_settings => Data si ora

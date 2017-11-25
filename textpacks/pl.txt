@@ -84,6 +84,7 @@ article_saved_draft => Artykuł zapisany jako wersja robocza.
 article_saved_hidden => Artykuł zapisany jako ukryty.
 article_saved_pending => Artykuł zapisany jako oczekujący.
 article_save_failed => Nie udało się zapisać artykułu!
+article_year =>
 comment_settings => Opcje komentarza
 concurrent_edit_by => Ten artykuł był jednocześnie edytowany przez {author}.
 date_settings => Ustawienia daty

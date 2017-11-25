@@ -84,6 +84,7 @@ article_saved_draft => Article enregistré comme brouillon.
 article_saved_hidden => Article enregistré et masqué.
 article_saved_pending => Article enregistré et en attente de validation.
 article_save_failed => Cet article n’a pas été enregistré en raison d’une erreur. Veuillez essayer de nouveau.
+article_year =>
 comment_settings => Options de commentaires
 concurrent_edit_by => Article <strong>non</strong> sauvegardé. Cet article a été modifié au même moment par {author}. Si vous souhaitez confirmer vos modifications, cliquez sur le bouton “Sauver” de nouveau.
 date_settings => Options de dates

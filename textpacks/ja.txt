@@ -84,6 +84,7 @@ article_saved_draft => 記事をドラフトとして保存しました。
 article_saved_hidden => 記事を非表示で保存しました。
 article_saved_pending => 記事を保留で保存しました。
 article_save_failed => エラーが発生したため記事を保存できませんでした。再試行してください。
+article_year =>
 comment_settings => コメントオプション
 concurrent_edit_by => 記事は保存できませんでした。 {author} が、編集中に記事を変更しました。 上書きを容認するのであれば、再度「保存」ボタンを押してください。
 date_settings => 日時

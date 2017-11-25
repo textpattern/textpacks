@@ -84,6 +84,7 @@ article_saved_draft => Unos spremljen kao draft.
 article_saved_hidden => Unos spremljen kao hidden.
 article_saved_pending => Unos spremljen kao pending.
 article_save_failed =>
+article_year =>
 comment_settings => Postavke komentara
 concurrent_edit_by =>
 date_settings => Datum i vrijeme

@@ -84,6 +84,7 @@ article_saved_draft => Artikel als Entwurf gespeichert.
 article_saved_hidden => Artikel als „versteckt“ gespeichert.
 article_saved_pending => Artikel als „anstehend“ gespeichert.
 article_save_failed => Der Artikel konnte wegen eines Fehlers nicht gespeichert werden. Bitte nochmals versuchen.
+article_year =>
 comment_settings => Kommentar
 concurrent_edit_by => Dieser Artikel wurde gleichzeitig von {author} bearbeitet.
 date_settings => Datum und Zeit

@@ -84,6 +84,7 @@ article_saved_draft => Grein geymd sem uppkast.
 article_saved_hidden => Grein geymd sem falin.
 article_saved_pending => Grein geymd í biðstöðu.
 article_save_failed =>
+article_year =>
 comment_settings =>
 concurrent_edit_by =>
 date_settings =>

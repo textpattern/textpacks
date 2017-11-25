@@ -84,6 +84,7 @@ article_saved_draft => Artikel gemt som kladde.
 article_saved_hidden => Artikel gemt som skjult.
 article_saved_pending => Artikel gemt som afventende.
 article_save_failed =>
+article_year =>
 comment_settings =>
 concurrent_edit_by => Artiklen er <strong>ikke</strong> gemt. {author} redigerede artiklen samtidig med dig. Hvis du vil overskrive med dine ændringer, så klik „Gem“ igen.
 date_settings =>
