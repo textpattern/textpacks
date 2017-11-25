@@ -76,6 +76,7 @@ you_have_been_registered => Prihlásený ako užívateľ na stránkach
 add_new_article => Vytvoriť nový článok
 advanced_options => Rozšírené nastavenia
 article_day =>
+article_expire_year =>
 article_expires_before_postdate => Chyba: Platnosť článku vyprší <strong>pred</strong> dátumom vydania.
 article_hour =>
 article_image => Obrázok článku

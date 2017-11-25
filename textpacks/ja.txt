@@ -76,6 +76,7 @@ you_have_been_registered => あなたは以下のサイトのユーザに登録�
 add_new_article =>
 advanced_options => 詳細設定
 article_day =>
+article_expire_year =>
 article_expires_before_postdate => エラー: 該当記事が投稿日時 <strong>以前に失効</strong> します。
 article_hour =>
 article_image => 記事の画像

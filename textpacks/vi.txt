@@ -76,6 +76,7 @@ you_have_been_registered => Từ bây giờ bạn có thể đóng góp cho tran
 add_new_article =>
 advanced_options => Tùy chọn nâng cao
 article_day =>
+article_expire_year =>
 article_expires_before_postdate => Lỗi: Bài viết hết hạn <strong>trước</strong> ngày gửi.
 article_hour =>
 article_image => Ảnh kèm bài viết

@@ -76,6 +76,7 @@ you_have_been_registered => آپ کو اس ویب سائٹ پر ایک معاو�
 add_new_article =>
 advanced_options => اعلیٰ اختیارات
 article_day =>
+article_expire_year =>
 article_expires_before_postdate => نقص: مضمون کی مدت شائع کرنے کی تاریخ سے <strong>پہلے</strong> ختم نہیں ہو سکتی
 article_hour =>
 article_image => مضمون کا منسلک تصویر

@@ -76,6 +76,7 @@ you_have_been_registered => Sa oled registreerunud kaastöötajana
 add_new_article =>
 advanced_options => Keerukamad seaded
 article_day =>
+article_expire_year =>
 article_expires_before_postdate =>
 article_hour =>
 article_image => Artikli pilt

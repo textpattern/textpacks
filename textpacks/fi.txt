@@ -76,6 +76,7 @@ you_have_been_registered => Sinut on rekisteröity sisällöntuottajaksi sivusto
 add_new_article => Luo uusi artikkeli
 advanced_options => Lisävalinnat
 article_day =>
+article_expire_year =>
 article_expires_before_postdate => Virhe: artikkeli vanhentuu <strong>ennen</strong> julkaisupäivää.
 article_hour =>
 article_image => Artikkelin kuva
