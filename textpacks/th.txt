@@ -91,6 +91,7 @@ article_saved_draft => บันทึกร่างบทความแล้
 article_saved_hidden => บันทึกและซ่อนบทความแล้ว
 article_saved_pending => บันทึกบทความ แบบรอคอยการโพสต์แล้ว
 article_save_failed =>
+article_second =>
 article_year =>
 comment_settings =>
 concurrent_edit_by => ไม่ได้บันทึกบทความ {author} แก้ไขบทความนี้ในระหว่างที่คุณกำลังแก้ไข ถ้าคุณแน่ใจ กดปุ่ม ‘บันทึก’

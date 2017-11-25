@@ -91,6 +91,7 @@ article_saved_draft => Ieraksts saglabāts kā melnraksts.
 article_saved_hidden => Ieraksts saglabāts kā slēpts.
 article_saved_pending => Ieraksts saglabāts kā atlikts.
 article_save_failed => Rakstu neizdevās saglabāt, jo atgadījās kļūda. Lūdzu, mēģiniet vēlreiz.
+article_second =>
 article_year =>
 comment_settings => Komentāru opcijas
 concurrent_edit_by => Raksts NAV saglabāts. {author} izmainīja rakstu, kamēr tu to laboji. Ja esi drošs, spied vēlreiz pogu „Saglabāt“.

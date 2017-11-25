@@ -91,6 +91,7 @@ article_saved_draft => Статията е запазена, като черно
 article_saved_hidden => Статията е запазена, като скрита.
 article_saved_pending => Статията е запазена, като отложена.
 article_save_failed => Статията не беше запазена поради грешка. Опитайте отново.
+article_second =>
 article_year =>
 comment_settings => Коментари
 concurrent_edit_by => Статията <strong>не е</strong> запазена. {author} промени статията докато я редактирахте. Ако сте сигурни, че искате да запазите, щракнете ’Запази’ отново.

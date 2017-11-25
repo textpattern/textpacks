@@ -91,6 +91,7 @@ article_saved_draft => Статья сохранена как набросок.
 article_saved_hidden => Статья сохранена как скрытая.
 article_saved_pending => Статья сохранена как отложенная.
 article_save_failed => Ошибка! Статья не сохранена, попробуйте еще раз.
+article_second =>
 article_year =>
 comment_settings => Настройки комментариев
 concurrent_edit_by => <strong>Статья не сохранена</strong>, т.к. была открыта одновременно с <strong>{author}</strong>.

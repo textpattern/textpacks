@@ -91,6 +91,7 @@ article_saved_draft => Стаття збережена як чернетка.
 article_saved_hidden => Стаття збережена як прихована.
 article_saved_pending => Стаття збережена як відкладена.
 article_save_failed => Стаття не була збережена через помилку. Будь ласка, спробуйте ще раз.
+article_second =>
 article_year =>
 comment_settings => Налаштування коментарів
 concurrent_edit_by => <strong>Стаття не збережена</strong>, тому була відкрита одночасно з <strong>{author}</strong>.

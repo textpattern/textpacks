@@ -91,6 +91,7 @@ article_saved_draft => Article desat com esborrany
 article_saved_hidden => Article desat com ocult
 article_saved_pending => Article desat com pendent
 article_save_failed => L’article no s’ha guardat per un error. Sisplau, torna-ho a provar.
+article_second =>
 article_year =>
 comment_settings => Opcions de comentari
 concurrent_edit_by => L’article NO s’ha desat. {author} ha modificat l’article mentre l’editaves. Si estàs segur, torna a prémer el botó “desa”.

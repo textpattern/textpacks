@@ -91,6 +91,7 @@ article_saved_draft => Articolo salvato come bozza.
 article_saved_hidden => Articolo salvato come nascosto.
 article_saved_pending => Articolo salvato come in sospeso.
 article_save_failed => L’articolo non è stato salvato a causa di un errore. Si prega di riprovare.
+article_second =>
 article_year =>
 comment_settings => Opzioni Commento
 concurrent_edit_by => Questo articolo è stato modificato in contemporanea da {author}.

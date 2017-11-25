@@ -91,6 +91,7 @@ article_saved_draft => המאמר נשמר כטיוטה.
 article_saved_hidden => המאמר נשמר כנסתר.
 article_saved_pending => המאמר נשמר כממתין.
 article_save_failed => המאמר לא נשמר בגלל שגיאה. אנא נסה שוב.
+article_second =>
 article_year =>
 comment_settings => אפשרויות תגובה
 concurrent_edit_by => המאמר לא נשמר. {author} עידכן אותו בעת שערכת אותו. אם אתה בטוח, לחץ על כפתור ’שמור‘ פעם נוספת.

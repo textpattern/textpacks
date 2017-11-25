@@ -91,6 +91,7 @@ article_saved_draft => Straipsnis išsaugotas kaip juodraštis.
 article_saved_hidden => Straipnis išsaugotas kaip nerodomas.
 article_saved_pending => Straipsnis išsaugotas kaip laukiantis patvirtinimo.
 article_save_failed => Straipsnis nebuvo išsaugotas dėl klaidos. Bandykite dar kartą.
+article_second =>
 article_year =>
 comment_settings => Komentarų parinktys
 concurrent_edit_by => Straipsnis neišsaugotas. {author} pakeitė straipsnį tuo metu, kai jūs redagavote jį. Jei esate tikras, tuomet spauskite mygtuką ‘Išsaugoti’.

@@ -91,6 +91,7 @@ article_saved_draft => Článek uložen jako návrh.
 article_saved_hidden => Článek uložen jako skrytý.
 article_saved_pending => Článek uložen jako čekající.
 article_save_failed => Došlo k chybě, článek nebyl uložen. Zkus znovu.
+article_second =>
 article_year =>
 comment_settings => Komentáře
 concurrent_edit_by => Článek <strong>nebyl</strong> uložen. {author} upravoval článek ve chvíli, kdy jsi jej editoval. Jsi-li si jistý, znovu článek ulož pomocí tlačítka ‘Uložit’.

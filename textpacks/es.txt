@@ -91,6 +91,7 @@ article_saved_draft => Artículo guardado como borrador.
 article_saved_hidden => Artículo guardado como oculto.
 article_saved_pending => Artículo guardado como pendiente.
 article_save_failed => Debido a un error el artículo no se ha guardado. Por favor, inténtalo de nuevo.
+article_second =>
 article_year =>
 comment_settings => Opciones de comentario
 concurrent_edit_by => Artículo <strong>no</strong> guardado. {author} ha modificado este artículo mientras estabas editándolo. Si estás seguro, presiona de nuevo el botón ‘Guardar’.

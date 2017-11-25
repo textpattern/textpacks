@@ -91,6 +91,7 @@ article_saved_draft => Članak snimljen kao nacrt
 article_saved_hidden => Članak snimljen kao skriveni
 article_saved_pending => Članak snimljen kao u čekanju
 article_save_failed =>
+article_second =>
 article_year =>
 comment_settings =>
 concurrent_edit_by =>

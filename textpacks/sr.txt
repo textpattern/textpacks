@@ -91,6 +91,7 @@ article_saved_draft => Unos sačuvan kao nedovršen.
 article_saved_hidden => Unos sačuvan kao skriven.
 article_saved_pending => Unos sačuvan ali čeka odobrenje.
 article_save_failed => Članak nije sačuvan jer je došlo do greške. Pokušati ponovo.
+article_second =>
 article_year =>
 comment_settings => Opcije komentara
 concurrent_edit_by => Unos <strong>nije</strong> sačuvan. {author} je izmenio ovaj unos dok ste ga Vi menjali. Ako ipak želite da ga sačuvate, kliknite na dugme ‘Sačuvaj’ još jednom.

@@ -91,6 +91,7 @@ article_saved_draft => Článok bol uložený ako koncept.
 article_saved_hidden => Článok bol uložený ako skrytý.
 article_saved_pending => Článok bol uložený ako čakajúci.
 article_save_failed => Došlo k chybe, článok nebol uložený. Skús znova.
+article_second =>
 article_year =>
 comment_settings => Komentáre
 concurrent_edit_by => Článok <strong>nebol</strong> uložený. {author} upravoval článok vo chvíli, keď ste ho editoval. Ak ste si istí, znovu uložte článok pomocou tlačidla ‘Uložit’.

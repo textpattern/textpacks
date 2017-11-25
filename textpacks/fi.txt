@@ -91,6 +91,7 @@ article_saved_draft => Artikkeli tallennettu luonnoksena.
 article_saved_hidden => Artikkeli tallennettu piilotettuna.
 article_saved_pending => Artikkeli tallennettu odottamaan hyväksyntää.
 article_save_failed => Artikkelia ei tallennettu virheen seurauksena. Ole hyvä ja yritä uudelleen.
+article_second =>
 article_year =>
 comment_settings => Kommentti-asetukset
 concurrent_edit_by => {author} on muokannut tätä artikkelia samanaikaisesti.

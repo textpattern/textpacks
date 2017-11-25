@@ -91,6 +91,7 @@ article_saved_draft => مقال مسجل كمسودة
 article_saved_hidden => مقال مسجل ومستتر
 article_saved_pending => مقال مسجل ينتظر الإثبات
 article_save_failed => فشل تسجيل المقال
+article_second =>
 article_year =>
 comment_settings => خيارات التعليق
 concurrent_edit_by => المقال لم يتم حفظه. {author} عدل المقال بينما كنت تغيره. إذا كنت متأكدا، اضغط على "حفظ" مرة ثانية

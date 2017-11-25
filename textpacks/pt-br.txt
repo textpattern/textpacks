@@ -91,6 +91,7 @@ article_saved_draft => Artigo salvo como rascunho.
 article_saved_hidden => Artigo salvo como oculto.
 article_saved_pending => Artigo salvo como pendente.
 article_save_failed => O artigo não foi salvo devido a um erro. Por favor, tente novamente.
+article_second =>
 article_year =>
 comment_settings => Opções de comentário
 concurrent_edit_by => Este artigo foi editado em concorrência por {author}.

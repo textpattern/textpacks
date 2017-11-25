@@ -91,6 +91,7 @@ article_saved_draft => 文章已存為草稿
 article_saved_hidden => 文章已存為非公開狀態
 article_saved_pending => 文章已存為待審狀態
 article_save_failed =>
+article_second =>
 article_year =>
 comment_settings =>
 concurrent_edit_by =>
