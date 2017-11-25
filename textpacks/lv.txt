@@ -76,6 +76,7 @@ you_have_been_registered => Jūs tikāt reģistrēts kā līdzveidotajs lapai
 add_new_article => Izveidot jaunu rakstu
 advanced_options => Paplašinātas iespējas
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Kļūda: Raksta termiņš ir <strong>pirms</strong> ievietošanas laika.

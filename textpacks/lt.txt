@@ -76,6 +76,7 @@ you_have_been_registered => Jūs buvote užregistruotas kaip svetainės dalyvis
 add_new_article =>
 advanced_options => Papildomos parinktys
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Klaida: Straipsnis negalios paskelbimu metu.

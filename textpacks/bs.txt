@@ -76,6 +76,7 @@ you_have_been_registered => Registrirani ste kao saradnik na sajtu
 add_new_article =>
 advanced_options => Napredne opcije
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate =>

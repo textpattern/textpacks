@@ -76,6 +76,7 @@ you_have_been_registered => คุณถูกลงทะเบียนเร�
 add_new_article =>
 advanced_options => ตัวเลือกระดับสูง
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => บทความหมดอายุ<strong>ก่อน</strong>วันโพสต์

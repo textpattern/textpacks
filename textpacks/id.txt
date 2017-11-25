@@ -76,6 +76,7 @@ you_have_been_registered => Anda telah terdaftar sebagai kontributor di situs in
 add_new_article =>
 advanced_options => Opsi-opsi Lanjutan
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Error: Kadaluarsa artikel <strong>sebelum</strong> masa pemuatan.

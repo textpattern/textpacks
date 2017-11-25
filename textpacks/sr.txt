@@ -76,6 +76,7 @@ you_have_been_registered => Registrovani ste kao urednik ovog sajta
 add_new_article => Novi članak
 advanced_options => Napredne opcije
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Greška: Unos ističe <strong>pre</strong> datuma objave.

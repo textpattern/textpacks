@@ -76,6 +76,7 @@ you_have_been_registered => شما به عنوان مشارکت‌کننده د�
 add_new_article =>
 advanced_options => تنظیمات پیشرفته
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => خطا: نوشته <strong>پیش از</strong> تاریخ ارسال منقضی می‌شود.

@@ -76,6 +76,7 @@ you_have_been_registered => 您已注册成为本站成员
 add_new_article => 撰写新文章
 advanced_options => 高级选项
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => 错误：文章在发布日期<strong>之前</strong>就已经过期。

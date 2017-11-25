@@ -76,6 +76,7 @@ you_have_been_registered => Du har blitt registrert som deltager til siden
 add_new_article => Legg til ny artikkel
 advanced_options => Avanserte alternativer
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Feil: Artikkel utløper <strong>før</strong> publiseringsdato.

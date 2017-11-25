@@ -76,6 +76,7 @@ you_have_been_registered => Ai fost inregistrat ca si contribuitor la site
 add_new_article =>
 advanced_options => Optiuni avansate
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate => Eroare: Articolul expira <strong>inainte</strong> de data postarii.

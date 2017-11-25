@@ -76,6 +76,7 @@ you_have_been_registered =>
 add_new_article =>
 advanced_options =>
 article_day =>
+article_exp_day =>
 article_exp_month =>
 article_exp_year =>
 article_expires_before_postdate =>
