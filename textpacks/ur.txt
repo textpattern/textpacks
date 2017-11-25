@@ -80,6 +80,7 @@ article_expires_before_postdate => نقص: مضمون کی مدت شائع کر�
 article_hour =>
 article_image => مضمون کا منسلک تصویر
 article_markup => مضمون وضع
+article_minute =>
 article_month =>
 article_posted => مضمون کو شائع کیا
 article_saved => مضمون محفوظ کیا

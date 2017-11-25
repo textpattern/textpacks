@@ -80,6 +80,7 @@ article_expires_before_postdate => Greška: Članak ističe <strong>prije</stron
 article_hour =>
 article_image => Slika unosa
 article_markup => Markup unosa
+article_minute =>
 article_month =>
 article_posted => Unos objavljen.
 article_saved => Unos spremljen.

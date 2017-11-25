@@ -80,6 +80,7 @@ article_expires_before_postdate => Fel: Artikeln går ut <strong>före</strong> 
 article_hour =>
 article_image => Artikelbild
 article_markup => Artikelns markup
+article_minute =>
 article_month =>
 article_posted => Artikel publicerad
 article_saved => Artikel sparad

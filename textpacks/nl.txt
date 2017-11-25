@@ -80,6 +80,7 @@ article_expires_before_postdate => Het artikel is verlopen <strong>voor</strong>
 article_hour =>
 article_image => Artikelafbeelding
 article_markup => Artikelvormgeving
+article_minute =>
 article_month =>
 article_posted => Artikel geplaatst.
 article_saved => Artikel opgeslagen.

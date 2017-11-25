@@ -80,6 +80,7 @@ article_expires_before_postdate =>
 article_hour =>
 article_image => Makale görseli
 article_markup => Makale markup
+article_minute =>
 article_month =>
 article_posted => Makale yayınlandı.
 article_saved => Makale kaydedildi.

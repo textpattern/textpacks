@@ -80,6 +80,7 @@ article_expires_before_postdate => Fejl: Artiklen udløber <strong>før</strong>
 article_hour =>
 article_image => Artikel billede
 article_markup => Artikel markup
+article_minute =>
 article_month =>
 article_posted => Artikel publiceret.
 article_saved => Artikel gemt.

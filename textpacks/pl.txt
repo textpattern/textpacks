@@ -80,6 +80,7 @@ article_expires_before_postdate => Błąd: data ważności artykułu jest <stron
 article_hour =>
 article_image => Obrazek do artykułu
 article_markup => Formatowanie artykułu
+article_minute =>
 article_month =>
 article_posted => Artykuł opublikowany.
 article_saved => Artykuł zapisany.

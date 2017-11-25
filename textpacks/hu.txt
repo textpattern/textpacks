@@ -80,6 +80,7 @@ article_expires_before_postdate => Hiba: A cikk lejárati dátuma <strong>előbb
 article_hour =>
 article_image => Cikk kép
 article_markup => Cikk jelölő
+article_minute =>
 article_month =>
 article_posted => Cikk beküldve
 article_saved => Cikk mentve

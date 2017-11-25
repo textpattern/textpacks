@@ -80,6 +80,7 @@ article_expires_before_postdate => La data di scadenza è <strong>anteriore</str
 article_hour =>
 article_image => Immagine articolo
 article_markup => Codice articolo
+article_minute =>
 article_month =>
 article_posted => Articolo pubblicato.
 article_saved => Articolo salvato.

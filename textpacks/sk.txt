@@ -80,6 +80,7 @@ article_expires_before_postdate => Chyba: Platnosť článku vyprší <strong>pr
 article_hour =>
 article_image => Obrázok článku
 article_markup => Značky článku
+article_minute =>
 article_month =>
 article_posted => Článok vydaný.
 article_saved => Článok uložený.

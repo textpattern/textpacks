@@ -80,6 +80,7 @@ article_expires_before_postdate => Kļūda: Raksta termiņš ir <strong>pirms</s
 article_hour =>
 article_image => Ieraksta bilde
 article_markup => Raksta noformēšana
+article_minute =>
 article_month =>
 article_posted => Ieraksts publicēts.
 article_saved => Ieraksts saglabāts.

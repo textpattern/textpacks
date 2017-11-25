@@ -80,6 +80,7 @@ article_expires_before_postdate => Eroare: Articolul expira <strong>inainte</str
 article_hour =>
 article_image => Imagine articol
 article_markup => Markup articol
+article_minute =>
 article_month =>
 article_posted => Articol publicat.
 article_saved => Articol salvat.

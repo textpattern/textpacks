@@ -80,6 +80,7 @@ article_expires_before_postdate =>
 article_hour =>
 article_image =>
 article_markup =>
+article_minute =>
 article_month =>
 article_posted =>
 article_saved =>

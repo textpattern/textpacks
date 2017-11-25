@@ -80,6 +80,7 @@ article_expires_before_postdate => Virhe: artikkeli vanhentuu <strong>ennen</str
 article_hour =>
 article_image => Artikkelin kuva
 article_markup => Artikkelin merkintäkieli
+article_minute =>
 article_month =>
 article_posted => Artikkeli julkaistu.
 article_saved => Artikkeli tallennettu.

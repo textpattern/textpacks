@@ -80,6 +80,7 @@ article_expires_before_postdate =>
 article_hour =>
 article_image => Greinar mynd
 article_markup =>
+article_minute =>
 article_month =>
 article_posted => Grein skrifuð.
 article_saved => Grein geymd.

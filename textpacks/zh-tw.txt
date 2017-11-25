@@ -80,6 +80,7 @@ article_expires_before_postdate =>
 article_hour =>
 article_image => 附加圖片
 article_markup => 文章模式
+article_minute =>
 article_month =>
 article_posted => 文章已發表
 article_saved => 文章已儲存

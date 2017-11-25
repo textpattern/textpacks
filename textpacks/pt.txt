@@ -80,6 +80,7 @@ article_expires_before_postdate => Erro: O artigo expira <strong>antes</strong> 
 article_hour =>
 article_image => Imagem do artigo
 article_markup => Formato do artigo
+article_minute =>
 article_month =>
 article_posted => Artigo publicado.
 article_saved => Artigo guardado.

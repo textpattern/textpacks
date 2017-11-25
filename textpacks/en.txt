@@ -80,6 +80,7 @@ article_expires_before_postdate => Error: article expires <strong>before</strong
 article_hour => Article hour
 article_image => Article image
 article_markup => Body markup
+article_minute => Article minute
 article_month => Article month
 article_posted => Article posted.
 article_saved => Article saved.

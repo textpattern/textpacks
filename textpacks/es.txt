@@ -80,6 +80,7 @@ article_expires_before_postdate => Error: el artículo caduca <strong>antes</str
 article_hour =>
 article_image => Imagen del artículo
 article_markup => Marcado del artículo
+article_minute =>
 article_month =>
 article_posted => Artículo publicado.
 article_saved => Artículo guardado.

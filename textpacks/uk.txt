@@ -80,6 +80,7 @@ article_expires_before_postdate => Помилка: термін дії стат�
 article_hour =>
 article_image => Зображення до статті
 article_markup => Розмітка статті
+article_minute =>
 article_month =>
 article_posted => Стаття опублікована.
 article_saved => Стаття збережена.

@@ -80,6 +80,7 @@ article_expires_before_postdate => שגיאה: פג תוקפו של המאמר <
 article_hour =>
 article_image => תמונת המאמר
 article_markup => פורמט המאמר
+article_minute =>
 article_month =>
 article_posted => המאמר נשלח.
 article_saved => המאמר נשמר.

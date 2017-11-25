@@ -80,6 +80,7 @@ article_expires_before_postdate => خطا: نوشته <strong>پیش از</stron
 article_hour =>
 article_image => تصویر نوشته
 article_markup => در کد نوشته
+article_minute =>
 article_month =>
 article_posted => نوشته ارسال شد.
 article_saved => نوشته ذخیره شد.

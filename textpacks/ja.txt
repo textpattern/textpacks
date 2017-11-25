@@ -80,6 +80,7 @@ article_expires_before_postdate => エラー: 該当記事が投稿日時 <stron
 article_hour =>
 article_image => 記事の画像
 article_markup => 記事の記法
+article_minute =>
 article_month =>
 article_posted => 記事を投稿しました。
 article_saved => 記事を保存しました。

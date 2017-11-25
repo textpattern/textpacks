@@ -80,6 +80,7 @@ article_expires_before_postdate => Greška: Unos ističe <strong>pre</strong> da
 article_hour =>
 article_image => Slika za ovaj unos
 article_markup => Markup unosa
+article_minute =>
 article_month =>
 article_posted => Unos objavljen.
 article_saved => Unos sačuvan.

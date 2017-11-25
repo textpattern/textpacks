@@ -80,6 +80,7 @@ article_expires_before_postdate => Ошибка: срок действия ст�
 article_hour =>
 article_image => Изображение к статье
 article_markup => Разметка статьи
+article_minute =>
 article_month =>
 article_posted => Статья опубликована.
 article_saved => Статья сохранена.

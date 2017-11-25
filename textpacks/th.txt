@@ -80,6 +80,7 @@ article_expires_before_postdate => บทความหมดอายุ<stron
 article_hour =>
 article_image => ภาพประจำบทความ
 article_markup => แต่งเนื้อความโดย
+article_minute =>
 article_month =>
 article_posted => โพสต์บทความแล้ว
 article_saved => บันทึกบทความแล้ว

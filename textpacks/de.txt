@@ -80,6 +80,7 @@ article_expires_before_postdate => Fehler: Artikel läuft <strong>vor</strong> d
 article_hour =>
 article_image => Artikelbild
 article_markup => Artikel-Formatierung
+article_minute =>
 article_month =>
 article_posted => Artikel veröffentlicht.
 article_saved => Artikel gespeichert.

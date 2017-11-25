@@ -80,6 +80,7 @@ article_expires_before_postdate => Грешка: Унос истиче <strong>�
 article_hour =>
 article_image => Слика за овај унос
 article_markup => Markup уноса
+article_minute =>
 article_month =>
 article_posted => Унос објављен.
 article_saved => Унос сачуван.

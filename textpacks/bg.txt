@@ -80,6 +80,7 @@ article_expires_before_postdate => Грешка: Статията изтича <
 article_hour =>
 article_image => Изображение за статията
 article_markup => Оформление на статията
+article_minute =>
 article_month =>
 article_posted => Статията е публикувана.
 article_saved => Статията е запазена.

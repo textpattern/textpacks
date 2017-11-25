@@ -80,6 +80,7 @@ article_expires_before_postdate => Lỗi: Bài viết hết hạn <strong>trư�
 article_hour =>
 article_image => Ảnh kèm bài viết
 article_markup => Định dạng bài viết
+article_minute =>
 article_month =>
 article_posted => Bài viết được gửi lên.
 article_saved => Bài viết đã được lưu lại.

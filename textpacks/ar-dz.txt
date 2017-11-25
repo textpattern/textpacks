@@ -80,6 +80,7 @@ article_expires_before_postdate => تنتهي صلاحية المقال قبل �
 article_hour =>
 article_image => صورة مرفقة للمقال
 article_markup => علامات المقال
+article_minute =>
 article_month =>
 article_posted => مقال منشور
 article_saved => مقال مسجل

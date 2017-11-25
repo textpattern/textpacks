@@ -80,6 +80,7 @@ article_expires_before_postdate =>
 article_hour =>
 article_image => Slika članka
 article_markup => Obilježavanje? članka
+article_minute =>
 article_month =>
 article_posted => Članak poslat
 article_saved => Članak snimljen
