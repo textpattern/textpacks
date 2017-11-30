@@ -10,7 +10,7 @@ Every translated string makes Textpattern better! **Translation the project is a
 
 ## Developer tools
 
-The [tools](https://github.com/textpattern/textpacks/blob/master/tools/) directory contains additional useful tools for Textpattern developers (e.g. tools to find any current language strings in the system that have not had a Textpack language string generated). Please see the [README]((https://github.com/textpattern/textpacks/blob/master/tools/README.md) for more information.
+The [tools](https://github.com/textpattern/textpacks/blob/master/tools/) directory contains additional useful tools for Textpattern developers (e.g. tools to find any current language strings in the system that have not had a Textpack language string generated). Please see the [README](https://github.com/textpattern/textpacks/blob/master/tools/README.md) for more information.
 
 ## License
 
