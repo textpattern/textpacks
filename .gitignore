@@ -1,11 +1,13 @@
-.project
-.komodo.kpf
-.settings
 .buildpath
 .DS_Store
 .DS_Store?
+.komodo.kpf
+.nova
+.project
+.settings
 .Spotlight-V100
 .Trashes
+.vscode
 Icon?
 ehthumbs.db
 Thumbs.db
