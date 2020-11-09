@@ -1,5 +1,7 @@
 # Textpattern CMS language files
 
+[![Crowdin](https://badges.crowdin.net/textpattern-cms-textpacks/localized.svg)](https://crowdin.com/project/textpattern-cms-textpacks)
+
 This repository contains Textpacks for [Textpattern CMS](https://textpattern.com). Textpacks are text files containing translated strings, providing internationization support for Textpattern.
 
 ## Contributing
