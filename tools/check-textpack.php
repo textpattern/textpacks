@@ -1,7 +1,7 @@
 <?php
 
 $directory = dirname(__FILE__);
-$compareWith = 'textpattern/lang/en.txt';
+$compareWith = array('textpattern/lang/en.ini', 'textpattern/setup/lang/en.ini', 'textpattern/mode.ini');
 
 $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($directory));
 
@@ -54,17 +54,19 @@ while ($it->valid()) {
 }
 
 // $used now contains all (well, most) used gTxt() strings as keys.
-// Cross-reference those against en-gb.txt to check we have them all defined.
-
-$strings = file($compareWith);
+// Cross-reference those against English textpacks to check we have them all defined.
 $defined = array();
 
-foreach ($strings as $string) {
-    if (strpos($string, '=>') !== false) {
-        $parts = explode('=>', $string);
-        $key = trim($parts[0]);
-        preg_match_all("/\{(.+)\}/iU", $parts[1], $args);
-        $defined[$key] = $args[1];
+foreach ($compareWith as $compare) {
+    $strings = file($compare);
+
+    foreach ($strings as $string) {
+        if (strpos($string, '=') !== false) {
+            $parts = explode('=', $string);
+            $key = trim($parts[0]);
+            preg_match_all("/\{(.+)\}/iU", $parts[1], $args);
+            $defined[$key] = trim($args[1], '"');
+        }
     }
 }
 
