@@ -28,7 +28,7 @@
  * 2. Reindex the setup language files
  * php move-strings.php --dir=../lang-setup
  *
- * 3. Move 'show' and meta' from the admin-side group, and 'css_name' from the css group to the common group, and reindex
+ * 3. Move 'show' and 'meta' from the admin-side group, and 'css_name' from the css group to the common group, and reindex
  * php move-strings.php --keys=admin-side.show,admin-side.meta,css.css_name --to=common
  *
  * 4. Move all the pre-defined role strings from the admin group to the admin-side group, and reindex

@@ -40,7 +40,7 @@ php move-strings.php --dir=../lang-setup
 
 ### Example 3
 
-Move 'show' and meta' from the admin-side group, and 'css_name' from the css group, to the common group. Reindex the strings if necessary.
+Move 'show' and 'meta' from the admin-side group, and 'css_name' from the css group, to the common group. Reindex the strings if necessary.
 
 ```php
 php move-strings.php --keys=admin-side.show,admin-side.meta,css.css_name --to=common
