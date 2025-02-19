@@ -26,7 +26,7 @@
  * php move-strings.php
  *
  * 2. Reindex the setup language files
- * php move-strings.php --dir=lang-setup
+ * php move-strings.php --dir=../lang-setup
  *
  * 3. Move 'show' and meta' from the admin-side group, and 'css_name' from the css group to the common group, and reindex
  * php move-strings.php --keys=admin-side.show,admin-side.meta,css.css_name --to=common
@@ -122,12 +122,12 @@ $directory = dirname(__FILE__);
 $shortopts = '';
 $longopts = array('keys::', 'from::', 'to::', 'dir::');
 $defaults = array(
-    'dir' => 'lang',
+    'dir' => '../lang',
     'to' => '@common', // Skip by default
 );
 
 $options = getopt($shortopts, $longopts) + $defaults;
-$destdir = $directory.'/../'.$options['dir'].'/';
+$destdir = $directory.'/'.$options['dir'].'/';
 
 if (!empty($options['keys']) && empty($options['to'])) {
     die($usage);
