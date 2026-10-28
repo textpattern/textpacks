@@ -4,6 +4,8 @@
 
 This repository contains Textpacks for [Textpattern CMS](https://textpattern.com). Textpacks are text files containing translated strings, providing internationization support for Textpattern.
 
+**Only make changes to the English language files (`en`, `en-gb` and `en-us`), as all other translations are handled via [Crowdin.com](https://crowdin.com/project/textpattern-cms-textpacks).**
+
 ## Contributing
 
 Every translated string makes Textpattern better! **Translation of the project is achieved via [Crowdin](http://translate.textpattern.com/)** - the tools they provide make translating as painless as possible. Please create a Crowdin account (it's free), select the language you want to translate to from the listing (they each show the percentage already completed) and off you go!
